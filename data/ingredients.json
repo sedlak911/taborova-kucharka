@@ -299,6 +299,33 @@
     }
   },
   {
+    "id": "badyan-mlety",
+    "name": "Badyán mletý",
+    "aliases": [
+      "badyán",
+      "hvězdičkový anýz",
+      "star anise"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 337,
+      "protein": 17.6,
+      "carbs": 50.02,
+      "fat": 15.9,
+      "fiber": 14.6
+    },
+    "units": {
+      "lzicka": 2.1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:171316 (Spices, anise seed); badyán v USDA chybí",
+      "units": "USDA SR Legacy portion tsp = 2,1 g"
+    }
+  },
+  {
     "id": "banan",
     "name": "Banán",
     "aliases": [
@@ -3304,6 +3331,32 @@
     }
   },
   {
+    "id": "houby-konzervovane",
+    "name": "Houby konzervované, plátky a kousky",
+    "aliases": [
+      "konzervované žampiony",
+      "žampiony z konzervy",
+      "houby z konzervy",
+      "mushrooms, canned, stems & pieces"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 25,
+      "protein": 1.87,
+      "carbs": 5.09,
+      "fat": 0.29,
+      "fiber": 2.4
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169254 (Mushrooms, canned, drained solids); makra na sušinu bez nálevu",
+      "refuse": "USDA fdc:169254 odpad 0 %"
+    }
+  },
+  {
     "id": "houby-sitake",
     "name": "Houby šitake",
     "aliases": [
@@ -3769,6 +3822,31 @@
       "nutrition": "USDA SR Legacy fdc:170419",
       "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
       "refuse": "USDA SR Legacy fdc:170419 refuse 62%; platí jen pro hrášek v luscích (A.P.), vyloupaný, mražený či konzervovaný se nepřepočítává"
+    }
+  },
+  {
+    "id": "hrasek-mrkev-mrazena",
+    "name": "Hrášek a mrkev mražené (směs)",
+    "aliases": [
+      "mražená směs hrášku a mrkve",
+      "mražený hrášek s mrkví",
+      "peas and carrots, frozen"
+    ],
+    "category": "mrazene",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 53,
+      "protein": 3.4,
+      "carbs": 11.15,
+      "fat": 0.47,
+      "fiber": 3.4
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170425 (Peas and carrots, frozen, unprepared)",
+      "refuse": "bez odpadu (mražená hotová směs)"
     }
   },
   {
@@ -5281,6 +5359,35 @@
     "sources": {
       "nutrition": "náhrada: USDA SR Legacy fdc:172233 (Dill weed, fresh); nakládaný kopr má jiné složení, makra orientační",
       "refuse": "bez odpadu (zdroj: bez nálevu)"
+    }
+  },
+  {
+    "id": "koreni-santa-fe",
+    "name": "Koření Santa Fe",
+    "aliases": [
+      "Sante Fe seasoning",
+      "Santa Fe seasoning",
+      "santa fe koření",
+      "sante fe koření"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 282,
+      "protein": 13.46,
+      "carbs": 49.7,
+      "fat": 14.28,
+      "fiber": 34.8
+    },
+    "units": {
+      "lzice": 8,
+      "lzicka": 2.7
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:171319 (Spices, chili powder); směs chilli, kmín, česnek, oregano a sůl, sůl v tabulce není",
+      "units": "odhad podle chilli prášku (USDA SR Legacy portion tsp = 2,7 g)"
     }
   },
   {
@@ -8067,6 +8174,35 @@
     }
   },
   {
+    "id": "pazitka",
+    "name": "Pažitka",
+    "aliases": [
+      "pažitka čerstvá",
+      "pažitková nať",
+      "chives"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 30,
+      "protein": 3.27,
+      "carbs": 4.35,
+      "fat": 0.73,
+      "fiber": 2.5
+    },
+    "units": {
+      "lzice": 3,
+      "lzicka": 1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169994 (Chives, raw)",
+      "units": "USDA fdc:169994: tbsp nasekané 3 g, tsp 1 g",
+      "refuse": "USDA fdc:169994 odpad 0 %"
+    }
+  },
+  {
     "id": "pekanove-orechy",
     "name": "Pekanové ořechy",
     "aliases": [
@@ -8147,6 +8283,33 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:172416 (Guinea hen, meat and skin, raw)",
       "refuse": "USDA fdc:172416 odpad 17 % (kost); kůže zůstává v hodnotách"
+    }
+  },
+  {
+    "id": "pernik",
+    "name": "Perník",
+    "aliases": [
+      "perník strouhaný",
+      "strouhaný perník",
+      "gingerbread"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 437,
+      "protein": 4.4,
+      "carbs": 74.6,
+      "fat": 13.8,
+      "fiber": 1.7
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:172701 (Cake, gingerbread, dry mix); suchý perník ke strouhání",
+      "refuse": "bez odpadu"
     }
   },
   {
@@ -9480,6 +9643,34 @@
       "nutrition": "USDA SR Legacy fdc:171333 (Spices, rosemary, dried)",
       "units": "USDA fdc:171333 portions",
       "refuse": "USDA fdc:171333 refusePct 0"
+    }
+  },
+  {
+    "id": "rum",
+    "name": "Rum",
+    "aliases": [
+      "rum 40 %",
+      "rum tuzemský",
+      "rum alkohol"
+    ],
+    "category": "napoje",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 231,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 14,
+      "lzicka": 4.6
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174817 (Alcoholic beverage, distilled, rum, 80 proof)",
+      "units": "odhad (hustota ≈ 0,94 g/ml)"
     }
   },
   {
@@ -12179,6 +12370,33 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:170465 (Turnips, raw); Tandoor food-turnip-raw má jiný záznam, použit nejbližší USDA ekvivalent",
       "refuse": "USDA fdc:170465 refusePct 19"
+    }
+  },
+  {
+    "id": "vodnice-susena",
+    "name": "Vodnice sušená",
+    "aliases": [
+      "sušená vodnice",
+      "sušený tuřín",
+      "dehydrated turnips",
+      "turnips, dehydrated"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 363,
+      "protein": 11.66,
+      "carbs": 83.3,
+      "fat": 1.3,
+      "fiber": 23.3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "odvozeno z USDA SR Legacy fdc:170465 (Turnips, raw) × 12,96 (zdroj: 1 lb sušené = 16 lb A.P., jedlá část 81 %); „turnips, dehydrated“ v USDA nenalezeno",
+      "units": "bez hrnku/ks; hmotnost ze zdroje",
+      "refuse": "bez odpadu (sušená vodnice je už oloupaná a nakrájená)"
     }
   },
   {

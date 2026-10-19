@@ -1,0 +1,135 @@
+{
+  "id": "pizza-zakladni",
+  "title": "Pizza základní",
+  "titleOriginal": "Pizza základní (polotovar)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 135,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 240,
+      "unit": "g",
+      "note": "prosátá; trochu na kvásek, zbytek do těsta"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažné"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "zdroj 2 ks na 10 porcí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 20,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "note": "na vyvalování"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 4,
+      "unit": "g",
+      "note": "třený; z 12 g hrubé × 0,43 × 0,87"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 12,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání plechu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrob do trochy vlažného mléka, rozmíchej a přidej trochu prosáté mouky. Vznikne kvásek.",
+      "minutes": 3
+    },
+    {
+      "text": "Kvásek nech dostatečně vykynout.",
+      "minutes": 20
+    },
+    {
+      "text": "Do zbylé prosáté mouky přidej vejce, zbylé vlažné mléko, sůl, olej a vykynutý kvásek. Pečlivě vypracuj hladké těsto.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto nech vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Těsto rozděl na 4 díly, sváli je do bochánků a nech znovu vykynout.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím utři česnek a rozmíchej ho s rajčatovým protlakem.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Troubu předehřej na 230 °C."
+    },
+    {
+      "text": "Bochánky na pomoučené podložce rozválej na kulaté placky vysoké asi 5 mm o průměru asi 15 cm.",
+      "minutes": 12
+    },
+    {
+      "text": "Plech potři olejem, ulož na něj placky a potři je rajčatovým protlakem s česnekem.",
+      "minutes": 5
+    },
+    {
+      "text": "Na placky dej obložení podle zvoleného druhu pizzy (viz poznámka) a peč v rozehřáté troubě do nazlátlé barvy. Podávej teplé.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (1,2 kg hotového výrobku, 1 porce v syrovém stavu 120 g) na 4 porce, faktor 0,4. Je to polotovar: kynuté těsto s rajčatovým protlakem a česnekem, bez dalšího obložení. Navazují na něj receptury 15602 Pizza s vejcem, 15603 Pizza s rajčaty, 15604 Pizza se šunkou a 15605 Pizza se žampiony, které na placky pokládají svoje suroviny. Droždí, sůl, mouka a olej v těstě jsou přepočteny lineárně (pečení je chemie). Vejce: zdroj uvádí 2 ks (80 g) na 10 porcí, tj. 0,8 ks na 4 porce; použij 1 menší vejce. Olej na plech je v původní tabulce jako 20 g oleje navíc. Zdroj neuvádí teplotu ani dobu pečení ani dobu kynutí: 230 °C, 15 minut a časy kynutí jsou odhad podle běžné praxe. Místo jednotlivých placek lze těsto rozválet vcelku na plech a upečenou pizzu nakrájet na porce.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 312,
+    "code": "15601",
+    "titleOriginal": "PIZZA ZÁKLADNÍ (polotovar)"
+  },
+  "verified": true
+}

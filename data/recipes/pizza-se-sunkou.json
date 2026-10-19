@@ -1,0 +1,158 @@
+{
+  "id": "pizza-se-sunkou",
+  "title": "Pizza se šunkou",
+  "titleOriginal": "PIZZA SE ŠUNKOU",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 140,
+  "difficulty": 3,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 240,
+      "unit": "g",
+      "note": "prosátá; část na kvásek",
+      "scaling": "linear",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažné; zdroj mléko konzumní",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "zdroj 2 ks = 80 g na 10 porcí",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 20,
+      "unit": "g",
+      "note": "stolní, do těsta",
+      "scaling": "linear",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "note": "na vyvalování",
+      "scaling": "linear",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 4,
+      "unit": "g",
+      "note": "utřený do protlaku; z 12 g hrubé × 0,43 × 0,87",
+      "group": "Těsto a základ"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 12,
+      "unit": "ml",
+      "note": "stolní, na vymazání plechu; zdroj 20 g",
+      "group": "Těsto a základ",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 200,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Obložení"
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 40,
+      "unit": "g",
+      "note": "zdroj sardelové řezy, 20 řezů na 10 porcí; asi 8 filetů",
+      "group": "Obložení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozdrob do trochy vlažného mléka, rozmíchej, přidej trochu prosáté mouky a připrav kvásek. Nech ho dostatečně vykynout.",
+      "minutes": 15
+    },
+    {
+      "text": "Do zbylé prosáté mouky přidej vejce, zbylé vlažné mléko, sůl, olej do těsta a vykynutý kvásek. Pečlivě vypracuj hladké těsto.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto nech na teplém místě vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Vykynuté těsto rozděl na 4 díly, uválej bochánky a nech je znovu vykynout.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím předehřej troubu na 220 °C.",
+      "parallel": true
+    },
+    {
+      "text": "Bochánky rozválej na menší kulaté placky vysoké asi 5 mm o průměru asi 15 cm.",
+      "minutes": 10
+    },
+    {
+      "text": "Rajčatový protlak ochuť utřeným česnekem a placky jím potři. Placky ulož na plech potřený olejem.",
+      "minutes": 8
+    },
+    {
+      "text": "Na každou placku rozlož plátky šunky a na ně polož ančovičky.",
+      "minutes": 5
+    },
+    {
+      "text": "Pizzy peč v dostatečně vyhřáté troubě do nazlátlé barvy.",
+      "minutes": 18
+    },
+    {
+      "text": "Podávej krátce po upečení, teplé."
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (1 porce 140 g, hotových 1 400 g) na 4 porce, faktor 0,4 (k = 4/10). Zdroj odkazuje na recepturu 15601 PIZZA ZÁKLADNÍ (polotovar); její suroviny jsou ve skupině Těsto a základ a postup je v krocích, přepočtený na 1 200 g základu, které receptura 15604 spotřebuje (celá dávka 15601). Droždí, sůl, mouka, vejce a olej v těstě jsou lineárně; česnek zdroj uvádí 12 g hrubých (odpad 1,2 g), tj. 4 g. Zdroj neuvádí množství mléka do kvásku, rozděl je podle citu. Zdroj neuvádí dobu kynutí, dobu pečení ani teplotu; 45 minut, 25 minut, 220 °C a 18 minut jsou odhad. Sardelové řezy zdroje jsou ančovičky v oleji. Jídelní norma šunky je 50 g na porci; pokud chceš bohatší pizzu, dej 70 až 100 g na porci. Místo jednotlivých placek lze pizzu upéct vcelku na plechu a nakrájet na porce.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 313,
+    "code": "15604",
+    "titleOriginal": "PIZZA SE ŠUNKOU"
+  },
+  "verified": true
+}

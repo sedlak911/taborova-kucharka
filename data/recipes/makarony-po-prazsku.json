@@ -1,0 +1,140 @@
+{
+  "id": "makarony-po-prazsku",
+  "title": "Makarony po pražsku",
+  "titleOriginal": "MAKARÓNY PO PRAŽSKU",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "testoviny",
+      "amount": 400,
+      "unit": "g",
+      "note": "makarony, suché; zdroj 1 000 g, po uvaření 2 400 g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 4000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření makaronů, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 90,
+      "unit": "g",
+      "note": "půlka na zásmažku, půlka na vymazání pekáče",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 90,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "note": "prosátá"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 200,
+      "unit": "ml",
+      "note": "půlka do omáčky, půlka k vejcím"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "zdroj květ mletý (muškátový květ); lze i mletý ořech"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "do omáčky podle chuti"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vysypání pekáče"
+    },
+    {
+      "ingredientId": "eidam",
+      "amount": 40,
+      "unit": "g",
+      "note": "strouhaný; zdroj sýr tvrdý (moravský bochník)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zdroj 5 ks, rozšlehaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď k varu 4 l vody a osol ji.",
+      "minutes": 15
+    },
+    {
+      "text": "Makarony rozlámej na menší kousky, vsyp je do vařící vody a za stálého míchání uvař do měkka.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím z poloviny másla a prosáté mouky připrav světlou zásmažku, ochuť ji mletým květem, zalij polovinou mléka, rozmíchej a povař na hustou omáčku.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Uvařené makarony scedi, propláchni studenou vodou a nech na sítu okapat.",
+      "minutes": 3
+    },
+    {
+      "text": "Vymaž pekáč zbylým máslem a vysypej strouhankou. Makarony promíchej s omáčkou, osol, urovnej do pekáče a posyp strouhaným sýrem.",
+      "minutes": 8
+    },
+    {
+      "text": "Vlož do mírně vyhřáté trouby (asi 180 °C) a zapékej do prvního zezlatnutí.",
+      "minutes": 20
+    },
+    {
+      "text": "Rozšlehej vejce se zbylým mlékem, zalij jimi makarony a dopékej dozlatova.",
+      "minutes": 15
+    },
+    {
+      "text": "Krájej na čtverce a podávej."
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3 kg hotového pokrmu, porce 300 g) na 4 porce, faktor 0,4. Makarony: zdroj 1 000 g suchých, po uvaření 2 400 g (odpad „vařením“ je přírůstek vody). Voda na vaření je domácí hodnota (4 l na 400 g, slije se); sůl 30 g ze zdroje je rozdělena na 8 g do vody a 6 g do omáčky (přepočet jako koření). Margarín (zdroj 200 g, 90 g na 4 porce) nahrazen máslem; zdroj dělí tuk na polovinu do zásmažky a polovinu na vymazání pekáče. Mléko 500 g ze zdroje: polovina do omáčky, polovina k vejcím (kniha uvádí jen „polovinu“ a „vejce s mlékem“). Vejce: zdroj 5 ks = 200 g (40 g/ks), tedy 2 ks. Sýr moravský bochník nahrazen eidamem. Teplotu trouby kniha neuvádí (jen „mírně vyhřátá“), 180 °C je odhad. Vhodné doplňky: kyselá okurka, jemnější zeleninové saláty. Jako hlavní jídlo vychází porce 300 g z 10 porcí; pro hladové počítej o třetinu víc.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 491,
+    "code": "19403",
+    "titleOriginal": "MAKARÓNY PO PRAŽSKU"
+  },
+  "verified": true
+}

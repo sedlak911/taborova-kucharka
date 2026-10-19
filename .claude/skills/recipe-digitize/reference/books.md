@@ -78,6 +78,8 @@ Jedna karta = jedna až dvě stránky PDF, pevný tvar (viz `afrs-card.md`). Kó
 - Receptura = číslo (`10107`, varianta `13001/B`) → `source.code`; `source.titleOriginal` = název velkými jako v knize („POLÉVKA ZELENINOVÁ“). Výtěžek **10 porcí** (`originalYield: 10`, k = 0,4), u polévky „1 porce: 0,33 l“ = vstup `--portion` pro `check:recipe`.
 - Tabulka **Hmotnost v g: hrubá | odpad | čistá** – přepočítávej sloupec **hrubá** (nákupní množství); u zeleniny (brambory, cibule, česnek, kořenová) zapiš do řádku jedlou hmotnost = hrubá × 0,4 × `ediblePortion` suroviny (`ingredients.md` §A.P., aplikace odpad u zeleniny neodečítá), `note` „z <X> g hrubé × <ediblePortion>“. „Ztráty celkem“ a „Množství hotové polévky“ jsou kontrola bilance.
 - Odkaz „Vývar B, receptura č. 10101“ = `hovezi-vyvar` (C = `kureci-vyvar`); „Polévkové koření“ (tekuté, typ Maggi) zatím v katalogu chybí – založ jednou společnou surovinou, „Květ mletý“ = muškátový květ (`muskatovy-orisek` + `note`); margarín → máslo/olej do `original`.
+- Vejce: kniha uvádí počet kusů i gramy po 40 g/ks („2 ks … 80 g“) → do receptu **počet kusů × 0,4** (na 0,05 ks), `note` „zdroj N ks“, ne gramy/50.
+- Jídelní norma masa (60–65 g/porci) se nenavyšuje; do `modernNote` doporučení „jako hlavní jídlo počítej 120–150 g masa na osobu“.
 - Čísla jsou přesná (gramy) → `verified: true` po ověření proti obrázku.
 
 ## Přidání nové knihy

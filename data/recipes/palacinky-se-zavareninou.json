@@ -1,0 +1,103 @@
+{
+  "id": "palacinky-se-zavareninou",
+  "title": "Palačinky se zavařeninou",
+  "titleOriginal": "PALAČINKY SE ZAVAŘENINOU",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "note": "zdroj 3 ks"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "mírně"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "polohruba-mouka",
+      "amount": 100,
+      "unit": "g",
+      "note": "prosátá"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 65,
+      "unit": "g",
+      "note": "na vytírání pánve a do těsta; zdroj margarín",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 65,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "dzem",
+      "amount": 80,
+      "unit": "g",
+      "note": "zdroj džem; zavařenina"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce pečlivě rozmíchej, mírně osol a rozřeď mlékem.",
+      "minutes": 3
+    },
+    {
+      "text": "Za stálého prošlehávání přisypávej prosátou polohrubou mouku, až vznikne hladké těstíčko.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi vytřené tukem peč z těsta tenké palačinky po obou stranách do růžova.",
+      "minutes": 20
+    },
+    {
+      "text": "Horké palačinky tence potři džemem a svinuj je nebo je slož.",
+      "minutes": 5
+    },
+    {
+      "text": "Posyp je prosátým moučkovým cukrem a podávej.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (1 000 g hotových palačinek, porce 100 g = 2 palačinky) na 4 porce, faktor 0,4 (tuk 0,44). Vejce: zdroj 3 ks (120 g), tedy 1,2 ks na 4 porce; prakticky 1 větší vejce. Margarín (150 g na 10 porcí) nahrazen máslem; zdroj ho udává jen na vytírání pánví, takže 65 g je spíše horní mez, na pánev stačí méně (asi 20 g) a zbytek lze rozpustit do těsta. Zdroj mouka polohrubá. Zavařenina: džem, jaký máš doma (meruňkový, švestkový). Porce zdroje jsou 2 palačinky; z 200 ml mléka a 100 g mouky vyjde asi 8 palačinek na 4 porce.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 522,
+    "code": "19506",
+    "titleOriginal": "PALAČINKY SE ZAVAŘENINOU"
+  },
+  "verified": true
+}

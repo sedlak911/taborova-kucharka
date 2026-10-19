@@ -1,0 +1,170 @@
+{
+  "id": "dukatove-buchticky-se-sodo",
+  "title": "Dukátové buchtičky se šodó",
+  "titleOriginal": "Dukátové buchtičky se šodó",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 155,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce",
+    "siricitany"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 18,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "cukr krupice",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "vlažné"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 480,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "prosátá"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "zdroj 3 ks (120 g)"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 9,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "jemně nastrouhaná z omytého citronu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear",
+      "note": "zdroj 20 g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 140,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "rozpuštěné vlažné; na těsto, promašťování vrstev i potření",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 140,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Šodó",
+      "note": "zdroj 10 ks (200 g)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "group": "Šodó",
+      "note": "cukr krupice",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "bile-vino",
+      "amount": 320,
+      "unit": "ml",
+      "group": "Šodó",
+      "note": "zdroj 8 dl"
+    },
+    {
+      "ingredientId": "vanilkovy-cukr",
+      "amount": 5,
+      "unit": "g",
+      "group": "Šodó",
+      "note": "zdroj vanilínový cukr"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej s trochou cukru z dávky na těsto a s trochou vlažného mléka. Přidej trochu prosáté mouky a promíchej na řídké těstíčko.",
+      "minutes": 5
+    },
+    {
+      "text": "Kvásek nech na teple vykynout.",
+      "minutes": 15
+    },
+    {
+      "text": "Do zbylé prosáté mouky (trochu odlož na vyválení) přidej vejce, zbylý cukr, citronovou kůru, sůl, rozpuštěné vlažné máslo (asi polovinu si nech na promašťování), zbylé vlažné mléko a vykynutý kvásek. Vypracuj hladké těsto.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto nech dostatečně vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Těsto rozválej na silnější válečky o průměru 1,5 až 2 cm, nakrájej je na dílky a skládej je ve vrstvách do vymazaného pekáče. Dílky i vrstvy promašťuj rozpuštěným máslem.",
+      "minutes": 15
+    },
+    {
+      "text": "Buchtičky nech v pekáči znovu vykynout.",
+      "minutes": 30
+    },
+    {
+      "text": "Předehřej troubu na středně vyhřátou (asi 180 °C). Povrch buchtiček potři máslem a peč do červena.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím rozšlehej žloutky s cukrem, zalij je vínem a nahřívej za stálého šlehání ve vodní lázni, dokud nezhoustne. Nesmí se vařit, žloutky by se srazily.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Do hotového šodó lehce zamíchej vanilkový cukr.",
+      "minutes": 1
+    },
+    {
+      "text": "Teplé buchtičky přelij horkým šodó a ihned podávej."
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3 000 g hotového výrobku, porce 300 g, z toho 200 g buchtiček a 100 g šodó) na 4 porce, faktor 0,4. Těsto je ze základní receptury 19607 (Dukátové buchtičky s vanilkovým krémem, s. 584); varianta /A mění jen krém za šodó, proto jsou jeho suroviny z 19607 rozepsány zde a vanilkový krém se neděluje. Margarín 350 g zdroje je v těstě i na promašťování, nahrazen máslem (original margarín). Vejce: zdroj uvádí 3 ks (120 g), tedy 1,2 ks; žloutky 10 ks a 200 g (4 ks při 20 g). Kůra z citronu je přepočtena jako aroma (zdroj 20 g, tedy 9 g), sůl v těstě lineárně (zdroj 20 g, tedy 8 g; dochuť dle chuti, je to při 480 g mouky horní mez). Vanilínový cukr = vanilkový cukr. Doby kynutí, pečení (180 °C, 30 minut) a nahřívání šodó zdroj neuvádí, jsou odhad; šodó rychle ztrácí napěnění, proto ho připravuj těsně před podáváním. Šodó (víno, žloutky) není pro děti a řidiče, víno se při nahřívání zcela nevypaří.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 549,
+    "code": "19607/A",
+    "titleOriginal": "DUKÁTOVÉ BUCHTIČKY SE ŠODÓ"
+  },
+  "verified": true
+}

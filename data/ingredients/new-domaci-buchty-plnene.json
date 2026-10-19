@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pernik",
+    "name": "Perník",
+    "aliases": ["perník strouhaný", "strouhaný perník", "gingerbread"],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": { "kcal": 437, "protein": 4.4, "carbs": 74.6, "fat": 13.8, "fiber": 1.7 },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": ["lepek"],
+    "sources": { "nutrition": "náhrada: USDA SR Legacy fdc:172701 (Cake, gingerbread, dry mix); suchý perník ke strouhání", "refuse": "bez odpadu" }
+  },
+  {
+    "id": "rum",
+    "name": "Rum",
+    "aliases": ["rum 40 %", "rum tuzemský", "rum alkohol"],
+    "category": "napoje",
+    "scaling": "aromatic",
+    "nutritionPer100g": { "kcal": 231, "protein": 0, "carbs": 0, "fat": 0, "fiber": 0 },
+    "units": { "lzice": 14, "lzicka": 4.6 },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": { "nutrition": "USDA SR Legacy fdc:174817 (Alcoholic beverage, distilled, rum, 80 proof)", "units": "odhad (hustota ≈ 0,94 g/ml)" }
+  },
+  {
+    "id": "badyan-mlety",
+    "name": "Badyán mletý",
+    "aliases": ["badyán", "hvězdičkový anýz", "star anise"],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": { "kcal": 337, "protein": 17.6, "carbs": 50.02, "fat": 15.9, "fiber": 14.6 },
+    "units": { "lzicka": 2.1 },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": { "nutrition": "náhrada: USDA SR Legacy fdc:171316 (Spices, anise seed); badyán v USDA chybí", "units": "USDA SR Legacy portion tsp = 2,1 g" }
+  }
+]

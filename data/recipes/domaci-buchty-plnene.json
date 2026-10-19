@@ -1,0 +1,265 @@
+{
+  "id": "domaci-buchty-plnene",
+  "title": "Domácí buchty plněné",
+  "titleOriginal": "Domácí buchty plněné",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 180,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 20,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "note": "trochu na kvásek, zbytek do těsta",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 280,
+      "unit": "ml",
+      "note": "vlažné; trochu na kvásek, zbytek do těsta",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 600,
+      "unit": "g",
+      "note": "prosátá; trochu do kvásku a trochu na vyválení",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "zdroj 3 ks (120 g)"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 9,
+      "unit": "g",
+      "note": "jemně nastrouhaná z pečlivě omytého citrónu",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "rozpuštěné, vlažné; asi 2/3 do těsta, zbytek na vymaštění pekáče a potření buchet",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 100,
+        "unit": "g"
+      },
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "mak",
+      "amount": 55,
+      "unit": "g",
+      "note": "jemně mletý",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 20,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredientId": "pernik",
+      "amount": 16,
+      "unit": "g",
+      "note": "strouhaný",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 4,
+      "unit": "g",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 4,
+      "unit": "g",
+      "note": "opláchnuté, spařené a okapané",
+      "group": "Maková náplň"
+    },
+    {
+      "ingredientId": "povidla",
+      "amount": 100,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 8,
+      "unit": "ml",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 12,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredientId": "rum",
+      "amount": 4,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredientId": "badyan-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "group": "Povidlová náplň"
+    },
+    {
+      "ingredientId": "tvaroh",
+      "amount": 80,
+      "unit": "g",
+      "note": "měkký",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.2,
+      "unit": "ks",
+      "group": "Tvarohová náplň",
+      "note": "zdroj 1/2 ks (20 g)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 30,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "čerstvě nastrouhaný",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 4,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 8,
+      "unit": "g",
+      "note": "opláchnuté, spařené a okapané",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 40,
+      "unit": "g",
+      "note": "na posypání hotových buchet",
+      "group": "Podání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí promíchej s trochou cukru, rozmíchej s malým množstvím vlažného mléka a přidej trochu prosáté mouky. Míchej do řídkého těstíčka (kvásku) a nech ho na teplém místě vykynout.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím mák nasyp do vařícího mléka a za občasného míchání zvolna vař do zhoustnutí. Přidej cukr, strouhaný perník, citronovou kůru a rozinky, krátce povař a nech vychladnout.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Povidla rozmíchej s vodou, přidej moučkový cukr, rum a mletý badyán.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Tvaroh rozmíchej nebo prolisuj, přidej vejce, cukr, muškátový oříšek, citronovou kůru a rozinky a promíchej.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Zbylou prosátou mouku dej do mísy (trochu odlož na vyválení). Přidej vejce, zbylý cukr, citronovou kůru, sůl, asi 2/3 rozpuštěného vlažného másla, zbylé vlažné mléko a vykynutý kvásek. Vypracuj hladké těsto.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto nech na teplém místě dostatečně vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Těsto rozválej na slabší plát a nakrájej na čtverce asi 4×4 cm.",
+      "minutes": 15
+    },
+    {
+      "text": "Na každý čtverec dej trochu makové, povidlové nebo tvarohové náplně a těsto pečlivě zabal.",
+      "minutes": 15
+    },
+    {
+      "text": "Buchty skládej do pekáče vymaštěného zbylým máslem.",
+      "minutes": 5
+    },
+    {
+      "text": "Naplněné buchty nech v pekáči vykynout.",
+      "minutes": 30
+    },
+    {
+      "text": "Povrch buchet potři máslem a upeč je ve středně vyhřáté troubě (180 °C) dozlatova do červena.",
+      "minutes": 25
+    },
+    {
+      "text": "Po mírném prochladnutí buchty vyklop a posyp moučkovým cukrem. Podávej ještě teplé.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj: receptura 19608, dávka 10 porcí (1 porce 300 g = 6 buchet; hotový výrobek 3 000 g z 3 860 g hrubé hmotnosti). Pro 4 porce: asi 1 200 g hotových buchet, tj. 24 buchet. Tři náplně jsou v recepturách 19517 (maková), 19529 (povidlová) a 19516 (tvarohová); kniha jich dává po 300 g (jedna celá dávka každé), proto jsou zapsány v plném množství jako skupiny a postup je zkrácený na to, co buchty potřebují. Každou náplň můžeš použít zvlášť a třetinu buchet plnit jednou, druhou třetinu jinou. Margarín je nahrazen máslem (stejné množství); zdroj uvádí margarín 250 g na 10 porcí a nerozlišuje, kolik jde do těsta a kolik na vymaštění a potření (zde 2/3 do těsta). Doby kynutí a vaření máku zdroj neuvádí, jsou odhad; kvásek a kynutí kontroluj podle objemu těsta. Zdroj dává do těsta 3 vejce (120 g), tedy 1,2 ks, a do tvarohové náplně 1/2 vejce (20 g), tedy 0,2 ks; v praxi 1 větší vejce do těsta a zbytek rozšlehaného vejce do tvarohu. Trochu cukru jde do kvásku, zbytek do těsta: zdroj množství nedělí. Perník strouhaný je nová surovina (USDA náhrada suchou směsí), rum 4 g na 4 porce lze vynechat, badyán je nahrazen údaji pro anýzová semena. Na 4 porce je to velká dávka (6 buchet na porci); jako moučník podle zdroje 19515 stačí 2 buchty (třetina porce).",
+  "source": {
+    "book": "receptury-1983",
+    "page": 549,
+    "code": "19608",
+    "titleOriginal": "DOMÁCÍ BUCHTY PLNĚNÉ"
+  },
+  "verified": true
+}

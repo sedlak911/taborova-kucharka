@@ -1,0 +1,29 @@
+[
+  {
+    "id": "svestky",
+    "name": "Švestky",
+    "aliases": [
+      "švestky čerstvé",
+      "švestka",
+      "plums"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 46,
+      "protein": 0.7,
+      "carbs": 11.42,
+      "fat": 0.28,
+      "fiber": 1.4
+    },
+    "units": {
+      "ks": 66
+    },
+    "ediblePortion": 0.94,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169949 (Plums, raw)",
+      "refuse": "USDA fdc:169949 odpad 6 % (pecky)"
+    }
+  }
+]

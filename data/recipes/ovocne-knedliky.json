@@ -1,0 +1,152 @@
+{
+  "id": "ovocne-knedliky",
+  "title": "Ovocné (švestkové) knedlíky",
+  "titleOriginal": "Švestkové knedlíky",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 80,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 240,
+      "unit": "ml",
+      "note": "zdroj mléko konzumní",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 16,
+      "unit": "g",
+      "note": "zdroj margarín",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 16,
+        "unit": "g"
+      },
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "hruba-mouka",
+      "amount": 360,
+      "unit": "g",
+      "note": "prosátá; trochu si odlož na vyvalování",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "zdroj 2 ks (80 g) na 10 porcí; rozšlehej a použij asi 4/5 vejce",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "zdroj 20 g: do těsta a do vody na vaření; dochuť opatrně",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "svestky",
+      "amount": 560,
+      "unit": "g",
+      "note": "čerstvé, opláchnuté a otřené; zdroj odpad neuvádí",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "na vaření knedlíků, slije se",
+      "scaling": "vessel",
+      "group": "Vaření"
+    },
+    {
+      "ingredientId": "tvaroh",
+      "amount": 160,
+      "unit": "g",
+      "note": "tvrdý, jemně nastrouhaný",
+      "group": "Sypání a maštění"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "group": "Sypání a maštění"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 130,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj 300 g",
+      "group": "Sypání a maštění"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď mléko k varu, přidej máslo a mírně osol.",
+      "minutes": 8
+    },
+    {
+      "text": "Zasyp prosátou hrubou moukou (trochu si odlož na vyvalování) a za stálého míchání vař, až se těsto částečně odpaří a přestane lepit na stěny hrnce.",
+      "minutes": 6
+    },
+    {
+      "text": "Odpařené těsto občas promíchej a nech prochladnout.",
+      "minutes": 20
+    },
+    {
+      "text": "Do prochladlého těsta zapracuj vejce a propracuj, až je těsto hladké a tažné.",
+      "minutes": 5
+    },
+    {
+      "text": "Těsto na pomoučeném vále rozvaluj na tenký plát a nakrájej na čtverce asi 4x4 cm.",
+      "minutes": 12
+    },
+    {
+      "text": "Na každý čtverec polož opláchnutou a otřenou švestku a pečlivě sbal knedlík.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím přiveď ve velkém hrnci k varu mírně osolenou vodu.",
+      "minutes": 12,
+      "parallel": true
+    },
+    {
+      "text": "Knedlíky vkládej do vařící vody a zvolna je vař. Krátce po zavaření je opatrně promíchej, aby se nepřichytily ke dnu.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím rozpusť máslo a nastrouhej tvaroh.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Okapané knedlíky posyp jemně nastrouhaným tvarohem a moučkovým cukrem a přelij rozpuštěným máslem."
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (hotových 3 400 g, porce 340 g včetně sypání a maštění) na 4 porce, faktor 0,4. Zdroj uvádí základní recepturu 19611 (odpalované těsto z hrubé mouky); varianty 19611/A (z bramborového přípravku), /B a /C jsou jiné. Hrubá mouka je v katalogu hruba-mouka (vzhledem k odpalovanému těstu jde o hrubou mouku, ne o krupici ani hladkou). Margarín je nahrazen máslem (zdroj margarín 16 g). Vejce: zdroj 2 ks (80 g) na 10 porcí, tedy 0,8 ks; rozšlehej celé vejce a použij asi čtyři pětiny. Švestky: zdroj odpad neuvádí a čistá hmotnost je stejná jako hrubá (1 400 g), proto řádek drží 560 g; peckované švestky nabalí víc, kdo chce, může přidat. Voda na vaření je domácí hodnota (slévá se), sůl 8 g (20 g zdroje × 0,4, lineárně jako sůl v těstě) je na 240 ml mléka a 2 l vody spíš na horní hranici, dochuť opatrně. Sypání a maštění (tvaroh, cukr, máslo) je podle zdroje 300 g cukru a 300 g másla na 10 porcí (máslo jako tuk 130 g, cukr 120 g); můžeš ho snížit. Jako sladké hlavní jídlo počítej 4 porce po 5-6 knedlících.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 552,
+    "code": "19611",
+    "titleOriginal": "ŠVESTKOVÉ KNEDLÍKY"
+  },
+  "verified": true
+}

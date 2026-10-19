@@ -1,0 +1,165 @@
+{
+  "id": "bramborove-sisky-s-houskou",
+  "title": "Bramborové šišky s houskou",
+  "titleOriginal": "Bramborové šišky s houskou",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 90,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "vařené ve slupce a vychladlé; z 2 200 g hrubé × 0,4 × 0,8",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na uvaření brambor, slije se",
+      "scaling": "vessel",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 12,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear",
+      "note": "zdroj 30 g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "zdroj 2 ks (80 g) na 10 porcí; rozšlehej a použij asi 4/5 vejce",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "krupice-psenicna",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "hruba-mouka",
+      "amount": 200,
+      "unit": "g",
+      "note": "prosátá; asi 20 g si odlož na vyvalování",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 3000,
+      "unit": "ml",
+      "note": "na vaření šišek, slije se",
+      "scaling": "vessel",
+      "group": "Vaření šišek"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel",
+      "group": "Vaření šišek"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 200,
+      "unit": "g",
+      "note": "strouhaná houska, osmažená na sucho",
+      "group": "Posypání"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na posypání",
+      "group": "Posypání"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 130,
+      "unit": "g",
+      "note": "rozpuštěné, na přelití",
+      "group": "Posypání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce v osolené vodě do měkka.",
+      "minutes": 30
+    },
+    {
+      "text": "Brambory nech vychladnout, oloupej je a umelj nebo jemně nastrouhej.",
+      "minutes": 15
+    },
+    {
+      "text": "Do brambor přidej sůl, vejce, krupici a prosátou hrubou mouku (asi 20 g odlož na vyvalování) a propracuj tužší těsto.",
+      "minutes": 5
+    },
+    {
+      "text": "Z těsta vyválej silnější prameny, rozkrájej je na dílky a z nich vyvaluj menší tenké šišky.",
+      "minutes": 15
+    },
+    {
+      "text": "Zatímco válíš, přiveď osolenou vodu v dostatečně velkém hrnci k varu.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Šišky vkládej do vroucí mírně osolené vody a zvolna vař. Krátce po zavaření je lehce zamíchej, aby se nepřichytily ke dnu.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím strouhanku osmahni na sucho na suché pánvi dozlatova a v malém hrnku rozpusť máslo.",
+      "minutes": 6,
+      "parallel": true
+    },
+    {
+      "text": "Uvařené, okapané šišky obal v osmahnuté strouhance.",
+      "minutes": 3
+    },
+    {
+      "text": "Šišky posyp moučkovým cukrem a přelij rozpuštěným máslem.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej hned, teplé."
+    }
+  ],
+  "modernNote": "Zdroj: receptura 19625, dávka 10 porcí (1 porce 360 g, asi 15 šišek, včetně sypání a maštění; hotový výrobek 3 600 g ze 4 160 g hrubé hmotnosti). Pro 4 porce: asi 1 440 g hotových šišek. Voda na vaření brambor a šišek je domácí hodnota (slévá se), stejně jako sůl do ní; zdroj množství vody neuvádí. Sůl v těstě je lineárně podle zdroje (30 g na 10 porcí, tedy 12 g). Brambory: 2 200 g hrubé × 0,4 × 0,8 (jedlá část podle katalogu; zdroj odpad 20 %) = 700 g. Vejce: zdroj 80 g (údaj „2 ks“) na 10 porcí, tedy 0,8 vejce na 4 porce; rozšlehej celé vejce a použij čtyři pětiny. Mouka a krupice jsou zapsány podle zdroje (krupice 250 g, hrubá mouka 500 g na 10 porcí). Posypání (strouhaná houska = strouhanka, moučkový cukr, rozpuštěné máslo) je podle zdroje; množství cukru a másla zahrnuje sypání a maštění v porci 360 g. Sůl: zdroj dává 30 g na 10 porcí, tj. asi 3,5 g na porci; dej na začátku polovinu a dosol podle chuti (nález check:recipe „sůl mimo rozsah“ odpovídá zdroji). Brambory dobře odpařené a vychladlé, jinak se těsto lepí. Vhodné jako sladké hlavní jídlo nebo moučník.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 560,
+    "code": "19625",
+    "titleOriginal": "BRAMBOROVÉ ŠIŠKY S HOUSKOU"
+  },
+  "verified": true
+}

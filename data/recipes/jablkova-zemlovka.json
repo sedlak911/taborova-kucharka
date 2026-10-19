@@ -1,0 +1,127 @@
+{
+  "id": "jablkova-zemlovka",
+  "title": "Jablková žemlovka",
+  "titleOriginal": "Jablková žemlovka",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zemle-bila",
+      "amount": 480,
+      "unit": "g",
+      "note": "bílá veka, oloupaná, nakrájená na plátky",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 480,
+      "unit": "ml",
+      "note": "konzumní",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "zdroj 2 ks (80 g); rozmíchané v mléce",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 90,
+      "unit": "g",
+      "note": "rozpuštěné; třetina na vymazání, třetina mezi vrstvy, třetina navrch",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 360,
+      "unit": "g",
+      "note": "z 400 g hrubé × 0,9; oloupaná, na plátky",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 100,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.92,
+      "unit": "g",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 12,
+      "unit": "g",
+      "note": "opláchnuté a spařené",
+      "group": "Žemlovka"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Veku oloupej a nakrájej na plátky. Jablka oloupej, zbav jádřinců a nakrájej na plátky.",
+      "minutes": 10
+    },
+    {
+      "text": "Rozinky opláchni a spař vodou. Mléko rozmíchej s vejcem, zalij plátky veky a nech vsáknout.",
+      "minutes": 15
+    },
+    {
+      "text": "Zapni troubu na 180 °C. Pekáč vymaž třetinou rozpuštěného másla.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Do pekáče naskládej po celé ploše polovinu namočených plátků veky. Pokryj je jablky se skořicí, cukrem a rozinkami a pokapej další třetinou másla.",
+      "minutes": 10
+    },
+    {
+      "text": "Jablka přikryj zbylou namočenou vekou a pokapej zbylým máslem.",
+      "minutes": 5
+    },
+    {
+      "text": "Pekáč vlož do většího pekáče s vodou. Žemlovku přikryj papírem na pečení nebo alobalem, aby se na povrchu neutvořila kůrka, a peč asi 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Upečenou žemlovku nakrájej na porce a posyp moučkovým cukrem.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj: 19471, dávka 10 porcí (1 porce 300 g; hotový výrobek 3 000 g z 4 012 g hrubé hmotnosti). Pro 4 porce: 1 200 g hotové žemlovky. Bílá veka ze zdroje = `zemle-bila` (odpad 60 g je kůrka, v katalogu ji nepočítáme); lze nahradit 8 starými rohlíky. Zdroj uvádí vejce 2 ks (80 g) na 10 porcí; pro 4 porce vychází 0,8 ks, prakticky 1 menší vejce. Jablka: 1 000 g hrubé × 0,4 × 0,9 (jedlá část podle katalogu) = 360 g; zdroj počítá odpad 35 % (čistá hmotnost 650 g, tj. 260 g na 4 porce), proto jedlá část vychází vyšší, než kniha počítá. Máslo (tuk, 90 g) se dělí na třetiny (cca 30 g): vymazání, mezi vrstvy, navrch. Cukr a skořice jsou ve zdroji jen v tabulce, ne v postupu; přidány k jablkům. Vodní lázeň (pekáč v pekáči) zajistí vláčnost; doma stačí pekáč přikrytý alobalem.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 514,
+    "code": "19471",
+    "titleOriginal": "JABLKOVÁ ŽEMLOVKA"
+  },
+  "verified": true
+}
