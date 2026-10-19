@@ -88,3 +88,16 @@ test('editorRouteFromHash: jen routy formuláře', () => {
   expect(editorRouteFromHash('#/nesmysl')).toBeNull()
   expect(editorRouteFromHash('')).toBeNull()
 })
+
+test('indexToRoute: prázdná strana před kapitolou ukazuje na kapitolu (dvoustrana [prázdná | kapitola])', () => {
+  const withBlank: LayoutLike = {
+    ...layout,
+    entries: [
+      { kind: 'cover' }, { kind: 'toc' },
+      { kind: 'chapter', chapter: 'polevky' }, { kind: 'recipe', recipeId: 'kulajda', chapter: 'polevky' }, { kind: 'recipe', recipeId: 'kulajda', chapter: 'polevky' },
+      { kind: 'blank' }, { kind: 'chapter', chapter: 'sladke' }, { kind: 'cart' },
+    ],
+  }
+  expect(indexToRoute(5, withBlank)).toEqual({ kind: 'chapter', id: 'sladke' })
+  expect(indexToRoute(4, withBlank)).toEqual({ kind: 'recipe', id: 'kulajda' })
+})

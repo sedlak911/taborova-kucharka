@@ -13,6 +13,11 @@ export interface Filter {
 
 export const EMPTY_FILTER: Filter = { tags: [], equipment: [], books: [], favoritesOnly: false, query: '' }
 
+/** Filtr něco omezuje (pak platí i pro listování knihou a hledání). */
+export function isFilterActive(filter: Filter): boolean {
+  return filter.tags.length > 0 || filter.equipment.length > 0 || filter.books.length > 0 || filter.favoritesOnly || filter.query.trim() !== ''
+}
+
 /** Značky uživatele u receptů (srdíčko, hrnec). */
 export interface UserMarks {
   favorites: ReadonlySet<string>

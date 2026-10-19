@@ -1,6 +1,6 @@
 import { memo, useCallback, useEffect, useRef, useState, type ReactNode } from 'react'
 import { Page, type PageSide, type PageTone } from './Page'
-import { canGoNext, canGoPrev, clampIndex, nextIndex, prevIndex, visiblePages, type ViewMode } from './model'
+import { canStep, clampIndex, stepIndex, visiblePages, type ViewMode } from './model'
 import { flipShadowOpacity, flipTransform, type FlipDirection } from './flip'
 import { useFlipDrag } from './useFlipDrag'
 import { useViewMode } from './useViewMode'
@@ -33,9 +33,11 @@ interface BookProps {
   mode?: ViewMode
   /** Neviditelný obsah o rozměru jedné stránky pro měření (obsah knihy, R9); aria-hidden a inert. */
   measure?: ReactNode
+  /** Stránky, které listování přeskakuje (recepty mimo filtr obsahu); skok na ně odkazem dál funguje. */
+  hidden?: (page: number) => boolean
 }
 
-export function Book({ pages, initialIndex = 0, index: controlledIndex, onIndexChange, mode: modeProp, measure }: BookProps) {
+export function Book({ pages, initialIndex = 0, index: controlledIndex, onIndexChange, mode: modeProp, measure, hidden }: BookProps) {
   const ownMode = useViewMode(modeProp !== undefined)
   const mode = modeProp ?? ownMode
   const count = pages.length
@@ -75,16 +77,15 @@ export function Book({ pages, initialIndex = 0, index: controlledIndex, onIndexC
   const indexRef = useRef(index)
   const flipRef = useRef<unknown>(null)
 
-  const canNext = canGoNext(index, count, mode)
-  const canPrev = canGoPrev(index)
+  const canNext = canStep(index, 'next', count, mode, hidden)
+  const canPrev = canStep(index, 'prev', count, mode, hidden)
   // posun vychází z refu (ne z uzavřeného indexu), aby onComplete nikdy neviděl zastaralou hodnotu
   const advance = useCallback(
     (dir: FlipDirection) => {
       const i = indexRef.current
-      if (dir === 'next' && canGoNext(i, count, mode)) setIndex(nextIndex(i, count, mode))
-      if (dir === 'prev' && canGoPrev(i)) setIndex(prevIndex(i, mode))
+      if (canStep(i, dir, count, mode, hidden)) setIndex(stepIndex(i, dir, count, mode, hidden))
     },
-    [count, mode, setIndex],
+    [count, mode, hidden, setIndex],
   )
   const { flip, start, handlers } = useFlipDrag({ pageWidth, canNext, canPrev, onComplete: advance })
   useEffect(() => {
@@ -130,7 +131,7 @@ export function Book({ pages, initialIndex = 0, index: controlledIndex, onIndexC
 
   const current = visiblePages(index, count, mode)
   // cílová dvoustrana (kam otáčení vede)
-  const targetIndex = flip ? (flip.direction === 'next' ? nextIndex(index, count, mode) : prevIndex(index, mode)) : index
+  const targetIndex = flip ? stepIndex(index, flip.direction, count, mode, hidden) : index
   const base = visiblePages(targetIndex, count, mode)
   // stránky ve slotech „pod“ otáčeným listem: neotáčená polovina zůstává, otáčená odkrývá cíl
   const under: (number | null)[] = !flip

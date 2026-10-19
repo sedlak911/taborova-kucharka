@@ -1,6 +1,7 @@
 import { render, screen, fireEvent } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { loadContent } from '@/content/loadContent'
+import { EMPTY_FILTER } from '@/content/search'
 import { SearchOverlay } from './SearchOverlay'
 
 const { recipes, ingredients } = loadContent()
@@ -55,4 +56,23 @@ test('shoda v názvu receptu je před shodou v surovinách', async () => {
   fireEvent.click(screen.getByRole('button', { name: 'Hledat' }))
   await userEvent.type(screen.getByRole('searchbox'), 'gulas{Enter}')
   expect(onNavigate).toHaveBeenCalledWith({ kind: 'recipe', id: 'hovezi-gulas' })
+})
+
+test('se zapnutým filtrem z obsahu hledá jen ve filtrovaných receptech; „Hledat ve všech“ filtr pro hledání vypne', async () => {
+  const filter = { ...EMPTY_FILTER, favoritesOnly: true }
+  render(<SearchOverlay recipes={recipes} ingredients={ingredients} filter={filter} favorites={new Set(['cockova-polevka'])} onNavigate={vi.fn()} />)
+  fireEvent.click(screen.getByRole('button', { name: 'Hledat' }))
+  expect(screen.getByText(/jen v receptech podle filtru/)).toBeInTheDocument()
+  await userEvent.type(screen.getByRole('searchbox'), 'polevka')
+  expect(screen.getAllByRole('button', { name: /Čočková polévka/ })).toHaveLength(1)
+  expect(screen.getByRole('list').children).toHaveLength(1)
+  fireEvent.click(screen.getByRole('button', { name: 'Hledat ve všech' }))
+  expect(screen.queryByText(/jen v receptech podle filtru/)).toBeNull()
+  expect(screen.getByRole('list').children.length).toBeGreaterThan(1)
+})
+
+test('bez filtru se poznámka o filtru neukazuje', () => {
+  setup()
+  fireEvent.click(screen.getByRole('button', { name: 'Hledat' }))
+  expect(screen.queryByText(/jen v receptech podle filtru/)).toBeNull()
 })

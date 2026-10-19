@@ -308,6 +308,8 @@
 }
 .search-input { font: inherit; font-size: 1.1rem; width: 100%; padding: 0.5em 0.7em; color: var(--ink); background: var(--note-paper); border: 1px solid var(--ink-soft); border-radius: 3px; }
 .search-empty { font-style: italic; color: var(--ink-soft); margin: 0; }
+.search-scope { font-size: 0.9rem; color: var(--ink-soft); margin: 0; }
+.search-scope-all { font: inherit; color: var(--ink); background: none; border: 0; padding: 0; text-decoration: underline; cursor: pointer; }
 .search-results { list-style: none; margin: 0; padding: 0; }
 .search-result { width: 100%; display: flex; flex-direction: column; text-align: left; font: inherit; color: inherit; background: none; border: 0; border-bottom: 1px solid var(--paper-edge); padding: 0.5em 0.2em; cursor: pointer; }
 .search-result:hover, .search-result:focus-visible { background: var(--paper-dark); }

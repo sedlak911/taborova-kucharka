@@ -2,7 +2,7 @@ import { loadContent } from './loadContent'
 import { FILTER_TAGS } from './derivedTags'
 import {
   EMPTY_FILTER, TOC_FIRST_PAGE_UNITS, TOC_LONG_TITLE_CHARS, TOC_PAGE_UNITS, TOC_SAFETY_PX,
-  buildTocRows, filterRecipes, normalize, paginateTocRows, tocPageCount, tocRowKey, tocRowUnits, tocRowsForPage, usableMetrics,
+  buildTocRows, filterRecipes, isFilterActive, normalize, paginateTocRows, tocPageCount, tocRowKey, tocRowUnits, tocRowsForPage, usableMetrics,
   type Filter, type TocMetrics, type TocRow,
 } from './search'
 import { BOOKS, EQUIPMENT } from '@/domain/schema'
@@ -167,4 +167,13 @@ test('nepoužitelné měření (nuly z jsdom nebo skryté knihy) → odhad v jed
   expect(usableMetrics(null)).toBe(false)
   expect(usableMetrics(desktop)).toBe(true)
   expect(paginateTocRows(allRows, { capacity: 640, head: 0, rows: zero })).toEqual(paginateTocRows(allRows))
+})
+
+test('isFilterActive: prázdný filtr ne, cokoli zapnutého ano', () => {
+  expect(isFilterActive(EMPTY_FILTER)).toBe(false)
+  expect(isFilterActive({ ...EMPTY_FILTER, query: '  ' })).toBe(false)
+  expect(isFilterActive({ ...EMPTY_FILTER, tags: ['levne'] })).toBe(true)
+  expect(isFilterActive({ ...EMPTY_FILTER, equipment: ['lednice'] })).toBe(true)
+  expect(isFilterActive({ ...EMPTY_FILTER, books: ['navy-1944'] })).toBe(true)
+  expect(isFilterActive({ ...EMPTY_FILTER, favoritesOnly: true })).toBe(true)
 })

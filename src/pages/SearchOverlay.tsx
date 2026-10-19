@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { BOOK_META } from '@/content/books'
 import { CHAPTER_META } from '@/content/chapters'
-import { filterRecipes, normalize, EMPTY_FILTER } from '@/content/search'
+import { filterRecipes, isFilterActive, normalize, EMPTY_FILTER, NO_MARKS, type Filter } from '@/content/search'
 import type { Ingredient, Recipe } from '@/domain/types'
 import type { Route } from '@/app/route'
 
@@ -10,24 +10,30 @@ export const MAX_SEARCH_RESULTS = 20
 interface SearchOverlayProps {
   recipes: Recipe[]
   ingredients: Map<string, Ingredient>
+  /** Filtr z obsahu: když je zapnutý, hledá se jen v receptech, které mu odpovídají (dá se vypnout). */
+  filter?: Filter
+  favorites?: ReadonlySet<string>
   onNavigate: (route: Route) => void
 }
 
-export function SearchOverlay({ recipes, ingredients, onNavigate }: SearchOverlayProps) {
+export function SearchOverlay({ recipes, ingredients, filter = EMPTY_FILTER, favorites = NO_MARKS.favorites, onNavigate }: SearchOverlayProps) {
   const [open, setOpen] = useState(false)
   const [query, setQuery] = useState('')
+  // „Hledat ve všech“ platí jen do zavření hledání
+  const [ignoreFilter, setIgnoreFilter] = useState(false)
+  const filtered = isFilterActive(filter) && !ignoreFilter
   const inputRef = useRef<HTMLInputElement>(null)
   const openerRef = useRef<HTMLButtonElement>(null)
 
   const results = useMemo(() => {
     if (query.trim() === '') return []
     const q = normalize(query.trim())
-    const hits = filterRecipes(recipes, ingredients, { ...EMPTY_FILTER, query })
+    const hits = filterRecipes(recipes, ingredients, { ...(filtered ? filter : EMPTY_FILTER), query }, { favorites })
     // shoda v názvu receptu má přednost před shodou v surovinách (Enter pak míří na nejlepší výsledek);
     // řazení je stabilní, uvnitř skupin zůstává pořadí knihy, a předchází ořezu limitu před shodou v názvu
     const rank = (r: Recipe) => (normalize(r.title).includes(q) ? 0 : 1)
     return [...hits].sort((a, b) => rank(a) - rank(b)).slice(0, MAX_SEARCH_RESULTS)
-  }, [recipes, ingredients, query])
+  }, [recipes, ingredients, query, filtered, filter, favorites])
 
   useEffect(() => {
     if (open) inputRef.current?.focus()
@@ -36,6 +42,7 @@ export function SearchOverlay({ recipes, ingredients, onNavigate }: SearchOverla
   const close = () => {
     setOpen(false)
     setQuery('')
+    setIgnoreFilter(false)
     openerRef.current?.focus()
   }
 
@@ -80,6 +87,14 @@ export function SearchOverlay({ recipes, ingredients, onNavigate }: SearchOverla
               if (results[0]) go(results[0].id)
             }}
           />
+          {filtered && (
+            <p className="search-scope">
+              Hledá se jen v receptech podle filtru v obsahu.{' '}
+              <button type="button" className="search-scope-all" onClick={() => { setIgnoreFilter(true); inputRef.current?.focus() }}>
+                Hledat ve všech
+              </button>
+            </p>
+          )}
           {query.trim() !== '' && results.length === 0 && <p className="search-empty">Nic nenalezeno.</p>}
           <ul className="search-results">
             {results.map((r) => (

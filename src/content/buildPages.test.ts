@@ -1,5 +1,5 @@
 import { indexToRoute, routeToIndex } from '@/app/route'
-import { buildLayout } from './buildPages'
+import { buildLayout, hiddenPages } from './buildPages'
 import { loadContent } from './loadContent'
 import type { Recipe } from '@/domain/types'
 
@@ -86,6 +86,14 @@ test('kniha bez receptů: prázdná stránka posune košík na levou stranu', ()
   const layout = buildLayout([], { tocPageCount: 1 })
   expect(layout.entries.map((e) => e.id)).toEqual(['cover', 'about-left', 'about-right', 'toc-0', 'blank-0', 'cart', 'list', 'settings'])
   expect(layout.cartIndex).toBe(5)
+})
+
+test('hiddenPages: recepty mimo filtr, kapitoly bez receptu a prázdné stránky', () => {
+  const layout = buildLayout(synthetic, { tocPageCount: 3 })
+  const hidden = hiddenPages(layout, new Set(['a']), 1)
+  expect([...hidden].map((i) => layout.entries[i].id)).toEqual([
+    'toc-1', 'toc-2', 'recipe-b', 'recipe-b:postup', 'blank-0', 'chapter-sladke', 'recipe-c', 'recipe-c:postup',
+  ])
 })
 
 describe('buildLayout v režimu single (mobil)', () => {

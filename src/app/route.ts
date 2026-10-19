@@ -85,6 +85,9 @@ export function routeToIndex(route: Route, layout: LayoutLike): number | null {
 
 /** Routa pro index: nejbližší významná stránka od indexu směrem doleva (o knize → obal). */
 export function indexToRoute(index: number, layout: LayoutLike): Route {
+  // prázdná levá strana před úvodem kapitoly patří ke kapitole (dvoustrana [prázdná | kapitola]), ne k předchozímu receptu
+  const next = layout.entries[index + 1]
+  if (layout.entries[index]?.kind === 'blank' && next?.kind === 'chapter' && next.chapter) return { kind: 'chapter', id: next.chapter }
   for (let i = Math.min(index, layout.entries.length - 1); i >= 0; i--) {
     const e = layout.entries[i]
     if (e.kind === 'recipe' && e.recipeId) return { kind: 'recipe', id: e.recipeId }

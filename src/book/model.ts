@@ -1,3 +1,5 @@
+import type { FlipDirection } from './flip'
+
 export type ViewMode = 'spread' | 'single'
 
 /** V režimu spread je platný index 0 (obal) nebo lichý. */
@@ -43,4 +45,24 @@ export function prevIndex(index: number, mode: ViewMode): number {
   if (mode === 'single') return index - 1
   const i = alignSpread(index)
   return i === 1 ? 0 : i - 2
+}
+
+/**
+ * Krok listování, který přeskočí dvoustrany (single: stránky), na nichž je všechno skryté (filtr obsahu).
+ * Když za skrytými stránkami už nic není, zůstane index stát. Bez `hidden` je to obyčejný krok.
+ */
+export function stepIndex(index: number, dir: FlipDirection, pageCount: number, mode: ViewMode, hidden?: (page: number) => boolean): number {
+  const step = (i: number) => (dir === 'next' ? nextIndex(i, pageCount, mode) : prevIndex(i, mode))
+  const start = clampIndex(index, pageCount, mode)
+  let i = start
+  for (;;) {
+    const j = step(i)
+    if (j === i) return start
+    if (!hidden || !visiblePages(j, pageCount, mode).every((p) => p === null || hidden(p))) return j
+    i = j
+  }
+}
+
+export function canStep(index: number, dir: FlipDirection, pageCount: number, mode: ViewMode, hidden?: (page: number) => boolean): boolean {
+  return stepIndex(index, dir, pageCount, mode, hidden) !== clampIndex(index, pageCount, mode)
 }

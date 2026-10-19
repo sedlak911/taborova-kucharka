@@ -82,3 +82,22 @@ export function buildLayout(recipes: Recipe[], opts: { tocPageCount: number; mod
 
   return { entries, recipeIndex, chapterIndex, tocIndex, cartIndex, listIndex, settingsIndex }
 }
+
+/**
+ * Stránky, které listování při zapnutém filtru přeskakuje: recepty mimo filtr, úvody kapitol bez jediného
+ * vyhovujícího receptu, prázdné výplňové stránky a strany obsahu od `tocPagesShown` dál (filtrovaný obsah je kratší).
+ * Ostatní stránky (obal, první strana obsahu, košík…) zůstávají.
+ */
+export function hiddenPages(layout: BookLayout, shown: ReadonlySet<string>, tocPagesShown: number): Set<number> {
+  const liveChapters = new Set(layout.entries.filter((e) => e.kind === 'recipe' && shown.has(e.recipeId!)).map((e) => e.chapter))
+  const hidden = new Set<number>()
+  layout.entries.forEach((e, i) => {
+    if (
+      e.kind === 'blank' ||
+      (e.kind === 'recipe' && !shown.has(e.recipeId!)) ||
+      (e.kind === 'chapter' && !liveChapters.has(e.chapter)) ||
+      (e.kind === 'toc' && e.tocPage! >= Math.max(1, tocPagesShown))
+    ) hidden.add(i)
+  })
+  return hidden
+}

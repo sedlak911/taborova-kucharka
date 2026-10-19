@@ -459,3 +459,19 @@ describe('stopky přežijí nedokončený tah (final fix F1)', () => {
     expect(screen.getByLabelText('čas')).toHaveTextContent('10')
   })
 })
+
+test('skryté stránky (filtr) listování přeskakuje oběma směry', () => {
+  const onIndexChange = vi.fn()
+  const hidden = (p: number) => p === 3 || p === 4
+  render(<Book pages={pages} initialIndex={1} onIndexChange={onIndexChange} hidden={hidden} />)
+  fireEvent.keyDown(window, { key: 'ArrowRight' })
+  expect(onIndexChange).toHaveBeenLastCalledWith(5)
+  fireEvent.keyDown(window, { key: 'ArrowLeft' })
+  expect(onIndexChange).toHaveBeenLastCalledWith(1)
+})
+
+test('za skrytými stránkami už nic není: Další je disabled', () => {
+  render(<Book pages={pages} initialIndex={3} hidden={(p) => p >= 5} />)
+  expect(screen.getByRole('button', { name: 'Další strana' })).toBeDisabled()
+  expect(screen.getByRole('button', { name: 'Předchozí strana' })).toBeEnabled()
+})

@@ -1,12 +1,12 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react'
 import { Book, type BookPageDef } from '@/book/Book'
 import { useViewMode } from '@/book/useViewMode'
-import { buildLayout, type PageEntry } from '@/content/buildPages'
+import { buildLayout, hiddenPages, type PageEntry } from '@/content/buildPages'
 import { BOOK_META } from '@/content/books'
 import { CHAPTER_META } from '@/content/chapters'
 import { isCustomRecipe, mergeRecipes, newCustomRecipeId } from '@/content/customRecipes'
 import { loadContent } from '@/content/loadContent'
-import { EMPTY_FILTER, tocPageCount, type Filter, type TocMetrics } from '@/content/search'
+import { EMPTY_FILTER, filterRecipes, isFilterActive, tocPageCount, type Filter, type TocMetrics } from '@/content/search'
 import { Bookmark } from '@/app/Bookmark'
 import { BookControls } from '@/app/BookControls'
 import { editorRouteFromHash, indexToRoute, routeToHash, routeToIndex, type EditorRoute, type Route } from '@/app/route'
@@ -79,6 +79,18 @@ function Library() {
   }
 
   const favorites = useMemo(() => new Set(state.favorites), [state.favorites])
+  // zapnutý filtr obsahu platí i pro listování (skryté stránky se přeskočí), úvody kapitol a hledání;
+  // layout a čísla stran zůstávají, odkazem (hledání bez filtru, košík) se dá skočit i na skrytý recept
+  const filterActive = isFilterActive(filter)
+  const shownRecipes = useMemo(
+    () => (filterActive ? filterRecipes(recipes, ingredients, filter, { favorites }) : recipes),
+    [filterActive, recipes, ingredients, filter, favorites],
+  )
+  const hidden = useMemo(() => {
+    if (!filterActive) return undefined
+    const set = hiddenPages(layout, new Set(shownRecipes.map((r) => r.id)), tocPageCount(shownRecipes, tocMetrics))
+    return (page: number) => set.has(page)
+  }, [filterActive, layout, shownRecipes, tocMetrics])
   const inCart = useMemo(() => new Set(state.cart.map((e) => e.recipeId)), [state.cart])
   // záznam o receptu, který už v knize není (poškozený nebo starý stav), se nepočítá – stránka košíku ho nevykreslí
   const cartCount = useMemo(() => state.cart.filter((e) => recipeById.has(e.recipeId)).length, [state.cart, recipeById])
@@ -209,7 +221,7 @@ function Library() {
             render: () => (
               <ChapterPage
                 chapter={entry.chapter!}
-                recipes={recipes.filter((r) => r.chapter === entry.chapter)}
+                recipes={shownRecipes.filter((r) => r.chapter === entry.chapter)}
                 pageNumberOf={(id) => layout.recipeIndex.get(id)}
               />
             ),
@@ -293,7 +305,7 @@ function Library() {
       }
     }
     return layout.entries.map(renderEntry)
-  }, [layout, recipes, ingredients, recipeById, filter, tocMetrics, favorites, inCart, portions, historical, navigate, openEditor, removeCustomRecipe, toggleFavorite, toggleCart, state, updateSettings, setPeople, setCartMultiplier, removeFromCart, shoppingList, print, storageMode, retryServer, replaceState, staticIds, importRecipes, importMessage])
+  }, [layout, recipes, shownRecipes, ingredients, recipeById, filter, tocMetrics, favorites, inCart, portions, historical, navigate, openEditor, removeCustomRecipe, toggleFavorite, toggleCart, state, updateSettings, setPeople, setCartMultiplier, removeFromCart, shoppingList, print, storageMode, retryServer, replaceState, staticIds, importRecipes, importMessage])
 
   const last = layout.entries.length - 1
   const announcement = describePage(layout.entries[index], index, last, recipeById)
@@ -317,7 +329,7 @@ function Library() {
           onOpenCart={() => navigate({ kind: 'cart' })}
           cartCount={cartCount}
         >
-          <SearchOverlay recipes={recipes} ingredients={ingredients} onNavigate={navigate} />
+          <SearchOverlay recipes={recipes} ingredients={ingredients} filter={filter} favorites={favorites} onNavigate={navigate} />
         </BookControls>
         {storageMode === 'server-unavailable' && (
           <p className="storage-badge" role="status">
@@ -327,7 +339,7 @@ function Library() {
         <div className="visually-hidden" aria-live="polite" role="status">
           {announcement}
         </div>
-        <Book index={index} onIndexChange={setIndex} pages={pages} mode={mode} measure={tocProbe} />
+        <Book index={index} onIndexChange={setIndex} pages={pages} mode={mode} measure={tocProbe} hidden={hidden} />
       </main>
       {formOpen && (
         <RecipeForm
