@@ -182,7 +182,9 @@
 /* ===== obal a úvodní dvoustrana ===== */
 .cover-page { position: relative; height: 100%; color: var(--paper); text-align: center; container-type: inline-size; }
 /* zlatý rám u okrajů knihy (R2): dvojitá linka, rohy a ornamenty hran; nic se nenatahuje */
-.cover-frame { position: absolute; inset: 0.6rem; color: #d4af37; border: 1.5px solid currentColor; pointer-events: none; }
+/* rám sedí těsně u kraje desky; odsazení .page-content (i úchyt na okraji) nese až text v .cover-page__inner */
+.page--cover > .page-content { padding: 0; }
+.cover-frame { position: absolute; inset: 0.9rem; color: #d4af37; border: 1.5px solid currentColor; pointer-events: none; }
 .cover-frame::before { content: ''; position: absolute; inset: 0.3rem; border: 1px solid currentColor; opacity: 0.8; }
 .cover-frame__corner { position: absolute; width: min(7rem, 24cqw); height: min(7rem, 24cqw); }
 .cover-frame__corner--tl { top: -1px; left: -1px; }
@@ -200,7 +202,7 @@
 @container (max-width: 32rem) {
   .cover-frame__edge--left, .cover-frame__edge--right { display: none; }
 }
-.cover-page__inner { position: relative; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: min(1.2rem, 4cqw); padding: 3.5rem min(2.8rem, 10cqw) 4.5rem; box-sizing: border-box; }  /* cqw: na úzké obálce (320 px) se text zmenší, aby nepřetékal rám */
+.cover-page__inner { position: relative; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: min(1.2rem, 4cqw); padding: calc(6% + 3.5rem) calc(max(8%, var(--edge-zone, 56px)) + min(2.8rem, 10cqw)) calc(9% + 4.5rem); box-sizing: border-box; }  /* cqw: na úzké obálce (320 px) se text zmenší, aby nepřetékal rám */
 .cover-page__title { font-size: min(2.2rem, 10cqw); line-height: 1.15; margin: 0; color: #d4af37; text-shadow: 0 1px 0 rgba(0, 0, 0, 0.4); }
 .cover-page__subtitle { margin: 0; font-style: italic; font-size: min(1rem, 4.4cqw); }
 .cover-page__sources { list-style: none; padding: 0; margin: 0; font-size: min(0.9rem, 4.2cqw); }

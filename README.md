@@ -1,4 +1,4 @@
-# Kuchařka pro tábory, výlety a hubené měsíce
+# Recepty na vejlety, tábory a nebo když je do vejplaty daleko
 
 Webová „kniha“ s listováním, ve které je přes 670 receptů digitalizovaných ze čtyř historických kuchařek. Recepty jsou přepočtené na **4 porce** v gramech a mililitrech, česky, s výživovými údaji a odkazem na zdrojovou stranu.
 

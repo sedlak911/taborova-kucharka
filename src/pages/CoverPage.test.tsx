@@ -4,7 +4,7 @@ import { CoverPage } from './CoverPage'
 
 test('obal obsahuje výchozí titul, názvy čtyř knih a výzvu k otočení', () => {
   render(<CoverPage />)
-  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Kuchařka pro tábory, výlety a hubené měsíce')
+  expect(screen.getByRole('heading', { level: 1 })).toHaveTextContent('Recepty na vejlety, tábory a nebo když je do vejplaty daleko')
   for (const b of ['afrs-2003', 'navy-1944', 'italian-1919', 'feldkochbuch-1940'] as const) {
     expect(screen.getByText(new RegExp(BOOK_META[b].title))).toBeInTheDocument()
   }

@@ -20,7 +20,7 @@ test('„pokračuje ↓“: záře jen kolem nápisu v barvě stránky, ne pruh 
 })
 
 test('obálka: rám u okrajů knihy, roh zrcadlený do všech čtyř rohů, ornamenty uprostřed hran', () => {
-  expect(body('.cover-frame')).toMatch(/inset:\s*0\.6rem/)
+  expect(body('.cover-frame')).toMatch(/inset:\s*0\.9rem/)
   expect(body('.cover-frame')).toMatch(/border:\s*1\.5px solid currentColor/)
   expect(body('.cover-frame::before')).toMatch(/border:\s*1px solid currentColor/)
   expect(body('.cover-frame__corner--tr')).toMatch(/scaleX\(-1\)/)

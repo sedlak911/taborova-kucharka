@@ -23,7 +23,7 @@ afterEach(() => {
 
 test('vykreslí knihu s obalem', () => {
   render(<App />)
-  expect(screen.getByRole('heading', { name: /Kuchařka pro tábory/ })).toBeInTheDocument()
+  expect(screen.getByRole('heading', { name: /Recepty na vejlety/ })).toBeInTheDocument()
 })
 
 test('hash #/recept/hovezi-gulas zobrazí recept a aria-live ho hlásí', () => {

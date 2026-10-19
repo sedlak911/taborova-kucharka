@@ -1,7 +1,7 @@
 import type { Book } from '../domain/types'
 
 /** Název kuchařky (obal, titulní strana brožurky). */
-export const COOKBOOK_TITLE = 'Kuchařka pro tábory, výlety a hubené měsíce'
+export const COOKBOOK_TITLE = 'Recepty na vejlety, tábory a nebo když je do vejplaty daleko'
 
 export interface BookMeta {
   title: string
