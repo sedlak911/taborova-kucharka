@@ -244,8 +244,10 @@
 .toc-recipe { display: flex; align-items: baseline; align-items: last baseline; gap: 0.35em; }
 /* dlouhý název se láme po slovech; tečky a číslo strany sedí na jeho posledním řádku (R11) */
 .toc-row { flex: 1; min-width: 0; display: flex; align-items: baseline; align-items: last baseline; gap: 0.3em; font: inherit; color: inherit; text-align: left; background: none; border: 0; padding: 0.1em 0; cursor: pointer; }
-.toc-row-title { flex: 0 1 auto; min-width: 0; overflow-wrap: break-word; text-wrap: pretty; }
-.toc-row-dots { flex: 1 0 1.5em; border-bottom: 1px dotted var(--ink-soft); transform: translateY(-0.25em); }
+.toc-row-text { flex: 1; min-width: 0; overflow: hidden; overflow-wrap: break-word; text-wrap: pretty; }
+/* nulová šířka: vejde se vždy na poslední řádek názvu a čára teček z něj přeteče až k okraji .toc-row-text */
+.toc-row-dots { display: inline-block; width: 0; }
+.toc-row-dots::before { content: ''; display: block; width: 100vw; margin-left: 0.3em; border-bottom: 1px dotted var(--ink-soft); transform: translateY(-0.25em); }
 .toc-row-page { flex: none; white-space: nowrap; font-variant-numeric: tabular-nums; }
 .toc-row:hover .toc-row-title { text-decoration: underline; }
 

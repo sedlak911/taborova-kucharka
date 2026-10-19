@@ -138,18 +138,21 @@ export function TocListItem({ row, pageNumber, favorite, inCart, onNavigate, onT
         onToggleCart={() => onToggleCart(recipe.id)}
       />
       <button type="button" className="toc-row" onClick={() => onNavigate({ kind: 'recipe', id: recipe.id })}>
-        <span className="toc-row-title">{recipe.title}</span>
-        {isCustomRecipe(recipe) && (
-          <>
-            {/* mezera mezi názvem a skrytým textem pro přístupné jméno tlačítka */}
-            {' '}
-            <span className="toc-row-own" title="Vlastní recept">
-              <PenIcon />
-              <span className="visually-hidden">(vlastní)</span>
-            </span>
-          </>
-        )}
-        <span className="toc-row-dots" aria-hidden="true" />
+        {/* tečky jsou v toku textu hned za posledním řádkem názvu; přesah ořízne .toc-row-text před číslem */}
+        <span className="toc-row-text">
+          <span className="toc-row-title">{recipe.title}</span>
+          {isCustomRecipe(recipe) && (
+            <>
+              {/* mezera mezi názvem a skrytým textem pro přístupné jméno tlačítka */}
+              {' '}
+              <span className="toc-row-own" title="Vlastní recept">
+                <PenIcon />
+                <span className="visually-hidden">(vlastní)</span>
+              </span>
+            </>
+          )}
+          <span className="toc-row-dots" aria-hidden="true" />
+        </span>
         <span className="toc-row-page">{pageNumber}</span>
       </button>
     </li>

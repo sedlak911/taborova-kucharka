@@ -55,8 +55,11 @@ test('na úzkém displeji (≤ 380 px) jsou tlačítka ovládání menší, aby 
 test('obsah: hlavička a nadpis kapitoly drží okraje uvnitř (měřitelná výška), název se láme po slovech', () => {
   expect(body('.toc-head')).toMatch(/display:\s*flow-root/)
   expect(body('.toc-chapter')).toMatch(/display:\s*flow-root/)
-  expect(body('.toc-row-title')).toMatch(/overflow-wrap:\s*break-word/)
-  expect(body('.toc-row-title')).not.toMatch(/anywhere/)
+  expect(body('.toc-row-text')).toMatch(/overflow-wrap:\s*break-word/)
+  expect(body('.toc-row-text')).not.toMatch(/anywhere/)
+  // tečky navazují na poslední řádek názvu (ne na šířku nejdelšího řádku) a přesah se ořízne před číslem
+  expect(body('.toc-row-text')).toMatch(/overflow:\s*hidden/)
+  expect(body('.toc-row-dots')).toMatch(/display:\s*inline-block[^}]*width:\s*0/)
   expect(body('.toc-row')).toMatch(/align-items:\s*last baseline/)
   expect(body('.toc-row-page')).toMatch(/flex:\s*none/)
 })

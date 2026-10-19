@@ -6,7 +6,7 @@
 }
 .recipe-own-button:focus-visible { outline: 2px solid var(--ink); }
 
-.toc-row-own { flex: none; display: inline-flex; align-self: center; color: #3b5b9a; }
+.toc-row-own { display: inline-flex; vertical-align: middle; color: #3b5b9a; }
 .toc-row-own svg { width: 0.95em; height: 0.95em; }
 .toc-pill--new { border-style: dashed; font-family: var(--font-hand); font-size: 1.15em; line-height: 1.2; }
 
