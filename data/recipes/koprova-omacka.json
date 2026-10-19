@@ -1,0 +1,141 @@
+{
+  "id": "koprova-omacka",
+  "title": "Koprová omáčka",
+  "titleOriginal": "Koprová omáčka",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "na zásmažku",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 45,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 200,
+      "unit": "ml",
+      "note": "chladný; zdroj vývar B (receptura 10101)",
+      "original": {
+        "ingredientId": "hovezi-vyvar",
+        "amount": 200,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 320,
+      "unit": "ml",
+      "note": "konzumní, chladné"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g",
+      "note": "mírně, podle chuti"
+    },
+    {
+      "ingredientId": "smetana-na-vareni",
+      "amount": 80,
+      "unit": "g",
+      "note": "zdroj smetana 12 %"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 45,
+      "unit": "g",
+      "note": "převařený; část na okyselení omáčky, zbytek na kopr"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 40,
+      "unit": "g",
+      "note": "na přisladění, podle chuti"
+    },
+    {
+      "ingredientId": "kopr-cerstvy",
+      "amount": 25,
+      "unit": "g",
+      "note": "z 100 g hrubé × 0,59 (jedlá část); zdroj čerstvý nebo nakládaný bez nálevu"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "syrové, na zjemnění na konci"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozehřej máslo na zásmažku, vsyp prosátou hladkou mouku a připrav světlou zásmažku.",
+      "minutes": 6
+    },
+    {
+      "text": "Zásmažku zalij chladným vývarem a mlékem, pečlivě rozšlehej a mírně osol.",
+      "minutes": 4
+    },
+    {
+      "text": "Přiveď k varu a za občasného prošlehání vař velmi zvolna nejméně půl hodiny.",
+      "minutes": 40
+    },
+    {
+      "text": "Mezitím kopr přeber, opláchni a jemně nakrájej. Ocet převař.",
+      "minutes": 6,
+      "parallel": true
+    },
+    {
+      "text": "Omáčku zjemni smetanou a velmi krátce povař.",
+      "minutes": 3
+    },
+    {
+      "text": "Mírně ji okyseli částí převařeného octa, přislaď cukrem a znovu krátce povař.",
+      "minutes": 3
+    },
+    {
+      "text": "Omáčku procedi hustým cedníkem.",
+      "minutes": 2
+    },
+    {
+      "text": "Kopr přelij zbylým horkým octem a dej do procezené omáčky.",
+      "minutes": 1
+    },
+    {
+      "text": "Na závěr do omáčky vmíchej syrové máslo na zjemnění.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (1 500 g hotové omáčky, porce 150 g) na 4 porce, faktor 0,4. Margarín ze zdroje (100 g) nahrazen máslem (45 g jako tuk, třída fat). Vývar B (receptura 10101) je hovězí vývar; jako bezmasé jídlo je tu zeleninový vývar (hovězí v original). Sůl 14 g (3,5 g na porci) je podle zdroje a nad běžnou normou; solit začni polovinou a dochuť až na konci. Ocet a cukr jsou dávkované podle chuti, zdroj chce omáčku sladkokyselou. Kopr: zdroj uvádí 100 g čerstvého (75 g po odpadu) nebo 125 g nakládaného bez nálevu. Koprová omáčka se tradičně podává s vařenými vejci (natvrdo) a s vařenými knedlíky; v druhé knize (19474, str. 515) je totéž s knedlíky. Vejce a přílohu počítej zvlášť, třeba 1 až 2 vejce na osobu.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 448,
+    "code": "19001",
+    "titleOriginal": "KOPROVÁ OMÁČKA"
+  },
+  "verified": true
+}

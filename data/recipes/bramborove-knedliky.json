@@ -1,0 +1,36 @@
+{
+  "id": "bramborove-knedliky",
+  "title": "Bramborové knedlíky",
+  "titleOriginal": "Bramborové knedlíky",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 105,
+  "difficulty": 3,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 610, "unit": "g", "note": "z 1 900 g hrubé × 0,8; vařené ve slupce a vychladlé", "group": "Brambory" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na uvaření brambor, slije se", "scaling": "vessel", "group": "Brambory" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel", "group": "Brambory" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks (40 g) na 10 porcí; rozšlehej celé vejce a použij dvě pětiny", "group": "Těsto" },
+    { "ingredientId": "hruba-mouka", "amount": 100, "unit": "g", "note": "prosátá", "group": "Těsto" },
+    { "ingredientId": "krupice-psenicna", "amount": 100, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření knedlíků, slije se", "scaling": "vessel", "group": "Vaření knedlíků" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel", "group": "Vaření knedlíků" }
+  ],
+  "steps": [
+    { "text": "Brambory ve slupce uvař v osolené vodě do měkka.", "minutes": 30 },
+    { "text": "Brambory nech vychladnout, oloupej je a umelj.", "minutes": 15 },
+    { "text": "Do mletých brambor přidej vejce, prosátou hrubou mouku, krupici a sůl a zpracuj tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto rozděl na stejné díly a rozval na šišky asi 20 cm dlouhé a 5 cm v průměru.", "minutes": 10 },
+    { "text": "Šišky vkládej do vroucí osolené vody a zvolna vař 20–25 minut. V průběhu varu je opatrně nadzvedni vařečkou, aby se nepřichytily ke dnu.", "minutes": 37 },
+    { "text": "Uvařené knedlíky vyjmi, nakrájej na plátky (4–5 na porci) a nech vyprchat páru.", "minutes": 5 },
+    { "text": "Podávej jako přílohu k hlavním jídlům; plátky podle potřeby ohřej v páře." }
+  ],
+  "modernNote": "Zdroj: receptura 19906, dávka 10 porcí (1 porce 200 g, 4–5 plátků; hotový výrobek 2 000 g z 2 460 g hrubé hmotnosti). Pro 4 porce: asi 800 g hotových knedlíků. Jen základní receptura 19906 (ne varianty /A–/D z bramborového přípravku nebo maštěné). Voda na vaření brambor a knedlíků je domácí hodnota (slévá se), stejně jako sůl do ní; zdroj množství vody neuvádí. Vejce: zdroj 1 ks na 10 porcí × 0,4 = 0,4 ks; prakticky rozšlehej celé vejce a použij dvě pětiny, nebo dej celé vejce a přidej lžíci mouky. Sůl do těsta: zdroj 20 g na 10 porcí. Brambory dobře odpařené a vychladlé, jinak se těsto lepí. Vhodné jako příloha k pečenému masu a k omáčkám.",
+  "source": { "book": "receptury-1983", "page": 566, "code": "19906", "titleOriginal": "BRAMBOROVÉ KNEDLÍKY" },
+  "verified": true
+}

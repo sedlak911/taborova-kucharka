@@ -1,0 +1,42 @@
+{
+  "id": "cocka-se-sazenym-vejcem",
+  "title": "Čočka na kyselo se sázeným vejcem",
+  "titleOriginal": "ČOČKA SE SÁZENÝM VEJCEM",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "cocka", "amount": 360, "unit": "g", "note": "suchá; přebraná, propláchnutá, namočená 2–3 hodiny", "group": "Čočka" },
+    { "ingredientId": "voda", "amount": 540, "unit": "ml", "note": "voda z namáčení, kterou čočka při vaření nasákne (zdroj: 900 g suché čočky = 2 250 g uvařené)", "group": "Čočka" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 150 g hrubé × 0,9, na drobno", "group": "Čočka" },
+    { "ingredientId": "sadlo", "amount": 65, "unit": "g", "note": "škvařené; 3/4 sádla ze zdroje na cibuli", "group": "Čočka" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "prosátá", "group": "Čočka" },
+    { "ingredientId": "ocet", "amount": 20, "unit": "g", "note": "podle chuti", "group": "Čočka" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "podle chuti", "group": "Čočka" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks", "note": "zdroj 10 ks na 10 porcí, 1 vejce na porci", "group": "Sázené vejce" },
+    { "ingredientId": "sadlo", "amount": 20, "unit": "g", "note": "škvařené; 1/4 sádla ze zdroje na pečení vajec (receptura 19221)", "group": "Sázené vejce" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "jen na bílek (receptura 19221)", "group": "Sázené vejce" }
+  ],
+  "steps": [
+    { "text": "Čočku přeber, v několika vodách propláchni, zalij studenou vodou a nech 2–3 hodiny namočit." },
+    { "text": "Čočku zvolna vař ve vodě, v níž se máčela, do poloměkka.", "minutes": 25 },
+    { "text": "Mezitím nadrobno nakrájenou cibuli osmaž na třech čtvrtinách sádla do růžova, zaprášit prosátou moukou a mírně osmahni.", "minutes": 10, "parallel": true },
+    { "text": "Zásmažku přidej k čočce a za stálého míchání dovař čočku do měkka.", "minutes": 15 },
+    { "text": "Čočku osol, dochuť octem a krátce podus.", "minutes": 5 },
+    { "text": "Mezitím na zbylém rozehřátém sádle upeč sázená vejce: vyklepni je do pánve, osol jen bílek a peč, až je bílek pevný a žloutek zůstane vláčný.", "minutes": 5, "parallel": true },
+    { "text": "Čočku dej na teplé talíře a na každou porci polož sázené vejce." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3 000 g hotového pokrmu, porce 300 g včetně vejce) na 4 porce, faktor 0,4 (k = 4/10). Sázená vejce odkazuje zdroj na recepturu 19221 (str. 480; 10 vajec, 50 g sádla, 5 g soli): vejce a čtvrtina sádla jsou už v tabulce receptury 19302, proto je skupina Sázené vejce přepočtena z těchto řádků, k nim přibyla jen sůl na bílek z receptury 19221. Sádlo 200 g ze zdroje je rozdělené na 3/4 (cibule) a 1/4 (vejce), po zaokrouhlení 65 + 20 g. Voda 540 ml = vsáknutá voda podle čisté hmotnosti uvařené čočky ve zdroji (2 250 g z 900 g, rozdíl 1 350 g × 0,4); voda z namáčení se nevylévá a pokrm zůstane nepatrně zahuštěný, podle potřeby podlij. Sůl 14 g je přepočet koření podle zdroje (30 g na 10 porcí), je to 3,5 g na porci, začni polovinou a dosol podle chuti. Doba vaření čočky není ve zdroji, je odhadnuta (25 + 15 minut). Zdroj doporučuje kyselou okurku jako doplněk. Bez-masa: sádlo je jen tuk, na bezmasé jídlo ho nahraď olejem.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 486,
+    "code": "19302",
+    "titleOriginal": "ČOČKA SE SÁZENÝM VEJCEM"
+  },
+  "verified": true
+}

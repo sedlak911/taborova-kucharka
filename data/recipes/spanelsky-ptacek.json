@@ -1,0 +1,42 @@
+{
+  "id": "spanelsky-ptacek",
+  "title": "Španělský ptáček",
+  "titleOriginal": "Španělský ptáček",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 180,
+  "difficulty": 2,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "horcice"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 400, "unit": "g", "note": "jeden díl, nakrájený přes vlákno na plátky", "group": "Ptáčky" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "na maso, na povrch zavinutých plátků a do omáčky", "group": "Ptáčky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "group": "Ptáčky" },
+    { "ingredientId": "horcice", "amount": 8, "unit": "g", "note": "na potření plátků", "group": "Ptáčky" },
+    { "ingredientId": "spek", "amount": 20, "unit": "g", "note": "slanina s kůží, nakrájená na silnější nudle", "group": "Náplň" },
+    { "ingredientId": "bologna", "amount": 60, "unit": "g", "note": "salám Pražský, nakrájený na nudle", "group": "Náplň" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks; uvařené natvrdo, nakrájené na kousky", "group": "Náplň" },
+    { "ingredientId": "okurky-kysele", "amount": 80, "unit": "g", "note": "bez nálevu, nakrájené na nudle", "group": "Náplň" },
+    { "ingredientId": "sadlo", "amount": 55, "unit": "g", "note": "škvařené; na cibuli a zásmažku", "group": "Dušení a omáčka" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "z 250 g hrubé × 0,9, nakrájená na drobno", "group": "Dušení a omáčka" },
+    { "ingredientId": "voda", "amount": 440, "unit": "ml", "note": "část na podlití při dušení, zbytek vlažná do omáčky", "group": "Dušení a omáčka" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "na zaprášení", "group": "Dušení a omáčka" }
+  ],
+  "steps": [
+    { "text": "Uvař vejce natvrdo, oloupej je a nakrájej na kousky.", "minutes": 12 },
+    { "text": "Mezitím nakrájej opláchnuté hovězí přes vlákno na plátky, naklepej je paličkou do šíře, osol, opepři a potři hořčicí.", "minutes": 15, "parallel": true },
+    { "text": "Na každý plátek polož slaninu, salám a kyselé okurky nakrájené na nudle a kousky vejce. Plátky zavin, na okrajích upevni párátkem (nebo převaž režnou nití) a na povrchu osol.", "minutes": 15 },
+    { "text": "Oloupanou cibuli nakrájej na drobno a osmaž ji na sádle do růžova.", "minutes": 6 },
+    { "text": "Na cibuli krátce opeč závitky, podlij je trochou vody, přikryj poklicí a duš do měkka. Během dušení maso obracej a podle potřeby podlévej teplou vodou.", "minutes": 60 },
+    { "text": "Měkké maso vyjmi do jiného kastrolu. Šťávu vydus na tuk, zapráš moukou a zasmaž.", "minutes": 8 },
+    { "text": "Zalij vlažnou vodou, dobře rozmíchej a za občasného promíchání vař nejméně 1 hodinu.", "minutes": 60 },
+    { "text": "Uvařenou omáčku dosol, přeceď přes husté sítko na maso a společně krátce povař.", "minutes": 8 },
+    { "text": "Vyndej párátka nebo nit a podávej." }
+  ],
+  "modernNote": "Zdroj: receptura 11117, dávka 10 porcí (1 porce 220 g, z toho masa včetně náplně 90 g; hotový výrobek 2 200 g z 3 101 g hrubé hmotnosti). Pro 4 porce: 880 g hotového pokrmu. Množství drží zdroj (× 0,4); jídelní norma 60–65 g masa na porci (400 g masa) je malá, jako hlavní jídlo počítej 120–150 g masa na osobu. Slanina s kůží = špek, Salám Pražský = bologna (gothajský salám), sádlo škvařené = sádlo. Vejce: zdroj 2 ks na 10 porcí (80 g, 40 g/ks) × 0,4 = 0,8 ks. Cibule je zapsána jako jedlá hmotnost (250 g hrubé × 0,4 × 0,9 = 90 g). Sůl: zdroj dává 30 g na 10 porcí, tj. asi 3,5 g na porci při 4 porcích; dej polovinu a dosol podle chuti. Vhodné přílohy ze zdroje (dušená rýže, různě upravené brambory, těstoviny) nejsou v surovinách; sama rýže nebo knedlíky se počítají zvlášť. Aplikace počítá porci ze syrových surovin, hotová porce po vaření je podle zdroje 220 g.",
+  "source": { "book": "receptury-1983", "page": 105, "code": "11117", "titleOriginal": "ŠPANĚLSKÝ PTÁČEK" },
+  "verified": true,
+  "quote": "Maso je celistvé, šťavnaté, vložka je měkká a přiměřeně kořeněná."
+}

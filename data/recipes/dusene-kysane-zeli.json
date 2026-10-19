@@ -1,0 +1,39 @@
+{
+  "id": "dusene-kysane-zeli",
+  "title": "Dušené kysané zelí",
+  "titleOriginal": "Kysané zelí",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "kysele-zeli", "amount": 360, "unit": "g", "note": "nepromývané, s nálevem" },
+    { "ingredientId": "voda", "amount": 80, "unit": "ml", "note": "vařící" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé × 0,9, oloupaná na drobno" },
+    { "ingredientId": "sadlo", "amount": 20, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cukr-krystal", "amount": 50, "unit": "g", "scaling": "linear", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Kysané zelí zalij vařící vodou, přidej kmín a pod poklicí duš zvolna do poloměkka.", "minutes": 35 },
+    { "text": "Mezitím nakrájej cibuli nadrobno a osmahni ji na sádle.", "minutes": 8, "parallel": true },
+    { "text": "Do cibule vmíchej prosátou hladkou mouku a krátce ji osmahni.", "minutes": 3 },
+    { "text": "Zásmažku rozmíchej s poloměkkým zelím. Zelí osol a ochuť cukrem.", "minutes": 3 },
+    { "text": "Duš dál do měkka a občas promíchej, aby se zelí nepřipálilo.", "minutes": 15 },
+    { "text": "Podávej jako přílohu k různým pokrmům." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (1 kg hotového zelí, porce 100 g) na 4 porce, faktor 0,4 (k = 4/10). Kysané zelí je z hrubého sloupce zdroje (900 g), cibule z hrubých 100 g × 0,4 × 0,9 = 35 g. Sádlo (zdroj sádlo škvařené) zůstává. Cukr: zdroj 120 g na 900 g zelí je zjevně hodně sladké (typická sladkokyselá chuť); drženo podle zdroje lineárně, dochuť podle chuti, klidně dej polovinu. Zdroj přidává 200 g vody na 900 g zelí; je to voda, která zůstává v jídle. Zelí nepromývej, podle kyselosti lze část nálevu přilít. Dušené zelí nedrž dlouho v teple, ztrácí barvu a chuť. Jako přílohu počítej 150–200 g na osobu.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 584,
+    "code": "19920",
+    "titleOriginal": "KYSANÉ ZELÍ"
+  },
+  "verified": true
+}

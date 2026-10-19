@@ -1,0 +1,32 @@
+{
+  "id": "smazeny-syr",
+  "title": "Smažený sýr",
+  "titleOriginal": "Smažený sýr (Minutka)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "eidam", "amount": 400, "unit": "g", "note": "tvrdý sýr (moravský bochník), bez kůry nebo obalu", "group": "Sýr" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g", "note": "prosátá", "group": "Obal" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks", "group": "Obal" },
+    { "ingredientId": "mleko-polotucne", "amount": 60, "unit": "ml", "note": "konzumní", "group": "Obal" },
+    { "ingredientId": "strouhanka", "amount": 80, "unit": "g", "note": "strouhaná houska", "group": "Obal" },
+    { "ingredientId": "repkovy-olej", "amount": 115, "unit": "g", "note": "na smažení, zdroj 200 g na 10 porcí (třída vessel)", "scaling": "vessel", "group": "Smažení" }
+  ],
+  "steps": [
+    { "text": "Sýr zbav tvrdé kůry nebo obalu a nakrájej na tenčí plátky (2 ks na porci).", "minutes": 5 },
+    { "text": "Vejce rozmíchej s mlékem.", "minutes": 2 },
+    { "text": "Plátky sýra obal v prosáté mouce, ve vejci s mlékem a ve strouhance.", "minutes": 8 },
+    { "text": "Na pánvi rozehřej olej.", "minutes": 3 },
+    { "text": "Plátky smaž v horkém oleji po obou stranách dozlatova.", "minutes": 10 },
+    { "text": "Usmažený sýr ihned podávej." }
+  ],
+  "modernNote": "Zdroj: receptura 19440 (varianta Minutka), dávka 10 porcí (1 porce 140 g = 2 plátky; hotový výrobek 1 400 g z 1 690 g hrubé hmotnosti, tj. na 4 porce asi 560 g). Tvrdý sýr \"moravský bochník\" je zapsán jako eidam. Vejce: zdroj 2 ks na 10 porcí (80 g, 40 g/ks) × 0,4 = 0,8 ks. Olej: celých 200 g ze zdroje na 10 porcí je tuk v pánvi, část se vylije; přepočteno jako vylévaný tuk (vessel, faktor 0,577), na pánev stačí tolik, aby dno pokrylo 5 mm. Sýr smaž na objednávku a podávej ihned. Vhodné přílohy ze zdroje: různě upravené brambory, zeleninové saláty, pečivo (nepřidáno jako suroviny). Tatarská omáčka v receptu není.",
+  "source": { "book": "receptury-1983", "page": 507, "code": "19440", "titleOriginal": "SMAŽENÝ SÝR (Minutka)" },
+  "verified": true
+}

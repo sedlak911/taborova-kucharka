@@ -1,0 +1,37 @@
+{
+  "id": "leco-s-vejci",
+  "title": "Lečo s vejci",
+  "titleOriginal": "Lečo s vejci (Minutka)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "repkovy-olej", "amount": 90, "unit": "g", "note": "zdroj margarín", "original": { "ingredientId": "margarin", "amount": 90, "unit": "g" } },
+    { "ingredientId": "cibule", "amount": 110, "unit": "g", "note": "z 300 g hrubé × 0,9, jemně nakrájená" },
+    { "ingredientId": "paprika-zelena", "amount": 490, "unit": "g", "note": "z 1 500 g hrubé × 0,82; paprikové lusky, očistit, opláchnout, nakrájet" },
+    { "ingredientId": "rajce", "amount": 180, "unit": "g", "note": "z 500 g hrubé × 0,91, nakrájená" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "z toho část do vajec" },
+    { "ingredientId": "cely-pepr", "amount": 0.46, "unit": "g", "note": "čerstvě mletý" },
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "zdroj 20 ks; osolená" }
+  ],
+  "steps": [
+    { "text": "Na horkém oleji osmahni do růžova jemně nakrájenou cibuli.", "minutes": 8 },
+    { "text": "Přidej očištěné, opláchnuté a nakrájené paprikové lusky, mírně je osol, okořeň čerstvě mletým pepřem a částečně podus.", "minutes": 10 },
+    { "text": "Přidej nakrájená rajčata a duš, až je směs vydušená téměř na tuk.", "minutes": 12 },
+    { "text": "Vejce rozklepni, osol a přilij je k zelenině.", "minutes": 2 },
+    { "text": "Lečo zvolna promíchávej, až se vejce srazí.", "minutes": 5 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (1 700 g hotového lečo, porce 170 g) na 4 porce, faktor 0,4 (k = 4/10); množství jsou ze sloupce hrubá × 0,4, u zeleniny × jedlá část (cibule 0,9, paprika 0,82, rajčata 0,91). Hmotnost čistých surovin 2 861 g, ztráty 1 161 g (vydušená zelenina a odpar) → 1 700 g hotového výrobku; proto surovin na porci vychází kolem 300 g a hotové lečo má 170 g (kontrola bilance je tím vysvětlena, nejde o chybu). Zdroj používá margarín, zde olej (zdroj v postupu píše „na horkém oleji“); lze použít i máslo nebo sádlo. Sůl 30 g na 10 porcí (14 g na 4) je počítána jako koření (třída seasoning) a je štědrá (3,5 g na porci, zdroj 3 g), solí opatrně podle chuti. Pepř zdroj uvádí celý a v postupu čerstvě mletý. Čerstvé lusky zdroj neupřesňuje, vhodná je směs barev. Lečo vaříme z čerstvé zeleniny, ne z konzervovaného. Jako hlavní jídlo vychází 170 g na porci málo, počítej spíš 250–300 g lečo. Vhodné přílohy podle zdroje: různě upravené brambory, rýže nebo pečivo.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 461,
+    "code": "19116",
+    "titleOriginal": "LEČO S VEJCI (Minutka)"
+  },
+  "verified": true
+}

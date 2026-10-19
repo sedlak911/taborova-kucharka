@@ -1,0 +1,40 @@
+{
+  "id": "spagety-s-veprovym-a-rajcaty",
+  "title": "Špagety s vepřovým masem a rajčaty",
+  "titleOriginal": "SPAGETY S VEPŘOVÝM MASEM A RAJČATY",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "veprova-plec", "amount": 400, "unit": "g", "note": "bez kosti nebo ořez, na drobnější kostičky", "group": "Omáčka" },
+    { "ingredientId": "repkovy-olej", "amount": 88, "unit": "g", "note": "zbylé 4/5 oleje; stolní olej", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 72, "unit": "g", "note": "oloupaná, jemně nakrájená; z 200 g hrubých × 0,4 × 0,9 (katalog)", "group": "Omáčka" },
+    { "ingredientId": "rajce", "amount": 364, "unit": "g", "note": "očištěná, nakrájená; z 1 000 g hrubých × 0,4 × 0,91 (katalog)", "group": "Omáčka" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 80, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 20, "unit": "g", "note": "zdroj 60 g na 10 porcí včetně soli do vody (27 g na 4 porce, z toho 7 g do vody); solit postupně a dosolit podle chuti", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "testoviny", "amount": 360, "unit": "g", "note": "špagety, suché", "group": "Špagety" },
+    { "ingredientId": "voda", "amount": 3500, "unit": "ml", "note": "na vaření špaget, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Špagety", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g", "note": "do vody na vaření, slije se", "group": "Špagety", "scaling": "vessel" },
+    { "ingredientId": "repkovy-olej", "amount": 22, "unit": "g", "note": "1/5 oleje na promaštění špaget", "group": "Špagety" },
+    { "ingredientId": "eidam", "amount": 80, "unit": "g", "note": "tvrdý sýr, strouhaný; zdroj moravský bochník", "group": "Na posypání" }
+  ],
+  "steps": [
+    { "text": "Cibuli oloupej a jemně nakrájej. Maso nakrájej na drobnější kostičky. Rajčata očisti a nakrájej.", "minutes": 10 },
+    { "text": "Na většině oleje osmahni cibuli do růžova.", "minutes": 8 },
+    { "text": "Přidej maso, krátce ho osmahni, osol, opepři a duš 20 až 30 minut.", "minutes": 35 },
+    { "text": "Mezitím přiveď k varu osolenou vodu, vař v ní špagety téměř do měkka (na lomu má zůstat bílá tečka), pečlivě je propláchni, nech řádně okapat a promaž zbytkem oleje.", "minutes": 25, "parallel": true },
+    { "text": "K podušenému masu přidej nakrájená rajčata a společně krátce podus.", "minutes": 8 },
+    { "text": "Přidej rajčatový protlak, směs znovu krátce podus a podle potřeby přisol.", "minutes": 5 },
+    { "text": "Na talíř dej horké špagety, doprostřed vlož dušené maso s rajčaty a posyp strouhaným sýrem." }
+  ],
+  "modernNote": "Zdroj 15608, dávka 10 porcí (1 porce 420 g; hotový výrobek 4 200 g ze 4 811 g hmotnosti potravin, ztráty 611 g). Pro 4 porce: 1 680 g hotového jídla. Množství jsou ze sloupce hrubá × 0,4. Zelenina je zapsána jako jedlá hmotnost (cibule 200 g hrubých, rajčata 1 000 g). Špagety 900 g suchých (zdroj uvádí čistou hmotnost uvařených 2 040 g). Voda na vaření špaget (3,5 l) a sůl do ní (7 g) jsou domácí hodnoty, špagety se slijí. Sůl ve zdroji (60 g na 10 porcí, tj. 27 g na 4 porce) zjevně zahrnuje i sůl do vody na špagety: 7 g (domácí hodnota 2 g na 1 l) je proto samostatný řádek do vody a zbylých 20 g je v omáčce. Dávej na začátku polovinu a dosol podle chuti. Jídelní norma masa je 100 g na porci (zdroj 1 kg plece na 10 porcí); jako hlavní jídlo počítej 120–150 g masa na osobu. Sýr: tvrdý moravský bochník nahrazuje eidam. Špagety mají zůstat mírně tužší (nepřevařené).",
+  "source": { "book": "receptury-1983", "page": 315, "code": "15608", "titleOriginal": "SPAGETY S VEPŘOVÝM MASEM A RAJČATY" },
+  "verified": true,
+  "quote": "Směs dušeného masa s rajčaty je hustší."
+}

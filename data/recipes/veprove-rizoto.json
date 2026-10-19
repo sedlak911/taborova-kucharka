@@ -1,0 +1,37 @@
+{
+  "id": "veprove-rizoto",
+  "title": "Vepřové rizoto",
+  "titleOriginal": "Rizoto z vepřového masa",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "veprova-plec", "amount": 400, "unit": "g", "note": "bez kosti nebo ořez, opláchnutá a nakrájená na drobné kostičky", "group": "Rizoto" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "z 200 g hrubé × 0,9, oloupaná a nakrájená na drobno", "group": "Rizoto" },
+    { "ingredientId": "sadlo", "amount": 55, "unit": "g", "note": "škvařené", "group": "Rizoto" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "group": "Rizoto" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "note": "zdroj uvádí jen „pepř mletý“, zvolen černý", "group": "Rizoto" },
+    { "ingredientId": "leco", "amount": 80, "unit": "g", "note": "konzervované, bez masa", "group": "Rizoto" },
+    { "ingredientId": "ryze-bila", "amount": 320, "unit": "g", "note": "dobře vypraná a odcezená", "group": "Rizoto" },
+    { "ingredientId": "voda", "amount": 480, "unit": "ml", "note": "na rýži (1 šálek rýže na 1 1/2 šálku vody); maso podlévej zvlášť troškou vody", "group": "Rizoto" },
+    { "ingredientId": "eidam", "amount": 40, "unit": "g", "note": "tvrdý sýr, nastrouhaný, na posypání", "group": "Rizoto" }
+  ],
+  "steps": [
+    { "text": "Vepřovou plec nebo ořez opláchni a nakrájej na drobné kostičky.", "minutes": 10 },
+    { "text": "Cibuli oloupej, nakrájej nadrobno a osmahni na sádle do růžova.", "minutes": 8 },
+    { "text": "Do základu přidej maso, osol, opepři a za občasného promíchání krátce podus.", "minutes": 10 },
+    { "text": "Přidej lečo, maso mírně podlij vodou a duš do poloměkka.", "minutes": 25 },
+    { "text": "K poloměkkému masu přidej dobře vypranou, odcezenou rýži a zalij vodou (na 1 šálek rýže 1 1/2 šálku vody). Za stálého míchání přiveď k varu.", "minutes": 7 },
+    { "text": "Přikryj poklicí a na mírném ohni duš do měkka.", "minutes": 20 },
+    { "text": "Hotové rizoto promíchej vidličkou.", "minutes": 2 },
+    { "text": "Rizoto tvaruj v šálku a posyp nastrouhaným sýrem. Podávej s kyselými okurkami nebo zeleninovým salátem." }
+  ],
+  "modernNote": "Zdroj: 13115, dávka 10 porcí (1 porce 280 g; hotový výrobek 2 800 g z 3 651 g hrubé hmotnosti). Pro 4 porce: 1 120 g hotového rizota. Množství drž podle zdroje (norma masa 100 g na porci); jako hlavní jídlo počítej 120–150 g masa na osobu. Sádlo škvařené zůstává. Pepř zdroj nespecifikuje, zvolen mletý černý. Tvrdý sýr = eidam. Cibule je zapsána jako jedlá hmotnost (200 g hrubé × 0,4 × 0,9 = 70 g). Modernizace: zdroj dusí rýži s masem v mírně vyhřáté troubě; v kotlíku nebo hrnci na plotně stačí pod pokličkou na nejmenším plameni (nebo v troubě na 160 °C). Sůl: zdroj dává 30 g na 10 porcí, tj. asi 3,5 g na porci při 4 porcích; dej polovinu a dosol podle chuti. Aplikace počítá porci ze syrových surovin, hotová porce po vaření je podle zdroje 280 g.",
+  "source": { "book": "receptury-1983", "page": 208, "code": "13115", "titleOriginal": "RIZOTO Z VEPŘOVÉHO MASA" },
+  "verified": true
+}
