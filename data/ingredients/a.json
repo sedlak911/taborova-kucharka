@@ -1429,7 +1429,7 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:170419",
       "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
-      "refuse": "USDA SR Legacy fdc:170419 refuse 62%"
+      "refuse": "USDA SR Legacy fdc:170419 refuse 62%; platí jen pro hrášek v luscích (A.P.), vyloupaný, mražený či konzervovaný se nepřepočítává"
     }
   },
   {

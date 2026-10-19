@@ -1383,11 +1383,11 @@
       "fiber": 0
     },
     "units": {},
-    "ediblePortion": 0.75,
+    "ediblePortion": 1,
     "allergens": [],
     "sources": {
       "nutrition": "USDA SR Legacy fdc:167843 (Pork, fresh, shoulder, whole, separable lean and fat, raw)",
-      "refuse": "USDA fdc:167843 refusePct 25"
+      "refuse": "bez kosti (tak ji používají všechny recepty); s kostí a kůží USDA fdc:167843 refusePct 25"
     }
   },
   {

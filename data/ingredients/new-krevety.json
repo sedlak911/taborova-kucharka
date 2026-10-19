@@ -4,9 +4,9 @@
     "name": "Krevety loupané",
     "aliases": [
       "krevety",
-      "krevety vařené loupané",
+      "krevety syrové loupané",
       "shrimp",
-      "shrimps, cooked, cleaned"
+      "shrimps, raw"
     ],
     "category": "ryby",
     "scaling": "linear",
@@ -23,8 +23,35 @@
       "korysi"
     ],
     "sources": {
-      "nutrition": "USDA SR Legacy fdc:175179 (Crustaceans, shrimp, raw); použito pro vařené loupané krevety (Navy „Shrimps, cooked, cleaned“)",
-      "refuse": "loupané (zdroj: cooked, cleaned); odpad USDA fdc:175179 13 % (hlava a krunýř) je už odstraněn, ediblePortion 1"
+      "nutrition": "USDA SR Legacy fdc:175179 (Crustaceans, shrimp, raw)",
+      "refuse": "loupané; odpad USDA fdc:175179 13 % (hlava a krunýř) je už odstraněn, ediblePortion 1"
+    }
+  },
+  {
+    "id": "krevety-varene",
+    "name": "Krevety vařené loupané",
+    "aliases": [
+      "krevety vařené",
+      "vařené krevety",
+      "shrimps, cooked, cleaned"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 99,
+      "protein": 23.98,
+      "carbs": 0.2,
+      "fat": 0.28,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "korysi"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175180 (Crustaceans, shrimp, cooked)",
+      "refuse": "loupané (Navy „Shrimps, cooked, cleaned“); odpad USDA fdc:175180 17 % (ocas a krunýř) je už odstraněn, ediblePortion 1"
     }
   }
 ]

@@ -11,7 +11,7 @@
   "equipment": ["plotna"],
   "allergens": ["korysi", "lepek", "mleko", "vejce"],
   "ingredients": [
-    { "ingredientId": "krevety", "amount": 360, "unit": "g", "note": "vařené, loupané (zdroj: Shrimps, cooked, cleaned, 20 lb)" },
+    { "ingredientId": "krevety-varene", "amount": 360, "unit": "g", "note": "vařené, loupané (zdroj: Shrimps, cooked, cleaned, 20 lb)" },
     { "ingredientId": "mleko-polotucne", "amount": 260, "unit": "ml", "note": "horké; do omáčky (zdroj: Milk, liquid, hot, 1¾ gal omáčky)" },
     { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "rozpuštěné (zdroj: Butter or other fat, melted, v omáčce)", "scaling": "linear" },
     { "ingredientId": "hladka-mouka", "amount": 12, "unit": "g", "note": "do omáčky" },

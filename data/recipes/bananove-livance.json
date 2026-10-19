@@ -20,7 +20,7 @@
     { "ingredientId": "maslo", "amount": 7, "unit": "g", "note": "rozpuštěné", "scaling": "linear", "original": { "ingredientId": "ztuzeny-tuk", "amount": 7, "unit": "g" } },
     { "ingredientId": "banan", "amount": 200, "unit": "g", "note": "jedlá část; z 17,5 lb nákupní váhy (střed rozsahu 15 až 20 lb) × 0,64" },
     { "ingredientId": "repkovy-olej", "amount": 500, "unit": "ml", "note": "na hluboké smažení; odhad, zdroj uvádí jen „deep fat“", "scaling": "vessel" },
-    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý do lívanců (odhad)", "scaling": "linear" }
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý do lívanců (odhad)", "scaling": "fat" }
   ],
   "steps": [
     { "text": "V hlubokém hrnci rozehřej olej na 190 °C.", "minutes": 8 },
