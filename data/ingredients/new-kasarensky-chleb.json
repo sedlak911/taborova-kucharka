@@ -1,0 +1,31 @@
+[
+  {
+    "id": "slad-sladovy",
+    "name": "Slad sladový (diastatický)",
+    "aliases": [
+      "sladový prášek",
+      "sladová mouka",
+      "malt",
+      "barley malt",
+      "diastatic malt"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 361,
+      "protein": 10.28,
+      "carbs": 78.3,
+      "fat": 1.84,
+      "fiber": 7.1
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169740 (Barley malt flour)",
+      "refuse": "USDA fdc:169740 refusePct 0"
+    }
+  }
+]

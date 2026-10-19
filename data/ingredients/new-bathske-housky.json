@@ -1,0 +1,31 @@
+[
+  {
+    "id": "citronove-aroma",
+    "name": "Citrónová esence (aroma)",
+    "aliases": [
+      "esence z citrónu",
+      "essence of lemon",
+      "lemon essence",
+      "lemon extract"
+    ],
+    "category": "koreni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzicka": 5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:167749 (Lemon peel, raw) jako základ; makra nastavena na 0, protože aroma se dávkuje v řádu mililitrů",
+      "units": "lžička 5 ml (odhad)"
+    },
+    "densityGPerMl": 1
+  }
+]

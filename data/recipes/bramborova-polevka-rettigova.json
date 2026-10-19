@@ -1,0 +1,100 @@
+{
+  "id": "bramborova-polevka-rettigova",
+  "title": "Bramborová polévka se smaženými bramborami",
+  "titleOriginal": "Polívka se zemčaty na jiný způsob",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 6,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 960,
+      "unit": "g",
+      "note": "čerstvé, oloupané; 2/3 na rozvaření (střední), 1/3 na smažení (malé); odhad 80 g a 40 g na kus"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 930,
+      "unit": "ml",
+      "note": "4 žejdlíky hovězí polévky (1 žejdlík ≈ 0,35 l)"
+    },
+    {
+      "ingredientId": "hovezi-loj",
+      "amount": 30,
+      "unit": "g",
+      "note": "na smažení; nebo čerstvé máslo"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 20,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.35,
+      "unit": "g",
+      "note": "květ (muškátový květ, mace), mletý"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 7,
+      "unit": "g",
+      "note": "volitelně, na zahuštění"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 4,
+      "unit": "g",
+      "note": "zelená, nadrobno nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Střední brambory oloupej a nakrájej na plátky. Cibuli nakrájej nadrobno.",
+      "minutes": 10
+    },
+    {
+      "text": "Na rozpuštěném loji nebo másle osmaž plátky brambor s cibulí do zlatova. Volitelně je poprašuj moukou a ještě chvíli smaž.",
+      "minutes": 10
+    },
+    {
+      "text": "Zalij je hovězí polévkou a vař, dokud brambory nezměknou.",
+      "minutes": 15
+    },
+    {
+      "text": "Brambory rozmačkej, rozmíchej a procedi.",
+      "minutes": 5
+    },
+    {
+      "text": "Mezitím malé brambory oloupej, nakrájej na tenké kolečka a na loji nebo másle je osmaž do zlatova.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Polévku okořeň květem a nalej na osmažené brambory v míse. Podávej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Recept je pro 6 osob (zdroj), přepočteno na 4. Množství brambor (80 g střední, 40 g malé na kus), cibule (30 g pro 6 osob) a loje (40 g pro 6 osob) jsou odhady, zdroj uvádí jen počty kusů. Hovězí polévka je z kupovaného vývaru (hovezi-vyvar), proto recept není bez masa. Hovězí lůj lze nahradit máslem, jak zdroj také uvádí. Mouku zdroj uvádí jen jako volitelné zahuštění (2 kávové lžičky pro 6 osob). Květ je muškátový květ (mace); v katalogu je jako muskatovy-orisek s poznámkou. Nález check:recipe: 488 g na porci je nad rozsahem polévky (250–450 g), protože zdroj chce hustou kaši z 12 středních brambor na 4 žejdlíky vývaru; hodnota odpovídá kartě, ponechána. Pro řidší polévku sniž brambory o třetinu nebo přidej vývar.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 23,
+    "titleOriginal": "Polívka se zemčaty na jiný způsob"
+  },
+  "verified": false,
+  "quote": "Pro 6 osob oloupej 12 prostředních zemčat, rozkrájej je na lístky a nech je buď na rozkrájeném hovězím loji nebo na čerstvém másle s rozkrájenou cibulkou hezky do zlatová usmažit."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "zazvorove-pernicky-glasse",
+  "title": "Zázvorové perníčky",
+  "titleOriginal": "To make Ginger-bread Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "ve zdroji 3 lb (1,36 kg)" },
+    { "ingredientId": "cukr-krystal", "amount": 165, "unit": "g", "note": "ve zdroji 1 lb" },
+    { "ingredientId": "maslo", "amount": 165, "unit": "g", "scaling": "linear", "note": "ve zdroji 1 lb, rozetřít do mouky" },
+    { "ingredientId": "zazvor-mlety", "amount": 25, "unit": "g", "note": "ve zdroji 2 oz" },
+    { "ingredientId": "muskatovy-orisek", "amount": 2, "unit": "g", "note": "ve zdroji „a large nutmeg“, odhad" },
+    { "ingredientId": "melasa", "amount": 165, "unit": "g", "note": "ve zdroji „treacle“ 1 lb" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 50, "unit": "ml", "note": "ve zdroji ¼ pinty (142 ml)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C a plech vylož pečicím papírem." },
+    { "text": "Máslo rozetři s moukou do velmi jemné strouhanky. Vmíchej cukr, zázvor a nastrouhaný muškátový oříšek.", "minutes": 10 },
+    { "text": "V malém rendlíku na mírném ohni zahřej melasu se smetanou, až budou vlažné. Nevař.", "minutes": 5 },
+    { "text": "Teplou směs vlij do mouky a vypracuj tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto rozválej na tenko a vykrajuj malou sklenicí nebo šálkem. Nebo z něj tvaruj kuličky.", "minutes": 10 },
+    { "text": "Pokládej na plech a peč ve střední troubě, dokud nezezlátnou. Dávky pečou postupně.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj nemá porce. Přepočteno na 1 dávku z 500 g mouky (zdroj: 3 lb mouky = 1,36 kg; faktor 4 / 10,89), vyjde cca 16 menších perníčků. Melasa = anglická treacle, nechána jako ve zdroji (zlatý sirup jde nahradit 1:1). Smetana 33 % místo kysané, protože zdroj počítá s krémem. Zázvor je silný, na 500 g mouky lze dát méně, podle chuti. Muškátový oříšek je odhad (velký oříšek nastrouhaný, asi 2 g). Pečení v „slack oven“ = mírná trouba, 150 °C. Zdroj neuvádí teplotu ani čas, ty jsou odhad z praxe.",
+  "source": { "book": "glasse-1747", "page": 239, "titleOriginal": "To make Ginger-bread Cakes" },
+  "verified": false,
+  "quote": "Take three pounds of flour, one pound of sugar, one pound of butter rubbed in very fine"
+}

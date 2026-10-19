@@ -1,0 +1,29 @@
+{
+  "id": "bramborove-placicky-hauptmann",
+  "title": "Bramborové placičky",
+  "titleOriginal": "Potato Cakes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 1500, "unit": "g", "note": "syrové, oloupané, nastrouhané (jedlá hmotnost)" },
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "jen velmi málo (odhad)" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "odhad (zdroj „a little salt“)" },
+    { "ingredientId": "sadlo", "amount": 40, "unit": "g", "note": "na smažení, odhad", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Brambory oloupej, nastrouhej a dej do mísy.", "minutes": 15 },
+    { "text": "Přidej mouku, vejce a sůl a dobře promíchej.", "minutes": 3 },
+    { "text": "Na pánvi rozehřej sádlo.", "minutes": 3 },
+    { "text": "Lžící dávkuj hromádky těsta na pánev a smaž z obou stran dozlatova. Podávej horké.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj nemá porce ani množství mouky; uvádí jen ½ galonu strouhaných brambor a 3 vejce na tuto dávku. ½ US galonu je 1,89 l sypkého objemu; strouhané brambory mají kvůli vzduchu mezi třískami zhruba 0,8 g/ml, tedy cca 1,5 kg (plná brambora má ~1,08 g/ml). Tato dávka je zde 4 porce (cca 375 g brambor na osobu jako příloha), přepočet tedy faktor 1. Mouka (velmi málo) je odhad 20 g, sůl (a little) odhad 3 g, sádlo na smažení odhad 40 g. Volitelná sladká smetana ze zdroje vynechána. Moderní tip: strouhané brambory pusť, vymačkej z nich vodu (pustí hodně tekutiny) a placičky budou křupavější.",
+  "source": { "book": "hauptmann-1877", "page": 54, "titleOriginal": "Potato Cakes" },
+  "verified": false,
+  "quote": "Fry in hot lard until a nice brown on both sides."
+}

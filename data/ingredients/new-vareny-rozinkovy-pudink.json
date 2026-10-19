@@ -1,0 +1,29 @@
+[
+  {
+    "id": "korintky",
+    "name": "Korintky",
+    "aliases": [
+      "sušené korintky",
+      "currants",
+      "zante currants"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 290,
+      "protein": 3.43,
+      "carbs": 76.98,
+      "fat": 0.22,
+      "fiber": 4.4
+    },
+    "units": {
+      "hrnek": 152
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171724 (Currants, zante, dried)",
+      "refuse": "USDA fdc:171724 odpad 0 %"
+    }
+  }
+]

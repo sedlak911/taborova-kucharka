@@ -1,0 +1,33 @@
+{
+  "id": "polni-chleb",
+  "title": "Polní chléb",
+  "titleOriginal": "Field Bread (Temperate and Frigid Climates)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "pšeničná, 100 % základ" },
+    { "ingredientId": "mleko-polotucne", "amount": 270, "unit": "ml", "note": "vlažné; 260 ml vody + 10 g sušeného mléka rozmíchaného dohromady", "original": { "ingredientId": "mleko-susene", "amount": 10, "unit": "g" } },
+    { "ingredientId": "drozdi-cerstve", "amount": 8, "unit": "g", "note": "čerstvé (1,5 % mouky); sušené by stačilo 4 g" },
+    { "ingredientId": "sul", "amount": 13, "unit": "g" },
+    { "ingredientId": "cukr-krystal", "amount": 9, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 5, "unit": "g", "note": "změkčené", "original": { "ingredientId": "ztuzeny-tuk", "amount": 5, "unit": "g" } }
+  ],
+  "steps": [
+    { "text": "Smíchej mouku, cukr a sůl.", "minutes": 3 },
+    { "text": "Droždí rozmíchej v části vlažného mléka (asi 35 °C), přilij k moučné směsi a vypracuj těsto. Přidej máslo a hněť do hladkého, pružného těsta.", "minutes": 10 },
+    { "text": "Těsto přikryj a nech kynout asi 1 hodinu, dokud nezdvojnásobí objem.", "minutes": 60 },
+    { "text": "Těsto vykypři, utvař pevný bochník a vlož do vymazané formy. Nech dokynout asi 20 minut.", "minutes": 25 },
+    { "text": "Předehřej troubu na 230 °C. Bochník lehce navlhči vodou a udělej do vrchu 6 vpichů tužkou, aby kůrka nepraskala.", "minutes": 2 },
+    { "text": "Peč 10 minut na 230 °C, pak sniž na 205 °C a peč dalších 40 minut, dokud není kůrka tmavě zlatá a bochník při poklepání duté zvuk.", "minutes": 50 },
+    { "text": "Vyndej z formy a nech vychladnout na mřížce 2 až 3 hodiny. Nezabaluj do fólie, kůrka by změkla." }
+  ],
+  "modernNote": "Zdroj: TM 10-410 The Army Baker (1945), odst. 88, dávka v procentech mouky (mouka 100 %; voda 51–53 %, použita 52 %). Přepočet přímo na 500 g mouky (procento × 5 g), proto bez škálování přes výtěžek; zdroj neuvádí porce, `originalYield` vynechán. Droždí: zdroj 1,5 % stlačeného (0,75 % sušeného). Sušené mléko se rozmíchá s vodou do jednoho řádku mléka (původní sušené mléko v `original`). Ztužený rostlinný tuk nahrazen máslem. Kynutí 1 hodinu je odhad z praxe, zdroj čas nedává. Pečení: zdroj 450 °F (230 °C) při vložení, pak 400 °F (205 °C), celkem asi 1 h 20 min pro velký bochník 4 lb; pro bochník z 500 g mouky (cca 800 g těsta) zkráceno na asi 50 min. Kniha uvádí docking (vpichy) před pečením. Sůl 2,5 % mouky podle zdroje: 13 g na bochník, asi 3,25 g na porci, což je nad doporučeným rozsahem 0,5–2,5 g. Hodnotu jsem ponechal podle karty; pro domácí chuť doporučuji 9–10 g. Tabor nepřiřazen: vyžaduje troubu. Bochník vydrží čerstvý 2–3 týdny, pokud je dobře vypečený a vychladlý na mřížce.",
+  "source": { "book": "army-baker-1945", "page": 48, "titleOriginal": "Field Bread (Temperate and Frigid Climates)" },
+  "verified": true,
+  "quote": "Well-baked field bread will remain fresh and in good condition for 2 or 3 weeks."
+}

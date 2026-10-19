@@ -1,0 +1,32 @@
+{
+  "id": "prazena-krupicova-kase",
+  "title": "Pražená krupicová kaše",
+  "titleOriginal": "Pražená kaše",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "krupice-psenicna", "amount": 280, "unit": "g", "note": "půl libry (560 g) ze zdroje; zdroj nezmiňuje porce, 280 g pokládám za 4 porce" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "note": "na upražení krupice; čtyři loty ze zdroje (1 lot = 17,5 g)" },
+    { "ingredientId": "voda", "amount": 700, "unit": "ml", "note": "slaná, vařící; odhad, zdroj píše jen 'tolik, až se utvoří hustá kaše' (cca 2,5 × krupice)" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "do vody, odhad" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "note": "na polití kaše a na sázení vajec; odhad z 'trochu rozpáleným máslem'" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks", "note": "sázená; zdroj 'několik', odhad 1 na porci" }
+  ],
+  "steps": [
+    { "text": "Rendlík rozehřej, dej do něj máslo a krupici za míchání upražuj do červena.", "minutes": 8 },
+    { "text": "Mezitím přiveď k varu vodu se solí.", "minutes": 6, "parallel": true },
+    { "text": "Za čerstvého míchání na krupici postupně nalévej vařící slanou vodu, dokud se nevytvoří hustá kaše.", "minutes": 3 },
+    { "text": "Kaši nech za míchání ještě povařit.", "minutes": 5 },
+    { "text": "Mezitím na jiné pánvi s trochou másla usmaž 4 vejce sázená, bez převracení.", "minutes": 5, "parallel": true },
+    { "text": "Kaši dej na mísu, polij rozpáleným máslem a navrch polož sázená vejce.", "minutes": 2 }
+  ],
+  "modernNote": "Porce: zdroj nezmiňuje počet porcí; půl libry krupice (280 g) a čtyři loty másla (70 g) jsem vzal jako dávku pro 4 porce. Staré míry: libra 560 g, lot 17,5 g. Voda (700 ml), sůl (3 g), máslo na polití (15 g) a počet vajec (4, zdroj píše 'několik') jsou odhady; kniha je neměří. Pro sladkou variantu podávej s cukrem, skořicí nebo ovocem.",
+  "source": { "book": "rettigova-1868", "page": 199, "titleOriginal": "Pražená kaše" },
+  "verified": false,
+  "quote": "Dej na rendlik čtyry loty másla a nech v něm půl libry krupice do červena upražit."
+}

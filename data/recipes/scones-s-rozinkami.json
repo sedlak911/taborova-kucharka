@@ -1,0 +1,42 @@
+{
+  "id": "scones-s-rozinkami",
+  "title": "Scones s rozinkami",
+  "titleOriginal": "Currant or Milk Scones",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "zdroj 6 lb (2 722 g)" },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "studené, zdroj 6 oz sádla; rozemnout do mouky",
+      "scaling": "linear",
+      "original": { "ingredientId": "sadlo", "amount": 30, "unit": "g" }
+    },
+    { "ingredientId": "cukr-krystal", "amount": 30, "unit": "g", "note": "zdroj 6 oz" },
+    { "ingredientId": "prasek-do-peciva", "amount": 15, "unit": "g", "note": "místo vinného kamene a sody (odhad, viz modernNote)", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g", "note": "zdroj 1 oz" },
+    { "ingredientId": "korintky", "amount": 85, "unit": "g", "note": "zdroj 1 lb" },
+    { "ingredientId": "podmasli", "amount": 250, "unit": "ml", "note": "na vypracování těsta (odhad, zdroj „buttermilk to dough“)" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "note": "na potření (zdroj neuvádí množství, odhad)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 220 °C." },
+    { "text": "Ve velké míse smíchej mouku, cukr, kypřicí prášek a sůl.", "minutes": 2 },
+    { "text": "Studené sádlo nebo máslo rozemni prsty do mouky, až vznikne drobenka.", "minutes": 5 },
+    { "text": "Přidej korintky, zalij podmáslím a rychle vypracuj měkké těsto.", "minutes": 3 },
+    { "text": "Těsto rozděl na 3 stejné díly. Každý vyválej na kulatý plát silný asi 2 cm a nakrájej na 4 díly.", "minutes": 10 },
+    { "text": "Kousky polož na plochý čistý plech a potři rozšlehaným vejcem.", "minutes": 2 },
+    { "text": "Peč 15 minut, dokud nejsou zlatavé. Nech vychladnout na mřížce.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj: dávka na 6 lb (2 722 g) mouky; kusy 11 oz (312 g) se rozkrájí na čtvrtiny. Zde domácí dávka z 500 g mouky: 12 scones (1 porce = 3 scones, cca 75 g těsta). Sádlo (30 g) je v původním řádku máslo s originálem sádlo. Vinný kámen (cream of tartar) v katalogu není; místo něj kypřicí prášek 15 g (3 % mouky, odhad; zdroj 3 oz vinného kamene + 1½ oz sody, tj. cca 4,7 % mouky). Podmáslí 250 ml a 1 vejce na potření jsou odhady („to dough“, zdroj nemá množství). Zdroj neuvádí teplotu ani čas pečení („sound oven“), 220 °C a 15 minut jsou odhad pro scones. Pořadí přidávání surovin je běžný postup podle receptu 170 (sádlo do mouky, pak tekutina).",
+  "source": { "book": "wells-1890", "page": 68, "titleOriginal": "Currant or Milk Scones" },
+  "verified": false,
+  "quote": "Weigh off at 11 ozs. for 2d., mould, pin out and cut in four; put on flat clean tins; wash with egg on top."
+}

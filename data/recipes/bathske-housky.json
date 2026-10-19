@@ -1,0 +1,36 @@
+{
+  "id": "bathske-housky",
+  "title": "Bathské sladké housky",
+  "titleOriginal": "Bath Buns",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 135,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 450, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 230, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 230, "unit": "g" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks" },
+    { "ingredientId": "drozdi-cerstve", "amount": 30, "unit": "g", "scaling": "linear", "note": "zdroj: 1 oz Parisian yeast (pivní kvasnice)" },
+    { "ingredientId": "mleko-polotucne", "amount": 150, "unit": "ml", "note": "teplé; odhad, zdroj „a little warm milk“" },
+    { "ingredientId": "citronova-kura", "amount": 10, "unit": "g", "note": "odhad, zdroj „some citron peel“" },
+    { "ingredientId": "citronove-aroma", "amount": 2.5, "unit": "ml", "note": "odhad, zdroj „a little essence of lemon“" },
+    { "ingredientId": "muskatovy-orisek", "amount": 2, "unit": "g", "note": "odhad, zdroj „half a nutmeg grated“" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Máslo rozetři s moukou mezi prsty, dokud nevznikne drobenka.", "minutes": 5 },
+    { "text": "Uprostřed vytvoř jamku, rozklepni do ní vejce. Droždí rozmíchej v části teplého mléka, přidej ho i se zbytkem mléka a vypracuj těsto střední konzistence.", "minutes": 10 },
+    { "text": "Těsto přikryj a nech na teplém místě kynout, dokud nevzroste.", "minutes": 60 },
+    { "text": "Vmíchej strouhanou citronovou kůru, citrónovou esenci, muškátový oříšek a cukr v kouscích velikosti hrášku.", "minutes": 5 },
+    { "text": "Těsto rozděl na 14 buchet, vytvaruj je a na plechu nech dokynout. Případně je potři rozšlehaným vejcem a posyp cukrem.", "minutes": 30 },
+    { "text": "Peč při 180 °C 20 minut, dokud nejsou zlatavé.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj: dávka na 1 lb (454 g) mouky, dává 14 dvoupencových buchet. Domácí dávka je celé těsto = 4 porce (cca 14 buchet, tedy 3–4 buchty na porci). Čerstvé droždí místo pivního kvasu (Parisian yeast). Mléko (150 ml), kůra (10 g), citrónová esence (2,5 ml) a muškátový oříšek (2 g, polovina ořechu) jsou odhady podle „a little“, „some“ a „half a nutmeg“. Doby kynutí (60 a 30 minut) jsou odhad, zdroj je neuvádí. Pečení „in gentle heat“ je převedeno na 180 °C. Vaječný lesk a cukrová poleva jsou volitelné podle zdroje, bez uvedeného množství.",
+  "source": { "book": "wells-1890", "page": 27, "titleOriginal": "Bath Buns" },
+  "verified": false,
+  "quote": "This will make fourteen twopenny buns."
+}

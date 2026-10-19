@@ -1,0 +1,46 @@
+{
+  "id": "bramborak",
+  "title": "Bramborák",
+  "titleOriginal": "Bramborák",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 450, "unit": "g", "note": "syrové, oloupané, nastrouhané; z 560 g hrubé × 0,8 (katalog)" },
+    { "ingredientId": "hladka-mouka", "amount": 80, "unit": "g" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 kus na 10 porcí" },
+    { "ingredientId": "cesnek", "amount": 4, "unit": "g", "note": "utřený; z 10 g hrubé × 0,87" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g" },
+    { "ingredientId": "majoranka", "amount": 0.23, "unit": "g", "note": "rozdrcená" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g", "note": "mletý" },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 115,
+      "unit": "g",
+      "note": "na pánev; zdroj sádlo škvařené 200 g pro 10 porcí",
+      "scaling": "vessel",
+      "original": { "ingredientId": "sadlo", "amount": 115, "unit": "g" }
+    }
+  ],
+  "steps": [
+    { "text": "Oškrabané, opláchnuté brambory jemně nastrouhej, nech ustát a vodu slij.", "minutes": 15 },
+    { "text": "Do brambor přidej mléko, prosátou hladkou mouku, vejce, utřený česnek, sůl, rozdrcenou majoránku a mletý pepř. Těsto dobře rozmíchej.", "minutes": 3 },
+    { "text": "Na pánvi rozehřej olej.", "minutes": 3 },
+    { "text": "Těsto nalij na rozehřátou pánev, rozetři a peč po obou stranách do zlatova. Podávej ihned, bramborák musí být křupavý.", "minutes": 12 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (900 g hotového, porce 90 g) na 4 porce, faktor 0,4 z hrubé váhy. Brambory: zdroj uvádí odpad 40 % (čistá 840 g z 1400 g hrubé), katalog má u brambor jedlou část 0,8, takže je řádek 448 g jedlých (450 g zaokrouhleno). Při odpadu 40 % by vyšlo 336 g; hodnotu zkontroluj podle skutečné odrůdy a loupání. Tuk na smažení: zdroj 200 g škvařeného sádla pro 10 porcí; přepočteno jako tuk na pánev (třída vessel) na 115 g, moderně řepkový olej, původní sádlo 115 g v original. Část tuku zůstává v pánvi. Vejce: zdroj 1 kus (40 g), 0,4 ks. Česnek, sůl, majoránka a pepř podle zdrojové váhy; majoránka a pepř pod 1 g, uloženo přesně. Nález bilance (150 g surové směsi na porci proti 90 g hotového bramboráku) je ztráta při smažení, ne chyba: zdroj má 1400 g čistých surovin a 900 g hotového výrobku (ztráty 500 g, tedy přibližně 36 %); u 4 porcí tedy počítej s 360 g hotového. Zdroj nedoporučuje držet bramborák na teple (ztrácí křehkost), proto podávej ihned.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 492,
+    "code": "19406",
+    "titleOriginal": "BRAMBORÁK"
+  },
+  "verified": true,
+  "quote": "Bramborák musí být po upečení mírně křupavý, proto jej podáváme ihned po úpravě."
+}

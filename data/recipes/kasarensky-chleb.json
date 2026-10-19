@@ -1,0 +1,54 @@
+{
+  "id": "kasarensky-chleb",
+  "title": "Kasárenský chléb",
+  "titleOriginal": "Garrison Bread (Straight-Dough Method)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 315,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "100 % mouky; základ receptury" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 330,
+      "unit": "ml",
+      "note": "voda 300 ml (60 %, u mouky proměnlivá) + sušené mléko 30 g rozmíchané ve vodě",
+      "original": { "ingredientId": "mleko-susene", "amount": 30, "unit": "g" }
+    },
+    { "ingredientId": "drozdi-cerstve", "amount": 10, "unit": "g", "note": "lisované (compressed) 2 %", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 13, "unit": "g", "note": "2,5 % (12,5 g), zaokrouhleno", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "3 %" },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "5 %; ve zdroji ztužený tuk (shortening), bez něj by chléb byl suchý",
+      "scaling": "linear",
+      "original": { "ingredientId": "ztuzeny-tuk", "amount": 25, "unit": "g" }
+    },
+    { "ingredientId": "slad-sladovy", "amount": 5, "unit": "g", "note": "1 %; volitelný, lze vynechat nebo nahradit 1 lžičkou medu" }
+  ],
+  "steps": [
+    { "text": "Mléko nahřej na 30 až 35 °C, rozmíchej v něm cukr a sůl a rozetři v něm droždí.", "minutes": 5 },
+    { "text": "Do mísy nasyp mouku, přilij mléko a zapracuj. Přidej máslo a slad a hněť 10 až 15 minut do hladkého, pružného těsta o teplotě asi 27 °C.", "minutes": 15 },
+    { "text": "Těsto zakryj a nech kynout v teple 144 minut (2 h 24 min).", "minutes": 144 },
+    { "text": "Těsto vtlač, aby uniklo plyn, a nech ještě 36 minut kynout.", "minutes": 36 },
+    { "text": "Těsto rozděl na jeden kus asi 800 g, zaokrouhli ho a nech 12 minut odpočinout pod utěrkou.", "minutes": 12 },
+    { "text": "Kus vtlač, slož do obdélníku, pevně srolovat, zapečetit šev a vlož ho švem dolů do vymazané formy na chléb.", "minutes": 5 },
+    { "text": "Předehřej troubu na 230 °C." },
+    { "text": "Bochník nech v teple dokynout 50 minut (30 až 60 minut), až zdvojnásobí objem.", "minutes": 50 },
+    { "text": "Peč 10 minut při 230 °C, pak sniž na 200 °C a peč dalších 35 minut, dokud nezhnědne a po poklepání nezní dutě.", "minutes": 45 },
+    { "text": "Vyjmi z formy a nech na mřížce vychladnout." }
+  ],
+  "modernNote": "Zdroj (PDF 47, odst. 83): přímé těsto, procenta z mouky (100 = mouka). Přepočteno přímo na 1 bochník z 500 g mouky (procento × 5 g), faktor 1, zdroj nemá hmotnosti. Voda 60 % je v knize „variable“, podle mouky doladit (300 ml je výchozí bod). Sušené mléko 30 g se rozmíchá ve vodě a v řádku je mléko jako objem 330 ml (součet vody a sušeného mléka, sušené v original). Ztužený tuk (shortening) nahrazen máslem 25 g; droždí compressed 2 % = 10 g čerstvého droždí. Sůl 12,5 g zaokrouhlena na 13 g. Slad 1 % (5 g): ve zdroji je „malt“, v katalogu chyběl, založen slad-sladovy (USDA barley malt flour); volitelný. Doby z knihy: kvašení 3 h s vtlačením při 80 % (144 min), pak 36 min; zrání v formě 30 až 60 min (kniha 50); 12 min krátký odpočinek před tvarováním. Pečení: kniha uvádí 36 min pro 20 oz (567 g) bochník při 450 °F (230 °C) prvních 10 až 15 min, pak asi 400 °F (200 °C); bochník z 800 g těsta má asi 700 g pečiva, proto 45 min. Kniha uvádí i pekárenskou teplotu těsta 78 až 84 °F (26 až 29 °C), doma stačí vlažná voda. Nález check:recipe: sůl 3,25 g na porci je nad 2,5 g; sedí s poměrem 2,5 % ze zdroje, ponecháno. Doporučení: pro domácí chléb je 2 % soli (10 g) běžnější.",
+  "source": {
+    "book": "army-baker-1945",
+    "page": 47,
+    "titleOriginal": "Garrison Bread (Straight-Dough Method)"
+  },
+  "verified": true,
+  "quote": "The oven temperature should be 450° F. when loaves are put in for baking."
+}

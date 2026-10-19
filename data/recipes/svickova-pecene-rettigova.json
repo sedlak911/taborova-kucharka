@@ -1,0 +1,36 @@
+{
+  "id": "svickova-pecene-rettigova",
+  "title": "Svíčková pečeně po staročesku",
+  "titleOriginal": "Tak nazvaná svíčková pečeně",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 11,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["pripravit-predem"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 810, "unit": "g", "note": "svíčková z kusu pod ledvinou; zdroj 4 libry (2,24 kg) po odřezání kůže a loje" },
+    { "ingredientId": "vinny-ocet", "amount": 250, "unit": "ml", "scaling": "linear", "note": "marináda, zakryje maso; zdroj 2 žejdlíky ≈ 0,7 l" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "celá cibule ve zdroji, odhad 100 g" },
+    { "ingredientId": "cely-pepr", "amount": 0.42, "unit": "g", "note": "12 celých pepřů" },
+    { "ingredientId": "zazvor", "amount": 4, "unit": "g", "note": "4 kousky, odhad 10 g" },
+    { "ingredientId": "tymian-susity", "amount": 0.42, "unit": "g", "note": "dymián, „trochu“" },
+    { "ingredientId": "spek", "amount": 55, "unit": "g", "note": "na prostrkání masa, odhad 150 g" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "odhad 15 g na celý kus" },
+    { "ingredientId": "zakysana-smetana", "amount": 90, "unit": "g", "note": "polévání při pečení, odhad 250 g" }
+  ],
+  "steps": [
+    { "text": "Maso zbav kůžiček a loje a osol ho.", "minutes": 10 },
+    { "text": "Vinný ocet rozkrájej s cibulí, přidej celé pepře, kousky zázvoru a dymián a nech to povařit.", "minutes": 10 },
+    { "text": "Zatím maso prostrkej slaninou (vyšpikuj).", "minutes": 10, "parallel": true },
+    { "text": "Maso vlož do hliněné nádoby, polej horkým octem a nech v chladu 3 až 4 dny ležet. Každý den ho obrať." },
+    { "text": "Maso peč v troubě jako zajíce a polévej kyselou smetanou, až je hezky hnědé.", "minutes": 60 },
+    { "text": "Maso nakrájej a podávej teplé, nebo studené s octem a olejem." }
+  ],
+  "modernNote": "Zdroj neudává počet porcí; odhad: 4 libry (2,24 kg, libra 560 g) ≈ 11 porcí po cca 200 g, proto originalYield 11 a 4 porce ≈ 810 g masa. Staročeská marináda je dlouhá (3–4 dny, v zimě déle); dnes stačí 1–2 dny v lednici, dokud je maso zakryté. Doba pečení (60 min) je odhad pro 810 g masa; zdroj „peč jako zajíce“ čas neudává. Množství cibule, zázvoru, pepře, dymiánu, slaniny, soli a smetany jsou odhady z „trochu“ a „asi“ ve zdroji. Šťávu z pečení lze přecedit a podávat jako omáčku (zdroj ji zvlášť neuvádí).",
+  "source": { "book": "rettigova-1868", "page": 44, "titleOriginal": "Tak nazvaná svíčková pečeně" },
+  "verified": false,
+  "quote": "Vezmi asi 4 libry tak nazvané svíčkové pečeně, totiž onen kus libového masa pod ledvinou"
+}

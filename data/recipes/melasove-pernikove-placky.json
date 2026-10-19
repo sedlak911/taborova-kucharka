@@ -1,0 +1,36 @@
+{
+  "id": "melasove-pernikove-placky",
+  "title": "Perníkové placky s melasou",
+  "titleOriginal": "Ginger Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "ze zdroje 7¼ lb" },
+    { "ingredientId": "melasa", "amount": 410, "unit": "g", "note": "tmavá melasa (N. O.), ze zdroje ½ gal", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 70, "unit": "ml", "note": "ze zdroje 1 pint", "scaling": "linear" },
+    { "ingredientId": "jedla-soda", "amount": 11, "unit": "g", "note": "ze zdroje 2½ oz", "scaling": "linear" },
+    { "ingredientId": "zazvor-mlety", "amount": 17, "unit": "g", "note": "ze zdroje 4 oz zázvoru, mletý", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Melasu, vodu, sodu a zázvor dej do mísy a dobře promíchej.", "minutes": 3 },
+    { "text": "Postupně zapracuj mouku a lehce vypracuj měkké těsto.", "minutes": 8 },
+    { "text": "Těsto rozválej asi na 0,6 cm (¼ palce) a vykrájej placky.", "minutes": 10 },
+    { "text": "Plech lehce vymaž tukem a položte na něj placky.", "minutes": 3 },
+    { "text": "Placky potři řídkou směsí melasy a vody.", "minutes": 2 },
+    { "text": "Peč v horké troubě asi na 200 °C, dokud nejsou pevné, asi 15 minut.", "minutes": 15 },
+    { "text": "Vyndej na mřížku a nech vychladnout.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj počítá dávku na 7¼ lb (cca 3,3 kg) mouky a ½ galonu melasy (pekárenská dávka, porce nejsou uvedeny); zde přepočteno na domácí dávku z 500 g mouky (4 porce, cca 25–30 placek). Přepočet lineárně přes mouku, včetně zázvoru a sody (v těstě se mění úměrně mouce, ne podle katalogové třídy koření/kypřidla). Melasa uvedena v gramech (hustota 1,42 g/ml). Zdroj neuvádí teplotu ani čas („hot oven“): 200 °C a 15 minut jsou odhad. Zázvor zdroj nespecifikuje, použit mletý (jako v jiném receptu téže knihy). Lesk z melasy a vody zdroj nevyčísluje, do bilance nepočítán; doporučení: několik lžic melasy zředěné vodou. Těsto se krájí na tloušťku asi 6 mm (¼ palce).",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 39,
+    "titleOriginal": "Ginger Cakes"
+  },
+  "verified": true,
+  "quote": "Mix light, cut about ¼ inch thick."
+}

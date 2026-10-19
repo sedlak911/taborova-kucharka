@@ -1,0 +1,58 @@
+{
+  "id": "domaci-chleb-wells",
+  "title": "Domácí bílý chléb",
+  "titleOriginal": "Home-made Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 160,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 500,
+      "unit": "g",
+      "note": "jemná mouka; ve zdroji 1 stone (6,35 kg)"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 6,
+      "unit": "g",
+      "note": "čerstvé; ve zdroji 2½ oz (71 g) na 1 stone, barm / German yeast",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "ve zdroji 2½ oz (71 g) na 1 stone; v těstě lineárně k mouce",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 320,
+      "unit": "ml",
+      "note": "vlažná 27–32 °C; 2 × 1 gill (22 ml) na droždí a sůl + odhad 300 ml do těsta"
+    }
+  ],
+  "steps": [
+    { "text": "Do mísy přesej mouku, udělej v ní důlek a jeho stěny stlač, aby tekutina neutekla.", "minutes": 2 },
+    { "text": "Droždí rozmíchej v 142 ml vlažné vody, nalij do důlku a přimíchej trochu mouky, aby vzniklo řídké těsto. Zakryj a nech kvasit, dokud má povrch vzhled karfiolu.", "minutes": 30 },
+    { "text": "Sůl rozpusť v 142 ml vlažné vody a přilij do mísy. Přidávej vodu, dokud nevznikne měkké hladké těsto. Zapracuj do hladka.", "minutes": 10 },
+    { "text": "Těsto nech v míse krátce kynout.", "minutes": 30 },
+    { "text": "Těsto přelož na pracovní plochu, rozděl na jeden bochník a vytvaruj ho. Vlož do vymazané formy.", "minutes": 5 },
+    { "text": "Nech bochník v teple dokynout, až zdvojnásobí objem.", "minutes": 45 },
+    { "text": "Předehřej troubu na 220 °C a peč bochník asi 35 minut, dokud nezhnědne a při poklepání nezní dutě.", "minutes": 35 },
+    { "text": "Vyjmi z formy a nech na mřížce vychladnout." }
+  ],
+  "modernNote": "Zdroj: dávka na 1 stone (14 lb = 6,35 kg) mouky, přepočteno na 1 bochník z 500 g mouky (faktor 4/50,8). Droždí a sůl (2½ oz = 71 g na 1 stone) lineárně k mouce: 6 g na 500 g; třída kypřidla nebo koření by dala 9 g resp. 8 g. Voda: zdroj uvádí jen 2 × 1 gill (284 ml na 1 stone) pro droždí a sůl a „dostatek vody (nebo vody s mlékem)“ do těsta bez množství; doplněno 300 ml (hydratace 60 %), ověř podle mouky. Zdroj nedává dobu kynutí ani pečení; časy jsou odhad (kvašení 30 min, kynutí v míse 30 min, dokynutí 45 min, pečení 220 °C 35 min). Imperiální míry: 1 gill = 142 ml.",
+  "source": {
+    "book": "wells-1890",
+    "page": 17,
+    "titleOriginal": "Home-made Bread"
+  },
+  "verified": false,
+  "quote": "Put 1 stone of fine flour into your mixing pan; make a hole in the middle of the flour."
+}

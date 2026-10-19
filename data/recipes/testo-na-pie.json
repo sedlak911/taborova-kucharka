@@ -1,0 +1,35 @@
+{
+  "id": "testo-na-pie",
+  "title": "Křehké těsto na koláč",
+  "titleOriginal": "Pie Crust",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 2,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 300, "unit": "g", "note": "na těsto pro jeden koláč" },
+    { "ingredientId": "maslo", "amount": 150, "unit": "g", "note": "tuhé, ne měkké", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 150, "unit": "ml", "note": "studená; přilévej postupně, může stačit méně" }
+  ],
+  "steps": [
+    { "text": "Formy na koláč vymaž tukem.", "minutes": 1 },
+    { "text": "Mouku a máslo mezi dlaněmi rozetři, dokud směs není jemná.", "minutes": 5 },
+    { "text": "Vlij vodu a těsto jen lehce promíchej, co nejméně.", "minutes": 2 },
+    { "text": "Na pomoučněnou plochu těsto rozděl na kusy; na spodní korpusy asi polovinu. Každý kus lehce zakulať a zploštěj dlaní.", "minutes": 5 },
+    { "text": "Těsto vyválej nejdřív napříč, pak podélně. Válej co nejméně, aby nebylo tvrdé. Plát má být jen o něco větší než forma.", "minutes": 8 },
+    { "text": "Korpus polož do formy, formu několikrát zvedni asi 8 cm a nech spadnout. Těsto nemačkej prsty. Spodní korpus má být o trochu silnější než vrchní.", "minutes": 2 },
+    { "text": "Vrchní korpus vyválej stejným způsobem, o něco tenčí. U šťavnaté náplně potři okraje spodního korpusu vodou, než přiložíš vrch.", "minutes": 10 },
+    { "text": "Koláč peč ve středně horké troubě, dokud korpus nezezlátne. Chceš-li hezčí barvu, potři vrch rozšlehaným žloutkem s trochou vody." }
+  ],
+  "modernNote": "Zdroj: 2 lb mouky (907 g), 1 lb másla (454 g), scant 1 pint vody (450 ml; „scant“ = o trochu méně). Dávka pro jeden koláč (cca 300 g mouky) = 4 porce; přepočet `npm run convert -- --yield 12.1` (k = 4/12,1). Originální dávka je pekárenská, proto bez originalYield. Voda je ve zdroji skoro polovina hmotnosti mouky; u dnešního křehkého těsta je to hodně, proto přilévej postupně. Za horkého počasí zdroj doporučuje ledovou vodu. Sádlo místo másla: zdroj říká, že není stejné; pak přidej špetku soli (ve zdroji není množství, proto ji nezapisuji). Mazání forem tukem zdroj nekvantifikuje, řádek nepřidávám. Doba pečení závisí na náplni, proto krok pečení nemá minuty; timeMinutes (35) je příprava těsta bez pečení. Kapitola sladke: zdroj je v části Tarts, Pies a těsto je základ ovocných koláčů.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 47,
+    "titleOriginal": "Pie Crust"
+  },
+  "verified": true,
+  "quote": "Two lbs. flour, 1 lb. butter, a scant 1 pint water. The butter should be a stiff paste."
+}

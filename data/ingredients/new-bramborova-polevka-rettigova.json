@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hovezi-loj",
+    "name": "Hovězí loj (tuk)",
+    "aliases": [
+      "hovězí lůj",
+      "hovězí tuk",
+      "loj hovězí",
+      "beef tallow"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 900,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.9,
+    "units": {
+      "lzice": 12.8,
+      "lzicka": 4.3
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171400 (Fat, beef tallow); kcal 902 sníženo na 900 (limit schématu)",
+      "refuse": "USDA fdc:171400 refusePct 0",
+      "units": "USDA fdc:171400 tbsp 12,8 g, lžička odvozeno; hustota odhad 0,9 g/ml"
+    }
+  }
+]

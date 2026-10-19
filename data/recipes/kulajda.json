@@ -1,0 +1,44 @@
+{
+  "id": "kulajda",
+  "title": "Kulajda",
+  "titleOriginal": "POLÉVKA KULAJDA",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené; zásmažka" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1080, "unit": "ml", "note": "vlažný; zdroj vývar B (receptura 10101)" },
+    { "ingredientId": "brambory", "amount": 220, "unit": "g", "note": "oloupané, na menší kostky; z 700 g hrubých × 0,4 × 0,8 (katalog)" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "smetana-na-vareni", "amount": 80, "unit": "g", "note": "zdroj smetana 12 %" },
+    { "ingredientId": "kopr-nakladany", "amount": 20, "unit": "g", "note": "bez nálevu, jemně nakrájený" },
+    { "ingredientId": "ocet", "amount": 45, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi)" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks", "note": "zastřená, na porci 1 vejce" }
+  ],
+  "steps": [
+    { "text": "Ze sádla a prosáté hladké mouky připrav světlou zásmažku. Za stálého prošlehávání ji zalij vlažným vývarem.", "minutes": 5 },
+    { "text": "Přiveď k varu a za občasného prošlehání zvolna vař nejméně 30 minut.", "minutes": 38 },
+    { "text": "Mezitím oloupej brambory a nakrájej je na menší kostičky.", "minutes": 8, "parallel": true },
+    { "text": "Přidej brambory a kmín a vař dál, dokud brambory nezměknou. Nerozvař je.", "minutes": 15 },
+    { "text": "Mezitím připrav zastřená vejce: do mírně osolené, okyselené vařící vody opatrně vyklepni syrová vejce a mírným varem je částečně uvař, žloutek má zůstat měkký.", "minutes": 4, "parallel": true },
+    { "text": "Přilij smetanu, přidej jemně nakrájený kopr a podle chuti dochuť solí a octem. Krátce povař.", "minutes": 3 },
+    { "text": "Do talířů dej zastřené vejce, zalij horkou polévkou a podávej." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,3 l hotové polévky, porce 0,33 l) na 4 porce, faktor 0,4 (k = 4/10). Brambory: zdroj uvádí 700 g hrubých, odpad 280 g, čistých 420 g; řádek je 220 g = 700 × 0,4 × 0,8 (jedlá část z katalogu). Podle čistého sloupce zdroje by to bylo 170 g, podle katalogu 220 g; při loupání sníž. Sádlo a hovězí vývar zůstávají (zdroj je používá), vývar lze nahradit zeleninovým a z receptu udělat bez-masa. Sůl a polévkové koření jsou přepočteny jako koření (třída seasoning, zdroj 20 g soli a 20 g koření): soli 9 g je na 1,1 l polévky hodně, proto dochuť podle chuti. Ocet 100 g ze zdroje přepočten na 45 g. Kopr: zdroj uvádí kopr nakládaný bez nálevu (50 g), v katalogu nebyl, proto nová surovina kopr-nakladany (makra orientačně podle čerstvého kopru). Vejce: zdroj 10 ks na 10 porcí, tj. 1 vejce na porci. Zastřená vejce vkládej při podávání, nedržej je v polévce.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 46,
+    "code": "10149",
+    "titleOriginal": "POLÉVKA KULAJDA"
+  },
+  "verified": true,
+  "quote": "Zastřená vejce je vhodné upravovat tzv. „na objednávku“."
+}

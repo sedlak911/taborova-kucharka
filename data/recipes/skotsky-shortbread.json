@@ -1,0 +1,28 @@
+{
+  "id": "skotsky-shortbread",
+  "title": "Skotské máslové sušenky (shortbread)",
+  "titleOriginal": "Scotch Shortbread",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 300, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 150, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "cukr-moucka", "amount": 75, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na střední teplotu, cca 170 °C." },
+    { "text": "Máslo vyšlehej s moučkovým cukrem do hladka.", "minutes": 5 },
+    { "text": "Postupně přidej mouku a vše promni rukou, dokud nevznikne hladké, měkké těsto, které se dobře tvaruje.", "minutes": 10 },
+    { "text": "Těsto rozdělej na kusy požadované velikosti a tvaruj čtverce nebo kolečka. Povrch propichej vidličkou a okraje zvlň zářezy.", "minutes": 10 },
+    { "text": "Tvarované kusy polož na suchý čistý plech a peč ve střední troubě, dokud nejsou lehce zlatavé, asi 25 minut.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, č. 54) je dávka na 2 lb (907 g) mouky; přepočteno na 4 porce: 300 g mouky, 150 g másla, 75 g moučkového cukru (cca 12 kusů). Zdroj uvádí 8 oz cukru (½ lb), ne ¼ lb. Teplota a čas pečení ve zdroji nejsou („moderate oven“), 170 °C a 25 minut jsou odhad. Moderní tip: nechat vychladnout na mřížce, sušenky křehnou až vychladnou.",
+  "source": { "book": "wells-1890", "page": 36, "titleOriginal": "Scotch Shortbread" },
+  "verified": true,
+  "quote": "Mix the sugar in the butter, then take in all the flour"
+}

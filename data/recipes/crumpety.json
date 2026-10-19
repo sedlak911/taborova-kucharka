@@ -1,0 +1,32 @@
+{
+  "id": "crumpety",
+  "title": "Crumpety (kynuté placičky z plotny)",
+  "titleOriginal": "Crumpets",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 160,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "anglická pšeničná mouka; zdroj 4 lb" },
+    { "ingredientId": "drozdi-cerstve", "amount": 16, "unit": "g", "scaling": "linear", "note": "zdroj 2 oz „good yeast“; kypřidlo v těstě, lineárně" },
+    { "ingredientId": "sul", "amount": 16, "unit": "g", "scaling": "linear", "note": "v těstě, lineárně jako mouka; zdroj 2 oz" },
+    { "ingredientId": "mleko-polotucne", "amount": 310, "unit": "ml", "note": "zdroj 1 quart (1,136 l)" },
+    { "ingredientId": "voda", "amount": 470, "unit": "ml", "note": "teplá, asi 38 °C; zdroj 1½ quartu" }
+  ],
+  "steps": [
+    { "text": "Mléko a vodu zahřej na asi 38 °C (100 °F). V části teplé tekutiny rozpusť droždí.", "minutes": 5 },
+    { "text": "Vmíchej mouku a sůl a rozmíchej na řídké těsto bez hrudek.", "minutes": 3 },
+    { "text": "Těsto nech hodinu kynout.", "minutes": 60 },
+    { "text": "Těsto znovu důkladně prošlehej a nech kynout ještě hodinu.", "minutes": 60 },
+    { "text": "Mezitím vyčisti plotnu, rozehřej ji a lehce ji vytři tukem. Vymaž také kroužky vysoké asi 1,3 cm.", "minutes": 10, "parallel": true },
+    { "text": "Kroužky polož na plotnu, do každého nalij asi půl hrnku těsta a rozetři je paletovým nožem do rovné vrstvy. Peč, dokud spodek nezezlátne. Po dávkách opakuj, dokud není těsto spotřebováno.", "minutes": 25 },
+    { "text": "Placky i s kroužky obrať, dopeč do zlatova a polož na čisté prkno. Krátce nech ztuhnout, pak kroužky sundej a podávej teplé.", "minutes": 5 }
+  ],
+  "modernNote": "Přepočteno z dávky 4 lb (1 814 g) mouky na 500 g mouky, faktor 0,2756 (4 / 14,512 porcí). Zdroj neuvádí počet porcí; na 500 g mouky vyjde asi 11 kusů z půl hrnku (120 ml) těsta. Droždí: „good yeast“ bereme jako čerstvé droždí. Sůl je v těstě, proto lineárně jako mouka (chemie kynutí), ne jako koření. Nález check:recipe „sůl 4 g na porci“ je odchylka od doporučení, ne chyba: zdroj dává 2 oz soli na 4 lb mouky (asi 1,1 % mouky), a to je stejný poměr. Doporučení: u moderní chuti stačí 5–8 g soli na 500 g mouky (1–1,5 % mouky); zdrojovou dávku ponechávám, aby přepočet odpovídal knize. Teplota 100 °F je přepočtena na 38 °C. Zdroj uvádí jen plotnu bez teploty a času pečení; čas u kroků je odhad z postupu (každou stranu do zlatova). Kroužky: zdroj 1/2 palce (asi 1,3 cm) hluboké; pokud nejsou, lze použít vysoké kovové kroužky nebo vyříznuté dno plechovky. Zdroj nepředepisuje tuk na vymazání pánve a kroužků (jen „greasy cloth“), proto ho řádek neobsahuje. Dvě hodiny kynutí jsou celkem asi 2 h 40 min; časová osa je v timeMinutes.",
+  "source": { "book": "wells-1890", "page": 26, "titleOriginal": "Crumpets" },
+  "verified": true,
+  "quote": "Take 4 lbs. of good English flour, 2 ozs. of good yeast, and 2 ozs. of salt."
+}

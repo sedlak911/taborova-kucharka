@@ -1,0 +1,28 @@
+[
+  {
+    "id": "bucek-veprovy",
+    "name": "Vepřový bůček",
+    "aliases": [
+      "bůček vepřový",
+      "bůček s kůží",
+      "pork belly",
+      "vepřový bůček s kůží"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 518,
+      "protein": 9.34,
+      "carbs": 0,
+      "fat": 53.01,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167812 (Pork, fresh, belly, raw)",
+      "refuse": "USDA fdc:167812 odpad 7 % (kůže); v receptu se bůček s kůží používá celý, proto ediblePortion 1"
+    }
+  }
+]

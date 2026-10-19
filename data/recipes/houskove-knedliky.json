@@ -1,0 +1,36 @@
+{
+  "id": "houskove-knedliky",
+  "title": "Houskové knedlíky s máslem",
+  "titleOriginal": "HOUSKOVÉ KNEDLÍKY MAŠTĚNÉ MÁSLEM",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hruba-mouka", "amount": 300, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "prasek-do-peciva", "amount": 6, "unit": "g", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "zloutek", "amount": 8, "unit": "g", "note": "z 1 žloutku (asi 20 g)", "group": "Těsto" },
+    { "ingredientId": "mleko-polotucne", "amount": 240, "unit": "ml", "group": "Těsto" },
+    { "ingredientId": "zemle-bila", "amount": 115, "unit": "g", "note": "nakrájená na kostičky", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "na vaření knedlíků, slije se; domácí hodnota (kotel pro 4 porce)", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "do vody na vaření, slije se", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "rozpuštěné, na omaštění", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Ve velkém hrnci přiveď 2 litry vody se solí k varu.", "minutes": 10 },
+    { "text": "Mezitím žemle nakrájej na kostičky. Prosátou hrubou mouku smíchej s práškem do pečiva, přidej sůl, žloutek a mléko a lehce zamíchej. Nakonec vmíchej žemle.", "minutes": 8, "parallel": true },
+    { "text": "Těsto vyjmi na pomoučený vál, rozděl na dva bochánky a rozválej je na šišky o průměru asi 5 cm.", "minutes": 10 },
+    { "text": "Šišky vlož do vařící osolené vody a vař asi 25 minut. Během varu knedlíky občas obrať, aby se uvařily stejnoměrně.", "minutes": 25 },
+    { "text": "Uvařené knedlíky ihned vyjmi z vody a rozkrájej na plátky, aby vyprchala pára.", "minutes": 3 },
+    { "text": "Před podáváním knedlíky ohřej v páře. Máslo rozpusť a při podávání jím knedlíky omasti.", "minutes": 5 },
+    { "text": "Podávej jako přílohu k různým pokrmům." }
+  ],
+  "modernNote": "Zdroj: receptura 19909/A (PDF 569, tištěná 607) na 10 porcí = 1 650 g hotových knedlíků, 1 porce 165 g (4 plátky). Postup a základní těsto jsou z receptury 19909 (PDF 568, tištěná 606), 19909/A k ní přidává jen máslo. Přepočet na 4 porce nástrojem convert (k = 0,4). Voda na vaření (2 l) je domácí hodnota místo zdrojové, protože zdroj vodu na vaření neuvádí; slévá se, sůl do ní 2 g na litr. Žloutek 20 g ze zdroje je přepočten na 8 g (asi 0,4 ks). Žemle bílá veka je nová surovina zemle-bila (nejbližší USDA je bílý chléb). Zdroj bochánky 800 g pro 10 porcí; pro 4 porce dva bochánky asi 340 g. Kroky Mezitím/paralelní: vaření vody běží během přípravy těsta. Bilance: suroviny celkem 698 g (bez vody na vaření), hotový výrobek 660 g pro 4 porce (zdroj má ztráty 105 g na 10 porcí), proto je porce 165 g jen orientační. Zdroj nezná přesnou dobu ohřevu v páře, 5 minut je odhad z praxe.",
+  "source": { "book": "receptury-1983", "page": 569, "code": "19909/A", "titleOriginal": "HOUSKOVÉ KNEDLÍKY MAŠTĚNÉ MÁSLEM" },
+  "verified": true
+}

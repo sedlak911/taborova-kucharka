@@ -1,0 +1,43 @@
+{
+  "id": "zapecene-kysane-zeli-s-uzenym",
+  "title": "Zapečené kyselé zelí s uzeným",
+  "titleOriginal": "Kyselé zelí pečené",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "kysele-zeli", "amount": 250, "unit": "g", "note": "odhad: „asi ve dvoužejdlíkovém hrnku“ pro 8 osob (≈ 0,7 l), uvařit do měkka a oceď" },
+    { "ingredientId": "sadlo", "amount": 75, "unit": "g", "note": "čtvrt libry na kostky (pro 8 osob 140 g)" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "1 lžíce vrchovatá (pro 8 osob ≈ 15 g)" },
+    { "ingredientId": "cibule", "amount": 50, "unit": "g", "note": "půl velké nebo celá malá cibule" },
+    { "ingredientId": "voda", "amount": 30, "unit": "ml", "note": "4 lžíce oceděné zelné vody z vaření zelí" },
+    { "ingredientId": "zakysana-smetana", "amount": 30, "unit": "g", "note": "4 lžíce kyselé smetany" },
+    { "ingredientId": "veprova-plec", "amount": 280, "unit": "g", "note": "půl libry (libra = 560 g pro 8 osob) mladého vepřového; zdroj neuvádí kus, zvoleno plec" },
+    { "ingredientId": "uzene-maso", "amount": 280, "unit": "g", "note": "půl libry (libra = 560 g pro 8 osob) mladého uzeného masa" },
+    { "ingredientId": "maslo", "amount": 8, "unit": "g", "note": "na vymazání formy a utření se žloutkem" },
+    { "ingredientId": "strouhanka", "amount": 15, "unit": "g", "note": "žemličková strouhanka na vysypání formy a posypání; odhad" },
+    { "ingredientId": "zloutek", "amount": 0.5, "unit": "ks", "note": "1 žloutek pro 8 osob, utřený s máslem" }
+  ],
+  "steps": [
+    { "text": "Uvař vepřové a uzené maso do měkka a nakrájej na malé řízky.", "minutes": 45 },
+    { "text": "Mezitím uvař kyselé zelí do měkka, sceď a zelnou vodu si odlož.", "minutes": 30, "parallel": true },
+    { "text": "Na pánvi rozpusť nakrájené sádlo do žluta.", "minutes": 5 },
+    { "text": "Vmíchej mouku a udělej světle žlutou jíšku.", "minutes": 3 },
+    { "text": "Vhoď nadrobno nakrájenou cibuli a chvíli ji škvař.", "minutes": 4 },
+    { "text": "Přidej scezené zelí, zelnou vodu a zakysanou smetanu a chvíli duš. Je-li směs moc hustá, přidej lžičku vody a lžičku zakysané smetany.", "minutes": 10 },
+    { "text": "Vymaž žáruvzdornou formu máslem a vysyp strouhankou.", "minutes": 3 },
+    { "text": "Na dno formy vlož věnec z uzeného masa, pak vrstvu zelí, na ni vrstvu uzeného a vepřového masa. Pokračuj, až je vše urovnáno, a na vrch dej zelí.", "minutes": 5 },
+    { "text": "Žloutek utři s máslem, pomaž jím povrch a posyp strouhankou.", "minutes": 3 },
+    { "text": "Předehřej troubu na 180 °C a zapékej do zlatova, asi 40 minut.", "minutes": 40 },
+    { "text": "Opatrně vyklop na mísu a podávej." }
+  ],
+  "modernNote": "Zdroj: Rettigová 1868, č. 40 „Kyselé zelí pečené“ (PDF 99–100), pro osm osob, přepočteno na 4 porce (originalYield 8). Zdroj uvádí jen libru (560 g) mladého vepřového a libru uzeného, tedy 1,1 kg masa na 8 osob (140 g na osobu); zde 560 g masa celkem na 4 osoby. Množství zelí, sádla, cibule, mouky, smetany a strouhanky nejsou ve zdroji vážena, jsou to odhady z objemu a lžic (verified: false). Pečicí teplota 180 °C a doba 40 minut nejsou ve zdroji (zdroj: „zvolna pěkně do zlatova“), doplněno odhadem. Zdroj odkazuje na omáčku jako k fašírované kapustě č. 25; zde se podává bez omáčky. Zelná voda (4 lžíce oceděné vody) je zachována. Doporučuji zvýšit zelí nebo přidat brambory, pokud je jídlo hlavní.",
+  "source": { "book": "rettigova-1868", "page": 99, "titleOriginal": "Kyselé zelí pečené" },
+  "verified": false,
+  "quote": "Uvař do měkka pro osm osob kyselého zelí asi ve dvoužedlíkovém hrnku"
+}

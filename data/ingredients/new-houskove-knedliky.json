@@ -1,0 +1,31 @@
+[
+  {
+    "id": "zemle-bila",
+    "name": "Žemle bílá (veka)",
+    "aliases": [
+      "bílá veka",
+      "veka bílá",
+      "žemle bílá",
+      "bílá žemle",
+      "žemle konzumní"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 266,
+      "protein": 8.85,
+      "carbs": 49.42,
+      "fat": 3.33,
+      "fiber": 2.7
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174924 (Bread, white, commercially prepared; náhrada za bílou veku)",
+      "refuse": "USDA fdc:174924 refusePct 0"
+    }
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "id": "kure-kari-glasse",
+  "title": "Kuřecí kari podle Hannah Glasse",
+  "titleOriginal": "To make a Currey the Indian way",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": ["kotlik", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1000, "unit": "g", "note": "2 malá kuřata nakrájená na kusy jako na fricassée; zdroj neuvádí váhu, odhad 2 × 1 kg s kostí" },
+    { "ingredientId": "voda", "amount": 570, "unit": "ml", "note": "imperiální quart (1,136 l) na vaření kuřat; vývar zůstává v jídle" },
+    { "ingredientId": "cibule", "amount": 250, "unit": "g", "note": "3 velké cibule, odhad 500 g" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "2 unce na osmahnutí cibule a kuřat" },
+    { "ingredientId": "kurkuma", "amount": 4, "unit": "g", "note": "čtvrt unce" },
+    { "ingredientId": "zazvor-mlety", "amount": 4, "unit": "g", "note": "„velká lžíce“ zázvoru, odhad 8 g pro 8 porcí" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 2, "unit": "g", "note": "rozetřený, odhad; zdroj ho uvádí společně se zázvorem" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "„trochu soli podle chuti“, odhad" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 70, "unit": "ml", "note": "čtvrt pinty (142 ml) pro 8 porcí" },
+    { "ingredientId": "citronova-stava", "amount": 30, "unit": "ml", "note": "šťáva ze dvou citronů, odhad 60 ml pro 8 porcí" }
+  ],
+  "steps": [
+    { "text": "Kuřata rozdělte na kusy jako na fricassée, omyjte je a vložte do vody. Přiveďte k varu.", "minutes": 13 },
+    { "text": "Vařte asi 5 minut. Vývar scedte a kuřata dejte na čisté talíř.", "minutes": 7 },
+    { "text": "Cibuli nadrobno nasekejte a osmahněte na másle dozlatova.", "minutes": 10 },
+    { "text": "Přidejte kuřata a opékejte je dohněda. Během smažení je posypte kurkumou, zázvorem s pepřem a solí.", "minutes": 10 },
+    { "text": "Zalijte vývarem a duste asi půl hodiny.", "minutes": 30 },
+    { "text": "Vmíchejte smetanu a šťávu z citronů. Podávejte horké.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, PDF 106, tištěná s. 74) nemá porce: odhad 8 porcí z 2 malých kuřat, proto originalYield 8. Volná množství převedena: imperiální quart 1,136 l, 2 unce másla 57 g, čtvrt unce kurkumy 7 g, čtvrt pinty smetany 142 ml, „velká lžíce“ zázvoru ~8 g a pepře ~3 g, sůl „trochu“ a šťáva ze dvou citronů jsou odhady. Zdroj kari podává s vařenou rýží (samostatný recept „To boil Rice“ na PDF 107: dvě kvarty vody na pintu rýže, sůl; rýže je v knize příloha, v receptu není). Dnes lze použít čerstvý zázvor a kurkumu.",
+  "source": { "book": "glasse-1747", "page": 106, "titleOriginal": "To make a Currey the Indian way" },
+  "verified": false,
+  "quote": "The ginger, pepper and turmerick must be beat very fine."
+}

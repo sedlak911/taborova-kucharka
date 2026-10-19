@@ -1,0 +1,43 @@
+{
+  "id": "celozrnny-chleb-army",
+  "title": "Celozrnný chléb",
+  "titleOriginal": "Whole-Wheat Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 170,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "celozrnna-mouka", "amount": 250, "unit": "g", "note": "50 % mouky (zdroj: celozrnná 50 %)" },
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "50 % mouky (zdroj: bílá 50 %)" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml",
+      "note": "ze sušeného mléka 15 g a 135 ml vody (poměr 1 : 9)",
+      "original": { "ingredientId": "mleko-susene", "amount": 15, "unit": "g" }
+    },
+    { "ingredientId": "voda", "amount": 175, "unit": "ml", "note": "zbylá voda do těsta; zdroj 62 % vody z mouky celkem" },
+    { "ingredientId": "drozdi-cerstve", "amount": 10, "unit": "g", "note": "compressed = čerstvé droždí (2 %)", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 13, "unit": "g", "note": "2,5 % z mouky, zaokrouhleno" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "3 %" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "5 %; zdroj shortening (rostlinný tuk)" },
+    { "ingredientId": "med", "amount": 10, "unit": "g", "note": "2 %; náhrada diastatického sladu, volitelně" }
+  ],
+  "steps": [
+    { "text": "Troubu předehřej na 230 °C." },
+    { "text": "Droždí rozmíchej v části vlažného mléka s medem a nech 5 minut zpěnit.", "minutes": 5 },
+    { "text": "Obě mouky smíchej se solí a cukrem. Přidej droždí s mlékem, zbytek mléka a máslo a 10 minut vypracuj hladké, pružné těsto.", "minutes": 10 },
+    { "text": "Těsto přikryj a nech kynout 60 minut, dokud nezdvojnásobí objem.", "minutes": 60 },
+    { "text": "Těsto krátce uvolni, pak ho vytvaruj na bochník a vlož do vymazané formy.", "minutes": 10 },
+    { "text": "Nech kynout v teple 45 minut, dokud těsto nevyroste nad okraj formy.", "minutes": 45 },
+    { "text": "Pečte 10 minut při 230 °C, pak teplotu sniž na 200 °C a peč dalších 30 minut. Hotový bochník zní při poklepání o spodek dutě.", "minutes": 40 },
+    { "text": "Nech bochník vychladnout na roštu, než ho začneš krájet." }
+  ],
+  "modernNote": "Zdroj: TM 10-410 (1945), odst. 93, přímá metoda; procenta mouky přepočtena na 500 g mouky (50 % celozrnné + 50 % bílé) = 1 bochník, zhruba 800 g hotového. Teploty z knihy: 450 °F při vložení, pak 400 °F (230 → 200 °C). Shortening (rostlinný tuk) nahrazen máslem; diastatický slad (2 %) nahrazen medem, který dává sladký aromat a cukry pro kvasinky, ale není to totéž. Sušené mléko 15 g je rozpuštěno 1 : 9 jako u palačinek, zbytek vody 175 ml. Sůl 2,5 % z mouky dává na porci 3,25 g, což je hodně; doporučení: krájet tenčí plátky, nebo solit jen 10 g. Časy kynutí (60 min těsto, 45 min forma) jsou domácí odhad; kniha v příkladu počítá celkovou fermentaci 3 h, u tohoto chleba čas neudává. Vychladnutí na roštu je mimo timeMinutes.",
+  "source": { "book": "army-baker-1945", "page": 49, "titleOriginal": "Whole-Wheat Bread" },
+  "verified": true,
+  "quote": "The proportion of whole-wheat flour may vary from 40 to 60 percent."
+}

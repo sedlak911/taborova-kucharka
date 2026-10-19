@@ -1,0 +1,43 @@
+{
+  "id": "hodge-podge",
+  "title": "Hodge-podge (dušené maso s ječmenem a zeleninou)",
+  "titleOriginal": "To make Hodge-podge",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 385,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 230, "unit": "g", "note": "tučné i libové, z 1 libry" },
+    { "ingredientId": "teleci-maso-libove", "amount": 230, "unit": "g", "note": "z 1 libry" },
+    { "ingredientId": "skopove-maso", "amount": 230, "unit": "g", "note": "krk (scrag), z 1 libry" },
+    { "ingredientId": "voda", "amount": 1140, "unit": "ml", "note": "studená" },
+    { "ingredientId": "kroupy", "amount": 14, "unit": "g", "note": "ječmen (perlový)" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g" },
+    { "ingredientId": "celer-rapikaty", "amount": 100, "unit": "g", "note": "odhad, 3–4 hlávky celeru" },
+    { "ingredientId": "vodnice", "amount": 150, "unit": "g", "note": "odhad, 3 vodnice" },
+    { "ingredientId": "mrkev", "amount": 75, "unit": "g", "note": "odhad, 1 velká" },
+    { "ingredientId": "salat-listovy", "amount": 50, "unit": "g", "note": "odhad, trochu salátu" },
+    { "ingredientId": "tymian-cerstvy", "amount": 1, "unit": "g", "note": "svazek bylinek (sweet herbs), odhad" },
+    { "ingredientId": "petrzel-nat", "amount": 3, "unit": "g", "note": "svazek bylinek (sweet herbs), odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.28, "unit": "g", "note": "trochu, v gáze" },
+    { "ingredientId": "hrebicek-cely", "amount": 0.17, "unit": "g", "note": "2–3 hřebíčky, v gáze" },
+    { "ingredientId": "cely-pepr", "amount": 1, "unit": "g", "note": "v gáze" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "dochucení, zdroj množství neuvádí (odhad)" },
+    { "ingredientId": "hrasek", "amount": 70, "unit": "g", "note": "volitelně, v sezóně (zdroj: půl pinty)" }
+  ],
+  "steps": [
+    { "text": "Maso nakrájej na malé kousky, dej do hrnce s vodou a postav na oheň, ať se začne vařit.", "minutes": 10 },
+    { "text": "Přidej kroupy, cibuli, svazek bylinek a nakrájený celer. Muškátový květ, hřebíček a celý pepř svaž do gázy a vlož k masu.", "minutes": 3 },
+    { "text": "Přidej oloupanou vodnici rozkrojenou na půlky, mrkev nakrájenou na šest kusů, nakrájený salát a případně hrášek. Hrnec pevně přikryj.", "minutes": 5 },
+    { "text": "Duš na velmi mírném ohni 6 hodin. Vař jen tak, aby sotva probublávalo, jinak se polévka vyvaří.", "minutes": 360 },
+    { "text": "Vyjmi koření, bylinky a cibuli. Vše nalij do mísy, dochuť solí a podávej.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nemá výtěžek. Porce odhadnuta z hmotnosti masa: 3 libry (1,36 kg) ≈ 8 porcí (cca 170 g syrového masa na porci), proto originalYield 8 a přepočet na 4 porce. Odhad, verified false. Maso (1 libra každého druhu) je ze zdroje. Míry jsou britské: quart 1,136 l (americký 0,946 l by dal o cca 15 % méně vody). Zdroj neuvádí množství soli, bylinek (sweet herbs = tymián a petržel, odhad), celeru (3–4 hlávky ≈ 200 g na 8 porcí), vodnice, mrkve ani salátu; všechno odhad. Hrášek je volitelný (půl pinty, v sezóně). Zdroj řadí jídlo k dušeným pokrmům s vývarem; dnes je to hustá polévka-guláš. Strana: PDF 127 (tištěná 97).",
+  "source": { "book": "glasse-1747", "page": 127, "titleOriginal": "To make Hodge-podge" },
+  "verified": false,
+  "quote": "Let it stew very softly over a slow fire five or six hours"
+}

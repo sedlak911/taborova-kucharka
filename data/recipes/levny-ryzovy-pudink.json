@@ -1,0 +1,33 @@
+{
+  "id": "levny-ryzovy-pudink",
+  "title": "Levný rýžový pudink",
+  "titleOriginal": "To make a cheap Rice Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 135,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 115, "unit": "g", "note": "dlouhozrnná, v plátně, nechat místo k nabobtnání" },
+    { "ingredientId": "rozinky", "amount": 230, "unit": "g", "note": "vypeckované" },
+    { "ingredientId": "maslo", "amount": 115, "unit": "g", "note": "odhad, zdroj bez množství; viz modernNote" },
+    { "ingredientId": "cukr-krystal", "amount": 50, "unit": "g", "note": "odhad, zdroj „sugar“ bez množství" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "odhad, zdroj „a little nutmeg“" }
+  ],
+  "steps": [
+    { "text": "Rýži a rozinky zabal do čisté utěrky nebo plátna. Utáhni tak, aby měla rýže dost místa k nabobtnání.", "minutes": 5 },
+    { "text": "Zavázaný balík ponoř do hrnce s vodou a vař 2 hodiny na mírném ohni.", "minutes": 120 },
+    { "text": "Vyndej balík z hrnce, rozvaž a pudink vyklop na talíř.", "minutes": 5 },
+    { "text": "Rozpusť máslo, polij pudink a posyp cukrem a muškátovým oříškem.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (PDF 198, tištěná 168): „To make a cheap Rice Pudding“ – ¼ lb rýže a ½ lb rozinek zabalit do plátna, vařit 2 hodiny, na talíři zalít rozpuštěným máslem a cukrem s trochou muškátu. Množství rýže (113 g) a rozinek (227 g) jsou ze zdroje, zaokrouhleno podle pravidel (115 g, 230 g). Porce zdroj neuvádí; ¼ lb rýže odpovídá asi 4 porcím, proto `originalYield` vynechán. Máslo a cukr ve zdroji bez množství: máslo 115 g (¼ lb) podle sousední receptury na téže straně (cheap plain Rice Pudding: ¼ lb másla na ¼ lb rýže), cukr 50 g jako odhad „dle chuti“, muškátový oříšek 1 g („a little nutmeg“). Proto `verified: false`. Voda na vaření není surovina (zdroj ji neuvádí, vaří se v hrnci). Tip: plátno lze nahradit čistou gázou nebo látkovým sáčkem; rýže potřebuje místo k nabobtnání. Na táboře stačí jeden hrnec nad ohněm, proto tag tabor a kotlik. Druhá varianta na téže straně (pečená s mlékem) se nepoužila.",
+  "source": {
+    "book": "glasse-1747",
+    "page": 198,
+    "titleOriginal": "To make a cheap Rice Pudding"
+  },
+  "verified": false,
+  "quote": "Give the rice a great deal of room to swell."
+}

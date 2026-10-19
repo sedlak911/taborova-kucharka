@@ -1,0 +1,38 @@
+{
+  "id": "segedinsky-gulas",
+  "title": "Segedínský guláš",
+  "titleOriginal": "Segedínský guláš",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "bucek-veprovy", "amount": 400, "unit": "g", "note": "s kůží, nakrájený na kostky (4 ks na porci)", "group": "Guláš" },
+    { "ingredientId": "sadlo", "amount": 55, "unit": "g", "note": "škvařené; polovina na cibuli, polovina na zásmažku", "group": "Guláš" },
+    { "ingredientId": "cibule", "amount": 60, "unit": "g", "note": "nákupní hmotnost, nasekaná na drobno", "group": "Guláš" },
+    { "ingredientId": "sladka-paprika", "amount": 7, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "note": "zalít, aby cibule nepřipálila; pak k ní dolévej", "group": "Guláš" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "kmin-mlety", "amount": 0.46, "unit": "g", "note": "zdroj uvádí jen „kmín“, zvolen mletý", "group": "Guláš" },
+    { "ingredientId": "kysele-zeli", "amount": 320, "unit": "g", "note": "kysané, překrájené", "group": "Guláš" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "na zásmažku", "group": "Zahuštění" },
+    { "ingredientId": "mleko-polotucne", "amount": 100, "unit": "ml", "note": "konzumní, přilij před koncem varu", "group": "Zahuštění" }
+  ],
+  "steps": [
+    { "text": "Opláchnutý bůček nakrájej na kostky (4 ks na porci).", "minutes": 10 },
+    { "text": "Cibuli nakrájej na drobno a zpěň ji na polovině sádla. Přidej mletou papriku, podus a mírně zalej vodou.", "minutes": 8 },
+    { "text": "Do cibulového základu vlož maso, osol ho, okoř kmínem a pod poklicí duš do poloměkka.", "minutes": 40 },
+    { "text": "Přidej překrájené kysané zelí a znovu duš.", "minutes": 30 },
+    { "text": "Ze zbylého sádla a prosáté mouky udělej zásmažku, rozmíchej ji s gulášem a pokrm zvolna duš do měkka.", "minutes": 25 },
+    { "text": "Před koncem varu přilij mléko, guláš dosol a krátce převař.", "minutes": 5 },
+    { "text": "Podávej s houskovými knedlíky." }
+  ],
+  "modernNote": "Zdroj: 13102, dávka 10 porcí (1 porce 215 g; hotový výrobek 2 150 g z 2 916 g hrubé hmotnosti). Pro 4 porce: 860 g hotového guláše. Kysané zelí je použito podle zdroje (nekupovat sterilované). Bůček je čerstvý s kůží (nová surovina, USDA fdc:167812). Sádlo a kysané zelí zůstávají. Mléko konzumní 250 g je zde 100 ml. Kmín zdroj nespecifikuje, zvolen mletý. Cibule je zapsána z hrubé hmotnosti (150 g → 60 g), jak je v zadání; katalogová jedlá část 0,9 znamená, že kalorie cibule jsou o ~15 % vyšší (asi 4 kcal na porci). Sůl: zdroj dává 30 g na 10 porcí, tj. asi 3,5 g na porci při 4 porcích; podle moderního doporučení dej na začátku polovinu a dosol podle chuti. Aplikace počítá porci ze syrových surovin (295 g), hotová porce po vaření je podle zdroje 215 g.",
+  "source": { "book": "receptury-1983", "page": 200, "code": "13102", "titleOriginal": "SEGEDÍNSKÝ GULÁŠ" },
+  "verified": true,
+  "quote": "Maso je prorostlé, šťavnaté a přiměřeně měkké."
+}

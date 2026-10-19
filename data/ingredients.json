@@ -868,6 +868,32 @@
     }
   },
   {
+    "id": "bucek-veprovy",
+    "name": "Vepřový bůček",
+    "aliases": [
+      "bůček vepřový",
+      "bůček s kůží",
+      "pork belly",
+      "vepřový bůček s kůží"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 518,
+      "protein": 9.34,
+      "carbs": 0,
+      "fat": 53.01,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167812 (Pork, fresh, belly, raw)",
+      "refuse": "USDA fdc:167812 odpad 7 % (kůže); v receptu se bůček s kůží používá celý, proto ediblePortion 1"
+    }
+  },
+  {
     "id": "bujon-kostka",
     "name": "Bujónová kostka",
     "aliases": [
@@ -1863,6 +1889,35 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:167747",
       "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "citronove-aroma",
+    "name": "Citrónová esence (aroma)",
+    "aliases": [
+      "esence z citrónu",
+      "essence of lemon",
+      "lemon essence",
+      "lemon extract"
+    ],
+    "category": "koreni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 1,
+    "units": {
+      "lzicka": 5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:167749 (Lemon peel, raw) jako základ; makra nastavena na 0, protože aroma se dávkuje v řádu mililitrů",
+      "units": "lžička 5 ml (odhad)"
     }
   },
   {
@@ -3422,6 +3477,37 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:169449 (Beef, variety meats and by-products, kidneys, raw)",
       "refuse": "USDA refusePct 16 (tuk, blány, vazivo) → 0,84"
+    }
+  },
+  {
+    "id": "hovezi-loj",
+    "name": "Hovězí loj (tuk)",
+    "aliases": [
+      "hovězí lůj",
+      "hovězí tuk",
+      "loj hovězí",
+      "beef tallow"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 900,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.9,
+    "units": {
+      "lzice": 12.8,
+      "lzicka": 4.3
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171400 (Fat, beef tallow); kcal 902 sníženo na 900 (limit schématu)",
+      "units": "USDA fdc:171400 tbsp 12,8 g, lžička odvozeno; hustota odhad 0,9 g/ml",
+      "refuse": "USDA fdc:171400 refusePct 0"
     }
   },
   {
@@ -5173,6 +5259,31 @@
     }
   },
   {
+    "id": "kopr-nakladany",
+    "name": "Kopr nakládaný (bez nálevu)",
+    "aliases": [
+      "nakládaný kopr",
+      "kopr v nálevu",
+      "pickled dill"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 43,
+      "protein": 3.46,
+      "carbs": 7.02,
+      "fat": 1.12,
+      "fiber": 2.1
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:172233 (Dill weed, fresh); nakládaný kopr má jiné složení, makra orientační",
+      "refuse": "bez odpadu (zdroj: bez nálevu)"
+    }
+  },
+  {
     "id": "koriandr-cerstvy",
     "name": "Koriandr čerstvý",
     "aliases": [
@@ -5226,6 +5337,33 @@
       "nutrition": "USDA SR Legacy fdc:170922 (Spices, coriander seed)",
       "units": "USDA fdc:170922 portions",
       "refuse": "USDA fdc:170922 refusePct 0"
+    }
+  },
+  {
+    "id": "korintky",
+    "name": "Korintky",
+    "aliases": [
+      "sušené korintky",
+      "currants",
+      "zante currants"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 290,
+      "protein": 3.43,
+      "carbs": 76.98,
+      "fat": 0.22,
+      "fiber": 4.4
+    },
+    "units": {
+      "hrnek": 152
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171724 (Currants, zante, dried)",
+      "refuse": "USDA fdc:171724 odpad 0 %"
     }
   },
   {
@@ -9984,6 +10122,35 @@
     }
   },
   {
+    "id": "slad-sladovy",
+    "name": "Slad sladový (diastatický)",
+    "aliases": [
+      "sladový prášek",
+      "sladová mouka",
+      "malt",
+      "barley malt",
+      "diastatic malt"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 361,
+      "protein": 10.28,
+      "carbs": 78.3,
+      "fat": 1.84,
+      "fiber": 7.1
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169740 (Barley malt flour)",
+      "refuse": "USDA fdc:169740 refusePct 0"
+    }
+  },
+  {
     "id": "sladka-paprika",
     "name": "Paprika sladká mletá",
     "aliases": [
@@ -12334,6 +12501,35 @@
       "nutrition": "odhad: USDA SR Legacy fdc:169975 (Cabbage, raw) × 5; sušené zelí v indexu chybí",
       "units": "bez převodu na objem",
       "refuse": "bez odpadu"
+    }
+  },
+  {
+    "id": "zemle-bila",
+    "name": "Žemle bílá (veka)",
+    "aliases": [
+      "bílá veka",
+      "veka bílá",
+      "žemle bílá",
+      "bílá žemle",
+      "žemle konzumní"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 266,
+      "protein": 8.85,
+      "carbs": 49.42,
+      "fat": 3.33,
+      "fiber": 2.7
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174924 (Bread, white, commercially prepared; náhrada za bílou veku)",
+      "refuse": "USDA fdc:174924 refusePct 0"
     }
   },
   {

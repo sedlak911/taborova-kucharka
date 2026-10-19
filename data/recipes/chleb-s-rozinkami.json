@@ -1,0 +1,106 @@
+{
+  "id": "chleb-s-rozinkami",
+  "title": "Chléb s rozinkami",
+  "titleOriginal": "Raisin Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 195,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 500,
+      "unit": "g",
+      "note": "100 % mouky; zdroj v procentech, 1 bochník z 500 g mouky (procento × 5 g)"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 20,
+      "unit": "g",
+      "note": "4 % z mouky; čerstvé (sušené by bylo poloviční)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 13,
+      "unit": "g",
+      "note": "2,5 % = 12,5 g, zaokrouhleno; v těstě lineárně k mouce",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 30,
+      "unit": "g",
+      "note": "6 % z mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "5 % z mouky; změkčené; zdroj má ztužený tuk (original)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mleko-susene",
+      "amount": 25,
+      "unit": "g",
+      "note": "4,5 % z mouky = 22,5 g, zaokrouhleno; sušené odtučněné mléko, přidává se do mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "med",
+      "amount": 5,
+      "unit": "g",
+      "note": "náhrada sladu (1 % z mouky); diastatický slad v katalogu není",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 330,
+      "unit": "ml",
+      "note": "vlažná 27–30 °C; 65 % z mouky = 325 ml, zaokrouhleno; část na rozmíchání droždí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 330,
+      "unit": "g",
+      "note": "65 % z mouky = 325 g, zaokrouhleno; namočit, osušit, přidat až na konec míchání",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Rozinky namoč do vody na 30 minut, scedi a dobře osuš.", "minutes": 30 },
+    {
+      "text": "Mezitím droždí rozmíchej v části vlažné vody (asi 30 °C) a nech 5 minut, až se rozpustí.",
+      "minutes": 5,
+      "parallel": true
+    },
+    { "text": "Do mísy dej mouku, mléko v prášku, sůl, cukr, zbylou vodu, rozmíchané droždí, med a máslo nakrájené na kousky. Mísi 2 minuty pomalu a 5 minut rychle, až je těsto hladké.", "minutes": 7 },
+    { "text": "Přidej rozinky a ještě 2 minuty mísi jen krátce, aby se nerozdrtily.", "minutes": 2 },
+    { "text": "Přikryj a nech těsto kynout na teplém místě (asi 27 °C) 1 hodinu, až zdvojnásobí objem.", "minutes": 60 },
+    { "text": "Těsto překlop, vytlač vzduch, vytvaruj bochník a polož ho švem dolů do vymazané formy.", "minutes": 5 },
+    { "text": "Nech bochník v teple 45 minut, až vzroste nad okraj formy.", "minutes": 45 },
+    { "text": "Předehřej troubu na 230 °C. Bochník vlož, po 10 minutách sniž na 200 °C a peč dalších 35 minut, dokud nezhnědne.", "minutes": 45 },
+    {
+      "text": "Vyjmi z formy a nech na mřížce vychladnout alespoň 2 hodiny, pak krájej."
+    }
+  ],
+  "modernNote": "Zdroj: receptura 92 (Raisin Bread) v procentech mouky, mouka 100 %, voda 65, droždí 4, sůl 2,5, cukr 6, tuk 5, sušené mléko 4,5, slad 1, rozinky 65. Přepočteno přímo na 500 g mouky (procento × 5 g) = 1 bochník, tedy 4 porce. Zaokrouhlení podle pravidel: voda 325 → 330 ml, rozinky 325 → 330 g, sůl 12,5 → 13 g, mléko 22,5 → 25 g. Tuk: zdroj má ztužený tuk, do originálu jde ztužený rostlinný tuk, moderně máslo. Slad (5 g) nahrazen medem, protože slad v katalogu není; historická varianta bez něj. Rozinky: kniha říká, že nad 65 % rozinek bochník vychází malý, těžký a hustý, proto jsou v receptu přesně 65 %. Pečení: 450 °F → 230 °C a 400 °F → 200 °C podle knihy; čas 35 minut po snížení je odhad pro bochník z 500 g mouky (kniha uvádí 1 h 20 min pro 4 lb field bread). Kynutí: kniha počítá s 3 h, ale při 4 % droždí je kratší (odst. 90); zde 1 h v míse a 45 minut v formě. Namáčení rozinek je bez množství vody (voda na namočení není v receptu). Nález check:recipe „sůl 3,25 g na porci“: je to ze zdroje (2,5 % soli z mouky), sedí s kartou; u sladkého bochníku je to vysoké, doporučuji snížit sůl na 1,5 % (8 g) pro méně slané chleby.",
+  "source": {
+    "book": "army-baker-1945",
+    "page": 48,
+    "titleOriginal": "Raisin Bread"
+  },
+  "verified": true,
+  "quote": "More than 65 percent raisins in a dough will cause the loaves to be small, compact, and heavy."
+}
