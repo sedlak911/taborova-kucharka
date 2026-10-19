@@ -10122,6 +10122,33 @@
     }
   },
   {
+    "id": "skvarky",
+    "name": "Škvarky vepřové",
+    "aliases": [
+      "škvarky",
+      "škvarek",
+      "pork cracklings",
+      "cracklings"
+    ],
+    "category": "uzeniny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 610,
+      "protein": 25,
+      "carbs": 0,
+      "fat": 56,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 10
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "orientační: české nutriční tabulky (škvarky vepřové ze sádla, ~610 kcal, B 25 g, T 56 g); USDA má jen pork skins (fdc:167961), které se složením liší"
+    }
+  },
+  {
     "id": "slad-sladovy",
     "name": "Slad sladový (diastatický)",
     "aliases": [

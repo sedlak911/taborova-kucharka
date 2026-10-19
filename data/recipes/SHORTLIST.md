@@ -899,3 +899,105 @@ Skupina = jeden digitizér (Grundgericht + varianty téže kapitoly). Strana = t
 | Basic Sweet Dough (223 lb) (342) | duplikát verze 33¼ lb (343) |
 | Mashed Potatoes (using dehydrated julienne potatoes) (291) | duplikát verze ze sušených strouhaných brambor (stejné suroviny) |
 | Již hotové (11): Bread Pudding 54, Lentil Soup 234, Braised Liver 162, Corn Bread 353, Chicken Stew 174, Fruit Punch 30, Boston Baked Beans 259, Salmon or Tuna Loaf 92, Scotch Broth 226, Macaroni with Tomatoes and Cheese 36, Baked Beef Hash 129 | již digitalizováno |
+
+---
+
+# Výběr 2026-10-19: 61 receptů, které se nejvíc hodí (české klasiky, jedno-hrncová, bez masa, pečivo)
+
+Vybráno z analýz podle kritérií: levné, tábor/jeden hrnec, česká kuchyně, slabé kapitoly (z-jednoho-hrnce, bezmasa, polevky) a pečivo (pizza, housky, rohlíky). Vývar B (10101) se nedigitalizuje: v Recepturách = surovina `hovezi-vyvar`. Strany = PDF strany. Receptury 1983: `originalYield: 10`; AFRS: 100.
+
+### Dávka V1: Receptury 1983, polévky a jídla z jednoho hrnce
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 1 | cockova-polevka-na-kyselo | Čočková polévka na kyselo s bramborami | receptury-1983 | 10127 | 34 | polevky | levne, tabor, kotlik | Vývar B → hovezi-vyvar |
+| 2 | drstkova-polevka | Dršťková polévka | receptury-1983 | 10129 | 35 | polevky | kotlik | dršťky → drstky-predvarene |
+| 3 | gulasova-polevka | Gulášová polévka | receptury-1983 | 10130 | 36 | polevky | levne, tabor, kotlik | |
+| 4 | cesnecka | Česnečka s osmaženým chlebem | receptury-1983 | 10210/A | 53 | polevky | levne, rychle | vývar hovězí 10201 → hovezi-vyvar; hlavička sdílí 10210, /A, /B |
+| 5 | hovezi-gulas-receptury | Hovězí guláš | receptury-1983 | 11101 | 93 | z-jednoho-hrnce | kotlik | jídelní porce masa → poznámka |
+| 6 | kotlikovy-gulas-s-noky | Kotlíkový guláš s noky | receptury-1983 | 13134 | 217 | z-jednoho-hrnce | tabor, kotlik | noky jsou v receptu |
+| 7 | bramborovy-gulas-se-salamem | Bramborový guláš se salámem | receptury-1983 | 15505 | 310 | z-jednoho-hrnce | levne, tabor, kotlik | salám → bologna |
+| 8 | francouzske-brambory | Francouzské brambory | receptury-1983 | 13410 | 232 | z-jednoho-hrnce | levne | uzená plec → uzene-maso |
+| 9 | soulet | Šoulet (kroupy s fazolemi) | receptury-1983 | 19305 | 488 | bezmasa | levne, pripravit-predem | odkazy na luštěniny 19915/19916 nahradit domácím postupem |
+| 10 | veprova-pecene | Vepřová pečeně | receptury-1983 | 13001 | 190 | maso-a-ryby | | OCR nadpis „VEPŘOVÁ PEČENÉ“ |
+
+### Dávka V2: Receptury 1983, bezmasá jídla, přílohy, těstoviny
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 11 | spanelsky-ptacek | Španělský ptáček | receptury-1983 | 11117 | 105 | maso-a-ryby | | |
+| 12 | koprova-omacka | Koprová omáčka | receptury-1983 | 19001 | 448 | bezmasa | levne | Vývar B → hovezi-vyvar (pak ne bez-masa) |
+| 13 | smazeny-syr | Smažený sýr | receptury-1983 | 19440 | 507 | bezmasa | rychle | smaží se na pánvi |
+| 14 | cocka-se-sazenym-vejcem | Čočka se sázeným vejcem | receptury-1983 | 19302 | 486 | bezmasa | levne, tabor, kotlik | sázené vejce 19221 (480) |
+| 15 | leco-s-vejci | Lečo s vejci | receptury-1983 | 19116 | 461 | bezmasa | levne, rychle, tabor | |
+| 16 | bramborove-knedliky | Bramborové knedlíky | receptury-1983 | 19906 | 566 | prilohy-a-zelenina | levne | jen základní (ne z přípravku /B) |
+| 17 | dusene-kysane-zeli | Dušené kysané zelí | receptury-1983 | 19920 | 584 | prilohy-a-zelenina | levne, tabor, kotlik | |
+| 18 | bramborovy-salat-receptury | Bramborový salát | receptury-1983 | 19908 | 567 | prilohy-a-zelenina | levne | |
+| 19 | spagety-s-veprovym-a-rajcaty | Špagety s vepřovým masem a rajčaty | receptury-1983 | 15608 | 315 | testoviny-a-ryze | | |
+| 20 | veprove-rizoto | Vepřové rizoto | receptury-1983 | 13115 | 208 | testoviny-a-ryze | levne, kotlik | |
+
+### Dávka V3: Receptury 1983, sladké a pečivo
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 21 | makarony-po-prazsku | Makarony po pražsku | receptury-1983 | 19403 | 491 | testoviny-a-ryze | levne | |
+| 22 | ovocne-knedliky | Ovocné (švestkové) knedlíky | receptury-1983 | 19611 | 552 | sladke | | |
+| 23 | jablkova-zemlovka | Jablková žemlovka | receptury-1983 | 19471 | 514 | sladke | levne | |
+| 24 | palacinky-se-zavareninou | Palačinky se zavařeninou | receptury-1983 | 19506 | 522 | sladke | levne, rychle | |
+| 25 | dukatove-buchticky-se-sodo | Dukátové buchtičky se šodó | receptury-1983 | 19607/A | 548–549 | sladke | | těsto ze 19607 (str. 548, OCR ztratilo hlavičku) |
+| 26 | bramborove-sisky-s-houskou | Bramborové šišky s houskou | receptury-1983 | 19625 | 560 | sladke | levne | |
+| 27 | pizza-zakladni | Pizza základní | receptury-1983 | 15601 | 312 | snidane-a-pecivo | | „polotovar“ = těsto + základ |
+| 28 | pizza-se-sunkou | Pizza se šunkou | receptury-1983 | 15604 | 313 | snidane-a-pecivo | | Pizza základní 15601 vložit jako postup a suroviny |
+| 29 | domaci-buchty-plnene | Domácí buchty plněné | receptury-1983 | 19608 | 549 | sladke | | ověřit stranu (TSV 549) |
+| 30 | skvarkove-placky | Škvarkové placky | receptury-1983 | 19410 | 494 | snidane-a-pecivo | levne | škvarky → skvarky (nová) |
+
+### Dávka V4: Rettigová 1868
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 31 | chlebova-polevka-rettigova | Chlebová polévka s vejcem | rettigova-1868 | | 19 | polevky | levne, rychle, tabor, kotlik | č. 19; vývar bez míry |
+| 32 | hrachova-polevka-se-zemli | Postní hrachová polévka s opraženou žemlí | rettigova-1868 | | 291 | polevky | levne, kotlik, pripravit-predem | č. 19; množství doplnit z č. 53 (s. 32) |
+| 33 | pivni-polevka-s-chlebem | Pivní polévka s chlebem | rettigova-1868 | | 292 | polevky | levne, rychle | č. 23 („gramatyka“) |
+| 34 | vyvar-s-jatrovymi-knedlicky | Vývar s játrovými knedlíčky | rettigova-1868 | | 15 | polevky | levne | č. 9 |
+| 35 | veprove-na-pive | Vepřové na pivě | rettigova-1868 | | 133 | z-jednoho-hrnce | kotlik | č. 72 |
+| 36 | zapecena-ryze-s-uzenym | Zapečená rýže s uzeným masem | rettigova-1868 | | 194 | z-jednoho-hrnce | levne | č. 60 |
+| 37 | hrachova-kase | Hrachová kaše s cibulkou | rettigova-1868 | | 101 | bezmasa | levne, tabor, kotlik | č. 43 |
+| 38 | vanocka | Vánočka | rettigova-1868 | | 356 | snidane-a-pecivo | | č. 21 |
+| 39 | kminove-rohlicky | Kmínem sypané rohlíčky k pivu | rettigova-1868 | | 363 | snidane-a-pecivo | | č. 37 |
+
+### Dávka V5: AFRS, hlavní jídla a polévky
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 40 | zebra-s-kysanym-zelim | Žebra s kysaným zelím (Spareribs and Sauerkraut) | afrs-2003 | L 093 01 | 860 | z-jednoho-hrnce | levne, kotlik | |
+| 41 | stroganov-z-mleteho-masa | Stroganov z mletého masa (Hamburger Stroganoff) | afrs-2003 | L 053 02 | 786 | z-jednoho-hrnce | levne, rychle, tabor | |
+| 42 | bile-chili-s-kuretem | Bílé fazolové chili s kuřetem (White Bean Chicken Chili) | afrs-2003 | L 212 00 | 1069 | z-jednoho-hrnce | levne, tabor, kotlik | |
+| 43 | spagety-s-mletym-masem-a-zelim | Špagety s mletým masem a zelím (Hamburger Yakisoba) | afrs-2003 | L 062 01 | 801 | testoviny-a-ryze | levne, rychle, tabor | |
+| 44 | ryze-s-cizrnou | Rýže s cizrnou (Mediterranean Brown Rice) | afrs-2003 | E 017 00 | 321 | bezmasa | levne, tabor, kotlik | |
+| 45 | vajecne-placky-se-zeleninou | Vaječné placky se zeleninou (Egg Foo Young) | afrs-2003 | F 006 00 | 337 | bezmasa | levne, rychle, tabor | |
+| 46 | pikantni-fazolova-polevka | Pikantní fazolová polévka (Zesty Bean Soup, Dry Beans) | afrs-2003 | P 021 01 | 1438 | polevky | levne, kotlik, pripravit-predem | |
+| 47 | kari-zeleninova-polevka | Kari zeleninová polévka (Curried Vegetable Soup) | afrs-2003 | P 028 00 | 1452 | polevky | levne, kotlik | |
+| 48 | smazene-zeli-se-slaninou | Smažené zelí se slaninou (Fried Cabbage with Bacon) | afrs-2003 | Q 012 02 | 1500 | prilohy-a-zelenina | levne, rychle, tabor | |
+| 49 | opekane-brambory | Opékané brambory (Home Fried Potatoes) | afrs-2003 | Q 047 00 | 1571 | prilohy-a-zelenina | levne, tabor | |
+
+### Dávka V6: AFRS, pečivo a pizza
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 50 | pizza-afrs | Pizza s rajčatovou omáčkou (Pizza) | afrs-2003 | L 165 00 | 1004 | snidane-a-pecivo | | omáčka O 012 00 (s. 1351) jako skupina surovin; domácí dávka 1 plech |
+| 51 | makove-housky | Makové housky (Poppy Seed Rolls) | afrs-2003 | D 033 09 | 217 | snidane-a-pecivo | | základ D 033 00 |
+| 52 | housky | Housky (Hot Rolls) | afrs-2003 | D 033 00 | 208 | snidane-a-pecivo | levne | |
+| 53 | bulky-na-hamburgery | Bulky na hamburgery (Hamburger Rolls) | afrs-2003 | D 033 06 | 214 | snidane-a-pecivo | | |
+| 54 | celozrnne-housky | Celozrnné housky (Whole Wheat Rolls) | afrs-2003 | D 059 00 | 283 | snidane-a-pecivo | | |
+| 55 | veka | Veka (French Bread) | afrs-2003 | D 004 00 | 130 | snidane-a-pecivo | levne | |
+| 56 | anglicke-muffiny | Anglické muffiny na pánvi (English Muffins) | afrs-2003 | D 021 00 | 168 | snidane-a-pecivo | tabor | |
+
+### Dávka V7: Navy 1944 a Wells 1890
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 57 | vodnice-se-slaninou | Vodnice se slaninou (Turnips (Rutabagas) with Bacon) | navy-1944 | | 302 | z-jednoho-hrnce | levne, tabor, kotlik | sušená vodnice → čerstvá (original) |
+| 58 | knedlicky-do-polevky | Knedlíčky do polévky (Dumplings) | navy-1944 | | 353 | polevky | levne, rychle, tabor | |
+| 59 | lyonske-brambory | Lyonské brambory s cibulí (Lyonnaise Potatoes) | navy-1944 | | 289 | prilohy-a-zelenina | levne, tabor | |
+| 60 | zapecena-rajcata | Zapečená rajčata s chlebem (Escalloped Tomatoes) | navy-1944 | | 299 | prilohy-a-zelenina | levne | |
+| 61 | ovesne-placky | Ovesné placky (Oatmeal Cake) | wells-1890 | | 27 | snidane-a-pecivo | levne, tabor | č. 17; velká dávka → 4 porce |

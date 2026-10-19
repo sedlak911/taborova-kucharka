@@ -31,6 +31,8 @@ Databáze: validate 0 CHYBA (varování jen kcal < 50 u zálivek/salátů/vývar
    - `wells-1890` – Bread and Biscuit Baker's Assistant, `analysis/wells-1890.md`
    - `army-baker-1945` – TM 10-410 The Army Baker, `analysis/army-baker-1945.md`
 
+9. **Výběr 2026-10-19 (61 receptů)** – uživatel schválil seznam receptů, které se mu nejvíc hodí: české klasiky z Receptur 1983 (30) a Rettigové (9), AFRS jídla a pečivo (17), Navy a Wells (5). Dávky V1–V7 s id, kódy a stranami jsou na konci `data/recipes/SHORTLIST.md`. Sdílená nová surovina `skvarky` je v `data/ingredients/new-sdilene-vyber-2026-10.json`. Postup podle `reference/batch.md`: digitizéři Sonnet (ne-AFRS), Haiku (AFRS), ověřovatel čísel na dávku, commit po dávce.
+
 ## Navy – zbývající řádky shortlistu (N36–N49)
 
 Úplné řádky (strana PDF, kapitola, tagy, poznámky) jsou v `data/recipes/SHORTLIST.md`.
