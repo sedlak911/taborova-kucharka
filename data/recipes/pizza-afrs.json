@@ -1,0 +1,233 @@
+{
+  "id": "pizza-afrs",
+  "title": "Pizza s rajčatovou omáčkou",
+  "titleOriginal": "Pizza",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 170,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-susene",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 65,
+      "unit": "ml",
+      "note": "11 ml vlažná (nejvýš 43 °C) na rozmíchání droždí, zbytek studená",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g",
+      "note": "chlebová (bread flour)",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 9,
+      "unit": "g",
+      "note": "do těsta",
+      "group": "Těsto",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 8,
+      "unit": "g",
+      "note": "na vymazání plechu",
+      "group": "Těsto",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 8,
+      "unit": "g",
+      "note": "na potření těsta",
+      "group": "Těsto",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 14,
+      "unit": "g",
+      "note": "nakrájená nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "g",
+      "note": "na zpěnění cibule (zdroj 1/2 oz na 100 porcí = 0,78 g, což je na pánev málo; domácí hodnota 1 lžička)",
+      "group": "Omáčka",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "rajcata-drcena",
+      "amount": 150,
+      "unit": "g",
+      "note": "drcená, s nálevem",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 25,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omáčka",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bazalka-susena",
+      "amount": 0.61,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1.15,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.23,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "oregano",
+      "amount": 0.61,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "mozzarella",
+      "amount": 75,
+      "unit": "g",
+      "note": "strouhaná",
+      "group": "Obložení"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 8,
+      "unit": "g",
+      "note": "nastrouhaný",
+      "group": "Obložení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej do vlažné vody, nech 5 minut odstát a promíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Do mísy dej studenou vodu, mouku, sůl, cukr a olej v tomto pořadí a přidej rozmíchané droždí. Na nízké rychlosti s hákem hněť asi 8 minut, dokud těsto není hladké a pružné (30 až 31 °C).",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto vytvaruj do kuličky, přikryj a nech na teplém místě kynout 1,5 až 2 hodiny, dokud nezdvojnásobí objem.",
+      "minutes": 120
+    },
+    {
+      "text": "Mezitím na oleji zpěň nadrobno nakrájenou cibuli do měkka.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím přidej rajčata, protlak, cukr, sůl, pepř, bazalku, bobkový list, česnek a oregano. Přiveď k varu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím sniž teplo a duš 60 minut za občasného míchání. Pak vyndej bobkový list.",
+      "minutes": 60,
+      "parallel": true
+    },
+    {
+      "text": "Plech vymaž olejem. Na pomoučeném stole vyválej těsto do kola o průměru asi 25 cm a tloušťce asi 3 mm, přenes na plech, okraje vytáhni nahoru a vidličkou propíchni. Povrch potři olejem.",
+      "minutes": 10
+    },
+    {
+      "text": "Předehřej troubu na 230 °C."
+    },
+    {
+      "text": "Těsto předpeč 7 minut, dokud není lehce zlaté.",
+      "minutes": 7
+    },
+    {
+      "text": "Rovnoměrně rozetři omáčku po předpečeném těstě.",
+      "minutes": 2
+    },
+    {
+      "text": "Posyp strouhanou mozzarellou a nastrouhaným parmazánem.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč 8 minut při 230 °C, dokud kůrka nezezlátne a sýr nezačne hnědnout.",
+      "minutes": 8
+    },
+    {
+      "text": "Pizzu nakrájej na 4 stejné kusy a podávej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj počítá 100 kusů ze 4 plechů 18×26 palců (krájeno 5×5, jeden kus = 1/25 plechu). Čtyři porce jsou jedna kulatá pizza o průměru asi 25 cm nakrájená na 4 kusy. Omáčka je přepočtená z karty O 012 00 (100 porcí po 2½ lžíce, zdroj s. 1351): syrová směs (~196 g) se po 60 minutách dušení zredukuje na zhruba 150 ml, což odpovídá zdrojové 1 gal omáčky na 100 kusů. Kroky omáčky jsou zařazeny jako souběžné s kynutím těsta. Zdroj uvádí konvekční troubu 450 °F; doma je to 230 °C (horní a spodní ohřev). Kynutí 1,5 až 2 hodiny: použita horní mez. Olej na plech a na potření těsta je ze zdroje přepočtený jako slévaný tuk (8 g na řádek), fyzicky je to asi půl lžíce na plech, takže je to spodní odhad. „Bread flour“ je zde hladká mouka s poznámkou chlebová; pro chlebovější těsto použij chlebovou mouku. Sýr odpovídá kartě (4 lb mozzarelly a 2 cupy parmazánu na 100 kusů). Bobkový list 1,15 ks je přepočtený přes váhu sloupce Weight (0,2 g na list), na malou dávku stačí jeden list. Olej na zpěnění cibule: karta O 012 00 dává 1/2 oz oleje na 100 porcí, přepočtem jen 0,78 g, což na pánev nestačí, proto je v receptu domácí hodnota 1 lžička (5 g, bez škálování s počtem porcí). Obě vody těsta (vlažná na droždí, studená) jsou sloučeny do jednoho řádku. Bilance 120 g na porci proti 121 g na porci zdroje (váha porce odvozena z celkové hmotnosti karty / 100) sedí; kcal 213 proti 226 na kartě (−6 %).",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1004,
+    "code": "L 165 00",
+    "titleOriginal": "PIZZA"
+  },
+  "verified": true
+}

@@ -1,0 +1,148 @@
+{
+  "id": "makove-housky",
+  "title": "Makové housky",
+  "titleOriginal": "Poppy Seed Rolls",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 225,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 260,
+      "unit": "g",
+      "note": "chlebová (bread flour)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "drozdi-susene",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "suché aktivní droždí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "note": "z toho 35 ml vlažná (nejvýš 43 °C) na rozmíchání droždí, zbytek studená; vodu z mléka (45 ml) odečteno z celkové vody zdroje",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 50,
+      "unit": "ml",
+      "note": "z 5 g sušeného mléka (1 díl) + 9 dílů vody (45 ml)",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 5,
+        "unit": "g"
+      },
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "změkčené",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 30,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mak",
+      "amount": 4,
+      "unit": "g",
+      "note": "na posypání",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání plechu místo cooking spray (1 lžička)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej do vlažné vody (nejvýš 43 °C). Nech 5 minut odstát a promíchej.",
+      "minutes": 6
+    },
+    {
+      "text": "Ve větší míse rozmíchej studenou vodu s cukrem a solí, dokud se nerozpustí. Vmíchej rozmíchané droždí.",
+      "minutes": 3
+    },
+    {
+      "text": "Ke tekuté směsi přilij mléko a přidej mouku. Na nízké rychlosti míchej asi 1 minutu, dokud se mouka nezapracuje.",
+      "minutes": 1
+    },
+    {
+      "text": "Přidej změklé máslo a míchej na střední rychlosti 10 minut, dokud není těsto hladké a pružné (teplota 26–28 °C).",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto přikryj a nech kynout na teplém místě (asi 27 °C) 90 minut, dokud nezdvojnásobí objem.",
+      "minutes": 90
+    },
+    {
+      "text": "Těsto vytvaruj do hladké koule a nech 10 až 20 minut odpočinout.",
+      "minutes": 20
+    },
+    {
+      "text": "Těsto vyválej v dlouhý váleček stejné tloušťky (průměr asi 5 cm), nakrájej ho na 8 kousků po asi 55 g a vytvaruj z nich housky podle chuti.",
+      "minutes": 10
+    },
+    {
+      "text": "Plech lehce vymaž olejem, housky na něj polož v řadách, lehce je potři vodou (nebo trochou rozšlehaného bílku zředěného vodou) a posyp mákem.",
+      "minutes": 3
+    },
+    {
+      "text": "Nech kynout při 32 °C asi 60 minut, dokud nezdvojnásobí objem.",
+      "minutes": 60
+    },
+    {
+      "text": "Troubu předehřej na 200 °C."
+    },
+    {
+      "text": "Peč při 200 °C 15 až 20 minut, dokud nejsou zlatohnědé.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Zdroj: dávka na 100 porcí po 2 houskách (25 housek na 1/8 těsta); 4 porce = 8 housek po 50 g. Zdroj uvádí kynutí „at 90 F until double“ bez času, čas 60 minut je převzat ze základní karty D 033 00. Ztužený tuk (shortening, 1-2/3 lb ze zdroje) je nahrazen máslem stejné hmotnosti. Sušené mléko se používá jako mléko: 5 g prášku + 45 ml vody (1 : 9) = 50 ml mléka, voda se odečte od celkové vody v těstě (stejně jako u housky D 033 00, těsto je totožné). Cooking spray je nahrazen lžičkou řepkového oleje. Vaječný nátěr (Egg White Wash D 017 01, 1/2 cup = 1/6 receptu na 100 porcí) vychází pro 4 porce na 5 ml, z toho asi 1 g bílku (bílek 160 g a voda 510 g na celý nátěr), což nejde odměřit; proto je v receptu jen voda, jak zdroj výslovně dovoluje („with water or egg white wash“). Chceš-li lesk, rozšlehej malý kousek bílku s lžící vody. Pečení z konvekční trouby 350 °F po 10–15 minutách odpovídá v domácí troubě asi 180 °C horkovzduch 12–15 minut. Oproti základní kartě D 033 00 karta mění tuk (1-2/3 lb místo 1-1/4 lb), přidává mák a nátěr. Karta uvádí 346 kcal na porci (základ 325 kcal). Těsto má stejné poměry jako housky (D 033 00); jediný rozdíl je tuk 30 g místo 25 g, nátěr a mák.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 217,
+    "code": "D 033 09",
+    "titleOriginal": "POPPY SEED ROLLS"
+  },
+  "verified": true,
+  "quote": "Brush top of rolls lightly with water or 1/6 recipe Egg White Wash. Sprinkle top of rolls with poppy seeds."
+}

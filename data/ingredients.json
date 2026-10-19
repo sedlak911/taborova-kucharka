@@ -5362,35 +5362,6 @@
     }
   },
   {
-    "id": "koreni-santa-fe",
-    "name": "Koření Santa Fe",
-    "aliases": [
-      "Sante Fe seasoning",
-      "Santa Fe seasoning",
-      "santa fe koření",
-      "sante fe koření"
-    ],
-    "category": "koreni",
-    "scaling": "seasoning",
-    "nutritionPer100g": {
-      "kcal": 282,
-      "protein": 13.46,
-      "carbs": 49.7,
-      "fat": 14.28,
-      "fiber": 34.8
-    },
-    "units": {
-      "lzice": 8,
-      "lzicka": 2.7
-    },
-    "ediblePortion": 1,
-    "allergens": [],
-    "sources": {
-      "nutrition": "náhrada: USDA SR Legacy fdc:171319 (Spices, chili powder); směs chilli, kmín, česnek, oregano a sůl, sůl v tabulce není",
-      "units": "odhad podle chilli prášku (USDA SR Legacy portion tsp = 2,7 g)"
-    }
-  },
-  {
     "id": "koriandr-cerstvy",
     "name": "Koriandr čerstvý",
     "aliases": [
@@ -12231,6 +12202,34 @@
     }
   },
   {
+    "id": "vinny-kamen",
+    "name": "Vinný kámen",
+    "aliases": [
+      "cream of tartar",
+      "hydrogenvinan draselný",
+      "vinný kámen do pečiva"
+    ],
+    "category": "trvanlive",
+    "scaling": "leavening",
+    "nutritionPer100g": {
+      "kcal": 258,
+      "protein": 0,
+      "carbs": 61.5,
+      "fat": 0,
+      "fiber": 0.2
+    },
+    "units": {
+      "lzicka": 3
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175041 (Leavening agents, cream of tartar)",
+      "units": "USDA fdc:175041: 1 tsp = 3 g",
+      "refuse": "USDA fdc:175041 refusePct 0"
+    }
+  },
+  {
     "id": "vinny-ocet",
     "name": "Ocet vinný",
     "aliases": [
@@ -12394,7 +12393,7 @@
     "ediblePortion": 1,
     "allergens": [],
     "sources": {
-      "nutrition": "odvozeno z USDA SR Legacy fdc:170465 (Turnips, raw) × 12,96 (zdroj: 1 lb sušené = 16 lb A.P., jedlá část 81 %); „turnips, dehydrated“ v USDA nenalezeno",
+      "nutrition": "odhad: USDA SR Legacy fdc:170465 (Turnips, raw) přepočtená na sušinu (× 12,96); „turnips, dehydrated“ v USDA nenalezeno",
       "units": "bez hrnku/ks; hmotnost ze zdroje",
       "refuse": "bez odpadu (sušená vodnice je už oloupaná a nakrájená)"
     }

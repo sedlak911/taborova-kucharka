@@ -1,0 +1,131 @@
+{
+  "id": "veka",
+  "title": "Veka",
+  "titleOriginal": "French Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 280,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-susene",
+      "amount": 2,
+      "unit": "g",
+      "note": "aktivní sušené droždí; ve zdroji 2 oz na 100 porcí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 3,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "v těstě lineárně k mouce",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 195,
+      "unit": "g",
+      "note": "chlebová (bread flour); ve zdroji 10⅞ lb",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "část (14 ml) vlažná do 43 °C na rozmíchání droždí, zbytek studená do mísy; ve zdroji 12½ oz vlažné + 4⅝ lb studené",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 3,
+      "unit": "g",
+      "note": "místo ztuženého tuku (shortening)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 3,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 2,
+      "unit": "g",
+      "note": "k poprášení plechu (zdroj 1/8 cup na plech se 3 bochníky; přepočteno na 4 porce)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej v malém množství vlažné vody (nejvýš 43 °C), nech 5 minut stát a zamíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Do mísy dej zbylou studenou vodu, cukr, sůl a mouku.",
+      "minutes": 2
+    },
+    {
+      "text": "Na nízké rychlosti hněť 1 minutu, dokud se mouka nevpije. Přidej rozmíchané droždí a hněť na střední rychlosti 5 minut.",
+      "minutes": 6
+    },
+    {
+      "text": "Přidej máslo a hněť na střední rychlosti 3 minuty. Těsto má mít teplotu 26–28 °C.",
+      "minutes": 3
+    },
+    {
+      "text": "Zakryj a nech kynout na teplém místě (asi 27 °C) 2¼ hodiny, nebo dokud nezdvojnásobí objem.",
+      "minutes": 135
+    },
+    {
+      "text": "Prohněť: přehni okraje do středu, těsto obrať a nech 15 minut odpočinout.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto vytvaruj do hladké koule a nech 10 minut odpočinout. Pak z něj vyválej provaz tlustý asi 3 cm a dlouhý asi 40 cm.",
+      "minutes": 15
+    },
+    {
+      "text": "Polož na plech lehce poprášený kukuřičnou moukou, přikryj a nech kynout v teple (32–38 °C) 50–60 minut, dokud nezdvojnásobí objem. Mezitím předehřej troubu na 220 °C.",
+      "minutes": 60
+    },
+    {
+      "text": "Potři bochník vodou a nařízni na povrchu šikmé zářezy (asi 4) hluboké 6 mm.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč 30 minut při 220 °C, dokud nezhnědne.",
+      "minutes": 30
+    },
+    {
+      "text": "Po vychladnutí na mřížce nakrájej na plátky tlusté asi 2,5 cm (porce jsou 2 plátky).",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Dávka: 100 porcí po 2 plátcích = 200 plátků; zdroj peče bochníky 12–19 oz (340–540 g) po 17 plátcích a tři na plech. Čtyři porce = 8 plátků tlustých 2,5 cm z jednoho bochníku z asi 305 g těsta (váha všech surovin: 7,6 kg na 100 porcí, tj. 38 g těsta na plátek). Zdroj válí provaz 1¼ palce tlustý a 18 palců dlouhý (3 × 46 cm) na bochník 12–19 oz; pro 305 g těsta vychází provaz 3 cm × 40 cm, po vykynutí a upečení bochník asi 30 cm dlouhý, plátků vyjde 8 až 10. Plech se v kartě posypává kukuřičnou moukou (1/8 cup na plech se 3 bochníky), vymazání tukem ve zdroji není. Mouka „bread flour“ je hladká mouka s vyšším obsahem lepku; chlebová mouka se hodí, ale je to upřesnění. Voda: vlažná (14 ml, 12-1/2 oz na 100 porcí) a studená (4-5/8 lb) jsou sloučeny do 100 ml. Ztužený tuk (shortening) nahrazen máslem, původní 3 g v original. Omytí vaječným bílkem nebo cornstarch wash z karty D 040 00 / D 017 01 nahrazeno vodou, aby nebyla třeba další surovina. Teploty z karty: 425 °F = 220 °C, 90–100 °F = 32–38 °C, 78–82 °F = 26–28 °C; teplo pro první kynutí 80 °F = 27 °C. Čas chladnutí (asi 30 minut) není v timeMinutes. Bez mixéru hněť ručně 10–15 minut, dokud je těsto hladké a pružné.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 130,
+    "code": "D 004 00",
+    "titleOriginal": "FRENCH BREAD"
+  },
+  "verified": true,
+  "quote": "Sprinkle yeast over water. DO NOT USE TEMPERATURES ABOVE 110 F."
+}

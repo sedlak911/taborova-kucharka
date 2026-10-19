@@ -1,0 +1,136 @@
+{
+  "id": "housky",
+  "title": "Housky",
+  "titleOriginal": "Hot Rolls",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 220,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-susene",
+      "amount": 5,
+      "unit": "g",
+      "note": "aktivní sušené droždí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "note": "asi 35 ml vlažná (max. 43 °C) na droždí, zbytek studená; vodu z mléka (45 ml) odečteno z celkové vody zdroje",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 260,
+      "unit": "g",
+      "note": "chlebová (bread flour)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 50,
+      "unit": "ml",
+      "note": "z 4¼ oz sušeného mléka (1 díl) + 9 dílů vody",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 5,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "změkčené; místo ztuženého tuku (shortening)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 4,
+      "unit": "g",
+      "note": "na vymazání plechu (zdroj: cooking spray 1 oz)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí rozmíchej do vlažné vody (nejvýš 43 °C). Nech 5 minut odstát a promíchej.",
+      "minutes": 6
+    },
+    {
+      "text": "Ve větší míse nebo v míse robotu rozmíchej studenou vodu s cukrem a solí, dokud se cukr a sůl nerozpustí. Vmíchej rozmíchané droždí.",
+      "minutes": 3
+    },
+    {
+      "text": "Ke tekuté směsi přilij mléko a přidej mouku. Na nízké rychlosti míchej asi 1 minutu, dokud se mouka nezapracuje.",
+      "minutes": 1
+    },
+    {
+      "text": "Přidej změkčený tuk a míchej na střední rychlosti 10 minut, dokud je těsto hladké a pružné (teplota těsta 26–28 °C).",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto přikryj a nech kynout na teplém místě (asi 27 °C) 1,5 hodiny, dokud nezdvojnásobí objem.",
+      "minutes": 90
+    },
+    {
+      "text": "Těsto vytvaruj do hladké koule a nech 10 až 20 minut odpočinout.",
+      "minutes": 20
+    },
+    {
+      "text": "Těsto vyválej v dlouhý váleček stejné tloušťky (průměr asi 4–5 cm, délka asi 25 cm). Nakrájej ho na 8 kousků dlouhých asi 3 cm (asi 55 g) a polož je na plech vymazaný olejem.",
+      "minutes": 15
+    },
+    {
+      "text": "Housky nech kynout na teplém místě (asi 32 °C) asi 1 hodinu, dokud nezdvojnásobí objem.",
+      "minutes": 60
+    },
+    {
+      "text": "Troubu předehřej na 175 °C s horkým vzduchem."
+    },
+    {
+      "text": "Peč 10 až 15 minut, dokud housky nezezlátnou.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Přepočet z AFRS D 033 00 (str. 208): 100 porcí po 2 houskách, 4 porce = 8 housek (50 g těsta na housku). Sušené mléko je v receptu nahrazeno čerstvým polotučným mlékem: 1 díl sušeného mléka + 9 dílů vody (stejně jako u máslových housek), vodu na mléko odečítáme z celkové vody receptu (45 ml), aby těsto mělo stejnou hydrataci. Obě vody z AFRS (vlažná na droždí, studená) jsou spojeny do jednoho řádku. Ztužený tuk (shortening) je nahrazen máslem. Cooking spray je nahrazen olejem na vymazání plechu. Mouka je chlebová (bread flour), v katalogu hladká mouka s poznámkou. Mléko se přidává ke kapalinám (ne k mouce), aby se těsto nezadělalo. Pečení: 350 °F konvekce = 175 °C s horkým vzduchem, u domácí trouby peč na střední ventilátor. Teplota kynutí 90 °F (32 °C) a 80 °F (27 °C) jsou orientační. Zdroj dělí těsto na 8 kusů po 1,3 kg, z každého vyválí provaz a krájí 25 housek (pro 200 housek); pro 4 porce (8 housek) je to jeden provaz nakrájený na 8 kousků, a protože 1¾ oz kousek je při 4 porcích jen 50 g, vychází kousek podle skutečné hmotnosti těsta (asi 55 g). Stejné těsto a poměry jako makove-housky (D 033 09) a bulky-na-hamburgery.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 208,
+    "code": "D 033 00",
+    "titleOriginal": "HOT ROLLS"
+  },
+  "verified": true
+}

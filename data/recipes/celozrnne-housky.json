@@ -1,0 +1,138 @@
+{
+  "id": "celozrnne-housky",
+  "title": "Celozrnné housky",
+  "titleOriginal": "Whole Wheat Rolls",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 220,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-susene",
+      "amount": 5,
+      "unit": "g",
+      "note": "zdroj 4-1/2 oz aktivního sušeného droždí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 110,
+      "unit": "ml",
+      "note": "35 ml vlažná na droždí + zbytek studená; vodu z mléka (46 ml) odečteno z celkové vody zdroje (1-7/8 lb + 6-3/4 lb)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "note": "zdroj 1-1/2 lb",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "zdroj 3-3/8 oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "celozrnna-mouka",
+      "amount": 100,
+      "unit": "g",
+      "note": "zdroj 5-1/2 lb celozrnné mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 130,
+      "unit": "g",
+      "note": "chlebová (bread flour), zdroj 7-1/4 lb",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 50,
+      "unit": "ml",
+      "note": "z 5 g sušeného mléka (zdroj 4-1/2 oz) + 9 dílů vody (46 ml)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 5,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "měkké; zdroj ztužený tuk (shortening) 9 oz",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 10,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "text": "Droždí posyp na vlažnou vodu (nesmí být nad 43 °C), nech 5 minut stát a promíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Do mísy míchačky dej studenou vodu, rozmíchej v ní cukr a sůl, dokud se nerozpustí, a přidej rozpuštěné droždí.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej celozrnnou mouku, chlebovou mouku a mléko a na nízké rychlosti hněť 1 minutu, dokud se mouka nevsákne.",
+      "minutes": 1
+    },
+    {
+      "text": "Přidej změklý tuk a hněť na střední rychlosti 10 minut, dokud je těsto hladké a pružné. Teplota těsta má být 26 až 28 °C.",
+      "minutes": 10
+    },
+    {
+      "text": "Přikryj a nech kynout na teplém místě (27 °C) 90 minut, dokud nezdvojnásobí objem.",
+      "minutes": 90
+    },
+    {
+      "text": "Těsto vytvaruj do hladké koule a nech 10 až 20 minut odpočinout.",
+      "minutes": 20
+    },
+    {
+      "text": "Těsto vyválej v dlouhý váleček stejné tloušťky (průměr asi 5 cm), nakrájej ho na 8 kousků po asi 55 g a každý vytvaruj kruhovým pohybem na pracovní ploše do kuličky.",
+      "minutes": 10
+    },
+    {
+      "text": "Housky nech kynout při 32 °C, dokud nezdvojnásobí objem, asi 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Troubu předehřej na 200 °C."
+    },
+    {
+      "text": "Peč 15 až 20 minut při 200 °C do zlatova.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Zdroj AFRS D 059 00 (str. 283): výtěžek 100 porcí = 200 housek (2 na porci); přepočteno na 4 porce = 8 housek po asi 55 g. Ztužený rostlinný tuk (shortening) nahrazen máslem 1 : 1; původní množství 10 g je v original. Bread flour je tu hladká mouka s poznámkou chlebová; pro chlebovou strukturu použij silnější chlebovou mouku. Sušené mléko (5 g) je spolu s 9 díly vody (46 ml) nahrazeno čerstvým polotučným mlékem (50 ml), voda se odečítá z celkových 156 ml vody zdroje (vlažná + studená), tedy 110 ml vody v receptu. Zdroj dělí těsto na 8 kusů po 1,3 kg, každý válí na provaz a krájí na 25 housek (pro 200 housek); pro 4 porce je to jeden provaz nakrájený na 8 kousků. Horkovzdušná trouba: 175 °C, 10 až 15 minut (zdroj 350 °F). Kynutí 1 hodina (zdroj „about 1 hour“).",
+  "source": {
+    "book": "afrs-2003",
+    "page": 283,
+    "code": "D 059 00",
+    "titleOriginal": "WHOLE WHEAT ROLLS"
+  },
+  "verified": true
+}

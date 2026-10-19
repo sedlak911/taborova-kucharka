@@ -1,10 +1,12 @@
 import { render, screen, fireEvent } from '@testing-library/react'
 import userEvent from '@testing-library/user-event'
 import { loadContent } from '@/content/loadContent'
-import { EMPTY_FILTER } from '@/content/search'
+import { EMPTY_FILTER, normalize } from '@/content/search'
 import { SearchOverlay } from './SearchOverlay'
 
 const { recipes, ingredients } = loadContent()
+// první recept v pořadí knihy, který má dotaz v názvu (nezávisí na tom, které recepty data zrovna obsahují)
+const firstTitleHit = (q: string) => recipes.find((r) => normalize(r.title).includes(q))!.id
 
 function setup() {
   const onNavigate = vi.fn()
@@ -31,7 +33,7 @@ test('Enter naviguje na první výsledek a zavře', async () => {
   const onNavigate = setup()
   fireEvent.click(screen.getByRole('button', { name: 'Hledat' }))
   await userEvent.type(screen.getByRole('searchbox'), 'cocka{Enter}')
-  expect(onNavigate).toHaveBeenCalledWith({ kind: 'recipe', id: 'cockova-polevka' })
+  expect(onNavigate).toHaveBeenCalledWith({ kind: 'recipe', id: firstTitleHit('cocka') })
   expect(screen.queryByRole('dialog')).toBeNull()
 })
 
@@ -55,7 +57,7 @@ test('shoda v názvu receptu je před shodou v surovinách', async () => {
   const onNavigate = setup()
   fireEvent.click(screen.getByRole('button', { name: 'Hledat' }))
   await userEvent.type(screen.getByRole('searchbox'), 'gulas{Enter}')
-  expect(onNavigate).toHaveBeenCalledWith({ kind: 'recipe', id: 'hovezi-gulas' })
+  expect(onNavigate).toHaveBeenCalledWith({ kind: 'recipe', id: firstTitleHit('gulas') })
 })
 
 test('se zapnutým filtrem z obsahu hledá jen ve filtrovaných receptech; „Hledat ve všech“ filtr pro hledání vypne', async () => {

@@ -904,6 +904,8 @@ Skupina = jeden digitizér (Grundgericht + varianty téže kapitoly). Strana = t
 
 # Výběr 2026-10-19: 61 receptů, které se nejvíc hodí (české klasiky, jedno-hrncová, bez masa, pečivo)
 
+**Stav: HOTOVO 2026-10-19** – všech 61 receptů digitalizováno a ověřeno (V1–V7).
+
 Vybráno z analýz podle kritérií: levné, tábor/jeden hrnec, česká kuchyně, slabé kapitoly (z-jednoho-hrnce, bezmasa, polevky) a pečivo (pizza, housky, rohlíky). Vývar B (10101) se nedigitalizuje: v Recepturách = surovina `hovezi-vyvar`. Strany = PDF strany. Receptury 1983: `originalYield: 10`; AFRS: 100.
 
 ### Dávka V1: Receptury 1983, polévky a jídla z jednoho hrnce
@@ -972,9 +974,9 @@ Vybráno z analýz podle kritérií: levné, tábor/jeden hrnec, česká kuchyn�
 | 40 | zebra-s-kysanym-zelim | Žebra s kysaným zelím (Spareribs and Sauerkraut) | afrs-2003 | L 093 01 | 860 | z-jednoho-hrnce | levne, kotlik | |
 | 41 | stroganov-z-mleteho-masa | Stroganov z mletého masa (Hamburger Stroganoff) | afrs-2003 | L 053 02 | 786 | z-jednoho-hrnce | levne, rychle, tabor | |
 | 42 | bile-chili-s-kuretem | Bílé fazolové chili s kuřetem (White Bean Chicken Chili) | afrs-2003 | L 212 00 | 1069 | z-jednoho-hrnce | levne, tabor, kotlik | |
-| 43 | spagety-s-mletym-masem-a-zelim | Špagety s mletým masem a zelím (Hamburger Yakisoba) | afrs-2003 | L 062 01 | 801 | testoviny-a-ryze | levne, rychle, tabor | |
-| 44 | ryze-s-cizrnou | Rýže s cizrnou (Mediterranean Brown Rice) | afrs-2003 | E 017 00 | 321 | bezmasa | levne, tabor, kotlik | |
-| 45 | vajecne-placky-se-zeleninou | Vaječné placky se zeleninou (Egg Foo Young) | afrs-2003 | F 006 00 | 337 | bezmasa | levne, rychle, tabor | |
+| 43 | spagety-s-mletym-masem-a-zeleninou | Špagety s mletým masem a zeleninou (Hamburger Yakisoba) | afrs-2003 | L 062 01 | 801 | testoviny-a-ryze | levne, rychle, tabor | |
+| 44 | ryze-stredomorska-hneda | Středomořská hnědá rýže (Mediterranean Brown Rice) | afrs-2003 | E 017 00 | 321 | testoviny-a-ryze | levne, tabor, kotlik | |
+| 45 | vajecne-placky-se-zeleninou | Vaječné placky se zeleninou (Egg Foo Young) | afrs-2003 | F 006 00 | 337 | maso-a-ryby | levne, rychle, tabor | |
 | 46 | pikantni-fazolova-polevka | Pikantní fazolová polévka (Zesty Bean Soup, Dry Beans) | afrs-2003 | P 021 01 | 1438 | polevky | levne, kotlik, pripravit-predem | |
 | 47 | kari-zeleninova-polevka | Kari zeleninová polévka (Curried Vegetable Soup) | afrs-2003 | P 028 00 | 1452 | polevky | levne, kotlik | |
 | 48 | smazene-zeli-se-slaninou | Smažené zelí se slaninou (Fried Cabbage with Bacon) | afrs-2003 | Q 012 02 | 1500 | prilohy-a-zelenina | levne, rychle, tabor | |
