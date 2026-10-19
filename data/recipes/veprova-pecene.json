@@ -1,0 +1,32 @@
+{
+  "id": "veprova-pecene",
+  "title": "Vepřová pečeně",
+  "titleOriginal": "Vepřová pečeně",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["trouba", "plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "veprova-plec", "amount": 400, "unit": "g", "note": "s kostí (zdroj „vepřová pečeně s k.“, po odpadu 360 g masa); katalog má plec bez kosti", "group": "Pečeně" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "z toho část na dosolení šťávy", "group": "Pečeně" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g", "note": "zdroj uvádí jen „kmín“, zvolen celý", "group": "Pečeně" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "note": "část na podlití pečeně, zbytek do šťávy", "group": "Pečeně" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "na zaprášení šťávy", "group": "Šťáva" }
+  ],
+  "steps": [
+    { "text": "Z masa odsekni částečně obratlové kosti, aby se pečeně lépe porcovala. Maso opláchni ve vlažné vodě, osol a okmínuj.", "minutes": 10 },
+    { "text": "Kosti opláchni, přesekej a rozlož na pekáč. Na ně polož maso, mírně podlej vodou a vlož do rozehřáté trouby.", "minutes": 5 },
+    { "text": "Peč do zlatova. Během pečení maso přelévej vypečenou šťávou, pak ho obrať a dopeč. Podle potřeby podlévej teplou vodou.", "minutes": 60 },
+    { "text": "Měkké, do zlatova pečené maso vyjmi z pekáče." },
+    { "text": "Šťávu vydus na tuk, zapraš moukou a i s kostmi osmahni. Zalej vodou, rozmíchej a dobře provař.", "minutes": 15 },
+    { "text": "Provařenou šťávu procedi přes hustý cedník do hrnce, dosol a nech na okraji sporáku stát, až tuk vystoupí na povrch.", "minutes": 5 },
+    { "text": "Maso nakrájej na porce a podlij šťávou." }
+  ],
+  "modernNote": "Zdroj: receptura 13001, dávka 10 porcí (1 porce 110 g, z toho masa s kostí 60 g; hotový výrobek 1 100 g z 1 552 g hrubé hmotnosti). Pro 4 porce: 440 g hotové pečeně se šťávou. Množství drží podle zdroje; jídelní norma 60 g masa s kostí na porci je malá, jako hlavní jídlo počítej 120–150 g masa na osobu a ostatní suroviny úměrně zvyš. Zdroj neurčuje část vepřového, použita plec; katalogová plec je bez kosti, takže makra jsou u 400 g s kostí mírně nadsazená (odpad 10 %). Kmín zdroj nespecifikuje, zvolen celý. Sůl: zdroj dává 30 g na 10 porcí (3,5 g na porci při 4 porcích); podle moderního doporučení dej na začátku polovinu a šťávu dosol podle chuti. Zdroj neuvádí teplotu ani čas pečení; čas je odhad pro 400 g masa. Vhodné přílohy podle zdroje: brambory, houskové nebo bramborové knedlíky (receptura 19909/A) a dušené zelí (19920); klasicky „vepřo knedlo zelo“.",
+  "source": { "book": "receptury-1983", "page": 190, "code": "13001", "titleOriginal": "VEPŘOVÁ PEČENÉ" },
+  "verified": true
+}

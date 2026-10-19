@@ -6217,6 +6217,32 @@
     }
   },
   {
+    "id": "leco",
+    "name": "Lečo konzervované",
+    "aliases": [
+      "lečo",
+      "lecso",
+      "lečo ze sklenice",
+      "lečo konzerva"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 45,
+      "protein": 1.2,
+      "carbs": 7,
+      "fat": 1.5,
+      "fiber": 1.8
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: odhad z USDA SR Legacy fdc:170108 (Peppers, sweet, red, raw) a fdc:169074 (Tomato sauce, canned) s troškou tuku na zpěnění; makra orientační",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "led",
     "name": "Led",
     "aliases": [
@@ -10825,6 +10851,33 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:168162 (Plums, dried (prunes), uncooked)",
       "refuse": "USDA fdc:168162 odpad 13 % (pecky)"
+    }
+  },
+  {
+    "id": "svestky",
+    "name": "Švestky",
+    "aliases": [
+      "švestky čerstvé",
+      "švestka",
+      "plums"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 46,
+      "protein": 0.7,
+      "carbs": 11.42,
+      "fat": 0.28,
+      "fiber": 1.4
+    },
+    "units": {
+      "ks": 66
+    },
+    "ediblePortion": 0.94,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169949 (Plums, raw)",
+      "refuse": "USDA fdc:169949 odpad 6 % (pecky)"
     }
   },
   {

@@ -1,0 +1,44 @@
+{
+  "id": "soulet",
+  "title": "Šoulet (kroupy s hrachem)",
+  "titleOriginal": "Šoulet",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne", "pripravit-predem"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hrach-puleny", "amount": 240, "unit": "g", "note": "celý sušený hrách, přebraný a opláchnutý" },
+    { "ingredientId": "kroupy", "amount": 200, "unit": "g", "note": "velké, propráchnuté" },
+    { "ingredientId": "voda", "amount": 690, "unit": "ml", "note": "vsákne se do hrachu a kroup při máčení a vaření (zdroj: z 1 100 g suchých 2 820 g uvařených); zalij, aby byly ponořené, a podle potřeby dolévej" },
+    { "ingredientId": "sul", "amount": 25, "unit": "g", "note": "utři s česnekem a dosol podle chuti; zdroj sůl do vody na vaření neuvádí" },
+    { "ingredientId": "cesnek", "amount": 15, "unit": "g", "note": "utřený se solí; z 40 g hrubých × 0,43 × 0,87 (katalog)" },
+    { "ingredientId": "sadlo", "amount": 65, "unit": "g", "note": "škvařené; na osmažení cibule" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "oloupaná, nakrájená na drobno; z 200 g hrubých × 0,4 × 0,9 (katalog)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "majoranka", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "spek", "amount": 60, "unit": "g", "note": "slanina bez kůže, na kostičky" }
+  ],
+  "steps": [
+    { "text": "Hrách přeber, několikrát propláchni ve studené vodě, zalij studenou vodou a nech máčet v chladu přes noc." },
+    { "text": "Namočený hrách vař zvolna do měkka ve vodě, v níž se močil. Nerozvař ho.", "minutes": 60 },
+    { "text": "Mezitím v druhém hrnci uvař do měkka propráchnuté kroupy a propláchni je studenou vodou.", "minutes": 40, "parallel": true },
+    { "text": "Mezitím nakrájej cibuli nadrobno a osmaž ji na sádle dozlatova.", "minutes": 10, "parallel": true },
+    { "text": "Přidej kroupy k hrachu a přimíchej česnek utřený se solí.", "minutes": 5 },
+    { "text": "Přidej osmaženou cibuli, opepři a okoř majoránkou.", "minutes": 2 },
+    { "text": "Slaninu nakrájenou na kostičky částečně rozškvař a promíchej s hrachem a kroupami.", "minutes": 10 },
+    { "text": "Šoulet urovnej do pekáče a v předehřáté troubě na 200 °C zapékej do zlatova.", "minutes": 30 },
+    { "text": "Podávej na teplém talíři." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3 000 g hotového šouletu, porce 300 g) na 4 porce, faktor 0,4 (k = 4/10). Hrách i kroupy jsou ze zdroje (600 a 500 g hrubých). Maso: zdroj počítá jen 60 g slaniny na porci; jako hlavní jídlo počítej 120–150 g masa na osobu, tj. dej víc slaniny nebo přidej uzené maso. Recept obsahuje slaninu a sádlo, proto není bez masa. Zdroj odkazuje na vaření luštěnin (receptura 19915/19916): nahrazeno domácím postupem (namočit, uvařit zvolna do měkka v namáčecí vodě). Voda 690 ml je rozdíl čisté a hrubé hmotnosti hrachu a kroup ve zdroji (720 + 1 000 g × 0,4), zůstává v jídle (nic se neslévá); zdroj sůl do vody na vaření neuvádí, solí se až česnekem utřeným se solí. Doba pečení a teplota nejsou ve zdroji, doplněn odhad 30 minut při 200 °C (do zlatova). Cibule a česnek jsou v jedlé hmotnosti podle katalogu (hrubé množství ze zdroje × 0,4 × jedlá část; zdroj počítá odpad 15 % a 10 %). Sůl: zdroj dává 50 g na 10 porcí (5 g na porci), po přepočtu třídou seasoning 25 g na 4 porce (6,25 g na porci), což je hodně; dej polovinu a dosol podle chuti. Vhodné přílohy: kyselá okurka nebo kysané zelí, zeleninové saláty.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 488,
+    "code": "19305",
+    "titleOriginal": "ŠOULET"
+  },
+  "verified": true
+}

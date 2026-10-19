@@ -1,0 +1,46 @@
+{
+  "id": "drstkova-polevka",
+  "title": "Dršťková polévka",
+  "titleOriginal": "POLÉVKA DRŠŤKOVÁ",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 140,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "drstky-predvarene", "amount": 130, "unit": "g", "note": "předvařené; vložka na nudličky 3–4 cm; zdroj 32 g drštěk na porci" },
+    { "ingredientId": "voda", "amount": 600, "unit": "ml", "note": "na uvaření drštěk, vznikne vývar z drštěk; zdroj 1500 g" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "oloupaná, jemně nakrájená; z 150 g hrubých × 0,4 × 0,9 (katalog)" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené; zásmažka" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g" },
+    { "ingredientId": "sladka-paprika", "amount": 14, "unit": "g", "note": "mletá sladká" },
+    { "ingredientId": "hovezi-vyvar", "amount": 600, "unit": "ml", "note": "vlažný; zdroj vývar B, receptura 10101" },
+    { "ingredientId": "kmin-cely", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "cesnek", "amount": 6, "unit": "g", "note": "utřený se solí; z 15 g hrubých × 0,43 × 0,87 (katalog)" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "utřená s česnekem; podle chuti" },
+    { "ingredientId": "majoranka", "amount": 0.32, "unit": "g", "note": "rozdrcená" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi); na dochucení" }
+  ],
+  "steps": [
+    { "text": "Dršťky propláchni, nakrájej na menší kusy, zalij studenou vodou, nech zvolna přejít varem a vodu slij.", "minutes": 15 },
+    { "text": "Dršťky zalij znovu 600 ml čerstvé vody, přiveď k varu a zvolna vař do změknutí.", "minutes": 45 },
+    { "text": "Měkké dršťky vyjmi, vývar odlož stranou. Dršťky propláchni studenou vodou, okapané nakrájej na tenčí, delší nudličky (asi 3–4 cm).", "minutes": 8 },
+    { "text": "Jemně nakrájenou cibuli osmahni na sádle do růžova, zasyp moukou a připrav světlou zásmažku. Zamíchej do ní papriku.", "minutes": 12 },
+    { "text": "Zásmažku za stálého prošlehávání metlou zalij vlažným vývarem a odloženým vývarem z drštěk. Přiveď k varu a zvolna vař nejméně 45 minut, občas prošlehni.", "minutes": 50 },
+    { "text": "Během vaření přidej kmín, mletý pepř a česnek utřený se solí.", "minutes": 2, "parallel": true },
+    { "text": "Uvařenou polévku procedi hustým cedníkem, přidej nakrájené dršťky a rozdrcenou majoránku a krátce povař.", "minutes": 8 },
+    { "text": "Polévku dochuť polévkovým kořením, popřípadě přisol." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,4 l hotové polévky, porce 0,33 l včetně 32 g drštěk) na 4 porce, faktor 0,4 (k = 4/10). Dršťky: zdroj 600 g syrových (570 g očištěných) se vařením zmenší na vložku 32 g na porci; protože dnes se kupují dršťky předvařené, řádek je vložka ze zdroje 32 g × 10 × 0,4 = 130 g. Syrové dršťky by dělaly 240 g a vařily by se několik hodin. Zdroj neuvádí dobu vaření drštěk („do změknutí“), 45 minut je odhad pro předvařené; hotovo urči podle změknutí. Voda na uvaření drštěk (zdroj 1500 g vývaru z drštěk) je přepočtena na 600 ml, zredukovaná voda se použije do zásmažky. Cibule: zdroj 150 g hrubých, odpad 22,5 g; řádek 55 g = 150 × 0,4 × 0,9 (jedlá část z katalogu). Česnek podobně. Sádlo a hovězí vývar zůstávají (zdroj je používá). Sůl, koření, majoránka a polévkové koření jsou přepočteny jako koření (třída seasoning), množství pod 1 g jsou přesná. Jídelní norma masa se nezvyšuje: jako hlavní jídlo počítej 120–150 g masa na osobu. K polévce se podává pečivo.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 35,
+    "code": "10129",
+    "titleOriginal": "POLÉVKA DRŠŤKOVÁ"
+  },
+  "verified": true
+}

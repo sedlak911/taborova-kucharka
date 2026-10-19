@@ -1,0 +1,28 @@
+[
+  {
+    "id": "leco",
+    "name": "Lečo konzervované",
+    "aliases": [
+      "lečo",
+      "lecso",
+      "lečo ze sklenice",
+      "lečo konzerva"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 45,
+      "protein": 1.2,
+      "carbs": 7,
+      "fat": 1.5,
+      "fiber": 1.8
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: odhad z USDA SR Legacy fdc:170108 (Peppers, sweet, red, raw) a fdc:169074 (Tomato sauce, canned) s troškou tuku na zpěnění; makra orientační",
+      "refuse": "bez odpadu"
+    }
+  }
+]

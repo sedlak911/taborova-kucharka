@@ -76,7 +76,7 @@ Jedna karta = jedna až dvě stránky PDF, pevný tvar (viz `afrs-card.md`). Kó
 ## Receptury teplých pokrmů 1983
 
 - Receptura = číslo (`10107`, varianta `13001/B`) → `source.code`; `source.titleOriginal` = název velkými jako v knize („POLÉVKA ZELENINOVÁ“). Výtěžek **10 porcí** (`originalYield: 10`, k = 0,4), u polévky „1 porce: 0,33 l“ = vstup `--portion` pro `check:recipe`.
-- Tabulka **Hmotnost v g: hrubá | odpad | čistá** – přepočítávej sloupec **hrubá** (nákupní množství), u zeleniny je odpad v `ediblePortion` suroviny. „Ztráty celkem“ a „Množství hotové polévky“ jsou kontrola bilance.
+- Tabulka **Hmotnost v g: hrubá | odpad | čistá** – přepočítávej sloupec **hrubá** (nákupní množství); u zeleniny (brambory, cibule, česnek, kořenová) zapiš do řádku jedlou hmotnost = hrubá × 0,4 × `ediblePortion` suroviny (`ingredients.md` §A.P., aplikace odpad u zeleniny neodečítá), `note` „z <X> g hrubé × <ediblePortion>“. „Ztráty celkem“ a „Množství hotové polévky“ jsou kontrola bilance.
 - Odkaz „Vývar B, receptura č. 10101“ = `hovezi-vyvar` (C = `kureci-vyvar`); „Polévkové koření“ (tekuté, typ Maggi) zatím v katalogu chybí – založ jednou společnou surovinou, „Květ mletý“ = muškátový květ (`muskatovy-orisek` + `note`); margarín → máslo/olej do `original`.
 - Čísla jsou přesná (gramy) → `verified: true` po ověření proti obrázku.
 

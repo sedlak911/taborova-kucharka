@@ -1,0 +1,41 @@
+{
+  "id": "hovezi-gulas-receptury",
+  "title": "Hovězí guláš (receptura 1983)",
+  "titleOriginal": "Hovězí guláš",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 400, "unit": "g", "note": "kližka, na kostky po 25 g (4 ks na porci)", "group": "Guláš" },
+    { "ingredientId": "sadlo", "amount": 55, "unit": "g", "note": "škvařené", "group": "Guláš" },
+    { "ingredientId": "cibule", "amount": 145, "unit": "g", "note": "oloupaná, nasekaná na drobno; z 400 g hrubých × 0,4 × 0,9 (katalog)", "group": "Guláš" },
+    { "ingredientId": "sladka-paprika", "amount": 14, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 8, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "kmin-mlety", "amount": 0.92, "unit": "g", "note": "zdroj uvádí jen „kmín“, zvolen mletý", "group": "Guláš" },
+    { "ingredientId": "voda", "amount": 480, "unit": "ml", "note": "část na podlití masa, zbytek teplá na zásmažku", "group": "Guláš" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "na zaprášení", "group": "Zahuštění" },
+    { "ingredientId": "cesnek", "amount": 4, "unit": "g", "note": "utřený", "group": "Zahuštění" },
+    { "ingredientId": "majoranka", "amount": 0.46, "unit": "g", "group": "Zahuštění" }
+  ],
+  "steps": [
+    { "text": "Opláchnuté maso nakrájej na kostky po 25 g (4 kousky na porci).", "minutes": 10 },
+    { "text": "Cibuli nakrájej na drobno a na sádle ji osmahni do růžova. Přidej mletou papriku a zpěň ji.", "minutes": 8 },
+    { "text": "Do základu vlož maso, osol ho a za stálého míchání osmahni.", "minutes": 10 },
+    { "text": "Přidej rajčatový protlak, pepř a kmín, maso mírně podlej vodou a pod poklicí duš.", "minutes": 40 },
+    { "text": "Pod masem ještě zatuhlým vyduš šťávu na tuk, zaprášej moukou, za stálého míchání ji zasmaž a podlej teplou vodou.", "minutes": 8 },
+    { "text": "Přidej utřený česnek a majoránku a maso zvolna vař za stálého míchání do změknutí.", "minutes": 30 },
+    { "text": "Měkké maso vyjmi do čistého hrnce a omáčku na ně přeceď přes hustý cedník.", "minutes": 5 },
+    { "text": "Guláš krátce povař, až tuk vystoupí na povrch.", "minutes": 5 },
+    { "text": "Podávej s houskovými či špekovými knedlíky, vařenými brambory nebo těstovinami." }
+  ],
+  "modernNote": "Zdroj: receptura 11101, dávka 10 porcí (1 porce 183 g, z toho masa 63 g; hrubá hmotnost 2 914 g, ztráty 1 023 g, hotový výrobek 1 830 g). Pro 4 porce: asi 730 g hotového guláše. Jídelní norma je 63 g masa na porci (4 kousky); jako hlavní jídlo počítej 120–150 g masa na osobu, tedy 500–600 g na 4 porce, a odpovídajícím poměrem navyš i ostatní suroviny. Cibule: zdroj 400 g hrubých, odpad 60 g, čistých 340 g; řádek je 145 g = 400 × 0,4 × 0,9 (jedlá část z katalogu). Kmín zdroj nespecifikuje, zvolen mletý. Sůl: zdroj dává 30 g na 10 porcí, tj. asi 3,5 g na porci při 4 porcích; dej na začátku polovinu a dosol podle chuti (nález check:recipe „sůl mimo rozsah“ je tedy věrný zdroji). Bilance: aplikace počítá porci ze syrových surovin (294 g), hotová porce je podle zdroje 183 g, protože se guláš dlouho dusí a vyvaří (1 023 g ztrát z 2 914 g). Vhodné přílohy podle zdroje: houskové knedlíky, špekové knedlíky, vařené brambory, těstoviny.",
+  "source": { "book": "receptury-1983", "page": 93, "code": "11101", "titleOriginal": "HOVĚZÍ GULÁŠ" },
+  "verified": true
+}

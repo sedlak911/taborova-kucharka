@@ -1,0 +1,45 @@
+{
+  "id": "cockova-polevka-na-kyselo",
+  "title": "Čočková polévka na kyselo s bramborami",
+  "titleOriginal": "POLÉVKA ČOČKOVÁ KYSELÁ S BRAMBORY",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "cocka", "amount": 120, "unit": "g", "note": "přebraná, propláchnutá; zdroj 300 g na 10 porcí, uvařená 750 g" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "na zásmažku", "original": { "ingredientId": "margarin", "amount": 45, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g" },
+    { "ingredientId": "hovezi-vyvar", "amount": 680, "unit": "ml", "note": "vlažný; zdroj vývar B (receptura 10101)" },
+    { "ingredientId": "bobkovy-list", "amount": 1.15, "unit": "ks" },
+    { "ingredientId": "brambory", "amount": 185, "unit": "g", "note": "oloupané, na menší kostky; z 584 g hrubých × 0,4 × 0,8 (katalog)" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "do vody na brambory a podle chuti" },
+    { "ingredientId": "mleko-polotucne", "amount": 400, "unit": "ml" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi)" },
+    { "ingredientId": "ocet", "amount": 20, "unit": "ml", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Čočku několikrát pečlivě propláchni, zalij dostatečným množstvím vody a přiveď k varu.", "minutes": 10 },
+    { "text": "Čočku zvolna vař až do měkka a podle potřeby dolévej horkou vodu.", "minutes": 45 },
+    { "text": "Mezitím z másla a mouky připrav světlou zásmažku.", "minutes": 5, "parallel": true },
+    { "text": "Zásmažku za stálého prošlehávání zalij vlažným vývarem, případně odvarem z čočky. Přiveď k varu, přidej bobkový list a zvolna vař nejméně 30 minut.", "minutes": 38, "parallel": true },
+    { "text": "Mezitím brambory oloupej, opláchni a nakrájej na menší kostky.", "minutes": 8, "parallel": true },
+    { "text": "Brambory zalij vodou, osol a uvař téměř do měkka.", "minutes": 15, "parallel": true },
+    { "text": "Uvařenou čočku prolisuj hustým cedníkem.", "minutes": 5 },
+    { "text": "Prolisovanou čočku přidej do polévky se zásmažkou, znovu povař a polévku procedi hustším cedníkem.", "minutes": 8 },
+    { "text": "Brambory i s odvarem přidej do procezené polévky, přilij mléko a krátce povař.", "minutes": 5 },
+    { "text": "Polévku dochuť polévkovým kořením, případně dosol a mírně přikyselí octem." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,4 l hotové polévky, porce 0,33 l) na 4 porce, faktor 0,4 (k = 4/10). Čočka: zdroj uvádí 300 g suché, po uvaření 750 g. Voda na uvaření čočky a brambor je ve zdroji bez množství (podle potřeby), proto bez řádku. Brambory: zdroj 584 g hrubých, odpad 234 g, čistých 350 g; řádek je 185 g = 584 × 0,4 × 0,8 (jedlá část z katalogu), podle čistého sloupce zdroje by to bylo 140 g. Margarín ze zdroje nahrazuje máslo (původní množství 45 g). Hovězí vývar (zdroj vývar B, receptura 10101) zůstává, lze ho nahradit zeleninovým. Sůl a polévkové koření jsou přepočteny jako koření (třída seasoning), dochuť podle chuti. Ocet je vlastní kyselost polévky, přidávej postupně. Doba vaření čočky není ve zdroji uvedena (odhad 45 minut podle druhu čočky). Bobkový list: 0,5 g ze zdroje přepočteno na 1,15 ks (1 list ≈ 0,2 g), stačí 1 list. Doporučení k jídelní normě: polévka je bezmasá až na vývar; jako hlavní jídlo počítej porci 0,5 l.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 34,
+    "code": "10127",
+    "titleOriginal": "POLÉVKA ČOČKOVÁ KYSELÁ S BRAMBORY"
+  },
+  "verified": true
+}

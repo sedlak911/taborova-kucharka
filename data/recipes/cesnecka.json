@@ -1,0 +1,37 @@
+{
+  "id": "cesnecka",
+  "title": "Česnečka s osmaženým chlebem",
+  "titleOriginal": "POLÉVKA ČESNEKOVÁ S OSMAŽENÝM CHLEBEM",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-vyvar", "amount": 1160, "unit": "ml", "note": "zdroj vývar A, receptura 10201" },
+    { "ingredientId": "chleb", "amount": 120, "unit": "g", "note": "tmavý chléb (nebo žemle)" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené; polovina na osmažení chleba, polovina do porcí" },
+    { "ingredientId": "cesnek", "amount": 25, "unit": "g", "note": "oloupaný, jemně utřený se solí; z 70 g hrubých × 0,4 × 0,87 (katalog)" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Nakrájej chléb na drobné hranolky, nudličky nebo kostičky.", "minutes": 4 },
+    { "text": "Na pánvi rozehřej polovinu sádla a chléb v něm osmahni do červena.", "minutes": 10 },
+    { "text": "Mezitím přiveď vývar k varu.", "minutes": 10, "parallel": true },
+    { "text": "Česnek oloupej a jemně utři se solí.", "minutes": 5 },
+    { "text": "Do misek dej utřený česnek a trochu pepře, zalij vařícím vývarem, přidej zbylé sádlo a osmažený chléb.", "minutes": 3 },
+    { "text": "Podávej ihned." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,3 l hotové polévky, porce 0,33 l) na 4 porce, faktor 0,4 (k = 4/10). Zdroj uvádí vývar A (receptura 10201), v katalogu je to hovězí vývar. Česnek: zdroj 70 g hrubých, odpad 7 g, čistých 63 g; řádek je 25 g = 70 × 0,4304 × 0,87 (jedlá část z katalogu). Sádlo: zdroj 100 g, z toho polovina na osmažení chleba a 5 g do každé porce; přepočteno jako tuk (třída fat) na 45 g. Sůl 9 g přepočtena jako koření (zdroj 20 g), na 1,2 l polévky je to hodně, dochuť podle chuti. Zdroj nepoužívá polévkové koření (varianta 10210/A), jen sůl a pepř. Polévka se podle zdroje připravuje na objednávku: chléb osmahni dopředu, česnek, vývar a chléb spoj až v misce. Hotové množství 4 × 0,33 l.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 53,
+    "code": "10210/A",
+    "titleOriginal": "POLÉVKA ČESNEKOVÁ S OSMAŽENÝM CHLEBEM"
+  },
+  "verified": true
+}

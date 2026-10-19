@@ -1,0 +1,42 @@
+{
+  "id": "bramborovy-gulas-se-salamem",
+  "title": "Bramborový guláš se salámem",
+  "titleOriginal": "Bramborový guláš se salámem",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 960, "unit": "g", "note": "oloupané, nakrájej na větší kousky nebo kostky; z 3 000 g hrubých × 0,4 × 0,8 (katalog)", "group": "Guláš" },
+    { "ingredientId": "spek", "amount": 40, "unit": "g", "note": "slanina bez kůže, nakrájená na drobné kostičky", "group": "Guláš" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené; polovina na slaninu a cibuli, polovina na zásmažku", "group": "Guláš" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "oloupaná, jemně nakrájená; z 200 g hrubých × 0,4 × 0,9 (katalog)", "group": "Guláš" },
+    { "ingredientId": "sladka-paprika", "amount": 14, "unit": "g", "note": "mletá", "group": "Guláš" },
+    { "ingredientId": "hovezi-vyvar", "amount": 480, "unit": "ml", "note": "zdroj vývar B, receptura 10101; polovina horká do základu, polovina studená na zásmažku", "group": "Guláš" },
+    { "ingredientId": "kmin-mlety", "amount": 0.46, "unit": "g", "note": "zdroj uvádí jen „kmín“, zvolen mletý", "group": "Guláš" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "část utři s česnekem", "group": "Guláš" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g", "note": "prosátá, na světlou zásmažku", "group": "Zásmažka" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "utřený se solí; z 20 g hrubých × 0,43 × 0,87 (katalog)", "group": "Guláš" },
+    { "ingredientId": "majoranka", "amount": 0.23, "unit": "g", "note": "pečlivě drcená", "group": "Guláš" },
+    { "ingredientId": "bologna", "amount": 200, "unit": "g", "note": "salám točený, oloupaný, nakrájený na kostky", "group": "Guláš" }
+  ],
+  "steps": [
+    { "text": "Brambory oloupej, opláchni a nakrájej na větší kousky nebo kostky.", "minutes": 10 },
+    { "text": "Slaninu nakrájej na drobné kostičky, v hrnci ji částečně rozpusť a přidej polovinu sádla.", "minutes": 8 },
+    { "text": "Na slanině a sádle osmahni jemně nakrájenou cibuli do růžova.", "minutes": 8 },
+    { "text": "Přisyp papriku, krátce ji zpěň, přilij polovinu vývaru a základ přiveď k varu.", "minutes": 8 },
+    { "text": "Do vařícího základu vlož brambory, okoř je kmínem a pepřem, osol a částečně podus.", "minutes": 12 },
+    { "text": "Ze zbylého sádla a prosáté mouky udělej světlou zásmažku a rozmíchej ji se zbylým studeným vývarem.", "minutes": 6 },
+    { "text": "Rozmíchanou zásmažkou zahusti částečně podušené brambory, přidej česnek utřený se solí a dovař téměř do měkka.", "minutes": 12 },
+    { "text": "Guláš dochuť drcenou majoránkou, přidej salám nakrájený na kostky a velmi krátce povař.", "minutes": 5 },
+    { "text": "Podávej." }
+  ],
+  "modernNote": "Zdroj: receptura 15505, dávka 10 porcí (1 porce 345 g, z toho 45 g salámu; hotový výrobek 3 450 g z 5 242,5 g hrubé hmotnosti). Pro 4 porce: 1 380 g hotového guláše. Množství drží podle zdroje; sádlo škvařené a slanina bez kůže (spek) zůstávají. Vývar B (receptura 10101) je zde hovezi-vyvar. Salám točený je bologna. Brambory, cibule a česnek jsou v jedlé hmotnosti podle katalogu (hrubé množství ze zdroje × 0,4 × jedlá část; zdroj počítá odpad 40 %, 15 % a 10 %, podle čistého sloupce by brambor vyšlo 720 g); pokud při loupání ubude víc, dej o něco víc. Sůl: zdroj dává 30 g na 10 porcí (vč. soli k česneku), tj. asi 3,5 g na porci; podle moderního doporučení dej na začátku polovinu a dosol podle chuti. Salámu je 50 g na porci (jídelní norma zdroje); jako hlavní jídlo počítej 120–150 g masa na osobu, tedy salámu dej víc. Aplikace počítá porci ze syrových surovin (527 g), hotová porce po vaření je podle zdroje 345 g.",
+  "source": { "book": "receptury-1983", "page": 310, "code": "15505", "titleOriginal": "BRAMBOROVÝ GULÁŠ SE SALÁMEM" },
+  "verified": true
+}

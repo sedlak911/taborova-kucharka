@@ -1,0 +1,48 @@
+{
+  "id": "gulasova-polevka",
+  "title": "Gulášová polévka",
+  "titleOriginal": "Polévka gulášová",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 120, "unit": "g", "note": "zdroj hovězí výřez; nakrájené na drobnější kousky", "group": "Maso a základ" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "oloupaná, jemně nakrájená; z 150 g hrubých × 0,4 × 0,9 (katalog)", "group": "Maso a základ" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené; třetina na cibuli a maso, zbytek na zásmažku", "group": "Maso a základ" },
+    { "ingredientId": "sladka-paprika", "amount": 14, "unit": "g", "note": "mletá sladká", "group": "Maso a základ" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1040, "unit": "ml", "note": "vlažný; zdroj vývar B (receptura 10101); trochu na podlití masa, zbytek do zásmažky", "group": "Polévka" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g", "note": "na zásmažku", "group": "Polévka" },
+    { "ingredientId": "kmin-cely", "amount": 0.46, "unit": "g", "group": "Polévka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "group": "Polévka" },
+    { "ingredientId": "cesnek", "amount": 6, "unit": "g", "note": "oloupaný, utřený se solí; z 15 g hrubých × 0,4 × 0,87 (katalog)", "group": "Polévka" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "část na maso, část na česnek a brambory; podle chuti", "group": "Polévka" },
+    { "ingredientId": "brambory", "amount": 280, "unit": "g", "note": "oloupané, nakrájené na drobné kostky; z 875 g hrubých × 0,4 × 0,8 (katalog)", "group": "Brambory" },
+    { "ingredientId": "majoranka", "amount": 0.23, "unit": "g", "note": "drcená", "group": "Dokončení" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi); na dochucení hotové polévky", "group": "Dokončení" }
+  ],
+  "steps": [
+    { "text": "Opláchnuté hovězí maso nakrájej na drobnější kousky. Cibuli nakrájej jemně.", "minutes": 8 },
+    { "text": "Cibuli osmahni na třetině sádla do růžova.", "minutes": 6 },
+    { "text": "Přidej maso a krátce je osmahni.", "minutes": 5 },
+    { "text": "Maso zaprášit paprikou, znovu mírně osmahni, podlij trochou vývaru, osol a duš téměř do měkka.", "minutes": 40 },
+    { "text": "Mezitím ze zbylého sádla a mouky připrav světlou zásmažku. Za stálého prošlehávání ji zalij zbylým vlažným vývarem.", "minutes": 6, "parallel": true },
+    { "text": "Přiveď k varu a zvolna vař nejméně 30 minut, občas prošlehej. Během vaření přidej kmín, pepř a česnek utřený se solí.", "minutes": 40, "parallel": true },
+    { "text": "Mezitím oloupej brambory, nakrájej je na drobné kostky, zalij trochou vody, osol a částečně uvař. Odvar nevylévej.", "minutes": 25, "parallel": true },
+    { "text": "Provařenou polévku procedi hustým cedníkem a přidej odvar z brambor.", "minutes": 3 },
+    { "text": "Do procezené polévky vrať podušené maso, předvařené brambory a drcenou majoránku. Krátce povař.", "minutes": 10 },
+    { "text": "Hotovou polévku dochuť polévkovým kořením." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,38 l hotové polévky včetně masa, porce 0,33 l včetně 20 g masa) na 4 porce, faktor 0,4 (k = 4/10); sádlo, sůl, koření a bylinky jsou přepočteny jako tuk, resp. koření, takže poměr je o něco nižší než 0,4. Množství drží zdroj, masa je jen 20 g na porci (120 g na 4 porce, zdroj hovězí výřez, v katalogu hovězí zadní). Jako hlavní jídlo počítej 120–150 g masa na osobu. Cibule, česnek a brambory jsou v jedlé hmotnosti podle katalogu (hrubé množství ze zdroje × 0,4 × jedlá část; zdroj počítá odpad 15 %, 10 % a 40 %, u brambor by podle čistého sloupce vyšlo 210 g). Dej raději o něco víc, pokud při loupání ubude víc. Vývar B z receptury 10101 je hovězí vývar; lze jej nahradit zeleninovým. Voda na předvaření brambor není v surovinách (zdroj „podle potřeby“): zalij brambory jen trochu a odvar vrať do polévky. Sůl 9 g a polévkové koření 9 g jsou přepočteny jako koření (zdroj 20 g + 20 g); dochuť podle chuti.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 36,
+    "code": "10130",
+    "titleOriginal": "POLÉVKA GULAŠOVÁ"
+  },
+  "verified": true
+}
