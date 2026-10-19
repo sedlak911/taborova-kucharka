@@ -1,0 +1,29 @@
+[
+  {
+    "id": "vodnice-susena",
+    "name": "Vodnice sušená",
+    "aliases": [
+      "sušená vodnice",
+      "sušený tuřín",
+      "dehydrated turnips",
+      "turnips, dehydrated"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 363,
+      "protein": 11.66,
+      "carbs": 83.3,
+      "fat": 1.3,
+      "fiber": 23.3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "odhad: USDA SR Legacy fdc:170465 (Turnips, raw) přepočtená na sušinu (× 12,96); „turnips, dehydrated“ v USDA nenalezeno",
+      "units": "bez hrnku/ks; hmotnost ze zdroje",
+      "refuse": "bez odpadu (sušená vodnice je už oloupaná a nakrájená)"
+    }
+  }
+]

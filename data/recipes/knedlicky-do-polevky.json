@@ -1,0 +1,32 @@
+{
+  "id": "knedlicky-do-polevky",
+  "title": "Knedlíčky do polévky",
+  "titleOriginal": "Dumplings",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 110, "unit": "g" },
+    { "ingredientId": "prasek-do-peciva", "amount": 5, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 5, "unit": "g", "scaling": "linear", "note": "změklé", "original": { "ingredientId": "margarin", "amount": 5, "unit": "g" } },
+    { "ingredientId": "mleko-polotucne", "amount": 110, "unit": "ml", "note": "podle potřeby, těsto má být měkké" }
+  ],
+  "steps": [
+    { "text": "Mouku důkladně promíchej s práškem do pečiva a solí.", "minutes": 3 },
+    { "text": "Vetři nebo vmíchej máslo.", "minutes": 2 },
+    { "text": "Přidej mléko a zamíchej na měkké těsto.", "minutes": 3 },
+    { "text": "Těsto rozděl na 8 kousků po asi 28 g (hrubě 1 polévková lžíce).", "minutes": 4 },
+    { "text": "Kousky těsta nech spadnout do vroucí polévky nebo do vroucího vývaru. Přikryj pokličkou těsně.", "minutes": 2 },
+    { "text": "Vař 10 minut nebo dokud nejsou knedlíčky hotové. Pokličku zbytečně nezvedej.", "minutes": 10 },
+    { "text": "Podávej v polévce, po 2 knedlíčcích na porci." }
+  ],
+  "modernNote": "Zdroj: Dumplings, s. 345 tištěná (PDF 353), 100 porcí po 2 knedlíčcích, výtěžek asi 13 lb. Čísla přepočtena nástrojem convert (k = 0,04) a ověřena proti obrázku stránky: mouka 6 lb, prášek 4½ oz, sůl 2¼ oz, tuk 4 oz, mléko 6 lb 4 oz (variabilní, přidávej do měkkého těsta). Prášek do pečiva a tuk v těstě mají scaling linear, těsto je chemie. Shortening (zdroj) nahrazen máslem; původní tuk je v original jako margarín, 5 g. Mléko je přepočteno z hmotnosti (2 835 g na 100 porcí, hustota 1,03). Zdroj nevaří knedlíčky ve vlastním vývaru: ve zdroji jsou hozeny na vroucí „stew“ nebo na parní tác, proto recept neobsahuje polévku ani vývar. Dej je do jakékoli vroucí polévky, vývaru nebo guláše; knedlíčky nabývají, hrnec musí být dost velký. Knedlíček po 1 oz = 28 g, 8 kusů na 4 porce. Zdroj uvádí variantu Tomato Dumpling: místo mléka stejnou hmotnost rajčatové šťávy (3/4 gal na 100 porcí, tj. asi 110 ml na 4 porce). Bilance: těsto celkem asi 239 g, tj. 8 knedlíčků po 28 g a porce 2 knedlíčky = asi 60 g. Čas: příprava těsta a tvarování asi 14 minut, vaření 10 minut ze zdroje; timeMinutes zvýšeno z 20 na 25 podle součtu kroků. Nález check:recipe „polévka mimo 250–450 g“ je očekávaný: recept je jen vložka do polévky (porce 2 knedlíčky = 59 g jako ve zdroji), polévku dodá uživatel (na 4 porce počítej asi 1 l vroucí polévky nebo vývaru).",
+  "source": { "book": "navy-1944", "page": 353, "titleOriginal": "Dumplings" },
+  "verified": true
+}

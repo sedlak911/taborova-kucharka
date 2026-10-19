@@ -1,0 +1,79 @@
+{
+  "id": "ovesne-placky",
+  "title": "Ovesné placky",
+  "titleOriginal": "Oatmeal Cake",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    {
+      "ingredientId": "ovesne-vlocky",
+      "amount": 250,
+      "unit": "g",
+      "note": "ve zdroji 7 lb (3,2 kg) středně mleté ovesné mouky; můžeš nechat vločky nebo je krátce rozmixovat"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "note": "ve zdroji 1½ lb (680 g)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 55,
+      "unit": "g",
+      "note": "ve zdroji 1½ lb (680 g)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "ve zdroji 1½ oz (42,5 g)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 3,
+      "unit": "g",
+      "note": "ve zdroji 1½ oz (42,5 g)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vinny-kamen",
+      "amount": 3,
+      "unit": "g",
+      "note": "ve zdroji 1½ oz (42,5 g); lze nahradit 6 g kypřicího prášku bez sody",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "studená; ve zdroji „dostatek“ bez množství, odhad",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Do ovesných vloček rozmíchej sůl, sodu a vinný kámen.", "minutes": 2 },
+    { "text": "Přisyp mouku a vetři do směsi sádlo, aby vznikly drobky.", "minutes": 8 },
+    { "text": "Udělej uprostřed důlek, přilévej studenou vodu a zpracuj tuhé, dobře zpracovatelné těsto.", "minutes": 5 },
+    { "text": "Těsto rozděl na kusy po asi 230 g a každý zpracuj do kulatého bochánku.", "minutes": 5 },
+    { "text": "Každý kus vyválej na placku (asi 5 mm silnou) a rozřízni ji na čtvrtky.", "minutes": 10 },
+    { "text": "Předehřej troubu na 220 °C a placky vyskládej na suché plechy." },
+    { "text": "Peč ve vyhřáté troubě asi 15 minut, dokud placky nezhnědnou a nejsou křehké.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj: dávka na 7 lb (3,2 kg) ovesné mouky, přepočteno na 250 g (faktor 250/3175); sůl, sodu, vinný kámen, mouku i sádlo lineárně (pečení). Kniha uvádí „medium oatmeal“ (středně mletá ovesná mouka); použity ovesné vločky, které dávají drsnější placku; pro hladší strukturu je rozmixuj. Voda: zdroj říká jen „sufficient cold water“ bez množství, 150 ml je odhad (ovesné těsto saje pomalu, dolévej po lžících). Zdroj nedává dobu pečení ani teplotu: „sharp oven“ = horká trouba, tedy 220 °C, 15 minut je odhad. Tloušťka placky 5 mm je odhad (zdroj: „velikost, jakou uznáš za vhodnou“). Z těsta vyjde asi 9 placek (kusů je ~2,3 po 8 oz, každý se dělí na čtvrtky). Placky jsou suché a křehké, vydrží týdny v dóze; jez je s máslem nebo sýrem. Výtěžek ve zdroji není uveden ani jako počet kusů, proto originalYield chybí.",
+  "source": {
+    "book": "wells-1890",
+    "page": 27,
+    "titleOriginal": "Oatmeal Cake"
+  },
+  "verified": false,
+  "quote": "Rub the lard in the oatmeal and flour, having previously mixed all the other ingredients in the oatmeal."
+}

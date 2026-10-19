@@ -1,0 +1,95 @@
+{
+  "id": "vodnice-se-slaninou",
+  "title": "Vodnice se slaninou",
+  "titleOriginal": "Turnips (Rutabagas) with Bacon",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "vodnice",
+      "amount": 365,
+      "unit": "g",
+      "note": "z asi 450 g nákupní hmotnosti × 0,81; oloupaná a nakrájená na kostky",
+      "original": {
+        "ingredientId": "vodnice-susena",
+        "amount": 65,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření, slije se; domácí hodnota (zdroj počítá 2½ gal vody na rehydrataci sušené vodnice)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "přidává se až po scezení"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 40,
+      "unit": "g",
+      "note": "slanina nakrájená na kostičky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodnici oloupej a nakrájej na kostky.",
+      "minutes": 8
+    },
+    {
+      "text": "Dej ji do hrnce, zalij vodou, přikryj a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Vař asi 30 minut, dokud vodnice nezměkne.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím nakrájenou slaninu osmaž na pánvi dozlatova.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Vodnici sundej z ohně a sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Osol a opepři.",
+      "minutes": 1
+    },
+    {
+      "text": "Přidej slaninu i s výpekem a dobře promíchej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj je pro 100 porcí po 3 oz (½ až ⅔ hrnku) a počítá se sušenou vodnicí (3 lb 8 oz, 65 g na 4 porce; ta zůstává v přepínači historických surovin). Dnes se vaří čerstvá vodnice. Množství čerstvé vodnice vychází z receptu Buttered Rutabagas na s. 293 tištěné (33 lb nákupní hmotnosti na 100 porcí po 4 oz) upraveného na porci 3 oz: 33 lb × 0,04 × ¾ = asi 450 g, po oloupání (× 0,81) 365 g, tedy asi 90 g na porci jako ve zdroji. Poměr sušená : čerstvá není ve zdroji uveden, proto se nepřepočítává z hmotnosti sušené vodnice. Namáčení (45–60 min) a pomalé zahřívání (35 min) sušené vodnice odpadají; čerstvá vodnice se podle zdroje Buttered Rutabagas vaří asi 30 minut (sušená po rehydrataci jen asi 10 minut). Voda 1 l je domácí hodnota. Zdroj uvádí i variantu: vodnici po rehydrataci dát do pekáče, přikrýt plátky slaniny, posypat ¼ lb cukru (½ hrnku) a péct při 350 °F (asi 175 °C) 20 minut. Slanina 10 g na porci sedí s kartou (2 lb 4 oz × 0,04); jako hlavní chod počítej víc. Jde o přílohu (porce 3 oz je malá); chceš-li větší porci, zvyš vodnici i slaninu o polovinu. Slaninu smaž souběžně s vařením vodnice (zdroj ji smaží až nakonec).",
+  "source": {
+    "book": "navy-1944",
+    "page": 302,
+    "titleOriginal": "TURNIPS (RUTABAGAS) WITH BACON"
+  },
+  "verified": true,
+  "quote": "Soak turnips in water 45 to 60 minutes."
+}

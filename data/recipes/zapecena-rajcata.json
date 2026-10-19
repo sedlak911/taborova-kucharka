@@ -1,0 +1,32 @@
+{
+  "id": "zapecena-rajcata",
+  "title": "Zapečená rajčata",
+  "titleOriginal": "Escalloped Tomatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "rajcata-konzervovana", "amount": 460, "unit": "g", "note": "loupaná, i se šťávou; zdroj 25 lb 8 oz (4 plechovky No. 10)" },
+    { "ingredientId": "cukr-krystal", "amount": 9, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 5, "unit": "g", "note": "jemně nakrájená" },
+    { "ingredientId": "chleb-bily", "amount": 90, "unit": "g", "note": "nalámaný nebo nakrájený na kostky; zdroj Bread, broken or cubed" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "rozpuštěné; zdroj Butter or other fat" }
+  ],
+  "steps": [
+    { "text": "Rajčata ohřej v hrnci s cukrem, solí, pepřem a cibulí.", "minutes": 10 },
+    { "text": "Chlebové kostky promíchej s rozpuštěným máslem.", "minutes": 3, "parallel": true },
+    { "text": "Chlebové kostky lehce opeč v troubě předehřáté na 190 °C.", "minutes": 10 },
+    { "text": "Do vymazané zapékací misky vrstvi střídavě chleba a rajčata. Dole i nahoře má být chleba.", "minutes": 5 },
+    { "text": "Peč v troubě při 190 °C 30 až 45 minut.", "minutes": 45 }
+  ],
+  "modernNote": "Navy kniha počítá 100 porcí, přepočteno na 4 (porce ze zdroje 4 až 5 oz, asi 2/3 hrnku). Rajčata (originál 25 lb 8 oz, tj. 4 plechovky No. 10) = rajčata z konzervy i se šťávou. Cukr má ve zdroji hmotnost (8 oz) a sladí zeleninovou přílohu, proto lineárně (9 g; jako koření by vyšlo 15 g). Moderní recept by použil méně chleba; zdroj dává 5 lb na 100 porcí, tedy 90 g. Teplota 375 °F = 190 °C. Poznámka zdroje: část rajčat lze nahradit uvařeným celerem, kukuřicí, květákem nebo cibulí. Čísla ověřena podle obrázku strany.",
+  "source": { "book": "navy-1944", "page": 299, "titleOriginal": "Escalloped Tomatoes" },
+  "verified": true
+}

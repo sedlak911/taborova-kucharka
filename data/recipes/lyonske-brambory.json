@@ -1,0 +1,35 @@
+{
+  "id": "lyonske-brambory",
+  "title": "Lyonské brambory s cibulí",
+  "titleOriginal": "Lyonnaise Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 640, "unit": "g", "note": "uvařené a oloupané, nakrájené na plátky" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "jemně nasekaná" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "nebo jiný tuk" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.22, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Uvařené brambory nakrájej na plátky silné půl centimetru.", "minutes": 6 },
+    { "text": "Cibuli jemně nasekej.", "minutes": 3 },
+    { "text": "Na pánvi rozehřej tuk a cibuli na něm osmahni do průsvitnosti, asi 3 minuty.", "minutes": 5 },
+    { "text": "Přidej brambory, osol, opepři a promíchej.", "minutes": 2 },
+    { "text": "Opékej na plotně, občas promíchej, dokud nejsou brambory lehce zhnědlé.", "minutes": 15 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj: 100 porcí po 4 až 5 oz (cca 2/3 šálku). Brambory jsou ve zdroji už uvařené („Potatoes, cooked“, 35 lb), nikoli A.P., proto se nepřepočítávají přes jedlou část; uvařené oloupané brambory mají zhruba stejnou hmotnost jako oloupané syrové. Cibule („Onions, minced“, 1 lb) je také už nasekaná, proto jen 18 g na 4 porce, což je dost mírné množství; klidně přidej víc. Tuk „máslo nebo jiný tuk“ (2 lb) zůstává v jídle, třída fat dává 50 g. Zdroj peče směs na vymazaných plechách v troubě (400 °F, 200 °C) nebo na plotně do lehkého zhnědnutí, bez času; doma stačí pánev na plotně, 15 minut je odhad. Zdroj neuvádí vaření brambor, použij zbytky nebo brambory uvař předem ve slupce (asi 25 minut) a oloupej. Sůl 3 oz dává 6 g a pepř 1½ lžičky 0,22 g. Zdroj v poznámce dovoluje přidat jemně nasekanou petržel (3/4 pinty na 100 porcí, tj. asi 14 ml), v receptu není. Hmotnost porce vychází cca 180 g proti zdrojovým 113 až 142 g, stejně jako v tabulce zdroje.",
+  "source": {
+    "book": "navy-1944",
+    "page": 289,
+    "titleOriginal": "LYONNAISE POTATOES"
+  },
+  "verified": true
+}

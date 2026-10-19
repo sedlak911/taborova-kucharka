@@ -1,0 +1,30 @@
+[
+  {
+    "id": "vinny-kamen",
+    "name": "Vinný kámen",
+    "aliases": [
+      "cream of tartar",
+      "hydrogenvinan draselný",
+      "vinný kámen do pečiva"
+    ],
+    "category": "trvanlive",
+    "scaling": "leavening",
+    "nutritionPer100g": {
+      "kcal": 258,
+      "protein": 0,
+      "carbs": 61.5,
+      "fat": 0,
+      "fiber": 0.2
+    },
+    "units": {
+      "lzicka": 3
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175041 (Leavening agents, cream of tartar)",
+      "units": "USDA fdc:175041: 1 tsp = 3 g",
+      "refuse": "USDA fdc:175041 refusePct 0"
+    }
+  }
+]
