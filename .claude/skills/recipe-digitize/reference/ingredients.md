@@ -43,6 +43,17 @@ Shodu hledej v tomto pořadí: id → název → alias → synonymum (tučnost, 
 | Mleté (`GROUND BEEF,BULK` 80/20) | `hovezi-mlete`; `90% LEAN` → `hovezi-mlete-90` | |
 | Vařené/zbytkové maso („cooked beef“, „leftover chicken“) | `hovezi-vareno`, `kureci-maso-vareno` | makra vařeného, ne syrového |
 | Uvařená rýže ve zdroji | `ryze-bila` suchá ≈ 1/3 hmotnosti uvařené | |
+| Zelenina „A.P.“ (as purchased, nákupní hmotnost) | id zeleniny | g ze zdroje × faktor × `ediblePortion` suroviny = jedlá hmotnost do řádku (aplikace u zeleniny odpad neodečítá); `note` „z <X> lb A.P. × <ediblePortion>“. „E.P.“ nebo bez označení = jedlá hmotnost |
+| `Chili sauce` | `chili-omacka` | ne kečup |
+| `Hominy` | `hominy` | |
+| `Asparagus` | `spargle-zelena` | |
+| `Corned beef` | `hovezi-solene` | |
+| `Bologna` | `bologna` | |
+| `Clams, canned` | `skeble-konzervovane` | |
+| `Oysters` jen objemem (qt, gal) | `ustrice` 60 % objemu v g, nálev 40 % = `voda` `linear` (sloučit s ostatní vodou do jednoho řádku) | |
+| `Meat stock` / `Beef stock` / `Chicken stock` | `hovezi-vyvar` / `hovezi-vyvar` / `kureci-vyvar` | nikdy voda |
+| `Beef bones`, `Veal bones`, `Ham bones` | `hovezi-kosti`, `teleci-kosti`, `sunkova-kost` | g = nákupní hmotnost ze zdroje × faktor; makra 0 (energie je ve vývaru) |
+| Sušená zelenina (dehydrated) | do řádku jen tam, kde je rehydratace pointou receptu (tag `tabor`); ve variantě „as for <čerstvý recept>“ čerstvá zelenina v řádku (1 lb sušené = 16 lb A.P. × `ediblePortion`) a sušená do `original` | |
 | Celé kuře | `cele-kure` (g = nákupní hmotnost s kostí; `ediblePortion` řeší aplikace) | |
 
 ## Nová surovina

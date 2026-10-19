@@ -45,6 +45,7 @@ Jeden recept ze skenu → `data/recipes/<id>.json` pro **4 porce**, g/ml, česky
   PRAVIDLA ČASOVÁNÍ KROKŮ
   - Krok je objekt { "text", "minutes"?, "parallel"? }; text kroku se kvůli času nemění.
   - minutes = doba kroku od jeho začátku do začátku dalšího kroku, aktivní práce + čekání, celé minuty ≥ 1 („duš 30 minut“ = 30; „přiveď k varu a vař 10 minut“ = čas do varu + 10).
+  - Dobu ze zdroje nezkracuj ani tam, kde dnes stačí méně; moderní tip patří do `modernNote`.
   - Rozsah ve zdroji → horní mez („20–25 minut“ → 25, „5 až 10 minut“ → 10); „asi 1 hodinu“ → 60; „1,5 hodiny“ → 90.
   - Krok bez času v textu odhadni z praxe pro 4 porce: krájení nebo loupání zeleniny 5–10 (podle množství), opečení masa dozlatova 8–10, osmahnutí cibule 5–8, přivedení k varu 1 l ≈ 8, 2 l ≈ 10, 4 l ≈ 15, smíchání nebo vmíchání 2–3, rozehřátí pánve s tukem 2–3, scezení 2, vyválení nebo tvarování těsta 10–15.
   - Bez minutes: krátký pokyn bez práce (Osol, Dochuť, Vyndej bobkový list, Sundej z ohně, Podávej), předehřátí trouby (běží během přípravy), namáčení přes noc a jiné čekání, které timeMinutes nezahrnuje (marinování, chlazení ≥ 4 h, tag pripravit-predem).
@@ -64,7 +65,7 @@ Jeden recept ze skenu → `data/recipes/<id>.json` pro **4 porce**, g/ml, česky
 
 | Pole | Pravidlo |
 |---|---|
-| `id` | kebab-case bez diakritiky z českého názvu = název souboru |
+| `id` | kebab-case bez diakritiky z českého názvu = název souboru. Před uložením `ls data/recipes/<id>.json` a `grep '"id": "<id>"' data/ingredients.json`: kolize s receptem nebo surovinou → přípona knihy (`majoneza-navy`, `zeleninova-polevka-navy`); existující recept nikdy nepřepisuj; když je to týž recept z téže knihy (stejná `source.page`), je hotový – nic nedělej a napiš to do reportu |
 | `title` | přirozený český název („Hovězí guláš“, ne „Maďarský guláš po americku“) |
 | `titleOriginal` | původní název normálním písmem („Chili Macaroni“) |
 | `source` | `{book, page (PDF strana), code (jen AFRS, bez „No.“), titleOriginal (jak je v knize, velkými u AFRS)}`; Navy/Gentile/Feldkochbuch bez `code` |
@@ -75,7 +76,7 @@ Jeden recept ze skenu → `data/recipes/<id>.json` pro **4 porce**, g/ml, česky
 | `allergens` | sjednocení pole `allergens` všech použitých surovin včetně `original` (`grep -A12 '"id": "testoviny"' data/ingredients.json`; validátor: chybějící = chyba, navíc = varování) |
 | `timeMinutes` | nejdelší souběžná cesta pro 4 porce (ne součet paralelních činností), bez namáčení přes noc; karta bez časů → odhad z kroků, zaokrouhli na 5. Hotovo (součet `minutes` nesouběžných kroků) leží mezi polovinou a celým `timeMinutes` |
 | `difficulty` | 1 jeden hrnec (+ pánev na opečení) a pár kroků · 2 dvě části s vlastním postupem (omáčka + těstoviny, hrnec + trouba) · 3 těsto, přesné časování, více nádobí |
-| `baseServings` | vždy 4; `originalYield` = porce zdroje |
+| `baseServings` | vždy 4; `originalYield` = porce z hlavičky (Navy/AFRS 100). Jen když výtěžek ÷ velikost porce z hlavičky dá počet porcí lišící se o víc než 10 %, zapiš do `originalYield` ten vypočtený počet a důvod do `modernNote` |
 | `verified` | `true` jen když všechna čísla jsou z AFRS (digitální text) nebo ověřená proti obrázku stránky. Domácí hodnoty (slévaná voda a sůl do ní), olej místo cooking spray, mléko ze sušeného mléka + vody, melasa → cukr 1:1 `verified` nesnižují. Doplněný odhad množství ⇒ `false` + poznámka |
 
 ## Červené praporky – zastav se a oprav

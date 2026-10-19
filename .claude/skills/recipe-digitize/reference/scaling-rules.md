@@ -15,15 +15,20 @@
 
 | Situace | Třída | Hodnota | Příklad |
 |---|---|---|---|
+| Voda na namáčení „to cover“ bez množství | žádný řádek | namáčení jen v kroku | fazole přes noc |
 | Voda, která **zůstává v jídle** (rýže, polévka, omáčka, kaše, dušení) | `linear` (katalog `voda`) | ze zdroje | 23 lb vody na 8,5 lb rýže → 420 ml na 155 g |
 | Voda, která se **slévá** (těstoviny, brambory, luštěniny vařené zvlášť) | `"scaling": "vessel"` na řádku | **domácí hodnota**, ne ze zdroje: těstoviny 1 l na 100 g; brambory/luštěniny ~1 l na 1 kg („zalít, aby byly ponořené“); zaokrouhli na nejbližší 0,5 l, přesná polovina nahoru, **nejméně 1 000 ml** (`npm run convert -- --pasta 220` / `--potatoes 600`) | 220 g špaget → 2 000 ml; 73 g makaronů → 1 000 ml |
 | Řádek WATER v kartě AFRS vedle MACARONI/NOODLES/POTATOES s ~1 gal na 1 lb | je to slévaná voda → **nezapočítávej do jídla**, nahraď domácí hodnotou `vessel` | | Chili Macaroni: WATER 9 gal před MACARONI 9 lb = voda na makarony; druhý řádek WATER 2 gal = do omáčky |
 | Sůl do slévané vody | `"scaling": "vessel"` + `note: "do vody na vaření, slije se"` | 2 g na 1 l | |
-| Sůl, pepř, sušené koření, bylinky, bujón, cukr do slaného jídla | `seasoning` (katalog) | ze zdroje | |
+| Sůl, pepř, sušené koření, bylinky, bujón | `seasoning` (katalog) | ze zdroje | |
+| Cukr do slaného jídla nebo zeleninové přílohy s množstvím ve zdroji | `"scaling": "linear"` na řádku | ze zdroje | 2 oz cukru do dušené mrkve |
+| Cukr „podle chuti“ / „to taste“ | `seasoning` (katalog) | ze zdroje nebo `spetka` | |
 | Česnek, zázvor, chilli, ocet, citronová šťáva jako dochucení | `aromatic` (katalog) | ze zdroje | |
 | Citronová šťáva / ovoce jako **hlavní složka** nápoje, zálivky, sirupu | `"scaling": "linear"` | ze zdroje | limonáda |
 | Tuk, který **zůstává v jídle** (restování cibule, máslo do zelí, olej do rýže) | `fat` (katalog) | ze zdroje | |
-| Tuk, který se **vylévá** (fritování) nebo olej na vymazání pánve/plechu | `"scaling": "vessel"` | ze zdroje, nebo 1 lžička oleje místo cooking spray | |
+| Tuk, který se **vylévá** (fritování) nebo olej na vymazání pánve/plechu | `"scaling": "vessel"` | ze zdroje, nebo 1 lžička oleje místo cooking spray; „deep fat“ bez množství = 500 ml | |
+| Olej, který se při smažení **vsákne** do jídla (lívance, koblihy, hranolky) | `"scaling": "fat"` na řádku, druhý řádek vedle oleje v nádobě | odhad 30 ml, `note: "nasáklý (odhad)"` | Banánové lívance: 500 ml `vessel` + 30 ml `fat` |
+| Tuk, který zdroj **neuvádí** (ani na pánev) | žádný řádek | nepřidávej; nepřilnavá pánev do kroku | |
 | Tuk, cukr a vejce **v těstě** (pečení je chemie) | `"scaling": "linear"` na řádku (katalog má tuk `fat`, cukr `seasoning`) | ze zdroje | brownies, palačinky, chléb |
 | Kypřidlo, které **kypří těsto** (prášek do pečiva, soda, droždí) | `"scaling": "linear"` na řádku | ze zdroje | |
 | Soda na změkčení luštěnin, kypřidlo mimo těsto | `leavening` (katalog) | ze zdroje | |

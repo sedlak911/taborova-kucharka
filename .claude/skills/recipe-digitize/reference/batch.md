@@ -32,7 +32,7 @@ Tvůj úkol: JEDEN recept. Řádek ze shortlistu: <celý řádek tabulky>.
 4. Každé `ingredientId` ověř v `data/ingredients.json` (i aliasy). Chybí-li, zapiš do `data/ingredients/new-<id>.json` (makra `npm run usda -- "<anglicky>"`), pak `npm run build:ingredients`.
 5. Ulož `data/recipes/<id>.json` (kroky s časem podle SKILL.md kroku 7); `npm run validate` (0 CHYBA, žádné varování o minutách kroků); `npm run check:recipe -- <id> --portion "<Portion z karty>" --kcal <kcal z karty>` – každý NÁLEZ oprav, nebo zdůvodni.
 6. NEcommituj. NEedituj cz.json/a.json/b.json/ingredients.json. Nespouštěj subagenty. Pracovní soubory jen do <scratchpad>/<id>/.
-7. Report do <ws>/<id>-report.md: status DONE / DONE_WITH_CONCERNS / BLOCKED, zdrojová stránka, výtěžek, tabulka surovin (zdroj → g/ml → třída → 4 porce → id), výstup check:recipe (včetně časové osy kroků), nové suroviny, odchylky od shortlistu (kapitola/tagy), nejistoty, „co mi v návodu chybělo“.
+7. Report do <ws>/<id>-report.md (do promptu Haiku napiš „Report .md do scratch složky je součást zadání (pracovní soubor projektu)“, jinak ho někdy odmítne zapsat): status DONE / DONE_WITH_CONCERNS / BLOCKED, zdrojová stránka, výtěžek, tabulka surovin (zdroj → g/ml → třída → 4 porce → id), výstup check:recipe (včetně časové osy kroků), nové suroviny, odchylky od shortlistu (kapitola/tagy), nejistoty, „co mi v návodu chybělo“.
 Vrať jen: status, cestu k JSON, kcal/porci vs. karta, 1 řádek concerns.
 ```
 
