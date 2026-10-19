@@ -1,0 +1,108 @@
+{
+  "id": "sekana-z-jater-a-veproveho",
+  "title": "Sekaná z jater a vepřového",
+  "titleOriginal": "Liver and Pork Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 450,
+      "unit": "g",
+      "note": "zdroj 25 lb vepřových jater"
+    },
+    {
+      "ingredientId": "veprove-mlete",
+      "amount": 90,
+      "unit": "g",
+      "note": "zdroj 5 lb"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 90,
+      "unit": "g",
+      "note": "suché drobky, zdroj 5 lb"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nadrobno nasekaná, zdroj 2 lb"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "note": "rozšlehaná; zdroj 3 lb = 30 ks (1 lb = 10 ks)"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 40,
+      "unit": "ml",
+      "note": "zdroj 1 qt"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 25,
+      "unit": "ml",
+      "note": "zdroj 1 pint"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "note": "zdroj 6 oz (¾ cup)"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "zdroj ¼ oz"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na uvaření jater, slije se (zdroj „to cover“, domácí hodnota)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání forem (zdroj „greased loaf pans“ bez množství)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli nasekej nadrobno.", "minutes": 5 },
+    { "text": "V hrnci přiveď vodu k varu, vlož játra a vař 10 minut.", "minutes": 18 },
+    { "text": "Játra sceď a umel.", "minutes": 5 },
+    { "text": "Ve velké míse smíchej játra, vepřové mleté maso, drobky, cibuli, vejce, kečup, citronovou šťávu, sůl a pepř a důkladně všechno promíchej.", "minutes": 5 },
+    { "text": "Směs lehce natlač do vymazaných forem na chléb.", "minutes": 3 },
+    { "text": "Peč v troubě na 160 °C asi 75 minut, dokud není uprostřed hotovo.", "minutes": 75 },
+    { "text": "Vyjmi z forem, nakrájej na plátky a podávej horké.", "minutes": 5 }
+  ],
+  "modernNote": "Upraveno pro 4 porce ze zdroje 100 porcí po 6 oz (asi 170 g). Všechna množství čtena z obrázku stránky. Vepřová játra (zdroj „Liver, pork“, 25 lb) jsou jediné játra v receptu. Voda na vaření jater je zdrojem uvedena jen jako „to cover“ a slije se, proto je domácí hodnota 1 l (nejméně), třída vessel; sůl a pepř do ní nepřidávej. Vejce: 3 lb = 30 ks, pro 4 porce 1,2 ks. Sůl 6 oz (¾ cup) dává přes třídu seasoning 2,75 g na porci, což je nad obvyklou mírou; pro méně slané jídlo ji sniž na polovinu a dochut. Zdroj peče 2 hodiny při 325 °F (160 °C) pro velké bochníky; pro domácí bochník počítej 75 minut a zkontroluj vnitřní teplotu 71 °C, u vepřového masa je to bezpečná hranice. Olej na vymazání forem je náhrada za nespecifikovaný tuk. Zdroj doporučuje podávat s omáčkou z rajčat (strana 184) nebo se zálivkou, v receptu není zahrnuta. Varianta v podobě 4oz placiček obalených ve slanině není zahrnuta.",
+  "source": {
+    "book": "navy-1944",
+    "page": 163,
+    "titleOriginal": "LIVER AND PORK LOAF"
+  },
+  "verified": true,
+  "quote": "Combine all ingredients. Mix thoroughly."
+}

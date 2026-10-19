@@ -1,0 +1,82 @@
+{
+  "id": "pecene-filety-z-ploskyse",
+  "title": "Pečený filet z ploskýše",
+  "titleOriginal": "Baked Fillet of Flounder",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kambala",
+      "amount": 450,
+      "unit": "g",
+      "note": "filety"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 160 °C a vymaž zapékací misku."
+    },
+    {
+      "text": "Filety polož do vymazané misky.",
+      "minutes": 2
+    },
+    {
+      "text": "Cibuli nasekej nadrobno.",
+      "minutes": 4
+    },
+    {
+      "text": "Smíchej rozpuštěný tuk, cibuli, sůl a pepř.",
+      "minutes": 2
+    },
+    {
+      "text": "Polij rybu směsí.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč asi 25 minut.",
+      "minutes": 25
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 oz (113 g) ryby; na 4 porce to vychází 450 g filetů, což odpovídá zdroji. Tuk ze zdroje (máslo nebo jiný tuk, 2 lb) je máslo a zůstává v jídle (třída fat z katalogu). Ploskýš (flounder) je v katalogu jako kambala (USDA flatfish, flounder and sole). Zdroj dovoluje jiné filety; ryba může být libovolný bílý filet.",
+  "source": {
+    "book": "navy-1944",
+    "page": 87,
+    "titleOriginal": "BAKED FILLET OF FLOUNDER"
+  },
+  "verified": true
+}

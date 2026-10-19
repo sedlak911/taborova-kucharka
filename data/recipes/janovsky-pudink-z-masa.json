@@ -1,0 +1,142 @@
+{
+  "id": "janovsky-pudink-z-masa",
+  "title": "Janovský masový pudink",
+  "titleOriginal": "Pudding Genoese (Budino alla genovese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "do bešamelu, odhad z 3 polévkových lžic; aby byl bešamel dost hustý"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "10 g do bešamelu, 10 g do masa, 5 g na vymazání formy; odhad"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 80,
+      "unit": "ml",
+      "group": "Bešamel",
+      "note": "50 ml do bešamelu, 30 ml na namočení chleba"
+    },
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 150,
+      "unit": "g",
+      "group": "Puding",
+      "note": "plátek telecího, odhad"
+    },
+    {
+      "ingredientId": "kureci-prsa",
+      "amount": 150,
+      "unit": "g",
+      "group": "Puding",
+      "note": "kuřecí prsa bez kůže, odhad"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Puding",
+      "note": "2 plátky, odhad"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 20,
+      "unit": "g",
+      "group": "Puding",
+      "note": "kousek, namočený v mléce"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "group": "Puding",
+      "note": "1 polévková lžíce, nastrouhaný"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Puding"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Puding",
+      "note": "„just a taste“, jen špetka"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "kuřecí drůbeží drobky, nadrobno nakrájené"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "„brown stock“ z knihy"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na másle zapraž mouku, za stálého míchání postupně přilévej mléko a vař, dokud omáčka nezhoustne. Vznikne bešamel; nech ho vychladnout.",
+      "minutes": 8
+    },
+    {
+      "text": "Telecí maso, kuřecí prsa a šunku nakrájej, přidej kousek másla, strouhaný sýr a chléb namočený do mléka a vše utluč v hmoždíři nebo umel na hladkou hmotu.",
+      "minutes": 15
+    },
+    {
+      "text": "Směs proceď přes síto, vmíchej do ní bešamel, vejce a špetku muškátového ořechu a vše dobře promíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Vymaž máslem formu, na dno polož papír vystřižený podle tvaru formy a také jej vymaž máslem.",
+      "minutes": 3
+    },
+    {
+      "text": "Směs nalij do formy, postav ji do většího hrnce s horkou vodou (vodní lázeň) a vař, dokud se pudink nezpevní.",
+      "minutes": 45
+    },
+    {
+      "text": "Mezitím nakrájej kuřecí drůbeží drobky nadrobno a podus je ve vývaru dosměkka.",
+      "minutes": 25,
+      "parallel": true
+    },
+    {
+      "text": "Pudink vyklop z formy, sundej papír a na jeho místo nalij omáčku z drůbežích drobků. Podávej horké.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Gentile neuvádí žádné množství ani počet porcí. Všechna množství jsou odhad z běžné praxe pro 4 porce: telecí a kuřecí maso po 150 g, šunka 60 g (dohromady asi 90 g masa na porci), drůbeží drobky 200 g a vývar 250 ml na omáčku, vejce 3 ks podle zdroje, parmezan 10 g (1 polévková lžíce), chléb 20 g, mléko 80 ml, máslo 25 g, mouka 8 g, muškátový ořech 0,5 g („just a taste“). Bešamel je 3 polévkové lžíce hotové omáčky; zdroj odkazuje na „č. 54“, rejstřík i samostatný recept uvádí č. 59, proto je použit recept č. 59 (bechamelova-omacka). Sůl zdroj nepřidává; šunka a sýr dodají slanost, dochuť podle chuti. „Brown stock“ je masový vývar, omáčka tedy obsahuje maso. Pudink se vaří na plotně ve vodní lázni, ne v troubě. Čas 85 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 71,
+    "titleOriginal": "PUDDING GENOESE (Budino alla genovese)"
+  },
+  "verified": false,
+  "quote": "Chop together a slice of veal, some chicken breast and two slices of ham and then grind or better pound them."
+}

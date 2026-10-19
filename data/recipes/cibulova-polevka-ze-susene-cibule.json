@@ -1,0 +1,36 @@
+{
+  "id": "cibulova-polevka-ze-susene-cibule",
+  "title": "Cibulová polévka ze sušené cibule",
+  "titleOriginal": "Onion Soup (Using dehydrated onions)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 175,
+  "difficulty": 1,
+  "tags": ["levne", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cibule-susena", "amount": 20, "unit": "g", "note": "sušená, namočená ve vodě" },
+    { "ingredientId": "voda", "amount": 905, "unit": "ml", "note": "část na namočení cibule, zbytek na vývar; odvar z cibule se vrací do polévky" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "scaling": "linear", "note": "na restování cibule", "original": { "ingredientId": "sadlo", "amount": 35, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 35, "unit": "g" },
+    { "ingredientId": "bujon-kostka", "amount": 2.8, "unit": "ks", "scaling": "linear", "note": "hmotnost kostky odhad 10 g" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Cibuli vmíchej do vody a nech 60 minut namočit, přikryj.", "minutes": 60 },
+    { "text": "Přiveď k varu a vař asi 15–20 minut, dokud cibule nezměkne.", "minutes": 28 },
+    { "text": "Sceď cibuli a odvar si odlož.", "minutes": 2 },
+    { "text": "Na pánvi rozehřej tuk.", "minutes": 2 },
+    { "text": "Přidej cibuli a za častého míchání ji osmahni do lehce zlatavé barvy.", "minutes": 8 },
+    { "text": "Mouku postupně vmíchávej do cibule a míchej, dokud se rovnoměrně nerozptýlí.", "minutes": 3 },
+    { "text": "V hrnci rozpusť bujonové kostky v horké vodě a přilij odvar z cibule.", "minutes": 3 },
+    { "text": "Část horkého vývaru přilej k cibulové směsi a rozmíchej na hladkou řídkou pastu.", "minutes": 3 },
+    { "text": "Pastu vlej zpět do hrnce k vývaru a dobře promíchej.", "minutes": 2 },
+    { "text": "Přidej sůl a nech 60 minut podvářet na mírném ohni.", "minutes": 60 }
+  ],
+  "modernNote": "Sušená cibule zůstává sušená – je to podstata receptu (levná a trvanlivá cibule, bez krájení, tábor). Namočená cibule se vaří ve vodě a odvar se vrací do polévky, proto je voda třídy linear. Tuk (Fat) je v zdroji sádlo; moderně máslo (original sádlo 35 g). Bujón: zdroj uvádí 70 kostek na 100 porcí, bez hmotnosti; kostka 10 g je odhad. Porce 1 cup (approx. 8 oz) při výtěžku 6 gal odpovídá originalYield 100 (odchylka do 10 %). Sůl je ze zdroje; při použití silnějšího bujónu ji ubrat.",
+  "source": { "book": "navy-1944", "page": 236, "titleOriginal": "Onion Soup (Using dehydrated onions)" },
+  "verified": false
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "zeli-susene",
+    "name": "Zelí sušené",
+    "aliases": [
+      "sušené zelí",
+      "dehydrated cabbage",
+      "cabbage, dehydrated"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 125,
+      "protein": 6.4,
+      "carbs": 29,
+      "fat": 0.5,
+      "fiber": 12.5
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "odhad: USDA SR Legacy fdc:169975 (Cabbage, raw) × 5; sušené zelí v indexu chybí",
+      "units": "bez převodu na objem",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
+    "id": "cibule-susena",
+    "name": "Cibule sušená",
+    "aliases": [
+      "dehydrated onion",
+      "onions, dehydrated"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 349,
+      "protein": 8.95,
+      "carbs": 83.28,
+      "fat": 0.46,
+      "fiber": 9.2
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170002 (Onions, dehydrated flakes)",
+      "units": "bez převodu na objem",
+      "refuse": "bez odpadu"
+    }
+  }
+]

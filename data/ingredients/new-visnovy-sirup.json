@@ -1,0 +1,54 @@
+[
+  {
+    "id": "visne",
+    "name": "Višně",
+    "aliases": [
+      "višně kyselé",
+      "višně tmavé",
+      "sour cherries",
+      "black cherries",
+      "amarena cherries"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 50,
+      "protein": 1,
+      "carbs": 12.18,
+      "fat": 0.3,
+      "fiber": 1.6
+    },
+    "units": {},
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173954 (Cherries, sour, red, raw)",
+      "refuse": "odpad 10 % (pecky a stopky)"
+    }
+  },
+  {
+    "id": "kyselina-citronova",
+    "name": "Kyselina citrónová",
+    "aliases": [
+      "kyselina citronová",
+      "citric acid",
+      "E330"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA nemá záznam; kyselina citrónová je prakticky bez energie a živin, hodnoty nastaveny na 0",
+      "refuse": "bez odpadu"
+    }
+  }
+]

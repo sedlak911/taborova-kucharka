@@ -1,0 +1,33 @@
+[
+  {
+    "id": "rajcatova-stava",
+    "name": "Rajčatová šťáva",
+    "aliases": [
+      "rajčatový džus",
+      "tomato juice",
+      "rajčatová šťáva z konzervy"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 17,
+      "protein": 0.85,
+      "carbs": 3.53,
+      "fat": 0.29,
+      "fiber": 0.4
+    },
+    "densityGPerMl": 1.025,
+    "units": {
+      "lzice": 15,
+      "lzicka": 5,
+      "hrnek": 256
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170545 (Tomato juice, canned, without salt added)",
+      "units": "USDA cup 243 g / 237 ml -> hustota 1,025 g/ml; hrnek 250 ml × 1,025",
+      "refuse": "USDA fdc:170545 refusePct 0"
+    }
+  }
+]

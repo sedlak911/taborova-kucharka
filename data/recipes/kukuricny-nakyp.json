@@ -1,0 +1,82 @@
+{
+  "id": "kukuricny-nakyp",
+  "title": "Kukuřičný nákyp",
+  "titleOriginal": "Corn Pudding",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 540,
+      "unit": "g",
+      "note": "smetanová (cream style)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 200,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.45,
+      "unit": "ks",
+      "note": "lehce rozšlehaná; zhruba 1½ vejce"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 18,
+      "unit": "g",
+      "note": "měkký, na kousky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání misek; zdroj množství neuvádí (odhad)"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 150 °C." },
+    { "text": "V hrnci zahřej kukuřici, cukr, sůl a mléko k varu.", "minutes": 8 },
+    { "text": "Mezitím v míse rozšlehej vejce s chlebem.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej vejce s chlebem do kukuřičné směsi.", "minutes": 2 },
+    { "text": "Vymaž zapékací misky olejem a nalij do nich směs.", "minutes": 2 },
+    { "text": "Misky postav do pánve s horkou vodou, aby se nákyp méně srážel.", "minutes": 2 },
+    { "text": "Peč do ztuhnutí, asi 50 minut.", "minutes": 50 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (porce 4–5 oz, zhruba 2/3 hrnku). Kukuřice je smetanová (cream style) konzerva, na 4 porce 540 g. Vejce čerstvá: 3 lb 9 oz = 36 ks ve zdroji, přepočet 1,45 ks (1 lb = 10 ks). Mléko je čerstvé (5¼ qt = 4,97 l, 200 ml na 4 porce), ne sušené, proto není sušená složka. Chléb měkký, nakrájený na kousky. Cukr a sůl podle zdroje; sůl je v třídě seasoning, dle chuti ubrat. Olej na vymazání misek je odhad (zdroj uvádí jen „greased“). Zdroj sám vychází z ~207 g hmotnosti na porci proti uvedené porci 113–142 g, takže nákyp na 4 porce vychází 211 g na porci (poměr 1,66 k porci 128 g). Nález bilance je tedy vlastnost zdroje, ne chyba přepočtu; při porcování drž porci 4–5 oz (113–142 g) podle zdroje.",
+  "source": {
+    "book": "navy-1944",
+    "page": 274,
+    "titleOriginal": "CORN PUDDING"
+  },
+  "verified": false,
+  "quote": "Bake in greased baking pans in slow oven (300°F.) until set."
+}

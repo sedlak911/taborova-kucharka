@@ -1,0 +1,38 @@
+{
+  "id": "ovocna-macedonia",
+  "title": "Ovocná zmrzlinová macedonia",
+  "titleOriginal": "TUTTI FRUTTI",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 180,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "jahody", "amount": 120, "unit": "g", "note": "čerstvé, zralé" },
+    { "ingredientId": "visne", "amount": 100, "unit": "g", "note": "bez pecek; náhrada za sladké třešně ze zdroje (zdroj jmenuje třešně)" },
+    { "ingredientId": "nektarinky", "amount": 120, "unit": "g", "note": "náhrada za švestky ze zdroje, které v katalogu nejsou" },
+    { "ingredientId": "merunky", "amount": 80, "unit": "g", "note": "bez pecek" },
+    { "ingredientId": "broskev", "amount": 130, "unit": "g", "note": "bez pecky, asi 1 malá" },
+    { "ingredientId": "hruska", "amount": 130, "unit": "g", "note": "bez jádřince, asi 1 střední" },
+    { "ingredientId": "meloun-vodni", "amount": 120, "unit": "g", "note": "náhrada za kantalupu (cantaloup), který v katalogu není; bez semínek" },
+    { "ingredientId": "cukr-moucka", "amount": 160, "unit": "g", "note": "asi pětina váhy ovoce, podle zdroje" },
+    { "ingredientId": "citronova-stava", "amount": 30, "unit": "ml", "note": "šťáva z 1 citronu" }
+  ],
+  "steps": [
+    { "text": "Ovoce vyber zralé, oloupej, zbav pecek a jader a nakrájej na velmi tenké plátky.", "minutes": 20 },
+    { "text": "Plátky posyp moučkovým cukrem, přidej citronovou šťávu, promíchej a nech půl hodiny odstát.", "minutes": 30 },
+    { "text": "Ovocnou směs natlač těsně do uzavíratelné nádoby nebo formy na zmrzlinu, na dno dej papír.", "minutes": 5 },
+    { "text": "Nádobu uzavři a zamraz v mrazáku asi na dvě hodiny.", "minutes": 120 },
+    { "text": "Podávej ihned po vyjmutí z mrazáku." }
+  ],
+  "modernNote": "Zdroj (Gentile) neuvádí váhu ovoce; odhad pro 4 porce je 800 g ovoce (asi 200 g na porci), cukr je podle zdroje pětina váhy ovoce (160 g) a citron se přepočítal na 30 ml šťávy. Ve zdroji se ovoce zamrazí ve speciální formě nebo v uzavřené nádobě, obklopené solí a ledem, asi dvě hodiny; zde stačí mrazák. Švestky v katalogu nejsou, nahrazeny nektarinkami; kantalupa nahrazena vodním melounem (chuť i dužnina se liší, je spíš vodnatý). Třešně nahrazeny višněmi, které jsou kyselejší než sladké třešně. Zdroj výslovně upozorňuje, že nejde o americkou zmrzlinu tutti frutti, ale o ovocnou macedonii, která je příjemná v létě. Výsledek je tvrdší než zmrzlina; pro měkčí podání nech před servírováním chvíli změknout. Čas je odhad (dvě hodiny mrazení).",
+  "source": {
+    "book": "italian-1919",
+    "page": 159,
+    "titleOriginal": "TUTTI FRUTTI"
+  },
+  "verified": false,
+  "quote": "This is not the tutti frutti ice cream as is known in America, but a macedoine of fruits, that comes very pleasant to the taste in the summer months."
+}

@@ -1,0 +1,105 @@
+{
+  "id": "ryba-zapekana-se-strouhankou",
+  "title": "Ryba zapečená se strouhankou",
+  "titleOriginal": "Fish with Bread Crumbs (Pesce col pane grattato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["ryby", "mleko", "lepek"],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 500,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "zdroj: zbytky uvařené ryby; zde se ryba nejdřív uvaří (500 g syrové ≈ 400 g uvařené)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na uvaření ryby; slije se",
+      "scaling": "vessel",
+      "group": "Ryba"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na uvaření ryby; slije se",
+      "scaling": "vessel",
+      "group": "Ryba"
+    },
+    {
+      "ingredientId": "houby-susene",
+      "amount": 10,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "sušené, namočené; zdroj neuvádí množství"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "dostatek soli, podle chuti"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "bešamel (č. 59) podle poměru 1 pinta mléka, přepočteno na množství ryby"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 polévková lžíce na pintu, zaokrouhleno nahoru"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "25 g do bešamelu, 10 g na vymazání pekáče, 10 g na povrch"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 20,
+      "unit": "g",
+      "group": "Zapékání",
+      "note": "strouhaný, dostatek"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Zapékání",
+      "note": "jemná; na vymazání pekáče a na tenkou vrstvu navrch"
+    }
+  ],
+  "steps": [
+    { "text": "Tresku uvař v osolené vodě a nech ji trochu vychladnout.", "minutes": 12 },
+    { "text": "Uvařenou rybu rozkrájej na malé kousky a pečlivě odstraň všechny kosti.", "minutes": 10 },
+    { "text": "Sušené houby namoč do vlažné vody, až změknou, a nasekej je nadrobno.", "minutes": 15 },
+    { "text": "Mezitím v hrnci rozpusť máslo, vmíchej mouku a za stálého míchání přilévej mléko, dokud omáčka nezhoustne jako krém.", "minutes": 10, "parallel": true },
+    { "text": "Do bešamelu vmíchej rybu, houby a parmezán a dochuť solí.", "minutes": 3 },
+    { "text": "Pekáč vymaž máslem a vysyp jej jemnou strouhankou.", "minutes": 3 },
+    { "text": "Rybu s omáčkou přelož do pekáče, posyp zbylou strouhankou a navrch polož kousky másla.", "minutes": 3 },
+    { "text": "Zapékej v předehřáté troubě na 200 °C, dokud nebude povrch zlatavý.", "minutes": 15 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 115) uvádí jen postup: uvařená ryba dobré kvality (zbytky), nakrájená a zbavená kostí, se vmíchá do bešamelu (č. 59, kniha chybně odkazuje na č. 54), osolí, s parmezánem a jemně nasekanými houbami; zapéká se v pekáči vymazaném máslem a vysypaném strouhankou, navrch strouhanka a kousek másla. Množství jsou odhady z běžné praxe pro 4 porce, zdroj žádná neudává. Ryba: libovolná bílá ryba (treska, kambala); v katalogu chybí vařená varianta, proto je v řádku syrová treska (500 g ≈ 400 g uvařené) a postup začíná jejím uvařením v osolené vodě (voda a sůl se slévají, domácí hodnoty; zdroj mluví o zbytcích již uvařené ryby). Bešamel: podle č. 59 (1 pinta mléka, 1 polévková lžíce mouky, máslo velikosti vejce), přepočteno na 250 ml mléka pro celé jídlo. Houby: zdroj píše „some mushrooms“ a „if dried mushrooms“, použity sušené (10 g). Teplotu 200 °C a dobu zapékání zdroj neuvádí, odhad. Čas 65 minut (původně 50) je odhad včetně uvaření ryby.",
+  "source": {
+    "book": "italian-1919",
+    "page": 90,
+    "titleOriginal": "FISH WITH BREAD CRUMBS (Pesce col pane grattato)"
+  },
+  "verified": false,
+  "quote": "This, which can also be served as a side-dish, is made especially when you have boiled fish of good quality left over."
+}

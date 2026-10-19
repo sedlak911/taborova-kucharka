@@ -1,0 +1,77 @@
+{
+  "id": "smazena-jatra-navy",
+  "title": "Smažená játra",
+  "titleOriginal": "Fried Liver",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 640,
+      "unit": "g",
+      "note": "hovězí, vepřová, jehněčí nebo telecí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 40,
+      "unit": "ml",
+      "note": "na smažení; odhad, zdroj množství tuku neuvádí"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Játra nakrájej na plátky silné asi 1 cm (3/8 až 1/2 palce) a rozděl na porční kusy.",
+      "minutes": 5
+    },
+    {
+      "text": "Kusy osol a opepři a obal v mouce.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozehřej tuk.",
+      "minutes": 2
+    },
+    {
+      "text": "Smaž na tuku do požadované propečenosti a průběžně obracej, aby se opékala rovnoměrně.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Zdroj neuvádí množství tuku (řádek Fat je prázdný). Odhad: 40 ml oleje na mělké smažení (verified false); původní tuk nemá množství, proto není uveden v original. Porce zdroje je asi 5 oz (140 g). Vepřová játra smaž dopečena (poznámka 1 v knize). Kniha doporučuje podávat s grilovanou slaninou nebo smaženou cibulí (poznámka 2); tyto suroviny v receptu nejsou, lze je přidat jako přílohu. Dlouhé smažení nebo příliš vysoká teplota játra ztvrdí.",
+  "source": {
+    "book": "navy-1944",
+    "page": 162,
+    "titleOriginal": "FRIED LIVER"
+  },
+  "verified": false,
+  "quote": "Turn to insure even cooking."
+}

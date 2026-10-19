@@ -1,0 +1,34 @@
+{
+  "id": "vejce-v-bile-omacce",
+  "title": "Vejce natvrdo ve smetanové omáčce",
+  "titleOriginal": "Creamed Eggs",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 450, "unit": "ml" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "note": "rozpuštěné", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" },
+    { "ingredientId": "vejce", "amount": 3.85, "unit": "ks", "note": "natvrdo uvařená, rozčtvrcená" }
+  ],
+  "steps": [
+    { "text": "Přiveď mléko k varu.", "minutes": 5 },
+    { "text": "Rozmíchej máslo, mouku, sůl a pepř v hladkou pastu.", "minutes": 2 },
+    { "text": "Vmíchej pastu do horkého mléka. Znovu zahřej k varu a za stálého míchání vař, dokud omáčka nezhoustne.", "minutes": 5 },
+    { "text": "Omáčku přelij přes vejce a lehce promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá 96 natvrdo uvařených vajec na 100 porcí (1½ gal), na 4 porce vychází 3,85 ks. Vejce jsou ve zdroji už natvrdo uvařená, krok vaření proto nepřidávám. Tuk „Butter or other fat, melted“ je modernizován na máslo bez originálu. Zdroj doporučuje podávat na topinkách nebo na vařené rýži. Varianta ze zdroje: 10 lb uvařené šunky, nakrájené na kostky, místo 50 vajec. Porce zdroje (1 cup, cca 8 oz) je u malého počtu porcí vyšší než vychází z těchto surovin; podle chuti přidej víc vajec.",
+  "source": {
+    "book": "navy-1944",
+    "page": 72,
+    "titleOriginal": "CREAMED EGGS"
+  },
+  "verified": true
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "ustrice",
+    "name": "Ústřice (vyloupané maso)",
+    "aliases": [
+      "ústřice",
+      "ústřice vyloupané",
+      "oysters",
+      "oysters, selects",
+      "mollusks, oyster, eastern, wild, raw"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 51,
+      "protein": 5.71,
+      "carbs": 2.72,
+      "fat": 1.71,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.046,
+    "units": {
+      "hrnek": 262
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mekkysi"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171978 (Mollusks, oyster, eastern, wild, raw)",
+      "units": "USDA cup 248 g / 237 ml -> hustota 1,046 g/ml; hrnek 250 ml × 1,046 = 262 g",
+      "refuse": "USDA fdc:171978 odpad 0 %"
+    }
+  }
+]

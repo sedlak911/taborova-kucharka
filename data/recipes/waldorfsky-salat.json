@@ -1,0 +1,36 @@
+{
+  "id": "waldorfsky-salat",
+  "title": "Waldorfský salát",
+  "titleOriginal": "Waldorf Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle"],
+  "equipment": [],
+  "allergens": ["celer", "horcice", "vejce"],
+  "ingredients": [
+    { "ingredientId": "jablko", "amount": 230, "unit": "g", "note": "neloupaná, bez jádřince (zdroj 14 lb před odstraněním jádřince)" },
+    { "ingredientId": "celer-rapikaty", "amount": 145, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "salat-ledovy", "amount": 75, "unit": "g", "note": "nahrubo nakrájený" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "seasoning" },
+    { "ingredientId": "majoneza", "amount": 35, "unit": "g", "note": "kupovaná" }
+  ],
+  "steps": [
+    { "text": "Jablka omyj, neloupej je a nakrájej na čtvrtky.", "minutes": 3 },
+    { "text": "Vykrájej jádřince a jablka nakrájej na kostičky.", "minutes": 5 },
+    { "text": "Nakrájej celer na kostičky.", "minutes": 4 },
+    { "text": "Salát nahrubo nakrájej.", "minutes": 3 },
+    { "text": "Přidej celer, salát a sůl a lehce promíchej.", "minutes": 2 },
+    { "text": "Přidej majonézu, lehce promíchej a ihned podávej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (5 galonů, porce ¾ hrnku ≈ 5 oz); 5 gal / ¾ hrnku ≈ 107 porcí, odchylka do 10 %, proto originalYield 100. Jablka: 14 lb ve zdroji je hmotnost před odstraněním jádřince, použito 90 % (katalogová jedlá hmotnost); proto verified false. Majonéza je kupovaná v množství ze zdroje; domácí recept na straně 204 (PDF 212) není rozepsán. Klasický Waldorfský salát obsahuje vlašské ořechy, ale zdroj je neuvádí, proto nejsou v surovinách; lze přidat cca 30 g na 4 porce. Jablka po nakrájení hnědnou, salát proto připrav těsně před podáváním. Sůl 1 oz (2 lžíce) ve zdroji je pro 4 porce 2 g, dle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 208,
+    "titleOriginal": "WALDORF SALAD"
+  },
+  "verified": false,
+  "quote": "Wash apples. Do not peel."
+}

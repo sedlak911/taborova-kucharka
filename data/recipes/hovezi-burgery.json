@@ -1,0 +1,87 @@
+{
+  "id": "hovezi-burgery",
+  "title": "Hovězí burgery na plotně",
+  "titleOriginal": "Griddle-Broiled Beefburgers",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 690,
+      "unit": "g",
+      "note": "zdroj: hovězí bez kosti 38 lb (bone-in 55 lb jako alternativa), nasekané na kostky a umleté"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "mletá; zdroj 5 lb"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "note": "zdroj 2½ qt; část lze nahradit barbecue omáčkou nebo kečupem"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pánve; ve zdroji není, domácí hodnota",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí maso nakrájej na kostky a umelej.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej maso s cibulí, solí, pepřem a vodou a lehce, ale důkladně promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Rozehřej pánev a lehce ji vymaž olejem.",
+      "minutes": 3
+    },
+    {
+      "text": "Tvaruj placky tlusté asi 2,5 cm.",
+      "minutes": 8
+    },
+    {
+      "text": "Opékej asi 10 minut dokud nejsou hotové podle libosti; během opékání je otoč, aby se propekly rovnoměrně.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej hned, samostatně nebo s omáčkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí; jedna porce jsou 2 placky po 3½ oz (asi 200 g syrového masa). Pro 4 porce vychází 8 placek. Hmotnost je větší než u samotného masa, protože do směsi jde cibule a voda; po opečení placky ztratí část vody. Suroviny (hovězí, cibule, sůl, pepř, voda) jsou přepsány z obrázku stránky. Sůl: sloupec Ounces dává 6 oz (170 g), sloupec Amounts ¾ cup, což je přibližně 220 g; použita hmotnost, stejná dvojice je i u BEEF LOAF na téže stránce. Pepř: ½ oz (14 g) ze sloupce Ounces, Amounts 1¾ tbsp (asi 12 g), rozdíl je v mezích přesnosti. Hovězí je použito bez kosti (38 lb); varianta s kostí (55 lb) by znamenala hrubší výtěžek. Olej na pánvi není ve zdroji (pečlivě „broil on heated griddle“ bez tuku) a je přidán jako domácí hodnota pro pánev nebo plotnu. Omáčky (rajčatová, barbecue) jsou volitelné podání podle odkazované strany; jejich suroviny do receptu nepatří. Barbecue omáčka nebo kečup mohou nahradit část vody (poznámka 2 zdroje). Sůl na porci vychází 2,75 g, nad doporučeným rozsahem: je to důsledek třídy seasoning (zdroj 1,7 g na porci); doporučení: uber podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 118,
+    "titleOriginal": "GRIDDLE-BROILED BEEFBURGERS"
+  },
+  "verified": true,
+  "quote": "Broil on heated griddle about 10 minutes or until the desired degree of doneness."
+}

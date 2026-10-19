@@ -1,0 +1,68 @@
+{
+  "id": "varena-ryze",
+  "title": "Vařená rýže",
+  "titleOriginal": "Boiled Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 180,
+      "unit": "g",
+      "note": "syrová"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "na vaření rýže; slije se (domácí hodnota 1 l na 100 g rýže)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci přiveď vodu se solí k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Rýži důkladně opláchni, sceď a pomalu vsyp do vroucí vody.",
+      "minutes": 1
+    },
+    {
+      "text": "Vař, dokud rýže nezměkne. Nemíchej.",
+      "minutes": 30
+    },
+    {
+      "text": "Sceď a opláchni horkou vodou. Znovu sceď.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 5 oz (zhruba ½ hrnku) a 10 lb rýže, 5 oz soli a 4 gal vody na vaření; čísla jsou přečtena z obrázku stránky. Voda a sůl se slévají, proto je použita domácí hodnota (1 l na 100 g rýže, sůl 2 g na 1 l), ne přepočet ze zdroje. Zdroj přidává na závěr volitelně 1 lb (1 pint) rozpuštěného másla (asi 18 g na 4 porce); vynecháno, lze přidat podle chuti. Zdroj rýži suší v troubě na 250 °F, aby zůstala teplá; to je výdejní krok a vynechává se. Nález bilance (0,35 × porce zdroje) je záměrný: zdroj udává hmotnost uvařené rýže, recept počítá suchou rýži, která po uvaření váží asi trojnásobek.",
+  "source": {
+    "book": "navy-1944",
+    "page": 33,
+    "titleOriginal": "BOILED RICE"
+  },
+  "verified": true,
+  "quote": "Wash rice thoroughly. Drain."
+}

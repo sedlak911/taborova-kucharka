@@ -1,0 +1,129 @@
+{
+  "id": "peceny-zajic",
+  "title": "Pečený zajíc ve smetaně",
+  "titleOriginal": "Roast of Hare (Arrosto di lepre)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": [
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "siricitany"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kralik",
+      "amount": 800,
+      "unit": "g",
+      "group": "Maso",
+      "note": "zadní čtvrti s kostí; zdroj: zajíc (viz original)",
+      "original": {
+        "ingredientId": "zajic",
+        "amount": 800,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 60,
+      "unit": "g",
+      "group": "Maso",
+      "note": "kousky kvalitní slaniny na špikování"
+    },
+    {
+      "ingredientId": "smetana-ke-slehani",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Maso",
+      "note": "na potírání a přelévání během pečení"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Nálev",
+      "note": "nálev se slije, do jídla nejde"
+    },
+    {
+      "ingredientId": "vinny-ocet",
+      "amount": 80,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Nálev"
+    },
+    {
+      "ingredientId": "jarni-cibulka",
+      "amount": 60,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Nálev",
+      "note": "3–4 stonky, nasekané nadrobno"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "scaling": "vessel",
+      "group": "Nálev"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Nálev",
+      "note": "půl svazku"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Nálev",
+      "note": "do nálevu, slije se; zdroj: „a little salt“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Maso",
+      "note": "osolit těsně před koncem pečení; zdroj: „salt it sufficiently“"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "spetka",
+      "scaling": "vessel",
+      "group": "Nálev"
+    }
+  ],
+  "steps": [
+    { "text": "Z končetin opatrně odstraň drobné blány, aniž bys přetrhl svaly.", "minutes": 10 },
+    { "text": "V hrnci zahřej vodu s octem, nasekanou jarní cibulkou, bobkovým listem, petrželí, solí a špetkou pepře a pět minut vař.", "minutes": 15 },
+    { "text": "Nálev nech úplně vychladnout a zalij jím maso.", "minutes": 30 },
+    { "text": "Maso nech v chladu namočené dvanáct až čtrnáct hodin." },
+    { "text": "Maso vyndej z nálevu a osuš ho utěrkou.", "minutes": 3 },
+    { "text": "Maso naspíkuj kousky kvalitní slaniny.", "minutes": 10 },
+    { "text": "Předehřej troubu na 170 °C." },
+    { "text": "Maso polož do pekáče a potři smetanou.", "minutes": 3 },
+    { "text": "Peč při nízké teplotě a průběžně přelévej smetanou z pekáče.", "minutes": 70 },
+    { "text": "Těsně před koncem pečení maso osol; má být středně propečené, ne syrové ani vysušené.", "minutes": 2 },
+    { "text": "Maso nakrájej a podávej se šťávou z pekáče zvlášť jako omáčku.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 135, s. 97) popisuje pečeného zajíce ze zadních čtvrtí; zajíc se u nás běžně neprodává, proto je v řádku králík, zajíc je v original (800 g, náhrada v katalogu: divoký králík). Zdroj neudává hmotnost ani množství nálevu: 800 g zadních čtvrtí s kostí na 4 porce (asi 120 g masa na porci a špek navíc) je odhad; nálev 500 ml vody a 80 ml octa odpovídá poměru zdroje (3 hrnky vody : ½ hrnku octa, zkráceno k menšímu kusu); sůl 6 g (2 g do nálevu, 4 g na maso) a špetka pepře jsou odhady. Špek 60 g je odhad na špikování. Smetana 150 ml je odhad na potírání a přelévání. Nálev (voda, ocet, jarní cibulka, bylinky, sůl a pepř v něm) se slije a do jídla nejde, proto je v řádcích označen jako vessel. Zdroj neuvádí troubu („low fire“), pečení v troubě na 170 °C je výklad. Marinování 12–14 h je čekání bez minut (tag pripravit-predem). Zdroj nedoporučuje játra zajíce, proto se nepoužijí. Čas 150 minut je odhad včetně chlazení nálevu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 101,
+    "titleOriginal": "ROAST OF HARE (Arrosto di lepre)"
+  },
+  "verified": false,
+  "quote": "The part of the hare fitted for roast is the hind quarters, but the limbs of this game are covered with little skins that must be carefully removed, before cooking, without cutting the muscles."
+}

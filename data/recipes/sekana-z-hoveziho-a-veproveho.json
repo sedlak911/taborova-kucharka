@@ -1,0 +1,90 @@
+{
+  "id": "sekana-z-hoveziho-a-veproveho",
+  "title": "Sekaná z hovězího a vepřového",
+  "titleOriginal": "Beef and Pork Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 450,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "veprove-mlete",
+      "amount": 110,
+      "unit": "g",
+      "note": "zdroj 6 lb; katalog neměl vepřové mleté, založeno (USDA 84 % libového)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.4,
+      "unit": "ks",
+      "note": "lehce rozšlehané; zdroj 1 lb = 10 ks na 100 porcí"
+    },
+    {
+      "ingredientId": "ovesne-vlocky",
+      "amount": 45,
+      "unit": "g",
+      "note": "suché; zdroj 2½ lb (as purchased), uvařené na 2 gal kaše"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 260,
+      "unit": "ml",
+      "note": "na uvaření ovesných vloček; odhad: objem kaše 2 gal na 100 porcí minus vločky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekaná najemno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání pekáče (odhad)"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 160 °C a vymaž pekáč olejem." },
+    { "text": "V hrnci přiveď vodu k varu, vsyp ovesné vločky a vař do zhoustnutí.", "minutes": 10 },
+    { "text": "Nech kaši vychladnout.", "minutes": 10 },
+    { "text": "Mezitím nasekej cibuli najemno.", "minutes": 3, "parallel": true },
+    { "text": "Do mísy dej mleté maso, vejce, cibuli, kaši, sůl a pepř a důkladně všechno promíchej.", "minutes": 5 },
+    { "text": "Směs lehce přitiskni do vymazaného pekáče.", "minutes": 3 },
+    { "text": "Peč asi 75 minut, dokud v nákypu není vidět růžové maso.", "minutes": 75 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 6 oz (asi 170 g); čísla jsou z obrázku stránky. Ovesné vločky zdroj uvádí jako uvařené (2 gal) s hmotností 2½ lb jako nakupované, proto je v řádku suchá hmotnost a vaření je doplněno do postupu; voda na vaření je odhad z objemu kaše, zdroj ji neuvádí, proto verified false. Sůl 11 g podle zdroje (¾ cup = 6 oz, třída seasoning) vychází na 2,75 g na porci, což je nad obvyklou mírou; dle chuti sniž na polovinu. Pečení 75 minut při 160 °C je odhad z 1½ h při 325 °F pro 100 porcí; ověř růžovou barvu uprostřed. Zdroj doporučuje podávat s barbecue nebo rajčatovou omáčkou (strany 172, 184) a šťávu z pečení použít jako omáčku; to v receptu nezahrnuto. Vepřové mleté v katalogu chybělo, založeno.",
+  "source": {
+    "book": "navy-1944",
+    "page": 119,
+    "titleOriginal": "BEEF AND PORK LOAF"
+  },
+  "verified": false,
+  "quote": "Combine ingredients. Mix thoroughly. Pack lightly into greased baking pans."
+}

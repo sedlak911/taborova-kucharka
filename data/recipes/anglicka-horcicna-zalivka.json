@@ -1,0 +1,89 @@
+{
+  "id": "anglicka-horcicna-zalivka",
+  "title": "Anglická hořčičná zálivka",
+  "titleOriginal": "English Mustard Dressing",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 380,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 4,
+      "unit": "g",
+      "note": "suchá hořčice v prášku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kurkuma",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "kajenský pepř"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 25,
+      "unit": "ml",
+      "note": "ocet 50 grain (zhruba 5 %)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 5,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci důkladně smíchej hořčici, kurkumu, kajenský pepř, cukr, kukuřičný škrob a sůl.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej ocet a vodu a přiveď směs k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Vař asi 10 minut za stálého míchání, dokud lehce nezhoustne.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj má nekonzistentní údaje: výtěžek 1 gal (3 785 ml) na „100 porcí“, ale porce „approx. 2 teaspoons“ (asi 10 ml). Množství surovin sedí na výtěžek 1 gal, proto originalYield = 3 785 ml / 10 ml = ~380 porcí (ne 100) a suroviny na 4 porce (celkem asi 40 ml zálivky) jsou přepočteny faktorem 4/380; bilance pak sedí. Množství jsou kvůli malé dávce velmi malá, pro praktické vaření násobte recept. Ocet je 50 grain (asi 5 %), v dnešním 8% octu použij o něco méně. Ocet a voda nemají ve zdroji hmotnost, počítám z objemu (5½ pintu, 1 pint). Hořčice je suchá (prášek), ne hotová hořčice; kupovaná hořčice by změnila chuť. Energie na porci (2 lžičky) je nízká, což u zálivky odpovídá.",
+  "source": {
+    "book": "navy-1944",
+    "page": 188,
+    "titleOriginal": "ENGLISH MUSTARD DRESSING"
+  },
+  "verified": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cerny-caj",
+  "title": "Černý čaj",
+  "titleOriginal": "Hot Tea",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "caj-cerny-sypany", "amount": 9, "unit": "g", "note": "v látkovém sáčku" },
+    { "ingredientId": "voda", "amount": 990, "unit": "ml", "note": "pitná, čerstvě převařená" }
+  ],
+  "steps": [
+    { "text": "Čaj vsyp do látkového sáčku, který pojme asi třikrát víc čaje, než je jeho množství.", "minutes": 1 },
+    { "text": "Horní část sáčku převaž šňůrkou dostatečně dlouhou, aby šel sáček snadno vyndat, a šňůrku uvaž za rukojeť hrnce.", "minutes": 1 },
+    { "text": "Sáček s čajem vlož do hrnce nebo kotlíku." },
+    { "text": "Přiveď vodu k varu a zalij jí čaj v sáčku. Přikryj a nech louhovat 3 až 5 minut. Nemíchej.", "minutes": 13 },
+    { "text": "Sáček vyndej." },
+    { "text": "Přikryj a udržuj teplý, ale nevař." }
+  ],
+  "modernNote": "Zdrojový recept je pro kotel armádní kuchyně (100 porcí, 1 šálek = 237 ml). Pro 4 porce je to 990 ml vody, tedy 4 šálky po zhruba 250 ml. Čaj se nesmí vařit, jinak hořkne. Při volných lístcích bez sáčku scedit po 5 minutách louhování.",
+  "source": { "book": "afrs-2003", "page": 98, "code": "C 004 00", "titleOriginal": "HOT TEA" },
+  "verified": true,
+  "quote": "Tea must never be boiled as this produces a bitter flavor."
+}

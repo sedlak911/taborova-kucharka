@@ -1,0 +1,104 @@
+{
+  "id": "dusene-zelene-fazolky",
+  "title": "Dušené zelené fazolky s rajčaty",
+  "titleOriginal": "Savory Green Beans",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zelene-fazolky",
+      "amount": 370,
+      "unit": "g",
+      "note": "konzervované, scezené; zdroj 31 lb 9 oz = 5 No. 10 konzerv vč. nálevu, scezená část odhadem ≈ 65 % (20 lb 8 oz)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nasekaná nadrobno (ve zdroji 2 lb)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "note": "místo sádla ze slaniny (bacon fat); na osmahnutí cibule, zůstává v jídle",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 14,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "zdroj 1/4 oz (1 lžíce mletého hřebíčku)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "1 čajová lžička"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 115,
+      "unit": "g",
+      "note": "ze zdroje 1 No. 10 konzerva (6 lb 6 oz)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazolky zahřej k varu a sceď.",
+      "minutes": 8
+    },
+    {
+      "text": "Cibuli nasekej nadrobno a osmahni na tuku dosvětla.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej cukr, hřebíček, sůl, pepř a rajčata.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď směs k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Těsně před podáváním smíchej fazolky s rajčatovou směsí."
+    }
+  ],
+  "modernNote": "Zdroj: Navy 1944, tištěná str. 251 (PDF 259), 100 porcí, porce 4 až 4½ oz (cca ⅔ cup); zde 4-1/2 oz. Sádlo ze slaniny (bacon fat, 12 oz) je v originálu, moderně máslo ve stejném množství, zůstává v jídle. Fazolky jsou z konzerv podle zdroje; zdrojová hmotnost 31 lb 9 oz je celý obsah konzerv včetně nálevu, který se podle zdroje („Drain“) slévá. Scezená část je odhadnuta na ≈ 65 % (obvyklý poměr u konzervovaných fazolek No. 10), tedy 370 g na 4 porce; rajčata se nescezují, zůstávají i se šťávou. Cibule a cukr jsou z 2 lb a 4 oz ze zdroje, bez úprav.",
+  "source": {
+    "book": "navy-1944",
+    "page": 259,
+    "titleOriginal": "Savory Green Beans"
+  },
+  "verified": false
+}

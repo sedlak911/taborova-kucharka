@@ -1,0 +1,47 @@
+{
+  "id": "treskove-krokety",
+  "title": "Treskové krokety",
+  "titleOriginal": "CODFISH CROQUETTES (Cotolette di baccalà)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["tabor", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "ryby", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "susena-treska", "amount": 450, "unit": "g", "group": "Treska", "note": "sušená solená, 1 lb (zdroj „one pound or a little more“); po namočení asi dvojnásobek" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "group": "Vaření tresky", "note": "studená, na uvaření ryby; slije se", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "group": "Vaření tresky", "note": "do vody na vaření tresky; slije se", "scaling": "vessel" },
+    { "ingredientId": "ancovicky", "amount": 8, "unit": "g", "group": "Směs", "note": "2 ks (zdroj), asi 4 g na kus" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "group": "Směs", "note": "trochu, nasekaná" },
+    { "ingredientId": "parmezan", "amount": 6, "unit": "g", "group": "Směs", "note": "1 lžíce strouhaného (asi 5–6 g)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Směs", "note": "trochu (zdroj „some pepper“)" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "group": "Směs", "note": "na navlhčení strouhanky (pap)" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "group": "Směs", "note": "do papu, rozpuštěné" },
+    { "ingredientId": "strouhanka", "amount": 100, "unit": "g", "group": "Směs", "note": "odhad: 40 g hrubé strouhanky do papu, 60 g jemné na obalení (zdroj neuvádí)" },
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "group": "Směs", "note": "2 ks do směsi, 1 ks rozšlehaný na obalení (odhad)" },
+    { "ingredientId": "repkovy-olej", "amount": 60, "unit": "ml", "scaling": "vessel", "group": "Smažení", "note": "na smažení na mělko; většina zůstane v pánvi, do jídla se počítá nasáklý podíl (viz další řádek)" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "group": "Smažení", "note": "nasáklý při smažení (odhad)" },
+    { "ingredientId": "citron", "amount": 1, "unit": "ks", "group": "Podávání", "note": "na půlky, k podávání (zdroj: „serve with lemon“)" }
+  ],
+  "steps": [
+    { "text": "Tresku namoč do studené vody na 24 hodin a vodu dvakrát až třikrát vyměň." },
+    { "text": "V hrnci zalij rybu studenou osolenou vodou, přiveď k varu a sundej z ohně.", "minutes": 8 },
+    { "text": "Mezitím zvlhči hrubou strouhanku vodou a rozpuštěným máslem, až vznikne kaše.", "minutes": 5, "parallel": true },
+    { "text": "Sceď rybu, vyber všechny kosti a maso rozeber na kousky.", "minutes": 8 },
+    { "text": "Mezitím na prkénku dohladka nasekej ančovičky s petrželí, přidej pepř a parmezán.", "minutes": 5, "parallel": true },
+    { "text": "Rybu smíchej s ančovičkovou směsí, vmíchej navlhčenou strouhanku a vejce a tvaruj ploché řízky.", "minutes": 8 },
+    { "text": "Řízky obal v rozšlehaném vejci a ve strouhance.", "minutes": 5 },
+    { "text": "Na pánvi rozehřej olej a řízky usmaž z obou stran dozlatova.", "minutes": 10 },
+    { "text": "Podávej horké s citronem." }
+  ],
+  "modernNote": "Zdroj neuvádí počet porcí; 1 lb (454 g) sušené tresky je výchozí množství pro 4 porce (použito 450 g, asi 113 g sušené ryby na porci). Namáčení 24 hodin v chladu je doporučení z praxe (zdroj uvádí jen výměnu vody). Vaření v osolené vodě a odstranění kostí podle č. 122 a 124 (kniha chybně cituje č. 107). Vodu na vaření (1 l) a sůl (2 g) počítej jako domácí slévané hodnoty, slijí se. Ančovičky 2 ks ≈ 8 g; petržel, pepř a parmezán (1 lžíce ≈ 6 g) jsou odhady. Strouhanka: 40 g na pap a 60 g na obalení, odhad; máslo 15 g na pap, odhad. Vejce: 2 ks do směsi (zdroj) a 1 ks na obalení (odhad). Smažení na mělko: 60 ml oleje zůstane v pánvi, nasáklých 30 ml v řízcích je samostatný řádek (odhad). Zdroj místo citronu nebo rajčitové omáčky (č. 12) uvádí; použit citron. Kalorie a bílkoviny jsou orientační, ryba v nenamočeném stavu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 95,
+    "titleOriginal": "CODFISH CROQUETTES (Cotolette di baccalà)"
+  },
+  "verified": false,
+  "quote": "Give the compound the form of several flat cutlets, dip them in beaten egg and in ground bread crumbs."
+}

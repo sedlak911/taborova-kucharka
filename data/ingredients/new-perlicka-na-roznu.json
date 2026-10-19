@@ -1,0 +1,28 @@
+[
+  {
+    "id": "perlicka",
+    "name": "Perlička",
+    "aliases": [
+      "perlička celá",
+      "perlička na rožni",
+      "guinea hen",
+      "African hen"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 158,
+      "protein": 23.4,
+      "carbs": 0,
+      "fat": 6.45,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.83,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172416 (Guinea hen, meat and skin, raw)",
+      "refuse": "USDA fdc:172416 odpad 17 % (kost); kůže zůstává v hodnotách"
+    }
+  }
+]

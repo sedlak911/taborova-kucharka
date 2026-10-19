@@ -1,0 +1,30 @@
+[
+  {
+    "id": "hrebicek-cely",
+    "name": "Hřebíček celý",
+    "aliases": [
+      "celé hřebíčky",
+      "hřebíček celý",
+      "cloves, whole"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 274,
+      "protein": 5.97,
+      "carbs": 65.53,
+      "fat": 13,
+      "fiber": 33.9
+    },
+    "units": {
+      "ks": 0.07
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171321 (Spices, cloves, ground); celé hřebíčky mají stejná makra",
+      "units": "1 ks (celý hřebíček) ≈ 0,07 g, odhad",
+      "refuse": "bez odpadu"
+    }
+  }
+]

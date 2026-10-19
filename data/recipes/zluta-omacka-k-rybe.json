@@ -1,0 +1,39 @@
+{
+  "id": "zluta-omacka-k-rybe",
+  "title": "Žlutá omáčka k rybě",
+  "titleOriginal": "Yellow Sauce (Salsa gialla)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 3, "unit": "g", "note": "1 čajová lžička (zdroj), přepočteno na 600 g ryby", "group": "Omáčka" },
+    { "ingredientId": "maslo", "amount": 75, "unit": "g", "note": "2 unce (zdroj), přepočteno na 600 g ryby", "group": "Omáčka" },
+    { "ingredientId": "rybi-vyvar", "amount": 310, "unit": "ml", "note": "1 šálek vývaru z vody, ve které se vařila ryba (zdroj); pro 4 porce ryby", "group": "Omáčka" },
+    { "ingredientId": "olivovy-olej", "amount": 40, "unit": "ml", "note": "2 polévkové lžíce (zdroj), přepočteno", "group": "Omáčka" },
+    { "ingredientId": "zloutek", "amount": 1, "unit": "ks", "note": "1 žloutek (zdroj „the yolk of an egg“)", "group": "Omáčka" },
+    { "ingredientId": "citronova-stava", "amount": 25, "unit": "ml", "note": "šťáva z ½ citronu (zdroj), odhad", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "zdroj „generously“, dochutit podle chuti", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "zdroj „generously“, dochutit podle chuti", "group": "Omáčka" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "snítka (zdroj „a sprig of parsley“)", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Do malého rendlíku dej na mírný oheň mouku s máslem a míchej, dokud mouka nezačne hnědnout.", "minutes": 5 },
+    { "text": "Po troškách přilévej rybí vývar a za stálého míchání dřevěnou lžící vař, dokud se mouka v tekutině pořádně nerozpustí.", "minutes": 8 },
+    { "text": "Rendlík stáhni z ohně, vmíchej olivový olej a žloutek.", "minutes": 2 },
+    { "text": "Vymačkej šťávu z citronu, dochuť solí a pepřem a vše dobře promíchej.", "minutes": 2 },
+    { "text": "Omáčku nech mírně vychladnout.", "minutes": 10 },
+    { "text": "Omáčku nalij na uvařenou rybu a podávej ozdobenou snítkou petrželové natě." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 55) uvádí množství pro kus ryby asi 1 libru (450 g), ne pro 4 porce. Všechna množství jsou přepočtena na 4 porce ryby (≈ 600 g, tj. ×1,32): máslo 2 unce → 75 g, mouka 1 čajová lžička → 3 g, rybí vývar 1 šálek (250 ml) → 310 ml, olivový olej 2 polévkové lžíce → 40 ml, žloutek 1 ks (zdroj jeden celý žloutek), šťáva z ½ citronu → 25 ml (odhad), sůl a pepř „generously“ → 4 g a 1 g, petrželová nať snítka → 5 g. Rybí vývar je vývar z vody, v níž se vařila ryba; rybu samotnou tento recept neobsahuje (vařená zvlášť), vývar lze nahradit kupovaným rybím vývarem. Kapitola zůstává jako u zelené omáčky (omáčka k těstovinám a rybě). Zdroj nepíše, kolik vody vařit s rybou, proto je vývar uveden jen jako množství pro omáčku. Maso se neuvádí, protože jde o rybí omáčku.",
+  "source": {
+    "book": "italian-1919",
+    "page": 48,
+    "titleOriginal": "YELLOW SAUCE (Salsa gialla)"
+  },
+  "verified": false,
+  "quote": "This sauce is especially good for boiled fish."
+}

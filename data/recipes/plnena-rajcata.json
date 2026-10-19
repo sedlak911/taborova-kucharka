@@ -1,0 +1,51 @@
+{
+  "id": "plnena-rajcata",
+  "title": "Plněná rajčata",
+  "titleOriginal": "STUFFED TOMATOES (Pomodori ripieni)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer", "lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "rajce", "amount": 700, "unit": "g", "group": "Rajčata", "note": "jedlá část, asi 7 středních zralých rajčat po vydlabání semínek" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "group": "Rajčata", "note": "na osolení rajčat" },
+    { "ingredientId": "olivovy-olej", "amount": 15, "unit": "ml", "group": "Rajčata", "note": "1 lžíce, na přelití společně s máslem" },
+    { "ingredientId": "cibule", "amount": 60, "unit": "g", "group": "Náplň", "note": "1 malá" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Náplň", "note": "hrst nasekané natě" },
+    { "ingredientId": "celer-rapikaty", "amount": 40, "unit": "g", "group": "Náplň", "note": "1 stonek" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Náplň", "note": "část na orestování náplně, zbytek na přelití rajčat" },
+    { "ingredientId": "houby-susene", "amount": 10, "unit": "g", "group": "Náplň", "note": "suché, malá hrst; před použitím namočit" },
+    { "ingredientId": "strouhanka", "amount": 25, "unit": "g", "group": "Náplň", "note": "namočená v mléce" },
+    { "ingredientId": "mleko-polotucne", "amount": 50, "unit": "ml", "group": "Náplň", "note": "na namočení strouhanky" },
+    { "ingredientId": "parmezan", "amount": 30, "unit": "g", "group": "Náplň", "note": "strouhaný" },
+    { "ingredientId": "zloutek", "amount": 1, "unit": "ks", "group": "Náplň", "note": "rozšlehaný; zdroj říká „jeden, nebo dva“" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "group": "Náplň" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "group": "Náplň" }
+  ],
+  "steps": [
+    { "text": "Sušené houby namoč do vlažné vody, aby změkly.", "minutes": 20 },
+    { "text": "Mezitím rozpůl rajčata, vydlab semínka a lehce je osol.", "minutes": 8, "parallel": true },
+    { "text": "Mezitím nasekej nadrobno cibuli, petržel a celer.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím namoč strouhanku do mléka.", "minutes": 3, "parallel": true },
+    { "text": "Houby sceď a nasekej nadrobno.", "minutes": 3 },
+    { "text": "Na části másla orestuj cibuli, petržel a celer dozlatova, přidej houby.", "minutes": 8 },
+    { "text": "Přidej strouhanku s mlékem, osol, opepři a nech krátce podusit; podle potřeby přilij trochu vody.", "minutes": 5 },
+    { "text": "Sundej z ohně, nech mírně vychladnout a vmíchej strouhaný sýr a rozšlehaný žloutek.", "minutes": 3 },
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Poloviny rajčat naplň náplní tak, aby přesahovala okraj.", "minutes": 8 },
+    { "text": "Na rajčata rozetři zbytek másla smíchaného s olejem.", "minutes": 2 },
+    { "text": "Zapékej v předehřáté troubě při 180 °C, dokud rajčata nezměknou.", "minutes": 20 },
+    { "text": "Podávej horká jako přílohu k pečenému hovězímu nebo steaku." }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce, jen postup; všechna množství jsou odhad pro 4 porce (jako příloha asi 175 g rajčat na porci). Odhady: 7 středních rajčat (700 g jedlé části), 1 malá cibule, 1 stonek celeru, hrst petržele a sušených hub, 1 polévková lžíce strouhanky (zdroj) zvětšena na 25 g pro 14 půlek, 20 g másla celkem, 30 g parmezánu, sůl 4 g celkem, 1 žloutek (zdroj „jeden, nebo dva“; pro hustší náplň dva). Voda na namočení hub se nepoužívá (jen kapka na zvlhčení náplně, pokud je třeba). Teplotu 180 °C a dobu 20 minut zdroj neuvádí, doplněno. Čas 70 minut je odhad (namáčení hub 20 minut, pečení 20 minut). Zdroj uvádí i zjednodušenou variantu (česnek, petržel, strouhanka, sůl, pepř, olej), ta nepřevzata.",
+  "source": {
+    "book": "italian-1919",
+    "page": 86,
+    "titleOriginal": "STUFFED TOMATOES (Pomodori ripieni)"
+  },
+  "verified": false,
+  "quote": "Select ripe middle-sized tomatoes, cut them in two equal parts and scoop out the inside seeds."
+}

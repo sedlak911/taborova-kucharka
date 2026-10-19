@@ -1,0 +1,31 @@
+{
+  "id": "polevka-creole",
+  "title": "Polévka creole se špagetami",
+  "titleOriginal": "Creole Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-vyvar", "amount": 760, "unit": "ml", "note": "kupovaný, zdroj Beef Stock s. 216 PDF; ne voda" },
+    { "ingredientId": "cibule", "amount": 25, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "paprika-zelena", "amount": 7, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 230, "unit": "g", "note": "z konzervy" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" },
+    { "ingredientId": "testoviny", "amount": 25, "unit": "g", "note": "špagety rozlámané na menší kousky" }
+  ],
+  "steps": [
+    { "text": "Vývar ohřej do varu.", "minutes": 8 },
+    { "text": "Mezitím nasekej cibuli a papriku nadrobno a rajčata z konzervy rozkrájej.", "minutes": 5, "parallel": true },
+    { "text": "Přidej cibuli, papriku, rajčata, sůl a pepř. Znovu ohřej do varu.", "minutes": 5 },
+    { "text": "Přidej špagety a vař asi 1 hodinu. Občas zamíchej, aby se špagety nepřilepily ke dnu.", "minutes": 60 }
+  ],
+  "modernNote": "Vývar ze zdroje (Beef Stock, s. 216 PDF, „well seasoned“) je kupovaný hovězí vývar, ne voda. Sůl 4 g je přepočtená podle zdroje (2 oz na 100 porcí); vývar bývá už solený, sůl můžeš ubrat a dochutit až na konci. Zdroj nepředepisuje tuk na restování zeleniny; zelenina jde do vývaru bez tuku, takže jsem tuk nepřidal. Pepř (1 čajová lžička) je přepočtený přes domácí hodnotu 2,3 g na lžičku. Celer ve zdroji není, do receptu jsem ho nepřidal. Špagety se vaří přímo v polévce, proto jsou v linear a nejsou ve vodě zvlášť. Porce 1 šálek (8 oz) odpovídá 100 porcím výtěžku 6 gal, proto originalYield 100.",
+  "source": { "book": "navy-1944", "page": 228, "titleOriginal": "CREOLE SOUP" },
+  "verified": true
+}

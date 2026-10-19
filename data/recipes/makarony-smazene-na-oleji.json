@@ -1,0 +1,70 @@
+{
+  "id": "makarony-smazene-na-oleji",
+  "title": "Makarony smažené na oleji s česnekem",
+  "titleOriginal": "Macaroni Fried with Oil (Maccheroni all'olio)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "testoviny",
+      "amount": 400,
+      "unit": "g",
+      "note": "makarony, suché; 100 g na porci"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 4000,
+      "unit": "ml",
+      "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 40,
+      "unit": "ml",
+      "note": "dobrý olivový olej, na smažení"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 3,
+      "unit": "g",
+      "note": "1 stroužek, nasekaný najemno"
+    }
+  ],
+  "steps": [
+    { "text": "Do velkého hrnce nalij osolenou vodu a přiveď ji k varu.", "minutes": 15 },
+    { "text": "Vhoď těstoviny a vař je, dokud nejsou měkké (asi 12 minut), občas zamíchej. Pak je dobře sceď.", "minutes": 12 },
+    { "text": "Zatímco se těstoviny vaří, rozehřej na pánvi olivový olej, přidej nasekaný česnek a nech ho chvíli provonět olej.", "minutes": 3, "parallel": true },
+    { "text": "Těstoviny smaž po dávkách, aby se vešly na pánev v jedné vrstvě (nebo ve velké pánvi): dávku vlož na pánev a nech ji asi 4 minuty zezlatnout z jedné strany, aby se nepřichytila ke dnu.", "minutes": 8 },
+    { "text": "Dávku otoč a smaž dozlatova i z druhé strany, asi 4 minuty. Hotové dávky drž v teple a smaž další.", "minutes": 8 },
+    { "text": "Podávej velmi horké, bez sýra." }
+  ],
+  "modernNote": "Gentile neuvádí množství ani počet porcí; odhad z běžné praxe pro 4 porce: 400 g suchých makaronů (100 g na porci), 4 l vody na vaření (domácí hodnota 1 l na 100 g, slévá se), 8 g soli do vody (2 g na litr; zdroj sůl u těstovin nezmiňuje, ale v jeho receptech se vaří v solené vodě), 40 ml olivového oleje (asi 3 lžíce, zdroj „some good olive oil“) a stroužek česneku (3 g). Doba vaření 12 minut je odhad (zdroj uvádí jen „until boiled“). Smažení asi 4 + 4 minuty na dávku je odhad podle „browned on one side… then the other“; 400 g těstovin se na jedné pánvi nevejde, proto se smaží po dávkách (dvě dávky) nebo ve velké pánvi. Sýr zdroj výslovně vylučuje, proto je recept bez sýra. Pro hlavní jídlo na jednu porci počítej raději 120 g suchých těstovin a víc oleje.",
+  "source": {
+    "book": "italian-1919",
+    "page": 25,
+    "titleOriginal": "MACARONI FRIED WITH OIL (Maccheroni all'olio)"
+  },
+  "verified": false,
+  "quote": "Serve the macaroni very hot."
+}

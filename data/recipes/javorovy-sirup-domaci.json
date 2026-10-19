@@ -1,0 +1,79 @@
+{
+  "id": "javorovy-sirup-domaci",
+  "title": "Javorový sirup (domácí)",
+  "titleOriginal": "Maple Sirup",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 220,
+      "unit": "g",
+      "note": "12 lb ze zdroje (granulovaný cukr)"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 75,
+      "unit": "g",
+      "note": "4 lb ze zdroje"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "1 gal ze zdroje, vařící"
+    },
+    {
+      "ingredientId": "javorove-aroma",
+      "amount": 2,
+      "unit": "ml",
+      "note": "náhrada tablet, dle chuti",
+      "original": {
+        "ingredientId": "javorove-tablety",
+        "amount": 0.65,
+        "unit": "ks"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď k varu.",
+      "minutes": 4
+    },
+    {
+      "text": "Do vroucí vody vmíchej javorové aroma.",
+      "minutes": 1
+    },
+    {
+      "text": "Přidej oba cukry a za míchání je rozpusť.",
+      "minutes": 3
+    },
+    {
+      "text": "Sirup zahřej k varu za stálého míchání.",
+      "minutes": 4
+    },
+    {
+      "text": "Nech sirup vychladnout."
+    }
+  ],
+  "modernNote": "Zdroj Maple Sirup (s. 68 PDF, tištěná 60): 16 tablet javorové příchutě, 1 gal vody, 12 lb granulovaného a 4 lb hnědého cukru; výtěžek 2 gal na 100 porcí. Postup ze zdroje: tablety se rozpustí ve vroucí vodě, přidají se cukry, za míchání se zahřeje k varu a nechá vychladnout. Postup Maple Flavor (s. 67 PDF, tištěná 59): tablety se rozpustí ve vroucí vodě za míchání a před použitím se nechají vychladnout. Modernizace: tablety nahrazeny kapalným javorovým aroma (2 ml, odhad podle chuti; ochutnej a dolaď). Původní tablety jsou v `original` (0,65 ks pro 4 porce; hmotnost tablety 1 g je odhad). Porce: zdroj uvádí ¼ cupu (cca 2 oz), ale 2 gal na 100 porcí je cca 110 g (asi 75 ml) na porci, proto 4 porce dávají cca 450 g (cca 300 ml) sirupu; nález bilance je důsledek nesouladu zdroje, ne chyba přepočtu. Sirup nech před použitím vychladnout.",
+  "source": {
+    "book": "navy-1944",
+    "page": 68,
+    "titleOriginal": "MAPLE SIRUP"
+  },
+  "verified": false,
+  "quote": "Dissolve tablets in boiling water."
+}

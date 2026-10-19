@@ -1,0 +1,41 @@
+{
+  "id": "pomazanka-ze-studeneho-masa",
+  "title": "Pomazánka ze studeného masa",
+  "titleOriginal": "Cold Meat Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vareno",
+      "amount": 145,
+      "unit": "g",
+      "note": "zbytky pečené hovězí, nakrájené na tenké plátky"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 145,
+      "unit": "g",
+      "note": "bez kosti"
+    }
+  ],
+  "steps": [
+    { "text": "Hovězí maso a šunku nakrájej na tenké plátky.", "minutes": 10 },
+    { "text": "Plátky naskládej na krajíce pečiva.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj má na 100 porcí (1 porce ≈ 2½ oz, tj. ≈ 71 g) vybrat jeden nebo více druhů masa v součtu 15–18 lb; ve zdroji jsou uvedené jen rozsahy hmotnosti, ne složení. Zvoleny 2 druhy po 8 lb (součet 16 lb, střed rozsahu): hovězí (zbytky pečené, katalog vařené hovězí) a šunka. Ostatní druhy z výběru (salám, paštiky, jazyk…) lze zaměnit podle chuti. Zdroj neuvádí majonézu, okurky, cibuli ani celer; dochucení nepřidáváno. Poznámka zdroje: zelný salát nebo syrová zelenina s dressingem lze rozetřít na plátek chleba jako alternativu. Chléb není v seznamu surovin zdroje, slouží jako podklad. Pro 4 porce = 4 sendviče s ≈ 73 g masa.",
+  "source": {
+    "book": "navy-1944",
+    "page": 216,
+    "titleOriginal": "COLD MEAT FILLING"
+  },
+  "verified": false
+}

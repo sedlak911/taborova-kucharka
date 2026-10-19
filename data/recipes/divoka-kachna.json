@@ -1,0 +1,44 @@
+{
+  "id": "divoka-kachna",
+  "title": "Kachna se zelím",
+  "titleOriginal": "Wild Duck (Anitra selvatica)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "kachna", "amount": 1600, "unit": "g", "group": "Kachna", "note": "celá, s kostmi, rozporcovaná; vnitřnosti odlož" },
+    { "ingredientId": "ocet", "amount": 15, "unit": "ml", "group": "Kachna", "note": "na omytí kachny proti zvěřinové chuti; lze nahradit spařením vroucí vodou" },
+    { "ingredientId": "sunka", "amount": 100, "unit": "g", "group": "Kachna", "note": "tlustý plátek s masem i tukem, nakrájený nadrobno" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "group": "Kachna", "note": "půl střední cibule" },
+    { "ingredientId": "mrkev", "amount": 60, "unit": "g", "group": "Kachna", "note": "střední, nakrájená nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 60, "unit": "g", "group": "Kachna", "note": "mírné množství, nakrájený nadrobno" },
+    { "ingredientId": "petrzel-koren", "amount": 40, "unit": "g", "group": "Kachna", "note": "kořen, nakrájený nadrobno" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "group": "Kachna", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Kachna", "note": "podle chuti" },
+    { "ingredientId": "voda", "amount": 600, "unit": "ml", "group": "Kachna", "note": "horká, přilévej podle potřeby, dokud se maso nedodusí" },
+    { "ingredientId": "bile-zeli", "amount": 600, "unit": "g", "group": "Příloha", "note": "nakrájené na nudličky" }
+  ],
+  "steps": [
+    { "text": "Kachnu očisti, drobky odlož, odřízni hlavu a nožičky.", "minutes": 10 },
+    { "text": "Kachnu opláchni octem a osuš; proti zvěřinové chuti ji lze místo toho krátce spařit vroucí vodou.", "minutes": 3 },
+    { "text": "Šunku, cibuli, mrkev, řapíkatý celer a kořenovou petržel nakrájej nadrobno.", "minutes": 10 },
+    { "text": "Nakrájenou zeleninu a šunku dej do hrnce, na ně polož kachnu, osol a opepři.", "minutes": 3 },
+    { "text": "Kachnu opékej ze všech stran dozlatova.", "minutes": 10 },
+    { "text": "Zalij horkou vodou a duš pod pokličkou, dokud kachna není měkká.", "minutes": 75 },
+    { "text": "Mezitím zelí podus v troše osolené vody do měkka.", "minutes": 15, "parallel": true },
+    { "text": "Hotovou kachnu vyjmi z hrnce a zelí přelož do šťávy z kachny. Nech dojít.", "minutes": 5 },
+    { "text": "Kachnu rozporcuj a podávej s přílohou a omáčkou.", "minutes": 3 }
+  ],
+  "modernNote": "Gentile (č. 46, s. 38) uvádí divokou kachnu (Anitra selvatica) bez množství a bez počtu porcí. Divoká kachna je nahrazena domácí kachnou z katalogu; krok s octem nebo spařením proti zvěřinové chuti zůstává jako volitelný. Množství jsou odhad z běžné praxe pro 4 porce: kachna 1,6 kg celá s kostmi (asi 136 g masa na porci), šunka 100 g, cibule 75 g (půl střední), mrkev 60 g, řapíkatý celer 60 g, kořenová petržel 40 g, sůl 6 g, pepř 1 g, voda 600 ml, ocet 15 ml na omytí, zelí 600 g. Zdroj uvádí jako dobrý doplněk zelí nebo čočku; čočka (asi 200 g suché) zde není, aby se nepočítala vedle zelí, a je jen jako varianta. Název je upraven na „Kachna se zelím“, protože čočka v receptu není. Tuk zdroj nepřidává, kachna pustí vlastní. Šunka zůstává v omáčce a nejí se, makra jsou orientační. Doba dušení (75 minut) je odhad, zdroj ji neuvádí. Vnitřnosti zdroj zmiňuje jen jako odložené, v receptu nejsou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 42,
+    "titleOriginal": "WILD DUCK (Anitra selvatica)"
+  },
+  "verified": false,
+  "quote": "Cabbage or lentils, cooked in water and afterward allowed to complete the cooking in the sauce obtained from the duck, form a good addition."
+}

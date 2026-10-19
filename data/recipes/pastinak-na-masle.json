@@ -1,0 +1,94 @@
+{
+  "id": "pastinak-na-masle",
+  "title": "Pastinák na másle",
+  "titleOriginal": "Buttered Parsnips",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "pastinak",
+      "amount": 460,
+      "unit": "g",
+      "note": "oloupaný; z nákupní hmotnosti 30 lb (A.P.) × 0,04 × jedlá část 0,85"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření pastináku, slije se; domácí hodnota 1 l na 1 kg zeleniny (min. 1 l)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "rozpuštěné; většina na začátku omáčky, zbytek na konci",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "note": "pro omáčku"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vroucí, do omáčky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.45,
+      "unit": "g",
+      "note": "3 čajové lžičky: 1 na pastinák, 2 v omáčce"
+    }
+  ],
+  "steps": [
+    { "text": "Pastinák oloupej, rozděl na půlky a každou nakrájej na čtvrtky.", "minutes": 8 },
+    { "text": "Do hrnce nalij vodu, přidej sůl a přiveď k varu.", "minutes": 8 },
+    { "text": "Vlož pastinák do vroucí vody a vař asi 30 minut, dokud nezměkne.", "minutes": 30 },
+    { "text": "Mezitím v jiném hrnci rozpusť většinu másla.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej mouku a rozmíchej na hladkou pastu.", "minutes": 2, "parallel": true },
+    { "text": "Mezitím v menším hrnci přiveď vodu k varu.", "minutes": 5, "parallel": true },
+    { "text": "Do pasty za stálého míchání postupně přilij vroucí vodu.", "minutes": 2, "parallel": true },
+    { "text": "Vař za stálého míchání, dokud omáčka nezhoustne.", "minutes": 6, "parallel": true },
+    { "text": "Omáčku dochuť solí a pepřem, vmíchej zbylé máslo a dobře promíchej.", "minutes": 2, "parallel": true },
+    { "text": "Sceď pastinák.", "minutes": 2 },
+    { "text": "Pastinák přelij omáčkou a promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: Buttered Parsnips, tištěná str. 275, PDF 283 (na stránce je i Buttered Peas, ten není v tomto receptu). Sloupec 100 porcí, porce 4 až 4½ oz (cca ⅔ hrnku). Pastinák: 30 lb nákupní hmotnosti A.P. (544 g na 4 porce) × jedlá část 0,85 = 460 g; vařicí voda 6 gal a sůl 3 oz (6 tbsp) jsou domácí vessel hodnoty, tj. 1 l vody a 2 g soli na 4 porce, slévají se. Omáčka: zdroj odkazuje na Drawn Butter Sauce (str. 179, PDF 187) v množství 2 gal; použit recept maslova-omacka-navy (1 gal = 1 lb másla, 8 oz mouky, 1 gal vody, ¾ oz soli, 1 tsp pepře) zdvojený na 2 gal: 2 lb másla, 1 lb mouky, 2 gal vody, 1½ oz soli, 2 tsp pepře, ×0,04 pro 4 porce. Sůl v omáčce je třída seasoning (2,76 g → 3 g). Pepř: 1 tsp z pastinákového řádku + 2 tsp z omáčky = 0,45 g. Bilance: 4 porce mají dohromady cca 815 g surovin (včetně 300 ml omáčky a 460 g pastináku), zdroj uvádí porci 120 g; omáčka je 2 gal na 100 porcí (cca 76 ml na porci), takže bilance 1,7× je u omáčkové přílohy v pořádku. Zdroj doporučuje posypat nasekanou petrželí před podáním (volitelné).",
+  "source": {
+    "book": "navy-1944",
+    "page": 283,
+    "titleOriginal": "BUTTERED PARSNIPS"
+  },
+  "verified": true,
+  "quote": "Cook in boiling water about 30 minutes or until tender."
+}

@@ -1,0 +1,72 @@
+{
+  "id": "jatra-dusena",
+  "title": "Dušená játra",
+  "titleOriginal": "Braised Liver",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 640,
+      "unit": "g",
+      "note": "hovězí, vepřová, jehněčí nebo telecí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 100,
+      "unit": "g",
+      "note": "na opečení; moderně lze olej"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horká nebo horký vývar; zdroj množství neuvádí, jen „aby pokryla dno pánve“"
+    }
+  ],
+  "steps": [
+    { "text": "Játra nakrájej na plátky silné 1 cm (3/8 až 1/2 palce) a rozděl na kusy po asi 140 g.", "minutes": 5 },
+    { "text": "Kusy osol, opepři a obal v mouce.", "minutes": 2 },
+    { "text": "Opékej na tuku dohněda.", "minutes": 10 },
+    { "text": "Sniž teplotu a podlij horkou vodou nebo vývarem tak, aby kapalina pokryla dno pánve." },
+    { "text": "Pevně přikryj a duš pomalu asi 20 minut, dokud játra nezměknou.", "minutes": 20 }
+  ],
+  "modernNote": "Zdrojový recept cibuli neobsahuje; u smažených jater kniha doporučuje smaženou cibuli jako přílohu. Doporučení: podávej s opečenou cibulí a omáčkou z výpeku, jak radí poznámka 1. Množství tekutiny zdroj neuvádí, 200 ml je odhad pro velkou pánev. Porce originálu je asi 140 g (5 oz) hotových jater. Tuk se z velké části nesní, skutečné kcal jsou nižší; moderně stačí 30–40 ml oleje. Alternativa z poznámky 2: játra naskládaná do pekáče s tekutinou na dně péct při 150 °C 15 až 20 minut do změknutí.",
+  "source": {
+    "book": "navy-1944",
+    "page": 162,
+    "titleOriginal": "BRAISED LIVER"
+  },
+  "verified": false,
+  "quote": "Cook slowly about 20 minutes or until tender."
+}

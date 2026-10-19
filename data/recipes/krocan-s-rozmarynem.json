@@ -1,0 +1,42 @@
+{
+  "id": "krocan-s-rozmarynem",
+  "title": "Krocan s rozmarýnem",
+  "titleOriginal": "Turkey (Tacchino)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["trouba"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "kruti-stehno", "amount": 600, "unit": "g", "note": "bez kosti; místo celého krocana, viz modernNote" },
+    { "ingredientId": "spek", "amount": 50, "unit": "g", "note": "nasekaná nadrobno; zdroj: „hash of corned beef or bacon“" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "k nasekané slanině" },
+    { "ingredientId": "cesnek", "amount": 10, "unit": "g", "note": "asi 2 stroužky, na drobné kousky, do masa" },
+    { "ingredientId": "rozmaryn-cerstvy", "amount": 5, "unit": "g", "note": "asi 2 větvičky, lístky" },
+    { "ingredientId": "olivovy-olej", "amount": 15, "unit": "ml", "note": "na potření masa" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 30, "unit": "g", "note": "rozmíchaný s vodou" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "note": "na zředění protlaku" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Troubu předehřej na 200 °C." },
+    { "text": "Slaninu nasekej nadrobno a rozmíchej s máslem, solí a pepřem.", "minutes": 5 },
+    { "text": "Do masa vpichuj kousky česneku a lístky rozmarýnu.", "minutes": 5 },
+    { "text": "Maso potři směsí ze slaniny a másla, pokapej olejem a dochuť solí a pepřem.", "minutes": 3 },
+    { "text": "Protlak rozmíchej s vodou a zalij jím maso v pekáči.", "minutes": 2 },
+    { "text": "Peč bez přikrytí, dokud maso není měkké a uvnitř bez růžové šťávy; průběžně ho přelévej šťávou z pekáče.", "minutes": 50 },
+    { "text": "Maso vyjmi, nech pět minut odpočinout a nakrájej na plátky.", "minutes": 5 },
+    { "text": "Podávej se šťávou z pekáče." }
+  ],
+  "modernNote": "Gentile (č. 145, s. 104) popisuje celého pečeného krocana: nafaršovaného kousky česneku a bobkovým listem nebo rozmarýnem, ochuceného nasekanou slaninou nebo corned beefem, trochou másla, solí a pepřem a protlakem zředěným ve vodě; zdroj neuvádí hmotnost ani počet porcí a celý krocan by na 4 porce byl příliš (5 kg a více). Proto je zde krůtí stehno bez kosti 600 g (asi 150 g na porci, jako celé stehno s kostí a kůží kolem 850 g). Odhady z běžné praxe pro 4 porce: slanina 50 g, máslo 20 g, česnek 10 g (asi 2 stroužky), rozmarýn 5 g, olej 15 ml, protlak 30 g s 200 ml vody, sůl 5 g a pepř 1 g podle chuti. Corned beef v katalogu chybí, použita slanina (spek) jako nejbližší. Doba 50 minut platí pro stehno bez kosti 600 g; s kostí a kůží by pečení trvalo 60–90 minut. Zdroj nabízí i variantu: prsa naplocho rozklepaná a opékaná na grilu (není zde použita). Stehno je nové ve katalogu (`kruti-stehno`, USDA fdc:171531, maso bez kosti a kůže), makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 108,
+    "titleOriginal": "TURKEY (Tacchino)"
+  },
+  "verified": false,
+  "quote": "When roasted it is generally larded moderately with little pieces of garlic and bay-leaf or rosemary."
+}

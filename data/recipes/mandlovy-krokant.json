@@ -1,0 +1,58 @@
+{
+  "id": "mandlovy-krokant",
+  "title": "Mandlový krokant",
+  "titleOriginal": "Almond Crisp-Tart (Croccante)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mandle",
+      "amount": 130,
+      "unit": "g",
+      "note": "sladké mandle, neloupané (zdroj 4½ oz); loupají se v prvním kroku"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 100,
+      "unit": "g",
+      "note": "zdroj 3½ oz"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání formy; zdroj říká máslo nebo olej, 1 lžička"
+    }
+  ],
+  "steps": [
+    { "text": "Mandle opař vroucí vodou, oloupej je, rozděl na dvě části a každou nakrájej na malé kousky.", "minutes": 15 },
+    { "text": "Nakrájené mandle dej na střední oheň a suš je, dokud nezežloutnou; nepraž je.", "minutes": 10 },
+    { "text": "Mezitím dej cukr do rendlíku na mírný oheň a nech ho úplně rozpustit.", "minutes": 5, "parallel": true },
+    { "text": "Až je cukr úplně rozpuštěný, vsyp do něj horké, nažloutlé mandle a zmenši plamen.", "minutes": 2 },
+    { "text": "Hmotu vař, dokud nezíská skořicovou barvu; dej pozor, aby se nepřepálila.", "minutes": 5 },
+    { "text": "Hmotu po lžičkách rychle nalévej do studené, olejem vymazané formy a tlač na ni citronem nebo lžící namazanou olejem, až je co nejtenčí.", "minutes": 5 },
+    { "text": "Nech úplně vychladnout; pokud se špatně vyjímá, na chvíli ponoř formu do horké vody a krokant vyklop.", "minutes": 30 },
+    { "text": "Podávej nalámaný na kousky." }
+  ],
+  "modernNote": "Gentile neuvádí počet porcí; množství mandlí (4½ oz ≈ 128 g) a cukru (3½ oz ≈ 99 g) bereme jako celý recept pro 4 porce (asi 57 g na porci). Zaokrouhleno na 130 g a 100 g. Olej na vymazání formy (1 lžička ≈ 5 ml) je odhad, škáluje se jako vessel. Zdroj mandle loupe, proto jsou v surovině neloupané a loupání je v prvním kroku (opaření vroucí vodou je běžná praxe). Citron v postupu slouží jako nástroj na rozetření, ne jako surovina. Varianta ze zdroje: mandle sušit na slunci a do cukru přidat kousek másla (v receptu není). Doba čekání na vychladnutí je odhad 30 minut. Tag pripravit-predem recept nemá: chladnutí trvá jen asi půl hodiny.",
+  "source": {
+    "book": "italian-1919",
+    "page": 137,
+    "titleOriginal": "ALMOND CRISP-TART (Croccante)"
+  },
+  "verified": false,
+  "quote": "The precise point is known when the mixture acquires a cinnamon color."
+}

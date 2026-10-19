@@ -1,0 +1,91 @@
+{
+  "id": "skotska-polevka-s-kroupami",
+  "title": "Skotská polévka s kroupami",
+  "titleOriginal": "Scotch Broth",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 330,
+      "unit": "g",
+      "note": "jehněčí kosti s masem (např. krk nebo hrudí)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1140,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kroupy",
+      "amount": 25,
+      "unit": "g",
+      "note": "perlové"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 55,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredientId": "vodnice",
+      "amount": 55,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 14,
+      "unit": "g",
+      "note": "nakrájená na plátky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 45,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    }
+  ],
+  "steps": [
+    { "text": "Kosti s masem otři vlhkou utěrkou a zalij vodou.", "minutes": 3 },
+    { "text": "Pomalu přiveď k varu a vař na mírném ohni 2 hodiny.", "minutes": 128 },
+    { "text": "Seber pěnu." },
+    { "text": "Vyjmi maso a kosti." },
+    { "text": "Do vývaru přidej sůl, pepř, kroupy, mrkev, vodnici, cibuli a celer. Vař na mírném ohni 1 hodinu.", "minutes": 60 },
+    { "text": "Maso odděl od kostí, nasekej a vrať do polévky.", "minutes": 8 }
+  ],
+  "modernNote": "Zdroj počítá 18 lb jehněčích kostí s masem na 100 porcí (po přepočtu asi 330 g na 4 porce, tedy méně masa, než je dnes zvykem). Jehněčí lze nahradit hovězím s kostí (např. hovězí žebro nebo oháňka), případně vykostěným hovězím předním (vývar bude slabší), nebo vepřovým s kostí (doporučení). Množství 330 g masa s kostí (cca 250 g jedlého, ~64 g na porci) je málo, ale je to ze zdroje. Porce 1 hrnek (cca 8 oz), voda 7,5 gal na 6 gal výtěžku (odpar). Zdroj nabízí variaci: 1,5 lžičky kari prášku na 100 porcí, nebo nasekanou petrželku (3/4 hrnku) přidanou těsně před podáváním. Doporučení: dosol a dopepři podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 226,
+    "titleOriginal": "SCOTCH BROTH"
+  },
+  "verified": true,
+  "quote": "Wipe bones with damp cloth. Cover with water. Heat slowly to boiling temperature."
+}

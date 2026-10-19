@@ -1,0 +1,37 @@
+{
+  "id": "pomerancovy-bavorak",
+  "title": "Pomerančový bavorák",
+  "titleOriginal": "Orange Bavarian",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle", "sladke", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "zelatina", "amount": 3, "unit": "g", "note": "bez příchuti" },
+    { "ingredientId": "pomerancova-stava", "amount": 6, "unit": "ml", "note": "na namočení želatiny" },
+    { "ingredientId": "odparene-mleko", "amount": 165, "unit": "g", "note": "vychlazené" },
+    { "ingredientId": "cukr-krystal", "amount": 45, "unit": "g" },
+    { "ingredientId": "citronova-stava", "amount": 6, "unit": "ml" },
+    { "ingredientId": "sul", "amount": 0.39, "unit": "g" },
+    { "ingredientId": "pomeranc", "amount": 90, "unit": "g", "note": "kousky bez slupky" }
+  ],
+  "steps": [
+    { "text": "Zalij želatinu pomerančovou šťávou a nech 10 minut nabobtnat.", "minutes": 10 },
+    { "text": "Nad hrncem s horkou vodou rozpusť želatinu.", "minutes": 3 },
+    { "text": "Zmíchej odpařené mléko s cukrem a studeným šlehačem vyšlehej do pěny.", "minutes": 5 },
+    { "text": "Přidej citronovou šťávu, sůl a rozpuštěnou želatinu a šlehej do tuha.", "minutes": 5 },
+    { "text": "Vmíchej pomerančové kousky.", "minutes": 2 },
+    { "text": "Chlaď v lednici do ztuhnutí." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 3 oz (asi ½ hrnku), výtěžek asi 16 lb. Na 4 porce je to zhruba 340 g hotového dezertu. Odpařené mléko 9 lb 1 oz odpovídá deseti plechovkám po 14½ oz (1 galon) ze zdroje, takže váha sedí. Rozpor: cukr je 2 lb 6 oz (1 077 g), zatímco ve sloupci Amounts je 4⅔ cupu (asi 933 g). Ponechána hmotnost; stejný poměr (asi 15 %) vidíme na téže stránce u Prune Whip (2 lb cukru vs. 1 qt). Sůl 1 tsp na 100 porcí dává na 4 porce 0,39 g (nález „sůl mimo rozsah“ sedí s kartou, hodnotu ponechávám; doporučení: dochutit podle chuti). Chlazení zdroj neuvádí; odhad asi 4 h, proto tag pripravit-predem. Čas 30 minut je aktivní práce bez chlazení. Pomeranče jsou počítány jako kousky bez slupky (5 lb na 100 porcí).",
+  "source": {
+    "book": "navy-1944",
+    "page": 52,
+    "titleOriginal": "ORANGE BAVARIAN"
+  },
+  "verified": false
+}

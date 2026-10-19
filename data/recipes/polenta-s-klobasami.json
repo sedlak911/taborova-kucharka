@@ -1,0 +1,96 @@
+{
+  "id": "polenta-s-klobasami",
+  "title": "Polenta s klobásami",
+  "titleOriginal": "Polenta with Sausages (Polenta colle salsicce)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "kukuřičná krupice (farina gialla), nejlépe hrubší"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 950,
+      "unit": "ml",
+      "group": "Polenta",
+      "note": "vroucí, osolená"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "do vody; zdroj říká „osolená v poměru“"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "kousek másla"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Polenta"
+    },
+    {
+      "ingredientId": "klobasa",
+      "amount": 400,
+      "unit": "g",
+      "group": "Klobásy",
+      "note": "několik klobás, několikrát propíchaných vidličkou"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Klobásy",
+      "note": "nebo malý kousek másla"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Klobásy",
+      "note": "2–3 listy, volitelně; před podáváním vyndat"
+    }
+  ],
+  "steps": [
+    { "text": "Kukuřičnou krupici zvolna sypej do vroucí osolené vody a pořád míchej dřevěnou vařečkou.", "minutes": 20 },
+    { "text": "Když je polenta do poloviny uvařená, vmíchej máslo a po troškách přilévej mléko.", "minutes": 20 },
+    { "text": "Zatímco se polenta vaří, nahřej v hrnci lžíci olivového oleje (nebo kousek másla).", "minutes": 2, "parallel": true },
+    { "text": "Do rozehřátého tuku dej klobásy několikrát propíchané vidličkou, případně 2–3 bobkové listy.", "parallel": true },
+    { "text": "Klobásy uvař; bobkové listy před podáváním vyndej.", "minutes": 15, "parallel": true },
+    { "text": "Horkou polentu vyklop na mísu, doprostřed udělej důlek a dej do něj klobásy i šťávu z hrnce.", "minutes": 3 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí pro celou dávku 1 lb krupice (454 g), 1,5 quartu vody (1 420 ml) a 1,5 hrnku mléka (355 ml); zde přepočteno 2/3 na 4 porce (300 g krupice, 950 ml vody, 240 ml mléka; 75 g krupice a 100 g klobásy na osobu). Odhady z běžné praxe: máslo 20 g, sůl 7 g, klobásy 400 g, 1 lžíce oleje. Moderní krupice se vaří podle obalu, instantní jen pár minut. Doporučení: hrubá polenta potřebuje 30–40 minut a stálé míchání. Italské salsicce jsou syrové vepřové klobásy; české syrové klobásy se hodí stejně dobře, použitá uzená klobása v katalogu je jen nejbližší položka (výživové hodnoty). Čas 45 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 117,
+    "code": "č. 163 (s. 113)",
+    "titleOriginal": "POLENTA WITH SAUSAGES (POLENTA COLLE SALSICCE)"
+  },
+  "verified": false,
+  "quote": "The polenta is a very popular dish in Northern Italy and can be prepared in various ways."
+}

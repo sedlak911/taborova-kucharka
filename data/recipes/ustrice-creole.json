@@ -1,0 +1,86 @@
+{
+  "id": "ustrice-creole",
+  "title": "Ústřice creole",
+  "titleOriginal": "Oysters Creole",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mekkysi",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "rajcatova-stava",
+      "amount": 115,
+      "unit": "ml",
+      "note": "z konzervy"
+    },
+    {
+      "ingredientId": "palive-omacka",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ustrice",
+      "amount": 480,
+      "unit": "g",
+      "note": "vyloupané, i se šťávou"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 7,
+      "unit": "g",
+      "note": "volitelně, nasekaná"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli nasekej nadrobno.", "minutes": 5 },
+    { "text": "V hrnci rozpusť máslo a na něm osmahni cibuli dosklovita.", "minutes": 6 },
+    { "text": "Vmíchej mouku a sůl a rozmíchej na hladkou kaši.", "minutes": 2 },
+    { "text": "Přidej rajčatovou šťávu a tabasco.", "minutes": 1 },
+    { "text": "Přiveď k varu a za stálého míchání vař, dokud lehce nezhoustne.", "minutes": 10 },
+    { "text": "Přidej ústřice a nech je na mírném ohni dusit, dokud se jejich okraje nezkroutí.", "minutes": 5 },
+    { "text": "Volitelně vmíchej nasekanou petrželku.", "minutes": 1 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj uvádí 100 porcí po 4 oz (zhruba ½ šálku) a je to omáčka, kterou se podává na toastu; chléb v surovinách není, přidej si ho podle chuti. Ústřice v katalogu chyběly – založena surovina `ustrice` (vyloupané maso, USDA eastern raw). Zdroj uvádí jen objem (3 gal), hmotnost je odhad přes hustotu 1,046 g/ml (1 gal ≈ 3,96 kg). Rajčatová šťáva z konzervy (1 No. 10 can, 3 qts) je v katalogu jako `rajcatova-stava`, ne rajčata. Tuk „Butter or other fat“ je máslo, bez `original`; protože se v něm smaží cibule (třída fat, 2 lb = 50 g na 4 porce). Sůl 7 g na 4 porce je podle zdroje (4 oz na 100 porcí), ale výsledná omáčka je slaná – zvaž méně. Petrželka je ve zdroji jako volitelná poznámka, proto přidána jako volitelná. Bilance: porce vychází asi 1,5× hmotnost zdrojové porce 4 oz, což u omáčky s ústřicemi a jejich šťávou odpovídá.",
+  "source": {
+    "book": "navy-1944",
+    "page": 95,
+    "titleOriginal": "OYSTERS CREOLE"
+  },
+  "verified": false
+}

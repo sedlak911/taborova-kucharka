@@ -1,0 +1,85 @@
+{
+  "id": "bramborova-polevka-smetanova",
+  "title": "Bramborová polévka (z čerstvých brambor)",
+  "titleOriginal": "Cream of Potato Soup (Fresh White Potatoes)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 570,
+      "unit": "ml",
+      "note": "zdroj: kuřecí vývar z bujónu podle návodu na obalu",
+      "original": {
+        "ingredientId": "kureci-vyvar",
+        "amount": 570,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 450,
+      "unit": "g",
+      "note": "čerstvé, oloupané, nakrájené na kostky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 330,
+      "unit": "ml",
+      "note": "sušené mléko 25 g + voda ze zdroje, 328 ml",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "petrzel-susena",
+      "amount": 0.69,
+      "unit": "g",
+      "note": "vločkovaná"
+    }
+  ],
+  "steps": [
+    { "text": "Připrav vývar podle návodu na obalu.", "minutes": 2 },
+    { "text": "Vývar, brambory, cibuli a pepř dej do hrnce nebo kotlíku. Přiveď k varu.", "minutes": 8 },
+    { "text": "Sniž teplotu, přikryj a vař asi 1 hodinu, dokud brambory nezměknou a nerozpadnou se. Občas zamíchej.", "minutes": 60 },
+    { "text": "Vmíchej mléko a petrželku a vař dalších 5 minut.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj vaří na kuřecím vývaru z bujónu; použit zeleninový vývar, takže polévka je bez masa. Sušené odtučněné mléko rozmíchané se zdrojovou vodou (604,8 g sušeného mléka + 7 598 g vody na 100 porcí → 328 ml na 4 porce) je nahrazeno polotučným mlékem. Název „smetanová“ pochází z originálu „Cream of“; recept neobsahuje smetanu, jen mléko. Celkem je asi 900 ml tekutin, tj. asi 225 ml na porci plus brambory. Doporučení: pro hustší polévku přidej více brambor, pro řidší více vývaru.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1426,
+    "code": "P 015 01",
+    "titleOriginal": "CREAM OF POTATO SOUP (FRESH WHITE POTATOES)"
+  },
+  "verified": true,
+  "quote": "Simmer 1 hour or until potatoes are mushy, stirring occasionally."
+}

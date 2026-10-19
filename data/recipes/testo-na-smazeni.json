@@ -1,0 +1,98 @@
+{
+  "id": "testo-na-smazeni",
+  "title": "Těsto na smažení",
+  "titleOriginal": "Paste for Frying (Pastella per fritto)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "3 čajové lžičky (1 polévková lžíce)"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 10,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "2 čajové lžičky"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto",
+      "note": "špetka soli"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Ochucení",
+      "note": "špetka na mozek nebo brzlík po opaření"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Smažení",
+      "scaling": "vessel",
+      "note": "na smažení, asi 2 cm v pánvi; většina zůstane"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mozek nebo brzlík nejdřív opař ve vroucí osolené vodě; po vyjmutí osol a opepři a nakrájej na nepravidelné kousky.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím ve misce rozmíchej mouku s olejem, až vznikne hladký krém.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Přidej vejce a špetku soli a dobře prošlehej.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi zahřej olej, až je dostatečně horký na smažení.",
+      "minutes": 2
+    },
+    {
+      "text": "Kousky obal v těstě a smaž v horkém oleji z obou stran dozlatova.",
+      "minutes": 6
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Gentile uvádí jen množství v lžičkách a neuvádí počet porcí; těsto je dávka na asi 400 g mozku nebo brzlíku (100 g na porci). Mouka 3 čajové lžičky (1 polévková lžíce ≈ 8 g) a olej 2 čajové lžičky (10 ml) jsou ze zdroje; vejce 2 a špetky soli a pepře jsou ze zdroje. Smažení v oleji nebo sádle zdroj jen zmiňuje: 300 ml je odhad (olej v pánvi). Doba opaření mozku 10 minut je odhad z běžné praxe. Mozek a brzlík nejsou v seznamu surovin, protože jsou volbou; makra jsou jen těsta a oleje. Zdroj těsto podává jako obal pro vnitřnosti (mozek, brzlík). Sůl je v řádku jen špetka (asi 0,3 g), protože zdroj do těsta soli dává jen špetku; sůl do vody na opaření mozku je mimo recept (nálev se nepočítá), proto má být nízká hodnota na porci záměrná.",
+  "source": {
+    "book": "italian-1919",
+    "page": 54,
+    "titleOriginal": "PASTE FOR FRYING (Pastella per fritto)"
+  },
+  "verified": false,
+  "quote": "This mixture will take on the aspect of a smooth cream and is used to glaze fried brains, sweetbreads and the like."
+}

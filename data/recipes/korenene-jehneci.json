@@ -1,0 +1,39 @@
+{
+  "id": "korenene-jehneci",
+  "title": "Kořeněné jehněčí",
+  "titleOriginal": "Savory Lamb",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 125,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 820, "unit": "g", "note": "s kostí; zdroj: bone-in 45 lb (alternativa boneless 31 lb), čistá hmotnost v katalogu přes ediblePortion" },
+    { "ingredientId": "spek", "amount": 180, "unit": "g", "note": "slanina, osmaží se; zdroj: Bacon, dried 10 lb; tuk z ní slouží na opečení masa" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g", "note": "na obalení masa; zahušťuje šťávu" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g", "note": "do mouky na obalení" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g", "note": "do mouky na obalení" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "citron", "amount": 35, "unit": "g", "note": "šťáva a nakrájená kůra; zdroj: 9 citronů na 100 porcí, hmotnost odhad ~100 g na citron" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 160 °C." },
+    { "text": "Jehněčí nakrájej na větší kostky.", "minutes": 10 },
+    { "text": "Na pánvi osmaž slaninu do světle hněda, nesmí být křupavá.", "minutes": 8 },
+    { "text": "V misce smíchej mouku se solí a pepřem.", "minutes": 2 },
+    { "text": "Kostky jehněčího obal v mouce a opékej je na pánvi se slaninou a jejím tukem dozlatova.", "minutes": 10 },
+    { "text": "Přidej nakrájenou cibuli, citronovou šťávu a citronovou kůru nakrájenou na proužky.", "minutes": 3 },
+    { "text": "Přendej do pekáče nebo pokrývaného hrnce, přikryj a peč v troubě asi 1,5 hodiny, dokud maso nezměkne. Občas zamíchej.", "minutes": 90 },
+    { "text": "Podávej." }
+  ],
+  "modernNote": "Maso: zdroj nabízí bone-in 45 lb nebo boneless 31 lb (≈ 820 g s kostí na 4 porce); použito bone-in, katalog jehněčí má variantu s kostí (ediblePortion 0,77). Tuk: zdroj samostatný tuk nemá, na opékání používá slaninu a její tuk; slanina je proto jediný tukový zdroj a řádek `fat` jsem nepřidal, aby se tuk nezdvojil. Slanina zůstává v jídle, zdroj neuvádí její vyjmutí. Tekutina: jediná kapalina ve zdroji je citronová šťáva (9 citronů na 100 porcí, odhad 100 g na citron). Dušení bez přidané vody může při dlouhém vaření přeschnout; podle potřeby přilij trochu vody nebo vývaru (zdroj tuto možnost neuvádí). Sůl: 4 oz na 100 porcí dává přes třídu seasoning 7 g soli na 4 porce, což je hodně; doporučení je solit podle chuti a ubrat přibližně polovinu. Zdroj nechává maso dusit v parním kotli (steam-jacketed kettle) nebo v pomalé troubě na 325 °F (160 °C); zde je zvolena trouba (slanina a opečení masa se dělají na pánvi), tag kotlík proto odebrán, protože parní kotel není kotlík nad ohněm. Porce zdroje ~6 oz (170 g) hotového masa.",
+  "source": {
+    "book": "navy-1944",
+    "page": 136,
+    "titleOriginal": "SAVORY LAMB"
+  },
+  "verified": false
+}

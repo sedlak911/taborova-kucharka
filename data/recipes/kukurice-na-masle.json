@@ -1,0 +1,64 @@
+{
+  "id": "kukurice-na-masle",
+  "title": "Kukuřice na másle",
+  "titleOriginal": "Buttered Corn",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 600,
+      "unit": "g",
+      "note": "smetanová (cream style), celá včetně nálevu, neodkapávat"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Zahřej kukuřici do varu.", "minutes": 5 },
+    { "text": "Vmíchej máslo, cukr, sůl a pepř.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí. Kukuřice je krémová (cream style) z konzervy, 33 lb 2 oz (5 No. 10 konzerv, asi 4 gal) včetně nálevu, proto se neodkapává (zdroj odkapání předepisuje jen pro celá zrna). Porce ve zdroji je 3 až 3½ oz (asi ½ hrnku), přepočet ale dává asi 150 g kukuřice na porci, bilance je tedy přibližně 1,6×: kukuřice je hustá, doporučuji servírovat menší porci kolem 100 g. Máslo ve zdroji je uvedeno jako minimum, lze přidat víc. Sůl má třídu seasoning (dle chuti ubrat), cukr je linear (přísada do přílohy, 4 oz na 100 porcí). Zdroj nespecifikuje druh pepře; použit černý mletý.",
+  "source": {
+    "book": "navy-1944",
+    "page": 271,
+    "titleOriginal": "BUTTERED CORN"
+  },
+  "verified": true,
+  "quote": "Heat corn to boiling temperature."
+}

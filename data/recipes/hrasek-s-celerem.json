@@ -1,0 +1,97 @@
+{
+  "id": "hrasek-s-celerem",
+  "title": "Hrášek s celerem na másle",
+  "titleOriginal": "Buttered Peas and Celery",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hrasek",
+      "amount": 480,
+      "unit": "g",
+      "note": "mražený hrášek, stejná hmotnost jako zdrojový hrášek v konzervách (včetně nálevu); zdroj 26 lb 4 oz = 11 907 g, na 4 porce 476 g → 480 g",
+      "original": {
+        "ingredientId": "hrasek-v-konzerve",
+        "amount": 480,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 210,
+      "unit": "g",
+      "note": "jedlá hmotnost; zdroj 13 lb celeru A.P. = 5 897 g, na 4 porce 236 g nákupní × jedlá část 0,89 (katalog) = 210 g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření celeru, slije se; nahrazuje nálev z hrášku a vodu „to cover“; domácí hodnota 1 l na 210 g celeru",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj 1 lb = 18,1 g na 4 porce (minimum podle zdroje)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "zdroj 1 oz (2 tbsp) na 100 porcí = 1,84 g na 4 porce, přidává se do hotového pokrmu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hrášek zahřej v hrnci, sceď a nálev odlož.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím celer omyj, odřízni kořínky a nakrájej na kostičky.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Do odloženého nálevu přidej vodu, aby celer zakryla, a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej celer a vař asi 15 minut, dokud nezměkne.",
+      "minutes": 15
+    },
+    {
+      "text": "Dobře sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej hrášek, rozpuštěné máslo a sůl a krátce prohřej.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 4 až 5 oz (approx. ⅔ cup), hrášek 26 lb 4 oz ve 4 No. 10 konzervách (3¼ gal, včetně nálevu), celer diced 13 lb (3¼ gal), voda „to cover“, máslo 1 lb rozpuštěné (minimum), sůl 1 oz (2 tbsp). Hrášek je modernizován na mražený ve stejné hmotnosti; nálev z konzervy se nahrazuje vodou a slévá se s vodou na vaření celeru (domácí 1 l na 210 g celeru, bez soli, sůl jde až do pokrmu). Celer se do kostek nakrájí při přípravě (zdroj uvádí „diced“ již v surovinách). Varianta Creamed Peas and Celery (1½ gal Cream Sauce, p. 173 = PDF 181) není součástí tohoto receptu; zdroj k ní uvádí, že se nálev z hrášku a celeru použije jako základ omáčky. Bilance: 178 g pokrmu na porci proti 113–142 g (4–5 oz) ve zdroji, poměr 1,25–1,57, v toleranci 1,6×; rozdíl je dán mraženým hráškem místo hrášku z konzervy, jehož hmotnost zdroj počítá i s nálevem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 284,
+    "titleOriginal": "BUTTERED PEAS AND CELERY"
+  },
+  "verified": true
+}

@@ -1,0 +1,38 @@
+{
+  "id": "holubi-duseni-v-sosu",
+  "title": "Dušení holubi",
+  "titleOriginal": "Stewed Squabs (Piccioni in umido)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "kureci-stehna", "amount": 600, "unit": "g", "note": "4 × 150 g, s kostmi; náhrada za holoubata, která dnes nejsou běžně k dostání" },
+    { "ingredientId": "sunka", "amount": 60, "unit": "g", "note": "tenké plátky s libovým masem i tukem; podkládá maso na dno hrnce" },
+    { "ingredientId": "salvej", "amount": 1, "unit": "g", "note": "sušená; zdroj uvádí celé lístky (asi 4 listy čerstvé šalvěje)" },
+    { "ingredientId": "olivovy-olej", "amount": 15, "unit": "g", "note": "asi 1 lžíce" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "kousek másla; zdroj množství neuvádí" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "podle chuti; šunka a vývar už obsahují sůl" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "hovezi-vyvar", "amount": 250, "unit": "ml", "note": "dobrý masový vývar z čerstvého masa" },
+    { "ingredientId": "citron", "amount": 80, "unit": "g", "note": "1 citron, vymačkat jen šťávu" },
+    { "ingredientId": "chleb-bily", "amount": 60, "unit": "g", "note": "2 krajíce na opečené kostičky nebo kosočtverce" }
+  ],
+  "steps": [
+    { "text": "Kuřecí stehna ozdob celými lístky šalvěje a polož je do hrnce na lože z plátků šunky.", "minutes": 5 },
+    { "text": "Pokrop solí (opatrně, šunka a vývar už sůl obsahují), pepřem a olivovým olejem.", "minutes": 2 },
+    { "text": "Hrnec postav na plotnu a opékej, dokud maso nezačne zhnědnout.", "minutes": 8 },
+    { "text": "Přidej kousek másla a zalij dobrým masovým vývarem.", "minutes": 2 },
+    { "text": "Duš pod pokličkou, dokud maso nezměkne, asi 40 minut.", "minutes": 40 },
+    { "text": "Mezitím opeč chléb na kostičky nebo kosočtverce.", "minutes": 5, "parallel": true },
+    { "text": "Před sejmutím z ohně vymačkej citron nad masem.", "minutes": 1 },
+    { "text": "Podávej ozdobené opečeným chlebem." }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani počet porcí; odhad pro 4 porce z běžné praxe: kuřecí stehna 600 g s kostmi (150 g na porci), 60 g šunky, 20 g másla, 15 g olivového oleje, 250 ml masového vývaru, 1 citron (asi 80 g šťávy), 2 krajíce chleba na ozdobu, sůl a pepř podle chuti. Holoubata (piccioni) nejsou běžně k dostání, proto použita kuřecí stehna; při použití holoubat počítej asi 2 kusy (asi 350–400 g každé) na 4 porce a dušení zkrať na 25–30 minut. Holoubě není v katalogu, proto není v original. Zdroj neuvádí dobu dušení; 40 minut je odhad pro stehna s kostmi. Sůl zdroj výslovně krotí kvůli šunce a vývaru. Chléb a citron jsou ozdoba podle zdroje. Šalvěj je sušená, čerstvé lístky (asi 4) lze použít.",
+  "source": { "book": "italian-1919", "page": 43, "titleOriginal": "STEWED SQUABS (Piccioni in umido)" },
+  "verified": false,
+  "quote": "Take care not to add too much salt on account of the ham and the broth both containing salt."
+}

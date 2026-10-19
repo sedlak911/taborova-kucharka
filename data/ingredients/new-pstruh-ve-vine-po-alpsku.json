@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pstruh",
+    "name": "Pstruh",
+    "aliases": [
+      "pstruh celý",
+      "pstruh potoční",
+      "pstruh celý s odpadem",
+      "trout",
+      "brook trout"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 110,
+      "protein": 21.23,
+      "carbs": 0,
+      "fat": 2.73,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.47,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175181 (Fish, trout, brook, raw, New York State)",
+      "units": "bez převodu na kusy; množství v g celé ryby (s odpadem)",
+      "refuse": "USDA fdc:175181 odpad 53 % (kůže, hlava, vnitřnosti, kosti)"
+    }
+  }
+]

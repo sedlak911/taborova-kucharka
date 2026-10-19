@@ -1,0 +1,32 @@
+{
+  "id": "dusene-jehneci-kotlety",
+  "title": "Dušené jehněčí kotlety",
+  "titleOriginal": "Braised Lamb Chops",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["plotna", "trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 1180, "unit": "g", "note": "s kostí, nákupní hmotnost; kosti odečte ediblePortion" },
+    { "ingredientId": "sul", "amount": 15, "unit": "g", "note": "na opečení" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 2, "unit": "g", "note": "na opečení" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C." },
+    { "text": "Jehněčí nakrájej na kotlety silné asi 1,3 cm.", "minutes": 5 },
+    { "text": "Kotlety opékej na rozpálené pánvi nebo grilu z obou stran dohněda a posyp solí a pepřem.", "minutes": 10 },
+    { "text": "Kotlety postav na kraj do pekáčů a pevně přikryj.", "minutes": 2 },
+    { "text": "Duš v troubě asi 30 minut.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj uvádí jen maso, sůl a pepř. Tuk na opečení ani tekutinu na dno zdroj neuvádí, proto je do receptu nepřidávám (jehněčí má vlastní tuk; na pánev lze dát lžičku oleje). Porce zdroje jsou 2 kotlety po 4 oz (asi 230 g masa po odpadu), 4 porce tedy 8 kotlet; jehněčí je s kostí v nákupní hmotnosti a odpad řeší ediblePortion. Sůl 8 oz na 100 porcí dává přes třídu seasoning asi 3,7 g na porci: doporučuji ubrat a dochutit až na talíři. Varianta z poznámky: kotlety nechat před opékáním asi 2 hodiny marinovat ve French dressingu s nadrobno nakrájenou cibulí (pripravit-predem nedávám, marinování není v základním postupu). Varianty s omáčkou (cream gravy, barbecue) nejsou v tomto receptu. Zdroj uvádí i pečení v horké troubě na 230 °C místo opékání na pánvi; zde zůstává pánev.",
+  "source": {
+    "book": "navy-1944",
+    "page": 136,
+    "titleOriginal": "BRAISED LAMB CHOPS"
+  },
+  "verified": true
+}

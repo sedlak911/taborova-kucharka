@@ -1,0 +1,45 @@
+{
+  "id": "duseny-uhor",
+  "title": "Dušený úhoř",
+  "titleOriginal": "Stewed Eel (Anguille in umido)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "ryby"],
+  "ingredients": [
+    { "ingredientId": "losos", "amount": 500, "unit": "g", "group": "Ryba", "note": "tučná ryba místo úhoře; filet bez kůže, nakrájený na kousky", "original": { "ingredientId": "uhor", "amount": 600, "unit": "g" } },
+    { "ingredientId": "cibule", "amount": 100, "unit": "g", "group": "Ryba", "note": "1 střední, nasekaná nadrobno" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Ryba", "note": "nasekaná nadrobno" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "group": "Ryba", "note": "2 lžíce" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Ryba", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Ryba", "note": "podle chuti" },
+    { "ingredientId": "rajce", "amount": 400, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "čerstvá, nakrájená na kousky; nebo konzervovaná" },
+    { "ingredientId": "cibule", "amount": 25, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "čtvrtina cibule" },
+    { "ingredientId": "cesnek", "amount": 3, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "1 stroužek" },
+    { "ingredientId": "celer-rapikaty", "amount": 15, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "kousek řapíku dlouhý jako prst" },
+    { "ingredientId": "bobkovy-list", "amount": 1, "unit": "ks", "group": "Rajčatová omáčka (č. 12)" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "nasekaná" },
+    { "ingredientId": "chleb-bily", "amount": 120, "unit": "g", "group": "Podávání", "note": "4 plátky, opečené na kosočtverce" }
+  ],
+  "steps": [
+    { "text": "Rajčata nakrájej na kousky a dej na střední oheň s nadrobno nasekanou cibulí, česnekem, celerem, bobkovým listem, petrželí a solí.", "minutes": 10 },
+    { "text": "Omáčku za občasného míchání vař, dokud šťáva nezhoustne do tenkého krému, a pak ji přeceď přes sítko.", "minutes": 20 },
+    { "text": "Mezitím nakrájej rybu na kousky a nasekej nadrobno cibuli s petrželí.", "minutes": 5, "parallel": true },
+    { "text": "Na rozehřátém olivovém oleji osmaž cibuli s petrželí dozlatova, osol a opepři.", "minutes": 6 },
+    { "text": "Přidej kousky ryby a nech je několik minut nasát chuť cibulové omáčky.", "minutes": 5 },
+    { "text": "Zalij rybu přeceděnou rajčatovou omáčkou a duš pod pokličkou, dokud ryba nezměkne.", "minutes": 20 },
+    { "text": "Mezitím opeč chléb nakrájený na kosočtverce na suché pánvi dozlatova.", "minutes": 5, "parallel": true },
+    { "text": "Podávej horkou, s opečenými kosočtverci chleba." }
+  ],
+  "modernNote": "Gentile (č. 118 na s. 88) nedává množství ani porce: úhoř bez stahování nakrájený na kousky, cibule s petrželí na oleji, dokončení rajčatovou omáčkou č. 12, podává se s kosočtverci toastu, mělo by být hodně šťávy. Úhoř se u nás těžko shání, proto je v řádku tučný losos (podobná textura při dušení) a úhoř je v `original` (asi 600 g celého úhoře, tedy asi 540 g jedlé části při ediblePortion 0,9, což odpovídá asi 500 g lososa; název podle knihy ponechán, v receptu je losos). Odhady pro 4 porce z běžné praxe: losos 500 g (125 g na porci), cibule 100 g a petrželka 10 g, olivový olej 30 ml (2 lžíce), sůl 4 g a pepř 1 g podle chuti. Omáčka č. 12 je v poloviční velikosti proti samostatnému receptu (ten má 7–8 rajčat, čtvrtinu cibule, stroužek česneku, kousek celeru, několik bobkových listů): 400 g rajčat, 25 g cibule, 3 g česneku, 15 g celeru, 1 bobkový list a 5 g petrželky; konzervovaná rajčata jsou přijatelná. Chléb 120 g (4 plátky). Doba dušení zdroj neuvádí, čas 65 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 92,
+    "titleOriginal": "STEWED EEL (Anguille in umido)"
+  },
+  "verified": false,
+  "quote": "For this dish it is preferable to have good sized eels that must not be skinned, but cut in small pieces."
+}

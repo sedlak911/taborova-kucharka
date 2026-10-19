@@ -1,0 +1,136 @@
+{
+  "id": "teleci-platky-po-janovsku",
+  "title": "Dušené telecí plátky po janovsku",
+  "titleOriginal": "Veal Cutlets Stewed (Scaloppine alia Genovese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 520,
+      "unit": "g",
+      "note": "libové telecí maso bez kostí; zdroj „a pound or a little more“ (1 lb = 454 g), pro 4 porce 130 g na porci"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "asi čtvrtina střední cibule, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "zdroj „with oil“; případně řepkový"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek na osmažení cibule a trochu na dochucení plátků; zdroj „a little piece of butter“ a „season with salt and butter“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti; zdroj „season with salt“"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 4,
+      "unit": "g",
+      "note": "zdroj „a teaspoonful of flour“ (1 čajová lžička ≈ 3 g) pro 1 lb masa, pro 4 porce asi 4 g"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "nasekaná hrst; zdroj „a hash of parsley“"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 4,
+      "unit": "g",
+      "note": "zdroj „half a clove of garlic“ na 1 lb masa; pro 4 porce 1 malý stroužek"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj „a little tomato sauce“; odhad asi 2 lžíce protlaku, naředit horkou vodou"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "horká, přilévaná podle potřeby; zdroj „hot water“"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 40,
+      "unit": "g",
+      "group": "Podání",
+      "note": "2 krajíce na kosočtverečky opečené jako toast; zdroj „little diamonds of toast“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Telecí maso nakrájej na plátky.",
+      "minutes": 8
+    },
+    {
+      "text": "Cibuli nasekej nadrobno a dej ji do hrnce s olejem a kouskem másla.",
+      "minutes": 3
+    },
+    {
+      "text": "Plátky vrstvi na sebe, posol je a dochuť kouskem másla. Dej hrnec na oheň.",
+      "minutes": 3
+    },
+    {
+      "text": "Opékej, dokud spodní vrstva plátků nezhnědne.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej hladkou mouku, nasekanou petržel a česnek.",
+      "minutes": 2
+    },
+    {
+      "text": "Plátky od sebe oddělej, promíchej je, aby nasákly omáčku.",
+      "minutes": 3
+    },
+    {
+      "text": "Zalij horkou vodou a přidej rajčatový protlak naředěný trochou vody.",
+      "minutes": 2
+    },
+    {
+      "text": "Na mírném ohni pomalu duš, dokud maso nezměkne a omáčka nezhoustne.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím opeč chléb a nakrájej ho na kosočtverečky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Podávej horké, s bohatou omáčkou a kosočtverečky toastu."
+    }
+  ],
+  "modernNote": "Zdroj uvádí „a pound or a little more“ masa (1 lb = 454 g) bez počtu porcí; zvoleno 520 g libového telecího masa, tedy 130 g na porci. Odhady z běžné praxe pro 4 porce: cibule 50 g (asi čtvrtina střední), olej 1 lžíce, máslo 20 g (zdroj ho uvádí dvakrát), sůl 5 g, mouka 4 g (zdroj „teaspoonful“ ≈ 3 g na 1 lb), petržel 10 g, česnek 1 malý stroužek, protlak 30 g a voda 200 ml, obojí podle chuti a konzistence omáčky. Toast 40 g je podání podle zdroje. Zdroj neuvádí čas dušení; 25 minut je odhad pro tenké plátky na mírném ohni. Zdroj neuvádí pepř, proto ho recept nemá.",
+  "source": {
+    "book": "italian-1919",
+    "page": 62,
+    "titleOriginal": "VEAL CUTLETS STEWED (Scaloppine alia Genovese)"
+  },
+  "verified": false,
+  "quote": "Cut some lean veal meat into slices and, supposing it be a pound or a little more, without bones"
+}

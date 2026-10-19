@@ -1,0 +1,132 @@
+{
+  "id": "filet-s-marsalou",
+  "title": "Hovězí filet s marsalou",
+  "titleOriginal": "Tenderloin with Marsala (Filetto al marsala)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "siricitany"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-filet",
+      "amount": 600,
+      "unit": "g",
+      "group": "Filet",
+      "note": "srolovaný a svázaný; zdroj „about two pounds“ (≈ 907 g) pro celek, přepočteno na 4 porce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Filet",
+      "note": "mírně, zdroj „seasoning but moderately“"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Filet",
+      "note": "mírně"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 střední, na tenké plátky"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "tenké plátky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "kousek másla"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "zdroj „a pinch of flour“, asi 3 g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "nebo voda; zdroj „some soup stock or water“, množství odhad"
+    },
+    {
+      "ingredientId": "marsala",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "suché; zdroj půl malé sklenice (≈ 75 ml) pro celek, přepočteno na 4 porce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Filet svaž do tvaru válce a lehce osol a opepři.",
+      "minutes": 5
+    },
+    {
+      "text": "Cibuli nakrájej na tenké plátky.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej máslo, přidej šunku a cibuli a vlož filet.",
+      "minutes": 3
+    },
+    {
+      "text": "Filet opékej ze všech stran, dokud nezhnědne a cibule se nerozpadne.",
+      "minutes": 15
+    },
+    {
+      "text": "Posyp moukou a nech ji zhnědnout.",
+      "minutes": 2
+    },
+    {
+      "text": "Zalij vývarem nebo vodou a na mírném ohni duš.",
+      "minutes": 15
+    },
+    {
+      "text": "Filet vyjmi, omáčku protlač sítkem a odstraň z ní tuk.",
+      "minutes": 5
+    },
+    {
+      "text": "Omáčku vrať na plotnu, přilij marsalu a nech ji krátce povařit.",
+      "minutes": 5
+    },
+    {
+      "text": "Filet nakrájej na plátky, polož na talíř a polij omáčkou.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí celý kus filetu „about two pounds“ (≈ 907 g), který by stačil asi na šest porcí; zde 600 g (asi 150 g na porci, podle doporučení pro hovězí maso). Vína: zdroj uvádí půl malé sklenice (≈ 75 ml) pro celek, přepočteno na 4 porce na 50 ml. Odhady z běžné praxe (zdroj uvádí jen „kousek“, „trochu“, „some“): máslo 20 g, šunka 50 g, 1 střední cibule ≈ 100 g, vývar 200 ml, sůl 4 g a pepř 0,5 g. Zdroj neuvádí dobu opékání ani dušení; časy jsou odhad (filet se peče ze všech stran a pak krátce dusí). Výklad: „the gravy“ se protlačí sítkem a filet se z pánve vyjme; zdroj to výslovně nepíše. Drahý řez: pro levnější variantu lze použít hovězí zadní. Zdroj také uvádí variantu: filet naspikovat proužky slaniny a dusit jen na másle a marsale. Hodnoty jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 69,
+    "titleOriginal": "TENDERLOIN WITH MARSALA (Filetto al marsala)"
+  },
+  "verified": false,
+  "quote": "Roll a piece of the tenderloin, tie it and, if it is about two pounds, put it on the fire with a middle-sized onion cut in thin slices."
+}

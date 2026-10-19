@@ -1,0 +1,39 @@
+{
+  "id": "veprove-klobasove-placky",
+  "title": "Vepřové placky z klobásové směsi",
+  "titleOriginal": "Griddle-Broiled Pork Sausage Patties",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-klobasa-syrova",
+      "amount": 635,
+      "unit": "g",
+      "note": "klobásová směs bez střívka"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej pánev nebo gril na střední žár. Dbej, aby tuk nekouřil.", "minutes": 3 },
+    { "text": "Tvaruj masovou směs do placek stejné velikosti.", "minutes": 5 },
+    { "text": "Smaž placky asi 15 minut, dokud nejsou zhnědlé a uvnitř propečené; v půli doby je otoč, aby se propekly rovnoměrně.", "minutes": 15 },
+    { "text": "Podávej hned, jak jsou hotové." }
+  ],
+  "modernNote": "Zdroj počítá 35 liber surové klobásové směsi na 100 porcí (2 placky na porci, 3 až 3½ oz každá). Na 4 porce vychází 635 g, tedy 4 porce po dvou plackách (asi 80 g na placku). Směs už koření obsahuje, takže bez přidané soli a koření. Zdroj nepředepisuje žádný tuk a žádný se nepřidává; tuk se uvolní z masa. Bilance: zdroj má na porci reálně 159 g surové směsi, 2 placky nominálně 170 až 200 g; rozdíl je úbytek tuku při smažení. Alternativa z knihy: pečené placky v zapékací míse při 160 až 175 °C 25 až 30 minut. K plackám zdroj doporučuje krémovou omáčku (Cream Gravy, s. 177), v receptu není, dá se přidat podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 155,
+    "titleOriginal": "GRIDDLE-BROILED PORK SAUSAGE PATTIES"
+  },
+  "verified": true,
+  "quote": "Shape sausage meat into 3 to 3½-ounce patties."
+}

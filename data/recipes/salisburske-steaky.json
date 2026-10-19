@@ -1,0 +1,98 @@
+{
+  "id": "salisburske-steaky",
+  "title": "Salisburské steaky",
+  "titleOriginal": "Griddle-Broiled Salisbury Steaks",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 560,
+      "unit": "g",
+      "note": "bez kostí, semletý"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 125,
+      "unit": "g",
+      "note": "měkké čerstvé drobky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 110,
+      "unit": "g",
+      "note": "nastrouhaná nebo nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 115,
+      "unit": "ml",
+      "note": "nebo voda"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pánve (modernizace, ve zdroji není)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej hovězí na malé kousky a semel je. Nastrouhej cibuli.",
+      "minutes": 10
+    },
+    {
+      "text": "Lehce, ale důkladně smíchej všechny suroviny.",
+      "minutes": 3
+    },
+    {
+      "text": "Vytvaruj placky tloušťky asi 2,5 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "Pánev rozehřej a lehce ji vymaž tukem.",
+      "minutes": 3
+    },
+    {
+      "text": "Opékej na rozehřáté pánvi asi 12 minut, dokud maso není propečené podle chuti. Otoč je, aby se propekly rovnoměrně.",
+      "minutes": 12
+    },
+    {
+      "text": "Podávej ihned."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce jsou 2 placky po 3½ oz. Měkké drobky (soft bread crumbs, 7 lb = 3½ gal) jsou čerstvý bílý chléb, ne suchá strouhanka. Hovězí použito bez kostí (boneless 31 lb; varianta bone-in 45 lb je ve zdroji alternativou). Kapalina: zdroj píše „Beef Stock (s. 216), water“ nebo mléko 2¾ qt; vybrán vývar 0,75 gal, vodu nebo mléko lze použít. Barbecue omáčka nebo kečup mohou nahradit část kapaliny (Note 1 zdroje). Hnědá omáčka (s. 177) je ve zdroji jen volitelná, do receptu nepřidána. Tuk na pánev (1 lžička) je modernizace, ve zdroji není. Placky po 3–3½ oz jsou kolem 200 g na porci; suroviny na porci vycházejí kolem 230 g, rozdíl je ztráta vodou při opékání. Sůl (11 g, na porci 2,75 g) a pepř (0,46 g) jsou přepočtené z 6 oz a ¼ oz podle karty; na porci je sůl nad běžným rozsahem, doporučuji snížit na cca 1,5 g na porci (6 g pro 4 porce).",
+  "source": {
+    "book": "navy-1944",
+    "page": 120,
+    "titleOriginal": "GRIDDLE-BROILED SALISBURY STEAKS"
+  },
+  "verified": true,
+  "quote": "Broil on heated griddle about 12 minutes or until the desired degree of doneness."
+}

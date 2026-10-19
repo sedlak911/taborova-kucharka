@@ -1,0 +1,38 @@
+{
+  "id": "baccala-s-petrzeli",
+  "title": "Solená treska s petrželkou a citronem",
+  "titleOriginal": "CODFISH (Baccalà) II",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["rychle", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "susena-treska", "amount": 400, "unit": "g", "note": "sušená solená, nenamočená hmotnost (asi 100 g na porci); před přípravou namočená" },
+    { "ingredientId": "olivovy-olej", "amount": 40, "unit": "ml", "note": "na opečení; zdroj: „some olive oil“" },
+    { "ingredientId": "cesnek", "amount": 2, "unit": "ks", "note": "stroužky, nasekané nadrobno" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "note": "hrst nasekané petrželky" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "asi 4 malé kousky; zdroj: „little pieces of butter“, množství odhad" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "spetka", "note": "zdroj: „a pinch of pepper“" },
+    { "ingredientId": "citronova-stava", "amount": 30, "unit": "ml", "note": "šťáva z jednoho citronu" }
+  ],
+  "steps": [
+    { "text": "Namoč tresku do studené vody na celý den a několikrát vodu vyměň." },
+    { "text": "Namočenou tresku nakrájej na kusy velké jako dlaň.", "minutes": 8 },
+    { "text": "Česnek a petrželku nasekej nadrobno.", "minutes": 3 },
+    { "text": "Na pánvi zahřej olivový olej a vlož kousky tresky.", "minutes": 3 },
+    { "text": "Rozprostři na ryby česnek s petrželkou, posyp pepřem a polož kousky másla.", "minutes": 2 },
+    { "text": "Opékej na silném ohni a opatrně obracej, aby se ryba nerozpadla.", "minutes": 12 },
+    { "text": "Vymačkej na rybu citron a podávej." }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani porce, proto jsou všechna množství odhad z běžné praxe pro 4 porce: 400 g nenamočené sušené solené tresky (asi 100 g na porci, po namočení asi 200 g; stejně jako u č. 122), 40 ml olivového oleje, 20 g másla (zdroj jen „little pieces of butter“), 2 stroužky česneku a hrst (10 g) petrželky, šťáva z jednoho citronu (30 ml). Ze zdroje pochází pepř (špetka), česnek, petrželka, olej, máslo a citron. Namáčení: zdroj ho odkazuje na recept č. 122 (Baccalà I), tedy studená voda s vyměňováním; doba 24 h je doporučení a jde o čekání, které timeMinutes nezahrnuje. Sůl se nepřidává, ryba je slaná i po namočení (zdroj ji u této varianty nezmiňuje). Mouka se nepoužívá, zdroj výslovně píše, že ryba bez moučného obalu snadno láme. Maso se nevyjímá, celá ryba zůstává v jídle. Kalorie počítají nenamočenou rybu, olej se spotřebuje jen zčásti.",
+  "source": {
+    "book": "italian-1919",
+    "page": 95,
+    "titleOriginal": "CODFISH (Baccalà) II"
+  },
+  "verified": false,
+  "quote": "Cook on a good fire and turn it with care, because, not being sprinkled with flour, it breaks easily."
+}

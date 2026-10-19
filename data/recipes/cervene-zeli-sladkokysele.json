@@ -1,0 +1,85 @@
+{
+  "id": "cervene-zeli-sladkokysele",
+  "title": "Červené zelí sladkokyselé",
+  "titleOriginal": "Red Cabbage with Sweet and Sour Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "cervene-zeli",
+      "amount": 325,
+      "unit": "g",
+      "note": "nasekané na proužky"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 35,
+      "unit": "g",
+      "note": "neloupané, na kostičky"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 40,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 12,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "půl listu; zdroj 7 listů na 100 porcí"
+    }
+  ],
+  "steps": [
+    { "text": "Rozpusť máslo na pánvi.", "minutes": 2 },
+    { "text": "Přidej zelí a jablka a dobře promíchej.", "minutes": 3 },
+    { "text": "Duš na mírném ohni 30 minut, často míchej, aby nepřipálilo.", "minutes": 30 },
+    { "text": "Smíchej ocet, hnědý cukr, sůl, hřebíček a bobkový list.", "minutes": 3 },
+    { "text": "Směs octa rovnoměrně přelij horké zelí s jablky." },
+    { "text": "Nech 2–3 minuty probublat, aby se koření spojilo. Vyjmi bobkový list.", "minutes": 3 }
+  ],
+  "modernNote": "Recept je přepočten z AFRS karty Q 043 00 (100 porcí) na 4 porce bez úprav množství. Zdroj uvádí máslo nebo margarín, zapsáno je máslo. Pokyny CCP (ohřev na 145 °F a držení na 140 °F) vynechány.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1556,
+    "code": "Q 043 00",
+    "titleOriginal": "RED CABBAGE WITH SWEET AND SOUR SAUCE"
+  },
+  "verified": true,
+  "quote": "Cook at low heat 30 minutes, stirring frequently to avoid scorching."
+}

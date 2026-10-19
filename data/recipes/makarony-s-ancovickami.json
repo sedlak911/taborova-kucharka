@@ -1,0 +1,121 @@
+{
+  "id": "makarony-s-ancovickami",
+  "title": "Makarony s ančovičkovou omáčkou",
+  "titleOriginal": "Macaroni with Anchovy Sauce (Maccheroni con salsa d'acciughe)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ancovicky",
+      "amount": 55,
+      "unit": "g",
+      "note": "solené, odkostěné (stejně jako v samostatné ančovičkové omáčce); zdroj: 5–6 celých solených ančoviček",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 55,
+      "unit": "ml",
+      "note": "„generous quantity“, odhad",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.9,
+      "unit": "g",
+      "note": "trochu, podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "2 polévkové lžíce",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 40,
+      "unit": "g",
+      "note": "místo koncentrované rajčatové šťávy z konzervy",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 400,
+      "unit": "g",
+      "note": "makarony nebo špagety, suché",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 4000,
+      "unit": "ml",
+      "note": "na vaření těstovin, slije se (domácí hodnota 1 l na 100 g)",
+      "group": "Těstoviny",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "do vody na vaření, jen lehce; slije se",
+      "group": "Těstoviny",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu vodu a lehce ji osol.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím ančovičky opláchni v hodně vody, odstraň hlavy, vnitřnosti a páteř. Krátce je spař ve vroucí vodě, sundej kůži, odkostěj a nasekej.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Do vroucí vody vhoď těstoviny a za častého míchání vař 10 až 12 minut, dokud nejsou měkké. Dobře sceď.",
+      "minutes": 12
+    },
+    {
+      "text": "Zatímco se těstoviny vaří, dej nasekané ančovičky na mírný oheň s olivovým olejem a pepřem. Nech je zahřát, ale nevař.",
+      "minutes": 4,
+      "parallel": true
+    },
+    {
+      "text": "Přidej máslo a rajčatový protlak a míchej, dokud omáčka není hladká a horká.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Scezené těstoviny vrať do teplého hrnce, přelij omáčkou a dvěma vidličkami dobře promíchej, aby se omáčka rozprostřela.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej horké, bez sýra."
+    }
+  ],
+  "modernNote": "Recept č. 17 nemá vlastní množství; omáčka je odkazovaná č. 14 (Anchovy Sauce), která je pro přibližně 1 lb (454 g) těstovin. Omáčka je v receptu jako skupina „Omáčka“ a má stejné množství jako samostatný recept Ančovičková omáčka (ančovičky 55 g, olej 55 ml, máslo 25 g, protlak 40 g, pepř 0,9 g), použité pro 400 g těstovin (100 g na porci, rozdíl proti 454 g je asi 12 %). Ančovičky jsou jako ve zdroji solené celé: opláchni je, odstraň hlavy, vnitřnosti a páteř a odkostěj (55 g po odkostění). Rajčatová šťáva ze zdroje (vařené a protlačené konzervované rajče) je nahrazena rajčatovým protlakem. Vodu na vaření (4 l na 400 g) a sůl do ní (2 g na 1 l) počítá tabulka slévané vody; voda se slije. Zdroj sýr nepoužívá, proto není v receptu. Doporučení: olej lze na konec přidat navíc, jak zdroj dovoluje („Some olive oil may be added“). Hmotnost porce v check:recipe je jen asi 143 g, protože 454 g ze zdroje je hmotnost těstovin (1 lb) bez omáčky; porce = 100 g těstovin + asi 43 g omáčky, což odpovídá běžné porci. Tag bez-masa recept nemá, protože ančovičky jsou ryba, i když je validátor v kategorii konzervy nepočítá jako maso.",
+  "source": {
+    "book": "italian-1919",
+    "page": 22,
+    "titleOriginal": "MACARONI WITH ANCHOVY SAUCE (Maccheroni con salsa d'acciughe)"
+  },
+  "verified": false,
+  "quote": "Some olive oil may be added, but grated cheese is not generally used with the anchovy sauce."
+}

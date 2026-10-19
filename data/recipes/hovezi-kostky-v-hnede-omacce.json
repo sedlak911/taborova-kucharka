@@ -1,0 +1,98 @@
+{
+  "id": "hovezi-kostky-v-hnede-omacce",
+  "title": "Hovězí kostky v hnědé omáčce",
+  "titleOriginal": "Diced Beef in Brown Sauce",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "nakrájená nadrobno; ve zdroji volitelná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj hovězí tuk",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 35,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 450,
+      "unit": "ml",
+      "note": "kupovaný hovězí vývar; zdroj Beef Stock (odkaz na s. 216), 3 galony"
+    },
+    {
+      "ingredientId": "hovezi-vareno",
+      "amount": 420,
+      "unit": "g",
+      "note": "vařené hovězí, nakrájené na kostičky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti; ve zdroji „as desired“"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti; ve zdroji „as desired“"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 krajíce, opečené do zlatova"
+    }
+  ],
+  "steps": [
+    { "text": "Opeč chléb do zlatova a dej stranou.", "minutes": 5 },
+    { "text": "Cibuli nakrájej nadrobno.", "minutes": 5 },
+    { "text": "Na tuku osmahni cibuli, dokud nebude průhledná.", "minutes": 5 },
+    { "text": "Vmíchej mouku a za stálého míchání opékej, dokud nezhnědne.", "minutes": 5 },
+    { "text": "Mezitím ohřej vývar k varu.", "minutes": 4, "parallel": true },
+    { "text": "Postupně přilévej horký vývar do jíšky a za stálého míchání vař, dokud směs silně nevře.", "minutes": 5 },
+    { "text": "Sundej z ohně." },
+    { "text": "Přidej nakrájené vařené maso, sůl a pepř a znovu ohřej.", "minutes": 5 },
+    { "text": "Podávej na opečeném chlebu." }
+  ],
+  "modernNote": "Zdroj počítá s vařeným hovězím (23 lb), proto je v receptu vařené hovězí místo syrového. Hnědá omáčka je jíška z tuku a mouky zalévaná vývarem; tuk je ve zdroji hovězí (sadlo v original), v modernizaci máslo. Vývar ze zdroje (Beef Stock, odkaz na s. 216) nahrazen kupovaným hovězím vývarem, jeho množství je úměrné zdroji. Sůl a pepř ve zdroji bez množství („as desired“), odhad 4 g soli a 0,5 g pepře. Hmotnost krajíce chleba (25 g) je odhad. Zdroj nabízí jako alternativu uvařenou rýži (20 lb 8 oz, 4 gal) místo toastu; zde zvolen toast. Cibule je ve zdroji volitelná. Pro hustší omáčku lze přidat trochu vývaru navíc; pro víc omáčky lze mouku a tuk navýšit.",
+  "source": {
+    "book": "navy-1944",
+    "page": 127,
+    "titleOriginal": "DICED BEEF IN BROWN SAUCE"
+  },
+  "verified": false,
+  "quote": "Serve over toast or cooked rice."
+}

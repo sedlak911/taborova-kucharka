@@ -1,0 +1,36 @@
+{
+  "id": "pecena-kachna",
+  "title": "Pečená kachna",
+  "titleOriginal": "Tame Duck Roasted (Anatra domestica arrosto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 130,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "kachna", "amount": 1600, "unit": "g", "note": "celá, s kostmi, vnitřnosti odstraň; asi 136 g masa na porci" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "zevnitř a mírně zvenku" },
+    { "ingredientId": "spek", "amount": 100, "unit": "g", "note": "velké tenké plátky na obalení prsou" },
+    { "ingredientId": "olivovy-olej", "amount": 15, "unit": "ml", "note": "tenká vrstva na kůži, až ke konci pečení" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Kachnu zevnitř osol.", "minutes": 2 },
+    { "text": "Prsa obal velkými tenkými plátky slaniny a přivaž je kuchyňským provázkem.", "minutes": 3 },
+    { "text": "Kachnu polož do pekáče prsy nahoru a peč v troubě, dokud není téměř hotová.", "minutes": 90 },
+    { "text": "Kachnu potři olejem a mírně ji osol.", "minutes": 2 },
+    { "text": "Peč ještě, dokud kůže nezezlátne.", "minutes": 15 },
+    { "text": "Kachnu vyndej z trouby a nech ji chvíli odpočinout.", "minutes": 10 },
+    { "text": "Rozporcuj a podávej.", "minutes": 3 }
+  ],
+  "modernNote": "Gentile (č. 144, s. 104) uvádí pečenou domácí kachnu bez množství, počtu porcí a doby pečení. Odhady z běžné praxe pro 4 porce: kachna 1,6 kg celá s kostmi (asi 136 g masa na porci, shodně s č. 46), slanina 100 g tenkými plátky, olej 15 ml, sůl 5 g. Pepř zdroj neuvádí, nepřidán. Zdroj pečení na rožni nebo v pekáči nespecifikuje, zde je v troubě na 180 °C; doba 90 minut plus dopečení kůže je odhad (1,6 kg kachna, celkem asi 105 minut, podle velikosti ptáka zkontroluj, zda je maso měkké). Odpočinek 10 minut je moderní doplněk. Slanina zůstává na kachně při pečení a může se odstranit před podáváním; makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 108,
+    "titleOriginal": "TAME DUCK ROASTED (Anatra domestica arrosto)"
+  },
+  "verified": false,
+  "quote": "Salt it inside and bandage all the breast with slices of bacon, large and thin."
+}

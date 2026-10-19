@@ -1,0 +1,95 @@
+{
+  "id": "dusene-houby",
+  "title": "Dušené houby s rajčaty",
+  "titleOriginal": "Stewed Mushrooms (Funghi in umido)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "kotlik",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "zampiony",
+      "amount": 600,
+      "unit": "g",
+      "note": "střední velikosti, menší než na smažení; zdroj velikost nekvantifikuje"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "zdroj množství nedává, odhad na dušení"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 6,
+      "unit": "g",
+      "note": "1–2 stroužky (zdroj „one or two cloves“), přibližně 2 stroužky"
+    },
+    {
+      "ingredientId": "mata",
+      "amount": 3,
+      "unit": "g",
+      "note": "několik lístků čerstvé máty"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 200,
+      "unit": "g",
+      "note": "rajčatová omáčka podle č. 12 (zdroj říká „some tomato sauce“); jako omáčka stačí rozmačkaná konzerva nebo čerstvá rajčata"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "šetrně, houby nemají příliš nasáknout"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "šetrně"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Žampiony očisti, stopky seškrab, rychle opláchni (nenech je ve vodě) a nakrájej na větší kusy, pokud jsou velké.",
+      "minutes": 8
+    },
+    {
+      "text": "Na pánvi nad mírným ohněm rozehřej olivový olej, přidej česnek a lístky máty.",
+      "minutes": 3
+    },
+    {
+      "text": "Když olej začne prskat, vlož houby bez obalování v mouce, osol a opepři.",
+      "minutes": 2
+    },
+    {
+      "text": "Když jsou houby napůl hotové, přilij rajčatovou omáčku.",
+      "minutes": 8
+    },
+    {
+      "text": "Duš do měkka za občasného míchání, dokud šťáva nezhoustne.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 98, s. 74) neuvádí žádná množství ani počet porcí. Odhady z běžné praxe pro 4 porce: žampiony 600 g (150 g na porci), olivový olej 2 lžíce, 2 stroužky česneku, několik lístků máty (3 g), sůl 5 g a pepř 1 g (zdroj doporučuje šetřit kořením, aby houby neztratily jemnou chuť), rajčatová omáčka 200 g. Zdroj píše „one or two cloves of oil“; na obrázku stránky je skutečně napsáno „cloves of oil“, čtu to jako stroužky česneku (cloves of garlic), protože olej je v pokynu zvlášť. Rajčatovou omáčku odkazuje č. 12 (Tomato Sauce), kde se používají čerstvá rajčata, cibule, česnek, celer a petrželka; zde je zjednodušeně použita konzerva, kterou kniha sama uvádí jako přípustnou náhradu. Zdroj nedoporučuje moučkování (na rozdíl od smažených hub). Dušení v pánvi trvá zhruba 20 minut od vložení hub.",
+  "source": {
+    "book": "italian-1919",
+    "page": 78,
+    "titleOriginal": "STEWED MUSHROOMS (Funghi in umido)"
+  },
+  "verified": false,
+  "quote": "For a stew the mushrooms ought to be below middle-size."
+}

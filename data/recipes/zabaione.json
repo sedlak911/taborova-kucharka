@@ -1,0 +1,32 @@
+{
+  "id": "zabaione",
+  "title": "Zabaione",
+  "titleOriginal": "Sabayon (Zabaione)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["bez-masa", "sladke", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "zloutek", "amount": 3, "unit": "ks", "note": "žloutky ze tří vajec" },
+    { "ingredientId": "cukr-krystal", "amount": 55, "unit": "g" },
+    { "ingredientId": "marsala", "amount": 75, "unit": "ml", "note": "suché víno Marsala, případně sherry" },
+    { "ingredientId": "skorice-mleta", "amount": 0.33, "unit": "g", "note": "špetka (dash), odhad" }
+  ],
+  "steps": [
+    { "text": "Žloutky s cukrem vyšlehej v hrnci, dokud nebudou téměř bílé.", "minutes": 5 },
+    { "text": "Přilij marsalu a špetku skořice a dobře promíchej.", "minutes": 2 },
+    { "text": "Hrnec postav nad hrnec s horkou vodou a šlehej, dokud se cukr nerozpustí a žloutky nezačnou houstnout.", "minutes": 10 },
+    { "text": "Podávej hned, dokud je horké." }
+  ],
+  "modernNote": "Gentile uvádí 3 žloutky, 2 unce (57 g) cukru, 5 polévkových lžic (75 ml) marsaly nebo sherry a špetku skořice, bez počtu porcí. Zdrojová čísla bereme jako celý recept pro 4 porce, bez zvětšení (3 žloutky jsou zdrojové číslo pro celé jídlo). Cukr 57 g zaokrouhlen na 55 g; špetka skořice 0,33 g je odhad (asi 1/8 lžičky). Šlehání se dělá nad horkou, ne vroucí vodou, aby se žloutky nesrazily. Celkový čas 20 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 150,
+    "titleOriginal": "SABAYON (Zabaione)"
+  },
+  "verified": false,
+  "quote": "First stir with the ladle the yolks and the sugar until they become almost white, then add the wine."
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cokoladovy-sirup",
+  "title": "Čokoládový sirup",
+  "titleOriginal": "Chocolate Sirup",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "kakao",
+      "amount": 35,
+      "unit": "g",
+      "note": "neslazené"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 190,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej v hrnci kakao, cukr a sůl.", "minutes": 2 },
+    { "text": "Postupně vmíchávej vroucí vodu, dokud nevznikne hladká pasta.", "minutes": 3 },
+    { "text": "Přilij zbývající vroucí vodu a krátce povař.", "minutes": 5 },
+    { "text": "Sundej z ohně a vmíchej vanilkový extrakt.", "minutes": 1 }
+  ],
+  "modernNote": "Zdroj je koncentrovaný sirup (kakao, cukr, voda) na 100 porcí; pro 4 porce je přepočet přímo z hmotností zdroje. Zdroj uvádí porci 1½ oz (asi 42 g), ale suroviny po přepočtu dávají asi 71 g na porci, takže výtěžek zdroje (1 gal) neodpovídá surovinám (1¼ gal vody + 5 lb sušin). Recept je proto spíš hustší a objemnější než uvedená porce; do nápoje dávkuj sirup postupně a podle chuti. Zdroj dovoluje nahradit 2 lb kakaa 3 lb čokolády (rozpuštěné); cukr je ve zdroji záměrně vysoký, uber podle chuti. Sirup slouží jako omáčka na zmrzlinu nebo pudink a k přípravě kakaa a čokoládového mléka. Zdroj uvádí, že se sirup několik dní drží v chladu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 28,
+    "titleOriginal": "CHOCOLATE SIRUP"
+  },
+  "verified": true,
+  "quote": "Mix together cocoa, sugar and salt."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "spagety-s-masovou-omackou",
+  "title": "Špagety s masovou omáčkou",
+  "titleOriginal": "Spaghetti with Meat Sauce (Ground Beef)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 290, "unit": "g", "note": "90 % libové, syrové", "group": "Omáčka" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 500, "unit": "g", "note": "krájená, s nálevem", "group": "Omáčka" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 210, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "voda", "amount": 115, "unit": "g", "note": "do omáčky", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "note": "nakrájená", "group": "Omáčka" },
+    { "ingredientId": "cukr-krystal", "amount": 8, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cesnek-prasek", "amount": 3, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "bazalka-susena", "amount": 2, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "tymian-susity", "amount": 0.9, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "oregano", "amount": 2, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "bobkovy-list", "amount": 2.5, "unit": "ks", "group": "Omáčka" },
+    { "ingredientId": "testoviny", "amount": 220, "unit": "g", "note": "špagety, suché", "group": "Špagety" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "na vaření špaget, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Špagety", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "note": "do vody na vaření, slije se", "group": "Špagety", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Maso na pánvi nebo v hrnci opékej za stálého míchání, dokud nezešedne a nerozpadne se. Přebytečný tuk slij nebo sceď.", "minutes": 8 },
+    { "text": "Přidej rajčata, rajčatový protlak, vodu, cibuli, cukr, sůl, česnek, bazalku, tymián, oregano, pepř a bobkové listy. Dobře promíchej.", "minutes": 3 },
+    { "text": "Přiveď k varu, sniž teplotu, přikryj a na mírném ohni vař asi 1 hodinu za častého míchání.", "minutes": 68 },
+    { "text": "Vyndej bobkové listy." },
+    { "text": "Ve velkém hrnci přiveď osolenou vodu k varu. Za stálého míchání do ní postupně vkládej špagety, dokud voda znovu nevře. Vař 10 až 12 minut, dokud nejsou měkké, občas zamíchej. Dobře sceď.", "minutes": 22, "parallel": true }
+  ],
+  "modernNote": "Porce odpovídá 1 šálku omáčky se špagetami ze zdroje. Hovězí je 90% libové, odpovídá katalogu hovezi-mlete-90. Slévaná voda (1 l na 100 g těstovin) a sůl do ní jsou domácí hodnoty místo zdrojových 83⅝ lb vody; špagety se slijí. Zdroj má vysoký sodík (1388 mg na porci), proto solit opatrně a sůl do vody případně vynechat. Kroky s CCP (teploty držení) vynechány. Porce je malá (zdroj 1 šálek omáčky), pro hlavní jídlo počítej 1,5× množství. Doporučení: rajčata v konzervě lze nahradit čerstvými.",
+  "source": { "book": "afrs-2003", "page": 757, "code": "L 038 01", "titleOriginal": "SPAGHETTI WITH MEAT SAUCE (GROUND BEEF)" },
+  "verified": true
+}

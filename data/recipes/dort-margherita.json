@@ -1,0 +1,83 @@
+{
+  "id": "dort-margherita",
+  "title": "Dort Margherita",
+  "titleOriginal": "Margherita Cake (Pasta Margherita)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bramborova-mouka",
+      "amount": 85,
+      "unit": "g",
+      "note": "bramborová mouka (potato meal)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 170,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "žloutky a bílky se oddělí a zpracují zvlášť"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 15,
+      "unit": "ml",
+      "note": "zdroj neuvádí množství; asi šťáva z půl citronu"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "na vymazání formy"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na vysypání formy a na posypání hotového dortu"
+    },
+    {
+      "ingredientId": "vanilkovy-cukr",
+      "amount": 3,
+      "unit": "g",
+      "note": "na posypání hotového dortu"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C a kulatou hladkou formu vymaž máslem a vysyp moučkovým cukrem." },
+    { "text": "Žloutky odděl od bílků.", "minutes": 3 },
+    { "text": "Žloutky vyšlehej s cukrem do hladké pěny.", "minutes": 5 },
+    { "text": "Přidej bramborovou mouku a citronovou šťávu a míchej asi půl hodiny, dokud je těsto hladké.", "minutes": 30 },
+    { "text": "Bílky ušlehej do tuhého sněhu.", "minutes": 5 },
+    { "text": "Bílky opatrně a pomalu vmíchej do těsta.", "minutes": 2 },
+    { "text": "Hmotu nalij do formy a ihned peč, dokud je dort pevný a suchý ve středu.", "minutes": 35 },
+    { "text": "Vychladlý dort vyklop z formy, posyp moučkovým cukrem a vanilkovým cukrem." }
+  ],
+  "modernNote": "Gentile uvádí jen „three ounces“ bramborové mouky (85 g), „six ounces“ cukru (170 g) a „four eggs“ bez porcí a velikosti formy; podle zásady pro domácí dávku je bereme jako 4 porce (menší kulatá forma), bez škálování. Citronová šťáva je bez množství: odhad asi 15 ml (půl citronu). Máslo na vymazání formy (10 g), moučkový cukr (20 g) a vanilkový cukr (3 g) jsou odhady, zdroj uvádí jen „butter“, „powdered sugar“ a „vanilla“. Teplota 180 °C a doba pečení 35 minut nejsou ve zdroji, jde o odhad pro lehký piškot bez kypřidla; zkontroluj špejlí. Čas 80 minut počítá s mícháním a pečení, nezahrnuje vychladnutí dortu. Dort je bez kypřidla, objem dodají vyšlehané bílky.",
+  "source": {
+    "book": "italian-1919",
+    "page": 131,
+    "titleOriginal": "MARGHERITA CAKE (Pasta Margherita)"
+  },
+  "verified": false,
+  "quote": "Put at once in the oven."
+}

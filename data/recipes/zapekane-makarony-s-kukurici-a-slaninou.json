@@ -1,0 +1,160 @@
+{
+  "id": "zapekane-makarony-s-kukurici-a-slaninou",
+  "title": "Zapečené makarony s kukuřicí a slaninou",
+  "titleOriginal": "Macaroni and Corn au Gratin with Bacon",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 190,
+      "unit": "ml",
+      "note": "ze zdroje 1¼ galonu"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „butter or other fat“"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "do bílé omáčky"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 45,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 75,
+      "unit": "g",
+      "note": "suché makarony"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 480,
+      "unit": "g",
+      "note": "smetanová (cream style)"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 110,
+      "unit": "g",
+      "note": "4 plátky slaniny"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 175 °C a vymaž zapékací formy trochou másla."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď osolenou vodu k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vsyp makarony a vař je do měkka.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím ohřej mléko do varu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím smíchej máslo, mouku, sůl, pepř, hořčici a papriku v hladkou pastu.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej pastu do mléka a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 4,
+      "parallel": true
+    },
+    {
+      "text": "Sundej z ohně a vmíchej sýr, dokud se nerozpustí.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Makarony sceď a smíchej je se sýrovou omáčkou a kukuřicí.",
+      "minutes": 5
+    },
+    {
+      "text": "Vylij směs do vymazaných zapékacích forem.",
+      "minutes": 2
+    },
+    {
+      "text": "Zapékej v troubě, dokud se povrch nezačne lehce zlátnout.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím opékej slaninu, dokud nezačne krabatět.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Slaninu polož na makarony a zapékej dále, dokud nezezlátne.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj: Macaroni and Corn au Gratin with Bacon, s. 27 (PDF s. 35; 100 porcí, porce zhruba 8 uncí). Čísla z obrázku stránky. Makarony 4 lb a sýr 2½ lb (čedar) přepočteny na 4 porce (×0,04). Kukuřice 26 lb 4 oz (cream style, 4 No. 10 cans) jako konzervovaná smetanová kukuřice; zdroj uvádí slévání přes sítko, likér ze zdroje se zde nepoužívá. Slaninu 6 lb ×0,04 = 110 g, zhruba 4 plátky. Voda na vaření (4 galony) a sůl do ní (1 oz) jsou nahrazeny domácí hodnotou 1 l na 75 g těstovin (min. 1 000 ml) a 2 g soli na 1 l; obojí se slévá. Sůl do bílé omáčky (4 oz ve zdroji) je přepočtena jako koření, 7 g na 4 porce je hodně: dle chuti uber. Tuk „butter or other fat“ je máslo; sádlo ze zdroje se nepoužívá. Vymazání forem máslem je z původního „greased“ a je počítáno z máslové části. Pečení: zdroj 25 minut při 350 °F (175 °C) rozdělen na 20 minut a 5 minut po přidání slaniny. Doporučení: podávej ihned, dokud je sýr tekutý.",
+  "source": {
+    "book": "navy-1944",
+    "page": 35,
+    "titleOriginal": "MACARONI AND CORN AU GRATIN WITH BACON"
+  },
+  "verified": true,
+  "quote": "Combine macaroni, cheese sauce and corn."
+}

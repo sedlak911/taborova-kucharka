@@ -1,0 +1,68 @@
+{
+  "id": "michana-vejce-se-syrem",
+  "title": "Míchaná vejce se sýrem",
+  "titleOriginal": "Scrambled Eggs (Uova strapazzate)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 8,
+      "unit": "ks",
+      "note": "čerstvá, velká; zdroj počet neuvádí, odhad 2 na porci"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "asi 50 g na rozpuštění (zdroj „kousek velký jako vejce“) a 10 g na dochucení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti, střídmě"
+    },
+    {
+      "ingredientId": "smetana-ke-slehani",
+      "amount": 30,
+      "unit": "ml",
+      "note": "2 lžíce; zdroj „lžíce mléka nebo tekuté smetany“, lze použít mléko"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 20,
+      "unit": "g",
+      "note": "strouhaný, na podávání"
+    }
+  ],
+  "steps": [
+    { "text": "Vejce rozklepej do talíře a nejdřív zkontroluj, že jsou čerstvá.", "minutes": 2 },
+    { "text": "V hrnci rozpusť kousek másla velký asi jako vejce.", "minutes": 3 },
+    { "text": "Vejce vlij do másla a na mírném ohni je vidličkou míchej, dokud nejsou uvařená.", "minutes": 7 },
+    { "text": "Uvařená vejce osol a přidej trochu másla.", "minutes": 1 },
+    { "text": "Těsně před podáváním z ohně vmíchej lžíci smetany nebo mléka.", "minutes": 1 },
+    { "text": "Podávej horké, posyp strouhaným sýrem." }
+  ],
+  "modernNote": "Gentile neuvádí počet vajec ani porce. Odhad pro 4 porce: 8 vajec (2 na porci, 400 g), máslo 60 g (asi 50 g na rozpuštění, zdroj „kousek velký jako vejce“, a 10 g na dochucení), sůl 4 g (střídmě), 30 ml smetany ke šlehání (2 lžíce) a 20 g strouhaného parmezánu („trochu strouhaného sýra“, druh zdroj neurčuje). Ze zdroje vynecháno jako volitelné: špičky chřestu, lanýže a houby. Čas 15 minut je odhad z kroků (asi 14 minut). Vejce míchej na mírném ohni, aby nezhrubla.",
+  "source": {
+    "book": "italian-1919",
+    "page": 127,
+    "titleOriginal": "SCRAMBLED EGGS (Uova strapazzate)"
+  },
+  "verified": false,
+  "quote": "Break the eggs in a plate, assuring first that they are all fresh."
+}

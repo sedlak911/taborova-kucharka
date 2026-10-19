@@ -1,0 +1,59 @@
+{
+  "id": "smazena-cibule",
+  "title": "Smažená cibule",
+  "titleOriginal": "Fried Onions",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 570,
+      "unit": "g",
+      "note": "z nákupní hmotnosti 35 lb (A.P.) × jedlá část 0,9; loupání a krájení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 65,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "nasáklý v cibuli, zůstává v jídle (zdroj „beef drippings, or other fat“, 3 lb 8 oz)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 65,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "3 oz (6 lžic) ze zdroje"
+    }
+  ],
+  "steps": [
+    { "text": "Oloupej cibuli, opláchni ji a nakrájej na plátky silné 6 mm.", "minutes": 8 },
+    { "text": "Rozehřej tuk na pánvi.", "minutes": 3 },
+    { "text": "Přidej cibuli k tuku a posyp ji solí.", "minutes": 1 },
+    { "text": "Smaž za častého míchání dozlatova, aby se cibule nepřipálila.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj: 100 porcí po 4–4½ oz (asi 2/3 hrnku), 35 lb cibule A.P. → jedlá část 0,9 (katalog) = 31,5 lb, na 4 porce 570 g. Tuk ze zdroje (3 lb 8 oz, drippings) je moderně řepkový olej, sádlo jde do original; třída linear podle zadání, protože tuk zůstává v cibuli. Zdroj neuvádí čas smažení, odhad 15 minut na pánvi. Zdroj smaží také v troubě 200 °C (400 °F); tady na plotně. Sůl 3 oz je v tabulce dvakrát (6 lžic = 3 oz), počítána jedna dávka. Recept je odlišný od „Smothered Onions“ (PDF 281) i od dalších variant na téže straně.",
+  "source": {
+    "book": "navy-1944",
+    "page": 280,
+    "titleOriginal": "Fried Onions"
+  },
+  "verified": true,
+  "quote": "Stir frequently to prevent sticking."
+}

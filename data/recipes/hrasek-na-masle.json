@@ -1,0 +1,69 @@
+{
+  "id": "hrasek-na-masle",
+  "title": "Hrášek na másle",
+  "titleOriginal": "Buttered Peas",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hrasek",
+      "amount": 410,
+      "unit": "g",
+      "note": "čerstvý nebo mražený, vyloupaný; zdroj 60 lb hrášku v lusku, jedlá část 0,38"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření hrášku, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj uvádí minimální množství",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Vyluskej hrášek z lusků.", "minutes": 10 },
+    { "text": "Do hrnce nalij vodu, přidej sůl a přiveď k varu.", "minutes": 8 },
+    { "text": "Hrášek vsyp do vroucí vody a vař bez poklopu asi 20 minut, dokud nezměkne.", "minutes": 20 },
+    { "text": "Scedi.", "minutes": 2 },
+    { "text": "Vmíchej cukr a rozpuštěné máslo.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá s čerstvým hráškem v lusku (60 lb na 100 porcí). Přepočet na 4 porce: hrášek v lusku × 0,04 × jedlá část 0,38 (katalog), tedy 410 g vyloupaného hrášku. Místo čerstvého zdroj dovoluje 4 No. 10 konzervy (3¼ gal); ta by se ohřála v části nálevu, v receptu je použit čerstvý nebo mražený hrášek. Voda na vaření a sůl do ní jsou domácí hodnoty (1 l vody, 2 g soli na 1 l) a slévají se; zdrojové množství soli a vody v receptu nepřebíráme. Máslo je ze zdroje minimum, pro chuť můžeš přidat víc. Doporučení: hrášek nevařit příliš dlouho, aby zůstal zelený.",
+  "source": {
+    "book": "navy-1944",
+    "page": 283,
+    "titleOriginal": "BUTTERED PEAS"
+  },
+  "verified": true
+}

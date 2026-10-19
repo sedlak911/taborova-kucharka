@@ -1,0 +1,125 @@
+{
+  "id": "rajcatova-omacka-navy",
+  "title": "Rajčatová omáčka z konzervy",
+  "titleOriginal": "Tomato Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "konzervovaná rajčata i se šťávou"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "note": "kupovaný hovězí vývar (zdroj: Meat Stock, s. 216)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 0.26,
+      "unit": "g",
+      "note": "1 stroužek, nasekaný; odhad hmotnosti 5 g na stroužek"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.25,
+      "unit": "ks"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 0.42,
+      "unit": "g",
+      "note": "celý; po přecezení se vyjme"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.45,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 0.78,
+      "unit": "ml",
+      "note": "kvasný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej rajčata, hovězí vývar a cukr.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej česnek, bobkový list, celý hřebíček, pepř a sůl. Přiveď k varu.",
+      "minutes": 6
+    },
+    {
+      "text": "Mezitím rozmíchej máslo s moukou na hladkou pastu.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej pastu do horké směsi a přidej ocet.",
+      "minutes": 2
+    },
+    {
+      "text": "Vař za stálého míchání, dokud omáčka výrazně nezhoustne.",
+      "minutes": 20
+    },
+    {
+      "text": "Přeceď omáčku přes síto a podávej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj (Navy 1944, tištěná s. 184, PDF 192) je na 100 porcí, výtěžek cca 2 galony, porce cca 1/3 šálku. Rajčata jsou 2 konzervy No. 10 (12 lb 12 oz z obrázku), vývar 1 galon kupovaného hovězího vývaru (zdroj odkazuje na Meat Stock, s. 216, a ten je samostatná surovina v tomto objemu). Máslo a mouka tvoří jíšku, proto třída linear. Zdroj uvádí „máslo nebo hovězí sádlo“: máslo je v řádku, sádlo v original (stejná hmotnost, 1 lb). Pepř a hřebíček jsou z objemu 1 lžíce přes katalogovou hmotnost lžíce (hřebíček 6,5 g, jako hřebíček mletý). Sůl 1 oz odpovídá 2 lžícím (shoda s hmotností). Hmotnost stroužku česneku 5 g je odhad, proto verified false. Sůl 1 oz na 100 porcí dává přes třídu seasoning 1,84 g, v JSON zaokrouhleno na 2 g podle convertu (0,5 g na porci); podle chuti ubrat či přisolit. Zdroj čas nedává, 33 minut je odhad z postupu. Obsahuje hovězí vývar, proto bez tagu bez-masa; bezmasá varianta: zeleninový vývar místo hovězího. Zdroj doporučuje k pečeným rybám, telecím řízkům a plněným paprikám.",
+  "source": {
+    "book": "navy-1944",
+    "page": 192,
+    "titleOriginal": "TOMATO SAUCE"
+  },
+  "verified": false,
+  "quote": "Combine tomatoes, meat stock and sugar."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cervena-repa-na-masle",
+  "title": "Červená řepa na másle",
+  "titleOriginal": "Buttered Beets",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "repa-cervena", "amount": 400, "unit": "g", "note": "oloupaná jedlá hmotnost (zdroj 33 lb nákupní řepy, jedlá část 0,67)" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření řepy, slije se", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "note": "rozpuštěné", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "cukr-krystal", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.22, "unit": "g", "note": "zdroj uvádí jen „pepper“, použit černý" }
+  ],
+  "steps": [
+    { "text": "Řepu důkladně omyj a stonky zkrať na 2–3 cm nad hlízou. Kořínky ponech.", "minutes": 5 },
+    { "text": "Ve velkém hrnci přiveď k varu vodu se solí.", "minutes": 8 },
+    { "text": "Vlož řepu do vroucí vody a vař 60 minut, dokud nezměkne.", "minutes": 60 },
+    { "text": "Sceď, zalij studenou vodou, oloupej a nakrájej na kostky nebo plátky.", "minutes": 12 },
+    { "text": "Přidej rozpuštěné máslo, sůl, cukr a pepř a ohřej.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj uvádí 33 lb řepy „as purchased“ (nákupní hmotnost). Přepočteno na jedlou hmotnost podle katalogu (0,67): 33 lb × 0,04 × 0,67 ≈ 400 g oloupané řepy na 4 porce (nákupní ≈ 600 g). Voda na vaření (1 l) a sůl do ní jsou domácí hodnoty s třídou vessel, slévají se (zdroj uvádí jen „to cover“). Vaření 35–60 minut: použita horní mez. Sůl (4 g) je přes třídu seasoning, cukr (2 oz → 2 g) je linear; celkem s vodní solí asi 6 g soli na 4 porce, dle chuti sůl ubrat. Pepř zdroj nespecifikuje, použit černý mletý. Recept je z čerstvé řepy; varianta ze sušené řepy na stejné straně a varianta s mladou zelení nejsou součástí tohoto receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 264,
+    "titleOriginal": "BUTTERED BEETS"
+  },
+  "verified": true
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "kureci-jatra",
+    "name": "Kuřecí játra",
+    "aliases": [
+      "kuřecí játra",
+      "drůbeží játra",
+      "chicken liver"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 119,
+      "protein": 16.92,
+      "carbs": 0.73,
+      "fat": 4.83,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171060 (Chicken, liver, all classes, raw)",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
+    "id": "kureci-zaludky",
+    "name": "Kuřecí žaludky",
+    "aliases": [
+      "kuřecí žaludky",
+      "drůbeží žaludky",
+      "chicken gizzards"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 94,
+      "protein": 17.66,
+      "carbs": 0,
+      "fat": 2.06,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171456 (Chicken, gizzard, all classes, raw)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "hamburgerova-houska",
+    "name": "Hamburgerová houska",
+    "aliases": [
+      "houska na hamburger",
+      "houska hamburgerová",
+      "hamburger bun",
+      "rolls, hamburger"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 279,
+      "protein": 9.77,
+      "carbs": 50.12,
+      "fat": 3.91,
+      "fiber": 1.8
+    },
+    "units": {
+      "ks": 44
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172796 (Rolls, hamburger or hotdog, plain)",
+      "units": "USDA fdc:172796 roll 1 serving = 44 g",
+      "refuse": "USDA fdc:172796 refusePct 0"
+    }
+  }
+]

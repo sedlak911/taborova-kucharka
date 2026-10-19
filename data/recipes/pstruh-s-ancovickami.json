@@ -1,0 +1,151 @@
+{
+  "id": "pstruh-s-ancovickami",
+  "title": "Pečený pstruh s ančovičkami",
+  "titleOriginal": "Trout with Anchovies (Trota alle acciughe)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "pstruh",
+      "amount": 1200,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "4 pstruzi po 300 g celí s odpadem (jedlá část asi 47 %)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "na osolení"
+    },
+    {
+      "ingredientId": "cely-pepr",
+      "amount": 1,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "asi 10 zrnek, nadrcených"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Nakládací směs",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Nakládací směs",
+      "note": "nadrobno nasekané"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 15,
+      "unit": "g",
+      "group": "Nakládací směs",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 100,
+      "unit": "g",
+      "group": "Nakládací směs",
+      "note": "nadrobno nasekané"
+    },
+    {
+      "ingredientId": "tymian-cerstvy",
+      "amount": 1,
+      "unit": "g",
+      "group": "Nakládací směs"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Nakládací směs",
+      "note": "nadrobno nasekaný"
+    },
+    {
+      "ingredientId": "mata",
+      "amount": 2,
+      "unit": "g",
+      "group": "Nakládací směs",
+      "note": "čerstvá, nasekaná"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Nakládací směs",
+      "note": "dobrý olivový olej"
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 40,
+      "unit": "g",
+      "group": "Omáčka (č. 17)",
+      "note": "6 solených ančoviček (zdroj 5–6 ks), asi 7 g na kus, očištěné"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Omáčka (č. 17)",
+      "note": "hojně oleje na zahřátí ančoviček"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Omáčka (č. 17)",
+      "note": "špetka pepře"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Omáčka (č. 17)",
+      "note": "2 lžíce"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 55,
+      "unit": "g",
+      "group": "Omáčka (č. 17)",
+      "note": "3–4 lžíce zahuštěné rajčatové šťávy"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Ryby očisti: zbav šupin a vnitřností, opláchni, osuš a z boků je několikrát nařízni.", "minutes": 10 },
+    { "text": "Cibuli, česnek a petrželku nasekej nadrobno, houby také nadrobno a smíchej je s tymiánem, mátou a bobkovým listem.", "minutes": 10 },
+    { "text": "Ryby osol a opepři, vlož je do nakládací směsi a zalij olivovým olejem. Nech nakládat 30 minut.", "minutes": 30 },
+    { "text": "Nakládací směs přetři přes sítko a rozetři ji po rybách. Ryby i s ní vlož do vymazaného pekáče.", "minutes": 5 },
+    { "text": "Peč v troubě, dokud ryby nezměknou.", "minutes": 25 },
+    { "text": "Mezitím připrav omáčku: ančovičky opláchni, zbav kostí a kůže a nasekej nadrobno.", "minutes": 5, "parallel": true },
+    { "text": "Nasekané ančovičky zvolna zahřívej na pánvi s olejem a pepřem, nesmí se uvařit.", "minutes": 5, "parallel": true },
+    { "text": "Přidej máslo a rajčatový protlak, promíchej a krátce prohřej.", "minutes": 3, "parallel": true },
+    { "text": "Pečenou rybu podávej horkou, s omáčkou zvlášť." }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 121) uvádí jen postup, bez množství a bez počtu ryb. Množství 4 × 300 g celých pstruhů (s odpadem, jedlá část asi 47 %) je podle shortlistu a katalogu. Nakládací směs (cibule, česnek, petržel, houby, tymián, bobkový list, máta, olej), sůl a pepř jsou odhady z běžné praxe pro 4 porce; teplota 180 °C a 30 minut nakládání jsou doplněné. Omáčka je podle zdroje „anchovy sauce (No. 17)“: 5–6 ančoviček, 2 lžíce másla a 3–4 lžíce rajčatového protlaku na asi 1 lb špaget, tedy na 4 porce, proto je použita celá v zadaném množství bez škálování. Velikost ančoviček v soli je odhad (6 ks ≈ 40 g). Olej na zahřátí ančoviček („hojně“) je odhad 60 ml. Vnitřnosti odstraň při čištění, hlavu lze ponechat. Věta „rub the pickled pieces at the sieve“ je v OCR nejasná; výklad: nakládací směs se protlačí sítkem a rozetře po rybách. Čas 80 minut je odhad (nakládání 30 min, pečení 25 min).",
+  "source": {
+    "book": "italian-1919",
+    "page": 125,
+    "titleOriginal": "Trout with Anchovies (Trota alle acciughe)"
+  },
+  "verified": false,
+  "quote": "Bake in the oven and serve with anchovy sauce (No. 17)."
+}

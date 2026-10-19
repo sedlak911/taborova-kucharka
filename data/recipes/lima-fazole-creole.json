@@ -1,0 +1,132 @@
+{
+  "id": "lima-fazole-creole",
+  "title": "Lima fazole po creolsku",
+  "titleOriginal": "Lima Beans, Creole",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 145,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 180,
+      "unit": "g",
+      "note": "lima (máslové) fazole, sušené; v katalogu jsou nejblíž bílé sušené fazole; 6 hodin namočit"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vřící voda na zakrytí fazolí (2 gal ze zdroje); nevylévá se, zůstává v jídle"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 9,
+      "unit": "g",
+      "note": "nakrájená na čtvrtky"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 115,
+      "unit": "g",
+      "note": "z plechovky (No. 10 can)"
+    },
+    {
+      "ingredientId": "chili-omacka",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 75,
+      "unit": "ml",
+      "note": "vývar ze zdroje (Meat Stock, s. 216, ½ gal na 100 porcí)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "1 čajová lžička ze zdroje"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání zapékacích misek; ve zdroji jen „greased baking pans“",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přeber fazole a důkladně je omyj."
+    },
+    {
+      "text": "Namoč fazole do studené vody asi na 6 hodin."
+    },
+    {
+      "text": "Nesceď vodu. Zalij fazole vřící vodou tak, aby byly zakryté, a přidej cibuli.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu a na mírném ohni vař asi hodinu, dokud fazole nejsou měkké, ale ne rozvařené.",
+      "minutes": 68
+    },
+    {
+      "text": "Předehřej troubu na 175 °C a vymaž zapékací misky olejem."
+    },
+    {
+      "text": "Mezitím osmaž na pánvi nakrájenou slaninu dokřupava.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "V hrnci ohřej vývar a přidej osmaženou slaninu, rajčata, chili omáčku, sůl, cukr a pepř.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej směs s fazolemi a nalij do vymazaných misek.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč 30 až 60 minut.",
+      "minutes": 60
+    }
+  ],
+  "modernNote": "Zdroj je na 100 porcí (4 až 5 oz, asi ⅔ hrnku na porci). Lima (máslové) fazole nejsou v katalogu; použity sušené bílé fazole (fazole-suche), lima je v poznámce. Namáčení 6 hodin je v tagu pripravit-predem. Studená voda na namočení („to cover“) není ve zdroji vyčíslena; nevylévá se, ale většina se vsákne do fazolí, proto je v receptu jen vřící voda 2 gal (302,8 ml na 4 porce, zaokrouhleno na 300 ml). Odhad, verified false. Vývar ½ gal ze stránky 216 (PDF 224) je přepočten na 4 porce (75,7 ml); v katalogu je hovězí vývar. Chili sauce (rajčatová chili omáčka) je v katalogu jako nová surovina chili-omacka (USDA fdc:171595). Sůl (3½ oz) se škáluje jako seasoning, cukr (4 oz) je v pokrmu skutečná surovina, tedy linear (5 g). Teplota: 350 °F = 175 °C. Bilance vychází nad 1,6× (186 g na porci proti 113 g zdroje): tekutina z vaření zůstává v jídle, jak zdroj říká („do not drain“), takže porce je vlhčí než samotné fazole; pokud chceš hustší, uber vodu na 200 ml. Peč 30–60 minut podle zdroje „½ až 1 hodina“.",
+  "source": {
+    "book": "navy-1944",
+    "page": 262,
+    "titleOriginal": "LIMA BEANS, CREOLE"
+  },
+  "verified": false
+}

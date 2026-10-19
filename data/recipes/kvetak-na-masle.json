@@ -1,0 +1,34 @@
+{
+  "id": "kvetak-na-masle",
+  "title": "Květák na másle",
+  "titleOriginal": "Buttered Cauliflower",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": ["bez-masa", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "kvetak", "amount": 350, "unit": "g", "note": "jedlá hmotnost (růžice a měkké stonky); nákupní 50 lb = 22,7 kg, jedlá část dle katalogu 0,39" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření květáku, slije se; zdroj „to cover“, domácí hodnota 1 l na 350 g", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se; 2 g na 1 l", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "note": "rozpuštěné", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Odstraň vnější listy a stonky květáku. Nech hlávku celou, nebo ji rozděl na růžice.", "minutes": 5 },
+    { "text": "Namoč květák asi 30 minut do studené vody.", "minutes": 30 },
+    { "text": "Mezitím přiveď v hrnci osolenou vodu k varu.", "minutes": 10, "parallel": true },
+    { "text": "Přidej květák do vroucí vody a vař asi 15 minut, dokud nezměkne. Sceď.", "minutes": 17 },
+    { "text": "Přelij květák rozpuštěným máslem a podle chuti posyp paprikou.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 5 oz (approx. ⅔ hrnku), 50 lb květáku v nákupní hmotnosti (A.P.), 2 lb másla a 2 oz soli. Do řádku je zapsána jedlá část: 50 lb × 0,39 (ediblePortion katalogu) = 19,5 lb = 8 845 g, na 4 porce 350 g. Máslo 2 lb = 907 g na 100 porcí = 35 g na 4 porce. Vařicí voda (1 l) a sůl (2 g na 1 l) jsou domácí hodnoty s třídou vessel, slijí se; zdroj uvádí vodu „to cover“ a 2 oz soli, které se nepřebírají. Porce 4 až 5 oz je v receptu uvedena jako 4-1/2 oz (střed rozpětí). Paprika je ve zdroji jen „if desired“ bez množství, v seznamu surovin není; doporučení: 1 špetka sladké papriky na porci, nebo vynechat. Varianty ze stejné stránky nejsou v receptu: Cauliflower Au Gratin (zapéct s 1½ gal Cheese Sauce, str. 175 = PDF 183) a Cauliflower with Buttered Crumbs (2 lb suché strouhanky a 2 lb másla, opéct 350 °F); Mock Hollandaise (str. 179) také nezahrnuto.",
+  "source": {
+    "book": "navy-1944",
+    "page": 271,
+    "titleOriginal": "BUTTERED CAULIFLOWER"
+  },
+  "verified": true,
+  "quote": "Pour butter over cauliflower."
+}

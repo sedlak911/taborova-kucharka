@@ -1,0 +1,132 @@
+{
+  "id": "ryzove-frittelle",
+  "title": "Rýžové koblížky",
+  "titleOriginal": "Rice Cakes (Frittelle di riso)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 115,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "suchá; zdroj ¼ lb (113 g), bez škálování"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 350,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "na uvaření rýže; odhad, vsákne se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "kousek másla do rýže; odhad"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "½ čajové lžičky (zdroj)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "trochu soli; odhad"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "jen kůra, „jen ochutnat“"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "zdroj 3 žloutky; bílky zvlášť našlehat do tuhé pěny; použij celá vejce"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "„trochu mouky“, odhad"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Smažení",
+      "note": "na smažení v mělké pánvi"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži uvař v mléku s kouskem másla, solí, cukrem a kouskem citronové kůry, dokud je měkká a mléko se vsákne.",
+      "minutes": 25
+    },
+    {
+      "text": "Rýži nech úplně vychladnout."
+    },
+    {
+      "text": "Bílky oddělej od žloutků. Žloutky přimíchej k rýži s moukou a dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Těsto nech několik hodin odpočinout."
+    },
+    {
+      "text": "Těsně před smažením ušlehej bílky do tuhé pěny.",
+      "minutes": 3
+    },
+    {
+      "text": "Našlehané bílky opatrně zašlehej do těsta.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozehřej olej.",
+      "minutes": 3
+    },
+    {
+      "text": "Do horkého oleje nabírej naběračkou těsto a smaž koblížky dozlatova z obou stran.",
+      "minutes": 10
+    },
+    {
+      "text": "Hotové koblížky vyjmi a podávej horké.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Gentile (č. 27, s. 25) uvádí jen ¼ lb rýže (113 g), 3 žloutky, ½ čajové lžičky cukru a „trochu“ másla, soli, mouky a citronové kůry; porce neuvádí. Čísla ze zdroje beru jako dávku pro celé jídlo a neškáluji je: rýže 115 g, 3 vejce (žloutky do těsta, bílky do pěny; použity celá vejce), cukr 3 g (½ čajové lžičky). Ostatní jsou odhady: mléko 350 ml (rýže se v něm vaří do měkka), máslo 10 g, sůl 2 g, citron jen kůra 3 g, mouka 20 g, olej 100 ml na smažení v mělké pánvi (zdroj píše „saucepan“). Dávka vychází na menší porce sladkého pokrmu (asi 3 koblížky na osobu). Rýže vychladne a těsto odpočívá několik hodin, proto jsou tyto kroky bez minut. Bílky se šlehají těsně před smažením. Pro lepší tvar drž koblížky mírně husté; pokud vypadají řídce, přidej mouku po lžících.",
+  "source": {
+    "book": "italian-1919",
+    "page": 29,
+    "titleOriginal": "RICE CAKES (Frittelle di riso)"
+  },
+  "verified": false,
+  "quote": "Cook the rice in milk, adding a small quantity of butter, some salt, half a teaspoon of sugar and just a taste of lemon peel."
+}

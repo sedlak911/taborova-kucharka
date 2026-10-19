@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chili-omacka",
+    "name": "Chili omáčka (chili sauce)",
+    "aliases": [
+      "chili sauce",
+      "rajčatová chili omáčka",
+      "tomato chili sauce"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 92,
+      "protein": 2.5,
+      "carbs": 19.79,
+      "fat": 0.3,
+      "fiber": 2.4
+    },
+    "densityGPerMl": 1.1,
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171595 (Sauce, tomato chili sauce, bottled, with salt)",
+      "units": "bez objemových převodů; zdroj uvádí jen hmotnost/pint",
+      "refuse": "bez odpadu"
+    }
+  }
+]

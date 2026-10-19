@@ -1,0 +1,155 @@
+{
+  "id": "zvere-salmi",
+  "title": "Salmi z pečeného kuřete",
+  "titleOriginal": "Salmi of Game (Uccelli in salmi)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1200,
+      "unit": "g",
+      "group": "Kuře",
+      "note": "celé, s kostmi; zdroj: pečená zvěř (ptáci), menší celé, větší na čtvrtky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Kuře",
+      "note": "na kuře i do omáčky; zdroj uvádí 1 lžíci soli, sníženo"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Kuře",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 lžíce"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 230,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "½ libry slaniny nebo šunky, nakrájené na kostičky; zdroj říká „half pound of bacon or ham“"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 menší, nadrobno"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 60,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 menší, nadrobno"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 80,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "srdce a žaludky (místo hlav ptáků), rozmixovat"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "masový vývar, kupovaný bujón rozpuštěný v horké vodě"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "sušený; zdroj 1 lžíce"
+    },
+    {
+      "ingredientId": "salvej",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "sušená; zdroj 1 lžíce"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 100,
+      "unit": "g",
+      "group": "Podávání",
+      "note": "asi 4 tenké plátky, na kosočtverce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 200 °C."
+    },
+    {
+      "text": "Kuře zvenku i zevnitř osol a opepři.",
+      "minutes": 3
+    },
+    {
+      "text": "Kuře vlož do pekáče a peč, dokud není kůže zlatavá a maso uvnitř propečené.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím ve větším hrnci rozpusť máslo, přidej slaninu, nadrobno nakrájenou cibuli a mrkev a 5 minut restuj.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Přilij vývar, přidej nadrobno rozmixované drobky, sůl, tymián a šalvěj a nech 30 minut mírně probublávat.",
+      "minutes": 30,
+      "parallel": true
+    },
+    {
+      "text": "Omáčku přeceď přes jemné síto a tlač ji lžící.",
+      "minutes": 5
+    },
+    {
+      "text": "Upečené kuře rozporcuj na čtyři části a vlož do omáčky.",
+      "minutes": 10
+    },
+    {
+      "text": "Nech omáčku probublávat, dokud kuře není prohřáté a omáčka nezhoustne.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím chléb nakrájej na kosočtverce a na suché pánvi je opeč dozlatova.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Podávej horké, s opečenými kosočtverci chleba."
+    }
+  ],
+  "modernNote": "Zdroj je salmi z pečené zvěře (malí ptáci celí, velcí na čtvrtky, hlavy rozmělněné s kousky ptáků); katalog nemá zvěř ani kachnu, proto je použito pečené kuře (celé, 1,2 kg s kostmi, asi 300 g na porci). Kachna by šla použít stejným postupem, je tučnější a omáčku je třeba odtučnit. Hlavy ptáků nahrazují kuřecí drobky (srdce a žaludky), rozmixované. Zdroj neuvádí množství ani počet porcí; odhad pro 4 porce: slanina ½ libry (226,8 g podle convert s yield 4, zaokrouhleno na 230 g), 1 lžíce másla (14 g), cibule a mrkev po 1 menším kusu, 500 ml vývaru (zdroj nedává objem omáčky, omáčka má zakrýt ptáky). Sůl zdroj uvádí 1 lžíci do omáčky (asi 18 g), sníženo na 6 g pro kuře i omáčku dohromady; byliny 1 lžíce tymiánu a šalvěje přepočteny na sušené (2 g). Chléb na kosočtverce (4 tenké plátky) je odhad podle „toasted diamonds of bread“. Zdroj nezahušťuje omáčku moukou, zhoustne jen redukcí. Doba pečení kuře 60 minut při 200 °C je odhad, u kuřete 1,2 kg obvykle 60–70 minut. Nález check:recipe: maso 282 g na porci je nad rozsah 80–250 g, ponecháno, protože kuře 1,2 kg s kostmi dává asi 204 g jedlého masa na porci, zbytek tvoří slanina (58 g na porci) a drobky (20 g); jako hlavní jídlo lze kuře zmenšit na 1 kg.",
+  "source": {
+    "book": "italian-1919",
+    "page": 45,
+    "titleOriginal": "SALMI OF GAME (Uccelli in salmi)"
+  },
+  "verified": false,
+  "quote": "Roast the game completely, seasoning with salt and pepper."
+}

@@ -1,0 +1,137 @@
+{
+  "id": "svycarske-hovezi-steaky",
+  "title": "Švýcarské hovězí steaky s rajčaty",
+  "titleOriginal": "Swiss Beef Steaks",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 230,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-zadni",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti, nakrájené na steaky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "note": "na obalení steaků",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 13,
+      "unit": "g",
+      "note": "část na obalení steaků, část na posypání rajčat"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "na obalení steaků"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 50,
+      "unit": "g",
+      "note": "na opečení steaků",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "z konzervy, s nálevem",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 110,
+      "unit": "g",
+      "note": "nakrájená na plátky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "note": "na zahuštění omáčky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "studená, na kaši z mouky; odhad",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej maso na steaky silné 2,5–4 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "Prosej mouku, sůl a pepř.",
+      "minutes": 2
+    },
+    {
+      "text": "Vtluč směs do steaků.",
+      "minutes": 5
+    },
+    {
+      "text": "Opékej steaky na tuku dozlatova z obou stran.",
+      "minutes": 10
+    },
+    {
+      "text": "Polož steaky do zapékací misky.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej rajčata, přikryj je plátky cibule a posyp solí.",
+      "minutes": 5
+    },
+    {
+      "text": "Misky přikryj a peč v troubě na 150 °C 3 hodiny, dokud steaky nejsou měkké.",
+      "minutes": 180
+    },
+    {
+      "text": "Slij šťávu ze steaků do hrnce.",
+      "minutes": 2
+    },
+    {
+      "text": "V misce rozmíchej mouku se studenou vodou do hladké kaše.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej kaši do šťávy a vař, dokud nezhoustne.",
+      "minutes": 8
+    },
+    {
+      "text": "Polij steaky omáčkou a znovu je ohřej.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj má dva řádky masa: bone-in 60 lb a boneless 42 lb; použit boneless (760 g na 4 porce, asi 190 g syrového masa na porci, tedy zhruba 6 oz steak). Tuk ze zdroje (sádlo, „Fat“) je na opékání steaků, moderně řepkový olej (původní 50 g sádla v original). Zdroj uvádí 1 lb mouky + „cold water“ bez množství; voda je odhad 1 qt (40 ml na 4 porce, poměr 1:1 objemově), proto verified false. Sůl je u 4 porcí vyšší než běžný poměr (13 g celkem, zdroj má 7 oz na 100 porcí); dle chuti uber. Pečení 3 hodiny v troubě na 150 °C (300 °F) je z původní karty; pro 4 porce můžeš zkontrolovat měkkost po 2 hodinách. Rajčata jsou konzervovaná celá, nálev zůstává v omáčce. Varianta Spanish Beef Steaks (zelená paprika) není zpracována. Sůl: 13 g na 4 porce je 3,25 g na porci, což je důsledek třídy seasoning (p = 0,85; zdroj má 2 g soli na porci při 100 porcích); pro méně slané jídlo použij polovinu. Bilance: porce zdroje (6 oz) je jen steak, kdežto výtěžek 100 porcí obsahuje i rajčata, cibuli a omáčku; na 4 porce tedy vychází 307 g celého jídla na porci (ne jen steak), což sedí s původním výtěžkem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 113,
+    "titleOriginal": "SWISS BEEF STEAKS"
+  },
+  "verified": false
+}

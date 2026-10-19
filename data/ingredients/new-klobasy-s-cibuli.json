@@ -1,0 +1,27 @@
+[
+  {
+    "id": "veprova-klobasa-syrova",
+    "name": "Vepřová klobása syrová",
+    "aliases": [
+      "syrová vepřová klobása",
+      "salsiccia",
+      "Italian sausage"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 290,
+      "protein": 13.9,
+      "carbs": 2.97,
+      "fat": 24.26,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171631 (Sausage, Italian, pork, mild, raw)",
+      "units": "bez převodu na kusy; množství v g"
+    }
+  }
+]

@@ -1,0 +1,153 @@
+{
+  "id": "konsome",
+  "title": "Konsomé",
+  "titleOriginal": "Consomme",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 325,
+  "difficulty": 2,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 220,
+      "unit": "g",
+      "note": "holeň, nakrájená na kostky"
+    },
+    {
+      "ingredientId": "teleci-kosti",
+      "amount": 220,
+      "unit": "g",
+      "note": "vyhodí se po scezení"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "na opečení masa"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "na zeleninu",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1210,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredientId": "turin",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájený na kostky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájený na kostky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená na kostky"
+    },
+    {
+      "ingredientId": "saturejka",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "na vyjasnění"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 19,
+      "unit": "ml",
+      "note": "na vyšlehání vajec"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí maso nakrájej na kostky. Na části tuku je opékej, dokud lehce nezhnědnou.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej kosti, maso a sůl do studené vody. Přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Nech jemně probublávat asi 60 minut.",
+      "minutes": 60
+    },
+    {
+      "text": "Na zbylém tuku orestuj tuřín, celer a cibuli.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej zeleninu, saturejku, hřebíček, tymián a skořici do vývaru. Nech tři hodiny jemně probublávat.",
+      "minutes": 180
+    },
+    {
+      "text": "Vývar nech vychladnout, sejmi ztuhlý tuk z povrchu a přeceď.",
+      "minutes": 30
+    },
+    {
+      "text": "Vejce vyšlehej s vodou a vmíchej do vývaru.",
+      "minutes": 3
+    },
+    {
+      "text": "Zahřej a nech asi 20 minut jemně probublávat.",
+      "minutes": 20
+    },
+    {
+      "text": "Podle chuti přeceď přes jemné síto."
+    }
+  ],
+  "modernNote": "Zdroj: Consomme (s. 217, PDF 225), 100 porcí po 1 šálku, výtěžek cca 6 galonů. Vývar se dělá přímo z hovězí holeně a telecích kostí, zdroj žádný hotový vývar nepoužívá (poznámka 2 u Meat Stock je jen alternativa bez kostí). Tuk ze zdroje (1 lb másla nebo jiného tuku) je rozdělen na polovinu na opečení masa (třída fat) a zbytek na zeleninu (linear). Telecí kosti jsou nová surovina `teleci-kosti`, po scezení se vyhodí. Sůl je přepočtena třídou seasoning na 7 g; lineárně by to bylo 4,5 g, doporučuji ubrat na 4–5 g. Vejce: zdroj 5 ks na 100 porcí dává 0,2 ks na 4 porce, v praxi 1 vejce na 5 porcí. Ochlazení a sejmutí tuku (30 min) je odhad, lze vývar připravit den předem a tuk sejmout ze ztuhlé vrstvy. Dvě položky vody jsou obě vývarové (1210 ml do hrnce, 19 ml na vyšlehání vajec), žádná není voda na vaření, takže nález 2× voda je falešný poplach. Telecí kosti jsou ve zdroji výslovně „veal bones“ (proto vlastní surovina, ne `hovezi-kosti`), ale mají stejné ediblePortion 0,3 a makra 0 jako `hovezi-kosti` a `sunkova-kost`: po scezení se vyhodí. Hmotnost porce 409 g (po odečtu kostí na jedlý podíl) je nad 237 ml zdroje, protože maso a zelenina se také scedí a nejedí; kcal (123) počítají celé hovězí maso a máslo, ve vývaru zůstává jen část, takže skutečná hodnota je nižší.",
+  "source": {
+    "book": "navy-1944",
+    "page": 225,
+    "titleOriginal": "Consomme"
+  },
+  "verified": true
+}

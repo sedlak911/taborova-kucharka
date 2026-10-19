@@ -1,0 +1,34 @@
+[
+  {
+    "id": "rybi-vyvar",
+    "name": "Rybí vývar",
+    "aliases": [
+      "vývar z ryb",
+      "rybí vývar z vody po vaření ryby",
+      "fish broth"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 16,
+      "protein": 2,
+      "carbs": 0.4,
+      "fat": 0.6,
+      "fiber": 0
+    },
+    "densityGPerMl": 1,
+    "units": {
+      "lzice": 15,
+      "lzicka": 5,
+      "hrnek": 250
+    },
+    "ediblePortion": 1,
+    "allergens": ["ryby"],
+    "containsMeat": true,
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171606 (Fish broth)",
+      "units": "odvozeno z hustoty 1 g/ml",
+      "refuse": "USDA fdc:171606 refusePct 0"
+    }
+  }
+]

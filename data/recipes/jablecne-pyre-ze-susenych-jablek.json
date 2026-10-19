@@ -1,0 +1,73 @@
+{
+  "id": "jablecne-pyre-ze-susenych-jablek",
+  "title": "Jablečné pyré ze sušených jablek",
+  "titleOriginal": "Applesauce (dehydrated apple nuggets)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "tabor",
+    "sladke",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 375,
+      "unit": "g",
+      "note": "čerstvá, oloupaná a nakrájená; zdroj sušená jablka rehydrovaná ve vodě",
+      "original": {
+        "ingredientId": "susena-jablka",
+        "amount": 75,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 45,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.92,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Oloupej jablka, vykrájej jádřince a nakrájej je na kostičky.",
+      "minutes": 8
+    },
+    {
+      "text": "Smíchej jablka s cukrem v hrnci a přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Pomalu zahřívej na mírném ohni k varu a občas zamíchej.",
+      "minutes": 10
+    },
+    {
+      "text": "Duš pod pokličkou asi 20 minut, dokud jablka nezměknou.",
+      "minutes": 20
+    },
+    {
+      "text": "Vmíchej skořici a sundej z ohně.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj používá sušená jablka (4 lb na 100 porcí), která se rehydratují ve 3 gal horké vody a 1 hodinu se dusí. Místo nich jsou v receptu čerstvá jablka (×5, odhad podle běžné rehydratace; 75 g sušených je v original). Zdrojová voda slouží jen k rehydrataci sušených jablek, u čerstvých se vynechává: jablka pustí vlastní šťávu a dusí se pod pokličkou; kdyby se připalovala, přidej lžíci vody. Doba dušení je zkrácena z 1 hodiny na 20 minut, protože čerstvá jablka nepotřebují rehydratovat. Skořice je podle zdroje volitelná, ponechána. Porce zdroje: asi 4 oz (½ hrnku).",
+  "source": {
+    "book": "navy-1944",
+    "page": 77,
+    "titleOriginal": "APPLESAUCE (Using dehydrated apple nuggets)"
+  },
+  "verified": false
+}

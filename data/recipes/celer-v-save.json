@@ -1,0 +1,170 @@
+{
+  "id": "celer-v-save",
+  "title": "Celer ve šťávě",
+  "titleOriginal": "Celery au Jus (Sedano al sugo)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 165,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 800,
+      "unit": "g",
+      "group": "Celer",
+      "note": "očištěné řapíky bez listů a tvrdých větví; zdroj „nine or ten heads“, odhad 8 hlav pro 4 porce (asi 100 g jedlé části na hlavu, stejně jako č. 165)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Blanšírování",
+      "note": "osolená voda na blanšírování, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Blanšírování",
+      "note": "do vody na blanšírování (2 g na 1 l), slije se"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 90,
+      "unit": "g",
+      "group": "Dušení",
+      "note": "zdroj „half a cup of good fat“ (½ šálku ≈ 90 g po přepočtu na 4 porce, yield 5 z 9–10 hlav)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Dušení",
+      "note": "zdroj „onion chopped“, počet odhad"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Dušení",
+      "note": "zdroj „carrot chopped“, počet odhad"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 380,
+      "unit": "ml",
+      "group": "Dušení",
+      "note": "zdroj „a pint of broth or water“ (473 ml na 9–10 hlav), přepočet na 4 porce; masový vývar, nenahrazen vodou"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "podle chuti, zdroj „salt and pepper“"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omáčka č. 167",
+      "note": "poloviční dávka samostatné omáčky omacka-k-celeru (30 g), úměrně k 4 porcím celeru"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omáčka č. 167",
+      "note": "stejná hmotnost jako máslo, zdroj „an equal weight of flour“"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 175,
+      "unit": "ml",
+      "group": "Omáčka č. 167",
+      "note": "hnědý (hovězí) vývar na zředění jíšky, poloviční dávka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Očisti celer: odřízni zelené listy a tvrdé větve, zkrať kořen do špičky.",
+      "minutes": 10
+    },
+    {
+      "text": "V hrnci přiveď osolenou vodu k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Celer v ní blanšíruj.",
+      "minutes": 10
+    },
+    {
+      "text": "Ponoř celer do studené vody, rozevři listy, znovu důkladně omyj a sceď.",
+      "minutes": 3
+    },
+    {
+      "text": "Svaž celer do svazků po dvou nebo třech stoncích.",
+      "minutes": 3
+    },
+    {
+      "text": "V hrnci rozehřej sádlo a osmahni nakrájenou cibuli a mrkev nadrobno.",
+      "minutes": 7
+    },
+    {
+      "text": "Vlož svazky celeru, zalij vývarem, osol, opepři, přikryj a duš dvě hodiny.",
+      "minutes": 120
+    },
+    {
+      "text": "Mezitím připrav omáčku: v malém hrnci rozpusť máslo a zasyp moukou.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Za stálého míchání jíšku zasmaž a postupně ji zalévej horkým vývarem.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Omáčku za stálého míchání povař, dokud se nezredukuje a nezhoustne.",
+      "minutes": 6,
+      "parallel": true
+    },
+    {
+      "text": "Vyjmi celer z hrnce a sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Omáčku přetlač přes jemné síto, polij jí celer a podávej velmi horké.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 166, s. 116) uvádí devět nebo deset hlav celeru, pintu vývaru nebo vody a půl šálku dobrého tuku, cibuli a mrkev bez počtu porcí. Odhad pro 4 porce: 8 hlav celeru, tedy 800 g jedlé části (stejně jako č. 165, asi 100 g na hlavu); vývar 380 ml (pinta 473 ml přepočtená na 4 porce pomocí convert, yield 5 podle počtu porcí, které 9–10 hlav kryje při „dvě hlavy na osobu“ v č. 165); sádlo 90 g (½ šálku, convert). „Good fat“ jsem interpretoval jako sádlo, moderní náhradou je řepkový olej. Cibuli a mrkev zdroj neváží, počet 1 ks je odhad. Sůl 3 g a pepř 0,5 g jsou odhady z praxe, zdroj uvádí jen „salt and pepper“. Omáčka č. 167 (Jíšková omáčka k celeru) je zahrnuta úměrně: poloviční dávka samostatného receptu omacka-k-celeru (15 g másla, 15 g mouky, 175 ml vývaru). Zdroj v receptu sám na omáčku neodkazuje, ale č. 167 je omáčka pro tento celer a text ji popisuje jako dochucení. Vývar je masový (kniha v č. 1 definuje broth jako hovězí), recept tedy není bez masa; bezmasá varianta: zeleninový vývar v řádku a hovězí do original. Vaření 120 minut udává zdroj nepřímo („about two hours“). Blanšírovací voda 1 l a sůl 2 g na 1 l jsou domácí hodnoty, slévají se a do jídla nejdou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 120,
+    "titleOriginal": "CELERY AU JUS (Sedano al sugo)"
+  },
+  "verified": false,
+  "quote": "Select nine or ten heads, neither too hard nor too soft."
+}

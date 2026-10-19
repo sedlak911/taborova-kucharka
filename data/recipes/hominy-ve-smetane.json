@@ -1,0 +1,95 @@
+{
+  "id": "hominy-ve-smetane",
+  "title": "Hominy ve smetanové omáčce",
+  "titleOriginal": "Creamed Hominy",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hominy",
+      "amount": 480,
+      "unit": "g",
+      "note": "sceděný obsah konzervy"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 230,
+      "unit": "ml",
+      "note": "horké"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.34,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci ohřej mléko téměř do varu.",
+      "minutes": 5
+    },
+    {
+      "text": "V jiném hrnci rozpusť máslo a vmíchej mouku do hladké jíšky.",
+      "minutes": 3
+    },
+    {
+      "text": "Za rychlého míchání vmíchej jíšku do horkého mléka.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého míchání vař, dokud omáčka nezhoustne.",
+      "minutes": 8
+    },
+    {
+      "text": "Dochuť solí a pepřem."
+    },
+    {
+      "text": "Hominy zahřej v hrnci a sceď.",
+      "minutes": 5
+    },
+    {
+      "text": "Sceděný hominy vmíchej do omáčky a znovu zahřej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj: Creamed Hominy (tištěná strana 269, PDF 277), 100 porcí, porce 4 až 4½ oz (cca 2/3 hrnku). Hominy 26 lb 4 oz (cca 4 No. 10 konzervy) přepočteno na 4 porce a použit katalogový hominy z konzervy (sceděný). Bílá omáčka ze zdroje odkazuje na Cream Sauce (strana 173, PDF 181): zdroj uvádí 1½ gal na 100 porcí, použit sloupec Medium Cream Sauce pro zeleninu (1 gal = 50 porcí, máslo 12 oz, mouka 6 oz, mléko 1 gal, sůl 2 tbsp, pepř 1½ tsp), vynásobeno 1,5. Máslo ze zdroje „butter or other fat“ je máslo bez `original`. Sůl (3 g) je seasoning; na chuť ji lze ubrat. Volitelné červené papriky (pimientos, 1 konzerva 7 oz) do omáčky zdroj uvádí na barvu a chuť, nebyla přidána. Bilance: 4 porce mají dohromady cca 250 ml omáčky a 480 g hominy, tj. cca 180 g na porci proti 4 až 4½ oz (113–128 g) ze zdroje, u hominy s omáčkou přijatelné. Kroky přípravy omáčky (ohřev mléka, jíška, vaření) jsou doplněny podle sekce Medium Cream Sauce.",
+  "source": {
+    "book": "navy-1944",
+    "page": 277,
+    "titleOriginal": "CREAMED HOMINY"
+  },
+  "verified": true,
+  "quote": "Heat hominy and drain. Stir into cream sauce and reheat."
+}

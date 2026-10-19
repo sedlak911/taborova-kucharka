@@ -1,0 +1,108 @@
+{
+  "id": "teleci-karbanatky",
+  "title": "Dušené telecí karbanátky",
+  "titleOriginal": "Braised Veal Patties",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-mlete",
+      "amount": 560,
+      "unit": "g",
+      "note": "syrové telecí z boneless varianty (31 lb); zdroj nabízí i kostní telecí 45 lb"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 125,
+      "unit": "g",
+      "note": "měkké čerstvé drobky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 115,
+      "unit": "ml",
+      "note": "zdroj: masový vývar nebo voda"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 50,
+      "unit": "g",
+      "note": "tuk na opečení placiček (zdroj 2 lb sádla)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 50,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 160 °C."
+    },
+    {
+      "text": "Maso nakrájej na kousky asi 2,5 až 5 cm a namel.",
+      "minutes": 5
+    },
+    {
+      "text": "V míse smíchej mleté maso s měkkými drobky, nadrobno nasekanou cibulí, solí, pepřem, worcesterskou omáčkou a vývarem. Důkladně promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Vytvaruj placičky silné asi 2,5 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "Ve vyhřátém tuku opékej placičky z obou stran dozlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Vlož placičky do pekáče, přilij trochu vody, aby zakryla dno, a pekáč přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč přikryté asi 60 minut, dokud nejsou měkké.",
+      "minutes": 60
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, portion 2 karbanátky (3 až 3½ oz). Všechna čísla přečtena z obrázku PDF 161 (tištěná strana 153); OCR tabulky nepoužito. Telecí: zdroj uvádí dvě varianty (kostní 45 lb, bez kosti 31 lb), použita bez kosti 31 lb = 560 g; maso se mele přímo z kusů, proto syrová hmotnost. Vývar: zdroj dovoluje vodu, použit hovězí vývar (chuť), voda je přípustná náhrada. Sůl 5 oz (zdroj 10 lžic) dává 9 g na 4 porce (třída seasoning); je to vyšší hodnota, podle chuti ubrat. Porce směsi vychází asi 240 g syrové hmotnosti, zdroj 2 karbanátky po 3 až 3½ oz (170–200 g) - bilance asi 1,2× je v pořádku, karbanátky při pečení ztrácejí vodu. Tuk: zdroj 2 lb sádla, moderně olej (50 g) na opečení placiček, v originálu sádlo. Voda do dna pekáče je v postupu bez množství (zdroj v řádku Water neuvádí hodnotu). Pečení: zdroj 325 °F, použito 160 °C; trouba je v equipment, protože se jídlo peče. Čas: opékání a pečení dává asi 85 minut.",
+  "source": {
+    "book": "navy-1944",
+    "page": 161,
+    "titleOriginal": "BRAISED VEAL PATTIES"
+  },
+  "verified": true,
+  "quote": "Shape into 3 to 3½-ounce patties, 1 inch thick. Fry in hot fat until browned on both sides."
+}

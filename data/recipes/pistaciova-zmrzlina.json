@@ -1,0 +1,68 @@
+{
+  "id": "pistaciova-zmrzlina",
+  "title": "Pistáciová zmrzlina",
+  "titleOriginal": "Pistache Ice Cream (Gelato di pistacchi)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 950,
+      "unit": "ml",
+      "group": "Zmrzlina",
+      "note": "zdroj 1 quart (946 ml)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 170,
+      "unit": "g",
+      "group": "Zmrzlina",
+      "scaling": "linear",
+      "note": "zdroj 6 oz; část (asi 1 lžíce) se rozemele s pistáciemi"
+    },
+    {
+      "ingredientId": "pistacie",
+      "amount": 55,
+      "unit": "g",
+      "group": "Zmrzlina",
+      "note": "zdroj 2 oz, loupané; zdroj 2 oz = 57 g, zaokrouhleno"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Zmrzlina",
+      "note": "zdroj uvádí „the yolks“ bez počtu; odhad 4 žloutky"
+    }
+  ],
+  "steps": [
+    { "text": "Pistácie opař teplou vodou, zbav je slupky a v misce je velmi jemně rozemel s lžící cukru.", "minutes": 5 },
+    { "text": "Pistácie smíchej v rendlíku se žloutky a zbylým cukrem.", "minutes": 3 },
+    { "text": "Přilej mléko a na mírném ohni za stálého míchání naběračkou zahřívej, dokud směs nezhoustne jako smetana.", "minutes": 15 },
+    { "text": "Nech zmrzlinu vychladnout.", "minutes": 20 },
+    { "text": "Vlož do mrazáku nebo zmrzlinovače a nech zmrznout." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 220) udává suroviny pro celou zmrzlinu bez počtu porcí; bráno jako 4 porce bez přepočtu. Přepočet: 1 quart mléka = 946 ml, zaokrouhleno na 950 ml (plnotučné); 6 oz cukru = 170 g; 2 oz pistácií = 57 g, zaokrouhleno na 55 g. Počet žloutků zdroj neuvádí, odhad 4 ks (1 quart mléka, směs „zhoustne jako smetana“); lze upravit. Pistácie se loupou opařením (katalog už počítá s loupanými). Mrazení: zdroj říká jen „put in the freezer“, čas není uveden; zmrzlina potřebuje alespoň 4 h, proto je krok bez minut a recept má tag pripravit-predem (zmrzlinovač zrychlí). Doba vychladnutí 20 minut je odhad. Zdroj neuvádí teplotu ani čas vaření, odhad 15 minut je z běžné praxe. Modernizace se nedělá, suroviny jsou dnes běžně dostupné.",
+  "source": {
+    "book": "italian-1919",
+    "page": 159,
+    "titleOriginal": "PISTACHE ICE CREAM (Gelato di pistacchi)"
+  },
+  "verified": false,
+  "quote": "Skin the pistaches in warm water and grind them very fine with a tablespoonful of the sugar."
+}

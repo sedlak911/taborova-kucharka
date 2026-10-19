@@ -1,0 +1,86 @@
+{
+  "id": "varene-hovezi",
+  "title": "Vařené hovězí",
+  "titleOriginal": "Simmered Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 260,
+  "difficulty": 1,
+  "tags": [
+    "kotlik",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti; zdroj: Beef, boneless 42 lb (varianta bone-in 60 lb)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "odhad: zalít jen po hladinu masa"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "oloupaná, celá"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.95,
+      "unit": "ks",
+      "scaling": "seasoning",
+      "note": "15 listů ze zdroje (bez Weight) × faktor"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso nakrájej na velké kusy.",
+      "minutes": 10
+    },
+    {
+      "text": "Maso ulož do hrnce bez překládání a přilij jen tolik vody, aby hladina sahala po povrch masa.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej sůl, pepř, cibuli a bobkový list.",
+      "minutes": 2
+    },
+    {
+      "text": "Hrnec pevně přikryj a nech na mírném ohni dusit 3 až 4 hodiny, dokud maso není měkké.",
+      "minutes": 240
+    },
+    {
+      "text": "Maso vyjmi a vývar nech v hrnci. Maso nakrájej napříč vlákny.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj Navy 1944: Simmered Beef, tištěná strana 103 (PDF 111). Zdroj neuvádí množství vody (jen „přilij vodu po hladinu masa“), proto je 500 ml odhad; vývar zůstává v hrnci a v originále se podává s bramborami, jeho objem je zahrnut v bilanci. Sůl: Weight 8 oz (1 cup soli je zhruba 10 oz, není to rozpor); použita váha, v souladu s hmotností masa a poměrem u French Pot Roast na téže stránce (6 oz na 40 lb). Faktor koření (seasoning) z 8 oz na 4 porce dává 15 g, tj. 3,75 g na porci, zatímco lineárně by to bylo jen 9 g (2,3 g na porci). Sůl 3,75 g na porci je nad doporučením, ale odpovídá zdroji a sůl zůstává v konzumovaném vývaru, proto není třída vessel. Doporučuji ji snížit na polovinu podle chuti. Bilance: porce zdroje 5 oz (142 g) je hotové maso; 190 g syrového masa na porci se po uvaření smrskne zhruba na tuto hmotnost, takže nález 2,3× je interpretace, ne chyba. Maso bez kosti zvoleno z dvojice (bone-in 60 lb / boneless 42 lb). Doporučení k podávání (brambory vařené ve vývaru, křenová omáčka s odkazem na s. 175) nejsou v receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 111,
+    "titleOriginal": "Simmered Beef"
+  },
+  "verified": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "cibule-na-masle",
+  "title": "Cibule na másle",
+  "titleOriginal": "Buttered Onions",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 460,
+      "unit": "g",
+      "note": "oloupaná, nakrájená na čtvrtky nebo plátky; z nákupní hmotnosti 28 lb (A.P.), jedlá část 0,9"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření cibule, slije se; domácí hodnota (1 l na 1 kg cibule, nejméně 1 l)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli oloupej, opláchni a nakrájej na čtvrtky nebo plátky.", "minutes": 8 },
+    { "text": "V hrnci přiveď osolenou vodu k varu.", "minutes": 8 },
+    { "text": "Do vroucí vody vlož cibuli a vař bez přikrytí, dokud nezměkne.", "minutes": 25 },
+    { "text": "Dobře sceď.", "minutes": 2 },
+    { "text": "Přidej rozpuštěné máslo a promíchej.", "minutes": 2 },
+    { "text": "Podávej, pokud chceš, posypanou paprikou nebo nasekanou petrželkou." }
+  ],
+  "modernNote": "Zdroj vaří 28 lb cibule na 100 porcí v 6 galonech osolené vody (4 oz soli), která se slévá. Slévaná voda je zde domácí hodnota: 1 l a sůl 2 g na 1 l (zdrojová hodnota vody by na 4 porce dala asi 0,9 l vody v kotli, sůl 7 g by se slila bez užitku). Cibule je přepočtena z nákupní hmotnosti přes jedlou část 0,9 a zaokrouhlena na 460 g. Máslo 1 lb 8 oz přepočteno na 25 g. Zdroj uvádí vaření asi 25 minut (do měkka), použito 25 minut; vař podle měkkosti cibule. Porce ze zdroje je 4 až 4½ oz (zhruba ⅔ šálku). Varianty ze zdroje (sladké kroužky ze španělské cibule, cibule au gratin se sýrovou omáčkou, creamed onions) nejsou rozepsány; kroužky se připravují stejně jako tato verze. Pokud chceš bohatší chuť, zvyš máslo na 30 g.",
+  "source": {
+    "book": "navy-1944",
+    "page": 280,
+    "titleOriginal": "BUTTERED ONIONS"
+  },
+  "verified": true,
+  "quote": "Add salt to water. Heat to boiling temperature."
+}

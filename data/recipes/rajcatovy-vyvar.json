@@ -1,0 +1,108 @@
+{
+  "id": "rajcatovy-vyvar",
+  "title": "Rajčatový vývar",
+  "titleOriginal": "Tomato Stock or Broth",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 680,
+      "unit": "ml",
+      "note": "kupovaný hovězí vývar; zdroj: Beef Stock (s. 216, PDF 224) nebo voda"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 350,
+      "unit": "g",
+      "note": "rozsekaná, včetně nálevu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zahřej vývar k varu.",
+      "minutes": 6
+    },
+    {
+      "text": "Přidej nakrájený celer a cibuli, rajčata, sůl, pepř a cukr. Vař 20 minut, dokud zelenina nezměkne.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím v misce smíchej rozpuštěné máslo s moukou do hladké pasty.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Jíšku vmíchej do horké směsi a vař za stálého míchání, dokud nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Přeceď přes síto.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj Tomato Stock or Broth (s. 219, PDF 227). Vývar: zdroj uvádí hovězí vývar (Beef Stock, s. 216 = PDF 224) nebo vodu; použit kupovaný hovězí vývar v množství ze zdroje (4½ gal). Rajčata 19 lb 2 oz jsou z konzerv včetně nálevu. Tuk „Butter or other fat, melted“ je máslo v jíšce, proto třída linear. Sůl 6 oz na 100 porcí dává přes třídu seasoning 2,75 g na porci (nad doporučených 2,5 g); je to podle zdroje, doporučuji ji ubrat na chuť. Cukr 8 oz je seasoning, na chuť lze ubrat. Porce 1 cup (8 oz) vychází těžší (294 g) kvůli vodnatým rajčatům v konzervě; ztráta varem je malá.",
+  "source": {
+    "book": "navy-1944",
+    "page": 227,
+    "titleOriginal": "Tomato Stock or Broth"
+  },
+  "verified": true
+}

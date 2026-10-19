@@ -1,0 +1,137 @@
+{
+  "id": "tresnova-rolada",
+  "title": "Třešňová roláda",
+  "titleOriginal": "Cherry Roll",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 85,
+      "unit": "g",
+      "note": "na těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do těsta i do omáčky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 140,
+      "unit": "g",
+      "note": "do těsta, na náplň i do omáčky"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 16,
+      "unit": "g",
+      "note": "do těsta, zapracované",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 16,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 70,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "visne",
+      "amount": 240,
+      "unit": "g",
+      "note": "scezené a zbavené pecek; čerstvé nebo z konzervy"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 9,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.07,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 0.47,
+      "unit": "g",
+      "note": "jen strouhaná kůra, do omáčky",
+      "scaling": "aromatic"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 16,
+      "unit": "ml",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 170,
+      "unit": "ml",
+      "note": "místo vody nálev z třešní (šťáva z konzervy), do omáčky"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 190 °C a vymaž plech." },
+    { "text": "V míse smíchej mouku, sůl, cukr a prášek do pečiva.", "minutes": 2 },
+    { "text": "Vpracuj máslo, dokud směs nebude jako hrubá drobenka.", "minutes": 4 },
+    { "text": "Vlij mléko a zpracuj na měkké těsto jako na sušenky.", "minutes": 2 },
+    { "text": "Na pomoučeném povrchu vyválej těsto asi 0,6 cm silné.", "minutes": 8 },
+    { "text": "Třešně sceď, zbav pecek a šťávu si nech na omáčku.", "minutes": 5 },
+    { "text": "Smíchej cukr se skořicí.", "minutes": 1 },
+    { "text": "Těsto potři třešněmi a posyp směsí cukru se skořicí.", "minutes": 2 },
+    { "text": "Zarol těsto jako jemnou roládu a polož ji na vymazaný plech.", "minutes": 3 },
+    { "text": "Peč 30 minut při 190 °C, dokud nezezlátne.", "minutes": 30 },
+    { "text": "Mezitím smíchej cukr, kukuřičný škrob, sůl a muškátový oříšek.", "minutes": 2, "parallel": true },
+    { "text": "Mezitím postupně vmíchej šťávu z třešní a za stálého míchání vař asi 5 minut, dokud nezhoustne.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím vmíchej máslo, strouhanou kůru a citronovou šťávu a znovu přiveď k varu.", "minutes": 2, "parallel": true },
+    { "text": "Upečenou roládu nakrájej na plátky a podávej s omáčkou.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí; porce je 1 roláda a ¼ šálku třešňové omáčky. Omáčka je odkaz na Cherry Sauce (strana 57, PDF 65), tj. Lemon Sauce s šťávou z třešní místo vody (variace na téže straně). Její suroviny jsou přepočteny úměrně a zapsány do receptu, cukr z omáčky je sloučen s cukrem do těsta a náplně (jeden řádek). Ztužený rostlinný tuk (shortening) je nahrazen máslem, originál je v `original`. Konzervované třešně (2 plechovky No. 10) jsou použity jako scezené višně; nálev je použit jako šťáva místo vody v omáčce. Hotovo je součet nesouběžných kroků (60 minut), omáčka běží během pečení. Nález u citronové kůry (0,47 g) je správný přepočet: zdroj dává 1½ lžíce strouhané kůry na 100 porcí, tedy jen aroma. Porce pro kontrolu bilance: roláda (cca 120 g) + ¼ šálku omáčky (cca 60 ml) = 6¼ oz.",
+  "source": {
+    "book": "navy-1944",
+    "page": 48,
+    "titleOriginal": "CHERRY ROLL"
+  },
+  "verified": true
+}

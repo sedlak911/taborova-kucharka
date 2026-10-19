@@ -1,0 +1,103 @@
+{
+  "id": "pomerancova-omacka",
+  "title": "Pomerančová omáčka",
+  "titleOriginal": "Orange Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "note": "zdroj: sugar 4 lb 6 oz"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 8,
+      "unit": "g",
+      "note": "zdroj: cornstarch 7 oz"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.29,
+      "unit": "g",
+      "note": "zdroj: salt ¾ tsp"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.13,
+      "unit": "g",
+      "note": "zdroj: cinnamon ¾ tsp"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "zdroj: water, boiling 1 gallon"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj: butter 1 lb 4 oz"
+    },
+    {
+      "ingredientId": "pomeranc",
+      "amount": 3,
+      "unit": "g",
+      "note": "struhaná kůra; zdroj: orange rind, grated 2½ oz"
+    },
+    {
+      "ingredientId": "pomerancova-stava",
+      "amount": 45,
+      "unit": "ml",
+      "note": "zdroj: orange juice 2½ pints"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 5,
+      "unit": "ml",
+      "note": "zdroj: lemon juice 6 tablespoons"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej cukr, kukuřičný škrob, sůl a skořici a pomalu vmíchej do vody.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu a za stálého míchání vař asi 5 minut, dokud nezhoustne.",
+      "minutes": 7
+    },
+    {
+      "text": "Vmíchej máslo, struhanou kůru, pomerančovou šťávu a citronovou šťávu.",
+      "minutes": 2
+    },
+    {
+      "text": "Znovu zahřej k varu."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí, výtěžek 1½ gal, porce 4 tablespoons (2 oz). Na 4 porce vychází 321 g surovin proti 228 g hotové omáčky (4 × 2 oz); rozdíl je odpařená voda při varu, stejně jako u karamelové omáčky ze stejné knihy, přepočet věrně drží zdroj. Na porci tak připadá 81 g proti 57 g ve zdroji. Pomerančová kůra v katalogu chybí, použita je struhaná kůra z pomeranče (`pomeranc`, 3 g). Zdroj omáčku doporučuje na škrobové a rýžové pudinky, ovocné placky a zbytky piškotového dortu. Nález soli (0,07 g na porci) je očekávaný: zdroj dává ¾ lžičky soli na 100 porcí a omáčka je sladká, proto rozsah 0,5–2,5 g pro slané jídlo neplatí; sůl dávkuj podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 66,
+    "titleOriginal": "ORANGE SAUCE"
+  },
+  "verified": true,
+  "quote": "Combine sugar, cornstarch, salt and cinnamon."
+}

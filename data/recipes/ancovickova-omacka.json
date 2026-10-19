@@ -1,0 +1,38 @@
+{
+  "id": "ancovickova-omacka",
+  "title": "Ančovičková omáčka",
+  "titleOriginal": "Anchovy Sauce (Salsa d'acciughe)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "ancovicky", "amount": 55, "unit": "g", "note": "solené, odkostěné (zdroj: solené z plechovky); katalog má v oleji, viz modernNote", "group": "Omáčka" },
+    { "ingredientId": "olivovy-olej", "amount": 55, "unit": "ml", "note": "„generous quantity“, odhad", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.9, "unit": "g", "note": "trochu, podle chuti", "group": "Omáčka" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 40, "unit": "g", "note": "místo koncentrované rajčatové šťávy z konzervy", "group": "Omáčka" },
+    { "ingredientId": "testoviny", "amount": 400, "unit": "g", "note": "špagety, suché", "group": "Špagety" },
+    { "ingredientId": "voda", "amount": 4000, "unit": "ml", "note": "na vaření špaget, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Špagety", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 8, "unit": "g", "note": "do vody na vaření, slije se (lehce osolená voda)", "group": "Špagety", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Velký hrnec lehce osolené vody postav na plotnu a přiveď k varu.", "minutes": 15 },
+    { "text": "Mezitím ančovičky opláchni v hodně vody, odstraň hlavy, vnitřnosti a páteř. Krátce je spař ve vroucí vodě, sundej kůži, odkostěj a nasekej.", "minutes": 10, "parallel": true },
+    { "text": "Do vroucí vody vhoď špagety a vař je 10 až 12 minut, dokud nejsou měkké. Dobře je sceď.", "minutes": 12 },
+    { "text": "Zatímco se špagety vaří, dej nasekané ančovičky na mírný oheň s olivovým olejem a trochou pepře. Nech je zahřát, ale nevař.", "minutes": 4, "parallel": true },
+    { "text": "Když jsou ančovičky horké, přidej máslo a rajčatový protlak a dobře promíchej.", "minutes": 3, "parallel": true },
+    { "text": "Scezené špagety přelož do mísy, přelij omáčkou a dobře promíchej, aby omáčka pronikla. Podávej horké.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 14) uvádí omáčku na asi 1 lb (454 g) špaget; pro 4 porce po 100 g (400 g) je přepočet faktorem 0,88 (npm run convert, --yield 4,54). Ančovičky: zdroj říká 5 až 6 ks solených, celých; odhad 60 g s kostmi, po odkostění 55 g. Katalog má ančovičky v oleji, u solených je opláchni a odkostěj; koupíš-li v oleji, počítej olej v omáčce. Olivový olej „generous quantity“ je odhad 55 ml. Máslo 2 polévkové lžíce (28 g) → 25 g. Koncentrovaná rajčatová šťáva 3 polévkové lžíce (48 g) → rajčatový protlak 40 g jako nejbližší náhrada. Pepř „some pepper“ → 0,9 g. Těstoviny 400 g, slévaná voda 4 l (1 l na 100 g) a sůl 8 g do vody (2 g na 1 l) jsou domácí hodnoty; zdroj uvádí jen „slightly salted“. Zdroj zmiňuje i makarony, zde špagety jako v pokynu k omáčce. Doba 30 minut je odhad. Omáčka se obvykle podává bez strouhaného sýra.",
+  "source": {
+    "book": "italian-1919",
+    "page": 20,
+    "titleOriginal": "ANCHOVY SAUCE (Salsa d'Acciughe)"
+  },
+  "verified": false,
+  "quote": "This recipe does not call for the filets of anchovies prepared for hors d'oeuvre, but the less expensive and larger whole anchovies in salt."
+}

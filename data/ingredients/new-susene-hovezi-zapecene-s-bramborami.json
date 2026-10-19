@@ -1,0 +1,27 @@
+[
+  {
+    "id": "susene-hovezi",
+    "name": "Sušené hovězí",
+    "aliases": [
+      "sušené hovězí maso",
+      "dried beef",
+      "hovězí sušené plátky"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 153,
+      "protein": 31.1,
+      "carbs": 2.76,
+      "fat": 1.94,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170604 (Beef, cured, dried)",
+      "refuse": "USDA fdc:170604 refusePct 0"
+    }
+  }
+]

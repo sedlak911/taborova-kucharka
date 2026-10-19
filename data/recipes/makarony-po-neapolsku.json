@@ -1,0 +1,120 @@
+{
+  "id": "makarony-po-neapolsku",
+  "title": "Makarony po neapolsku s mletým masem",
+  "titleOriginal": "Macaroni Napolitaine (Maccheroni alla Napoletana)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "spek",
+      "amount": 115,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "solený bok nebo bůček (¼ lb ze zdroje), nasekaný; na pánvi vytopit"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 malá, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "nasekaná; množství odhad"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 stroužek, nasekaný nadrobno"
+    },
+    {
+      "ingredientId": "houby-susene",
+      "amount": 10,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "několik kusů, namočených v teplé vodě do změknutí, pak nasekaných"
+    },
+    {
+      "ingredientId": "hovezi-zadni",
+      "amount": 230,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "½ lb ze zdroje (round steak), nahrubo namleté nebo nakrájené na kostičky"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 400,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "čerstvá nebo loupaná rajčata z konzervy; zdroj alternativně ½ lžíce rajčatového protlaku"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 400,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "makarony nebo špagety, suché; množství zdroj neuvádí (odhad 100 g na porci)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 4000,
+      "unit": "ml",
+      "group": "Těstoviny",
+      "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "hrst strouhaného sýra na podávání (obecný postup knihy, s. 21)"
+    }
+  ],
+  "steps": [
+    { "text": "Slaninu nebo bůček nasekej nadrobno a na pánvi ji vytop.", "minutes": 8 },
+    { "text": "Mezitím namoč sušené houby do teplé vody, aby změkly.", "minutes": 8, "parallel": true },
+    { "text": "Zároveň nasekej cibuli, petrželku a česnek.", "minutes": 5, "parallel": true },
+    { "text": "Když slanina začne hnědnout, přidej cibuli, petrželku, česnek a vymačkané nakrájené houby. Opékej do hněda, pozor, cibule se rychle připálí.", "minutes": 8 },
+    { "text": "Přidej hovězí maso nakrájené na kostičky (nebo nahrubo mleté) a opékej, dokud nezhnědne.", "minutes": 8 },
+    { "text": "Přidej rajčata a duš na mírném ohni, dokud omáčka nezhoustne do krémové podoby.", "minutes": 45 },
+    { "text": "Mezitím uvař těstoviny v osolené vodě do poloměkka a sceď je.", "minutes": 12, "parallel": true },
+    { "text": "Těstoviny vyklop do mísy, posyp strouhaným sýrem, zalij omáčkou a dobře promíchej dvěma vidličkami.", "minutes": 3 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Gentile uvádí množství masa (½ lb hovězího, ¼ lb slaniny nebo bůčku), cibuli a rajčata, ale nedává počet porcí ani množství těstovin. Hovězí a slanina jsou ze zdroje (230 g a 115 g); při 4 porcích to je jen asi 85 g masa na porci, doporučení je 120–150 g, tedy navýšit na 500 g. Odhady z běžné praxe: 400 g těstovin (100 g na porci), 10 g petrželky, 3 g česneku (1 stroužek), 10 g sušených hub, 30 g parmezánu (zdroj uvádí jen hrst sýra při podávání). Těstoviny se vaří v 1 l vody na 100 g, sůl 2 g na 1 l (domácí hodnota, slije se). Rajčata: zdroj dává čerstvá nebo konzervovaná (400 g) nebo ½ lžíce protlaku. Zdroj zmiňuje, že omáčku lze zahustit trochou mouky, pokud se odděluje; nepřidáno. Doba dušení ze zdroje: ¾ hodiny (45 min). Sůl do omáčky zdroj nezmiňuje; dochuť podle chuti.",
+  "source": {
+    "book": "italian-1919",
+    "page": 24,
+    "titleOriginal": "MACARONI NAPOLITAINE (Maccheroni alla Napoletana)"
+  },
+  "verified": false,
+  "quote": "This sauce is used to dress all kinds of macaroni and spaghetti, also for boiled rice."
+}

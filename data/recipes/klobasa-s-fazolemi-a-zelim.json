@@ -1,0 +1,147 @@
+{
+  "id": "klobasa-s-fazolemi-a-zelim",
+  "title": "Klobása s fazolemi a zelím",
+  "titleOriginal": "Sausage, Beans and Greens",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-bile-v-konzerve",
+      "amount": 270,
+      "unit": "g",
+      "note": "scezené, nálev vynechán"
+    },
+    {
+      "ingredientId": "klobasa",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na plátky asi 1,3 cm",
+      "original": {
+        "ingredientId": "kruti-klobasa-syrova",
+        "amount": 100,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "salvej",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "místo kajenského pepře (cayenne)"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.61,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cibule-prasek",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 450,
+      "unit": "ml",
+      "note": "kupovaný"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 340,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 240,
+      "unit": "g",
+      "note": "nakrájené na kostky"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 260,
+      "unit": "g",
+      "note": "rozebrané na vlákna"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 110,
+      "unit": "g",
+      "note": "místo kadeřávku, stejná hmotnost",
+      "original": {
+        "ingredientId": "kapusta-kaderavek",
+        "amount": 110,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mrkev-mrazena",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet-jablecny",
+      "amount": 6,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.61,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Fazole opláchni v studené vodě a dobře sceď." },
+    { "text": "Klobásu nakrájej na plátky asi 1,3 cm.", "minutes": 2 },
+    { "text": "Ve velkém hrnci nebo kotlíku za stálého míchání opékej klobásu, dokud nezíská barvu.", "minutes": 8 },
+    { "text": "Přidej cibuli a za stálého míchání ji opékej 4–5 minut, dokud nebude průhledná. Přidej tymián, šalvěj, pálivou papriku, česnekový a cibulový prášek a za stálého míchání opékej 1 minutu.", "minutes": 6 },
+    { "text": "Přidej kuřecí vývar, vodu, fazole, brambory, vařené kuřecí maso, zelí, mrkev, ocet, cukr, sůl a černý pepř. Přiveď k varu.", "minutes": 10 },
+    { "text": "Přikryj, sniž teplotu a duš 20–25 minut, dokud brambory nezměknou.", "minutes": 25 }
+  ],
+  "modernNote": "Kadeřávek nahrazen bílým zelím (stejná hmotnost 110 g; původní kadeřávek v original). Krůtí klobása nahrazena českou klobásou (krůtí zapsána v original). Vývar je kupovaný kuřecí. Fazole z konzervy scezené, nálev vynechán. Česká klobása je tučnější než krůtí, proto je recept o ~50 kcal na porci výživnější než zdroj. Vynechány CCP teploty a pokyn pro výdej do pánví.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1077,
+    "code": "L 224 00",
+    "titleOriginal": "SAUSAGE, BEANS AND GREENS"
+  },
+  "verified": true
+}

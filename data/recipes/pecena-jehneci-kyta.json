@@ -1,0 +1,38 @@
+{
+  "id": "pecena-jehneci-kyta",
+  "title": "Pečená jehněčí kýta",
+  "titleOriginal": "Roast of Lamb (Arrosto d'agnello)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 1,
+  "tags": ["pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 700, "unit": "g", "note": "kus kýty s kostí, asi 540 g masa bez kosti; zdroj nevyčíslil" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "note": "na potření kýty a na pekáč (asi 2 lžíce)" },
+    { "ingredientId": "ocet", "amount": 5, "unit": "ml", "note": "zdroj: „a drop of vinegar“, asi 1 lžička; klidně méně" },
+    { "ingredientId": "rozmaryn-cerstvy", "amount": 5, "unit": "g", "note": "asi 2 větvičky; zdroj: bobkový list nebo rozmarýn" }
+  ],
+  "steps": [
+    { "text": "Kýtu osol a opepři, potři olejem a zakápni octem.", "minutes": 5 },
+    { "text": "Špičkou nože propíchej maso na několika místech a do zářezů vtlač lístky rozmarýnu.", "minutes": 3 },
+    { "text": "Kýtu nech v chladu odležet alespoň 4 hodiny." },
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Kýtu polož do pekáče a peč, dokud maso není měkké a propečené.", "minutes": 60 },
+    { "text": "Vyndej z trouby a nech ji před krájením odpočinout.", "minutes": 10 },
+    { "text": "Před podáváním vyndej rozmarýn a maso nakrájej na plátky.", "minutes": 5 },
+    { "text": "Podávej horké s vlastní šťávou z pekáče." }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 96) uvádí jen sůl, pepř, olej a kapku octa; množství, počet porcí i čas pečení chybí a jsou odhadnuty pro 4 porce: kus kýty 700 g s kostí (asi 540 g masa, asi 135 g na porci), sůl 6 g, pepř 1 g, olej 30 ml, ocet 5 ml. Zdroj uvádí „a leg of lamb“, tedy celou kýtu; pro 4 porce stačí kus kýty. Doba pečení 60 minut při 180 °C je orientační, pro kýtu bez kosti kratší, rozhodující je měkkost masa. Zdroj připouští pečení v troubě, nebo nasazení na rožeň. Maso se nechává odležet alespoň 4 hodiny (tag pripravit-predem). Výraz „lard it with bay leaf or rosemary“ chápu jako vtlačení bylinek do zářezů, nikoli jako sádlo; bobkový list lze dát místo rozmarýnu (2 ks). Čas 85 minut je odhad bez odležení.",
+  "source": {
+    "book": "italian-1919",
+    "page": 100,
+    "titleOriginal": "ROAST OF LAMB (Arrosto d'agnello)"
+  },
+  "verified": false,
+  "quote": "Take a leg of lamb and season it with salt, pepper, oil and a drop of vinegar."
+}

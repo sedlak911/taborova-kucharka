@@ -1,0 +1,60 @@
+{
+  "id": "dusena-cibule-ze-susene",
+  "title": "Dušená cibule ze sušené cibule",
+  "titleOriginal": "Smothered Onions (Using dehydrated onions)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cibule-susena",
+      "amount": 55,
+      "unit": "g",
+      "note": "sušená cibule (zdroj 3 lb na 100 porcí); rehydratací vznikne zhruba šestinásobek hmotnosti"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 380,
+      "unit": "ml",
+      "note": "na namočení a vaření cibule (zdroj 2½ gal); většina se vsákne, zbytek se sleje"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na restování cibule, zůstává v jídle (zdroj 1½ lb tuku, „Fat“)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti (zdroj 2½ oz na 100 porcí; třída seasoning)"
+    }
+  ],
+  "steps": [
+    { "text": "Sušenou cibuli vmíchej do vody, přikryj a nech 60 minut namočit.", "minutes": 60 },
+    { "text": "Pomalu přiveď k varu.", "minutes": 5 },
+    { "text": "Vař asi 20 minut, dokud cibule nezměkne, a sceď.", "minutes": 22 },
+    { "text": "Na pánvi rozehřej tuk na středním ohni.", "minutes": 3 },
+    { "text": "Přidej scezenou cibuli a za častého míchání ji opékej, dokud lehce nezhnědne a nezměkne.", "minutes": 12 },
+    { "text": "Osol." }
+  ],
+  "modernNote": "Zdroj: Navy 1944, tišt. s. 273 (PDF 281), varianta „Smothered Onions (Using dehydrated onions)“ pro 100 porcí, porce zdroje asi 2½ oz (⅓–½ hrnku). Stránka obsahuje i Creamed Onions (varianta s krémovou omáčkou, nezpracována) a Glazed Onions (jiný recept), oba do tohoto souboru nepatří. Sušená cibule zůstává v řádku, protože rehydratace je pointou receptu; čerstvá cibule by dala jiný postup. Zdroj uvádí 1 lb sušené ≈ 12½ lb čerstvé nebo 6½–7 lb rehydratované cibule. Tuk: zdroj „Fat“ je sádlo (v original), moderně řepkový olej; zůstává v jídle, proto třída linear. Voda 380 ml je linear, protože se většinou vsákne do cibule; zbytek se sleje. Sůl: katalogová třída seasoning dává 5 g na 4 porce (zdroj 2½ oz na 100 porcí; lineárně by vyšlo 2,8 g). Doporučuji ubrat na 2–3 g podle chuti. Nález bilance (116 g na porci proti 71 g porce zdroje, poměr 1,64) vysvětluje sleitá voda: 380 ml vody se po namočení a varu z velké části slije, do porce jde scezená cibule. Doba: namáčení 60 minut ze zdroje, zbytek odhad z postupu. Recept je bezmasý a bez trouby.",
+  "source": {
+    "book": "navy-1944",
+    "page": 281,
+    "titleOriginal": "SMOTHERED ONIONS (Using dehydrated onions)"
+  },
+  "verified": true
+}

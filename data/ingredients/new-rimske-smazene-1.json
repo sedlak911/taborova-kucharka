@@ -1,0 +1,30 @@
+[
+  {
+    "id": "oplatky",
+    "name": "Oplatky (nesladké, tenké)",
+    "aliases": [
+      "oplatka",
+      "nesladké oplatky",
+      "tenké oplatky",
+      "wafers, unsweetened"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 334,
+      "protein": 9.6,
+      "carbs": 80.4,
+      "fat": 0.9,
+      "fiber": 22.9
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:172744 (Crackers, rye, wafers, plain)",
+      "refuse": "náhrada za nesladké tenké oplatky z lékárenského typu; odpad 0 %"
+    }
+  }
+]

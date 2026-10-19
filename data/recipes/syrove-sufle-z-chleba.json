@@ -1,0 +1,87 @@
+{
+  "id": "syrove-sufle-z-chleba",
+  "title": "Sýrové suflé z chleba",
+  "titleOriginal": "Cheese Souffle",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "ryby",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 1.65,
+      "unit": "ks",
+      "note": "rozšlehaná; zdroj 4 lb 8 oz (2041 g), počítáno na 50 g/ks"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 570,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 8,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 7,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 165,
+      "unit": "g",
+      "note": "bez kůrky, nakrájený na plátky"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 110,
+      "unit": "g",
+      "note": "nastrouhaný"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 175 °C a vymaž zapékací misku." },
+    { "text": "V míse rozšlehej vejce s mlékem.", "minutes": 2 },
+    { "text": "Přidej papriku, worcestrovou omáčku, sůl a rozpuštěné máslo a dobře promíchej.", "minutes": 2 },
+    { "text": "Zbav chléb kůrky a polož vrstvu chleba na dno vymazané misky.", "minutes": 3 },
+    { "text": "Posyp sýrem a střídavě skládej vrstvy chleba a sýra, až je vše použito.", "minutes": 3 },
+    { "text": "Zalij směsí z vajec a mléka a nech stát, aby se chléb nasákl.", "minutes": 15 },
+    { "text": "Postav misku do větší pánve s horkou vodou, aby se suflé uvařilo jemně.", "minutes": 2 },
+    { "text": "Peč ve vodní lázni, dokud suflé nezpevní.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí; 4 lb 8 oz vajec vychází na 1,65 ks (aplikace zobrazí zaokrouhleně na půlky; použij 2 menší vejce nebo 1 velké a trochu navíc mléka). Tuk „Butter or other fat, melted“ je máslo (rozpuštěné). Zdroj mazání misky („greased pan“) nepopisuje množstvím, proto není v surovinách; případně použij kousek másla navíc. Sůl a paprika jsou přepočteny jako koření z hmotnosti (3 oz soli, 6 lžic papriky ≈ 40 g). Worcestrová omáčka z ½ cupu přepočtena objemem. Pečení ve vodní lázni podle poznámky zdroje (horká voda v pánvi, aby suflé bylo hladké). Postup pokračuje na straně 35 PDF.",
+  "source": {
+    "book": "navy-1944",
+    "page": 34,
+    "titleOriginal": "CHEESE SOUFFLE"
+  },
+  "verified": true,
+  "quote": "Before baking set pan of souffle in pan of hot water to insure smooth texture and bake."
+}

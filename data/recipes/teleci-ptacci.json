@@ -1,0 +1,131 @@
+{
+  "id": "teleci-ptacci",
+  "title": "Telecí ptáčci",
+  "titleOriginal": "Veal Birds",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 145,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 640,
+      "unit": "g",
+      "note": "bez kosti; plátky asi 80 g (zdroj 3 oz)"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 290,
+      "unit": "g",
+      "note": "den starý, na kostky; nádivka ze str. 164 (20 lb dávky na 100 porcí)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 15,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 75,
+      "unit": "g",
+      "note": "nasekaný nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na restování zeleniny do nádivky"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "salvej",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "note": "celkem ze všech částí (maso, nádivka, omáčka); 3,8 g na porci, doporučení ubrat"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "celkem ze všech částí"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 50,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na obalení rolád a do jíšky omáčky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 100,
+      "unit": "g",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 100,
+        "unit": "g"
+      },
+      "note": "na opečení rolád v mělkém tuku"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 14,
+        "unit": "g"
+      },
+      "note": "tuk z pečeně, do jíšky omáčky"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 230,
+      "unit": "ml",
+      "note": "masový vývar do omáčky (zdroj Meat Stock, str. 216)"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 150 °C a maso nakrájej na stejné obdélníkové plátky. Osol je a opepři.", "minutes": 10 },
+    { "text": "Chléb nakrájej na kostky a smíchej s tymiánem, šalvějí, solí a pepřem.", "minutes": 5 },
+    { "text": "Cibuli a celer nasekej nadrobno a na másle je restuj, dokud nebudou průhledné.", "minutes": 8 },
+    { "text": "Přidej je k chlebu a lehce promíchej. Nech vychladnout.", "minutes": 5 },
+    { "text": "Na každý plátek masa nanes náplň, zarolu ho a zajisti párátky.", "minutes": 10 },
+    { "text": "Rolády obal v mouce.", "minutes": 3 },
+    { "text": "Na rozpálené pánvi s olejem opékej rolády ze všech stran dozlatova.", "minutes": 10 },
+    { "text": "Na zbylém másle zpěň zbytek mouky do zlatova.", "minutes": 5 },
+    { "text": "Za stálého míchání postupně zalévej vývarem a vař do zhoustnutí. Dochuť solí a pepřem.", "minutes": 10 },
+    { "text": "Rolády vlož do zapékací mísy, zalij omáčkou a přikryj.", "minutes": 2 },
+    { "text": "Peč přikryté 1 až 1½ hodiny, dokud maso není měkké.", "minutes": 75 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po dvou ptáčcích; 4 porce = 8 ptáčků po asi 80 g masa. Nádivka a omáčka jsou odkazované recepty: „Bread Dressing or Stuffing“ (str. 164, dávka 25 lb, zdroj používá 20 lb = ×0,8) a „Savory Brown Gravy“ (str. 177, dávka 2 gal, zdroj používá 1½ gal = ×0,75); jejich suroviny jsou započteny úměrně. Sůl: 6 oz na maso + 2 oz do nádivky + 1 oz do omáčky = 15 g na 4 porce (při třídě seasoning asi 3,8 g na porci) – doporučuji ubrat asi na polovinu. Zdroj nespecifikuje druh „Meat Stock“, použit hovězí vývar (ne voda). Tuk na smažení (4 lb) je modernizován na řepkový olej 100 g, třída fat, sádlo do original. Tuk z pečeně a tuk do nádivky je máslo (zdroj Fat/Butter). Lžičky a lžíce pepře a tymiánu přepočteny přes 2,3 g/tsp a 2,7 g/tbsp (odhad). Teplota: slow oven 300 °F = 150 °C. Varianta s kostí (50 lb) a tomatová omáčka jako náhrada hnědé (str. 184) nepoužity.",
+  "source": {
+    "book": "navy-1944",
+    "page": 156,
+    "titleOriginal": "VEAL BIRDS"
+  },
+  "verified": true
+}

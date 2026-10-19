@@ -1,0 +1,35 @@
+{
+  "id": "ovocny-pohar",
+  "title": "Ovocný pohár",
+  "titleOriginal": "Fruit Cup",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["sladke", "rychle", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ananas-konzervovany", "amount": 240, "unit": "g", "note": "drcený, scezený" },
+    { "ingredientId": "hrusky-v-konzerve", "amount": 120, "unit": "g", "note": "nakrájené, scezené" },
+    { "ingredientId": "broskve-v-konzerve", "amount": 120, "unit": "g", "note": "nakrájené, scezené" },
+    { "ingredientId": "pomeranc", "amount": 75, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "grapefruit", "amount": 120, "unit": "g", "note": "sekce", "original": { "ingredientId": "grapefruit-v-konzerve", "amount": 120, "unit": "g" } },
+    { "ingredientId": "cukr-krystal", "amount": 25, "unit": "g" },
+    { "ingredientId": "citronova-kura", "amount": 1, "unit": "g", "note": "strouhaná" }
+  ],
+  "steps": [
+    { "text": "Ananas, hrušky a broskve dobře sceď.", "minutes": 3 },
+    { "text": "Pomeranč oloupej, zbav bílých blan a nakrájej na kostičky. Grapefruit rozděl na kousky.", "minutes": 6 },
+    { "text": "Ve velké míse smíchej všechno ovoce s cukrem a strouhanou citronovou kůrou.", "minutes": 3 },
+    { "text": "Důkladně ochlaď v lednici před podáváním." }
+  ],
+  "modernNote": "Zdroj počítá s ovocem z No. 10 konzerv; ananas a broskve se berou jako scezené konzervované kousky. Hrušky z konzervy v katalogu chyběly, založeny jako hrusky-v-konzerve (USDA fdc:168182). Grapefruit je v jídle čerstvý, konzervovaný je v original (v katalogu nebyl nalezen USDA záznam, výživa odhadnuta podle čerstvého). Pomeranče jsou čerstvé, zdroj je uvádí nakrájené. Citronová kůra a cukr podle tabulky. Poznámka zdroje 1 (jablko, banán) a 2 (sirupy do ovocných nápojů) nepoužita. Zdroj neuvádí dobu chlazení; krok bez minut. Bilance: zdrojová váha surovin je 620 oz na 100 porcí (6,2 oz na porci), porce 5 oz, rozdíl ~1,24× je dán hmotností scezeného ovoce a nelze jej vyrovnat bez úpravy zdroje.",
+  "source": {
+    "book": "navy-1944",
+    "page": 83,
+    "titleOriginal": "FRUIT CUP"
+  },
+  "verified": true
+}

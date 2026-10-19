@@ -1,0 +1,57 @@
+{
+  "id": "citronovy-sirup",
+  "title": "Citronový sirup",
+  "titleOriginal": "Lemon Syrup (Sciroppo di limone)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 15,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "citron",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "velké; použij jen dužinu bez semen, kůra zvlášť"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 180,
+      "unit": "g",
+      "note": "1,5 libry ze zdroje"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 65,
+      "unit": "ml",
+      "note": "1 sklenice (tumbler) ze zdroje"
+    }
+  ],
+  "steps": [
+    { "text": "Citrony oloupej, dužinu odděl od bílé slupky, nemačkej ji a vyber všechna semínka.", "minutes": 5 },
+    { "text": "Z kůry citronu nožíkem nakrájej tenký proužek.", "minutes": 2 },
+    { "text": "Dej vodu na oheň a přidej proužek kůry.", "minutes": 3 },
+    { "text": "Když je voda téměř na varu, přisyp cukr a proužek kůry vyndej.", "minutes": 2 },
+    { "text": "Do sirupu vlož dužinu z citronu.", "minutes": 2 },
+    { "text": "Vař, dokud se sirup nezhustí a není dovařený: na hladině se tvoří perličky a sirup má barvu bílého vína.", "minutes": 15 },
+    { "text": "Nalij do láhve. Před pitím zřeď sklenicí ledové vody." }
+  ],
+  "modernNote": "Gentile množství uvádí ve větách (3 velké citrony, 1,5 libry cukru, sklenice vody) a porce neuvádí. Dávka dá asi 750 ml sirupu, tedy 15 porcí po 50 ml (originalYield 15); recept ukazuje 4 porce, asi 200 ml sirupu: 0,8 citronu, 180 g cukru a 65 ml vody. Sklenice (tumbler) ze zdroje odhadnuta na 250 ml, velký citron na asi 45 g dužiny (hodnota katalogu). 1 porce = 50 ml sirupu na sklenici nápoje, ředí se ledovou vodou; na zásobu nastav 15 porcí. Doporučení: sirup uchovej v zavřené láhvi v chladu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 152,
+    "code": "č. 211 (s. 148)",
+    "titleOriginal": "LEMON SYRUP (Sciroppo di limone)"
+  },
+  "verified": false,
+  "quote": "A small quantity will make a delightful beverage."
+}

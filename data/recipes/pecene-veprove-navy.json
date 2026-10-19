@@ -1,0 +1,127 @@
+{
+  "id": "pecene-veprove-navy",
+  "title": "Pečené vepřové",
+  "titleOriginal": "Roast Pork",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 135,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-plec",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti; zdroj uvádí 42 lb bez kosti (alternativa 55–60 lb s kostí)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "note": "na maso"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "note": "na maso"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "tuk z výpeku pečeně",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "note": "na jíšku"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "masový vývar (Meat Stock, str. 216)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do omáčky",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "do omáčky",
+      "scaling": "seasoning"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 160 °C."
+    },
+    {
+      "text": "Maso rozděl na kusy a otři solí a pepřem.",
+      "minutes": 5
+    },
+    {
+      "text": "Ulož do pekáče tučnou stranou nahoru, kusy nestohuj.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč nezakryté bez přidání vody do úplného propečení, asi 90 minut.",
+      "minutes": 90
+    },
+    {
+      "text": "Vyjmi maso z pekáče a nech asi 30 minut odpočinout.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím z pekáče odlij tuk do hrnce, vmíchej mouku a za stálého míchání restuj, dokud mouka nezhnědne.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím postupně přilévej vývar a za stálého míchání vař, dokud omáčka nezhoustne a nezhladí.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím do omáčky vmíchej sůl a pepř.",
+      "minutes": 1,
+      "parallel": true
+    },
+    {
+      "text": "Maso nakrájej napříč vlákny na tenké plátky.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5 oz; pro 4 porce 760 g masa bez kosti (ze 42 lb). Zdroj nerozlišuje kus, použit kus bez kosti a plec (kusy 6–8 lb s tukem nahoře); pro krkovici nebo kotletu změň id. Pečení 160 °C místo 325 °F. Doba 90 minut pro menší kus místo 45–50 minut na libru u velkých pečení; kontroluj vnitřní teplotu (70 °C). Sůl celkem 4,25 g na porci (15 g na maso + 2 g do omáčky) je vysoká; doporučuji ubrat, zdroj ji míchá do masa silně. Omáčka z výpeku je z pečeně Brown Gravy (str. 177, PDF 185): 1 lb tuku, 1 lb mouky, 2 gal vývaru, 1 oz soli a 2 tsp pepře na 100 porcí při 1/3 cupu na porci; přidána úměrně 1:1 k pečeni (4 porce = 300 ml). Zdroj podává i s jablečným pyré nebo brusinkami; nepřidáno. Vývar v omáčce je masový (Meat Stock, str. 216), mapován na hovezi-vyvar. Sádlo z výpeku je v originálu, moderně máslo. Bilance 231 g na porci proti 142 g porce zdroje je v pořádku: 190 g syrového masa na porci se při pečení zmenší o čtvrtinu a přidává se omáčka 75 ml.",
+  "source": {
+    "book": "navy-1944",
+    "page": 139,
+    "titleOriginal": "ROAST PORK"
+  },
+  "verified": true,
+  "quote": "Roast, uncovered without addition of water, in slow oven."
+}

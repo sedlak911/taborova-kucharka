@@ -1,0 +1,89 @@
+{
+  "id": "rajcatova-omacka",
+  "title": "Rajčatová omáčka",
+  "titleOriginal": "Tomato Sauce (Salsa di Pomidoro)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "rajce",
+      "amount": 800,
+      "unit": "g",
+      "note": "7–8 středně velkých zralých rajčat, nakrájených na kousky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "čtvrtina střední cibule, najemno"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 stroužek, najemno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek řapíkatého celeru dlouhý jako prst, najemno"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "note": "několik listů, nasekaných"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "dostatek, najemno nasekaná"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 lžíce; lze nahradit máslem"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    { "text": "Najemno nasekej čtvrtinu cibule, stroužek česneku, kousek řapíkatého celeru dlouhý jako prst, bobkové listy a petržel.", "minutes": 6 },
+    { "text": "Přidej olej, sůl a pepř, rajčata nakrájej na kousky a vše dej na mírný oheň.", "minutes": 4 },
+    { "text": "Míchej a vař, dokud šťáva nezhoustne na řídký krém.", "minutes": 25 },
+    { "text": "Omáčku prolisuj přes síto a podávej.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 14) uvádí suroviny jen jako „čtvrt cibule, stroužek česneku, kousek celeru dlouhý jako prst, několik bobkových listů, dost petržele, olej, sůl, pepř, sedm nebo osm rajčat“, bez počtu porcí. Množství počítám jako přímou dávku pro 4 porce (bez přepočtu, výtěžek zdroje není znám): 800 g rajčat (7–8 středních kusů po cca 110 g), cibule 40 g, česnek 5 g, celer 20 g, bobkový list 2 ks, petržel nať 10 g, olivový olej 15 ml (1 lžíce), sůl 4 g, černý pepř 0,5 g. Vše jde ze zdroje kromě odhadů hmotnosti; odhady jsou z běžné praxe. Sůl a pepř přidávám podle chuti. Podle zdroje se omáčka hodí na vařené maso, na těstoviny a rýži s máslem a sýrem; houby zdroj doporučuje jako přídavek. Zdroj uvádí i variantu s rajčatovým protlakem ředěným vodou a s konzervovanými rajčaty; ta v receptu není. Čas 40 minut je odhad (příprava cca 10 minut, zhoustnutí cca 25 minut). Dobu vaření zdroj neuvádí, ale zhoustnutí do řídkého krému je jasný znak, na který se čeká.",
+  "source": {
+    "book": "italian-1919",
+    "page": 18,
+    "titleOriginal": "TOMATO SAUCE (Salsa di Pomidoro)"
+  },
+  "verified": false,
+  "quote": "Season with a little oil, salt and pepper, cut up seven or eight tomatoes and put everything over the fire together."
+}

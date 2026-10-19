@@ -1,0 +1,53 @@
+{
+  "id": "brokolice-se-syrem-a-ryzi",
+  "title": "Brokolice se sýrem a rýží",
+  "titleOriginal": "Broccoli, Cheese, and Rice",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba", "plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 65, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "voda", "amount": 170, "unit": "ml", "note": "do rýže, vsákne se" },
+    { "ingredientId": "cibule", "amount": 50, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 160,
+      "unit": "ml",
+      "note": "rekonstituované z sušeného mléka a teplé vody",
+      "original": { "ingredientId": "mleko-susene", "amount": 9, "unit": "g" }
+    },
+    { "ingredientId": "polevka-houbova-krem", "amount": 170, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "oregano", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "brokolice", "amount": 490, "unit": "g", "note": "mražená, rozmražená, růžičky" },
+    { "ingredientId": "taveny-syr", "amount": 145, "unit": "g", "note": "americký typ, plátky" },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "rozpuštěné, na posyp",
+      "original": { "ingredientId": "margarin", "amount": 13, "unit": "g" }
+    },
+    { "ingredientId": "strouhanka", "amount": 18, "unit": "g", "note": "na posyp" }
+  ],
+  "steps": [
+    { "text": "Rýži, vodu, cibuli a sůl dej do hrnce a přiveď k varu. Občas zamíchej.", "minutes": 3 },
+    { "text": "Hrnec přikryj a na mírném ohni duš 20–25 minut. Nemíchej.", "minutes": 25 },
+    { "text": "Mléko smíchej s polévkou, česnekem, pepřem a oreganem. Vmíchej do rýže a za stálého míchání přiveď k varu.", "minutes": 3, "parallel": true },
+    { "text": "Přidej brokolici, za stálého míchání přiveď k varu a duš 5 minut, dokud brokolice není téměř měkká.", "minutes": 8 },
+    { "text": "Sniž teplotu, vmíchej sýr a míchej, dokud se nerozpustí.", "minutes": 2 },
+    { "text": "Směs přelij do zapékací mísy." },
+    { "text": "Smíchej rozpuštěné máslo se strouhankou a rovnoměrně posyp povrch směsi.", "minutes": 2 },
+    { "text": "Zapékej v troubě na 175 °C (horkovzduch) 15–20 minut, dokud omáčka nezačne bublat a strouhanka lehce nezezlátne. Nepřepékej.", "minutes": 20 }
+  ],
+  "modernNote": "Sušené mléko s vodou nahrazeno polotučným mlékem; zdroj má 7¾ oz sušeného mléka a 8⅓ lb teplé vody (poměr 1 : 17, slabší než běžných 1 : 9), použit objem zdroje. Americký sýr nahrazen taveným sýrem plátkovým, margarín máslem. Zahuštěná houbová polévka ponechána jako konzerva. Brokolice ze zdroje mražená. Zdrojová porce je 1 hrnek; na 4 porce vychází jen 16 g rýže na porci, hlavní složkou je brokolice a sýr.",
+  "source": { "book": "afrs-2003", "page": 825, "code": "L 075 00", "titleOriginal": "BROCCOLI, CHEESE, AND RICE" },
+  "verified": true
+}

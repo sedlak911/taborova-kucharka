@@ -1,0 +1,29 @@
+{
+  "id": "limonada-z-citronu",
+  "title": "Limonáda z čerstvých citronů",
+  "titleOriginal": "Lemonade (using lemons)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "cukr-krystal", "amount": 110, "unit": "g", "note": "rozpuštěný v horké části vody (6 lb na 100 porcí)" },
+    { "ingredientId": "voda", "amount": 910, "unit": "ml", "note": "sloučeno ze dvou položek zdroje: 1 gal horké vody na rozpuštění cukru (150 ml) a 5 gal studené vody (760 ml)" },
+    { "ingredientId": "citronova-stava", "amount": 55, "unit": "ml", "note": "čerstvá šťáva z citronů (1½ qt, zdroj 24 citronů)", "scaling": "linear" },
+    { "ingredientId": "led", "amount": 150, "unit": "g", "note": "odhad, zdroj uvádí jen „to chill“ (podle chuti)" }
+  ],
+  "steps": [
+    { "text": "Ohřej část vody a rozpusť v ní cukr.", "minutes": 5 },
+    { "text": "Přilij studenou vodu a dobře promíchej.", "minutes": 2 },
+    { "text": "Vmíchej citronovou šťávu.", "minutes": 1 },
+    { "text": "Přidej led, až bude nápoj vychlazený." }
+  ],
+  "modernNote": "Zdroj uvádí na 100 porcí výtěžek cca 6¼ gal a porci 1 cup (cca 237 ml). Sůl ani jiné koření nejsou. Cukr 6 lb, horká voda 1 gal, studená voda 5 gal a citronová šťáva 1½ qt jsou přepočtené lineárně na 4 porce (4 šálky, cca 950 ml nápoje). Horká a studená voda jsou sloučeny do jednoho řádku. Množství ledu zdroj neuvádí („to chill“); 150 g je odhad. Součet surovin ze zdroje (cca 6,4 gal) mírně přesahuje výtěžek 6¼ gal; použito podle tabulky. Recept je bez vaření kromě ohřátí části vody na rozpuštění cukru.",
+  "source": { "book": "navy-1944", "page": 30, "titleOriginal": "LEMONADE (Using lemons)" },
+  "verified": false,
+  "quote": "Stir in lemon juice and ice."
+}

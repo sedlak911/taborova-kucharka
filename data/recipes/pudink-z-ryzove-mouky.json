@@ -1,0 +1,86 @@
+{
+  "id": "pudink-z-ryzove-mouky",
+  "title": "Pudink z rýžové mouky",
+  "titleOriginal": "Pudding of Rice Meal (Budino di farina di riso)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 470,
+      "unit": "ml",
+      "note": "zdroj: 1 quart, přepočteno ×0,5; část (asi 120 ml) se nejdřív nalije studená na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "ryzova-mouka",
+      "amount": 100,
+      "unit": "g",
+      "note": "zdroj: 7 oz „rice meal“, přepočteno ×0,5"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 65,
+      "unit": "g",
+      "note": "zdroj: 4½ oz, přepočteno ×0,5"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "odhad: zdroj přidává máslo v postupu, ale množství neuvádí"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "zdroj: 6 vajec, přepočteno ×0,5; zašlehaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "zdroj: „a pinch of salt“"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 1,
+      "unit": "g",
+      "note": "zdroj: „taste of vanilla“, odhad asi ¼ lžičky"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Malou část studeného mléka rozmíchej s rýžovou moukou, aby nevznikly hrudky.", "minutes": 3 },
+    { "text": "Zbylé mléko přiveď k varu a za stálého míchání do něj vlij rozmíchanou mouku.", "minutes": 8 },
+    { "text": "Vař za stálého míchání, dokud směs nezhoustne, potom přidej cukr, máslo a sůl.", "minutes": 10 },
+    { "text": "Sundej z ohně a nech zvlažnět.", "minutes": 10 },
+    { "text": "Vejce rozšlehej a s vanilkovým extraktem je vmíchej do vlažné směsi.", "minutes": 3 },
+    { "text": "Žáruvzdornou formu vymaž máslem a vlij do ní směs.", "minutes": 2 },
+    { "text": "Peč, dokud pudink nezpevní a nahoře nezezlátne.", "minutes": 40 },
+    { "text": "Podávej teplý, nebo vychladlý." }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 140) uvádí suroviny pro celé jídlo bez počtu porcí: 1 quart mléka, 7 oz rýžové mouky, 4½ oz cukru, 6 vajec, špetku soli a vanilku. Dávka vychází na asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8). Máslo zdroj v postupu zmiňuje, ale množství neuvádí: odhad 10 g. Vanilka „taste of“: odhad 1 g. Zdroj nedává teplotu ani dobu pečení: 180 °C a 40 minut jsou doplněny z praxe. Rýžová mouka se rozmíchá v části studeného mléka, aby nevznikly hrudky. Pudink lze podávat teplý i vychladlý.",
+  "source": {
+    "book": "italian-1919",
+    "page": 144,
+    "titleOriginal": "PUDDING OF RICE MEAL (Budino di farina di riso)"
+  },
+  "verified": false,
+  "quote": "Then bake the pudding like all the others and serve warm."
+}

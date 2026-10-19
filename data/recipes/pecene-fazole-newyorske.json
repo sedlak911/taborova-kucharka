@@ -1,0 +1,136 @@
+{
+  "id": "pecene-fazole-newyorske",
+  "title": "Pečené fazole newyorské",
+  "titleOriginal": "New York Baked Beans",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 330,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 220,
+      "unit": "g",
+      "note": "bílé malé (navy)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 530,
+      "unit": "ml",
+      "note": "vařící voda, zůstává v pekáči (nescedí se); zdroj 3–4 galony, střed 3½; studená voda na namočení bez množství, vstřebá se do fazolí"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 14,
+      "unit": "g",
+      "note": "oloupaná, na čtvrtky"
+    },
+    {
+      "ingredientId": "melasa",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.41,
+      "unit": "g",
+      "note": "1 polévková lžíce"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "2 čajové lžičky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 2,
+      "unit": "ml",
+      "note": "1/4 hrnku"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 75,
+      "unit": "g",
+      "note": "solené vepřové (salt pork), na plátky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání pekáče; zdroj uvádí jen „greased“, množství je odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazole přeber a důkladně omyj.",
+      "minutes": 3
+    },
+    {
+      "text": "Zalij je studenou vodou a nech asi 6 hodin namáčet. Nesceď."
+    },
+    {
+      "text": "Přilij vařící vodu, aby byly fazole zakryté.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej cibuli a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Duš asi 1 hodinu, dokud fazole nezměknou, ale nerozpadají se.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej melasu, hnědý cukr, hořčici, papriku, sůl, kečup a ocet a dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Pekáč vymaž olejem."
+    },
+    {
+      "text": "Vrstvi do pekáče střídavě slaninu a fazole; dole slanina, nahoře fazole.",
+      "minutes": 5
+    },
+    {
+      "text": "Peč v pomalé troubě při 150 °C 3 až 4 hodiny. Podle potřeby přilévej tekutinu z vaření fazolí.",
+      "minutes": 240
+    }
+  ],
+  "modernNote": "Melasa a hnědý cukr zůstávají ze zdroje (obojí se dnes běžně prodává), bez modernizace. Studená voda na namočení je ve zdroji „na zakrytí“ bez množství a do řádku se nepočítá, vstřebá se do fazolí; vařící voda je přepočtena ze středu rozsahu 3–4 galony. Fazole se na rozdíl od Boston Baked Beans nesceďují, zbylá tekutina zůstává v pekáči. Sůl 5 oz (10 polévkových lžic) dává přes třídu seasoning 9 g na 4 porce; pokud je chuť slaná, ubírej. Olej na vymazání pekáče doplněn jako odhad (zdroj jen „greased“). Hořčice a paprika jsou v gramech z objemu (1 polévková lžíce, 2 čajové lžičky). Doporučení: nech pekáč přikrytý, aby fazole nevyschly. Nález maso 19 g na porci (solená slanina jako příloha): sedí s kartou (Weight 4 lb × 0,04), ponechávám; jako příloha stačí 75 g slaniny na 4 porce.",
+  "source": {
+    "book": "navy-1944",
+    "page": 258,
+    "titleOriginal": "NEW YORK BAKED BEANS"
+  },
+  "verified": false,
+  "quote": "Bake in slow oven (300° F.) 3 to 4 hours, adding liquid as needed."
+}

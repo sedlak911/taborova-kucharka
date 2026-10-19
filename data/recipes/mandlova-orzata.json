@@ -1,0 +1,75 @@
+{
+  "id": "mandlova-orzata",
+  "title": "Mandlová orzata",
+  "titleOriginal": "Orgeat (Orzata)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 24,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mandle-blansovane",
+      "amount": 35,
+      "unit": "g",
+      "note": "sladké, bez slupky; 10–12 hořkých mandlí ze zdroje nahrazeno aromatem"
+    },
+    {
+      "ingredientId": "horkomandlove-aroma",
+      "amount": 0.1,
+      "unit": "ml",
+      "note": "náhrada za 10–12 hořkých mandlí ze zdroje (po přepočtu asi 2 g); 1 kapka (0,05 ml) na 1 g hořkých mandlí, tedy asi 2 kapky",
+      "original": {
+        "ingredientId": "mandle",
+        "amount": 2,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "pomerancova-kvetova-voda",
+      "amount": 5,
+      "unit": "ml",
+      "note": "asi 1 lžička; zdroj uvádí asi 2 lžíce na celou dávku"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 115,
+      "unit": "ml",
+      "note": "rozdělená na tři stejné části"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 150,
+      "unit": "g",
+      "note": "krystalový"
+    }
+  ],
+  "steps": [
+    { "text": "Mandle jemně rozmel v mlýnku nebo utluč v hmoždíři a průběžně přidávej pomerančovou květovou vodu.", "minutes": 15 },
+    { "text": "Pastu rozmíchej v první části vody, přeceď přes plátno a pevně vyždímej.", "minutes": 5 },
+    { "text": "Pastu vrať do mlýnku nebo hmoždíře, znovu ji rozmel, zalij druhou částí vody a opět přeceď přes plátno.", "minutes": 5 },
+    { "text": "Postup zopakuj s poslední částí vody, aby z pasty vytekla co nejvíc chuti.", "minutes": 5 },
+    { "text": "Výtažek dej na mírný oheň a těsně před varem vmíchej cukr.", "minutes": 8 },
+    { "text": "Vař a míchej, dokud se cukr nerozpustí a sirup lehce nezhoustne.", "minutes": 20 },
+    { "text": "Nech vychladnout." },
+    { "text": "Nalej do lahve, dobře uzavři a uchovej v chladu." },
+    { "text": "Před podáváním zřeď sirup studenou vodou podle chuti." }
+  ],
+  "modernNote": "Gentile uvádí suroviny ve váhách bez počtu porcí: 7 oz mandlí (10–12 z nich hořkých), 1,5 lb vody a 2 lb cukru, asi 2 lžíce pomerančové květové vody na celou dávku. Dávka dá asi 1,2 l koncentrátu, tedy 24 porcí po 50 ml (originalYield 24), recept ukazuje 4 porce, asi 200 ml sirupu. 1 porce = 50 ml sirupu na sklenici nápoje (zdroj: „půl palce na celou sklenici“); na zásobu nastav 24 porcí. Hořké mandle nahrazuje hořkomandlové aroma: 1 kapka (0,05 ml) na 1 g hořkých mandlí. Pomerančová květová voda je nová surovina. Sirup je koncentrát ředěný do sklenice ledové vody, kcal na porci proto odpovídají koncentrátu, ne hotovému nápoji. Chladnutí není v timeMinutes. Tag pripravit-predem vynechán, protože čekání je kratší než 4 h. Verified false: množství jsou dopočtená ze zdroje.",
+  "source": {
+    "book": "italian-1919",
+    "page": 154,
+    "titleOriginal": "ORGEAT (Orzata)"
+  },
+  "verified": false,
+  "quote": "The orgeat does not ferment and the thick liquid may be diluted in water."
+}

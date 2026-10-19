@@ -1,0 +1,60 @@
+{
+  "id": "dusena-pecene",
+  "title": "Dušená pečeně",
+  "titleOriginal": "Pot Roast (Arrosto morto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 600,
+      "unit": "g",
+      "note": "hřbet nebo kýta bez kosti (milk veal), svinutý a svázaný provázkem; asi 150 g na porci"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 lžíce; zdroj „good olive oil“, malé množství (odhad)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "malý kousek (odhad)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "dosolit, když je maso z poloviny uvařené (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 120,
+      "unit": "ml",
+      "note": "½ šálku (cup) ze zdroje; když vývar chybí, rajčatová omáčka nebo protlak ředěný vodou"
+    }
+  ],
+  "steps": [
+    { "text": "Kus masa svin do válečku a svaž provázkem.", "minutes": 5 },
+    { "text": "V hrnci rozehřej olivový olej a kousek másla.", "minutes": 2 },
+    { "text": "Maso z každé strany opékej, až dobře zhnědne.", "minutes": 10 },
+    { "text": "Přikryj pokličkou a duš na mírném ohni. Když je maso z poloviny hotové, osol ho.", "minutes": 25 },
+    { "text": "Přilej vývar a duš dál, dokud na dně hrnce zůstane jen málo šťávy.", "minutes": 40 },
+    { "text": "Maso vyndej, sundej provázek, nakrájej na plátky a polij zbylou šťávou.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 130) uvádí jen „kus hřbetu nebo kýty“ a „půl šálku vývaru“, bez hmotnosti a počtu porcí. Množství počítám pro 4 porce: 600 g telecího masa (asi 150 g na porci), vývar 120 ml (½ šálku ze zdroje). Olivový olej 1 lžíce a máslo 10 g jsou odhady („good olive oil and butter, both in small quantity“), sůl 5 g také odhad. Autor doporučuje telecí maso; hovězí nebo vepřová kýta se chová stejně. Zdroj dále připouští nasekaný solený hovězí (corned beef), který jsem vynechal, a při nedostatku vývaru rajčatovou omáčku nebo protlak ředěný vodou. Doba dušení zdroj neuvádí; 90 minut je odhad pro kus asi 600 g.",
+  "source": {
+    "book": "italian-1919",
+    "page": 98,
+    "titleOriginal": "POT ROAST (Arrosto morto)"
+  },
+  "verified": false,
+  "quote": "This can be done with all kinds of meats, but the best is milk veal."
+}

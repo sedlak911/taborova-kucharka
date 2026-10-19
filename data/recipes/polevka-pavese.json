@@ -1,0 +1,36 @@
+{
+  "id": "polevka-pavese",
+  "title": "Polévka Pavese s pošírovaným vejcem",
+  "titleOriginal": "Pavese Soup (Zuppa alla Pavese)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 2,
+  "tags": ["levne", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "chleb-bily", "amount": 200, "unit": "g", "note": "8 tenkých krajíců (asi 25 g), aspoň dva na osobu" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "na opečení krajíců" },
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "dvě na osobu, pošírovaná" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1000, "unit": "ml", "note": "horký, asi 250 ml na osobu" },
+    { "ingredientId": "parmezan", "amount": 40, "unit": "g", "note": "nastrouhaný; zdroj říká „Parmesan or Swiss cheese“" }
+  ],
+  "steps": [
+    { "text": "Nakrájej chléb na tenké krajíce, aspoň dva na osobu.", "minutes": 5 },
+    { "text": "Krajíce opeč na másle dozlatova z obou stran.", "minutes": 8 },
+    { "text": "Mezitím ohřej vývar do horka, ale nevař ho.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím pošíruj vejce ve vodě, dvě na osobu, po dávkách je vyndej lžící.", "minutes": 8, "parallel": true },
+    { "text": "Na každý opečený krajíc polož jedno pošírované vejce a rozlož je na velký hluboký talíř (ne do polévkové mísy).", "minutes": 2 },
+    { "text": "Horký vývar nalij na talíř tak, aby se vejce nerozbila.", "minutes": 2 },
+    { "text": "Posyp strouhaným parmazánem a podávej horké.", "minutes": 1 }
+  ],
+  "modernNote": "Gentile uvádí jen postup, bez množství a bez počtu porcí. Množství jsou odhad z běžné praxe pro 4 porce: 8 tenkých krajíců chleba (asi 200 g, aspoň dva na osobu podle zdroje), 30 g másla na opečení, 8 vajec (dvě na osobu podle zdroje), 1 l vývaru (asi 250 ml na osobu), 40 g parmazánu. Kniha mluví jen o „hot broth“; zvolen je hovězí vývar, který je v kuchyni tradiční, a proto polévka obsahuje maso a tag bez-masa není. Pro vegetariánskou variantu použij zeleninový vývar. Vejce se pošírují v horké vodě, která se nezapočítává (vodu nesolím, zdroj o ní nemluví). Kroky jsou popsány v pořadí zdroje, časy jsou odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 16,
+    "titleOriginal": "PAVESE SOUP (Zuppa alla Pavese)"
+  },
+  "verified": false,
+  "quote": "Cut as many thin slices of bread as are needed in order that each person may have at least two of them."
+}

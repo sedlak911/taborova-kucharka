@@ -1,0 +1,28 @@
+[
+  {
+    "id": "kava-mleta",
+    "name": "Káva mletá (na překapávání)",
+    "aliases": [
+      "káva mletá",
+      "mletá káva",
+      "ground coffee",
+      "coffee, fine grind"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 1,
+      "protein": 0.1,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:171890 (Beverages, coffee, brewed, prepared with tap water); suchá mletá káva v USDA indexu chybí, hodnota je za nápoj, do kterého přejde jen zlomek sušiny",
+      "units": "bez porcí, váží se v g"
+    }
+  }
+]

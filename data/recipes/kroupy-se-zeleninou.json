@@ -1,0 +1,86 @@
+{
+  "id": "kroupy-se-zeleninou",
+  "title": "Kroupy se zeleninou (kadeřávek)",
+  "titleOriginal": "Graupen mit Gemüse, besonders mit Grünkohl",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 225,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kroupy",
+      "amount": 260,
+      "unit": "g",
+      "note": "ve zdroji 65 g na hlavu; namočené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1300,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "kapusta-kaderavek",
+      "amount": 800,
+      "unit": "g",
+      "note": "neočištěný, ve zdroji až 600 g na hlavu (u čerstvé zeleniny se množství vztahuje na neočištěnou)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočené kroupy, polévkovou zeleninu a sůl zalij studenou vodou (vodou z namáčení) a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a vař asi 2,5 hodiny (vepřové jen asi 1 hodinu 15 minut).",
+      "minutes": 150
+    },
+    {
+      "text": "Přidej očištěný nakrájený kadeřávek a vař dohotova, asi 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Dochuť solí, petrželí a cibulí."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 65 g krup, 600 g kadeřávku na muže; zde 80 g krup a 200 g kadeřávku na porci, řádky jsou praktické domácí množství pro 4 porce. Základ je Graupen mit Kartoffeln (varianta 6), ale místo brambor je až 600 g čerstvé zeleniny na hlavu (zdroj: zvláště kadeřávek, Grünkohl; 2,4 kg neočištěného na 4 porce). Doba vaření zeleniny je ve zdroji ½ až 2 hodiny podle druhu; pro kadeřávek jsme zvolili 1 hodinu (odhad; jiná zelenina se vaří kratší nebo delší dobu). Zdroj neuvádí množství masa ani vody ani soli: 400 g hovězího (100 g na porci), vodu a sůl jsme odhadli, proto verified: false. Kroupy je dobré namočit několik hodin předem (zdroj: Einweichwasser, doba neuvedena). Sušenou zeleninu, trvanlivou vařenou klobásu (do hotového jídla, krátce svařit) a konzervované maso (až těsně před podáváním) zdroj také připouští, zde jsou vynechány; vepřové maso se vaří jen asi 1¼ hodiny. Dochucení petrželí a cibulí (podle varianty 6) je bez množství, dávkuj po špetkách.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 19,
+    "code": "7. (varianta, tišt. 35)",
+    "titleOriginal": "Graupen mit Gemüse, besonders mit Grünkohl"
+  },
+  "verified": false,
+  "quote": "Statt der Kartoffeln im vorhergehenden Gericht sind bis zu 600 g frisches oder 30 g getrocknetes Gemüse je nach Art des Gemüses ½ bis 2 Std. mitzukochen."
+}

@@ -1,0 +1,150 @@
+{
+  "id": "nadivka-do-kureci",
+  "title": "Nádivka do drůbeže",
+  "titleOriginal": "Chicken Stuffing (Ripieno di pollo)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-mlete",
+      "amount": 115,
+      "unit": "g",
+      "note": "ve zdroji ¼ lb libového telecího nebo vepřového masa či krůtích prsou; zvoleno telecí"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 50,
+      "unit": "g",
+      "note": "odhad; zdroj uvádí drůbeží drobky bez množství"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na podlití a opečení zeleniny"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "odhad, nadrobno"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "odhad, nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 30,
+      "unit": "g",
+      "note": "odhad, nadrobno"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 30,
+      "unit": "g",
+      "note": "odhad, nadrobno"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 100,
+      "unit": "ml",
+      "note": "masový vývar ze zdroje (broth)"
+    },
+    {
+      "ingredientId": "houby-susene",
+      "amount": 5,
+      "unit": "g",
+      "note": "několik sušených hub, namočených do vody"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 30,
+      "unit": "g",
+      "note": "plátek libové tučné šunky"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 30,
+      "unit": "g",
+      "note": "tolik, aby vznikla lžíce tvrdé namočené hmoty"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "note": "špetka strouhaného sýra"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby namoč do vody, až změknou."
+    },
+    {
+      "text": "Na másle opeč nadrobno nakrájenou cibuli, petrželku, celer a mrkev.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej telecí maso a drůbeží drobky, osol, opepři, podlij vývarem a duš do měkka.",
+      "minutes": 30
+    },
+    {
+      "text": "Sundej z ohně a odstraň měkké části drobků.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej namočené houby a šunku a vše nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Do zbylé omáčky z pánve vmíchej strouhanku, až vznikne tvrdá namočená hmota.",
+      "minutes": 3
+    },
+    {
+      "text": "Přimíchej nasekanou směs, strouhaný sýr a vejce a dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Touto náplní naplň kuře a otvor zašij."
+    }
+  ],
+  "modernNote": "Gentile uvádí jen množství masa (¼ lb = 113 g, pro 4 porce přepočteno 115 g) a nic dalšího bez porcí; náplň plní jedno kuře, proto počítám na 4 porce. Ostatní množství jsou odhady z běžné praxe: drobky 50 g, cibule 30 g, petržel 10 g, celer 30 g, mrkev 30 g, máslo 15 g, vývar 100 ml, sušené houby 5 g, šunka 30 g, strouhanka 30 g (lžíce namočené hmoty), sýr 10 g (špetka), sůl 2 g, pepř 0,5 g. Zdroj jmenuje koření bez určení druhu, proto je jen sůl a pepř. Maso ze zdroje: z možností telecí, vepřové nebo krůtí prsa zvoleno telecí mleté. Maso na porci (49 g) je u náplně pod rozsahem pro hlavní jídlo; ponecháno, protože zdroj nedává víc masa a jde o náplň, ne samostatné jídlo. Jde o samostatnou nádivku: kuře, do kterého se plní, není v seznamu surovin a jeho pečení ani vaření není v krocích ani v timeMinutes (nádivku lze podle zdroje použít i do jiné drůbeže).",
+  "source": {
+    "book": "italian-1919",
+    "page": 55,
+    "titleOriginal": "CHICKEN STUFFING (Ripieno di pollo)"
+  },
+  "verified": false,
+  "quote": "Fill the chicken with all this, sewing up the opening afterwards."
+}

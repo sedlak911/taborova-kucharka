@@ -1,0 +1,84 @@
+{
+  "id": "cokoladova-omacka",
+  "title": "Čokoládová omáčka",
+  "titleOriginal": "Chocolate Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "sladke",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 110,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kakao",
+      "amount": 25,
+      "unit": "g",
+      "note": "neslazené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sirup-kukuricny",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 130,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 3,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci smíchej cukr a kakao.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej vodu a kukuřičný sirup.",
+      "minutes": 2
+    },
+    {
+      "text": "Vař do 112 °C, nebo dokud pár kapek po vložení do studené vody nevytvoří měkkou kuličku.",
+      "minutes": 8
+    },
+    {
+      "text": "Sundej z ohně."
+    },
+    {
+      "text": "Postupně vmíchej odpařené mléko a vanilku.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj uvádí výtěžek přibližně 1½ galonu na 100 porcí, ale suroviny váží zhruba 8 kg, takže omáčka je hustší, než by odpovídal objem. Přepočet dělám podle hmotností surovin (4/100), ne podle výtěžku. Výsledek pro 4 porce váží kolem 320 g, tedy 81 g na porci: porce zdroje „4 tablespoons (2 oz)“ je objemová (2 fluid oz = 60 ml) a hustá omáčka (asi 1,35 g/ml) tak váží kolem 80 g, bilance sedí. Poměr ověřuje i výtěžek: 1½ gal ≈ 5,7 l při této hustotě je asi 7,7 kg, tj. blízko součtu surovin. Kakao je neslazené (zdroj: cocoa); čokoláda by v tomto poměru cukru vyšla příliš sladká. Odpařené mléko je v zdroji i tady (8 plechovek po 14½ oz). Vanilka: zdroj má 1½ oz (≈ 42 g) a 3 polévkové lžíce, přepočteno z objemu 3 lžíce (45 ml) jako extrakt. Variantu s mátou (½ lžičky peprmintové esence po vychladnutí) nepřidávám. Zdroj doporučuje podávat teplou nebo studenou na zmrzlinu, pudink nebo rýži.",
+  "source": {
+    "book": "navy-1944",
+    "page": 64,
+    "titleOriginal": "CHOCOLATE SAUCE"
+  },
+  "verified": true,
+  "quote": "Serve warm or cold on ice cream, custards or rice."
+}

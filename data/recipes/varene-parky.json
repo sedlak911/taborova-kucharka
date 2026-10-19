@@ -1,0 +1,48 @@
+{
+  "id": "varene-parky",
+  "title": "Vařené párky",
+  "titleOriginal": "Simmered Frankfurters",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "parky",
+      "amount": 640,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na ohřev párků, slije se; domácí hodnota 1 l",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Párky zalij vodou." },
+    { "text": "Přiveď k varu.", "minutes": 8 },
+    { "text": "Vař na mírném ohni asi 10 minut.", "minutes": 10 },
+    { "text": "Sceď a podávej horké.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: 35 lb párků na 100 porcí, voda bez množství; 8 párků na libru dává 2,8 ks na porci, což sedí s portion „2 až 3 párky“. Voda se slévá, proto je domácí 1 l (`vessel`), ne hodnota ze zdroje. Sůl do vody zdroj neuvádí, nepřidávám. Varianty ze zdroje (s kysaným zelím, s pečenými fazolemi) nejsou součástí tohoto receptu; pánev nebo gril na opečení je volitelný postup ze zdroje (poznámka 1 a 2).",
+  "source": {
+    "book": "navy-1944",
+    "page": 164,
+    "titleOriginal": "SIMMERED FRANKFURTERS"
+  },
+  "verified": true,
+  "quote": "Cover frankfurters with water."
+}

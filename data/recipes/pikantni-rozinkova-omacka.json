@@ -1,0 +1,112 @@
+{
+  "id": "pikantni-rozinkova-omacka",
+  "title": "Pikantní rozinková omáčka",
+  "titleOriginal": "Piquant Raisin Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 128,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 0.63,
+      "unit": "g",
+      "note": "2 polévkové lžíce celého hřebíčku (zdroj v objemu; převod odhadem 6 g na lžíci)"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.74,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 11,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci přiveď vodu s hřebíčkem k varu.",
+      "minutes": 2
+    },
+    {
+      "text": "Vař 10 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Přeceď přes sítko.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej rozinky a vař 5 minut.",
+      "minutes": 5
+    },
+    {
+      "text": "Mezitím v misce smíchej cukr, mouku a sůl.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej směs do vody a promíchej, dokud nebude hladká.",
+      "minutes": 2
+    },
+    {
+      "text": "Přiveď k varu a vař 10 minut, dokud omáčka nezhoustne.",
+      "minutes": 12
+    },
+    {
+      "text": "Sundej z ohně."
+    },
+    {
+      "text": "Vmíchej máslo a kečup.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: Piquant Raisin Sauce (PDF 190, tištěná strana 182), výtěžek 1½ gal (5 678 ml), porce 3 tbsp (1½ oz, objem ~44 ml). Zdroj je nekonzistentní: 100 porcí po 44 ml by dalo jen ~4,4 l, kdežto suroviny ze sloupce 100 porcí dávají výtěžek 1½ gal. Proto originalYield = 5 678 ml / 44 ml = 128 porcí (ne 100) a suroviny na 4 porce jsou přepočteny faktorem 4/128; bilance pak sedí. Všechna čísla přečtena z obrázku stránky. Přepočet na 4 porce: voda 1 gal → 120 ml (vaří se a zůstává v omáčce, linear); rozinky 2 lb 5 oz → 35 g; hnědý cukr 4 lb → 55 g; mouka 8 oz → 7 g; sůl ½ oz → 0,74 g (seasoning); máslo 8 oz → 10 g (fat, zůstává v omáčce); kečup 1½ cupu → 11 ml. Hřebíček je ve zdroji v objemu (2 polévkové lžíce), katalog ho má v g jen přes odhad 6 g na lžíci, tj. 0,63 g pro 4 porce. Catsup je kečup. Sůl je přímý přepočet ½ oz soli; omáčka je ke šunce, sůl (0,18 g na porci) je podle zdroje nízká, dochuť podle chuti. Podává se k pečené šunce nebo studenému vepřovému.",
+  "source": {
+    "book": "navy-1944",
+    "page": 190,
+    "titleOriginal": "PIQUANT RAISIN SAUCE"
+  },
+  "verified": true,
+  "quote": "Serve with baked ham or cold sliced pork."
+}

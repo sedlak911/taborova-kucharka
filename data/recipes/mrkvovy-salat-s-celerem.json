@@ -1,0 +1,60 @@
+{
+  "id": "mrkvovy-salat-s-celerem",
+  "title": "Mrkvový salát s celerem",
+  "titleOriginal": "Carrot and Celery Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "celer",
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mrkev",
+      "amount": 220,
+      "unit": "g",
+      "note": "strouhaná"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 90,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 35,
+      "unit": "g",
+      "note": "zdroj „lettuce“ bez druhu; zvolen ledový, listový je také vhodný"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 35,
+      "unit": "g",
+      "note": "zdroj „Mayonnaise (page 204)“, 2 lb na 100 porcí; kupovaná majonéza místo domácí"
+    }
+  ],
+  "steps": [
+    { "text": "Mrkev nastrouhej, celer nakrájej na kostičky a salát natrhej na menší kousky.", "minutes": 10 },
+    { "text": "Smíchej mrkev, celer a salát a důkladně promíchej.", "minutes": 2 },
+    { "text": "Přidej majonézu a lehce promíchej, dokud se směs nespojí.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (porce ¾ šálku, cca 3 oz); bilance 95 g na porci proti 85 g ve zdroji (1,12×), v pořádku. Majonéza je odkaz na stranu 204 (PDF 212) s hmotností 2 lb na 100 porcí; přepočtena úměrně na 35 g a nahrazena kupovanou majonézou. Domácí složky z p. 204 (vejce, olej, ocet, hořčice, cukr, sůl) nejsou v receptu uvedeny zvlášť. Zdroj neuvádí druh salátu, zvolen ledový.",
+  "source": {
+    "book": "navy-1944",
+    "page": 195,
+    "titleOriginal": "CARROT AND CELERY SALAD"
+  },
+  "verified": true,
+  "quote": "Combine carrots, celery and lettuce. Mix thoroughly."
+}

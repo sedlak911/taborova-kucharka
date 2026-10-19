@@ -1,0 +1,86 @@
+{
+  "id": "jablka-na-masle",
+  "title": "Jablka na másle",
+  "titleOriginal": "Buttered Apples",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 2.4,
+      "unit": "ks",
+      "note": "bez jádřinců nakrájená na části; zdroj Apples, A.P. 20 lb"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 45,
+      "unit": "ml",
+      "note": "na dno misek, průběžně dolévat; zdroj 1¼ qt"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 175 °C."
+    },
+    {
+      "text": "Jablka vykrájej z jádřinců, nakrájej na části a rozlož je do zapékací misky.",
+      "minutes": 5
+    },
+    {
+      "text": "Dno misky zakryj vodou.",
+      "minutes": 1
+    },
+    {
+      "text": "Jablka potři rozpuštěným máslem, posyp cukrem a solí a přikryj.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč 20 minut v troubě.",
+      "minutes": 20
+    },
+    {
+      "text": "Odkryj, zvyš teplotu na 200 °C a peč dalších asi 15 minut, dokud jablka nezměknou a lehce nezhnědnou. Během pečení podle potřeby dolévej vodu, jak se vypařuje.",
+      "minutes": 15
+    },
+    {
+      "text": "Podávej k vepřovému nebo jako dezert."
+    }
+  ],
+  "modernNote": "Zdroj: porce asi 5 oz (¾ šálku), 100 porcí, přepočteno na 4 porce. Apples, A.P. (as purchased) = jablka s jádřinci, proto se vykrajují. Vodu 1¼ qt zdroj lije na dno plechu, odpařuje se a dolévá se; zůstává v jídle, proto linear. Máslo (1 lb 4 oz, polévání vrstev = třída fat z katalogu) a cukr (3 lb 4 oz) jsou čtena z obrázku a sedí na 2½ cupu, resp. 6½ cupu při 8 oz na cup (Navy). Sůl 2 oz odpovídá ¼ cupu. Zdroj uvádí 1 až 1½ hodiny pro celou dávku v plechu; pro 4 porce je odhadnuto 35 minut pečení (20 + 15). Původní doporučení podávat s Hard Sauce (s. 57) recept nepřebírá; hodí se k vepřovému nebo jako dezert s vanilkovou či citronovou omáčkou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 78,
+    "titleOriginal": "BUTTERED APPLES"
+  },
+  "verified": true
+}

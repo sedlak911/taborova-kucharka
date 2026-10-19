@@ -1,0 +1,24 @@
+{
+  "id": "parky-na-ohni",
+  "title": "Párky na ohni",
+  "titleOriginal": "Grilled Frankfurters",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["gril"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "parky", "amount": 8, "unit": "ks", "note": "2 ks na porci; zdroj 200 ks na 100 porcí" }
+  ],
+  "steps": [
+    { "text": "Každý párek propichni vidličkou.", "minutes": 1 },
+    { "text": "Grilluj, dokud nejsou důkladně prohřáté a zarudlé. Často otáčej, aby se opékaly rovnoměrně.", "minutes": 10 }
+  ],
+  "modernNote": "Varianta v hrnci (zdroj L 088 05, Simmered Knockwurst): párky povař ve vodě asi 10 minut a sceď. Suroviny jsou stejné, proto ji zde uvádím jen jako text. Zdroj uvádí vnitřní teplotu 145 °F (63 °C) a držení na 140 °F (60 °C); dnes doporučujeme párky prohřát dohorka, tedy do vnitřní teploty alespoň 72 °C (doporučení).",
+  "source": { "book": "afrs-2003", "page": 852, "code": "L 088 02", "titleOriginal": "GRILLED FRANKFURTERS" },
+  "verified": true,
+  "quote": "Turn frequently to ensure even browning."
+}

@@ -1,0 +1,91 @@
+{
+  "id": "jiskova-polevka-s-masem",
+  "title": "Jíšková polévka s masem",
+  "titleOriginal": "Mehlsuppe mit Suppenkräutern und Hefeextrakt und frischem Rind- oder Schweinefleisch oder Dauerfleisch",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 195,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "odhad: zdroj uvádí jen „vroucí vodu“ a „Fleischbrühe“; část použij na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 240,
+      "unit": "g",
+      "note": "ve zdroji „bis zu 100 g“ na hlavu (horní mez); lze jakoukoli mouku"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Salz nach Geschmack); odhad 1–2 g na porci"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej maso, polévkovou zeleninu a sůl a vař asi 2 a půl hodiny (vepřové maso jen asi 1 a půl hodiny).",
+      "minutes": 150
+    },
+    {
+      "text": "Vyndej maso z polévky a nakrájej ho na kostky.",
+      "minutes": 5
+    },
+    {
+      "text": "Mouku rozmíchej za studena v hrnku s trochou vody dohladka.",
+      "minutes": 3
+    },
+    {
+      "text": "Rozmíchanou mouku za stálého míchání vlévej do vývaru a nech ji pomalu vařit asi 15 minut, dokud není mouka dovařená.",
+      "minutes": 20
+    },
+    {
+      "text": "Vrať do polévky maso nakrájené na kostky."
+    },
+    {
+      "text": "Dochuť solí a kvasničným extraktem."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 100 g mouky na muže; zde 60 g mouky na porci, řádky jsou praktické domácí množství pro 4 porce. Maso (100 g na porci) a vodu (1,5 l; při 2,5 hodinách varu část odvaří) jsme doplnili jako odhad, proto verified: false. Kvasničný extrakt (Hefeextrakt) nemá množství a v katalogu není, dávkuj po špetkách nebo vynech. Zdroj radí ochutit i cibulí, celerem nebo majoránkou; mouku lze předem na sucho opražit (kraftvollejší chuť). Varianty s trvanlivou vařenou klobásou (do hotové polévky, krátce svařit) a s konzervovaným masem (až těsně před podáváním jen prohřát) jsou vynechány. Maso se vaří dlouho, proto bez tagu rychle. Hmotnost porce vychází z celé vody; při několikahodinovém varu se část odvaří, hotová porce je lehčí (voda je nutná, aby se mouka, kroupy či luštěniny nesvařily na kaši).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 25,
+    "code": "Grundgericht (tišt. 47)",
+    "titleOriginal": "Mehlsuppe mit Suppenkräutern und Hefeextrakt und frischem Rind- oder Schweinefleisch oder Dauerfleisch"
+  },
+  "verified": false,
+  "quote": "Mehlsuppen sind aus allen Mehlsorten herzustellen."
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "celerova-sul",
+    "name": "Celerová sůl",
+    "aliases": [
+      "celery salt",
+      "sůl se selerem",
+      "celerový prášek se solí"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzicka": 6,
+      "lzice": 18
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "náhrada: sůl (makra nulová); celerové semínko v množství zanedbatelné",
+      "units": "lžička ≈ 6 g soli, stejně jako sůl kuchyňská",
+      "refuse": "bez odpadu"
+    },
+    "densityGPerMl": 1.2
+  }
+]

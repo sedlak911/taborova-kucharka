@@ -1,0 +1,53 @@
+{
+  "id": "domaci-vyvar",
+  "title": "Vývar z hovězího masa",
+  "titleOriginal": "Broth or Soup Stock (Brodo)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 390,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 500,
+      "unit": "g",
+      "note": "nakrájené na tenké plátky; přední díl s kostí nebo bez, kolagen dodá vývaru tělo"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "asi 1 čajová lžička, podle chuti"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "studená, aby maso bylo zcela ponořené"
+    }
+  ],
+  "steps": [
+    { "text": "Hovězí maso nakrájej na tenké plátky a vlož je do velkého hrnce.", "minutes": 10 },
+    { "text": "Přidej sůl a zalij studenou vodou tak, aby maso bylo zcela ponořené.", "minutes": 2 },
+    { "text": "Hrnec pevně přikryj a na víko postav nádobu s vodou, kterou průběžně doplňuj.", "minutes": 2 },
+    { "text": "Na mírném ohni duš 6 hodin.", "minutes": 360 },
+    { "text": "Pak zvyš plamen a vař 10 minut.", "minutes": 10 },
+    { "text": "Vývar přeceď přes gázu nebo jemné sítko a maso vyndej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 5) uvádí maso, sůl a vodu jen slovně („some beef“, „some salt“, „cold water“), proto množství dopočítáno z běžné praxe: 500 g předního hovězího (125 g na porci), 2 l studené vody (po šestihodinovém vaření zůstane zhruba 1,5 l vývaru), sůl 6 g. Zdroj počítá s vařením 6 h na mírném ohni a 10 minut na plný plamen; vodní nádoba na víku měla bránit odpařování, moderně stačí víko a občas dolít vodu. Kosti, celer, mrkev, petrželka a cukr na zabarvení zdroj zmiňuje v úvodu kapitoly, do receptu je nezařazuji. Tag pripravit-predem ze shortlistu: vývar lze uvařit den předem, vychladit a před použitím sejmout ztuhlý tuk. Čas 390 minut je odhad z kroků. Makra a hmotnost na porci jsou jen orientační: kalorie a bílkoviny jsou počítané včetně masa, které se po uvaření scedí a ve vývaru nezůstane (vývar si z masa vezme jen část tuku a želatiny; maso lze dál použít do salátu či na kuličky). Nález check:recipe „polévka 627 g na porci“ ponechávám záměrně: recept je základ pro polévky, ne samostatné jídlo (porci se podávají ≈ 300 ml vývaru), a zdroj porci neuvádí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 9,
+    "titleOriginal": "BROTH OR SOUP STOCK (Brodo)"
+  },
+  "verified": false,
+  "quote": "To obtain good broth the meat must be put in cold water, and then allowed to boil slowly."
+}

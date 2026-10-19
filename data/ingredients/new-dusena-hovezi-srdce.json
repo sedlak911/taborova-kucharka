@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hovezi-srdce",
+    "name": "Hovězí srdce",
+    "aliases": [
+      "srdce hovězí",
+      "hovězí srdce syrové",
+      "beef heart"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 112,
+      "protein": 17.72,
+      "carbs": 0.14,
+      "fat": 3.94,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.71,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168625 (Beef, variety meats and by-products, heart, raw)",
+      "refuse": "USDA fdc:168625 refusePct 29 (tuk, žíly a vazivo)"
+    }
+  }
+]

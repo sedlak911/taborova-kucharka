@@ -1,0 +1,36 @@
+{
+  "id": "smazene-fazole-se-syrem",
+  "title": "Fazolová směs se sýrem",
+  "titleOriginal": "Refried Beans with Cheese",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 130,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa", "pripravit-predem"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "fazole-pinto-suche", "amount": 115, "unit": "g", "note": "namočit přes noc, uvařit doměkka", "original": { "ingredientId": "fazole-pinto-v-konzerve", "amount": 290, "unit": "g" } },
+    { "ingredientId": "voda", "amount": 55, "unit": "ml", "note": "vývar z vaření fazolí" },
+    { "ingredientId": "chilli-prasek", "amount": 6, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.6, "unit": "g" },
+    { "ingredientId": "cedar", "amount": 35, "unit": "g", "group": "Směs", "note": "čedar, strouhaný" },
+    { "ingredientId": "jarni-cibulka", "amount": 8, "unit": "g", "note": "nastrouhaná" },
+    { "ingredientId": "palive-omacka", "amount": 2, "unit": "g" },
+    { "ingredientId": "cedar", "amount": 18, "unit": "g", "group": "Posyp", "note": "čedar, na posyp" },
+    { "ingredientId": "repkovy-olej", "amount": 1, "unit": "lzicka", "note": "na vymazání pekáče (cooking spray)", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Fazole namoč přes noc do studené vody." },
+    { "text": "Namočené fazole slij, zalij čistou vodou a vař doměkka (zhruba 1 až 1,5 hodiny). Slij a vývar si nech.", "minutes": 90 },
+    { "text": "Fazole rozmačkej v míse nebo v mixéru na nízké rychlosti.", "minutes": 2 },
+    { "text": "Přidej chilli, česnek, nastrouhanou cibulku, pálivou omáčku, sýr (směs) a vývar. Prošlehej na střední rychlosti, přilévej vývar, dokud směs nebude jako bramborová kaše.", "minutes": 3 },
+    { "text": "Rozetři směs do vymazaného pekáče. Peč v troubě na 175 °C 30 minut.", "minutes": 30 },
+    { "text": "Posyp zbylým sýrem a zapékej, dokud se sýr nerozpustí.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Q 038 00) předepisuje konzervované pinto fazole (21 lb včetně nálevu); sušené pinto místo konzervy (levnější, ale s namáčením), namočení a vaření doplněno (nejsou ve zdroji). Množství sušených fazolí je odhad: uvařené fazole ~290 g na 4 porce / poměr vaření ~2,5. Čedar 2 lb a 1 lb na 100 porcí. Zkratka: 290 g scezených konzervovaných pinto fazolí (jako ve zdroji) nahradí kroky 1–2; vývar pak nahradí 55 ml vody z konzervy. Konzerva byla solená, sušené fazole nikoli: dosol asi 1 g soli podle chuti. Pálivá omáčka typu Tabasco. Původní kontrolní teploty (CCP) vynechány.",
+  "source": { "book": "afrs-2003", "page": 1543, "code": "Q 038 00", "titleOriginal": "Refried Beans with Cheese" },
+  "verified": false,
+  "quote": "Place beans in mixer bowl; beat at low speed until mashed."
+}

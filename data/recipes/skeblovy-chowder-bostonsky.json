@@ -1,0 +1,119 @@
+{
+  "id": "skeblovy-chowder-bostonsky",
+  "title": "Škeblový chowder bostonský",
+  "titleOriginal": "Clam Chowder—Boston Style",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mekkysi",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 45,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 45,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 65,
+      "unit": "g",
+      "note": "nakrájené na kostky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "část do zeleniny, zbytek do polévky (zdroj: 2 oz + 1½ oz)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 340,
+      "unit": "ml",
+      "note": "vařicí voda vč. nálevu z mušlí (clam liquor, zdroj: 1½ gal vody + ¾ gal nálevu)"
+    },
+    {
+      "ingredientId": "skeble-konzervovane",
+      "amount": 145,
+      "unit": "g",
+      "note": "uvařené a nasekané"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 380,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné, na jíšku",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Celer a cibuli nasekej, brambory nakrájej na kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "Do vařící vody přidej zeleninu a část soli a vař, dokud brambory nezměknou.",
+      "minutes": 20
+    },
+    {
+      "text": "Přidej škeble, mléko, zbytek soli a pepř a pomalu zahřej k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím rozpusť máslo, vmíchej mouku do hladké pasty a zamíchej ji do horké polévky.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Vař asi 15 minut, dokud polévka není hladká a mírně zhoustne.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Zdroj uvádí „Fat, melted“ (1 lb), ne slaninu ani salt pork: tuk je sádlo (original), moderně máslo na jíšku. Škeble ze sceděné konzervy (katalog skeble-konzervovane) místo čerstvě uvařených mušlí; nálev z mušlí je sloučen do vody. Výtěžek 6 gal / porce 1 cup = ~91 porcí, odchylka pod 10 % (originalYield 100). Sůl byla v předloze dvakrát (2 oz do zeleniny, 1½ oz do polévky), v receptu jeden řádek. Bilance 268 g na porci proti 8 oz (227 g) zdroje je 1,18×, u polévky s mlékem v pořádku.",
+  "source": {
+    "book": "navy-1944",
+    "page": 246,
+    "titleOriginal": "Clam Chowder—Boston Style"
+  },
+  "verified": true
+}

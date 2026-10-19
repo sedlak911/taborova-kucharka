@@ -1,0 +1,64 @@
+{
+  "id": "kureci-pomazanka",
+  "title": "Pomazánka z kuřecího salátu",
+  "titleOriginal": "Chicken Salad Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [],
+  "allergens": [
+    "vejce",
+    "horcice",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 145,
+      "unit": "g",
+      "note": "vařené, nakrájené nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "jemně nakrájený"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 18,
+      "unit": "g",
+      "note": "kupovaná; zdroj odkazuje na domácí majonézu (s. 204)"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Připrav všechny suroviny dřív, než vyndáš kuře z lednice." },
+    { "text": "Kuře nadrobno nakrájej a celer jemně nakrájej.", "minutes": 5 },
+    { "text": "Vše smíchej a důkladně promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: Chicken Salad Filling, s. 210 (PDF 218), sendvičová náplň; 100 porcí, porce 1½ oz (cca 3 polévkové lžíce). Přepočet na 4 porce × 0,04 (linear), sůl přes třídu seasoning. Kontrola bilance: suroviny dávají cca 4,6 kg na 100 porcí, tj. cca 46 g na porci, což odpovídá porci 1½ oz (42 g). Kuře počítáno z hmotnosti 8 lb (vařené maso). Celer 1 lb je hmotnost (1 qt nasekaného celeru je cca 1 lb, objem jen kontrola). Majonéza kupovaná 1 lb, domácí recept na s. 204 zde nerozepisuji. Ocet zůstává v náplni, proto třída linear, ne aromatic. Ve zdroji je varianta s řeřichou (watercress, 4 svazky místo celeru); nepřevzata. Poznámka zdroje o skladování (lednice, 1–2 h) a hygienická poznámka o teplotě nejsou v postupu. Sůl podle zdroje (½ oz na 100 porcí, 0,23 g na porci) je spíš nízká, dochuť podle chuti. Kuře z lednice vyndávej až těsně před přípravou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 218,
+    "titleOriginal": "CHICKEN SALAD FILLING"
+  },
+  "verified": true,
+  "quote": "Mix together all ingredients. Blend thoroughly."
+}

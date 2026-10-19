@@ -1,0 +1,154 @@
+{
+  "id": "sunka-s-nudlemi-au-gratin",
+  "title": "Šunka s nudlemi au gratin",
+  "titleOriginal": "Ham and Noodles au Gratin",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 90,
+      "unit": "g",
+      "note": "suché; zdroj „Noodles“ 5 lb, vaječné nudle (makarony lze dle zdroje)",
+      "group": "Nudle"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření, slije se; domácí hodnota 1 l na 100 g nudlí",
+      "group": "Nudle",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "group": "Nudle",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 254,
+      "unit": "g",
+      "note": "vařená, mletá",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 9,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 606,
+      "unit": "ml",
+      "note": "v bílé omáčce (medium, 4 galony ze zdroje, objem)",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 55,
+      "unit": "g",
+      "note": "v omáčce (zdroj „butter or other fat“, jíška)",
+      "group": "Bílá omáčka",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 27,
+      "unit": "g",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.89,
+      "unit": "g",
+      "note": "6 čajových lžiček ze zdroje",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 6,
+      "unit": "g",
+      "note": "rozpuštěné, na posyp (zdroj „butter or other fat“)",
+      "group": "Posyp"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 36,
+      "unit": "g",
+      "note": "suché jemné drobky",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do velkého hrnce nalij vodu, osol ji a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vsyp nudle a vař je do měkka, asi 20 minut. Nepřevař a dobře sceď.",
+      "minutes": 22
+    },
+    {
+      "text": "Mezitím cibuli nasekej nadrobno.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Smíchej bílou omáčku s cibulí.",
+      "minutes": 2
+    },
+    {
+      "text": "Vyskládej střídavě vrstvy nudlí, omáčky a šunky do vymazané zapékací misky.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej máslo se strouhankou a posyp jím šunkovou vrstvu.",
+      "minutes": 3
+    },
+    {
+      "text": "Předehřej troubu na 175 °C."
+    },
+    {
+      "text": "Peč v troubě asi 60 minut, dokud nezhnědne.",
+      "minutes": 60
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj: Ham and Noodles au Gratin, s. 143 (PDF 151), 100 porcí, porce 4 až 5 uncí. Čísla přečtena z obrázku stránky. „Noodles“ 5 lb převedeny na vaječné nudle (katalog); makarony jsou podle zdroje možnou náhradou. Bílá omáčka „White Sauce, medium (p. 173)“ (PDF 181, „Medium Cream or White Sauce“) je zapsána úměrně: zdroj ji uvádí na 4 galony, receptura p. 173 je na 1 galon (12 uncí tuku, 6 uncí mouky, 1 galon mléka, 1 unce soli, 1½ čajové lžičky pepře), takže 4 galony = 48 uncí tuku, 24 uncí mouky, 4 galony mléka, 4 unce soli, 6 čajových lžiček pepře; na 4 porce vychází 606 ml mléka, 55 g másla, 27 g mouky, 7 g soli a 0,89 g pepře. Slévaná voda z 5 galonů nahrazena domácí hodnotou 1 l na 100 g nudlí, sůl do ní 2 g na 1 l (slévá se). Tuk „Butter or other fat“ v posypu modernizován na máslo. Bilance: porce vychází asi 277 g místo 113–142 g ze zdroje, protože zdroj sám uvádí 4 galony omáčky (ověřeno z obrázku, není to OCR chyba 1 gal) na 100 porcí; doporučení: u tohoto receptu sníž omáčku na polovinu, nebo ber 4–5 uncí jako porci bez omáčky. Šunka vychází 64 g masa na porci (zdroj 14 lb na 100 porcí); jako hlavní jídlo počítej spíš 120–150 g šunky. Sůl v omáčce (7 g, třída seasoning) je vysoká, dle chuti ubrat. Teplota 175 °C odpovídá „moderate oven (350 °F)“. Varianta s nasekanou šunkou je vynechána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 151,
+    "titleOriginal": "HAM AND NOODLES AU GRATIN"
+  },
+  "verified": true,
+  "quote": "Arrange alternate layers of noodles, white sauce and ham, in greased baking pans."
+}

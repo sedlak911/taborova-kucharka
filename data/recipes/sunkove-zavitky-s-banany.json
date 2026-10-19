@@ -1,0 +1,145 @@
+{
+  "id": "sunkove-zavitky-s-banany",
+  "title": "Šunkové závitky s banány v sýrové omáčce",
+  "titleOriginal": "Ham Banana Rolls with Cheese Sauce",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 227,
+      "unit": "g",
+      "note": "vařená, nakrájená na tenké plátky (8 plátků)",
+      "group": "Roláčky"
+    },
+    {
+      "ingredientId": "banan",
+      "amount": 8,
+      "unit": "ks",
+      "note": "středně velké",
+      "group": "Roláčky"
+    },
+    {
+      "ingredientId": "horcice",
+      "amount": 9,
+      "unit": "ml",
+      "note": "hotová (plnotučná), ne sušená",
+      "group": "Roláčky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pekáčů",
+      "scaling": "vessel",
+      "group": "Roláčky"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 378.5,
+      "unit": "ml",
+      "note": "ohřáté",
+      "group": "Sýrová omáčka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 34,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na jíšku",
+      "group": "Sýrová omáčka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 17,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Sýrová omáčka"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 68,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "nastrouhaný",
+      "group": "Sýrová omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4.6,
+      "unit": "g",
+      "group": "Sýrová omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.56,
+      "unit": "g",
+      "group": "Sýrová omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ohřej mléko do horka.",
+      "minutes": 5
+    },
+    {
+      "text": "V jiném hrnci rozpusť máslo, vmíchej mouku a udělej hladkou pastu.",
+      "minutes": 3
+    },
+    {
+      "text": "Za stálého míchání postupně přilévej horké mléko.",
+      "minutes": 3
+    },
+    {
+      "text": "Vař za stálého míchání, dokud omáčka nezhoustne, a dochuť solí a pepřem.",
+      "minutes": 5
+    },
+    {
+      "text": "Vmíchej nastrouhaný sýr a míchej, dokud se nerozpustí.",
+      "minutes": 3
+    },
+    {
+      "text": "Každý plátek šunky lehce pomaž hořčicí.",
+      "minutes": 3
+    },
+    {
+      "text": "Banány oloupej a každý zabal do plátku šunky.",
+      "minutes": 5
+    },
+    {
+      "text": "Pekáče vymaž olejem a polož do nich roláčky.",
+      "minutes": 2
+    },
+    {
+      "text": "Roláčky zalij sýrovou omáčkou.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč v troubě na 160 °C asi 30 minut, dokud banány při propíchnutí vidličkou nezměknou.",
+      "minutes": 30
+    },
+    {
+      "text": "Podávej ihned se zbylou omáčkou z pekáče."
+    }
+  ],
+  "modernNote": "Zdroj: Ham Banana Rolls with Cheese Sauce, tištěná str. 143 (PDF 151), porce 2 roláčky. Na 100 porcí jde 200 plátků šunky (12 lb 8 oz) a 200 banánů; pro 4 porce tedy 8 roláčků (8 plátků šunky, 8 banánů). Sýrová omáčka je odkaz na Cheese Sauce, tištěná str. 175 (PDF 183): 1 gal Medium Cream Sauce (str. 173, PDF 181: 12 oz másla, 6 oz mouky, 1 gal mléka, 1 oz soli, 1½ tsp pepře) plus 1 lb 8 oz čedaru na galon. Zdroj uvádí 2½ gal omáčky na 100 porcí; všechny suroviny omáčky jsou přepočteny ×2,5 (2½ gal mléka = 9,46 l, 30 oz tuku, 15 oz mouky, 2½ oz soli, 3¾ tsp pepře, čedar 3 lb 12 oz). Omáčka je podle str. 173 medium (odkaz „Cream Sauce“ str. 173 bez určení hustoty), čísla jsou z obrázků stran 173 a 175. Zdroj nemá postup pro zapracování sýra a pečení roláčků; kroky doplněny. Zdroj neuvádí tuk na pekáče, přidán olej. Varianta se nasekanou šunkou (Variation) není zahrnuta. Pečení 325 °F = 160 °C (slow oven). Sůl 3 g je dle třídy seasoning; dle chuti uber. Nález maso 58 g na porci (2 roláčky) sedí s kartou (12 lb 8 oz šunky na 100 porcí × 0,04 = 227 g na 4 porce), ponecháno; jako hlavní jídlo počítej 120–150 g masa. Banány (2 ks na porci, cca 240 g) jsou podle zdroje (200 ks na 100 porcí), 1 ks ≈ 120 g.",
+  "source": {
+    "book": "navy-1944",
+    "page": 151,
+    "titleOriginal": "HAM BANANA ROLLS WITH CHEESE SAUCE"
+  },
+  "verified": true
+}

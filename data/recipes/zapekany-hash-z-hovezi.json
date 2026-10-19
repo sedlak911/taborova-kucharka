@@ -1,0 +1,67 @@
+{
+  "id": "zapekany-hash-z-hovezi",
+  "title": "Zapékaný hovězí hash s bramborami",
+  "titleOriginal": "Baked Beef Hash",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vareno",
+      "amount": 420,
+      "unit": "g",
+      "note": "uvařené, nakrájené na kostky (zbytky masa)"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 360,
+      "unit": "g",
+      "note": "uvařené, nakrájené na kostky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "Zdroj odkazuje na Beef Stock (tištěná s. 216, PDF 224)."
+    }
+  ],
+  "steps": [
+    { "text": "Maso, brambory, cibuli, sůl, pepř a vývar dej do mísy a dobře promíchej.", "minutes": 3 },
+    { "text": "Směs rozprostři do dobře vymaštěného pekáče." },
+    { "text": "Peč v troubě na 165 °C asi 1 hodinu.", "minutes": 60 },
+    { "text": "Hash nakrájej na čtverce.", "minutes": 3 }
+  ],
+  "modernNote": "Maso i brambory jsou ve zdroji již uvařené, ideální na zbytky; 420 g je hmotnost zbytků uvařeného masa (počítáno jako vařené hovězí). Doporučení: pekáč vymaž libovolným tukem, zdroj množství neuvádí. Chybí-li uvařené hovězí, zdroj radí použít o třetinu více syrového masa a prodloužit pečení. Vývar lze nahradit barbecue omáčkou (zdroj, s. 172 v PDF 180). Varianty: stejná hmotnost jiného uvařeného masa (jehněčí, vepřové, telecí, šunka, corned beef), kuřete nebo krůty jen asi 270 g (zdroj 15 lb místo 23 lb); u šunky vynech sůl. Porce ve zdroji 8 oz (asi 1 hrnek). Zdroj uvádí 325 °F = 165 °C. Cibule ve zdroji 5 lb ~ 3 3/4 quartu, použita hmotnost.",
+  "source": {
+    "book": "navy-1944",
+    "page": 129,
+    "titleOriginal": "BAKED BEEF HASH"
+  },
+  "verified": true,
+  "quote": "Bake in slow oven (325° F.) about 1 hour."
+}

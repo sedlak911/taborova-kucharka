@@ -1,0 +1,166 @@
+{
+  "id": "fazolkovy-sformato",
+  "title": "Fazolkový sformato",
+  "titleOriginal": "STRING BEANS IN MOLD (Sformato di fagiolini)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko",
+    "lepek",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zelene-fazolky",
+      "amount": 600,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "zdroj 1 lb (454 g), navýšeno na 150 g na porci"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "group": "Fazolky",
+      "note": "na blanšírování, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "do vody na blanšírování, slije se (2 g na litr)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "group": "Zelenina",
+      "note": "na osmažení"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "group": "Zelenina",
+      "note": "1 malá"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "group": "Zelenina",
+      "note": "trochu"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 30,
+      "unit": "g",
+      "group": "Zelenina",
+      "note": "kousek"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Zelenina",
+      "note": "podle potřeby, na dovaření"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "kousek na bešamel a na vymazání formy"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 2,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "půl čajové lžičky"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Bešamel",
+      "note": "půl šálku"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 5,
+      "unit": "g",
+      "group": "Směs",
+      "note": "1 lžíce strouhaného sýra"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Směs",
+      "note": "rozšlehaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazolkám odřízni konce a stáhni nitě.",
+      "minutes": 8
+    },
+    {
+      "text": "Do velkého hrnce nalij vodu, osol ji a přiveď k varu. Vhoď fazolky a povař je do poloviny.",
+      "minutes": 14
+    },
+    {
+      "text": "Mezitím připrav bešamelu: rozpusť kousek másla, vmíchej mouku, zalij mlékem a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Napůl uvařené fazolky ponoř do studené vody a nech vychladnout.",
+      "minutes": 5
+    },
+    {
+      "text": "Na olivovém oleji osmaž dozlatova cibuli, petrželovou nať a kousek celeru.",
+      "minutes": 6
+    },
+    {
+      "text": "Vychladlé fazolky sceď, vlož na osmaženou zeleninu, podlij trochou vody a dovař dosměkka.",
+      "minutes": 8
+    },
+    {
+      "text": "Nech fazolky mírně vychladnout a smíchej je s bešamelou, strouhaným parmazánem a rozšlehanými vejci.",
+      "minutes": 5
+    },
+    {
+      "text": "Formu vymaž máslem, dno vystři pergamenem a naplň ji směsí.",
+      "minutes": 3
+    },
+    {
+      "text": "Formu postav do většího hrnce s horkou vodou (vodní lázeň) a vař pod pokličkou, dokud sformato není pevné.",
+      "minutes": 40
+    },
+    {
+      "text": "Vyklop na talíř a podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 94, s. 71) neuvádí porce. Výchozí 1 lb fazolek (454 g) je navýšen na 600 g (150 g na porci, zelenina). Ostatní množství jsou ze zdroje: 4 vejce, půl šálku mléka (120 ml), půl čajové lžičky mouky (2 g), lžíce strouhaného sýra (5 g); vejce a bešamel nejsou navýšeny, takže směs je o něco hustší než při původním poměru. Odhady z běžné praxe: máslo 15 g (bešamel a vymazání formy), olivový olej 15 ml, cibule 80 g, celer 30 g, petržel 5 g, voda 50 ml. Zdroj k zálivce uvádí masový vývar (hovezi-vyvar) s máslem; zvolena varianta s olejem a zeleninou, takže jídlo je bez masa. Vodu na blanšírování (1,5 l, sůl 3 g) slij. Doba zapékání 40 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 75,
+    "titleOriginal": "STRING BEANS IN MOLD (Sformato di fagiolini)"
+  },
+  "verified": false,
+  "quote": "Take one pound of string beans, seeing that they are quite tender."
+}

@@ -1,0 +1,29 @@
+{
+  "id": "varene-fazole",
+  "title": "Vařené fazole",
+  "titleOriginal": "Simmered Dry Beans",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 162,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "fazole-cervene", "amount": 145, "unit": "g", "note": "sušené, ledvinkové; před vařením namočit 1 hodinu" },
+    { "ingredientId": "voda", "amount": 760, "unit": "ml", "note": "studená; poměr přibližně 5 : 1 k fazolím" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Přeber fazole, vyřaď zbarvená zrna a cizí příměsi. Důkladně je opláchni. Zakryj a nech 1 hodinu namočit.", "minutes": 65 },
+    { "text": "Zalij fazole vodou, přiveď k varu a vař 2 minuty.", "minutes": 7 },
+    { "text": "Přidej sůl a pepř." },
+    { "text": "Sniž teplotu, případně doplň vodu, aby byly fazole zakryté, a přikryj. Duš 1,5 hodiny, nebo dokud nejsou fazole právě měkké.", "minutes": 90 }
+  ],
+  "modernNote": "Zdroj počítá s 1hodinovým namočením, ne přes noc, proto recept nemá tag pripravit-predem. Doporučení: namočit přes noc a vařit kratší dobu. Porce 2/3 hrnku vařených fazolí odpovídá příloze; 145 g suchých fazolí dává na porci asi 36 g. Čas 162 min zahrnuje přípravu 10 min, namáčení 60 min, var 2 min a dušení 90 min.",
+  "source": { "book": "afrs-2003", "page": 1484, "code": "Q 005 02", "titleOriginal": "SIMMERED DRY BEANS" },
+  "verified": true,
+  "quote": "Simmer 1-1/2 hours or until beans are just tender."
+}

@@ -1,0 +1,115 @@
+{
+  "id": "lusteniny-s-okurkou-a-bramborami",
+  "title": "Hrách s nakládanou okurkou a bramborami",
+  "titleOriginal": "Erbsen oder Bohnen oder Linsen mit Gewürzgurken und Kartoffeln",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 205,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hrach-puleny",
+      "amount": 400,
+      "unit": "g",
+      "note": "ve zdroji 180 g na hlavu podle základního receptu; suchý, namočený přes noc"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "uzene-maso",
+      "amount": 400,
+      "unit": "g",
+      "note": "zdroj dovoluje i čerstvé hovězí nebo vepřové; množství masa zdroj neuvádí (doplněno, 100 g na porci)"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (jako v základním receptu)"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "oloupané, nakrájené na kousky; množství zdroj neuvádí (doplněno, 150 g na hlavu)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "množství zdroj neuvádí (doplněno podle varianty 2: 10 g na hlavu)"
+    },
+    {
+      "ingredientId": "okurky-kysele",
+      "amount": 100,
+      "unit": "g",
+      "note": "ve zdroji až 50 g na hlavu (asi 1 středně velká okurka); nakrájené na kostičky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti; odhad (okurky jsou slané)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočený hrách i s vodou z namáčení dej do hrnce, doplň studenou vodou a přiveď k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Vař 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej maso, polévkovou zeleninu, nakrájenou cibuli a sůl.",
+      "minutes": 5
+    },
+    {
+      "text": "Vař asi 1 hodinu 15 minut.",
+      "minutes": 75
+    },
+    {
+      "text": "Mezitím oloupej brambory a nakrájej je na kousky.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Přidej brambory a vař do měkka, asi 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Okurky nakrájej na kostičky a vmíchej je do hotového jídla; už nevař.",
+      "minutes": 5
+    },
+    {
+      "text": "Dochuť solí a majoránkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 180 g hrachu na muže; zde 100 g hrachu na porci, řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (nakládaných okurek) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Zdroj popisuje jen rozdíl proti základnímu receptu: až 50 g kyselých okurek na hlavu (asi 1 středně velká okurka) nakrájených na kostky a vmíchaných až do hotového jídla, nevařit. Luštěniny (180 g), polévková zelenina (30 g) a postup jsou ze základního receptu. Brambory ve zdroji (v názvu) bez množství: doplněno 150 g na hlavu a vařeno posledních asi 45 minut. Také maso (100 g na porci), voda, cibule a sůl jsou odhad, proto verified: false. Dochucení saturejkou, tymiánem a majoránkou bez množství, dávkuj po špetkách. Stejně funguje fazole nebo čočka (čočka se nenamáčí). Luštěniny namoč přes noc.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 22,
+    "code": "3. (varianta, tišt. 40)",
+    "titleOriginal": "Erbsen oder Bohnen oder Linsen mit Gewürzgurken und Kartoffeln"
+  },
+  "verified": false,
+  "quote": "Bis zu 50 g Gewürzgurken (etwa 1 mittelgroße Gurke) sind in Würfel zu schneiden und erst kurz vor der Essenausgabe unter das gare Gericht zu mengen."
+}

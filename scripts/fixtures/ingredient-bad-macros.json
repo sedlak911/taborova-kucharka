@@ -1,0 +1,5 @@
+{
+  "id": "spatna-makra", "name": "Špatná makra", "aliases": [], "category": "ostatni", "scaling": "linear",
+  "nutritionPer100g": { "kcal": 400, "protein": 50, "carbs": 40, "fat": 30, "fiber": 0 },
+  "units": {}, "ediblePortion": 1, "allergens": [], "sources": { "nutrition": "test" }
+}

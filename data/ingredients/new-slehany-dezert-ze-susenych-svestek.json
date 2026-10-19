@@ -1,0 +1,28 @@
+[
+  {
+    "id": "susene-svestky",
+    "name": "Sušené švestky",
+    "aliases": [
+      "sušené švestky bez pecek",
+      "prunes",
+      "dried plums",
+      "švestky sušené"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 240,
+      "protein": 2.18,
+      "carbs": 63.88,
+      "fat": 0.38,
+      "fiber": 7.1
+    },
+    "units": {},
+    "ediblePortion": 0.87,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168162 (Plums, dried (prunes), uncooked)",
+      "refuse": "USDA fdc:168162 odpad 13 % (pecky)"
+    }
+  }
+]

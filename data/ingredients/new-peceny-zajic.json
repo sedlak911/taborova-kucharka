@@ -1,0 +1,28 @@
+[
+  {
+    "id": "zajic",
+    "name": "Zajíc",
+    "aliases": [
+      "zajíc celý",
+      "zajícové maso",
+      "hare",
+      "divoký zajíc"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 114,
+      "protein": 21.79,
+      "carbs": 0,
+      "fat": 2.32,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.6,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:174347 (Game meat, rabbit, wild, raw); zajíc v indexu není",
+      "refuse": "odhad: zadní čtvrť s kostmi, asi 40 % kosti (ediblePortion 0,6), jako králík"
+    }
+  }
+]

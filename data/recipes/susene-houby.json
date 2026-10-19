@@ -1,0 +1,58 @@
+{
+  "id": "susene-houby",
+  "title": "Sušené houby",
+  "titleOriginal": "Dried Mushrooms (Funghi secchi)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "zampiony",
+      "amount": 1000,
+      "unit": "g",
+      "note": "čerstvé mladé houby, středně velké nebo větší; zdroj druh neuvádí, nejbližší v katalogu jsou žampiony (pro sušení se tradičně berou lesní houby)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Počkej na slunečný den. Vyber mladé, středně velké nebo větší houby, ne příliš měkké. Seškrab stopky, dobře je očisti a odstraň zem, ale neomývej je.",
+      "minutes": 15
+    },
+    {
+      "text": "Houby nakrájej bez mytí na velké kusy, protože při sušení výrazně ztratí objem.",
+      "minutes": 5
+    },
+    {
+      "text": "Nakrájené kusy vystav slunci na dva až tři dny."
+    },
+    {
+      "text": "Do každého kusu propíchni dírku a navlékni je na provázek.",
+      "minutes": 10
+    },
+    {
+      "text": "Nech je sušit na dobře větraném místě nebo na slunci, dokud nejsou úplně suché."
+    },
+    {
+      "text": "Suché houby ulož do papírového sáčku a občas je zkontroluj; když zvlhnou, znovu je vystav slunci a větru."
+    },
+    {
+      "text": "Před použitím namoč sušené houby do teplé vody, ale vody použij co nejméně, aby neztratily jemnou chuť."
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství, proto 4 porce znamenají odhad 1 kg čerstvých hub (domácí hodnota). Z nich vznikne zhruba 100 g sušených hub (suší se na desetinu hmotnosti). Čas 30 minut je jen aktivní práce (čištění, krájení, navlékání); sušení na slunci 2–3 dny a další sušení jsou čekání bez minut. Kniha doporučuje sušit v červnu nebo červenci. Druh hub zdroj neurčuje, v katalogu je nejbližší žampion, pro sušení jsou běžnější lesní houby. Namáčení v teplé vodě je použití sušených hub podle zdroje, není součástí výroby. Pozor: čtyři „porce“ jsou jen měřítko pro množství; jde o konzervační recept (1 kg čerstvých hub dá asi 100 g sušených), proto kalorie na porci nic neznamenají.",
+  "source": {
+    "book": "italian-1919",
+    "page": 78,
+    "titleOriginal": "DRIED MUSHROOMS (Funghi secchi)"
+  },
+  "verified": false,
+  "quote": "Mushrooms are an excellent condiment of various dishes and for this reason it is well to have some always at hand."
+}

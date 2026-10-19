@@ -1,0 +1,124 @@
+{
+  "id": "ryba-pecena-s-rajcaty",
+  "title": "Ryba pečená s rajčaty",
+  "titleOriginal": "Baked Fish with Tomatoes",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 130,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 1090,
+      "unit": "g",
+      "note": "celá ryba, jak se kupuje; hlavy a kosti na vývar; nebo jiná bílá ryba"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "na vývar z hlav a kostí (odhad)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "na osmahnutí cibule"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 9,
+      "unit": "g",
+      "note": "na zahuštění"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 690,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "3 listy na 100 porcí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 0.73,
+      "unit": "g",
+      "note": "nasekaný nadrobno"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rybu očisti, odstraň hlavu a páteř a rozpůl ji.",
+      "minutes": 10
+    },
+    {
+      "text": "Hlavy a kosti zalij vodou, přiveď k varu a nech 60 minut probublávat, aby vznikl vývar. Přeceď.",
+      "minutes": 65
+    },
+    {
+      "text": "Mezitím osmaž na tuku cibuli dosklovata, vmíchej mouku a tymián.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Přidej vývar, rajčata, bobkový list, sůl, pepř a česnek. Přiveď k varu a vař 15 minut.",
+      "minutes": 17
+    },
+    {
+      "text": "Filety nakrájej napříč na jednotlivé porce, polož je na vymazaný plech a polij omáčkou.",
+      "minutes": 5
+    },
+    {
+      "text": "Peč v troubě předehřáté na 175 °C asi 30 minut.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj počítá 60 lb celé ryby na 100 porcí; hlavy a kosti se vaří na vývar, který jde do omáčky, proto je v řádku celá ryba (na porce vychází zhruba 650 g filetů). Tuk je máslo (zdroj „Butter or other fat“). Vodu na vývar zdroj neuvádí (To cover), 250 ml je odhad. Tymián: zdroj uvádí ½ oz (14 g na 100 porcí), ale 2 lžíce (zhruba 6 g); použita hmotnost, proto verified false. Stejný rozpor u česneku (½ oz vs 1 lžíce), použita hmotnost. Sůl: 4 oz použito, ½ cupu je v souladu. Celková hmotnost jídla (ryba i s omáčkou) vychází kolem 500 g na porci, zatímco 6 oz ve zdroji se vztahuje k rybě; omáčka z rajčat je ve zdroji také těžká. Pečení 350 °F = 175 °C, bobkový list 3 listy na 100 porcí = 0,1 ks na 4 porce (v praxi 1 list). Kontrola „maso 273 g“ počítá celou rybu i s hlavami a kostmi; filety na porci jsou ~160 g. Pořadí kroků: příprava omáčky běží během vaření vývaru, proto je označena jako souběžná.",
+  "source": {
+    "book": "navy-1944",
+    "page": 88,
+    "titleOriginal": "BAKED FISH WITH TOMATOES"
+  },
+  "verified": false
+}

@@ -1,0 +1,31 @@
+{
+  "id": "chowder-z-kukurice-a-rajcat",
+  "title": "Chowder z kukuřice a rajčat",
+  "titleOriginal": "Corn and Tomato Chowder",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": ["bez-masa", "levne", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 300, "unit": "ml", "note": "zdroj: Milk, liquid 2 gal" },
+    { "ingredientId": "cukr-krystal", "amount": 3, "unit": "g", "scaling": "seasoning" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g", "scaling": "seasoning" },
+    { "ingredientId": "kukurice-konzervovana", "amount": 360, "unit": "g", "note": "smetanová (cream style)" },
+    { "ingredientId": "cibule", "amount": 14, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 350, "unit": "g" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g", "scaling": "seasoning" }
+  ],
+  "steps": [
+    { "text": "V hrnci smíchej mléko, cukr, pepř, kukuřici a cibuli.", "minutes": 3 },
+    { "text": "Přiveď k varu a nech 45 minut jemně probublávat.", "minutes": 53 },
+    { "text": "Mezitím v druhém hrnci zahřej rajčata do varu a osol je.", "minutes": 8, "parallel": true },
+    { "text": "Před podáváním smíchej rajčata s kukuřičnou směsí.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: The Cook Book of the United States Navy 1944, Corn and Tomato Chowder, tištěná s. 237 (PDF 245). Kukuřice „Corn, cream style“ = kukurice-konzervovana (smetanová, poznámka v řádku); rajčata konzervovaná, nálev z konzervy není surovina. Mléko 2 gal = 7,57 l na 100 porcí. Sůl 4 oz (= ½ cup, v souladu) a cukr 1½ oz (= 3 tbsp, v souladu). Recept nemá tuk, vývar ani brambory: ty patří do jiných chowderů knihy, proto nejsou přidány. Sůl 7 g na 4 porce (≈ 0,7 % hmotnosti) je u polévky nad 1 l nízká – doporučuji ponechat dochucení na chuť. Kroky sjednoceny do čtyř; rajčata se ohřívají v druhém hrnci během vaření mléčné směsi.",
+  "source": { "book": "navy-1944", "page": 245, "titleOriginal": "Corn and Tomato Chowder" },
+  "verified": true
+}

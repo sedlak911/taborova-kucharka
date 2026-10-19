@@ -1,0 +1,101 @@
+{
+  "id": "spanelske-fazole",
+  "title": "Španělské fazole",
+  "titleOriginal": "Spanish Beans",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 190,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-cervene",
+      "amount": 180,
+      "unit": "g",
+      "note": "sušené ledvinkové fazole; namočit asi 6 hodin"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vařící voda na zakrytí fazolí; studená voda na namáčení zůstává v hrnci a vsákne se do fazolí"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 25,
+      "unit": "g",
+      "note": "solená slanina (salt pork), nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "rajcatove-pyre",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 30,
+      "unit": "ml",
+      "note": "zdroj: Meat Stock, s. 216 (PDF 224)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.22,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "zdroj uvádí jen „Pepper“, bereme černý mletý"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání pekáčů"
+    }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, pořádně opláchni a zalij studenou vodou. Nech asi 6 hodin namočit." },
+    { "text": "Nesceď. Přilij vařící vodu, aby byly fazole zakryté.", "minutes": 3 },
+    { "text": "Nech na mírném ohni asi 60 minut vařit, dokud fazole nezměknou, ale nerozvaří se.", "minutes": 60 },
+    { "text": "Mezitím nakrájej cibuli a zelenou papriku nadrobno a špek na kostičky.", "minutes": 8, "parallel": true },
+    { "text": "Smíchej fazole se všemi ostatními surovinami, včetně rajčatového pyré a vývaru. Dochuť solí, paprikou a pepřem.", "minutes": 3 },
+    { "text": "Vymaž zapékací mísu olejem a nalij do ní směs.", "minutes": 2 },
+    { "text": "Peč v troubě předehřáté na 175 °C 90 až 120 minut, dokud směs nezhoustne.", "minutes": 120 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (4–5 oz, zhruba 2/3 hrnku). Fazole jsou ledvinkové sušené (kidney), proto fazole-cervene, ne bílé. Sůl a koření jsou dle zdroje, pepř bereme jako černý mletý. Vývar: Meat Stock s. 216 (PDF 224) je v katalogu jako hovezi-vyvar (1½ pintu na 100 porcí). Solená slanina (salt pork) je nahrazena špekem. Studená voda na namáčení zdroj neuvádí, počítá se jen vařící voda (2 gal). Pečení 1½–2 hodiny na 100 porcí je v receptu pro 4 porce použito horní mez (120 minut), může stačit i kratší doba. Rajčatové pyré lze nahradit prosetými vařenými rajčaty, jak uvádí zdroj.",
+  "source": {
+    "book": "navy-1944",
+    "page": 263,
+    "titleOriginal": "SPANISH BEANS"
+  },
+  "verified": true
+}

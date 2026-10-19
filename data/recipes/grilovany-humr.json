@@ -1,0 +1,75 @@
+{
+  "id": "grilovany-humr",
+  "title": "Grilovaný humr",
+  "titleOriginal": "Broiled Live Lobster",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 2,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "korysi",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "humr",
+      "amount": 1590,
+      "unit": "g",
+      "note": "živí humři v lasturě, asi 0,9 lb na porci"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné; nebo olej; množství odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "odhad"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 1,
+      "unit": "g",
+      "note": "odhad"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na čtvrtky k podávání"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej gril nebo troubu na horní ohřev." },
+    { "text": "Polož humra na záda, zkřiž dlouhé klepety a pevně je přidrž.", "minutes": 2 },
+    { "text": "Proveď hluboký řez celým tělem od hlavy k ocasu.", "minutes": 2 },
+    { "text": "Vyjmi játra, žaludek a střevní žílu vedoucí po hřbetu. Rozlom klepety.", "minutes": 5 },
+    { "text": "Polož humry krunýřem dolů do pekáče nebo na plech pod grilem.", "minutes": 2 },
+    { "text": "Potři rozpuštěným máslem nebo olejem a lehce posyp solí, pepřem a paprikou.", "minutes": 3 },
+    { "text": "Peč pod horním ohřevem asi 20 minut, dokud je maso měkké a krunýř červený.", "minutes": 20 },
+    { "text": "Podávej se šťávou z pekáče, rozpuštěným máslem a čtvrtkami citronu." }
+  ],
+  "modernNote": "Zdroj uvádí porci jako ¾ až 1 lb humra v lasturě, bez celkového množství a bez surovin kromě másla nebo oleje; 4 porce = 4 humři po 0,9 lb (1 590 g v lasturě). Máslo (30 g), sůl, pepř a paprika jsou odhady, zdroj jejich množství neuvádí. Předehřev a grilování pod horním ohřevem jsou modernizace; vybavení je trouba s horním ohřevem (gril). Podíl masa (ediblePortion 0,3) je odhad, USDA údaj o 0 % odpadu platí jen pro samotné maso. Nález bilance (139 g na porci vs. 454 g) je očekávaný: porce zdroje je 1 lb v lasturě, jedlého masa je asi 120 g na porci. Velmi drahá surovina; levnější alternativou je pečený kapr nebo treska.",
+  "source": {
+    "book": "navy-1944",
+    "page": 94,
+    "titleOriginal": "BROILED LIVE LOBSTER"
+  },
+  "verified": false,
+  "quote": "Select only live lobsters for broiling."
+}

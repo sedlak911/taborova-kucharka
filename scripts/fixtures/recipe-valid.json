@@ -1,0 +1,11 @@
+{
+  "id": "palacinky", "title": "Palačinky", "chapter": "sladke", "baseServings": 4, "timeMinutes": 30, "difficulty": 1,
+  "tags": ["bez-masa", "sladke"], "equipment": ["plotna"], "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "mouka", "amount": 2, "unit": "hrnek" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks" },
+    { "ingredientId": "sul", "amount": 1, "unit": "spetka" }
+  ],
+  "steps": ["Smíchat těsto.", "Péct na pánvi."],
+  "source": { "book": "vlastni" }, "verified": true
+}

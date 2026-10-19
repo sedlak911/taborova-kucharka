@@ -1,0 +1,89 @@
+{
+  "id": "sefranova-ryze-polevka",
+  "title": "Šafránová rýžová polévka",
+  "titleOriginal": "Rice with Saffron (Riso alla Milanese con Zafferano)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 200,
+      "unit": "g",
+      "note": "kulatozrnná risottová rýže (Carnaroli nebo Arborio); dlouhozrnná jen jako náhrada, polévka bude řidší"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 1400,
+      "unit": "ml",
+      "note": "horký; zdroj říká hovězí nebo kuřecí vývar"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "nakrájené na kostičky, zjemnění místo kostní dřeně"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredientId": "safran",
+      "amount": 0.2,
+      "unit": "g",
+      "note": "rozpuštěný v 1–2 polévkových lžících vývaru"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vývar přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím rýži opláchni a osuš.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Do vroucího vývaru vsyp rýži a vař, dokud není z poloviny uvařená.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej nakrájené máslo a vař ještě několik minut, dokud se rozpustí.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej strouhaný parmazán a sundej z ohně.",
+      "minutes": 2
+    },
+    {
+      "text": "Šafrán rozpusť v troše horkého vývaru, přeceď sítkem a vmíchej do rýže."
+    },
+    {
+      "text": "Podávej velmi horké jako polévku."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) neuvádí žádná množství ani počet porcí, všechna jsou odhad z běžné praxe pro 4 porce: rýže 200 g (50 g na porci, méně než 80 g u hlavních jídel, protože zdroj říká, že jde o polévku), vývar 1,4 l (350 ml na porci; menší než původní odhad 1,5 l, aby hmotnost porce zůstala v rozsahu polévky), parmazán 40 g, šafrán 0,2 g (špetka). Originál: kostní dřeň z hovězí kosti v množství poloviny hmotnosti rýže, tj. asi 100 g, nakrájená na kousky a přidaná v polovině vaření; nahrazena máslem 60 g (dřeň má hodně tuku, máslo jej přibližně nahradí). Kostní dřeň, pokud ji seženeš u řezníka, můžeš použít místo másla v původním množství. Vývar je z kupovaného bujónu nebo domácí kostí, ne voda. Čas 25 minut je odhad. Zdroj nepíše o množství vývaru ani o míchání; s tímto poměrem vychází spíše řidší rizoto, které se podává jako polévka.",
+  "source": {
+    "book": "italian-1919",
+    "page": 28,
+    "titleOriginal": "RICE WITH SAFFRON (Riso alla Milanese con Zafferano)"
+  },
+  "verified": false,
+  "quote": "Dissolve some saffron in one or two tablespoonfuls of broth ... which is to be served very hot, and makes an excellent soup."
+}

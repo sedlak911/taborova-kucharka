@@ -1,0 +1,156 @@
+{
+  "id": "ovocny-pudink",
+  "title": "Ovocný pudink",
+  "titleOriginal": "Plum Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 125,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 0.85,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.46,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 45,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená na kostičky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kandovane-ovoce",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 75,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.55,
+      "unit": "ks",
+      "note": "rozšlehej; zhruba polovina vejce"
+    },
+    {
+      "ingredientId": "melasa",
+      "amount": 50,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vlasske-orechy",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekané",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "note": "na vymazání forem (odhad)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přesej mouku, prášek do pečiva, sodu, skořici a muškátový oříšek.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej zbývající suroviny a dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Vymaž formy na pudink tukem.",
+      "minutes": 2
+    },
+    {
+      "text": "Naplň formy ze dvou třetin a pevně je zakryj.",
+      "minutes": 3
+    },
+    {
+      "text": "Vlož formy do parního hrnce a vař v páře 1 až 1,5 hodiny.",
+      "minutes": 90
+    },
+    {
+      "text": "Vyjmi formy z hrnce a nech pudink vychladnout ve formách.",
+      "minutes": 20
+    },
+    {
+      "text": "Nakrájej na plátky silné asi 2 cm.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 oz (asi 113 g) a výtěžek 28½ lb. Na 4 porce vychází jen 0,55 vejce a málo ovoce, je to věrný přepočet zdroje; pro hutnější pudink klidně použij celé vejce a zdvojnásob kandované ovoce a rozinky. Lůj (suet) ve zdroji není; recept je bez tuku v těstě, jen 5 g másla na vymazání forem (odhad, zdroj množství neuvádí). Pudink lze vařit i ve vodní lázni na plotně 1 až 1,5 hodiny místo v páře. Zdroj podává pudink s tvrdou omáčkou (Hard Sauce, zmíněná na straně 57), tu jsem do receptu nezařadil. Vejce: tabulka uvádí 1 lb 8 oz (680 g) i 15 ks (1½ pinty); vychází to na 45 g na vejce, shodně s ostatními recepty na stejných stránkách (2 lb = 20 ks), takže žádný rozpor není; použita hmotnost, 0,55 ks při katalogových 50 g. Stejný recept v knize se jmenuje „Plum Pudding“, žádné švestky v něm nejsou, proto název Ovocný pudink. Jedlá soda vychází na 0,85 g (¾ oz × 0,04); je to přesný přepočet zdroje, ne chyba, a nález check:recipe o ní je očekávaný. Bilance: 97 g surovin na porci proti 113 g ve zdroji, rozdíl odpovídá vypařené a odkapané tekutině při páření.",
+  "source": {
+    "book": "navy-1944",
+    "page": 57,
+    "titleOriginal": "PLUM PUDDING"
+  },
+  "verified": true
+}

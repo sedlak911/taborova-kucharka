@@ -1,0 +1,77 @@
+{
+  "id": "cibulova-ryze",
+  "title": "Cibulová rýže",
+  "titleOriginal": "Zwiebelreis",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 190,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "množství zdroj neuvádí (doplněno); rýže ho část nasákne"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (doplněno, 100 g na porci); lze i vepřové"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "čerstvá, místo polévkové zeleniny, ve zdroji „bis zu 50 g“ na hlavu (nebo 5 g sušené); vaří se s jídlem"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Salz nach Geschmack); odhad"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 400,
+      "unit": "g",
+      "note": "ve zdroji 100 g na hlavu; suchá"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu a přidej nakrájenou cibuli.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a sůl, vař asi 2 a půl hodiny.",
+      "minutes": 150
+    },
+    {
+      "text": "Přidej rýži a vař dohotova, asi dalších 30 minut.",
+      "minutes": 30
+    },
+    {
+      "text": "Dochuť solí, celerem a petrželí."
+    }
+  ],
+  "modernNote": "Řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (cibule) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Zdroj uvádí na hlavu jen rýži (100 g), cibuli (až 50 g čerstvé na hlavu); množství masa a vody chybí. Maso (400 g na 4 porce, odhad) a vodu (1,2 l) jsme doplnili, sůl je odhad, proto verified: false. Dochucení selerem a petrželí je bez množství, dávkuj po špetkách (lze použít i petrželovou nať a celer). Jde o hustou rýžovou polévku jako hlavní jídlo. Hovězí potřebuje 2,5 hodiny, vepřové jen asi 1,5 hodiny (pak zkrať druhý krok na 90 minut). Varianty s trvanlivou vařenou klobásou (do hotového jídla, krátce svařit) nebo konzervovaným masem (až těsně před podáváním, jen prohřát) jsou vynechány; sušená zelenina nebo cibule: 2,5–3 g, resp. 5 g na hlavu.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 25,
+    "code": "4. (varianta, tišt. 46)",
+    "titleOriginal": "Zwiebelreis"
+  },
+  "verified": false,
+  "quote": "Statt Suppenkräuter sind bis zu 50 g frische oder 5 g getrocknete Zwiebeln im Gericht mitzukochen."
+}

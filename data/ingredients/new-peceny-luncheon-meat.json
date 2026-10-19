@@ -1,0 +1,29 @@
+[
+  {
+    "id": "luncheon-meat",
+    "name": "Luncheon meat (vepřová konzerva)",
+    "aliases": [
+      "luncheon meat",
+      "pork luncheon meat",
+      "vepřový luncheon meat",
+      "vepřová konzerva",
+      "konzervované vepřové maso"
+    ],
+    "category": "uzeniny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 334,
+      "protein": 12.5,
+      "carbs": 2.1,
+      "fat": 30.3,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174571 (Luncheon meat, pork, canned)",
+      "refuse": "USDA fdc:174571 refusePct 0"
+    }
+  }
+]

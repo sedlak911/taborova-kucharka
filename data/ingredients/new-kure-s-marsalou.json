@@ -1,0 +1,32 @@
+[
+  {
+    "id": "marsala",
+    "name": "Víno Marsala (suché)",
+    "aliases": [
+      "sherry",
+      "suché sherry",
+      "dry sherry",
+      "víno marsala",
+      "marsala suché"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 152,
+      "protein": 0.2,
+      "carbs": 11.67,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "siricitany"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175112 (Alcoholic beverage, wine, dessert, dry); sherry a marsala v USDA nejsou, použit nejbližší záznam dezertního vína",
+      "refuse": "USDA fdc:175112 refusePct 0"
+    },
+    "densityGPerMl": 0.98
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": "vareny-hovezi-jazyk-navy",
+  "title": "Vařený hovězí jazyk",
+  "titleOriginal": "Simmered Beef Tongue",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 270,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-jazyk-syrovy",
+      "amount": 1090,
+      "unit": "g",
+      "note": "čerstvý nebo uzený, před vařením"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření jazyka, slije se; domácí hodnota 1 l na 1 kg masa",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zalij jazyk vodou a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přikryj a na mírném ohni vař 3 až 4 hodiny, dokud jazyk nezměkne.",
+      "minutes": 240
+    },
+    {
+      "text": "Sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Ponoř jazyk do studené vody, odstraň kůži a odřízni kořínky.",
+      "minutes": 10
+    },
+    {
+      "text": "Nakrájej jazyk na plátky a podávej studený nebo teplý s křenovou omáčkou.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Kcal (513 na porci) je počítáno ze syrové oloupané hmotnosti; po uvaření jazyk ztratí asi 30 % hmotnosti (porce ≈ 160 g, zhruba 450 kcal), proto bilance porce vychází 1,6× zdrojové porce. Zdroj počítá na 100 porcí (60 lb čerstvého nebo uzeného jazyka); porce 5–6 oz, 4 porce = 1,09 kg syrového jazyka před odečtením kůže a kořínků (katalogová `ediblePortion` 0,84 řeší nákup). Zdroj neuvádí množství vody v řádku „Water“ (prázdné), proto je domácí slévaná hodnota 1 l na 1 kg masa; jazyk musí být ponořen, v případě potřeby dolij. Sůl: zdroj 6 oz (¾ šálku) na 100 porcí v poznámce 2 je ≈ 170 g (na 4 porce 7 g lineárně), domácí hodnota 2 g na 1 l vody je nižší; ochutnej a případně přidej. Zdroj dovoluje přidat koření a nakrájenou zeleninu (cibuli, mrkev, zelenou papriku) jako dochucení; nepřidáno, protože není uvedeno množství. Podání teplého: jazyk ořízni a vrať do vody na vaření, krátce ohřej; podání studeného: nech vychladnout ve vodě, ve které se vařil. Křenová omáčka (zdroj odkazuje na stranu 175) je doporučení k podání, není součástí tohoto receptu; její suroviny nejsou přebrány. Varianta „Tongue à la Maryland“ (třešně, koření, lavrové listy) nebyla zpracována.",
+  "source": {
+    "book": "navy-1944",
+    "page": 130,
+    "titleOriginal": "SIMMERED BEEF TONGUE"
+  },
+  "verified": true,
+  "quote": "Cover tightly. Let simmer 3 to 4 hours or until tongues are tender."
+}

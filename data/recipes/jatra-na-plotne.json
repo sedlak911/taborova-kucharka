@@ -1,0 +1,67 @@
+{
+  "id": "jatra-na-plotne",
+  "title": "Játra na plotně",
+  "titleOriginal": "Griddle-Broiled Liver",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 640,
+      "unit": "g",
+      "note": "hovězí, vepřová, jehněčí nebo telecí; zdroj druh nevybírá, zvoleno hovězí"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 25,
+      "unit": "g",
+      "note": "na obalení plátků před opékáním; moderně olej, zdroj tuk (sádlo)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g",
+      "note": "posypat až na konci"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "posypat až na konci"
+    }
+  ],
+  "steps": [
+    { "text": "Játra nakrájej na plátky silné asi 1 cm a rozděl je na porce.", "minutes": 5 },
+    { "text": "Mezitím rozehřej pánev na střední teplotu.", "minutes": 3, "parallel": true },
+    { "text": "Každý plátek namoč v rozpuštěném tuku.", "minutes": 2 },
+    { "text": "Opékej na pánvi na středním ohni asi 5 minut, dokud se barva nezmění.", "minutes": 5 },
+    { "text": "Otoč plátky a opékej je z druhé strany asi 5 minut, dokud nezhnědnou rovnoměrně.", "minutes": 5 },
+    { "text": "Osol a opepři." },
+    { "text": "Podávej hned, dokud jsou horká." }
+  ],
+  "modernNote": "Zdroj nevybírá druh jater (hovězí, vepřová, jehněčí nebo telecí); zvoleno hovězí, lze použít libovolné. Tuk ze zdroje (1 lb sádla, „dip in fat“) je v modernizaci řepkový olej; původní sádlo je v original. Bilance: 35 lb jater na 100 porcí po 5 oz (31 lb) dává 1,12×, v pořádku. Sůl 9 g na 4 porce (1,4 %) je podle zdroje (5 oz na 100 porcí), doporučení ubrat na 4–5 g. Zdroj neuvádí čas předehřátí pánve ani konkrétní dobu opékání, jen 6–10 minut, dokud barva nezmění; čas je horní mez. Pepř 0,46 g je přesně, ne špetka.",
+  "source": {
+    "book": "navy-1944",
+    "page": 163,
+    "titleOriginal": "GRIDDLE-BROILED LIVER"
+  },
+  "verified": true,
+  "quote": "Dip in fat."
+}

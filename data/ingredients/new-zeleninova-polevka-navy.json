@@ -1,0 +1,28 @@
+[
+  {
+    "id": "hrasek-v-konzerve",
+    "name": "Hrášek v konzervě",
+    "aliases": [
+      "konzervovaný hrášek",
+      "hrášek konzervovaný",
+      "peas, canned"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 58,
+      "protein": 3.01,
+      "carbs": 10.6,
+      "fat": 0.48,
+      "fiber": 3.3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170421 (Peas, green, canned, regular pack, solids and liquids)",
+      "units": "bez objemových jednotek; hmotnost z Navy váhy (včetně nálevu v konzervě)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

@@ -1,0 +1,108 @@
+{
+  "id": "spoonbread",
+  "title": "Spoonbread (kukuřičný nákyp)",
+  "titleOriginal": "Spoonbread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 80,
+      "unit": "g",
+      "note": "žlutá"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 265,
+      "unit": "ml",
+      "note": "vroucí; zůstává v kaši",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 340,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.4,
+      "unit": "ks",
+      "note": "rozšlehaná; zdroj 35 ks na 100 porcí (po 45 g)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „butter or other fat“",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pekáče (odhad)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "horká voda do lázně pod pekáč, slije se (odhad)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Troubu předehřej na 175 °C." },
+    { "text": "Vymaž pekáč olejem.", "minutes": 1 },
+    { "text": "V hrnci přiveď vodu k varu.", "minutes": 5 },
+    { "text": "Mezitím smíchej kukuřičnou mouku, sůl a cukr.", "minutes": 1, "parallel": true },
+    { "text": "Směs za stálého míchání vmíchej do vroucí vody a vař 5 minut, dokud nezhoustne.", "minutes": 6 },
+    { "text": "Mezitím přiveď mléko k varu.", "minutes": 4, "parallel": true },
+    { "text": "Rozšlehaná vejce a rozpuštěné máslo vmíchej do horkého mléka.", "minutes": 2 },
+    { "text": "Mléčnou směs za stálého míchání přilij ke kukuřičné směsi.", "minutes": 2 },
+    { "text": "Vmíchej prášek do pečiva a důkladně promíchej.", "minutes": 2 },
+    { "text": "Vylij do vymazaného pekáče.", "minutes": 1 },
+    { "text": "Pekáč postav do větší pánve s horkou vodou.", "minutes": 2 },
+    { "text": "Peč asi 45 minut, dokud nezatuhne.", "minutes": 35 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 5 oz (asi 2/3 hrnku); porce 4-1/2 oz. Mouku 4 lb 8 oz, sůl, cukr, vodu a mléko, máslo a prášek do pečiva jsme přepočetli přes obrázek stránky 275 (sůl 3-1/2 oz, cukr 3-1/2 oz, máslo 8 oz, prášek 6-3/4 oz); vejce 35 ks na 100 porcí dává 1,4 ks na 4 porce. Odhadnuto: vymazání pekáče olejem (5 ml) a horká voda do lázně (1 l), které zdroj předepisuje, ale bez množství. Pečení podle zdroje 45 minut nebo do ztuhnutí; v menším pekáči může být hotovo dřív (moderní tip: po 35 minutách zkus špejlí). Sůl 6 g na 4 porce je podle zdroje; dle chuti ubrat. Bilance vychází kolem 1,5násobku hmotnosti porce zdroje, což odpovídá nasákání vody a mléka do kukuřičné kaše.",
+  "source": {
+    "book": "navy-1944",
+    "page": 275,
+    "titleOriginal": "SPOONBREAD"
+  },
+  "verified": false,
+  "quote": "Before baking, set pan of spoon bread into pan of hot water to insure smooth texture."
+}

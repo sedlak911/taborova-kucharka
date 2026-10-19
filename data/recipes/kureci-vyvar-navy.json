@@ -1,0 +1,35 @@
+{
+  "id": "kureci-vyvar-navy",
+  "title": "Kuřecí vývar",
+  "titleOriginal": "Chicken Stock",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 540, "unit": "g", "note": "celé vykuchané kuře (full drawn), nákupní hmotnost s kostmi" },
+    { "ingredientId": "voda", "amount": 1140, "unit": "ml" },
+    { "ingredientId": "mrkev", "amount": 11, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "cibule", "amount": 5, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "celer-rapikaty", "amount": 5, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.11, "unit": "g", "note": "¾ čajové lžičky" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Kuře důkladně očisti i s nožkami. Rozdělej ho na kusy, nebo ho nech celé.", "minutes": 10 },
+    { "text": "Zalij vodou a pomalu zahřej k varu.", "minutes": 10 },
+    { "text": "Přidej mrkev, cibuli, celer, pepř a sůl. Nech 2 až 3 hodiny jemně probublávat.", "minutes": 180 },
+    { "text": "Přeceď přes jemné sítko a nech vychladnout.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj: Chicken Stock, s. 216 tištěná (PDF 224), postup na s. 217 (PDF 225). Výtěžek 6 gal, porce 1 cup (≈ 8 oz): 6 gal / 1 cup = 96 porcí, odchylka 4 % je v toleranci, proto originalYield 100. Kuře je podle zadání celé vykuchané (full drawn, 30 lb), ne dressed. Po vaření se kuře a zelenina scedí a zahodí, v porci zůstává jen vývar, proto nález bilance (384 g na porci vs. 237 ml zdroje, poměr 1,62) odpovídá tomu, že porce vývaru je tekutina (kolem 285 ml), zatímco kuře a zelenina se po vaření zahodí; nelze ji srovnávat s hustou omáčkou. Kalorie check:recipe počítá z celého syrového kuřete, ve vývaru ale zůstává jen zlomek jeho živin, takže skutečné kcal vývaru jsou nižší. Zdroj uvádí na konci přípravy odstranit ztuhlou vrstvu tuku, která uzavírá povrch; moderně ji sejmi lžící před použitím. Sůl: zdroj 3 oz (6 tbsp) na 100 porcí, přes třídu seasoning vychází 6 g na 4 porce (≈ 1,5 g na šálek); doporučuji ubrat a dosolit až v hotovém jídle. Pepř: ¾ tsp převedeno na 0,11 g (2,3 g na tsp, odhad hustoty). Kuřecí vývar z obchodu (kureci-vyvar) je moderní alternativou bez vaření. Shortlist navrhoval tag pripravit-predem, vynechán: čekání je 2–3 hodiny vaření, ne ≥ 4 h. Čas 210 minut je součet kroků.",
+  "source": {
+    "book": "navy-1944",
+    "page": 224,
+    "titleOriginal": "Chicken Stock"
+  },
+  "verified": true
+}

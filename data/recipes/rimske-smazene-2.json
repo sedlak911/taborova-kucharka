@@ -1,0 +1,154 @@
+{
+  "id": "rimske-smazene-2",
+  "title": "Římské smažené plněné oplatky ze zbytků kuřete",
+  "titleOriginal": "Roman Fry II",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "1 polévková lžíce; hustý bešamel na formování (zdroj odkazuje na „No. 54“, bešamel č. 59), úměrně náplni"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "odhad, úměrně náplni"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Bešamel",
+      "note": "jen tolik, aby vznikl hustý bešamel na formování"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 250,
+      "unit": "g",
+      "note": "zbytky pečených kuřecích prsou bez kůže, nakrájet na malé kostičky; zdroj „some breast“, odhad"
+    },
+    {
+      "ingredientId": "hovezi-jazyk-vareny",
+      "amount": 30,
+      "unit": "g",
+      "note": "asi 2 tenké plátky, na kostičky (zdroj 2–3 plátky)"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 30,
+      "unit": "g",
+      "note": "asi 2 tenké plátky, na kostičky (zdroj 2–3 plátky)"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 15,
+      "unit": "g",
+      "note": "nastrouhaný; zdroj 1 polévková lžíce na menší díl"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka, podle chuti"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná na obalení; zdroj 1 celé vejce a bílek z druhého, stačí i 1,5 ks"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 80,
+      "unit": "g",
+      "note": "jemně umletá (zdroj „bread crumb ground very fine“)"
+    },
+    {
+      "ingredientId": "wontonove-platky",
+      "amount": 44,
+      "unit": "ks",
+      "note": "náhrada za zdrojové oplatky (wafers, čtverce jako lékárenské oplatky); 2 plátky na jeden kousek, asi 22 kousků"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 250,
+      "unit": "ml",
+      "note": "na smažení (zdroj „oil or fat“); odhad",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý při smažení (odhad)",
+      "scaling": "fat"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na mírném ohni osmahni v hrnci mouku s máslem, za stálého míchání pozvolna přilévej mléko a vař, dokud omáčka nezhoustne na hustou kaši.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím nakrájej kuřecí maso, jazyk a šunku na malé kostičky.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Do bešamelu vmíchej nakrájené maso, jazyk, šunku, parmezan a muškátový oříšek.",
+      "minutes": 3
+    },
+    {
+      "text": "Směs nech dobře vychladnout, aby šla tvarovat.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím rozšlehej vejce a na talíř nasyp jemně umletou strouhanku.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Plátek namoč ve vejci a polož ho na strouhanku. Na něj polož lžičku směsi, přikryj druhým plátkem namočeným ve vejci a okraje dobře přitiskni. Kousek obal ze všech stran strouhankou a odlož.",
+      "minutes": 15
+    },
+    {
+      "text": "Olej rozehřej v hluboké pánvi a v něm po dávkách smaž kousky dozlatova z obou stran.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej horké s citronem."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 69, tištěná s. 55) uvádí suroviny jen ve větách, bez množství a bez počtu porcí; náplň je ze zbytků pečeného kuřete. Odhady pro 4 porce: 250 g zbytkových kuřecích prsou, 30 g jazyka a 30 g šunky (asi 2 plátky každého; zdroj 2–3 plátky), 15 g parmezanu, špetka muškátu. Bešamel (zdroj odkazuje na „No. 54“, v knize č. 59) je úměrný náplni, ne celý samostatný recept: 15 g mouky, 15 g másla a 150 ml mléka dají hustý bešamel, který jde formovat. Strouhanka 80 g, 2 vejce (zdroj 1 celé vejce a bílek z druhého; stačí i 1,5 ks) a 250 ml oleje na smažení jsou odhad; olej se slévá (vessel), nasáklý podíl asi 30 ml je zapsán zvlášť jako tuk v jídle (odhad). Zdroj nezmiňuje sůl; dochuť podle chuti. Zdrojové oplatky (wafers, tenké čtverce jako lékárenské oplatky) nejdou dnes koupit, proto wonton plátek 8 g (asi 9 cm, 44 ks = 22 kousků po dvou plátcích, asi 5 až 6 kousků na porci). Počet kusů odpovídá poměru zdroje (asi 20 kousků z půl libry masa); plátky jsou silnější než zdrojové oplatky, takže se lépe obalí. Čas kroků (chlazení 20 minut, tvarování 15 minut) je odhad. Tag levne zůstává, protože jde o jídlo ze zbytků. Maso na porci (asi 76 g) je pod 80 g, protože jde o náplň do oplatek ze zbytků, ne o samostatné masové jídlo; zbytek porce tvoří bešamel, obal a wonton plátky.",
+  "source": {
+    "book": "italian-1919",
+    "page": 59,
+    "titleOriginal": "ROMAN FRY II"
+  },
+  "verified": false,
+  "quote": "This can be made when you happen to have some breast of roast chicken left over."
+}

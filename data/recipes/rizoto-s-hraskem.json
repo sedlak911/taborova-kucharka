@@ -1,0 +1,91 @@
+{
+  "id": "rizoto-s-hraskem",
+  "title": "Rizoto s hráškem",
+  "titleOriginal": "Risotto with Peas (Risotto con piselli)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 střední, nasekaná najemno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "kousek na opečení cibule a kousek na dokončení"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 340,
+      "unit": "g",
+      "note": "rýže na rizoto (ideálně kulatozrnná)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "vroucí, přilévat po hrnku"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 200,
+      "unit": "g",
+      "note": "zrna; čerstvý (z lusků) nebo mražený, případně konzerva scezená"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nasekej najemno a na kousku másla ji osmahni dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Do cibule postupně přisypávej rýži a dřevěnou vařečkou ji míchej, až se zrna obalí tukem.",
+      "minutes": 3
+    },
+    {
+      "text": "Přilévej vroucí vodu po hrnku, pokaždé když se rýže začne sušit, a za stálého míchání vař.",
+      "minutes": 15
+    },
+    {
+      "text": "Zatímco se rýže vaří, předem připrav hrášek: čerstvý uvař doměkka, mražený nebo z konzervy jen sceď.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Když je rýže skoro měkká, přidej hrášek a osol. Sundej z ohně, dokud je rýže téměř suchá.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej zbylé máslo a hned podávej horké."
+    }
+  ],
+  "modernNote": "Gentile uvádí 1½ lb (cca 680 g) rýže, cibuli a hrášek bez množství a bez počtu porcí. Rýži beru jako dávku pro cca 8 porcí, takže pro 4 porce 340 g (zdroj by při 80 g na porci dal 320 g; rozdíl je malý). Voda není v knize uvedena, zdroj říká „vroucí voda po hrnku“; na 340 g rýže je to 1 l (asi 3 : 1). Cibule 150 g jako 1 střední cibule, máslo 30 g na opečení a dokončení, sůl 4 g (zdroj „some salt“). Hrášek 200 g je odhad z běžné praxe; zdroj říká „čerstvý nebo konzerva“, v této databázi se mražený hrášek používá stejně (viz zeleninové kari). Čas 35 minut je odhad, zdroj ho neuvádí. Dochucení parmazánem zdroj u tohoto receptu nedává. Bez masa, bez vývaru, jen voda.",
+  "source": {
+    "book": "italian-1919",
+    "page": 27,
+    "titleOriginal": "(Risotto con piselli)"
+  },
+  "verified": false,
+  "quote": "Add some salt and take it away from the water almost dry."
+}

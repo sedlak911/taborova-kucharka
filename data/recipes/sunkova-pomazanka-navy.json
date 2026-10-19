@@ -1,0 +1,62 @@
+{
+  "id": "sunkova-pomazanka-navy",
+  "title": "Pomazánka ze šunky",
+  "titleOriginal": "Ham Salad Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [],
+  "allergens": [
+    "celer",
+    "horcice",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 110,
+      "unit": "g",
+      "note": "vařená, nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 55,
+      "unit": "g",
+      "note": "nadrobno nasekaný"
+    },
+    {
+      "ingredientId": "kren",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Nasekej nadrobno šunku a řapíkatý celer.", "minutes": 8 },
+    { "text": "Přidej křen, sušenou hořčici a majonézu.", "minutes": 1 },
+    { "text": "Vše důkladně promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: 100 porcí po ~2 oz; na 4 porce vychází ~245 g náplně (~61 g na porci, bilance odpovídá 2 oz). Majonéza je kupovaná v množství ze zdroje (4 lb / ½ gal); zdroj odkazuje na domácí majonézu (str. 204 = PDF 212), ta není rozepsána. Místo poloviny celeru zdroj nabízí 1½ qt nasekaných sladkých okurek. Křen je připravený (nová surovina `kren`, USDA fdc:173472; zdroj 2 oz / ¼ cup). Sušená hořčice (1 oz) je přepočtena jako koření, na 4 porce 2 g. Šunka je bez kosti podle katalogu, zdroj bez upřesnění. Zdroj uvádí jako porci přibližně 2 oz.",
+  "source": {
+    "book": "navy-1944",
+    "page": 219,
+    "titleOriginal": "HAM SALAD FILLING"
+  },
+  "verified": true,
+  "quote": "Combine all ingredients and mix thoroughly."
+}

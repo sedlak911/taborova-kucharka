@@ -1,0 +1,28 @@
+[
+  {
+    "id": "kdoule",
+    "name": "Kdoule",
+    "aliases": [
+      "kdoule čerstvé",
+      "kdoul",
+      "quince",
+      "cotogne"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 57,
+      "protein": 0.4,
+      "carbs": 15.3,
+      "fat": 0.1,
+      "fiber": 1.9
+    },
+    "units": {},
+    "ediblePortion": 0.61,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168163 (Quinces, raw)",
+      "refuse": "USDA fdc:168163 odpad 39 % (jádřince, semena, slupka)"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "id": "dusene-susene-zeli",
+  "title": "Dušené zelí ze sušeného zelí",
+  "titleOriginal": "Simmered Cabbage (using dehydrated cabbage)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 130,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "zeli-susene",
+      "amount": 50,
+      "unit": "g",
+      "note": "sušené, rehydratuje se namáčením a vařením (1 lb sušeného ≈ 8½ lb uvařeného zelí)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 230,
+      "unit": "ml",
+      "note": "na namočení a vaření; polovina tekutiny se slévá, zůstává 1½ gal ze 3 gal"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "dochucení, přidává se k vaření"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 40,
+      "unit": "g",
+      "note": "nakrájená na kostičky, osmažená"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.69,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené zelí zalij vodou, zakryj a nech 60 minut namočit.",
+      "minutes": 60
+    },
+    {
+      "text": "Pomalu zahřívej k varu a přidej sůl.",
+      "minutes": 40
+    },
+    {
+      "text": "Vař na mírném ohni 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Polovinu tekutiny slij a odlož na polévky nebo dušená jídla.",
+      "minutes": 2
+    },
+    {
+      "text": "Nakrájenou slaninu osmaž do lehkého zlatavého zbarvení.",
+      "minutes": 8
+    },
+    {
+      "text": "Slaninu s tukem a pepř přidej ke zelí a znovu ohřej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj: Navy 1944, PDF 268 (tištěná strana 260), čteno z obrázku: sušené zelí 2 lb 12 oz, voda 3 gal, sůl 3 oz (6 tbsp), slanina 2¼ lb, pepř ⅜ oz na 100 porcí; porce cca 3½ oz (⅔ cupu). Sušené zelí zůstává v řádku, protože namočení a vaření je podstatou receptu (tag tabor). Voda: zdroj předepisuje slít polovinu tekutiny a odložit ji na polévky, proto v jídle zůstává 1½ gal ze 3 gal (linear, 230 ml na 4 porce); slévaná část se nepočítá. Slanina podle zdroje (`spek`), recept proto nemá tag bez-masa. Sůl a pepř jsou třída seasoning (6 g a 0,69 g na 4 porce); sůl 3 oz na 100 porcí je hodně, doporučení ubrat na polovinu. Pokyny pro teploty výdeje a skladování ve zdroji nejsou. Trouba se nepoužívá, vše na plotně v hrnci a na pánvi.",
+  "source": {
+    "book": "navy-1944",
+    "page": 268,
+    "titleOriginal": "SIMMERED CABBAGE (Using dehydrated cabbage)"
+  },
+  "verified": true
+}

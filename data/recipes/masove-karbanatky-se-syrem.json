@@ -1,0 +1,111 @@
+{
+  "id": "masove-karbanatky-se-syrem",
+  "title": "Karbanátky ze sekaného masa se sýrem",
+  "titleOriginal": "Cutlets of Chopped Meat (Scaloppine di carne battuta)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 500,
+      "unit": "g",
+      "group": "Karbanátky",
+      "note": "libové hovězí, jemně umleté; odhad množství"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "group": "Karbanátky",
+      "note": "štípka strouhaného sýra"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Karbanátky"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Karbanátky"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Karbanátky",
+      "note": "na obalení obou stran"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Smažení",
+      "note": "kousek másla na opečení"
+    },
+    {
+      "ingredientId": "rajcata-drcena",
+      "amount": 120,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "jednoduchá rajčatová omáčka z drcených rajčat"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mleté hovězí maso dej do mísy a ještě jednou ho jemně prohněť.",
+      "minutes": 3
+    },
+    {
+      "text": "Osol a opepři, přidej strouhaný sýr a maso dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Z masa vytvaruj kouli, na prkénku ji obal strouhankou a válečkem rozválej na tenký plát, zhruba jako stříbrný dolar.",
+      "minutes": 10
+    },
+    {
+      "text": "Plát nakrájej na čtverce velké jako dlaň.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej máslo.",
+      "minutes": 2
+    },
+    {
+      "text": "Řízky vlož do pánve a opékej je dozlatova z obou stran.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím ohřej v malém hrnci drcená rajčata se špetkou soli a pepře, dokud omáčka nezhoustne.",
+      "minutes": 6,
+      "parallel": true
+    },
+    {
+      "text": "Opečené řízky přelij rajčatovou omáčkou a podávej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj (Gentile č. 74) neuvádí množství masa ani omáčky, jen „some good lean beef“ a „some tomato sauce“. Odhad pro 4 porce: 500 g libového hovězího (125 g na porci), 40 g strouhanky, 20 g másla, 10 g parmezánu (štípka), 120 g rajčatové omáčky z drcených rajčat (konzerva). Sůl a pepř podle chuti. Použij libové mleté hovězí, aby řízky nebyly suché; zdroj maso melel jemně. Rajčatová omáčka je ze zdroje „tomato sauce“ (č. 12), zjednodušená z drcených rajčat. Zbytky masa lze přidat k syrovému mletému masu, jak doporučuje kniha. Čas 40 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 62,
+    "titleOriginal": "CUTLETS OF CHOPPED MEAT (Scaloppine di carne battuta)"
+  },
+  "verified": false,
+  "quote": "If you have some left over meat this can perfectly well be mixed with the raw meat and chopped and ground together."
+}

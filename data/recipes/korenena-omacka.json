@@ -1,0 +1,77 @@
+{
+  "id": "korenena-omacka",
+  "title": "Kořeněná omáčka",
+  "titleOriginal": "Spice Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 96,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 19,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 160,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 10,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 20,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 80,
+      "unit": "ml",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nasekej nadrobno.",
+      "minutes": 2
+    },
+    {
+      "text": "V hrnci smíchej cibuli, vývar, worcestrovou omáčku, kečup, cukr a ocet.",
+      "minutes": 2
+    },
+    {
+      "text": "Přiveď k varu a vař 5 minut.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Zdroj: Spice Sauce (PDF 190, tištěná strana 182), všechna čísla přečtena z obrázku stránky. Stránka 190 obsahuje i Piquant Raisin Sauce, ta je zpracována zvlášť. Výtěžek „approx. 2 gallons“ a porce „approx. 1/3 cup“ dávají 2 gal ÷ 1/3 cup = 96 porcí, proto originalYield 96 (hlavička zdroje uvádí „100 PORTIONS“, rozdíl 4 % je v přibližnosti údajů zdroje). Přepočet na 4 porce: cibule 1 lb → 19 g (linear); „Meat Stock (page 216) or water“ 1 gal → 160 ml hovězího vývaru (linear; vývar ze zdroje, voda je jen alternativa); worcestrová omáčka 1 cup → 10 ml (linear, tekutina); kečup 1 pint → 20 ml; cukr 8 oz → 9 g (linear); ocet ½ gal → 80 ml (linear). Zdroj nemá sůl ani koření. Podává se k masu (zdroj: „An excellent sauce for meats“), v krocích to není. Omáčka se vaří krátce a zhoustne jen mírně; pokud chceš hustší, prodluž var. Nález 27 kcal na porci je u omáčky očekávaný (malé množství cukru a kečupu, většina objemu je vývar a ocet), nejde o chybu přepočtu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 190,
+    "titleOriginal": "SPICE SAUCE"
+  },
+  "verified": true,
+  "quote": "An excellent sauce for meats."
+}

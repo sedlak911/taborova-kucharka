@@ -1,0 +1,115 @@
+{
+  "id": "plnene-artycoky",
+  "title": "Plněné artyčoky",
+  "titleOriginal": "Stuffed Artichokes (Carciofi ripieni)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "artycok",
+      "amount": 320,
+      "unit": "g",
+      "group": "Artyčoky",
+      "note": "očištěná srdíčka, jedlá část (asi 4 celé hlavy); zdroj počítá 6 hlav, pro 4 porce přepočteno"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "šunka spíš libová než tučná; zdroj 1/8 lb na 6 hlav"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 12,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "čtvrtina malé cibule na 6 hlav"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 1,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "jen náznak (zdroj „just a taste“)"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 3,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "několik lístků celeru nebo petržele"
+    },
+    {
+      "ingredientId": "houby-susene",
+      "amount": 2,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "štípka, předem namočená ve vodě"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "kousek chleba, nastrouhaný"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Plnka a dušení",
+      "note": "štípka do plnky (bez soli), zbytek při dušení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Dušení",
+      "note": "podle chuti; plnka se solí nesmí"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Dušení",
+      "note": "na dno hrnce (zdroj „some oil“)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Dušení",
+      "note": "horká, aby artyčoky nepřipálily; zdroj tekutinu neuvádí, doplněno"
+    }
+  ],
+  "steps": [
+    { "text": "Odřízni stonek u dna, odstraň malé tvrdé vnější listy a artyčoky omyj.", "minutes": 5 },
+    { "text": "Odřízni vršek, rozevři vnitřní listy, u dna je vykrájej malým nožem a vyber chlupatou část. Malé vnitřní listy odlož na plnku.", "minutes": 10 },
+    { "text": "Mezitím sušené houby namoč do vody, aby změkly.", "minutes": 10, "parallel": true },
+    { "text": "Houby sceď, šunku nasekej nadrobno a pak s cibulí, česnekem, petrželí, malými listy a strouhankou vše umel.", "minutes": 5 },
+    { "text": "Plnkou naplň artyčoky a postav je na stonky do hrnce s olejem, osol je, opepři a přilij trochu vody.", "minutes": 5 },
+    { "text": "Hrnec přikryj a duš na mírném ohni, dokud artyčoky nejsou měkké.", "minutes": 35 },
+    { "text": "Podávej horké jako přílohu." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 105) uvádí plnku pro 6 artyčoků: 1/8 lb (57 g) libové šunky, čtvrtinu malé cibule, stopu česneku, listy celeru nebo petržele, štípku sušených hub, kousek strouhanky a pepř bez soli; počet porcí neuvádí. Přepočteno na 4 porce (4 hlavy, 320 g jedlé části jako standard): šunka 38 → 40 g, cibule 12 g, petrželka 3 g, houby 2 g, strouhanka 5 g, česnek 1 g. Olej 30 ml, sůl 3 g a voda 100 ml jsou odhad; zdroj uvádí jen olej, sůl a pepř. Malé vnitřní listy jsou součástí 320 g. Dušení 35 minut je odhad, zdroj čas neuvádí. Zdroj doporučuje artyčoky do plnění nevařit předem, protože ztrácejí část chuti.",
+  "source": {
+    "book": "italian-1919",
+    "page": 82,
+    "titleOriginal": "Stuffed Artichokes (Carciofi ripieni)"
+  },
+  "verified": false,
+  "quote": "Some prefer to give the artichokes a half cooking in water before stuffing it, but it is hardly advisable, because in this way they lose part of their special flavor."
+}

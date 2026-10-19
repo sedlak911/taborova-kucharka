@@ -1,0 +1,104 @@
+{
+  "id": "citronovy-pudink",
+  "title": "Citronový pudink",
+  "titleOriginal": "Lemon Pudding (Budino di limone)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 175,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "orechy",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "citron",
+      "amount": 150,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "1 velký citron celý (i s kůrou), nepůlí se; odhad hmotnosti, zdroj jen „one big lemon“"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 85,
+      "unit": "g",
+      "group": "Pudink",
+      "scaling": "linear",
+      "note": "zdroj 6 oz"
+    },
+    {
+      "ingredientId": "mandle-blansovane",
+      "amount": 85,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "zdroj 6 oz sladkých mandlí se 3 hořkými, přepočteno ×0,5; mandle loupané a velmi jemně umleté"
+    },
+    {
+      "ingredientId": "horkomandlove-aroma",
+      "amount": 0.1,
+      "unit": "ml",
+      "group": "Pudink",
+      "note": "náhrada za 3 hořké mandle ze zdroje (po půlení asi 2 g); 1 kapka (0,05 ml) na 1 g hořkých mandlí",
+      "original": {
+        "ingredientId": "mandle",
+        "amount": 2,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Pudink",
+      "note": "rozdělit na žloutky a bílky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Pudink",
+      "note": "na vaření citronu, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "note": "na vymazání formy; odhad",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 180 °C a formu vymaž máslem." },
+    { "text": "Velký citron vař celý ve vodě do změknutí.", "minutes": 120 },
+    { "text": "Mezitím mandle co nejjemněji umel.", "minutes": 10, "parallel": true },
+    { "text": "Zatímco se citron vaří, odděl žloutky od bílků.", "minutes": 3, "parallel": true },
+    { "text": "Vyjmi citron, osuš ho a ochutnej.", "minutes": 2 },
+    { "text": "Je-li hořký, polož ho do studené vody, dokud hořkost nezmizí." },
+    { "text": "Citron prolisuj přes síto.", "minutes": 3 },
+    { "text": "Do prolisované hmoty přidej cukr, mandle, hořkomandlové aroma a žloutky a dobře promíchej.", "minutes": 3 },
+    { "text": "Bílky ušlehej na tuhý sníh a opatrně je vmíchej do směsi.", "minutes": 5 },
+    { "text": "Směs přelij do formy.", "minutes": 2 },
+    { "text": "Peč v troubě, dokud pudink nezpevní.", "minutes": 40 },
+    { "text": "Nech mírně vychladnout a podávej." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 204) udává suroviny pro celý pudink bez počtu porcí (1 citron, 6 oz cukru, 6 oz mandlí se 3 hořkými, 6 vajec). Dávka vychází na asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8): 85 g cukru a mandlí, 3 vejce. Citron se nepůlí, vaří se celý. Hořké mandle nahrazuje hořkomandlové aroma: 1 kapka (0,05 ml) na 1 g hořkých mandlí. Vaření citronu ve vodě 2 hodiny je ze zdroje; hořkost se zkouší ochutnáním a hořký citron se nechá ve studené vodě, dokud hořkost nezmizí (doba není ve zdroji, proto bez minut). Pečení 180 °C a 40 minut jsou odhad, zdroj uvádí jen „bake like all other puddings“. Vymazání formy máslem je doporučení. Chlazení ≥ 4 h zdroj nepředepisuje, tag pripravit-predem se neuvádí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 146,
+    "titleOriginal": "LEMON PUDDING (Budino di limone)"
+  },
+  "verified": false,
+  "quote": "Cook the lemon in water, for which two hours will be enough."
+}

@@ -1,0 +1,117 @@
+{
+  "id": "smazeny-lilek-navy",
+  "title": "Smažený lilek",
+  "titleOriginal": "Fried Eggplant",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "lilek",
+      "amount": 410,
+      "unit": "g",
+      "note": "oloupaný; z nákupní hmotnosti 510 g (28 lb na 100 porcí, jedlá část 0,81)",
+      "group": "Lilek"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.95,
+      "unit": "ks",
+      "note": "rozšlehaná; 1 lb = 10 ks (Navy)",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 14,
+      "unit": "ml",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 18,
+      "unit": "g",
+      "note": "suché drobky",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na smažení v hrnci, většina se slije (odhad)",
+      "group": "Smažení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "scaling": "fat",
+      "note": "nasáklý při smažení (odhad)",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lilek oloupej a nakrájej napříč na plátky silné asi 0,6 cm.",
+      "minutes": 8
+    },
+    {
+      "text": "Vejce lehce rozšlehej, vmíchej vodu a část soli.",
+      "minutes": 2
+    },
+    {
+      "text": "Zbylou sůl smíchej s drobky.",
+      "minutes": 2
+    },
+    {
+      "text": "Plátky ponoř do vaječné směsi a dobře je nech okapat.",
+      "minutes": 3
+    },
+    {
+      "text": "Plátky obal v drobcích tak, aby byly celé pokryté.",
+      "minutes": 3
+    },
+    {
+      "text": "V hrnci rozehřej olej na 190 °C.",
+      "minutes": 4
+    },
+    {
+      "text": "Plátky smaž po dávkách 5 až 7 minut, dokud nejsou zlatavé a měkké.",
+      "minutes": 14
+    },
+    {
+      "text": "Vyjmi je a nech okapat na papírové utěrce.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej ihned, lilek rychle ztrácí křupavost."
+    }
+  ],
+  "modernNote": "Navy 1944 uvádí jen „hot deep fat“ bez množství, proto je olej odhad: 500 ml na smažení v hrnci (slévá se, vessel) a 30 ml nasáklého podílu (fat). Lilek: 28 lb nákupní hmotnosti na 100 porcí = 510 g na 4 porce, oloupáno (jedlá část 0,81) = 410 g. Vejce: 24 kusů na 100 porcí (1 lb = 10 ks), 0,95 ks na 4 porce. Sůl 3 oz na 100 porcí dává přes třídu seasoning 6 g na 4 porce (lineárně by to bylo 3,4 g); je to sůl do obalu, doporučuji ubrat na polovinu. Zdroj dovoluje 1 quart odpařeného mléka místo vajec. Lilek smaž až těsně před podáváním, zdroj varuje, že při stání ztrácí křupavost. Recept je z Navy 1944; Gentile má samostatný recept smazeny-lilek.",
+  "source": {
+    "book": "navy-1944",
+    "page": 275,
+    "titleOriginal": "FRIED EGGPLANT"
+  },
+  "verified": false,
+  "quote": "Fry eggplant as near to serving time as possible as eggplant loses its crispness upon standing."
+}

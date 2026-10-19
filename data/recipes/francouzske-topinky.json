@@ -1,0 +1,32 @@
+{
+  "id": "francouzske-topinky",
+  "title": "Francouzské topinky (vajíčkové)",
+  "titleOriginal": "French Toast",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "chleb-bily", "amount": 200, "unit": "g", "note": "bílý toustový chléb krájený, nejlépe starší (8 krajíců)" },
+    { "ingredientId": "vejce", "amount": 2.7, "unit": "ks", "note": "čerstvá; asi 2,7 ks (1 ks ≈ 50 g)", "original": { "ingredientId": "vejce-mrazena", "amount": 135, "unit": "g" } },
+    { "ingredientId": "mleko-polotucne", "amount": 65, "unit": "ml", "note": "ze sušeného mléka 6 g a vody v poměru 1 : 9", "original": { "ingredientId": "mleko-susene", "amount": 6, "unit": "g" } },
+    { "ingredientId": "voda", "amount": 45, "unit": "ml", "note": "zbylá voda do těsta" },
+    { "ingredientId": "cukr-krystal", "amount": 12, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "repkovy-olej", "amount": 1, "unit": "lzicka", "note": "na vymazání pánve místo nepřilnavého spreje (odhad)", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Do mísy nalij vodu." },
+    { "text": "Přidej mléko a cukr a na nízké rychlosti šlehej asi 1 minutu, dokud se cukr nerozpustí.", "minutes": 1 },
+    { "text": "Přidej vejce a šlehej na střední rychlosti asi 2 minuty, dokud se směs dobře spojí.", "minutes": 2 },
+    { "text": "Krajíce chleba ponoř do vaječné směsi z obou stran. Nenamáčej je, jen je potáhni.", "minutes": 3 },
+    { "text": "Pánev lehce vymaž olejem a rozehřej ji.", "minutes": 2 },
+    { "text": "Krajíce opékej z každé strany asi 1,5 minuty, dokud nezezlátnou.", "minutes": 3 }
+  ],
+  "modernNote": "Porce 2 krajíce (AFRS Portion 2 Slices); recept je pro 4 porce, tj. 8 krajíců. Mražená vejce nahrazena čerstvými. Sušené mléko je převedeno na čerstvé mléko podle pravidla 1 díl sušeného mléka + 9 dílů vody, zbytek vody zůstává jako voda. Cukr a vejce jsou přepočítány lineárně. Sprej na pánev ze zdroje (2 oz na 100 porcí) je nahrazen 1 lžičkou oleje na vymazání pánve (náhrada za sprej). Kroky ze zdroje: Pokyn „DO NOT SOAK“ je zachován jako „nenamáčej, jen potáhni“; CCP teplota 145 °F (63 °C) je vynechána. Doporučení: pokud se vaječná směs usazuje, před namáčením ji znovu rozmíchej.",
+  "source": { "book": "afrs-2003", "page": 170, "code": "D 022 00", "titleOriginal": "FRENCH TOAST" },
+  "verified": true
+}

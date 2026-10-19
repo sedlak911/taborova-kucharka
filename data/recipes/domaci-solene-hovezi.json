@@ -1,0 +1,93 @@
+{
+  "id": "domaci-solene-hovezi",
+  "title": "Domácí solené hovězí (corned beef)",
+  "titleOriginal": "Corned Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 910,
+      "unit": "g",
+      "note": "hrudí, plec, krk nebo kýta, s vrstvou tuku; nakrájet na kusy stejné velikosti"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 260,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "na dno a mezi vrstvy masa a do nálevu; slévá se"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 25,
+      "unit": "g",
+      "note": "do nálevu"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1370,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "nálev, slévá se"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej hovězí maso na kusy stejné velikosti.",
+      "minutes": 10
+    },
+    {
+      "text": "Dno čistě umyté nádoby vystel tenkou vrstvou soli.",
+      "minutes": 3
+    },
+    {
+      "text": "Maso ukládej střídavě s vrstvami soli a horní vrstvu masa pokryj silnou vrstvou soli. Maso ukládej co nejtěsněji.",
+      "minutes": 5
+    },
+    {
+      "text": "V hrnci přiveď vodu k varu a v ní rozpusť sůl a cukr.",
+      "minutes": 8
+    },
+    {
+      "text": "Nálev nech vychladnout do vlažna."
+    },
+    {
+      "text": "Vlažný nálev nalij na maso. Maso musí být celé pod nálevem; přikryj ho volným víkem a zatěž.",
+      "minutes": 5
+    },
+    {
+      "text": "Nádobu ulož do lednice na 1 až 3 °C."
+    },
+    {
+      "text": "Čtvrtý den maso přelož: kusy obrať a změň jejich pořadí, aby se nálev rovnoměrně vsákl.",
+      "minutes": 5
+    },
+    {
+      "text": "Osmý den maso přelož stejným způsobem.",
+      "minutes": 5
+    },
+    {
+      "text": "Maso drž v nálevu do použití; nejdříve po 10 dnech, nejlépe 15 až 20 dnech."
+    }
+  ],
+  "modernNote": "Recept popisuje jen nakládání do nálevu; uvaření solého hovězího zdroj popisuje zvlášť (Simmered Corned Beef, s. 133). Ledek (saltpeter, 1½ oz na 100 porcí, cca 1,7 g na 4 porce) je vynechán: dnes se nahrazuje rychlosolí (dusitan), která dává typickou růžovou barvu a zvyšuje bezpečnost při dlouhém nakládání; použití je nepovinné. Bez ledku nebo rychlosoli zůstane maso šedé a nakládání držej přísně v lednici. Sůl je ve zdroji jeden řádek, ale v postupu jde do vrstev i do nálevu (viz report). Nálev se slévá; před vařením maso opláchni. Poměr soli a vody zůstává jako ve zdroji (cca 190 g soli na litr nálevu).",
+  "source": {
+    "book": "navy-1944",
+    "page": 132,
+    "titleOriginal": "CORNED BEEF"
+  },
+  "verified": true,
+  "quote": "Keep meat entirely under brine."
+}

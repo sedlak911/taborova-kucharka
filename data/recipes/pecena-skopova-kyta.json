@@ -1,0 +1,56 @@
+{
+  "id": "pecena-skopova-kyta",
+  "title": "Pečená skopová kýta",
+  "titleOriginal": "Leg of Mutton (Cosciotto di castrato arrosto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 800,
+      "unit": "g",
+      "group": "Maso",
+      "note": "kýta s kostí (noha), střední kost vyjmuta; zdroj uvádí skopové, v prodeji je jehněčí",
+      "original": {
+        "ingredientId": "skopove-maso",
+        "amount": 800,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Dušení",
+      "note": "1 šálek, odtučněný; zdroj ho používá na podlévání kýty"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Maso",
+      "note": "podle chuti, přidat až ke konci"
+    }
+  ],
+  "steps": [
+    { "text": "Kýtu vyklepej dřevěnou paličkou, stáhni kůži a vyjmi střední kost, aby maso zůstalo celé; pak ji sváž provázkem.", "minutes": 10 },
+    { "text": "Kýtu dej na silný oheň, aby se na začátku pořádně zapekla.", "minutes": 8 },
+    { "text": "Přilij odtučněný vývar.", "minutes": 2 },
+    { "text": "Kýtu duš na středním ohni, dokud není napůl hotová.", "minutes": 30 },
+    { "text": "Zmírni oheň na minimum a duš dál, dokud maso nezměkne. Až je kýta skoro hotová, osol ji; má zůstat středně propečená, ne přepečená ani syrová.", "minutes": 40 },
+    { "text": "Kýtu nakrájej a podávej. Šťávu z hrnce přeceď, odtuč a podávej zvlášť jako omáčku.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí jen postup: bez množství, bez doby vaření a bez počtu porcí. Kýta 800 g s kostí je odhad pro 4 porce (asi 200 g na porci, po vyjmutí kosti asi 150 g masa). Zdroj počítá s kýtou několik dní po porážce; dnes kupte zralé maso v prodejně. Skopové maso se u nás běžně neprodává, proto je v řádku jehněčí kýta se stejným postupem a skopové zůstává v original. Vývar: šálek (cca 240 ml) hovězího vývaru odtučněný zdroj předepisuje jako jediný tekutý podíl; nenahrazovat vodou. Sůl 6 g je odhad podle chuti. Tuk zdroj nepředepisuje, do hrnce se nic nepřidává. Zdroj neuvádí troubu, postup je dušení v hrnci na plotně. Zdroj říká, že se oheň v polovině vaření zakryje, tedy ztlumí (covering the fire), ne že se přikryje hrnec. Doba 105 minut je odhad; měkkost ověř pichnutím vidličkou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 100,
+    "titleOriginal": "LEG OF MUTTON (COSCIOTTO DI CASTRATO ARROSTO)"
+  },
+  "verified": false,
+  "quote": "Serve with its juice apart in a sauce."
+}

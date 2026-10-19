@@ -1,0 +1,85 @@
+{
+  "id": "vajecna-pomazanka-navy",
+  "title": "Vaječná pomazánka",
+  "titleOriginal": "Egg Salad Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "do vody na vaření vajec, slije se"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3.25,
+      "unit": "ks",
+      "note": "natvrdo uvařená, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaný nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 2,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "celerova-sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu k varu, vejce do ní vlož a vař je natvrdo asi 10 minut.", "minutes": 18 },
+    { "text": "Mezitím nasekej celer a cibuli nadrobno.", "minutes": 8, "parallel": true },
+    { "text": "Vejce ponoř do studené vody, ochlaď a oloupej.", "minutes": 5 },
+    { "text": "Vejce nasekej nadrobno.", "minutes": 4 },
+    { "text": "Přidej celer, cibuli, majonézu, sůl, celerovou sůl a pepř a vše důkladně promíchej.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj počítá 100 porcí po 2 oz (náplň na jeden sendvič), takže 4 porce = 4 sendviče. Majonéza je kupovaná (zdroj odkazuje na domácí majonézu, p. 204 = PDF 212). Vejce: 8 lb = 80 ks (1 lb = 10 ks), 1 ks ≈ 45 g. Sůl a celerová sůl podle třídy seasoning dávají na 4 porce 2 g; podle chuti je možné ubrat. Zdroj doporučuje náplň připravit těsně před podáním, nebo ji nejvýš 1–2 hodiny držet v lednici, ne v teple. Varianta s uzeným (slanina místo celeru, 6 lb na 100 porcí) není zahrnuta. Bilance: 4 porce ≈ 262 g oproti 4 × 2 oz (227 g), poměr 1,15, v pořádku.",
+  "source": {
+    "book": "navy-1944",
+    "page": 219,
+    "titleOriginal": "EGG SALAD FILLING"
+  },
+  "verified": true,
+  "quote": "Combine all ingredients and mix thoroughly."
+}

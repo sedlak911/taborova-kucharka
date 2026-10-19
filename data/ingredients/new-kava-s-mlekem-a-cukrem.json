@@ -1,0 +1,30 @@
+[
+  {
+    "id": "kava-uvarena",
+    "name": "Káva uvařená (překapávaná)",
+    "aliases": [
+      "uvařená káva",
+      "překapávaná káva",
+      "coffee brew",
+      "brewed coffee"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 1,
+      "protein": 0.12,
+      "carbs": 0,
+      "fat": 0.02,
+      "fiber": 0
+    },
+    "densityGPerMl": 1,
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171890 (Beverages, coffee, brewed, prepared with tap water)",
+      "units": "odvozeno z hustoty",
+      "refuse": "bez odpadu"
+    }
+  }
+]

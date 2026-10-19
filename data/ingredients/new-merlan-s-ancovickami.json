@@ -1,0 +1,29 @@
+[
+  {
+    "id": "merlan",
+    "name": "Merlan",
+    "aliases": [
+      "merlan obecný",
+      "whiting",
+      "merlan syrový"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 90,
+      "protein": 18.31,
+      "carbs": 0,
+      "fat": 1.31,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173713 (Fish, whiting, mixed species, raw)",
+      "refuse": "USDA fdc:173713 refusePct 0"
+    }
+  }
+]

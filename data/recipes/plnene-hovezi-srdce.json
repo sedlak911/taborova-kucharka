@@ -1,0 +1,149 @@
+{
+  "id": "plnene-hovezi-srdce",
+  "title": "Plněné dušené hovězí srdce",
+  "titleOriginal": "Beef Heart Stuffed and Braised",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 290,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-srdce",
+      "amount": 640,
+      "unit": "g",
+      "note": "nákup (35 lb na 100 porcí); po očištění asi 450 g"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 145,
+      "unit": "g",
+      "note": "měkké drobky z bílého chleba"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 6,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opečení cibule a celeru a na opečení srdcí; moderně olej",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.6,
+      "unit": "ks",
+      "note": "lehce rozšlehaná"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 400,
+      "unit": "ml",
+      "note": "horký; do nádivky a na dušení; množství ve zdroji chybí, odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "salvej",
+      "amount": 0.61,
+      "unit": "g",
+      "note": "drubeží koření (volitelné), třetina odhadu"
+    },
+    {
+      "ingredientId": "majoranka",
+      "amount": 0.61,
+      "unit": "g",
+      "note": "drubeží koření (volitelné), třetina odhadu"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.61,
+      "unit": "g",
+      "note": "drubeží koření (volitelné), třetina odhadu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Srdce omyj v teplé vodě, odstraň tepny, žíly a chlopně a znovu omyj.",
+      "minutes": 10
+    },
+    {
+      "text": "Vnitřek srdcí osol a opepři.",
+      "minutes": 2
+    },
+    {
+      "text": "Cibuli a celer opékej na tuku, dokud nezměknou.",
+      "minutes": 8
+    },
+    {
+      "text": "Vmíchej chlebové drobky, zbylou sůl, pepř a drubeží koření, pak sundej z ohně.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej rozšlehaná vejce a tolik horkého vývaru, aby nádivka zvlhla. Lehce promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Srdce volně naplň horkou nádivkou a zajisti je provázkem nebo jehlou s nití.",
+      "minutes": 5
+    },
+    {
+      "text": "Srdce opékej na zbylém tuku, dokud nezhnědnou.",
+      "minutes": 10
+    },
+    {
+      "text": "Srdce přendej do pekáče, přilij tolik vývaru, aby kryl dno, a pevně přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Duš v troubě na 150 °C 3 až 4 hodiny, dokud srdce nezměknou. Během pečení podle potřeby dolévej vývar.",
+      "minutes": 240
+    },
+    {
+      "text": "Vyjmi srdce a nakrájej je napříč vlákny na tenké plátky tak, aby nádivka byla uprostřed plátku.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj uvádí 35 lb srdcí na 100 porcí; přepočet bere nákupní hmotnost, odpad (tuk, žíly, chlopně) je v ediblePortion 0,71. Nádivka je v receptu celá (chlebové drobky 8 lb, cibule a celer, tuk, sůl, pepř, drubeží koření, vejce, vývar); odkaz na Fruit Dressing (s. 164) je jen možná náhrada a Brown Gravy (s. 177) volitelná příloha, proto nejsou přidány. Množství horkého vývaru ve zdroji chybí, 400 ml je odhad (nádivka na 4 porce zvlhčená a pod srdcemi dno pekáče), proto verified false. Zdroj má 1 lb 8 oz tuku: 1 lb na cibuli a celer a zbytek na opečení srdcí, v receptu je jeden řádek tuku (třída fat); moderně olej, původní sádlo v original. Drubeží koření (1 oz, volitelné) je rozděleno do šalvěje, majoránky a tymiánu v rovných dílech; je to odhad. Sůl 6 oz (11 g na 4 porce, tj. 2,75 g na porci) je dle třídy seasoning; pro domácí chuť doporučuji ubrat na 1,5–2 g na porci. Porce 8 oz odpovídá plátku s nádivkou, bilance vs. zdroj proto může vyjít vyšší kvůli vývaru a tuku. Pečení 300 °F = 150 °C, zdroj pro dušení uvádí jen troubu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 131,
+    "titleOriginal": "BEEF HEART STUFFED AND BRAISED"
+  },
+  "verified": false,
+  "quote": "Wash hearts in warm water."
+}

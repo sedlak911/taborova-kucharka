@@ -1,0 +1,67 @@
+{
+  "id": "brusinkova-omacka",
+  "title": "Brusinková omáčka",
+  "titleOriginal": "Cranberry Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "brusinky",
+      "amount": 90,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj: cranberries, A. P. 5 lb"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 90,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj: sugar 5 lb"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "zdroj: water 2½ quarts"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vyber brusinky, opláchni je a sceď.",
+      "minutes": 5
+    },
+    {
+      "text": "V hrnci smíchej cukr s vodou, přiveď k varu a vař 5 minut.",
+      "minutes": 7
+    },
+    {
+      "text": "Přidej brusinky a vař pomalu asi 5 minut, dokud nepopraskají slupky. Nemíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Nalij do misky a nech vychladnout."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (výtěžek approx. 2 gal, porce 2 oz = ¼ cup). Stránka 81 obsahuje ještě Cranberry and Orange Relish, ten není zpracován. Varianta Molded Strained Cranberry Sauce na téže stránce (přecedit, nechat ztuhnout v formě) není přepsána, jen hlavní postup. Sušené brusinky (Cranberry Sauce using sliced, dehydrated cranberries) jsou samostatný recept na str. 82, zpracován nebude. Surovina je čerstvá brusinka (katalog `brusinky`, nalezena bez zakládání nové). Voda zůstává v omáčce, proto linear. Bilance: 4 porce ≈ 275 g surovin proti 4 × 57 g porcí, rozdíl je vlastnost zdroje (omáčka se po varu zahustí jen mírně).",
+  "source": {
+    "book": "navy-1944",
+    "page": 81,
+    "titleOriginal": "CRANBERRY SAUCE"
+  },
+  "verified": true
+}

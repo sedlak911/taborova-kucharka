@@ -1,0 +1,67 @@
+{
+  "id": "cervena-repa-ze-suseneho",
+  "title": "Červená řepa ze sušené řepy",
+  "titleOriginal": "Buttered Beets (using dehydrated beets)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "repa-susena",
+      "amount": 65,
+      "unit": "g",
+      "note": "sušená řepa, před vařením se namočí a rehydratuje"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 450,
+      "unit": "ml",
+      "note": "na namáčení a vaření; část se vsákne, zbytek se slije",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Namoč sušenou řepu do vody, přikryj a nech 60 minut.", "minutes": 60 },
+    { "text": "Pomalu zahřej k varu.", "minutes": 8 },
+    { "text": "Vař 30 minut, dokud řepa nezměkne.", "minutes": 30 },
+    { "text": "Sceď vodu.", "minutes": 2 },
+    { "text": "Přidej máslo, sůl a pepř a promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj je pro 100 porcí po 3 oz (½ až ⅔ hrnku); přepočteno na 4 porce po 3 oz (12 oz celkem). Sušená řepa zůstává v receptu, protože rehydratace je podstata pokrmu. USDA položka „beets, dehydrated“ v indexu chybí: makra jsou odvozena z čerstvé řepy (fdc:169145) ×8, což odpovídá poměru sušiny; zdroj uvádí 1 lb sušené ≈ 12 lb řepy celé (po odpadu ≈ 8 lb dužiny). Sůl a pepř ubírej podle chuti. Namáčení delší než 60 minut může způsobit kysnutí (zdroj).",
+  "source": {
+    "book": "navy-1944",
+    "page": 264,
+    "titleOriginal": "BUTTERED BEETS (Using dehydrated beets)"
+  },
+  "verified": true,
+  "quote": "Soak beets in water 60 minutes. Cover."
+}

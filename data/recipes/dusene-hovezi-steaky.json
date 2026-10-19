@@ -1,0 +1,99 @@
+{
+  "id": "dusene-hovezi-steaky",
+  "title": "Dušené hovězí steaky",
+  "titleOriginal": "Braised Beef Steaks",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 115,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-zadni",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti; zdroj uvádí 42 lb bez kosti nebo 60 lb s kostí"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "note": "na obalení plátků"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 50,
+      "unit": "g",
+      "note": "na opečení plátků",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "odhad; zůstává ve šťávě z pekáče"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 150 °C."
+    },
+    {
+      "text": "Nakrájej maso na plátky tlusté 1,5–2 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej mouku, sůl a pepř.",
+      "minutes": 2
+    },
+    {
+      "text": "Plátky v této směsi obal.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi s tukem opékej plátky z obou stran dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Přendej plátky do pekáče a přilij vodu, aby zakryla dno.",
+      "minutes": 3
+    },
+    {
+      "text": "Pekáč pevně přikryj a peč v troubě 1 až 1,5 hodiny, dokud maso nezměkne.",
+      "minutes": 90
+    },
+    {
+      "text": "Zbylou šťávu z pekáče použij jako omáčku."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí po 6 oz (170 g) steaku. Použit bezkostní hovězí zadní (42 lb); varianta s kostí (60 lb) je pro 4 porce těžší kvůli kosti. Zdroj neuvádí množství vody (řádek Water je v tabulce prázdný), jen hloubku 1 palec v pekáči; 500 ml je odhad pro 4 porce, zvaž podle velikosti pekáče. Voda zůstává ve šťávě, která se podává jako omáčka (linear). Nálezy check:recipe: sůl 2,75 g na porci je nad běžným rozsahem, ale odpovídá zdroji (6 oz na 42 lb masa), pro 4 porce ji dochuť podle chuti; bilance 1,95 je způsobena vodou (125 ml na porci), která zůstává v omáčce, ne chybou přepočtu. Tuk: zdroj 2 lb hovězího tuku (1 quart) na opečení, modernizováno na řepkový olej, původní sádlo v original. Sůl 6 oz (¾ cupu) a pepř ½ oz (1¾ tablespoonu) odpovídají objemům v tabulce. Čas: zdroj peče 1 až 1½ hodiny, použit horní konec (90 min); Hotovo 113 min z timeMinutes 115. Recept je označen verified: false kvůli odhadu vody.",
+  "source": {
+    "book": "navy-1944",
+    "page": 112,
+    "titleOriginal": "BRAISED BEEF STEAKS"
+  },
+  "verified": false,
+  "quote": "Add water to cover bottom of pan to depth of 1 inch. Cover tightly."
+}

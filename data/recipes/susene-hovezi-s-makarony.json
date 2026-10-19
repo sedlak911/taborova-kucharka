@@ -1,0 +1,102 @@
+{
+  "id": "susene-hovezi-s-makarony",
+  "title": "Sušené hovězí s makarony a sýrem",
+  "titleOriginal": "Sliced Dried Beef and Macaroni",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "testoviny",
+      "amount": 80,
+      "unit": "g",
+      "note": "suché makarony"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření makaronů, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "susene-hovezi",
+      "amount": 145,
+      "unit": "g",
+      "note": "nakrájené na malé kousky"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 760,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 35,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 75,
+      "unit": "g",
+      "note": "strouhaný"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu k varu a osol ji.", "minutes": 8 },
+    { "text": "Vmíchej makarony a znovu přiveď vodu k varu.", "minutes": 3 },
+    { "text": "Vař asi 20 minut, dokud makarony nezměknou, a sceď je.", "minutes": 20 },
+    { "text": "Mezitím nakrájej hovězí na malé kousky. Je-li příliš slané, namoč je na 15–20 minut do teplé vody.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím přiveď mléko k varu.", "minutes": 6, "parallel": true },
+    { "text": "Mezitím v pánvi rozpusť máslo, vmíchej mouku a udělej hladkou jíšku.", "minutes": 3, "parallel": true },
+    { "text": "Jíšku postupně vmíchej do mléka a za stálého míchání vař, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Přidej pepř, vmíchej hovězí a nech 10 minut jemně probublat.", "minutes": 10 },
+    { "text": "Vmíchej sýr a míchej, dokud se úplně nerozpustí.", "minutes": 3 },
+    { "text": "Podávej omáčku s hovězím přelitou přes makarony." }
+  ],
+  "modernNote": "Zdroj: Sliced Dried Beef and Macaroni, s. 118 (PDF 126; pokračuje na PDF 127), 100 porcí, porce 8 uncí (zhruba 1 hrnek). Všechna čísla přepočtena z obrázku stránky (×0,04). Voda na vaření (4½ galonu) a sůl do ní (2 oz) jsou nahrazeny domácí hodnotou 1 l vody na 100 g makaronů a 2 g soli na 1 l; obojí se slévá. Zdroj uvádí „Beef, fried, sliced“, ale postup osmažení nepopisuje; použito sušené hovězí nakrájené na kousky, bez předsmažení. Tuk ze zdroje je sádlo (2 lb), v roux modernizován na máslo, původní sádlo je v original. Pepř: 0,5 oz (váha) použito přednostně před 1¾ lžíce (objem by dal cca 12 g); rozdíl je malý. Namáčení hovězího v teplé vodě je podmíněné (pokud je příliš slané) a do času není započteno. Recept je dvoudílný (makarony a omáčka), proto difficulty 2. Kapitola změněna z z-jednoho-hrnce na testoviny-a-ryze, protože jídlo je makaronové a vaří se ve dvou nádobách.",
+  "source": {
+    "book": "navy-1944",
+    "page": 126,
+    "titleOriginal": "SLICED DRIED BEEF AND MACARONI"
+  },
+  "verified": true,
+  "quote": "Cook about 20 minutes or until macaroni is tender. Drain."
+}

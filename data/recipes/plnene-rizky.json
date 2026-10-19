@@ -1,0 +1,177 @@
+{
+  "id": "plnene-rizky",
+  "title": "Plněné řízky",
+  "titleOriginal": "Stuffed Cutlet (Braciuoline ripiene)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 450,
+      "unit": "g",
+      "note": "1 libra (asi 454 g) z kusu, nakrájet na 7–8 plátků a rozklepat",
+      "group": "Řízky"
+    },
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 100,
+      "unit": "g",
+      "note": "jemné telecí maso, nasekat nadrobno (odhad; zdroj množství neuvádí)",
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 60,
+      "unit": "g",
+      "note": "2 plátky, nasekat (odhad)",
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "místo kostní dřeně (stejné množství)",
+      "original": {
+        "ingredientId": "teleci-kostni-dren",
+        "amount": 30,
+        "unit": "g"
+      },
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "note": "strouhaný (odhad)",
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "celé, pojí plnku",
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "špetka do plnky; sůl do plnky se nedává, šunka a sýr jsou slané",
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "malá, nasekaná (zdroj „a little onion“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 50,
+      "unit": "g",
+      "note": "kousek",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 50,
+      "unit": "g",
+      "note": "kousek",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 80,
+      "unit": "g",
+      "note": "corned beef, nakrájet nadrobno (odhad)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek másla na zeleninu a řízky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do omáčky a na osolení řízků",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcatove-pyre",
+      "amount": 150,
+      "unit": "ml",
+      "note": "rajčatová omáčka („some tomato sauce“), odhad",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "dolít na dokončení dušení",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z telecího masa nakrájej 7–8 plátků a důkladně je rozklep nožem.",
+      "minutes": 10
+    },
+    {
+      "text": "Nasekej nadrobno telecí maso a šunku, přidej máslo a strouhaný parmezán a vše rozetři nožem na pastu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej vejce a špetku pepře, sůl nepřidávej.",
+      "minutes": 2
+    },
+    {
+      "text": "Plátky plň směsí, sroluj je a svaž nití.",
+      "minutes": 10
+    },
+    {
+      "text": "Nasekej nadrobno cibuli, celer, mrkev a corned beef.",
+      "minutes": 5
+    },
+    {
+      "text": "V pánvi rozehřej máslo a vlož nasekanou zeleninu s corned beef spolu s řízky.",
+      "minutes": 3
+    },
+    {
+      "text": "Osol a opepři, opékej, dokud nezačnou hnědnout.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij rajčatovou omáčkou a dolij vodu. Přikryj a duš, dokud maso není měkké.",
+      "minutes": 45
+    },
+    {
+      "text": "Před podáváním sundej nit z řízků a podávej s omáčkou."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 76, s. 59; pokračování omáčky na další straně) uvádí kus telecího masa asi 1 libru (454 g) na 7–8 řízků; zde 450 g pro 4 porce, plus 100 g jemného telecího masa do plnky (odhad, zdroj ho nevyčísluje). Odhady z běžné praxe: šunka 60 g (2 plátky), parmezán 40 g, máslo 20 g do omáčky, corned beef 80 g, cibule, celer a mrkev po 50 g (zdroj „a little onion, a piece of celery, a piece of carrot“), rajčatová omáčka 150 g, voda 250 ml, sůl 3 g; doba dušení 45 minut je odhad. Telecí kostní dřeň (30 g, odhad z „a small quantity of marrow bone“) dnes běžně nekoupíš, proto je v řádku máslo stejného množství; dřeň je v `original`. Vejce: zdroj „one egg“, použito celé vejce. Šunka a corned beef jsou slané, proto sůl do plnky chybí, jak radí zdroj. Původní omáčka i řízky se dusí společně; po dušení se nit odstraňuje před podáváním. Maso je ve výsledku telecí, makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 63,
+    "titleOriginal": "STUFFED CUTLET (Braciuoline ripiene)"
+  },
+  "verified": false,
+  "quote": "The marrow and the grated cheese must be reduced to a paste with the blade of a knife."
+}

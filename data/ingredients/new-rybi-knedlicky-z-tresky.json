@@ -1,0 +1,31 @@
+[
+  {
+    "id": "treska-konzervovana",
+    "name": "Treska konzervovaná (scezená)",
+    "aliases": [
+      "treska v konzervě",
+      "treska z konzervy",
+      "konzervovaná treska",
+      "canned cod",
+      "codfish, canned"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 105,
+      "protein": 22.76,
+      "carbs": 0,
+      "fat": 0.86,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174189 (Fish, cod, Atlantic, canned, solids and liquid); hodnoty orientační",
+      "refuse": "USDA fdc:174189 refusePct 0"
+    }
+  }
+]

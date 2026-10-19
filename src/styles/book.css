@@ -1,0 +1,98 @@
+.book {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr) 2rem;  /* minmax(0, …) brání přetečení na mobilu */
+  align-items: center;
+  padding: 2vh 1vw;
+  perspective: 2400px;
+}
+
+.book__spread {
+  position: relative;
+  height: auto;
+  width: min(100%, calc(92vh * 2 / 1.414), calc(1100px * 2 / 1.414));
+  width: min(100%, calc(92dvh * 2 / 1.414), calc(1100px * 2 / 1.414));
+  aspect-ratio: 2 / 1.414;           /* dvě A-strany vedle sebe */
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  transform-style: preserve-3d;
+  /* kniha leží na stole: desky, kontaktní stín u stolu, měkký stín pod knihou */
+  box-shadow:
+    0 0 0 6px var(--cover-dark),
+    0 3px 4px 6px rgba(0, 0, 0, 0.35),
+    0 22px 30px -6px rgba(0, 0, 0, 0.45),
+    0 48px 80px -24px rgba(0, 0, 0, 0.55);
+  border-radius: 4px;
+  touch-action: pan-y;
+}
+.book--single .book__spread {
+  aspect-ratio: 1 / 1.414;
+  grid-template-columns: 1fr;
+  height: auto;
+  /* 8.5rem = pruh s ovládáním nahoře (3.5rem) + tlačítka listování pod stránkou + rámeček; stránka nezasáhne pod .book-controls */
+  width: min(100%, calc((100vh - 8.5rem) / 1.414));
+  width: min(100%, calc((100dvh - 8.5rem) / 1.414));
+  box-shadow:
+    0 0 0 4px var(--cover-dark),
+    0 2px 3px 4px rgba(0, 0, 0, 0.35),
+    0 14px 20px -6px rgba(0, 0, 0, 0.45);
+}
+/* na mobilu užší úchyt pro otáčení; tlačítka listování jsou pod stránkou, aby stránka zabrala celou šířku (i při 320 px) */
+.book--single {
+  --edge-zone: 24px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+  align-content: center;
+  padding: 3.5rem 1vw 1dvh;  /* nahoře místo pro pevné .book-controls (výška 2.4rem + odstup) */
+}
+.book--single .book__spread { grid-column: 1 / -1; grid-row: 1; }
+.book--single .book__nav { grid-row: 2; padding: 0 1rem; }
+.book--single .book__nav--prev { grid-column: 1; justify-self: start; }
+.book--single .book__nav--next { grid-column: 2; justify-self: end; }
+
+.book__slot { position: relative; height: 100%; overflow: hidden; }
+.book__slot--left  { border-radius: 4px 0 0 4px; }
+.book__slot--right { border-radius: 0 4px 4px 0; }
+/* měřicí slot (R9): rozměr jedné stránky, neviditelný, mimo hit-testing; obsah se podle něj stránkuje */
+.book__measure { position: absolute; top: 0; left: 0; width: 50%; height: 100%; overflow: hidden; visibility: hidden; pointer-events: none; z-index: -1; }
+.book--single .book__measure { width: 100%; }
+
+/* otáčený list */
+.book__flipper {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+  transform-style: preserve-3d;
+  will-change: transform;
+  z-index: 2;
+  user-select: none;
+}
+.book--single .book__flipper { width: 100%; }
+.book__flipper--next { left: 50%; transform-origin: left center; }
+.book__flipper--prev { left: 0;   transform-origin: right center; }
+.book--single .book__flipper--next { left: 0; }
+.book--single .book__flipper--prev { left: 0; transform-origin: left center; }
+
+.book__face {
+  position: absolute; inset: 0;
+  backface-visibility: hidden;
+  overflow: hidden;
+}
+.book__face--back { transform: rotateY(180deg); }
+.book__face-shade {
+  position: absolute; inset: 0;
+  pointer-events: none;
+  background: linear-gradient(to right, rgba(0,0,0,0.35), rgba(0,0,0,0) 40%, rgba(0,0,0,0.25));
+}
+
+.book__nav {
+  font-size: 2.5rem;
+  line-height: 1;
+  background: none;
+  border: 0;
+  color: var(--paper-edge);
+  cursor: pointer;
+}
+.book__nav:disabled { opacity: 0.25; cursor: default; }

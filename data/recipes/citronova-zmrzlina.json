@@ -1,0 +1,54 @@
+{
+  "id": "citronova-zmrzlina",
+  "title": "Citronová zmrzlina",
+  "titleOriginal": "Lemon Ice (Gelato di limone)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 340,
+      "unit": "g",
+      "note": "3/4 libry ze zdroje (OCR čte 24 lb, obrázek ukazuje ¾ lb)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 470,
+      "unit": "ml",
+      "note": "1 pint (US pint 473 ml)"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 3,
+      "unit": "ks",
+      "note": "velké; šťáva ze všech tří, kůra jen z jednoho"
+    }
+  ],
+  "steps": [
+    { "text": "Z jednoho citronu nožíkem odloupni tenké proužky kůry a bílou slupku odřízni.", "minutes": 3 },
+    { "text": "Cukr s vodou a proužky kůry zahřej a vař bez pokličky, dokud se cukr úplně nerozpustí a sirup nezhoustne.", "minutes": 10 },
+    { "text": "Sirup sundej z plotny a nech úplně vychladnout.", "minutes": 30 },
+    { "text": "Do vychladlého sirupu vymačkej citrony jeden po druhém a po každém ochutnej, aby kyselost seděla.", "minutes": 5 },
+    { "text": "Směs přeceď přes sítko a přelij do mísy nebo mrazicí nádoby.", "minutes": 2 },
+    { "text": "Dej do mrazáku a během mražení ji po hodině až dvou protři vidličkou, aby nevznikly velké krystaly ledu." }
+  ],
+  "modernNote": "Zdroj nedává počet porcí; 340 g cukru a 1 pint vody (473 ml, zaokrouhleno na 470 ml) s 3 velkými citrony jsou dávka na cca 4 porce, proto přepočet 1:1 (faktor 1). Množství cukru: OCR čte 24 lb, obrázek stránky (PDF s. 157) ukazuje ¾ lb. Zdroj neuvádí množství šťávy; citrony počítány jako 3 ks, kyselost se dolaďuje ochutnáváním podle zdroje. Kůra jen z jednoho citronu (ve zdroji 'some little pieces of lemon peel'). Mražení: zdroj používá solený led (ice cream freezer); domácí náhrada je mrazák, případně zmrzlinovač (pak je mražení kratší, bez protřepávání). Čas mražení není ve zdroji uveden, proto krok bez minutes; tag pripravit-predem platí (mražení několik hodin). Bez vaření masa.",
+  "source": {
+    "book": "italian-1919",
+    "page": 157,
+    "titleOriginal": "LEMON ICE (Gelato di limone)"
+  },
+  "verified": false,
+  "quote": "Strain and put in the freezer packed with salt and ice."
+}

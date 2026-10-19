@@ -1,0 +1,78 @@
+{
+  "id": "brokolice-na-masle",
+  "title": "Brokolice na másle",
+  "titleOriginal": "Buttered Broccoli",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brokolice",
+      "amount": 500,
+      "unit": "g",
+      "note": "jedlá hmotnost (růžičky a měkké stonky); nákupní 45 lb = 20,4 kg, jedlá část dle katalogu 0,61"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření brokolice, slije se; domácí hodnota 1 l na 500 g",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odstraň odbarvené vnější listy a ztuhlé konce stonků. Krájej stonky na kousky.",
+      "minutes": 5
+    },
+    {
+      "text": "Namoč brokolici v studené osolené vodě asi 30 minut. Dobře sceď.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím přiveď v hrnci osolenou vodu k varu.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Přidej brokolici a vař ji asi 20 minut, dokud nezměkne. Dobře sceď.",
+      "minutes": 20
+    },
+    {
+      "text": "Těsně před podáváním přidej rozpuštěné máslo."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, 45 lb brokolice (nákupní hmotnost). Do řádku je zapsána jedlá část: 45 lb × 0,61 (ediblePortion katalogu) = 12 451 g, na 4 porce 500 g. Vařicí voda a sůl jsou domácí hodnoty (1 l na 500 g brokolice, sůl 2 g/l), zdroj uvádí 2 oz soli na celou várku a vodu „to cover“; obojí se slévá. Sůl z namáčecí vody (zdroj ji neuvádí jako surovinu) není v bilanci. Máslo 1 lb 8 oz na 100 porcí = 25 g na 4 porce. Porce zdroje 3 až 4 oz, v receptu uvedeno 3-1/2 oz. Zdroj nabízí jako podávání Mock Hollandaise Sauce (str. 179), zde nezahrnuto. Recept z téže stránky (Buttered Brussels Sprouts) není součástí tohoto receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 267,
+    "titleOriginal": "BUTTERED BROCCOLI"
+  },
+  "verified": true
+}

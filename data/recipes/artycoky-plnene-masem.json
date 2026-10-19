@@ -1,0 +1,42 @@
+{
+  "id": "artycoky-plnene-masem",
+  "title": "Artyčoky plněné masem",
+  "titleOriginal": "ARTICHOKES STUFFED WITH MEAT (Carciofi ripieni di carne)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "artycok", "amount": 320, "unit": "g", "group": "Artyčoky", "note": "jedlá část, očištěná (asi 4 celé hlavy)" },
+    { "ingredientId": "teleci-maso-libove", "amount": 75, "unit": "g", "group": "Náplň", "note": "libové telecí, umleté" },
+    { "ingredientId": "sunka", "amount": 40, "unit": "g", "group": "Náplň", "note": "spíš tuková než libová (zdroj: 2 plátky pro 6 artyčoků)" },
+    { "ingredientId": "cibule", "amount": 13, "unit": "g", "group": "Náplň", "note": "asi čtvrtina malé cibule" },
+    { "ingredientId": "houby-susene", "amount": 2, "unit": "g", "group": "Náplň", "note": "špetka, namočená a sceděná" },
+    { "ingredientId": "petrzel-nat", "amount": 7, "unit": "g", "group": "Náplň", "note": "lístky" },
+    { "ingredientId": "strouhanka", "amount": 7, "unit": "g", "group": "Náplň", "note": "drobtů z chleba, prosáto" },
+    { "ingredientId": "parmezan", "amount": 3, "unit": "g", "group": "Náplň", "note": "špetka strouhaného sýra" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "group": "Dušení", "note": "odhad, asi 2 lžíce; na opečení a dušení" },
+    { "ingredientId": "voda", "amount": 100, "unit": "ml", "group": "Dušení", "note": "trochu, na podlití" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "group": "Dušení", "note": "odhad" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "group": "Dušení", "note": "odhad" }
+  ],
+  "steps": [
+    { "text": "Sušené houby namoč do vody, aby změkly.", "minutes": 15 },
+    { "text": "Mezitím očisti artyčoky: odřízni stonky, odstraň drobné vnější listy, omyj je a ořízni vršky. Rozevři vnitřní listy, malým nožem vykrájej dno a odstraň chlupatou část uprostřed. Malé vnitřní listy odlož na náplň.", "minutes": 12, "parallel": true },
+    { "text": "Houby sceď a nasekej. Šunku a cibuli nasekej nadrobno. Pak vše spolu s telecím masem, petrželkou, strouhankou, sýrem a odloženými listy umel.", "minutes": 10 },
+    { "text": "Artyčoky naplň směsí, postav je na stonky do hrnce a osol a opepři.", "minutes": 5 },
+    { "text": "Na olivovém oleji je opékej, dokud nezhnědnou.", "minutes": 8 },
+    { "text": "Přilij trochu vody, přikryj pokličkou přes navlhčenou utěrku a duš, dokud nejsou artyčoky měkké.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj uvádí suroviny pro šest artyčoků: čtvrt libry (113 g) libového telecího masa, dva plátky šunky, čtvrtinu malé cibule, petržel, špetku sušených hub, trochu strouhanky a sýra; vnitřní listy artyčoků se zapracují do náplně. Přepočteno na čtyři artyčoky (×2/3): 75 g telecího, 40 g šunky (dva plátky ≈ 60 g pro šest artyčoků), 13 g cibule, 2 g hub, 7 g petržele a strouhanky, 3 g sýra. Artyčoky 320 g je jedlá část (očištěná srdíčka a dno, asi 4 celé hlavy). Odhady z běžné praxe: olivový olej 30 ml, voda 100 ml, sůl 3 g, pepř 0,5 g. Zdroj nemá porce ani dobu dušení; 30 minut dušení a celková doba 70 minut jsou odhad. Tato náplň je příloha; jako hlavní jídlo by bylo potřeba asi 120 g masa na porci, tedy zdvojnásobit náplň.",
+  "source": {
+    "book": "italian-1919",
+    "page": 83,
+    "titleOriginal": "ARTICHOKES STUFFED WITH MEAT (Carciofi ripieni di carne)"
+  },
+  "verified": false,
+  "quote": "The steam that surrounds the artichokes cooks them better."
+}

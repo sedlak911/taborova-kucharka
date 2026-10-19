@@ -1,0 +1,89 @@
+{
+  "id": "ruzickova-kapusta-na-masle",
+  "title": "Růžičková kapusta na másle",
+  "titleOriginal": "Buttered Brussels Sprouts",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ruzickova-kapusta",
+      "amount": 490,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "jedlá hmotnost; zdroj 30 lb A.P. (nákupní 544 g na 4 porce) × ediblePortion katalogu 0,9"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření, slije se; zdroj „to cover“, domácí hodnota"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "rozpuštěné; zdroj 1 lb 8 oz (1½ pint), přidá se těsně před podáváním"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odstraň zvadlé nebo zbarvené vnější listy, zkrať stopku a důkladně omyj.",
+      "minutes": 8
+    },
+    {
+      "text": "Namoč ve studené vodě 20 až 30 minut.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím přiveď k varu osolenou vodu.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Namočenou kapustu scedi.",
+      "minutes": 2
+    },
+    {
+      "text": "Vhoď růžičkovou kapustu do vroucí vody a vař bez pokličky 15 až 20 minut, dokud není měkká.",
+      "minutes": 20
+    },
+    {
+      "text": "Scedi.",
+      "minutes": 2
+    },
+    {
+      "text": "Těsně před podáváním vmíchej rozpuštěné máslo.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: 30 lb růžičkové kapusty A.P. (as purchased) na 100 porcí, porce 3 až 4 oz. Nákupní hmotnost na 4 porce 544 g × 0,9 (ediblePortion katalogu: odřezky stopky, zvadlé listy) = 490 g jedlé části do řádku. Voda na vaření (1 l) a sůl (2 g na 1 l) jsou domácí hodnoty (zdroj „to cover“, 2 oz soli na celou várku), slévají se; sůl z namáčecí vody není v bilanci. Máslo 1 lb 8 oz ze zdroje = 27 g, zaokrouhleno na 25 g (pravidlo zaokrouhlení convert), přidává se těsně před podáváním. Varianty ze zdroje nejsou rozepsány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 267,
+    "titleOriginal": "BUTTERED BRUSSELS SPROUTS"
+  },
+  "verified": true,
+  "quote": "Add butter just before serving."
+}

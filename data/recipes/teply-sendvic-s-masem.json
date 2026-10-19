@@ -1,0 +1,109 @@
+{
+  "id": "teply-sendvic-s-masem",
+  "title": "Teplý sendvič s masem a omáčkou",
+  "titleOriginal": "Hot Meat Sandwich",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vareno",
+      "amount": 450,
+      "unit": "g",
+      "note": "vařené hovězí, nakrájené na plátky (zdroj 25 lb vařeného masa)"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 220,
+      "unit": "g",
+      "note": "8 plátků (2 plátky na porci); hmotnost plátku odhad 28 g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj výpek z pečeně 1¾ lb (1 lb × 1,75)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 30,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj 1¾ lb (1 lb × 1,75)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 530,
+      "unit": "ml",
+      "note": "zdroj Meat Stock (page 216), 3½ gal = 1,75 × 2 gal; kupovaný hovězí vývar"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.52,
+      "unit": "g",
+      "note": "zdroj 3½ čajové lžičky (2 × 1,75)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozpusť máslo v hrnci a smíchej ho s moukou; dobře vypracuj.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého míchání opékej jíšku, dokud mouka nezhnědne.",
+      "minutes": 5
+    },
+    {
+      "text": "Za stálého míchání postupně přilévej vývar.",
+      "minutes": 4
+    },
+    {
+      "text": "Vař za stálého míchání, dokud omáčka nezhoustne a nebude hladká.",
+      "minutes": 10
+    },
+    {
+      "text": "Osol a opepři."
+    },
+    {
+      "text": "Mezitím sestav sendviče z chleba a vařeného masa a polož je na servírovací talíř.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Před podáváním polij sendviče horkou omáčkou."
+    }
+  ],
+  "modernNote": "Zdroj: Navy 1944, Hot Meat Sandwich (p. 218, PDF 218), 100 porcí, 1 porce = 1 sendvič (cca 4 oz masa + 4 oz omáčky), originalYield 100. Zdroj uvádí jako hlavní jídlo s 1–2 zeleninovými přílohami nebo s přílohou a salátem. Kapitola ponechána snidane-a-pecivo dle shortlistu; návrh zařadit do maso-a-ryby. Maso: 25 lb vařeného hovězího (hmotnost po vaření), 4 porce = 450 g; kcal počítány z vařené hmotnosti. Omáčka: zdroj odkazuje na Savory Brown Gravy (p. 177, PDF 185) na 3½ gal, tj. 1,75 × základ 2 gal; přepočteno stejnou logikou jako samotný recept omáčky (tuk 1¾ lb → máslo 30 g s originálem sádlo 30 g, mouka 1¾ lb → 30 g, vývar 3½ gal → 530 ml, sůl 1¾ oz → 3 g, pepř 3½ čajové lžičky → 0,52 g). Vývar je kupovaný hovězí, ne voda. Chléb: zdroj uvádí 200 plátků (2 na porci), hmotnost plátku nezadává, použit odhad 28 g (8 plátků = 220 g), proto verified false. Sůl 3 g na 4 porce je podle zdroje dle chuti; doporučení ubrat, pokud je maso slané.",
+  "source": {
+    "book": "navy-1944",
+    "page": 218,
+    "titleOriginal": "HOT MEAT SANDWICH"
+  },
+  "verified": false,
+  "quote": "Ladle hot gravy on sandwich before serving."
+}

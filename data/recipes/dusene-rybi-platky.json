@@ -1,0 +1,153 @@
+{
+  "id": "dusene-rybi-platky",
+  "title": "Dušené rybí plátky s rajčaty",
+  "titleOriginal": "Stewed Fish Cutlets (Pesce a taglio in umido)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "ryby",
+    "lepek",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 450,
+      "unit": "g",
+      "note": "rybí plátky bez kůže a kostí; zdroj: 1 libra pro 4–5 osob, pro 4 porce 450 g",
+      "original": {
+        "ingredientId": "tunak-cerstvy",
+        "amount": 450,
+        "unit": "g"
+      },
+      "group": "Ryba"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na lehké obalení plátků",
+      "group": "Ryba"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "na opečení ryby; zbylý olej se vylije",
+      "scaling": "vessel",
+      "group": "Ryba"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 10,
+      "unit": "ml",
+      "note": "nasáklý při opečení ryby (odhad)",
+      "group": "Ryba"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "půl střední cibule, najemno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek bílého celeru dlouhý jako prst, najemno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "dost, najemno nasekaná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "na opečení zeleniny a dušení omáčky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 stroužek, najemno (z odkazované omáčky č. 12, v polovičním množství)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "note": "z odkazované omáčky č. 12, v polovičním množství",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.2,
+      "unit": "g",
+      "note": "1 celý hřebíček (zdroj: one whole clove), vyjmout před podáváním",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 400,
+      "unit": "g",
+      "note": "3–4 zralá rajčata nakrájená na kousky; polovina rajčat z odkazované omáčky č. 12 (800 g)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "note": "hovězí vývar, do kterého zdroj předepisuje rozředění protlaku; přidán k omáčce",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    { "text": "Rybu zbav šupin, opláchni a dobře osuš.", "minutes": 5 },
+    { "text": "Kousky ryby obal v hladké mouce.", "minutes": 2 },
+    { "text": "Na troše oleje je opékej z obou stran dozlatova.", "minutes": 8 },
+    { "text": "Rybu vyndej, zbylý olej vylej a pánev krátce vytři.", "minutes": 2 },
+    { "text": "Nasekej nadrobno půl střední cibule, kousek bílého celeru, dost petrželové natě a stroužek česneku.", "minutes": 4 },
+    { "text": "Na oleji zeleninu a česnek opeč dohněda.", "minutes": 6 },
+    { "text": "Osol, opepři a přidej celý hřebíček.", "minutes": 1 },
+    { "text": "Přidej nakrájená rajčata, bobkový list a vývar a nech chvíli probublat.", "minutes": 10 },
+    { "text": "Vlož rybu zpět do omáčky a duš ji na mírném ohni, často ji obracej.", "minutes": 20 },
+    { "text": "Podávej rybu s hustou omáčkou." }
+  ],
+  "modernNote": "Zdroj (Gentile 1919, s. 86, PDF 90) uvádí jako ryby tuňáka, mečouna nebo jiný velký kus dobré ryby, „1 libra může stačit pro 4 nebo 5 osob“. Čerstvý tuňák/mečoun je drahý, proto je v receptu treska; původní ryba je v `original` jako čerstvý tuňák (450 g). Množství: 1 libra = 453,6 g, přepočteno na 4 porce přes convert (yield 4) → 450 g, tj. 112 g syrové ryby na porci, což je podle zdroje, ne podle 120–150 g. Omáčka: zdroj ji vyžaduje „hojnou“ a odkazuje na rajčatovou omáčku č. 12; přebráno v polovičním množství (400 g rajčat místo 800 g, 1 stroužek česneku a 1 ks bobkového listu místo dvou). Zdroj uvádí ředění protlakem vývarem nebo vodou; zvolen hovězí vývar 150 ml (vývar se nenahrazuje vodou). Olej na opečení ryby (30 ml) se dle zdroje vylévá (vessel), do jídla se počítá jen odhad nasáklého oleje (10 ml); na dušení zeleniny a omáčky 30 ml olivového oleje (fat). Hřebíček je celý podle zdroje, v katalogu je mletý, jeho množství 0,2 g je odhad jednoho kusu; před podáváním se vyjme. Dušení 20 minut je odhad podle velikosti plátků, časy kroků jsou odhad z praxe.",
+  "source": {
+    "book": "italian-1919",
+    "page": 90,
+    "titleOriginal": "STEWED FISH CUTLETS (Pesce a taglio in umido)"
+  },
+  "verified": false,
+  "quote": "The fish must be served with this thick gravy that ought to be abundant."
+}

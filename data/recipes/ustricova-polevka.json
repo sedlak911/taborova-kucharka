@@ -1,0 +1,84 @@
+{
+  "id": "ustricova-polevka",
+  "title": "Ústřicová polévka s mlékem",
+  "titleOriginal": "Oyster Stew",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mekkysi",
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ustrice",
+      "amount": 115,
+      "unit": "g",
+      "note": "vyloupané ústřice; zdroj uvádí jen objem (1¼ gal s nálevem), hmotnost masa odhadnuta"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 75,
+      "unit": "ml",
+      "note": "nálev z ústřic (oyster liquor)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 0.78,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 720,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ústřice s nálevem a rozpuštěným máslem zahřívej, dokud okraje nezvlní. Přidej sůl, pepř a worcesterskou omáčku.",
+      "minutes": 5
+    },
+    {
+      "text": "Ohřej mléko téměř k varu, ale nevař ho.",
+      "minutes": 5
+    },
+    {
+      "text": "Horké mléko přilij k ústřicím a nech 10 minut prohřát bez varu.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Ústřice jsou ve zdroji jen objemem (1¼ gal ústřic s nálevem, hmotnost není uvedena). Hmotnost vyloupaného masa je odhad: celková směs 1¼ gal ≈ 4,73 kg (hustota ~1,0 g/ml), z toho 60 % maso (USDA: vyloupané ústřice 60–65 % hmotnosti; cca 2,84 kg na 100 porcí, 115 g na 4 porce) a 40 % nálev, který je samostatně jako voda (75 ml na 4 porce); stejný poměr 60/40 je použit u Oyster Bisque. Ústřice jsou v katalogu s ediblePortion 1, hmotnost je už dužina. Máslo (rozpuštěné, 1 lb 4 oz) zůstává v jídle, proto linear. Mléko je čerstvé (Milk, liquid), ne sušené. Worcestrová omáčka 2 tsp = 6 g na lžičku (hustota 1,2 g/ml). Porce 1 cup (~240 ml) vs. výtěžek 6 gal dává ~96 porcí, proto originalYield 100 (odchylka 4 %). Nález check:recipe „polévka 242 g mimo 250–450“ je v pořádku: karta uvádí 8 oz (227 g) na porci, hodnota odpovídá kartě, ponechána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 248,
+    "titleOriginal": "Oyster Stew"
+  },
+  "verified": false
+}

@@ -1,0 +1,59 @@
+{
+  "id": "slehana-poleva-z-odpareneho-mleka",
+  "title": "Šlehaná poleva z odpařeného mléka",
+  "titleOriginal": "Whipped Evaporated Milk Topping",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "zelatinovy-dezert-prasek",
+      "amount": 1,
+      "unit": "g",
+      "note": "3 polévkové lžíce ochuceného prášku; druh ochucení ve zdroji není"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Ohřej odpařené mléko téměř k varu, ale nevař ho.", "minutes": 3 },
+    { "text": "Vmíchej želatinový prášek do mléka a míchej, dokud se nerozpustí.", "minutes": 2 },
+    { "text": "Nech směs vychladit, dokud nebude ledově studená.", "minutes": 20 },
+    { "text": "Studeným šlehačem rychle šlehej, dokud hmota nezpevní.", "minutes": 4 },
+    { "text": "Vmíchej do našlehané hmoty cukr a vanilku.", "minutes": 2 }
+  ],
+  "modernNote": "Způsob I ze strany 67 (se želatinou); způsob II (bez želatiny, s citronovou šťávou) je samostatný recept slehana-poleva-z-odpareneho-mleka-ii. Zdroj uvádí „gelatin, flavored“ (ochucená želatina), proto je použit ochucený želatinový dezert z katalogu, ne neochucená želatina; druh ochucení ve zdroji není, zvol podle chuti (jahoda, citron). Pro 4 porce vychází jen asi 35 g odpařeného mléka, takže ruční šlehání je obtížné – pro pohodlnější práci udělej aspoň dvojnásobek. Odpařené mléko se při šlehání ztrojnásobí objemem; aby se dobře vyšlehalo, ochlaď misu i šlehač a mléko nech dobře vychladit (zdroj u způsobu II). Hotovou polevu použij ihned na zákusky, saláty nebo nápoje. Hmotnost porce proto vychází nižší než objem hotové polevy (vzduch v pěně) – bilanci přes hmotnost nelze přesně porovnat. Nález 17 kcal na porci je očekávaný: porce zdroje je jen asi 1½ polévkové lžíce pěny (zhruba 10 g surovin), takže energie je malá už ze své podstaty.",
+  "source": {
+    "book": "navy-1944",
+    "page": 67,
+    "titleOriginal": "WHIPPED EVAPORATED MILK TOPPING"
+  },
+  "verified": true,
+  "quote": "Whip quickly, with cold beater, until stiff."
+}

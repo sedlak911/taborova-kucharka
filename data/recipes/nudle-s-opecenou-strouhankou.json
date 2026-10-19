@@ -1,0 +1,36 @@
+{
+  "id": "nudle-s-opecenou-strouhankou",
+  "title": "Nudle s opečenou strouhankou",
+  "titleOriginal": "Noodles with Buttered Crumbs",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "na vaření nudlí, slije se; domácí hodnota 1 l na 100 g těstovin (zdroj 10 gal)", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "vajecne-nudle", "amount": 145, "unit": "g", "note": "suché" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "strouhanka", "amount": 25, "unit": "g" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do strouhanky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g", "note": "do strouhanky" }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu se solí k varu.", "minutes": 8 },
+    { "text": "Do vroucí vody vsyp nudle a vař 20 minut, dokud nezměknou. Dobře je sceď.", "minutes": 20 },
+    { "text": "Mezitím na pánvi rozpusť máslo, přidej strouhanku, osol ji a opepř a osmahni dozlatova.", "minutes": 5, "parallel": true },
+    { "text": "Strouhanku s máslem smíchej s nudlemi.", "minutes": 2 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj: Noodles with Buttered Crumbs, s. 271 tištěná (PDF 279); na stránce je ještě French Fried Onions, ten recept není zpracován. Výtěžek 100 porcí, originalYield 100; porce 5–6 oz (≈ 1 cup). Všechna čísla načtena z obrázku stránky. Voda: zdroj uvádí 10 galonů, které se slévají; nahrazeno domácí hodnotou 1 l na 100 g nudlí (1,5 l na 145 g), sůl do vody 2 g na litr, slije se (zdroj ½ cup = 4 oz na 100 porcí, tj. 4,5 g na porci). Nudle: vaječné, suché, 8 lb na 100 porcí = 145 g na 4 porce. Máslo (Butter, melted, 2 lb) je linear, protože zůstává na strouhance. Strouhanka (Bread crumbs, dry, 1 lb 8 oz) = strouhanka. Sůl 1 oz (2 tbsp) a pepř 2 tsp jdou do strouhanky, třída seasoning. Zdroj doporučuje podávat s masem místo brambor. Varianta Fried Noodles (vařené nudle osušit mezi utěrkami, opéct v hluboké fritéze při 390 °F, tj. asi 200 °C, 1 minutu, osolit) není v receptu. Nález bilance v check:recipe (52 g na porci vs. 142 g zdroje) je způsoben tím, že nástroj počítá suché nudle; zdroj udává hotové jídlo. Uvařené nudle nabobtnají asi 2,5×, tj. cca 360 g, plus máslo a strouhanka dávají cca 420 g na 4 porce, tedy cca 105 g na porci (0,74× zdroje, v pořádku). Nápojová voda ani sůl do vody se do jídla nepočítají.",
+  "source": {
+    "book": "navy-1944",
+    "page": 279,
+    "titleOriginal": "Noodles with Buttered Crumbs"
+  },
+  "verified": true
+}

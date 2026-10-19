@@ -1,0 +1,72 @@
+{
+  "id": "brusinkova-omacka-ze-susenych",
+  "title": "Brusinková omáčka ze sušených brusinek",
+  "titleOriginal": "Cranberry Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "brusinky",
+      "amount": 90,
+      "unit": "g",
+      "note": "čerstvé nebo mražené; zdroj sušené celé brusinky",
+      "original": {
+        "ingredientId": "brusinky-susene",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "horká"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 125,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brusinky zalij vodou a nech 45 minut namočit, občas zamíchej.",
+      "minutes": 45
+    },
+    {
+      "text": "Přidej cukr a přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Pomalu zahřívej k varu za stálého míchání.",
+      "minutes": 8
+    },
+    {
+      "text": "Nech 15 minut jemně probublávat, dokud brusinky nezměknou.",
+      "minutes": 15
+    },
+    {
+      "text": "Podávej teplou nebo studenou."
+    }
+  ],
+  "modernNote": "Zdroj počítá sušené celé brusinky (1 lb na 100 porcí = 18 g na 4 porce). Moderní řádek jsou čerstvé nebo mražené brusinky v odhadnuté hmotnosti 90 g (sušené × 5, odhad, proto verified false). Čerstvé brusinky nepotřebují 45minutové namáčení, stačí přivést k varu a vařit 10–15 minut, namáčení je zde zachováno podle zdroje. Zdroj má na stránce 82 také varianty sliced a flaked; zvolena varianta whole. Cukr 125 g podle zdroje (7 lb), voda 150 ml podle zdroje (1 gal).",
+  "source": {
+    "book": "navy-1944",
+    "page": 82,
+    "titleOriginal": "CRANBERRY SAUCE"
+  },
+  "verified": false
+}

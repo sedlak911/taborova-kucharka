@@ -1,0 +1,135 @@
+{
+  "id": "pecena-cibule-s-rajcaty",
+  "title": "Pečená cibule s rajčaty",
+  "titleOriginal": "Baked Onions with Tomatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 460,
+      "unit": "g",
+      "note": "jedlá hmotnost; z nákupní hmotnosti 28 lb (A.P.) × 0,9"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "do vody na vaření cibule, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.3,
+      "unit": "ks",
+      "note": "6 až 8 listů ve zdroji (střed 7)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "celerova-sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.22,
+      "unit": "g",
+      "note": "1½ tsp ve zdroji"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 0.3,
+      "unit": "ks",
+      "note": "6 až 8 kusů ve zdroji (střed 7)"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "2 konzervy No. 10 (hmotnost ze zdroje, včetně nálevu)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "ze zdroje „Butter or other fat“"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Oloupej cibuli, omyj ji a nakrájej na čtvrtky.",
+      "minutes": 10
+    },
+    {
+      "text": "V hrnci přiveď k varu vodu se solí, vhoď cibuli a vař asi 25 minut, dokud nezměkne. Sceď.",
+      "minutes": 35
+    },
+    {
+      "text": "Mezitím do rajčat přidej bobkový list, cukr, celerovou sůl, pepř, zbylou sůl a hřebíček. Přiveď k varu a vař asi 5 minut.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Vyjmi bobkový list a hřebíček.",
+      "minutes": 1
+    },
+    {
+      "text": "Smíchej máslo s moukou a vmíchej do rajčatové směsi.",
+      "minutes": 3
+    },
+    {
+      "text": "Cibuli rozlož do zapékací misky a zalij rajčatovou směsí.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč ve vyhřáté troubě na 175 °C asi 15 minut.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, 28 lb cibule A.P., 2 konzervy rajčat (No. 10). Cibule je přepočtena z jedlé části (0,9 z nákupní hmotnosti). Cibule se vaří ve slané vodě, která se slije, proto je voda a sůl do ní vedena jako domácí hodnota (1 l, 2 g soli, třída vessel), ne jako hodnota ze zdroje. Zbylá sůl (2 oz ve zdroji) je v řádku seasoning. Bobkový list a hřebíček: zdroj uvádí 6 až 8 kusů, počítáno středem rozsahu (7 na 100 porcí). Zdroj nezmiňuje vymazání pekáče, proto tuk na vymazání nepřidán. Teplota 350 °F = 175 °C. Cukr (4 oz ve zdroji na 100 porcí) je v zelenině třídy linear. Máslo „or other fat“ je nahrazeno máslem. Recept je bezmasý, hlavní suroviny (cibule, rajčata, mouka) jsou levné.",
+  "source": {
+    "book": "navy-1944",
+    "page": 282,
+    "titleOriginal": "BAKED ONIONS WITH TOMATOES"
+  },
+  "verified": true
+}

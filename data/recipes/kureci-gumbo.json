@@ -1,0 +1,38 @@
+{
+  "id": "kureci-gumbo",
+  "title": "Kuřecí gumbo",
+  "titleOriginal": "Chicken Gumbo",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "cibule", "amount": 25, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "mrkev", "amount": 35, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "maslo", "amount": 5, "unit": "g", "note": "nebo kuřecí tuk", "scaling": "linear" },
+    { "ingredientId": "kureci-vyvar", "amount": 830, "unit": "ml", "note": "zdroj: Chicken Stock, tištěná s. 216 (PDF 224); kupovaný" },
+    { "ingredientId": "ryze-bila", "amount": 25, "unit": "g", "note": "suchá, opláchnutá" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 115, "unit": "g", "note": "včetně šťávy" },
+    { "ingredientId": "okra", "amount": 110, "unit": "g" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Na tuku v hrnci osmahni cibuli a mrkev dosvětla.", "minutes": 8 },
+    { "text": "Mezitím přiveď vývar k varu.", "minutes": 5, "parallel": true },
+    { "text": "Do vývaru přidej osmaženou zeleninu, opláchnutou rýži, rajčata a okru.", "minutes": 2 },
+    { "text": "Nech na mírném ohni probublávat 90 minut.", "minutes": 90 },
+    { "text": "Dochuť solí a pepřem." }
+  ],
+  "modernNote": "Zdroj je Chicken Gumbo bez kuřecího masa: chuť dává jen kuřecí vývar (5½ gal na 100 porcí, v tabulce odkaz na Chicken Stock, tištěná s. 216, nahrazen kupovaným kuřecím vývarem v množství ze zdroje; vývar se nenahrazuje vodou). Tuk „Butter or chicken fat“ je máslo. Rajčata zůstávají konzervovaná (zdroj: No. 10 plechovka). Okra je ve zdroji také plechovka No. 10 (6 lb 3 oz); v katalogu je jen čerstvá okra, proto 110 g okry. Pro plnější jídlo lze přidat 100–150 g vařeného kuřecího masa na porci (kureci-maso-vareno).",
+  "source": {
+    "book": "navy-1944",
+    "page": 229,
+    "titleOriginal": "CHICKEN GUMBO"
+  },
+  "verified": true
+}

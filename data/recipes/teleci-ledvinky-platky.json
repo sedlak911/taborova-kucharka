@@ -1,0 +1,79 @@
+{
+  "id": "teleci-ledvinky-platky",
+  "title": "Telecí ledvinky v plátcích",
+  "titleOriginal": "Veal Kidney Sliced (Rognone di vitello affettato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-ledvina",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 větší telecí ledvina (zdroj: jedna nebo dvě), kupní hmotnost; podélně na tenké plátky, zrnitá část uprostřed a tuk pryč; odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "kousek másla do hrnce; odhad"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "celý svazek, velmi jemně nasekaný; odhad"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "1 stroužek, nasekaný spolu s petrželkou"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "1 šálek horkého masového vývaru ze zdroje; zredukuje se na asi třetinu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "střídmě („salt moderately“); odhad"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 polévková lžíce na dochucení, volitelně"
+    }
+  ],
+  "steps": [
+    { "text": "Ledvinu podélně nakrájej na tenké plátky a odstraň zrnitou část uprostřed a tuk.", "minutes": 10 },
+    { "text": "Petrželku a stroužek česneku nasekej nadrobno.", "minutes": 2 },
+    { "text": "Do hrnce dej kousek másla, nasekanou petrželku s česnekem a plátky ledviny.", "minutes": 2 },
+    { "text": "Zalij horkým vývarem, lehce osol a nech na mírném ohni bez varu, dokud omáčka nezredukuje asi na třetinu.", "minutes": 15 },
+    { "text": "Nakonec vmíchej ocet.", "minutes": 1 },
+    { "text": "Podávej hned, dokud je horké." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 151) píše „one or two veal kidneys“ bez porcí. Zvolena 1 ledvina = 400 g kupní hmotnosti (100 g na porci, stejně jako v receptu na omeletu s telecí ledvinou); 2 ledviny by byly 800 g (200 g na porci, nad 150 g). Odhady z běžné praxe: máslo 30 g, petrželka 10 g (celý svazek), sůl 4 g (střídmě), 1 stroužek česneku (1 ks). Vývar: „a cup of hot broth“ je masový (hovězí), ponechán 250 ml; po zredukování zbyde asi 80 ml omáčky. Ocet (1 polévková lžíce) zdroj uvádí jako příjemné dochucení, dán do receptu jako volitelný. Pepř zdroj nezmiňuje, proto není v receptu. Doba redukce 15 minut je odhad (zdroj: „until the sauce is reduced to about one third“, bez času). Celkový čas odhadnut na 30 minut.",
+  "source": {
+    "book": "italian-1919",
+    "page": 111,
+    "titleOriginal": "VEAL KIDNEY SLICED (Rognone di vitello affettato)"
+  },
+  "verified": false,
+  "quote": "One tablespoonful of vinegar adds a pleasant taste to this dish."
+}

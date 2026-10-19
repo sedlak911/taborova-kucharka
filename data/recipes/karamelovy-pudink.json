@@ -1,0 +1,87 @@
+{
+  "id": "karamelovy-pudink",
+  "title": "Karamelový pudink",
+  "titleOriginal": "Butterscotch Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 90,
+      "unit": "g",
+      "note": "zdroj: sugar, brown 5 lb"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "zdroj: butter 2 lb 8 oz"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5.5,
+      "unit": "g",
+      "note": "zdroj: sůl 3 oz (v tabulce je řádek Salt 3 oz uveden dvakrát, použit jednou)",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 25,
+      "unit": "g",
+      "note": "zdroj: cornstarch 1 lb 4 oz"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 45,
+      "unit": "ml",
+      "note": "zdroj: water 1¼ qt, na rozmíchání škrobu"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 680,
+      "unit": "ml",
+      "note": "zdroj: milk, liquid 4½ gal"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 4,
+      "unit": "ml",
+      "note": "zdroj: vanilla 2½ oz (5 tbsp)"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej hnědý cukr, sůl a máslo.", "minutes": 1 },
+    { "text": "Na mírném ohni zahřívej, dokud se cukr nerozpustí.", "minutes": 5 },
+    { "text": "V misce rozmíchej kukuřičný škrob s vodou na hladkou pastu.", "minutes": 2 },
+    { "text": "V jiném hrnci ohřej mléko do varu.", "minutes": 6 },
+    { "text": "Vmíchej škrobovou pastu do mléka a míchej, dokud nebude hladké.", "minutes": 2 },
+    { "text": "Přidej směs cukru a másla a důkladně promíchej.", "minutes": 2 },
+    { "text": "Vař v dvojitém hrnci nebo hrnci na vodní lázni za stálého míchání, dokud nezhoustne a nebude hladký.", "minutes": 15 },
+    { "text": "Sundej z ohně a nech mírně vychladnout.", "minutes": 5 },
+    { "text": "Vmíchej vanilku.", "minutes": 1 },
+    { "text": "Podávej studené." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (výtěžek cca 4 gal, porce 5 oz, cca 2/3 hrnku). Vařeno je v dvojitém hrnci nebo parním kotli; pro 4 porce stačí hrnec na vodní lázni, proto je doba vaření zkrácena z 30–40 min na 15 min (vař do zhoustnutí). Sůl: tabulka ve zdroji má řádek „Salt 3 oz (6 tablespoons)“ dvakrát (obě hodnoty jsou na obrázku shodné, jde tedy o zdvojení, ne o záměnu jednotek), ale postup zmiňuje sůl jen jednou („Combine sugar, salt and butter“) a dvojnásobek by dal 2,75 g na porci (4× víc než u čokoládového pudinku téže knihy). Proto je použita jedna dávka 3 oz (třída seasoning, 5,5 g); verified zůstává false. Zdroj neuvádí chlazení; „podávej studené“ doporučuji nechat v lednici alespoň 2–3 hodiny. Upozornění na rozpor zdroje: suroviny (hlavně 4½ gal mléka, cca 22,6 kg celkem) neodpovídají výtěžku 4 gal (cca 14 kg hotového pudinku); recept drží suroviny podle zdroje, takže porce vyjde těžší než 5 oz (cca 230 g), podávej menší porce. Varianty (ořechy, kokos) nejsou součástí receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 55,
+    "titleOriginal": "BUTTERSCOTCH PUDDING"
+  },
+  "verified": false,
+  "quote": "Combine sugar, salt and butter. Cook over low heat until sugar is melted."
+}

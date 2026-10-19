@@ -1,0 +1,92 @@
+{
+  "id": "hovezi-sekana",
+  "title": "Hovězí sekaná",
+  "titleOriginal": "Beef Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 95,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 560,
+      "unit": "g",
+      "note": "zdroj: 31 lb hovězího bez kosti"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaný nadrobno"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 90,
+      "unit": "g",
+      "note": "měkké čerstvé drobky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.9,
+      "unit": "ks",
+      "note": "čerstvá, zdroj 4 lb 12 oz (cca 48 ks na 100 porcí)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 95,
+      "unit": "ml",
+      "note": "zdroj 2 až 3 quarty, bere se střed"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pekáče; zdroj slaninový tuk bez množství, odhad 1 lžička",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli a celer nasekej nadrobno.", "minutes": 5 },
+    { "text": "Hovězí maso namel, nebo použij mleté.", "minutes": 3 },
+    { "text": "V míse lehce, ale důkladně smíchej maso, cibuli, celer, drobky, sůl, pepř, vejce a vývar.", "minutes": 3 },
+    { "text": "Pekáč vymaž olejem, do něj utvaruj bochník ze směsi.", "minutes": 5 },
+    { "text": "Peč bez přikrytí v troubě na 160 °C asi 75 minut, dokud není hotovo.", "minutes": 75 }
+  ],
+  "modernNote": "Upraveno pro 4 porce ze zdroje 100 porcí po 5 oz. Boneless hovězí (31 lb) použito jako mleté hovězí; bone-in varianta (45 lb) vynechána. Měkké drobky nahrazeny čerstvým bílým chlebem, protože zdroj uvádí měkkou strouhanku. Vejce: 4 lb 12 oz odpovídá cca 48 ks, pro 4 porce 1,9 ks. Vývar 2 až 3 quarty ze zdroje; použit střed 2,5 qt (záleží na vlhkosti chleba), masový vývar, proto containsMeat. Tuk na vymazání pekáče (slaninový tuk) v zdroji bez množství, nahrazen olejem, odhad 1 lžička. Pečení zdroje 325 °F (160 °C) 1½ hodiny platí pro velký bochník; domácí bochník je menší, proto zkontroluj vnitřní teplotu 71 °C už po 60 minutách. Zdroj doporučuje podávat s rajčatovou omáčkou (s. 184) nebo barbecue omáčkou (s. 172). Tag pripravit-predem odebrán: recept nemá čekání 4 hodiny ani víc, směs se peče hned. Sůl podle zdroje (6 oz na 100 porcí) je 2,75 g na porci, v souladu s hovězí sekanou z jiné karty (1,3 % masa); pro méně slané jídlo ji sniž na polovinu a dochut. Bilance 1,7× je úbytek při pečení: zdroj má cca 236 g syrové směsi na porci a hotová porce váží 142 g (5 oz).",
+  "source": {
+    "book": "navy-1944",
+    "page": 118,
+    "titleOriginal": "BEEF LOAF"
+  },
+  "verified": true,
+  "quote": "Mix lightly but thoroughly."
+}

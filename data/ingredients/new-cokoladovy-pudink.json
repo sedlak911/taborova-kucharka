@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cokolada-horka",
+    "name": "Čokoláda hořká (neslazená)",
+    "aliases": ["čokoláda neslazená", "čokoláda na vaření", "baking chocolate", "unsweetened chocolate"],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": { "kcal": 642, "protein": 14.32, "carbs": 28.42, "fat": 52.31, "fiber": 16.6 },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167568 (Baking chocolate, unsweetened, squares)",
+      "refuse": "USDA fdc:167568 odpad 0 %"
+    }
+  }
+]

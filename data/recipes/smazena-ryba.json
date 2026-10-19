@@ -1,0 +1,90 @@
+{
+  "id": "smazena-ryba",
+  "title": "Smažená ryba",
+  "titleOriginal": "Fried Fish",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 540,
+      "unit": "g",
+      "note": "bílý filet; nebo jiná bílá ryba"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "note": "na obalení; zdroj: mouka nebo kukuřičná mouka (cornmeal)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení v hluboké pánvi; většina se slije, do jídla se počítá jen nasáklý podíl (viz další řádek)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý při smažení (odhad)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej filet na kousky dlouhé 8–10 cm.",
+      "minutes": 8
+    },
+    {
+      "text": "Kousky ryby osol a opepři.",
+      "minutes": 2
+    },
+    {
+      "text": "Mezitím zahřej řepkový olej v hluboké pánvi na 190 °C.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Kousky ryby obal v mouce.",
+      "minutes": 3
+    },
+    {
+      "text": "Smaž v horkém oleji dozlatova.",
+      "minutes": 6
+    }
+  ],
+  "modernNote": "Zdroj uvádí 30 lb filetů pro 100 porcí (přepočet 4 porce: 540 g; ryba je zvolena jako treska, u zdroje není druh uveden, nebo jiná bílá ryba). Sůl 4 oz (7 g) a pepř ½ oz (0,92 g) jsou přepočteny z hmotnosti, objemy ½ cupu soli a 1¾ polévkové lžíce pepře odpovídají. Mouka 2 lb (35 g) je obalovací mouka, zdroj dovoluje i kukuřičnou mouku. Zdroj nedává množství oleje, jen „fry in deep fat at 375°F“ (190 °C) 4–6 minut do zlatova. Olej 500 ml je odhad domácího množství pro hlubokou pánev, většina se slije (třída vessel); do jídla se počítá 30 ml nasáklého oleje (odhad). Teplota 375 °F převedena na 190 °C. Kalorie zdroj neuvádí, makra jsou z katalogu pro syrovou treska, takže jsou orientační. Porce zdroje je přibližně 5 oz (142 g) na porci; náš přepočet dává kolem 135 g ryby na porci plus obal a olej.",
+  "source": {
+    "book": "navy-1944",
+    "page": 88,
+    "titleOriginal": "FRIED FISH"
+  },
+  "verified": true
+}

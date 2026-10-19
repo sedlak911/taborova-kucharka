@@ -1,0 +1,102 @@
+{
+  "id": "berani-ledvinky-smazene",
+  "title": "Smažené jehněčí ledvinky (granelli)",
+  "titleOriginal": "MUTTON KIDNEY FRIED (Granelli di montone fritti)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-ledvinky",
+      "amount": 500,
+      "unit": "g",
+      "group": "Ledvinky",
+      "note": "hmotnost bez blany; odhad, zdroj množství neuvádí"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Obalení",
+      "note": "suchá strouhanka; obalovat těsně před smažením"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Obalení",
+      "note": "rozšlehané; stačí část vejce"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Obalení",
+      "note": "rozpuštěné, smíchané s vajíčkem"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Smažení",
+      "note": "máslo na smažení v pánvi; vylévá se, nezapočítává se do jídla",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Smažení",
+      "note": "nasáklý tuk (odhad 30 g) zůstávající v obalu"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Dochucení"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Podávání",
+      "note": "na plátky k podání"
+    }
+  ],
+  "steps": [
+    { "text": "Ledvinky omyj, sejmi blanu a nakrájej na velmi tenké plátky.", "minutes": 10 },
+    { "text": "Plátky osuš čistou utěrkou.", "minutes": 2 },
+    { "text": "Těsně před smažením plátky obal ve strouhance, pak v rozšlehaném vejci smíchaném s rozpuštěným máslem a znovu ve strouhance.", "minutes": 5 },
+    { "text": "Na pánvi nech na silném ohni rozpustit máslo, dokud nezačne hnědnout.", "minutes": 3 },
+    { "text": "Plátky vkládej do hnědnoucího másla a smaž je, často je otáčej.", "minutes": 6 },
+    { "text": "Dochuť solí, posyp nasekanou petrželkou a podávej s citronem.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj (Gentile 1919, č. 153, s. 108) neuvádí žádná množství ani porce; vše je odhad pro 4 porce: 500 g jehněčích ledvinek (125 g na osobu), 60 g strouhanky, 1 vejce, 20 g másla do vaječné směsi, 10 g petrželky, 4 g soli, 1 citron. Italské „granelli“ se u beránka obvykle překládá jako varlata, ale text knihy mluví o ledvinkách (blána, plátky ledviny), proto držím ledvinky; jehněčí ledvinky jsou modernizace mutton kidney. Smažení: máslo na pánvi (40 g) se vylévá a nezapočítává se, do jídla jde odhad nasáklého tuku 30 g. Strouhanka vlhne a ztvrdne, proto se obaluje těsně před smažením, jak radí zdroj. Čas 30 minut je odhad. Dochucení a citron podle zdroje.",
+  "source": {
+    "book": "italian-1919",
+    "page": 112,
+    "titleOriginal": "MUTTON KIDNEY FRIED (Granelli di montone fritti)"
+  },
+  "verified": false,
+  "quote": "Melt a piece of butter in a saucepan on a strong fire and when it begins to brown, dip the slices of kidney."
+}

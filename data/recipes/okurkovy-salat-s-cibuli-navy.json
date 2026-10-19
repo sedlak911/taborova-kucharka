@@ -1,0 +1,35 @@
+{
+  "id": "okurkovy-salat-s-cibuli-navy",
+  "title": "Okurkový salát s cibulí",
+  "titleOriginal": "Cucumber and Onion Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "rychle"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ocet", "amount": 105, "unit": "ml", "note": "do zálivky", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 105, "unit": "ml", "note": "do zálivky" },
+    { "ingredientId": "cukr-krystal", "amount": 14, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.56, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "okurka-salatova", "amount": 380, "unit": "g", "note": "na tenké plátky, ochlazené" },
+    { "ingredientId": "cibule", "amount": 170, "unit": "g", "note": "nakrájená na tenké plátky" }
+  ],
+  "steps": [
+    { "text": "Smíchej ocet, vodu, cukr, sůl a pepř.", "minutes": 2 },
+    { "text": "Okurky nakrájej na tenké plátky.", "minutes": 6 },
+    { "text": "Cibuli nakrájej na tenké plátky.", "minutes": 5 },
+    { "text": "Okurky s cibulí spoj, zalij zálivkou a ihned podávej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: 100 porcí po 3/4 šálku (cca 6 oz), výtěžek cca 5 galonů. Ocet a voda jsou ve zdroji jen objemem (2¾ qt každé), převedeno na 2602 ml; ocet přepsán na linear, protože zálivka zůstává v salátu (katalogová třída aromatic by dala méně). Sůl 3 oz (6 tbsp) přes třídu seasoning dává 6 g na 4 porce; na salát je to hodně, doporučení ubrat na cca 3,5 g. Pepř 1¼ tbsp převeden na g katalogovou hodnotou lžice (6,9 g). Okurky a cibule jsou zdrojové hmotnosti (21 lb, 9½ lb); porce vychází cca 800 g salátu proti zdrojové porci 170 g, bilance cca 1,15× (zálivka odkapává). Energie cca 50 kcal na porci je správně (okurka 57, cibule 68, cukr v zálivce 54, ocet 19 kcal celkem na 4 porce); validátor ji hlídá jen jako varování u nízkokalorických příloh, stejně jako AFRS verzi tohoto salátu (32 kcal). Zdroj neuvádí loupání okurek; slupka zůstává.",
+  "source": {
+    "book": "navy-1944",
+    "page": 198,
+    "titleOriginal": "CUCUMBER AND ONION SALAD"
+  },
+  "verified": true
+}

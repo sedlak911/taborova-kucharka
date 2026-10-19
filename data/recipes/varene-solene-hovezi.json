@@ -1,0 +1,62 @@
+{
+  "id": "varene-solene-hovezi",
+  "title": "Vařené solené hovězí",
+  "titleOriginal": "Simmered Corned Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 275,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 760,
+      "unit": "g",
+      "note": "corned beef bez kosti; zdroj 42 lb na 100 porcí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "studená voda na vaření, slije se; zdroj množství neuvádí (prázdné), domácí hodnota 1 l na 1 kg masa",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej maso na velké kusy a vlož je do hrnce bez překládání. Zalij studenou vodou.",
+      "minutes": 10
+    },
+    {
+      "text": "Přiveď k varu a nech mírně vařit 3 až 4 hodiny, dokud maso nezměkne. Z hladiny průběžně odstraňuj tuk, aby maso nezešedlo, a čas od času přilij studenou vodu, aby tuk ztuhl.",
+      "minutes": 240
+    },
+    {
+      "text": "Jakmile je maso měkké, hotové kusy vyjmi, aby se nepřevařily.",
+      "minutes": 5
+    },
+    {
+      "text": "Ponoř kusy masa tukem dolů do studené vody nejméně na 15 minut, aby tuk ztuhl a maso se nesmrštilo.",
+      "minutes": 15
+    },
+    {
+      "text": "Podávej ihned. Pokud je nutné držet maso několik hodin, ulož kusy do vlažné, mírně osolené vody o teplotě 37 °C.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (42 lb solené hovězí, porce 4 až 5 oz); 4 porce = 760 g syrového masa z 19,05 kg (faktor 0,04), tj. zhruba 190 g na porci před vařením a úbytkem. Zdroj neuvádí množství vody v řádku „Water, cold“ (prázdné), proto je domácí slévaná hodnota 1 l, aby maso bylo ponořené; slije se, nebo ji lze použít jako základ k vývaru. Sůl nepřidávána, maso je solené už ve zdroji. Zdroj uvádí vaření 4 až 6 hodin pro kusy po 5 lb (2,3 kg); kus 760 g bude hotový dříve, proto je hotovost kontrolována zkouškou vidličkou. Varianta New England Boiled Dinner (vařená zelenina v tomtéž vývaru) není zpracována; Note 1 o zařízení s přepadem vany rovněž vynechán.",
+  "source": {
+    "book": "navy-1944",
+    "page": 133,
+    "titleOriginal": "SIMMERED CORNED BEEF"
+  },
+  "verified": true,
+  "quote": "Let simmer 4 to 6 hours or until meat is tender."
+}

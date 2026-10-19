@@ -1,0 +1,63 @@
+{
+  "id": "ovocny-serbet",
+  "title": "Citronový šerbet",
+  "titleOriginal": "Sherbets (Lemon)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 90,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "asi 2 citrony; náhrada šerbetové směsi",
+      "original": {
+        "ingredientId": "citronovy-serbet-prasek",
+        "amount": 35,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 360,
+      "unit": "ml",
+      "note": "450 ml ze zdroje minus šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velké míse smíchej citronovou šťávu, cukr a vodu a míchej, dokud se cukr nerozpustí.",
+      "minutes": 5
+    },
+    {
+      "text": "Směs přelij do mělké nádoby.",
+      "minutes": 2
+    },
+    {
+      "text": "Vlož do mrazničky a nech zmrznout asi 4 hodiny; každou hodinu ji vyndej a důkladně prošlehej, aby byla struktura jemná."
+    }
+  ],
+  "modernNote": "Zdroj (strana 63, hlavička „Lemon“) uvádí na 100 porcí (5 galonů) 2 lb směsi na citronový šerbet, 10 lb cukru a 25 lb vody; čísla jsou přečtena z obrázku (35 g, 180 g, 450 ml na 4 porce). Směs na šerbet je komerční prášek (kyselina, aroma, stabilizátor; při 2 lb na 10 lb cukru jde jen o malou přísadu, ne o cukr), její složení zdroj neuvádí. Doma ji nahrazuje čerstvá citronová šťáva (asi 90 ml, odhad na běžný citronový šerbet) a o stejný objem menší množství vody; prášek je v original a verified je proto false. Originál šerbet mrazí v zmrazovači a míchá; doma stačí mělká nádoba a průběžné prošlehání. Ostatní příchutě z tabulky na straně 63 nejsou přepsány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 63,
+    "titleOriginal": "SHERBETS"
+  },
+  "verified": false
+}

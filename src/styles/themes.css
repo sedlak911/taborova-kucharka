@@ -1,0 +1,76 @@
+/* styly epoch – jen CSS, žádné obrázky */
+
+.era--italian-1919 {
+  --paper: #f6ecd4;
+  --rule: 3px double var(--ink-soft);
+}
+.era--italian-1919 h1,
+.era--italian-1919 h2,
+.era--italian-1919 h3 { font-style: italic; font-weight: 400; }
+.era--italian-1919 hr,
+.era--italian-1919 .rule { border: 0; border-top: var(--rule); }
+
+.era--feldkochbuch-1940 {
+  --paper: #ece4cf;
+  --rule: 2px solid var(--ink);
+}
+.era--feldkochbuch-1940 h1,
+.era--feldkochbuch-1940 h2,
+.era--feldkochbuch-1940 h3 { text-transform: uppercase; letter-spacing: 0.14em; }
+.era--feldkochbuch-1940 hr,
+.era--feldkochbuch-1940 .rule { border: 0; border-top: var(--rule); }
+
+.era--navy-1944 {
+  --paper: #e9e6d6;
+  --rule: 1px solid var(--ink-soft);
+}
+.era--navy-1944 h1,
+.era--navy-1944 h2,
+.era--navy-1944 h3 { font-family: var(--font-table); text-transform: uppercase; letter-spacing: 0.06em; }
+/* tabulka surovin jako linkovaný formulář */
+.era--navy-1944 table { border-collapse: collapse; width: 100%; font-family: var(--font-table); }
+.era--navy-1944 td,
+.era--navy-1944 th { border-bottom: var(--rule); padding: 0.25em 0.4em; text-align: left; }
+
+.era--afrs-2003 {
+  --paper: #f4f1e8;
+  --rule: 1px solid var(--ink-soft);
+}
+.era--afrs-2003 h1,
+.era--afrs-2003 h2,
+.era--afrs-2003 h3 { font-family: var(--font-table); }
+.era--afrs-2003 table { border-collapse: collapse; width: 100%; font-family: var(--font-table); }
+.era--afrs-2003 th { background: var(--paper-dark); border-bottom: 2px solid var(--ink); text-align: left; }
+.era--afrs-2003 td { border-bottom: var(--rule); padding: 0.25em 0.4em; }
+
+/* vlastní recept = ručně psaný vložený list (spec §2): linkovaný papír (`page--note`), Caveat.
+   Třída je i na `.page` (papír a písmo celé stránky), proto tu nesmí být transform –
+   natočený je až vnitřní list `.recipe-page` (ruling R9). */
+.era--vlastni {
+  --paper: var(--note-paper);
+  --rule: 1px solid rgba(90, 120, 180, 0.45);
+  font-family: var(--font-hand);
+}
+.era--vlastni h1,
+.era--vlastni h2,
+.era--vlastni h3,
+.era--vlastni table { font-family: var(--font-hand); }
+
+.recipe-page.era--vlastni {
+  font-size: 1.15em;
+  transform: rotate(-0.6deg);
+  transform-origin: 50% 0;
+}
+.recipe-page.era--vlastni .source { font-family: var(--font-hand); }
+
+/* Běžící hlavička pravé strany receptu si drží jednotný vzhled napříč epochami. */
+.era--italian-1919 h2.recipe-running-head,
+.era--feldkochbuch-1940 h2.recipe-running-head,
+.era--navy-1944 h2.recipe-running-head,
+.era--afrs-2003 h2.recipe-running-head {
+  font-family: var(--font-body);
+  font-style: italic;
+  font-weight: normal;
+  text-transform: none;
+  letter-spacing: 0.04em;
+}

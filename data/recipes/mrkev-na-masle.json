@@ -1,0 +1,98 @@
+{
+  "id": "mrkev-na-masle",
+  "title": "Mrkev na másle",
+  "titleOriginal": "Buttered Carrots",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření mrkve, zalít; slije se (domácí hodnota)",
+      "scaling": "vessel",
+      "group": "Mrkev"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se (2 g na 1 l)",
+      "scaling": "vessel",
+      "group": "Mrkev"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g",
+      "note": "zdroj 2 oz do vody na vaření; malé množství cukru do zeleniny = linear (ruling N31)",
+      "scaling": "linear",
+      "group": "Mrkev"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 485,
+      "unit": "g",
+      "note": "jedlá hmotnost; zdroj 30 lb A.P. (nákupní 544 g na 4 porce) × ediblePortion katalogu 0,89; loupaná, nakrájená na plátky nebo kostky",
+      "group": "Mrkev"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear",
+      "group": "Dochucení"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "group": "Dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci přiveď vodu se solí a cukrem k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Mrkev omyj, oloupej a nakrájej na plátky nebo kostky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mrkev vhoď do vroucí vody a vař asi 25 minut, dokud není měkká.",
+      "minutes": 25
+    },
+    {
+      "text": "Mrkev scedi.",
+      "minutes": 2
+    },
+    {
+      "text": "Máslo rozpusť a vmíchej do mrkve spolu s pepřem.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Porce 4 až 5 oz (cca 2/3 cupu) z hlavičky. Mrkev 30 lb je nákupní hmotnost (544 g na 4 porce); jedlá část 0,89 (ediblePortion katalogu) = 485 g. Zdroj dává 3 oz soli a 2 oz cukru na 100 porcí a přidává je do vody na vaření, která se slévá. Místo lineárního přepočtu soli (5,5 g na 4 porce) je použita domácí hodnota 2 g na 1 l slévané vody; cukr 2 g (2 oz na 100 porcí) je podle rulingu N31 linear, jako ostatní cukr v zeleninových přílohách. Vařicí doba 25 minut podle zdroje. Varianta French Fried Carrots (mrkev v kapse strouhanky a vejce, fritování 190 °C 5 až 7 minut) ani varianta z dehydratované mrkve (PDF 270) nejsou v tomto receptu rozepsány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 269,
+    "titleOriginal": "BUTTERED CARROTS"
+  },
+  "verified": true
+}

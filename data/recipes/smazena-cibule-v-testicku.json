@@ -1,0 +1,114 @@
+{
+  "id": "smazena-cibule-v-testicku",
+  "title": "Smažená cibule v těstíčku",
+  "titleOriginal": "French Fried Onions",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 460,
+      "unit": "g",
+      "group": "Cibule",
+      "note": "28 lb nákupní hmotnosti (A.P.) na 100 porcí × 0,9 jedlá část; na 4 porce"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 75,
+      "unit": "ml",
+      "group": "Obal",
+      "note": "½ gallonu na 100 porcí (zdroj 'Milk, liquid' bez hmotnosti); na namočení kroužků"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 25,
+      "unit": "g",
+      "group": "Obal",
+      "note": "1 lb 8 oz na 100 porcí; obalení kroužků"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Obal",
+      "note": "2 oz na 100 porcí"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "group": "Obal",
+      "note": "1 čajová lžička na 100 porcí"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Smažení",
+      "note": "hluboký tuk na fritování; zdroj množství neuvádí, odhad domácí hodnoty",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 500,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Smažení",
+      "note": "nasáklý tuk (odhad)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 30,
+        "unit": "ml"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli oloupej, nakrájej na asi 6 mm silné plátky a plátky rozdělej na kroužky.",
+      "minutes": 10
+    },
+    {
+      "text": "Kroužky ponoř do ledové vody na 10–15 minut, aby ztuhly.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím v hrnci rozehřej olej na 175 °C.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Kroužky vyjmi z vody, namoč do mléka a dobře sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Smíchej mouku se solí a pepřem a kroužky v ní obal.",
+      "minutes": 3
+    },
+    {
+      "text": "Ponoř kroužky do horkého tuku a smaž je 5–6 minut, dokud nezezlátnou.",
+      "minutes": 6
+    },
+    {
+      "text": "Osmažené kroužky vyjmi a nech okapat na papírové utěrce.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj (Navy 1944, tišt. s. 271, PDF 279; na stránce je i Noodles with Buttered Crumbs, ten není zpracován) počítá na 100 porcí po 2½–3 oz; porce je uvedena jako 3 oz (horní mez). Cibule Spanish A.P. 28 lb: jedlá část 0,9 podle katalogu. Mléko a mouka jsou jen na obal, část zůstává v kroužcích a část odkapává. Zdroj neuvádí množství tuku na smažení (hluboký tuk, 345 °F = 175 °C); odhad je 500 ml oleje na fritování (domácí hodnota, slévá se, původní sádlo v original) a 30 ml nasáklého tuku (odhad, třída fat). Vejce zdroj neuvádí, nepřidávána. Ledová voda ze zdroje (10–15 min na ztuhnutí kroužků) je v krocích jako čekání. Bilance 1,75× (nad 1,6) je vysvětlená ztrátou vody z cibule při smažení a tím, že 3 oz porce a ⅔ cupu jsou ve zdroji nejisté (⅔ cupu lehkých kroužků váží méně); pokud chceš lehčí porci, počítej 2½ oz nebo uber asi 15 % cibule. Doporučení: podávej k masu místo brambor.",
+  "source": {
+    "book": "navy-1944",
+    "page": 279,
+    "titleOriginal": "FRENCH FRIED ONIONS"
+  },
+  "verified": false,
+  "quote": "Dip into milk. Drain well."
+}

@@ -1,0 +1,71 @@
+{
+  "id": "jahodova-zmrzlina",
+  "title": "Jahodová zmrzlina",
+  "titleOriginal": "Strawberry Ice (Gelato di fragola)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 340,
+      "unit": "g",
+      "group": "Sirup",
+      "scaling": "linear",
+      "note": "zdroj ¾ lb granulated sugar (340 g)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 470,
+      "unit": "ml",
+      "group": "Sirup",
+      "note": "zdroj 1 pint (473 ml), zaokrouhleno"
+    },
+    {
+      "ingredientId": "jahody",
+      "amount": 340,
+      "unit": "g",
+      "group": "Ovoce",
+      "note": "zralé; zdroj ¾ lb (340 g), množství ověřeno obrázkem stránky (OCR chybně 24 lb)"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 45,
+      "unit": "ml",
+      "group": "Ovoce",
+      "note": "šťáva z 1 velkého citronu"
+    },
+    {
+      "ingredientId": "pomerancova-stava",
+      "amount": 60,
+      "unit": "ml",
+      "group": "Ovoce",
+      "note": "šťáva z 1 pomeranče"
+    }
+  ],
+  "steps": [
+    { "text": "Vař cukr s vodou v nepřikryté pánvi, až vznikne sirup.", "minutes": 10 },
+    { "text": "Nech sirup vychladnout.", "minutes": 20 },
+    { "text": "Mezitím jahody protlač přes síto a přidej šťávu z citronu a pomeranče.", "minutes": 10, "parallel": true },
+    { "text": "Přidej vychladlý sirup a všechno dobře promíchej.", "minutes": 3 },
+    { "text": "Nalij směs do mrazáku nebo zmrzlinovače a mraž aspoň čtyři hodiny; během mražení ji několikrát prošlehej." }
+  ],
+  "modernNote": "Zdroj uvádí jen suroviny, výtěžek ani dobu mražení. Množství ověřeno obrázkem stránky (OCR „24 lb“ je chybně; správně ¾ lb jahod a ¾ lb cukru). Směs z 1 pintu vody, cukru a ovoce je asi 1,2 l, odhadem na 4 větší porce (cca 300 g). Čas 35 minut je součet aktivních kroků a chlazení sirupu; mražení (4 hodiny a více) se do času nepočítá. Zdroj mrazí směs v ledu se solí (stará metoda); dnes stačí mrazák nebo zmrzlinovač, během mražení směs několikrát prošlehej, aby nevznikly velké ledové krystaly. Citron a pomeranč: zdroj uvádí jen „a big lemon“ a „an orange“, šťáva odhadnuta podle běžné velikosti plodů. Vynechány nejsou žádné suroviny.",
+  "source": {
+    "book": "italian-1919",
+    "page": 158,
+    "titleOriginal": "STRAWBERRY ICE (Gelato di fragola)"
+  },
+  "verified": false,
+  "quote": "Rub through a sieve the strawberries and the juice of the lemon and the orange."
+}

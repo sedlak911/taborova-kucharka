@@ -1,0 +1,26 @@
+[
+  {
+    "id": "veprove-mlete",
+    "name": "Vepřové maso mleté",
+    "aliases": [
+      "mleté vepřové",
+      "vepřové mleté"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 218,
+      "protein": 17.99,
+      "carbs": 0.44,
+      "fat": 16,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168372 (Pork, ground, 84% lean / 16% fat, raw)",
+      "refuse": "USDA fdc:168372 refusePct 0"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "uzena-treska",
+    "name": "Uzená treska jednoskvrnná",
+    "aliases": [
+      "uzený treskovec",
+      "finnan haddie",
+      "smoked haddock"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 116,
+      "protein": 25.23,
+      "carbs": 0,
+      "fat": 0.96,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174199 (Fish, haddock, smoked)"
+    }
+  }
+]

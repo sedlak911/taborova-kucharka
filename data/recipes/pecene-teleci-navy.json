@@ -1,0 +1,64 @@
+{
+  "id": "pecene-teleci-navy",
+  "title": "Pečené telecí",
+  "titleOriginal": "Roast Veal",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 762,
+      "unit": "g",
+      "note": "bez kosti; zdroj uvádí 42 lb bez kosti (varianta 60 lb s kostí jinde)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "note": "na maso"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "note": "na maso"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 160 °C."
+    },
+    {
+      "text": "Maso otři solí a pepřem a ulož do pekáče tučnou stranou nahoru; kusy nestohuj.",
+      "minutes": 5
+    },
+    {
+      "text": "Peč nezakryté bez přidání vody do úplného propečení, asi 75 minut.",
+      "minutes": 75
+    },
+    {
+      "text": "Vyjmi maso z pekáče těsně před podáváním.",
+      "minutes": 1
+    },
+    {
+      "text": "Maso nakrájej napříč vlákny na tenké plátky.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5 oz (Portion: approx. 5 ounces); pro 4 porce 762 g masa bez kosti (ze 42 lb, faktor 0,04). Zdroj nabízí i variantu s kostí (60 lb) – podle zadání použit kus bez kosti, pro kus s kostí změň id na teleci-maso-s-kosti a hmotnost. Pečení 160 °C místo 325 °F. Doba 75 minut odpovídá zdrojovým 40–45 minutám na libru (760 g ≈ 1,7 lb); kontroluj vnitřní teplotu (70 °C). Zdroj žádný tuk nepřidává (jen tučná strana nahoru), proto žádný tuk na potření není; všechna čísla jsou z obrázku. Sůl 15 g na 4 porce (3,75 g na porci) je vysoká; doporučuji ubrat na cca 8 g (2 g na porci), zdroj ji počítá silně do masa. Zdroj uvádí volitelně cibuli a bobkový list (vyjmout před omáčkou), hnědou omáčku (Brown Gravy, str. 177) a plnku Bread Dressing (str. 164); nepřidáno, protože nejsou povinné.",
+  "source": {
+    "book": "navy-1944",
+    "page": 155,
+    "titleOriginal": "ROAST VEAL"
+  },
+  "verified": true,
+  "quote": "Roast uncovered, without adding water, at constant temperature in slow oven."
+}

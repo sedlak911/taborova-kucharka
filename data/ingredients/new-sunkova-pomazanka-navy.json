@@ -1,0 +1,33 @@
+[
+  {
+    "id": "kren",
+    "name": "Křen (připravený)",
+    "aliases": [
+      "křen",
+      "křen připravený",
+      "horseradish",
+      "horse-radish",
+      "prepared horseradish"
+    ],
+    "category": "koreni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 48,
+      "protein": 1.18,
+      "carbs": 11.29,
+      "fat": 0.69,
+      "fiber": 3.3
+    },
+    "units": {
+      "lzice": 15,
+      "lzicka": 5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173472 (Horseradish, prepared)",
+      "refuse": "bez odpadu",
+      "units": "USDA fdc:173472 tbsp = 15 g; tsp = 5 g"
+    }
+  }
+]

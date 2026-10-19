@@ -1,0 +1,80 @@
+{
+  "id": "kakao",
+  "title": "Kakao",
+  "titleOriginal": "Hot Cocoa",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kakao",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.61,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 490,
+      "unit": "ml",
+      "note": "sloučená studená a teplá voda ze zdroje; část slouží k rozpuštění sušeného mléka"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 410,
+      "unit": "ml",
+      "note": "z sušeného mléka rozmíchaného s vodou (1 díl sušeného na 9 dílů vody)",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "g",
+      "note": "volitelně",
+      "optional": true
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej kakao, sůl a cukr.", "minutes": 2 },
+    { "text": "Přidej vodu a promíchej. Přiveď k varu, sniž teplotu a duš 5 minut.", "minutes": 10 },
+    { "text": "Přidej mléko ke kakaovému sirupu za stálého míchání. Případně přidej vanilkový extrakt a dobře promíchej.", "minutes": 3 },
+    { "text": "Zahřej těsně pod var. Nevař.", "minutes": 5 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj je pro armádní kuchyni (100 porcí, 1 šálek = 237 ml); pro 4 porce vychází asi 980 ml, tedy 4 šálky po ~245 ml. Sušené mléko (40 g) je převedeno na polotučné mléko stejným poměrem jako ve zdroji: 1 díl sušeného + 9 dílů vody = 10 dílů mléka (410 ml). Zdroj uvádí studenou (3 1/8 lb) a teplou (43 7/8 lb) vodu; součet vod 853 ml sedí na 100 šálků. Zdroj dále uvádí podávání s miniaturními marshmallows.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 94,
+    "code": "C 001 00",
+    "titleOriginal": "HOT COCOA"
+  },
+  "verified": true,
+  "quote": "Heat to just below boiling. DO NOT BOIL."
+}

@@ -1,0 +1,77 @@
+{
+  "id": "teleci-brzlik",
+  "title": "Telecí brzlík na másle",
+  "titleOriginal": "Veal Sweetbreads with Butter (Animelle di vitello)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brzlik",
+      "amount": 500,
+      "unit": "g",
+      "note": "syrový telecí brzlík před namočením; zdroj množství neuvádí, odhad 125 g na porci; po odstranění žilek a jícnu asi o čtvrtinu méně"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "masový vývar (zdroj: „broth or water“) na krátké blanšírování; slije se nebo se použije jako vývar; odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opečení brzlíku; odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "na opečení másla; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "na opečení másla; odhad"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 10,
+      "unit": "ml",
+      "note": "„a little lemon juice“, jen na závěr; asi šťáva z půl citronu"
+    }
+  ],
+  "steps": [
+    { "text": "Brzlík namoč hodinu do čerstvé studené vody.", "minutes": 60 },
+    { "text": "Mezitím vývar v hrnci přiveď k varu.", "minutes": 8, "parallel": true },
+    { "text": "Brzlík na chvíli ponoř do vroucího vývaru, krátce ho blanšíruj a vyndej děrovanou naběračkou.", "minutes": 3 },
+    { "text": "Vyndaný brzlík ochlaď v studené vodě.", "minutes": 10 },
+    { "text": "Opatrně odstraň žilky a jícen, aby se brzlík netrhal.", "minutes": 10 },
+    { "text": "Brzlík nakrájej na plátky.", "minutes": 5 },
+    { "text": "Na pánvi rozpusť máslo se solí a pepřem, dokud nezhnědne.", "minutes": 3 },
+    { "text": "Plátky brzlíku přidej na pánev a opékej z obou stran dozlatova.", "minutes": 8 },
+    { "text": "Těsně před podáváním vymačkej na brzlík citronovou šťávu.", "minutes": 1 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 157, s. 110) uvádí způsob „Sweetbreads with butter“ bez množství a porcí; odhad z běžné praxe pro 4 porce: brzlík 500 g syrového (125 g na porci), máslo 40 g, sůl 4 g a pepř 1 g podle chuti, citronová šťáva 10 ml (zdroj: „a little lemon juice“). Vývar: zdroj dovoluje blanšírování „in broth or water“; zvolen masový vývar 1000 ml, který se po blanšírování slije nebo použije jako polévka (makra v receptu jsou orientační). Brzlík se před vařením namáčí hodinu v čerstvé vodě, vývar se mezitím ohřívá (paralelní krok). Čas 100 minut je součet kroků bez souběžných. Ostatní způsoby shrnuto: s bílou omáčkou (balsamella č. 54, ochucená muškátem a citronem), na fricassee (orestovaný se jarní cibulkou, zjemněný moukou a vaječnými žloutky s citronem) a smažený v trojobalu (vejce, strouhanka, máslo). Shání se: brzlík je v běžných prodejnách vzácný; nejspíš ho sežene řezník na objednávku (čerstvý nebo mražený telecí), případně specializovaný obchod s telecím masem nebo italská delikatesa.",
+  "source": {
+    "book": "italian-1919",
+    "page": 114,
+    "titleOriginal": "VEAL SWEETBREADS (Animelle di vitello)"
+  },
+  "verified": false,
+  "quote": "Keep in fresh water for an hour."
+}

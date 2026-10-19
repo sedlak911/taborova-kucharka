@@ -1,0 +1,140 @@
+{
+  "id": "rizoto-s-humrem",
+  "title": "Rizoto s humrem nebo krabím masem",
+  "titleOriginal": "RISOTTO WITH LOBSTER (Risotto coi gamberi)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "korysi",
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 320,
+      "unit": "g",
+      "note": "kulatozrnná rýže na rizoto; zdroj „a little more than a pound“ pro 6 porcí"
+    },
+    {
+      "ingredientId": "krabi-maso-konzerva",
+      "amount": 160,
+      "unit": "g",
+      "note": "krabí maso z konzervy; zdroj: humr nebo krab, asi polovina váhy rýže"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 snítka, nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 30,
+      "unit": "g",
+      "note": "1 stonek, nadrobno"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 40,
+      "unit": "g",
+      "note": "1 malá, nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "půlka cibule (asi 1/3 pro 4 porce), nadrobno"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 stroužek, nadrobno"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "dobrý olivový olej"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 800,
+      "unit": "ml",
+      "note": "horká; zdroj „hot water“, vývar vzniká z krabího masa"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "část na rozpuštění na začátku rýže, část na zahuštění; odhad"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 30,
+      "unit": "g",
+      "note": "nastrouhaný; zdroj „some grated cheese“, odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nadrobno nasekej petržel, celer, mrkev, půlku cibule a stroužek česneku a na olivovém oleji je zlehka orestuj dozlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej krabí maso, osol a opepři. Za míchání ho krátce prohřej.",
+      "minutes": 5
+    },
+    {
+      "text": "Přilej horkou vodu a nech 10 minut probublat.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím v jiném hrnci rozpusť polovinu másla a na něm opatrně promíchej rýži, aby se zrníčka obalila.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Polovinu krabího masa odlož stranou. Zbytek rozmixuj a protlač sítkem zpět do vývaru.",
+      "minutes": 3
+    },
+    {
+      "text": "Postupně přilévej horký vývar z krabího masa, vždy když rýže vyschne. Vař, dokud není téměř měkká.",
+      "minutes": 18
+    },
+    {
+      "text": "Když je rýže skoro hotová, sundej ji z ohně, vmíchej zbytek másla, nastrouhaný parmezán a odložené krabí maso.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej hned, horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 23) uvádí pro 6 osob „a little more than a pound“ rýže (asi 480 g) a krabí maso v poměru asi poloviny váhy rýže. Přepočteno na 4 porce nástrojem (1 1/16 lb × 4/6 = 320 g rýže); krab 160 g podle poměru. Odhady z běžné praxe: petržel 1 snítka (5 g), celer 1 stonek (30 g), mrkev 40 g, půl cibule ze zdroje na 4 porce asi 50 g, 1 stroužek česneku, 1 lžíce oleje, máslo 40 g a parmezán 30 g (zdroj jen „some butter“ a „some grated cheese“), sůl a pepř podle chuti. Zdroj používá humr nebo krab; v konzervě je dostupný krab, proto krabí maso z konzervy (USDA fdc:171966 pro makra). Zdroj základ zalévá horkou vodou, vývar tak vzniká z krabího masa (voda 800 ml); horký vývar se přidává průběžně, dokud rýže nezměkne. Zdroj také neuvádí časy; odhad je v minutách kroků (rýže cca 18 minut). Přidání sýru ke krabovému rizotu je podle zdroje; lze vynechat.",
+  "source": {
+    "book": "italian-1919",
+    "page": 27,
+    "titleOriginal": "RISOTTO WITH LOBSTER (Risotto coi gamberi)"
+  },
+  "verified": false,
+  "quote": "For this risotto either lobster or crab meat can be used the former is, however, considered more tasty."
+}

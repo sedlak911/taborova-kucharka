@@ -1,0 +1,37 @@
+{
+  "id": "cockova-polevka",
+  "title": "Čočková polévka",
+  "titleOriginal": "Lentil Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "horcice", "lepek", "mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "cocka", "amount": 155, "unit": "g", "note": "namočit 6–8 hodin" },
+    { "ingredientId": "vyvar-sunkovy", "amount": 910, "unit": "ml", "note": "zdroj: Ham Stock, s. 226 PDF (tištěná 218)" },
+    { "ingredientId": "cibule", "amount": 25, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "celer-rapikaty", "amount": 25, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "mrkev", "amount": 25, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "cukr-krystal", "amount": 0.85, "unit": "g" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "horcice-susena", "amount": 0.19, "unit": "g", "note": "prášek" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.22, "unit": "g" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.21, "unit": "g", "note": "mletý" },
+    { "ingredientId": "maslo", "amount": 16, "unit": "g", "note": "rozpuštěné", "original": { "ingredientId": "sadlo", "amount": 16, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 14, "unit": "g" },
+    { "ingredientId": "worcester", "amount": 0.36, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Čočku přeber, opláchni a zalij studenou vodou. Nech 6–8 hodin namočit, pak slij." },
+    { "text": "Přidej vývar ze šunky, cibuli, celer, mrkev, cukr, sůl, hořčici, pepř a muškátový oříšek. Přiveď k varu.", "minutes": 8 },
+    { "text": "Vař na mírném ohni asi 2 hodiny, dokud čočka není velmi měkká. Protlač přes síto nebo rozmixuj a přidej worcestrovou omáčku.", "minutes": 120 },
+    { "text": "Máslo a mouku rozmíchej na hladkou pastu, vmíchej do čočkového pyré. Vař asi 20 minut a často míchej.", "minutes": 22 }
+  ],
+  "modernNote": "Vývar ze šunky (Ham Stock, s. 226 PDF, tištěná 218) je samostatná surovina. Tuk „Fat, melted“ (rozpuštěné sádlo) je nahrazen máslem. Hořčice je sušená (prášek), jak ji zdroj v koření myslí. Rozmixování místo síta je modernizace.",
+  "source": { "book": "navy-1944", "page": 234, "titleOriginal": "Lentil Soup" },
+  "verified": true
+}

@@ -1,0 +1,109 @@
+{
+  "id": "kalifornsky-krem",
+  "title": "Kalifornský krém (želatinový)",
+  "titleOriginal": "California Cream",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "pripravit-predem",
+    "rychle",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 170,
+      "unit": "ml",
+      "note": "část na namočení želatiny, zbytek se vaří"
+    },
+    {
+      "ingredientId": "zelatina",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1.6,
+      "unit": "ks",
+      "note": "lehce rozšlehané"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.58,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "pomerancova-stava",
+      "amount": 55,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 1.1,
+      "unit": "ks",
+      "note": "vyšlehané do tuhého sněhu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Želatinu namoč do části mléka a nech 10 minut odstát.",
+      "minutes": 10
+    },
+    {
+      "text": "Zbylé mléko přiveď k varu a osol.",
+      "minutes": 4
+    },
+    {
+      "text": "Cukr utři se žloutky.",
+      "minutes": 2
+    },
+    {
+      "text": "Žloutkovou směs vmíchej do mléka a za stálého míchání vař, dokud směs nepotáhne lžíci.",
+      "minutes": 5
+    },
+    {
+      "text": "Vmíchej namočenou želatinu a nech vychladnout.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím ušlehej bílky do tuhého sněhu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej pomerančovou šťávu.",
+      "minutes": 1
+    },
+    {
+      "text": "Opatrně do směsi vmíchej ušlehané bílky.",
+      "minutes": 2
+    },
+    {
+      "text": "Ochlaď v lednici, až ztuhne (alespoň 4 hodiny)."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (3⅛ galonu, porce 3 oz, ½ hrnku); na 4 porce vychází 1,6 ks žloutků a 1,1 ks bílků, v praxi použij 2 žloutky a 1 bílek (krém bude o něco pevnější). Doba chlazení není ve zdroji, jen „Chill“; odhad alespoň 4 hodiny, proto tag pripravit-predem. Sůl (1½ čajové lžičky na 100 porcí = 0,58 g na 4 porce, tj. 0,14 g na porci; check:recipe to hlásí jako mimo rozsah) je ve zdroji málo a hodnota je ponechána věrně; doporučuji dochutit podle chuti. Zdroj dovoluje sušené žloutky/bílky s vodou a jiné ovocné šťávy, nepoužito; použita čerstvá vejce a pomerančová šťáva.",
+  "source": {
+    "book": "navy-1944",
+    "page": 50,
+    "titleOriginal": "CALIFORNIA CREAM"
+  },
+  "verified": true,
+  "quote": "Soak gelatin in 1 pint of milk for 10 minutes."
+}

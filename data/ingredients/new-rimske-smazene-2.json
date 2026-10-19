@@ -1,0 +1,33 @@
+[
+  {
+    "id": "wontonove-platky",
+    "name": "Plátky na wonton (oplatky)",
+    "aliases": [
+      "plátky na wonton",
+      "wonton wrappers",
+      "wonton",
+      "oplatky na smažení"
+    ],
+    "category": "testoviny-a-ryze",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 291,
+      "protein": 9.8,
+      "carbs": 57.9,
+      "fat": 1.5,
+      "fiber": 1.8
+    },
+    "units": {
+      "ks": 8
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek",
+      "vejce"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172802 (Wonton wrappers); zdroj 'wafers' (oplatky z lékárny) je nejbližší dostupný tvar: čtvercový tenký list",
+      "units": "USDA SR Legacy fdc:172802: wrapper, wonton (3-1/2\" square) = 8 g"
+    }
+  }
+]

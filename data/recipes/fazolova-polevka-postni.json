@@ -1,0 +1,44 @@
+{
+  "id": "fazolova-polevka-postni",
+  "title": "Fazolová polévka (postní)",
+  "titleOriginal": "Bean Soup (Zuppa di fagiuoli)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "fazole-suche", "amount": 210, "unit": "g", "group": "Polévka", "note": "bílé (navy); zdroj uvádí také kidney nebo lima, lze zaměnit" },
+    { "ingredientId": "jedla-soda", "amount": 0.3, "unit": "g", "group": "Polévka", "note": "špetka do vody na vaření fazolí" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "group": "Polévka", "note": "první voda na vaření fazolí, slije se" },
+    { "ingredientId": "voda", "amount": 900, "unit": "ml", "group": "Polévka", "note": "čerstvá voda na dovaření fazolí do měkka; zůstává v polévce (2 šálky, 470 ml z ní se přidají do zálivky s rajčaty, zbytek ji vsakují fazole)" },
+    { "ingredientId": "olivovy-olej", "amount": 60, "unit": "g", "group": "Zelenina a rajčata", "note": "1/4 šálku" },
+    { "ingredientId": "cibule", "amount": 25, "unit": "g", "group": "Zelenina a rajčata", "note": "1/4 cibule, nadrobno" },
+    { "ingredientId": "cesnek", "amount": 1, "unit": "ks", "group": "Zelenina a rajčata", "note": "1 stroužek" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "group": "Zelenina a rajčata", "note": "1 snítka" },
+    { "ingredientId": "celer-rapikaty", "amount": 30, "unit": "g", "group": "Zelenina a rajčata", "note": "kousek řapíku" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 250, "unit": "g", "group": "Zelenina a rajčata", "note": "1 šálek; čerstvá nebo konzervovaná" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Dochucení", "note": "odhad; zdroj uvádí jen sůl" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Dochucení", "note": "odhad; zdroj říká „hojně pepře“" }
+  ],
+  "steps": [
+    { "text": "Suché fazole namoč přes noc do studené vody." },
+    { "text": "Fazole dej do hrnce se studenou vodou a špetkou sody a přiveď k varu.", "minutes": 8 },
+    { "text": "Vodu slij, fazole zalij čerstvou vodou a vař do měkka, asi 75 minut.", "minutes": 75 },
+    { "text": "Zatímco se fazole vaří, nasekej nadrobno čtvrtinu cibule, stroužek česneku, snítku petržele a kousek celeru.", "minutes": 5, "parallel": true },
+    { "text": "Zatímco se fazole vaří, na oleji se solí a hodně pepře osmahni nasekanou zeleninu dozlatova.", "minutes": 6, "parallel": true },
+    { "text": "Do osmažené zeleniny přidej vodu z fazolí a rajčata a přiveď k varu.", "minutes": 5 },
+    { "text": "Směs vlij do hrnce s fazolemi; pokud je polévka řídká, přebytečnou vodu slij.", "minutes": 3 },
+    { "text": "Polévku podávej horkou, tak jak je, nebo ji před podáváním prolisuj přes síto. Volitelně přidej krutony nebo trojúhelníčky suchého toastu." }
+  ],
+  "modernNote": "Gentile uvádí jen šálky a nevyjadřuje počet porcí; recept přepočítán jako na 4 porce: 1 šálek sušených fazolí (210 g bílých), 2 šálky vody z fazolí (470 ml, součást 900 ml čerstvé vody na dovaření fazolí) a 1 šálek rajčat (250 g), 1/4 šálku oleje (60 g). Doplněné odhady: cibule 1/4 (25 g), celer kousek (30 g), petržel 1 snítka (5 g), sůl 4 g, pepř 1 g; dochucení podle chuti. Sůl a pepř jsou odhady, zdroj je nevyjadřuje. První voda se sodou (1 000 ml, minimum pro luštěniny) se slije; druhá, čerstvá voda (900 ml) je v surovinách zvlášť, zůstává v polévce a fazole z ní část vsají. Čas vaření 75 minut je odhad pro sušené fazole, zdroj doby neuvádí; namáčení přes noc není v timeMinutes. Jedlá soda 0,3 g je zdrojová „špetka“ (pinch) uložená přesně; nález check:recipe je záměrný. Tag pripravit-predem přidán kvůli namáčení. Krutony jsou volitelné, v surovinách nejsou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 13,
+    "titleOriginal": "BEAN SOUP (Zuppa di fagiuoli)"
+  },
+  "verified": false,
+  "quote": "The bean soup is made without meat or chicken broth, and it belongs consequently to that class of soup called by the Italians \"Minestra di Magro\"."
+}

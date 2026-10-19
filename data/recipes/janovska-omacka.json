@@ -1,0 +1,121 @@
+{
+  "id": "janovska-omacka",
+  "title": "Janovská omáčka",
+  "titleOriginal": "Genovese Sauce (Salsa genovese)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 větvička (zdroj „a sprig of parsley“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 3,
+      "unit": "g",
+      "note": "půl stroužku (zdroj „half a clove“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "kapary",
+      "amount": 15,
+      "unit": "g",
+      "note": "nakládané v octě, scezené (zdroj „some capers soaked in vinegar“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 4,
+      "unit": "g",
+      "note": "1 ks (zdroj „one anchovy“); solená, odkostěná",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "olivy-cerne",
+      "amount": 3,
+      "unit": "ks",
+      "note": "bez pecek (zdroj „three pitless olives“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "natvrdo uvařené, použij jen žloutek (zdroj „one hard yolk of egg“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 25,
+      "unit": "g",
+      "note": "kus velký jako vejce, namočený v octě (zdroj „a crumb of bread as big as an egg“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 15,
+      "unit": "ml",
+      "note": "na namočení chleba (1 polévková lžíce, odhad)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 60,
+      "unit": "ml",
+      "note": "odhad; zdroj „dosing right by tasting“, přidávej podle chuti",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Uvař vejce natvrdo (10 min), oloupej a vyndej žloutek.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím větvičku petržele a půl stroužku česneku nasekej nadrobno.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Kus chleba namoč v octě a lehce ho vymačkej.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Přidej scezené kapary, nasekanou ančovičku, tři olivy bez pecek, natvrdo uvařený žloutek a chleb.",
+      "minutes": 4
+    },
+    {
+      "text": "Všechno rozetři ve hmoždíři nebo v mixéru a protlač sítkem.",
+      "minutes": 8
+    },
+    {
+      "text": "Postupně zašlehej olivový olej a dochuť podle chuti.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej studenou k vařené rybě."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 58, s. 46) uvádí suroviny ve větách bez množství a bez počtu porcí, proto jsou množství odhad pro 4 porce. Počty kusů jsou ze zdroje (1 ančovička, žloutek z 1 vejce uvařeného natvrdo, 3 olivy; bílek nepoužiješ), takže omáčka vychází malá; pro běžnou porci doporučuji zdvojnásobit až ztrojnásobit kapary, petržel, chléb a olej. Odhady: petržel 1 větvička (5 g), půl stroužku česneku (3 g), kapary 15 g, chléb velký jako vejce 25 g, ocet 15 ml na namočení chleba, olivový olej 60 ml. Ančovička je v katalogu v oleji; solená se opláchne a odkostí. Zdroj nepředepisuje sůl ani pepř, proto je do receptu nepřidávám, dochuť podle chuti. Omáčka je studená a zdroj ji podává k vařené rybě. Doba 25 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 50,
+    "titleOriginal": "GENOVESE SAUCE (Salsa genovese)"
+  },
+  "verified": false
+}

@@ -1,0 +1,101 @@
+{
+  "id": "chlebovy-pudink-s-citronem",
+  "title": "Chlebový pudink s citronem",
+  "titleOriginal": "Bread Pudding (Budino di pane)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 140,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "měkký bílý chléb bez kůrky, nakrájený na kousky (zdroj: 5 oz)"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Pudink",
+      "note": "studené, na namočení chleba; přebytek slij (odhad)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 100,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "zdroj: 3½ oz; část použij na vymazání formy",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "zdroj neuvádí množství, odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Pudink",
+      "note": "celá vejce (zdroj: four eggs)"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 3,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "jen jemně strouhaná kůra z ½ citronu (zdroj: „taste of lemon peel“), odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Pudink",
+      "note": "zdroj: a pinch of salt"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Forma",
+      "note": "jemná, na vysypání formy; odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 180 °C." },
+    { "text": "Vymaž formu máslem a vysyp ji strouhankou.", "minutes": 3 },
+    { "text": "Nakrájej chléb na kousky a namoč ho do studeného mléka, nech nasáknout.", "minutes": 10 },
+    { "text": "Z namočeného chleba slij přebytečné mléko a protlač ho přes síto.", "minutes": 3 },
+    { "text": "Máslo rozpusť ve vodní lázni, vmíchej vejce a míchej, dokud se máslo s vejci nespojí.", "minutes": 5 },
+    { "text": "Přidej protlačený chléb, cukr a strouhanou citronovou kůru a dobře promíchej.", "minutes": 3 },
+    { "text": "Směs nalij do formy a urovnej ji.", "minutes": 2 },
+    { "text": "Peč asi 40 minut.", "minutes": 40 },
+    { "text": "Nech pudink vychladnout, vyklop ho z formy a podávej celý, nebo nakrájený.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj nedává porci; suroviny (chléb 5 oz, máslo 3½ oz, 4 vejce) jsou pro celý pudink a vycházejí na 4 porce, proto nejsou přepočítány. Odhady: cukr 80 g (zdroj říká jen „the sugar“), mléko 200 ml na namočení (přebytek slij před protlačením), strouhanka 15 g na formu, kůra z ½ citronu 3 g, teplota 180 °C a doba 40 minut podle ostatních pudinků z knihy, která se mají péct „like all other puddings“. Zdroj neuvádí, kdy přidat citronovou kůru; přidána k chlebu. Vodní lázeň nahrazuje zdrojový „double boiler“. Sůl: „a pinch of salt“ je 1 špetka. Recept je jiný než Navy 1944 Bread Pudding (chlebovy-pudink), který je v katalogu odděleně.",
+  "source": {
+    "book": "italian-1919",
+    "page": 145,
+    "titleOriginal": "BREAD PUDDING (Budino di pane)"
+  },
+  "verified": false,
+  "quote": "Cut the bread crumb into pieces and soak in cold milk."
+}

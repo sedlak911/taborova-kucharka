@@ -1,0 +1,59 @@
+{
+  "id": "horky-caj",
+  "title": "Horký čaj",
+  "titleOriginal": "Hot Tea",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "caj-cerny-sypany",
+      "amount": 7,
+      "unit": "g",
+      "note": "v látkovém sáčku"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 950,
+      "unit": "ml",
+      "note": "studená, pitná, převaří se"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Čaj vlož do látkového sáčku a sáček volně převaž, aby čaj mohl nabobtnat.",
+      "minutes": 1
+    },
+    {
+      "text": "Vodu nalij do hrnce a přiveď k varu. Pak vypni plotnu.",
+      "minutes": 8
+    },
+    {
+      "text": "Sáček s čajem vlož do vody, přikryj a nech louhovat.",
+      "minutes": 5
+    },
+    {
+      "text": "Sáček vyjmi a čaj podávej v předehřátých konvicích."
+    }
+  ],
+  "modernNote": "Zdroj vaří čaj v kotli pro 100 porcí (6¼ galonu, porce 1 šálek, asi 237 ml). Pro 4 porce je to 950 ml vody, tedy 4 šálky po zhruba 237 ml. Čaj se nesmí vařit, jinak hořkne, proto se voda jen přivede k varu a pak se vypne plotna. Cukr zdroj uvádí jen u varianty ledového čaje, do základního receptu jsem ho nepřidal. Nález 0 kcal je očekávaný: čaj i voda nemají energii (stejně jako u černého čaje z AFRS).",
+  "source": {
+    "book": "navy-1944",
+    "page": 27,
+    "titleOriginal": "HOT TEA"
+  },
+  "verified": true,
+  "quote": "The tea leaves must never be boiled as this impairs the flavor and gives the tea a bitter taste."
+}

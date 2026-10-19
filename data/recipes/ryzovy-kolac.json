@@ -1,0 +1,145 @@
+{
+  "id": "ryzovy-kolac",
+  "title": "Rýžový koláč",
+  "titleOriginal": "Rice Tart (Torta di riso)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 470,
+      "unit": "ml",
+      "group": "Rýžová hmota",
+      "note": "zdroj 1 quart (946 ml), přepočteno na polovinu (zdroj počítám na 8 porcí)"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 100,
+      "unit": "g",
+      "group": "Rýžová hmota",
+      "note": "kulatozrnná (na rizoto), vaří se v mléce do měkka"
+    },
+    {
+      "ingredientId": "mandle",
+      "amount": 50,
+      "unit": "g",
+      "group": "Rýžová hmota",
+      "note": "loupané, sladké"
+    },
+    {
+      "ingredientId": "horkomandlove-aroma",
+      "amount": 0.15,
+      "unit": "ml",
+      "group": "Rýžová hmota",
+      "note": "náhrada za 4 hořké mandle ze zdroje (po půlení asi 3 g); 1 kapka (0,05 ml) na 1 g hořkých mandlí",
+      "original": {
+        "ingredientId": "mandle",
+        "amount": 3,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "group": "Rýžová hmota"
+    },
+    {
+      "ingredientId": "kandovane-ovoce",
+      "amount": 14,
+      "unit": "g",
+      "group": "Rýžová hmota",
+      "note": "kandovaná angelika (cedr), nahrazeno kandovaným ovocem"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 3,
+      "unit": "g",
+      "group": "Rýžová hmota",
+      "note": "jen strouhaná žlutá kůra (odhad, asi ⅛ citronu)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Rýžová hmota"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vejce",
+      "note": "zdroj 3 celá vejce, přepočteno na polovinu (1,5 ks), zaokrouhleno nahoru; stačí část"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Vejce",
+      "note": "zdroj 5 žloutků, přepočteno na polovinu (2,5 ks), zaokrouhleno nahoru"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "note": "na vymazání plechu, odhad",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 10,
+      "unit": "g",
+      "group": "Forma",
+      "note": "jemně strouhaná, na vysypání plechu, odhad",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Podávání",
+      "note": "na poprašení, odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Mandle opař horkou vodou, oloupej a rozemel nebo rozetři s částí cukru a hořkomandlovým aromatem.", "minutes": 10 },
+    { "text": "Kandovanou angeliku nakrájej na velmi malé kostičky.", "minutes": 5 },
+    { "text": "Mléko přiveď k varu, vsyp rýži a vař ji, dokud nebude skoro měkká a mléko se nevstřebá; občas promíchej.", "minutes": 25 },
+    { "text": "Do rýže vmíchej mandlovou směs, zbytek cukru, angeliku, citronovou kůru a špetku soli.", "minutes": 2 },
+    { "text": "Nech směs úplně vychladnout.", "minutes": 20 },
+    { "text": "Mezitím vymaž plech máslem a vysyp ho strouhankou.", "minutes": 3, "parallel": true },
+    { "text": "Do vychladlé hmoty vmíchej vejce a žloutky a dobře promíchej.", "minutes": 3 },
+    { "text": "Hmotu nalij do vymazané formy a peč v troubě, dokud se nezpevní a nezezlátne.", "minutes": 40 },
+    { "text": "Nech tart zcela vychladnout a odležet." },
+    { "text": "Po 24 hodinách od upečení nakrájej tart na kosočtverce.", "minutes": 5 },
+    { "text": "Podávej posypané moučkovým cukrem." }
+  ],
+  "modernNote": "Gentile (č. 199) uvádí celý koláč bez počtu porcí: 1 quart mléka, 7 oz rýže, 5½ oz cukru, 3½ oz mandlí (sladké se 4 hořkými), 1 oz kandované angeliky, 3 celá vejce a 5 žloutků. Dávka vychází na asi 8 porcí, proto je přepočtena na polovinu (4 porce, originalYield 8). Hořké mandle nahrazuje hořkomandlové aroma: 1 kapka (0,05 ml) na 1 g hořkých mandlí. Angelika (cedr) nahrazena kandovaným ovocem. Vejce zaokrouhlena nahoru (stačí část). Máslo a strouhanka na vymazání formy a moučkový cukr na poprašení jsou odhady podle popisu zdroje. Citronová kůra odhad z „taste of lemon peel“. Zdroj sám nedává dobu pečení ani teplotu; 180 °C a 40 minut je odhad. Koláč se má po upečení nechat 24 hodin odležet, proto tag pripravit-predem a krájení až druhý den. Sůl je špetka (zdroj „a pinch“). Kalorie jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 143,
+    "titleOriginal": "RICE TART (Torta di riso)"
+  },
+  "verified": false,
+  "quote": "after 24 hours cut the tart into diamonds"
+}

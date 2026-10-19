@@ -1,0 +1,18 @@
+[
+  {
+    "id": "kukurice-klas",
+    "name": "Kukuřice sladká v klasu (čerstvá)",
+    "aliases": ["kukuřice v klasech", "kukuřice sladká", "kukuřice čerstvá", "klas kukuřice", "corn on the cob"],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": { "kcal": 86, "protein": 3.27, "carbs": 18.7, "fat": 1.35, "fiber": 2 },
+    "units": { "ks": 81.6 },
+    "ediblePortion": 0.36,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169998 (Corn, sweet, yellow, raw)",
+      "units": "ks = jedlá zrna z 1 klasu: zdroj 50 lb A.P. / 100 klasů = 227 g A.P. × 0,36 = 81,6 g",
+      "refuse": "USDA fdc:169998 odpad 64 % (husk, silk, cob)"
+    }
+  }
+]

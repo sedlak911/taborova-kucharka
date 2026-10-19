@@ -1,0 +1,88 @@
+{
+  "id": "sladkokysele-zeli",
+  "title": "Sladkokyselé zelí",
+  "titleOriginal": "Sweet Sour Cabbage",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 640,
+      "unit": "g",
+      "note": "čerstvé zelí, jedlá část ze 44 lb nákupu (A.P. 798 g × ediblePortion katalogu 0,8); zdroj má sušené zelí 2 lb 12 oz, 1 lb sušeného = 16 lb A.P. (poznámka zdroje)",
+      "original": {
+        "ingredientId": "zeli-susene",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 30,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu vodu se solí.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím zelí zbav svrchních listů, opláchni a nakrájej na klínky.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Zelí vlož do vroucí vody a vař pod pokličkou 10 až 15 minut, dokud není měkké.",
+      "minutes": 15
+    },
+    {
+      "text": "Zelí sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej ocet a cukr, dobře promíchej a znovu ohřej.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj: Sweet Sour Cabbage je varianta k Simmered Cabbage (dehydrované zelí, PDF 268, dole; „Soak and cook cabbage as for Simmered Cabbage, omitting bacon. Drain. Add 1½ pints vinegar and 6 ounces sugar“). Sjednocený přístup obou variant Simmered Cabbage: sušené zelí zůstává v řádku jen u Dušeného zelí ze sušeného zelí, kde je rehydratace pointou; tuto variantu zdroj uvádí jako samostatné jídlo, proto je v řádku čerstvé bílé zelí a sušené je v original (50 g). Přepočet podle poznámky zdroje: 2 lb 12 oz sušeného × 16 = 44 lb zelí A.P. = 798 g na 4 porce × ediblePortion katalogu 0,8 = 640 g jedlé části. Ocet 1½ pinty a cukr 6 oz ze zdroje. Pepř a slanina ze základního receptu se nepřebírají: zdroj je přidává v kroku, který tato varianta nahrazuje (jen ocet a cukr). Voda (1 l) a sůl (2 g na 1 l) jsou domácí hodnoty slévané vody místo 3 gal; sůl dochuť podle chuti. Kcal (~48 na porci, validátor varuje pod 50) jsou věcně správné, zelí je téměř bez energie. Bilance 1,7× vůči porci zdroje (99 g uvařeného scezeného zelí) je vysvětlená: řádek je syrové zelí, zdroj počítá po varu a scezení (1 lb sušeného = 8½ lb uvařeného, zatímco 16 lb A.P. × 0,8 = 12,8 lb jedlé části). Tag tabor záměrně není (výjimka v původním receptu je sušené zelí).",
+  "source": {
+    "book": "navy-1944",
+    "page": 269,
+    "titleOriginal": "Sweet Sour Cabbage"
+  },
+  "verified": true
+}

@@ -1,0 +1,66 @@
+{
+  "id": "brusinkovy-relish-s-pomerancem",
+  "title": "Brusinkový relish s pomerančem",
+  "titleOriginal": "Cranberry and Orange Relish",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "brusinky",
+      "amount": 90,
+      "unit": "g",
+      "note": "čerstvé, přebrané"
+    },
+    {
+      "ingredientId": "pomeranc",
+      "amount": 90,
+      "unit": "g",
+      "note": "celý, se slupkou, bez semínek"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.16,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brusinky přeber, opláchni a sceď.",
+      "minutes": 5
+    },
+    {
+      "text": "Pomeranč rozčtvrť, vyjmi semínka a společně s brusinkami nasekej nadrobno.",
+      "minutes": 10
+    },
+    {
+      "text": "Vmíchej cukr a sůl a míchej, dokud se nerozpustí.",
+      "minutes": 5
+    },
+    {
+      "text": "Vychlaď v lednici."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 2 oz (zhruba 1/4 hrnku), výtěžek 13 lb. Pomeranče zůstávají celé včetně slupky, jak zdroj předepisuje (čtvrtí, vyberou se semínka, nasekají se nadrobno). Zdroj neuvádí dobu chlazení; podávej vychlazené, nejlépe po několika hodinách v lednici. Bilance: 270 g surovin na 4 porce proti 227 g (4 × 2 oz); rozdíl odpovídá tomu, že cukr se rozpouští a výtěžek zdroje (13 lb) je odhad. Sůl: zdroj uvádí ½ čajové lžičky na 100 porcí, na 4 porce je to 0,16 g (0,04 g na porci) – jde o věrný přepočet, dochuť podle chuti (běžně cca 1 g na celou dávku). Volitelně lze přidat asi 20 g rozinek (zdroj: 1 lb na 100 porcí).",
+  "source": {
+    "book": "navy-1944",
+    "page": 81,
+    "titleOriginal": "CRANBERRY AND ORANGE RELISH"
+  },
+  "verified": true
+}

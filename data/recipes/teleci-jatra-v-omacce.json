@@ -1,0 +1,84 @@
+{
+  "id": "teleci-jatra-v-omacce",
+  "title": "Telecí játra v omáčce",
+  "titleOriginal": "Veal Liver in Gravy (Fegato di vitella al sugo)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 500,
+      "unit": "g",
+      "note": "telecí játra, nakrájená na tenké plátky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 střední, nasekaná nadrobno; zdroj říká „scallion or onion“"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "note": "na osmažení cibule; zdroj říká „oil and butter“"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na osmažení cibule"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "note": "nasekaná; zdroj říká „a pinch of chopped parsley“"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva na pokapání těsně před podáváním"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli nasekej nadrobno a játra nakrájej na tenké plátky.", "minutes": 5 },
+    { "text": "Na oleji s máslem osmahni cibuli dotmava, až získá tmavě červenou barvu.", "minutes": 8 },
+    { "text": "Vlož plátky jater a opékej je, dokud nejsou napůl hotová.", "minutes": 4 },
+    { "text": "Osol, opepři a vmíchej nasekanou petrželku.", "minutes": 1 },
+    { "text": "Na mírném ohni nech dusit tak, aby zůstala omáčka, dokud játra nezměknou.", "minutes": 8 },
+    { "text": "Podávej v omáčce a před podáváním pokapej citronovou šťávou." }
+  ],
+  "modernNote": "Gentile (tištěná s. 63, PDF 67) neuvádí žádná množství ani počet porcí; všechna čísla jsou odhad z běžné praxe pro 4 porce: telecí játra 500 g (125 g na porci), 1 střední cibule asi 150 g, 1 lžíce oleje (15 ml), 20 g másla, sůl 5 g, pepř 0,5 g, petrželová nať 5 g a 1 citron na šťávu. Zdroj nepřidává žádnou tekutinu; omáčka vzniká jen z tuku a šťávy z jater a cibule. Doby jsou odhad, zdroj je neuvádí. Recept v knize pokračuje na PDF 68 (jen další řádek a poznámka o cibuli). Katalog má jen obecnou položku jater s aliasem telecí játra.",
+  "source": {
+    "book": "italian-1919",
+    "page": 67,
+    "titleOriginal": "VEAL LIVER IN GRAVY (Fegato di vitella al sugo)"
+  },
+  "verified": false,
+  "quote": "Make it simmer on a low fire so that the gravy remains, and serve in its gravy."
+}

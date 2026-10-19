@@ -1,0 +1,53 @@
+[
+  {
+    "id": "kralik",
+    "name": "Králík",
+    "aliases": [
+      "králičí maso",
+      "králík celý",
+      "rabbit"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 136,
+      "protein": 20.05,
+      "carbs": 0,
+      "fat": 5.55,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.6,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172521 (Game meat, rabbit, domesticated, composite of cuts, raw)",
+      "refuse": "odhad: králík s kostmi, asi 40 % kosti (ediblePortion 0,6); USDA fdc:172521 refusePct 0"
+    }
+  },
+  {
+    "id": "hovezi-solene",
+    "name": "Hovězí solené (corned beef)",
+    "aliases": [
+      "corned beef",
+      "solené hovězí",
+      "konzerva corned beef",
+      "hovězí corned beef"
+    ],
+    "category": "uzeniny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 250,
+      "protein": 27.1,
+      "carbs": 0,
+      "fat": 14.93,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170602 (Beef, cured, corned beef, canned)",
+      "refuse": "USDA fdc:170602 refusePct 0"
+    }
+  }
+]

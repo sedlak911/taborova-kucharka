@@ -1,0 +1,36 @@
+{
+  "id": "fazolova-polevka-s-uzenym",
+  "title": "Fazolová polévka s uzeným",
+  "titleOriginal": "Bean Soup with Smoked, Cured Ham Hocks",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 335,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "fazole-suche", "amount": 115, "unit": "g", "note": "bílé sušené; přebrat a propláchnout" },
+    { "ingredientId": "voda", "amount": 305, "unit": "ml", "note": "studená, na vaření fazolí; vsákne se do polévky" },
+    { "ingredientId": "vyvar-sunkovy", "amount": 760, "unit": "ml", "note": "šunkový vývar připravený podle návodu na mixu" },
+    { "ingredientId": "uzene-koleno", "amount": 45, "unit": "g", "note": "uzené, nevařené koleno před vařením (vč. kosti); po uvaření odkostit" },
+    { "ingredientId": "mrkev", "amount": 20, "unit": "g", "note": "strouhaná" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "note": "na zahuštění" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "studená, na rozmíchání mouky" }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, vyřaď zbarvená zrna a nečistoty a důkladně propláchni ve studené vodě.", "minutes": 3 },
+    { "text": "Zalij studenou vodou, přiveď k varu a vař 2 minuty. Vypni plotnu, přikryj a nech stát 1 hodinu.", "minutes": 67 },
+    { "text": "Připrav šunkový vývar podle návodu na mixu a přidej k fazolím. Přiveď k varu, přikryj a vař 2 hodiny, dokud fazole nezměknou.", "minutes": 131 },
+    { "text": "Rozmražené uzené koleno vlož do vody tak, aby bylo zakryté. Vař 1 hodinu, sundej z ohně a nech vychladnout. Vyjmi libové maso a nakrájej na malé kousky.", "minutes": 88 },
+    { "text": "Přidej mrkev, cibuli, pepř a nakrájené maso z kolena do fazolové směsi. Vař 30 minut.", "minutes": 32 },
+    { "text": "Mouku rozmíchej s vodou na hladkou kaši, vmíchej do polévky a vař 10 minut.", "minutes": 12 }
+  ],
+  "modernNote": "Porce 1 šálek (237 ml) z AFRS; 4 porce vyjdou cca 1,1 l polévky. Šunkový vývar z mixu je nahrazen katalogovým vývarem ze šunky (kupovaný, obsahuje maso). Doba 230 minut počítá namáčení 1 hodinu a vaření fazolí 2 hodiny; uzené koleno se vaří souběžně s namáčením. Doporučení: fazole namočit přes noc ve studené vodě (zdroj uvádí jen 1 hodinu). Voda na pokrytí kolena nad rámec seznamu (asi 300 ml), zdroj množství neuvádí. Kroky s teplotou držení (CCP) vynechány.",
+  "source": { "book": "afrs-2003", "page": 1402, "code": "P 008 01", "titleOriginal": "BEAN SOUP WITH SMOKED, CURED HAM HOCKS" },
+  "verified": true,
+  "quote": "Simmer 2 hours or until beans are tender."
+}

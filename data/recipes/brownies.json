@@ -1,0 +1,109 @@
+{
+  "id": "brownies",
+  "title": "Brownies",
+  "titleOriginal": "Brownies",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko",
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 95,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kakao",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "měkké, pokojová teplota",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 50,
+        "unit": "g"
+      },
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehej",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sirup-kukuricny",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vlasske-orechy",
+      "amount": 35,
+      "unit": "g",
+      "note": "hrubě nasekané"
+    }
+  ],
+  "steps": [
+    { "text": "Mouku, cukr, kakao, prášek do pečiva a sůl dej do mísy a na nízké rychlosti promíchej 1 minutu.", "minutes": 1 },
+    { "text": "Přidej máslo, vejce, sirup a vanilkový extrakt. Na nízké rychlosti míchej 1 minutu, seškrab stěny mísy a pak na střední rychlosti míchej 2 minuty, dokud je těsto dobře promíšené.", "minutes": 3 },
+    { "text": "Přidej ořechy a na nízké rychlosti míchej 30 sekund.", "minutes": 1 },
+    { "text": "Pekáč vylož papírem na pečení a rozetři do něj těsto.", "minutes": 2 },
+    { "text": "Peč s horkým vzduchem při 165 °C 25–30 minut, dokud špejle zapíchnutá do středu nevyjde čistá. Nepřepékej.", "minutes": 30 },
+    { "text": "Nech úplně vychladnout a nakrájej na 4 kusy." }
+  ],
+  "modernNote": "Porce = 1 brownie (originál 100 brownies). Ztužený tuk (shortening) nahrazen máslem: 50 g tuku odpovídá cca 62 g másla (máslo má cca 81 % tuku), zaokrouhleno na 60 g. Zmrazená vejce nahrazena čerstvým vejcem (1 ks ≈ 50 g, tedy stejná hmotnost jako původních 50 g vajec na 4 porce). Sirup v originále nespecifikovaný („SYRUP“), zvolen světlý kukuřičný sirup (USDA fdc:168837). Ořechy v originále nespecifikované („NUTS, UNSALTED, CHOPPED, COARSELY“), zvoleny vlašské. Sprej na plechy (COOKING SPRAY) vynechán, pekáč se vykládá papírem. Originál 325 °F v konvekční troubě = 165 °C s horkým vzduchem. Doporučení: vychladit úplně před krájením; použij malý pekáč cca 15 × 15 cm (asi 361 g těsta), zdroj počítá s plechy na 100 kusů.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 470,
+    "code": "H 002 00",
+    "titleOriginal": "BROWNIES"
+  },
+  "verified": true,
+  "quote": "DO NOT OVERBAKE."
+}

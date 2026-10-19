@@ -1,0 +1,53 @@
+{
+  "id": "chleb-s-maslem-pro-sendvice",
+  "title": "Chléb s máslem pro sendviče",
+  "titleOriginal": "Butter and Bread for Sandwiches",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 220,
+      "unit": "g",
+      "note": "8 plátků (1 porce = 1 sendvič = 2 plátky)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "změklé na pokojovou teplotu",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 9,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Máslo změkni na pokojovou teplotu a vyšlehej do krémova.", "minutes": 5 },
+    { "text": "Přidej odpařené mléko a šlehej, dokud se směs dobře nespojí.", "minutes": 2 },
+    { "text": "Rozetři směs na plátky chleba od rohů a okrajů ke středu, aby byl povrch celý pokrytý.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (str. 206, PDF 214) uvádí na 100 porcí 2 lb másla, ½ plechovky (1 šálek) odpařeného mléka a 200 plátků chleba; 1 porce = 1 sendvič = 2 plátky. Hmotnost chleba zdroj neuvádí: odhad 28 g na plátek (220 g na 4 porce = 8 plátků), proto verified false. Mléko 7½ oz odpovídá polovině plechovky 14½ oz. Zdroj dává jako alternativu majonézu (4 lb, ½ gal) s kořením; zde je použito jen máslo s mlékem. Zdroj upozorňuje, že objem másla se při šlehání zvětší.",
+  "source": {
+    "book": "navy-1944",
+    "page": 214,
+    "titleOriginal": "BUTTER AND BREAD FOR SANDWICHES"
+  },
+  "verified": false
+}

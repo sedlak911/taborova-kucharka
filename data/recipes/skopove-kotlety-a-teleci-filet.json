@@ -1,0 +1,161 @@
+{
+  "id": "skopove-kotlety-a-teleci-filet",
+  "title": "Skopové kotlety s drobky a houbami",
+  "titleOriginal": "MUTTON CUTLETS AND FILET OF VEAL (Braciuole di castrato e filetto di vitella)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "celer",
+    "siricitany"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 50,
+      "unit": "g",
+      "note": "1 plátek, na dochucení; po dušení se vyjme"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na rozehřátí pánve a na dokončení kotlet; zdroj dává „kousek“ a „další kousek, je-li třeba“"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 60,
+      "unit": "g",
+      "note": "1 malá, do svazečku; po dušení se vyjme"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 50,
+      "unit": "g",
+      "note": "1 stonek, do svazečku; po dušení se vyjme"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "stonky, do svazečku; po dušení se vyjmou"
+    },
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 celé kotlety s kostí (asi 150 g na porci)",
+      "original": {
+        "ingredientId": "skopove-maso",
+        "amount": 600,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 100,
+      "unit": "g",
+      "note": "drůbeží srdce a žaludky, nakrájené na kousky"
+    },
+    {
+      "ingredientId": "kureci-jatra",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená na kousky; náhrada brzlíku ve stejném množství",
+      "original": {
+        "ingredientId": "brzlik",
+        "amount": 100,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 150,
+      "unit": "g",
+      "note": "čerstvé, nakrájené na kousky; zdroj „čerstvé nebo sušené“"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj „soup stock“ = masový vývar"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "note": "malá lžička, na zahuštění"
+    },
+    {
+      "ingredientId": "bile-vino",
+      "amount": 120,
+      "unit": "ml",
+      "note": "1 sklenka (zdroj „a wineglass“)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi rozehřej část másla, vlož plátek šunky a svazeček z mrkve, celeru a petrželových stonků.",
+      "minutes": 3
+    },
+    {
+      "text": "Kotlety osol a opepři, vlož je na pánev a opékej z obou stran dozlatova. Podle potřeby přidej zbytek másla.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím nakrájej žampiony na kousky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Přidej kuřecí drobky, kuřecí játra a žampiony a opékej, dokud nezhnědnou.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij vývarem a nech na mírném ohni pomalu dusit.",
+      "minutes": 25
+    },
+    {
+      "text": "Posyp moukou, promíchej a nech ji chvíli zhnědnout.",
+      "minutes": 2
+    },
+    {
+      "text": "Přilej sklenku bílého vína a nech ještě krátce provařit.",
+      "minutes": 5
+    },
+    {
+      "text": "Vyjmi šunku a svazeček zeleniny, omáčku protlač sítem a odstraň z ní přebytečný tuk.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej kotlety s omáčkou."
+    }
+  ],
+  "modernNote": "Zdroj uvádí suroviny bez množství a bez počtu porcí. Množství jsou odhad pro 4 porce: kotlety 4 × 150 g, vnitřnosti 100 g + 100 g, žampiony 150 g, vývar 300 ml, sklenka vína 120 ml, máslo 40 g, šunka 1 plátek, zelenina podle obvyklého množství. Dušení zdroj nemá časově; odhad 25 minut. Skopové (mutton) dnes v běžném prodeji nebývá, proto jehněčí kotlety s kostí; původní skopové je v original. Brzlík (telecí sweetbread) je těžko k sehnání, proto kuřecí játra ve stejném množství; brzlík je v original. Kuřecí drobky (giblets) zůstávají. Šunka, svazeček mrkve, celeru a petrželových stonků se z omáčky vyjmou a nejí se (makra orientační). Zdrojový nadpis uvádí i „filet of veal“, ale v postupu se žádný telecí filet nevyskytuje, proto ho recept ani název neobsahuje. Bílé víno se nechá jen provařit, alkohol se tím částečně odpaří.",
+  "source": {
+    "book": "italian-1919",
+    "page": 68,
+    "titleOriginal": "MUTTON CUTLETS AND FILET OF VEAL (Braciuole di castrato e filetto di vitella)"
+  },
+  "verified": false,
+  "quote": "Make them brown on both sides."
+}

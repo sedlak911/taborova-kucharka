@@ -1,0 +1,38 @@
+{
+  "id": "tunak-a-la-king",
+  "title": "Tuňák à la King",
+  "titleOriginal": "Tuna Fish à la King",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "paprika-zelena", "amount": 18, "unit": "g", "note": "nasekaná nadrobno (zdroj: Peppers, green, chopped, 1 lb)" },
+    { "ingredientId": "zampiony", "amount": 36, "unit": "g", "note": "nasekané nadrobno (zdroj: Mushrooms, chopped, 2 lb)" },
+    { "ingredientId": "maslo", "amount": 13, "unit": "g", "note": "na restování zeleniny, rozpuštěné (zdroj: Butter or other fat, melted, 8 oz)" },
+    { "ingredientId": "maslo", "amount": 17, "unit": "g", "note": "do omáčky, rozpuštěné (zdroj: Cream Sauce, medium, p. 173: 15 oz na 1¼ gal omáčky)", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g", "note": "do omáčky (zdroj: Cream Sauce, medium, p. 173: 7½ oz)" },
+    { "ingredientId": "mleko-polotucne", "amount": 190, "unit": "ml", "note": "horké, do omáčky (zdroj: Cream Sauce, medium, p. 173: 1¼ gal)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do omáčky (zdroj: Cream Sauce, medium, p. 173: 1¼ oz)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.28, "unit": "g", "note": "do omáčky (zdroj: Cream Sauce, medium, p. 173: 1⅞ tsp)" },
+    { "ingredientId": "tunak-v-konzerve", "amount": 290, "unit": "g", "note": "scezený, rozvločkovaný (zdroj: Tuna fish, flaked, 16 lb)" },
+    { "ingredientId": "pimentka-konzervovana", "amount": 34, "unit": "g", "note": "nakrájená (zdroj: Pimientos, chopped, 1 lb 14 oz)" }
+  ],
+  "steps": [
+    { "text": "Papriky a žampiony nasekej nadrobno.", "minutes": 5 },
+    { "text": "Na másle je osmahni asi 5 minut, dokud nezměknou.", "minutes": 5 },
+    { "text": "Mléko ohřej téměř do varu.", "minutes": 5 },
+    { "text": "V jiném hrnci rozpusť máslo, vmíchej mouku a rozmíchej hladkou pastu.", "minutes": 2 },
+    { "text": "Za stálého míchání přilévej horké mléko k pastě a vař, dokud omáčka nezhoustne.", "minutes": 6 },
+    { "text": "Dochuť solí a pepřem." },
+    { "text": "Přidej tuňáka, osmahnutou zeleninu a pimentku, dobře promíchej a znovu prohřej.", "minutes": 3 },
+    { "text": "Podávej horké na topinkách." }
+  ],
+  "modernNote": "Tuna Fish à la King (Navy 1944, tištěná s. 85 = PDF 93) je 100 porcí, porce cca 5 oz (cca 140 g), výsledek cca 152 g na porci. Omáčka není na stránce: zdroj odkazuje na Cream Sauce, medium (page 173, tištěná = PDF 181, Medium Cream or White Sauce for Creamed Vegetables). Na 1¼ gal omáčky jsou její suroviny úměrně z 1galonové varianty (máslo 12 oz, mouka 6 oz, mléko 1 gal, sůl 1 oz, pepř 1½ tsp) vynásobené 1,25. Stejný postup jako u Creamed Codfish. Tuk na restování zeleniny (Butter or other fat) je máslo, bez originálu. Pimento z konzervy je v katalogu jako pimentka konzervovaná. Zdroj podává na toastu, zde na topinkách.",
+  "source": { "book": "navy-1944", "page": 93, "titleOriginal": "Tuna Fish a la King" },
+  "verified": true
+}

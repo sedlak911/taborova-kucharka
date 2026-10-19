@@ -1,0 +1,167 @@
+{
+  "id": "polenta-zapekana-s-masem",
+  "title": "Zapékaná polenta s hovězím masem a bešamelem",
+  "titleOriginal": "Polenta Pie (Polenta pasticciata)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "lepek",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 200,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "hrubá kukuřičná mouka (polenta), uvaří se na hustou kaši"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Polenta",
+      "note": "600 ml na polentu, 400 ml na bílou omáčku"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "zdroj říká „solit dobře“"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 450,
+      "unit": "g",
+      "group": "Ragù",
+      "note": "nasekané nadrobno (odhad: ¼ lb na porci, tedy 4 × ¼ lb)"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 60,
+      "unit": "g",
+      "group": "Ragù",
+      "note": "plátek slaniny nebo vepřového, nadrobno"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "group": "Ragù",
+      "note": "1 menší mrkev, nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Ragù",
+      "note": "¼ cibule ve zdroji, zde 1 menší cibule"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 100,
+      "unit": "g",
+      "group": "Ragù",
+      "note": "1 větší kus celeru (2 řapíky), nadrobno"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 16,
+      "unit": "g",
+      "group": "Ragù",
+      "note": "2 lžíce (zdroj ½ lžíce na porci)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Ragù",
+      "note": "horký, nebo horká voda; zdroj „hot water or broth“"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Máslo",
+      "note": "20 g na restování ragù, 30 g do bílé omáčky, 10 g na vymazání formy"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 30,
+      "unit": "g",
+      "group": "Bílá omáčka",
+      "note": "zdroj „milk cornstarch“, množství odhad"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "group": "Vrstvy",
+      "note": "strouhaný sýr do vrstev, zdroj „grated cheese“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vymaž zapékací misu máslem."
+    },
+    {
+      "text": "Kukuřičnou mouku zvolna sypej do vroucího mléka se solí a za stálého míchání vař hustou kaši asi 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Kaši rozetři na prkénko do vrstvy asi 2,5 cm a nech vychladnout.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím nakrájej špek, mrkev, cibuli a celer nadrobno.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím opeč zeleninu se špekem na části másla, přidej nasekané hovězí maso a opékej do zhnědnutí.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Posyp moukou, zalij vývarem a duš asi 60 minut, dokud omáčka nezhoustne jako hustá šťáva.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím připrav bílou omáčku: rozpusť zbytek másla, zasyp kukuřičným škrobem, zalij mlékem a za stálého míchání povař do zhoustnutí.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Vychladlou kaši nakrájej na kosočtverce nebo čtverečky.",
+      "minutes": 5
+    },
+    {
+      "text": "Do vymazané misy skládej vrstvy: kosočtverce polenty, strouhaný parmezan, ragù a bílou omáčku; postup opakuj, až je miska plná.",
+      "minutes": 10
+    },
+    {
+      "text": "Zapékej v troubě předehřáté na 180 °C asi 30 minut, dokud vrch nezhnědne.",
+      "minutes": 30
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 37) neuvádí počet porcí ani množství polenty, mléka, parmezánu a bílé omáčky; jen ¼ lb hovězího na celé ragù (nikoli na porci), ¼ cibule, jednu malou mrkev, jeden velký kus celeru, ½ lžíce mouky, kousek másla a špek. Množství jsou dopočítána pro 4 porce: hovězí 450 g je odhad (4 × ¼ lb, tedy asi 110 g na porci; zdroj porci neudává), mouka 16 g (2 lžíce), zelenina v poměru k masu (cibule 100 g, mrkev 80 g, celer 100 g), špek 60 g (plátek na porci), vývar 300 ml. Polenta 200 g hrubé mouky na 600 ml mléka je odhad husté kaše, bílá omáčka 400 ml mléka a 30 g kukuřičného škrobu, parmezán 40 g. Máslo celkem 60 g (restování ragù, bílá omáčka, vymazání formy). Zdroj nedává teplotu trouby ani dobu pečení; doporučeno 180 °C asi 30 minut. Maso je na 4 porce o něco méně než 120–150 g na porci, protože jde o omáčku rozloženou do vrstev. Doba dušení ragù ve zdroji je „half an hour to an hour“; použita horní mez 60 minut. Časová osa: během chladnutí polenty (30 minut) se krájí zelenina a opéká maso (celkem 20 minut); dušení ragù (60 minut) už běží samostatně a bílá omáčka se připravuje souběžně s ním. Celkový čas se proto zvýšil ze 115 na 150 minut.",
+  "source": {
+    "book": "italian-1919",
+    "page": 35,
+    "titleOriginal": "POLENTA PIE (Polenta pasticciata)"
+  },
+  "verified": false,
+  "quote": "This dish seems very elaborate, but it is very delicious and a meal in itself."
+}

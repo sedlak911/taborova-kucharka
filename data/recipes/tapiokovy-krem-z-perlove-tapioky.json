@@ -1,0 +1,93 @@
+{
+  "id": "tapiokovy-krem-z-perlove-tapioky",
+  "title": "Tapiokový krém z perlové tapioky",
+  "titleOriginal": "Tapioca Cream (pearl)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle",
+    "sladke",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "tapioka",
+      "amount": 30,
+      "unit": "g",
+      "note": "perlová, namočená přes noc a slitá"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 380,
+      "unit": "ml",
+      "note": "horké"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.75,
+      "unit": "ks",
+      "note": "lehce rozšlehané; zhruba 3/4 vejce"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Perlovou tapioku zalij studenou vodou tak, aby byla zakrytá, a nech ji přes noc namočit."
+    },
+    {
+      "text": "Slij tapioku. Mléko ohřej téměř do varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Tapioku přidej k horkému mléku a vař na mírném ohni za častého míchání asi 25 minut, dokud zrnka nezprůhlední.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím v míse našlehej vejce s cukrem a solí.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Tapiokovou směs přidej k vaječné směsi za stálého míchání a vař na mírném ohni jen do zatuhnutí vajec; převaření krém srazí.",
+      "minutes": 4
+    },
+    {
+      "text": "Odstav z ohně a vmíchej vanilku.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (kotel) a vaření 1½–2 hodiny; pro 4 porce je uvedeno asi 25 minut vaření, dokud zrnka nezprůhlední – kontroluj konzistenci (podle velikosti perel může trvat až 40 minut), není to přepis zdroje. Namáčení přes noc je v timeMinutes nezahrnuto (tag pripravit-predem). Voda na namáčení se slévá a v receptu se nepočítá. Mléko je podle sloupce Amounts (2½ gal), protože sloupec Weights je prázdný. Vejce: sloupec Weights 2 lb (907 g) i Amounts 20 ks (1 quart) dávají asi 45 g na vejce (stejný poměr jako ve Vanilla Cream Pudding), takže rozpor není; použita hmotnost, 0,75 ks při katalogových 50 g (podle počtu 0,8 ks). Vanilka: 1 oz podle sloupce Ounces, Amounts 2 tbsp je v souladu. Zdroj doporučuje podávat studený, prostý nebo s ovocem či džemem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 58,
+    "titleOriginal": "TAPIOCA CREAM (Pearl tapioca)"
+  },
+  "verified": true,
+  "quote": "Soak tapioca in cold water to cover 6 to 8 hours or overnight."
+}

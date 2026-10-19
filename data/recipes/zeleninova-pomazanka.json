@@ -1,0 +1,31 @@
+{
+  "id": "zeleninova-pomazanka",
+  "title": "Zeleninová pomazánka",
+  "titleOriginal": "Vegetable Salad Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["bez-masa", "levne", "rychle"],
+  "equipment": [],
+  "allergens": ["celer", "horcice", "vejce"],
+  "ingredients": [
+    { "ingredientId": "bile-zeli", "amount": 35, "unit": "g", "note": "nakrájené na tenké proužky" },
+    { "ingredientId": "mrkev", "amount": 25, "unit": "g", "note": "nastrouhaná" },
+    { "ingredientId": "paprika-zelena", "amount": 14, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 25, "unit": "g", "note": "nakrájený nadrobno" },
+    { "ingredientId": "majoneza", "amount": 35, "unit": "g", "note": "kupovaná; množství ze zdroje" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Zelí nakrájej na tenké proužky.", "minutes": 4 },
+    { "text": "Mrkev nastrouhej.", "minutes": 2 },
+    { "text": "Papriku a celer nakrájej nadrobno.", "minutes": 4 },
+    { "text": "Zeleninu dej do mísy, přidej sůl a majonézu a dobře promíchej.", "minutes": 2 },
+    { "text": "Salát dokonale vychlaď v lednici.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj: Vegetable Salad Filling, 100 porcí, porce cca 2 oz (náplň na 1 sendvič). Majonéza je kupovaná (zdroj odkazuje na domácí Mayonnaise, s. 204, PDF 212; domácí recept nerozepisuju). Zelená paprika a celer jsou čerstvé, sůl ze zdroje. Chlazení zdroj nedefinuje, odhad 30 minut v lednici. Sůl ze zdroje (¾ oz na 100 porcí) dává 1 g na 4 porce (0,25 g na porci), dochuť podle chuti. Bilance: 4 porce mají asi 135 g surovin, zatímco 4 × 2 oz by bylo 227 g; suroviny ze zdroje (cca 3,4 kg) nepokrývají 100 × 2 oz (5,7 kg), hmotnosti i objemy ve zdroji si ale navzájem odpovídají (např. ½ gal zelí = 2 lb, 1 qt majonézy = 2 lb), takže porce 2 oz je zřejmě jen hrubý údaj a náplň je tenká vrstva (bilance 0,6×, nález check:recipe vysvětlen). Poměr surovin ze zdroje je držen; chceš-li vydatnější porci, zvyš množství zeleniny i majonézy o třetinu. Zdroj dovoluje nahradit ½ lb zelí stejnou váhou bezsemenných rozinek (1½ cupu).",
+  "source": { "book": "navy-1944", "page": 220, "titleOriginal": "VEGETABLE SALAD FILLING" },
+  "verified": true
+}

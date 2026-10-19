@@ -1,0 +1,103 @@
+{
+  "id": "spanelske-parky",
+  "title": "Španělské párky s omáčkou",
+  "titleOriginal": "Spanish Frankfurters",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice",
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "na restování cibule",
+      "scaling": "fat",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 13,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 95,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "horcice",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájený nadrobno"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "parky",
+      "amount": 640,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Na tuku restuj cibuli do průhledna.", "minutes": 8 },
+    { "text": "Přidej ocet, cukr, citronovou šťávu, kečup, worcestrovou omáčku, hořčici, celer a vodu a promíchej.", "minutes": 3 },
+    { "text": "Nech omáčku probublávat.", "minutes": 30 },
+    { "text": "Přidej párky do omáčky, pánev přikryj a nech asi 30 minut probublávat.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (2 až 3 párky s omáčkou, cca 237 g na porci). Tuk (sádlo) na restování cibule má třídu tuk (restování); moderně máslo, v originálu sádlo. Rozpor: hořčice (prepared, tj. hotová) je ve sloupci hmotnosti 3 oz (85 g), ale v objemu ¾ cupu (cca 180 g), což u hotové hořčice odpovídá spíš 6–7 oz; přednost má hmotnost, doporučuji ochutnat a případně přidat hořčici podle chuti. Citrony: zdroj uvádí 2½ cupu (10 citronů), což je u 100 porcí výrazně víc šťávy než u 10 citronů běžně dává; pro 4 porce stačí 15–30 ml šťávy (½ až 1 citron). Porce vychází cca 245 g (párky 160 g, omáčka cca 85 g), tedy blízko zdroji. Párky jsou ve zdroji bez hmotnosti na kus; 640 g je 35 lb / 100 porcí přepočteno na 4 porce (cca 11 párků).",
+  "source": {
+    "book": "navy-1944",
+    "page": 165,
+    "titleOriginal": "SPANISH FRANKFURTERS"
+  },
+  "verified": false,
+  "quote": "Cook onions in fat until clear."
+}

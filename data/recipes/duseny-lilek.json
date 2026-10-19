@@ -1,0 +1,142 @@
+{
+  "id": "duseny-lilek",
+  "title": "Dušený lilek s rajčaty",
+  "titleOriginal": "Stewed Egg-Plants (Melanzane in umido)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "lilek",
+      "amount": 700,
+      "unit": "g",
+      "group": "Lilek",
+      "note": "oloupaný, nakrájený na kostky (odhad 175 g na porci)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Lilek",
+      "note": "kousek másla, na zapaření lilku"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 400,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "3 až 4 středně velká zralá rajčata, nakrájená na kousky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "malý kousek cibule, najemno"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "půl stroužku, najemno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 10,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "malý kousek řapíkatého celeru, najemno"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Omáčka (č. 12)",
+      "note": "1 list; po uvaření vyndat"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "najemno nasekaná"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 8,
+      "unit": "ml",
+      "group": "Omáčka (č. 12)",
+      "note": "půl lžíce; lze nahradit máslem"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g",
+      "group": "Omáčka (č. 12)",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nasekej najemno cibuli, česnek, celer a petržel.",
+      "minutes": 6
+    },
+    {
+      "text": "Do hrnce dej olivový olej, sůl, pepř, bobkový list, nakrájená rajčata a nasekanou zeleninu a vše dej na mírný oheň.",
+      "minutes": 4
+    },
+    {
+      "text": "Míchej omáčku, dokud šťáva nezhoustne na řídký krém.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím oloupej lilek, nakrájej na kostky a dej do druhého hrnce s kouskem másla na mírný oheň.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Míchej lilek, dokud se šťáva z něj nevsákne do másla.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Z omáčky vyndej bobkový list a protlač ji přes síto.",
+      "minutes": 3
+    },
+    {
+      "text": "Omáčku přelij přes lilek a vař, dokud lilek nezměkne.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 101, s. 76) uvádí jen postup: lilek oloupat, nakrájet na kostky, dusit s kouskem másla, až se šťáva vsákne, pak dokončit omáčkou č. 12. Zdroj neuvádí množství ani počet porcí; odhady z běžné praxe pro 4 porce: lilek 700 g (asi 175 g na porci, oloupaný), máslo 20 g. Omáčka č. 12 je převzata jen v poloviční velikosti samostatného receptu Rajčatová omáčka (rajčata 400 g, cibule 20 g, česnek 3 g, celer 10 g, 1 bobkový list, petržel 5 g, olej 8 ml, sůl 3 g, pepř 0,3 g), protože u zeleniny stačí menší množství omáčky. Omáčka se vaří první a lilek se dusí souběžně s jejím vařením (dva hrnce). Doba 45 minut je odhad (omáčka asi 30 minut, dokončení asi 13 minut). Kniha zmiňuje jen tvar, ne zralost lilku. Recept je bez masa a bez trouby, vejde se do dvou hrnců na plotně.",
+  "source": {
+    "book": "italian-1919",
+    "page": 80,
+    "titleOriginal": "STEWED EGG-PLANTS (Melanzane in umido)"
+  },
+  "verified": false,
+  "quote": "Remove the skin, cut them into cubes and place on the fire with a piece of butter."
+}

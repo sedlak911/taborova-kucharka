@@ -1,0 +1,112 @@
+{
+  "id": "kure-s-vajecnou-omackou",
+  "title": "Kuře s vaječnou omáčkou",
+  "titleOriginal": "Chicken with Egg Sauce (Pollo in salsa d'uova)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1200,
+      "unit": "g",
+      "note": "mladé kuře, rozdělené na kousky; hmotnost s kostmi"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "kousek másla na opečení kuřete"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "note": "špetka na lehké obalení kuřete pro barvu"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "masový vývar, dovaření kuřete a základ omáčky"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek jednoho vejce"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 15,
+      "unit": "ml",
+      "note": "šťáva z půlky citronu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozděl kuře na kousky a osol je a opepři.",
+      "minutes": 5
+    },
+    {
+      "text": "Kousky kuřete v rendlíku opékej na másle, dokud nejsou z poloviny zhnědlé.",
+      "minutes": 10
+    },
+    {
+      "text": "Posyp je špetkou mouky, aby získaly barvu.",
+      "minutes": 2
+    },
+    {
+      "text": "Zalij vývarem a dovař kuře pod pokličkou na mírném ohni dosměkka.",
+      "minutes": 40
+    },
+    {
+      "text": "Kousky kuřete vyndej a polož na talíř.",
+      "minutes": 2
+    },
+    {
+      "text": "Žloutek vyšlehej se šťávou z citronu.",
+      "minutes": 2
+    },
+    {
+      "text": "Vyšlehanou směs vlij do omáčky v rendlíku a míchej. Nech několik minut prohřát na mírném ohni, ale nevař.",
+      "minutes": 4
+    },
+    {
+      "text": "Kuře zalij omáčkou a podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj neuvádí porce ani množství, jen „a piece of butter“, „a pinch of flour“, „broth“, „one yolk“ a „half a lemon“ a „young chicken“. Odhady pro 4 porce: mladé kuře 1,2 kg s kostmi (asi 300 g na porci), máslo 30 g, sůl 5 g a pepř 1 g podle chuti, mouka 10 g (zdroj „pinch“ na lehké obalení), vývar 300 ml (masový, zdroj píše „broth“, v katalogu hovězí vývar), šťáva z půlky citronu 15 ml, žloutek jednoho vejce. Doba dušení zdroj neuvádí; odhad 40 minut do měkka. Omáčka vzniká z vývaru a šťávy z kuřete v rendlíku a zahušťuje se jen žloutkem s citronem. Vejce: stačí žloutek, celé vejce není potřeba. Tuk je máslo, jak zdroj předepisuje. Masa se nic nevyjímá, kuře se podává celé s omáčkou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 41,
+    "titleOriginal": "CHICKEN WITH EGG SAUCE (Pollo in salsa d'uova)"
+  },
+  "verified": false,
+  "quote": "Beat the yolk of one egg with the piece of half a lemon and pour it on the sauce of the chicken, allowing it to simmer for some minutes."
+}

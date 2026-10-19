@@ -1,0 +1,30 @@
+{
+  "id": "spagety-s-maslem-a-syrem",
+  "title": "Špagety s máslem a sýrem",
+  "titleOriginal": "Spaghetti with Butter and Cheese",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "testoviny", "amount": 360, "unit": "g", "note": "špagety nebo tlustší makarony; množství je odhad (zdroj: tolik, aby naplnily půl mísy)" },
+    { "ingredientId": "voda", "amount": 3500, "unit": "ml", "note": "na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 25, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "ve zdroji „velké množství“; odhad" },
+    { "ingredientId": "parmezan", "amount": 60, "unit": "g", "note": "strouhaný; ve zdroji „strouhaný sýr“ bez druhu, odhad; další sýr podej na stůl" }
+  ],
+  "steps": [
+    { "text": "Přiveď k varu osolenou vodu. Těstoviny do ní dávej, až když se vaří.", "minutes": 10 },
+    { "text": "Vař 12–15 minut, dokud nejsou úplně měkké. Často promíchej, aby se nepřilepily ke dnu.", "minutes": 15 },
+    { "text": "Sundej je z ohně, dokud drží tvar, aby se nerozvařily. Sceď je na cedníku." },
+    { "text": "Přesuň těstoviny do zapékací mísy a smíchej je s máslem a strouhaným sýrem." },
+    { "text": "Další sýr podej zvlášť na stůl, ať si každý přidá, kolik chce." }
+  ],
+  "modernNote": "Gentile 1919 neuvádí žádná množství ani počet porcí; vše je odhad z běžné praxe: 90 g suchých těstovin na porci, 50 g másla, 60 g parmezánu (původně jen „strouhaný sýr“) a 1 l vody na 100 g těstovin s cca 7 g soli na litr (vessel). Recept proto není ověřený. Doporučení: těstoviny můžeš před smícháním zalít lžící vody z vaření, aby omáčka lépe držela. Originál doporučuje silné makarony druhu „Mezzani“ a malé kousky (6–8 cm) dle chuti; Italové je nechávají vcelku.",
+  "source": { "book": "italian-1919", "page": 21, "code": "č. 15 (s. 17)", "titleOriginal": "SPAGHETTI OR MACARONI WITH BUTTER AND CHEESE" },
+  "verified": false,
+  "quote": "This is the simplest form in which the spaghetti may be served."
+}

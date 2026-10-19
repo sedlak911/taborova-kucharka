@@ -1,0 +1,30 @@
+{
+  "id": "celer-na-masle",
+  "title": "Celer na másle",
+  "titleOriginal": "Buttered Celery",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    { "ingredientId": "celer-rapikaty", "amount": 550, "unit": "g", "note": "jedlá hmotnost řapíků bez listů; zdroj 34 lb celeru A.P. = 15 422 g, na 4 porce 617 g nákupní × jedlá část 0,89 (katalog) = 549 g" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření celeru, slije se; zdroj „to cover“, domácí hodnota 1 l na 550 g", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se; 2 g na 1 l", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "note": "rozpuštěné; zdroj 1 lb = 18,1 g na 4 porce", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Odstraň listy, odřízni kořínky, řapíky odděl, důkladně omyj a vnější řapíky očisti měkkým kartáčkem.", "minutes": 8 },
+    { "text": "Nakrájej řapíky na kousky.", "minutes": 5 },
+    { "text": "V hrnci osol vodu a přiveď k varu.", "minutes": 8 },
+    { "text": "Přidej celer a vař asi 20 minut, dokud nezměkne.", "minutes": 20 },
+    { "text": "Dobře sceď.", "minutes": 2 },
+    { "text": "Těsně před podáváním přidej rozpuštěné máslo a promíchej." }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 4 až 5 oz, celer A.P. 34 lb (nákupní hmotnost), sůl 2 oz, máslo 1 lb (rozpuštěné), voda „to cover“. Do řádku je zapsána jedlá část celeru (nákupní 617 g × 0,89 z katalogu = 549 g, 550 g na 4 porce). Vařicí voda a sůl jsou domácí hodnoty (1 l na 550 g, sůl 2 g/l) a obě se slévají. Zdroj ve 4. poznámce uvádí, že množství másla je minimum; 18 g na 4 porce odpovídá zdroji. Listy zdroj doporučuje použít do polévek nebo salátů, srdce celeru jako pikantní přílohu. Recept Buttered Carrots ze stejné stránky není součástí tohoto receptu.",
+  "source": { "book": "navy-1944", "page": 270, "titleOriginal": "BUTTERED CELERY" },
+  "verified": true
+}

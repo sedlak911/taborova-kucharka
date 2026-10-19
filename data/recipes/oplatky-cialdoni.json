@@ -1,0 +1,68 @@
+{
+  "id": "oplatky-cialdoni",
+  "title": "Oplatky (cialdoni)",
+  "titleOriginal": "WAFER BISCUITS (Cialdoni)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 85,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "3 oz"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "1 oz, zaokrouhleno nahoru"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 14,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "½ oz čistého vepřového sádla (lard virgin)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 105,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "7 polévkových lžic, studená"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci rozmíchej mouku a hnědý cukr ve studené vodě.", "minutes": 3 },
+    { "text": "Přidej sádlo a těsto dobře promíchej do hladka.", "minutes": 2 },
+    { "text": "Nahřej oplatkovač na plotně, dokud je dobře horký." },
+    { "text": "Na horký oplatkovač nalej půl polévkové lžíce těsta, zavři a pevně přitiskni.", "minutes": 1 },
+    { "text": "Oplatku opékej z obou stran, dokud nezezlátne.", "minutes": 2 },
+    { "text": "Oplatku ostrým nožem ořež kolem dokola, odděl ji od plechu a za horka stoč přes tyčinku nebo ubrousek.", "minutes": 1 },
+    { "text": "Opakuj s dalším těstem, dokud těsto nedojde; plech občas potři trochou tuku, a pokud oplatky nejsou dost pevné, přidej do těsta trochu mouky.", "minutes": 25 },
+    { "text": "Podávej se šlehačkou." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 194, tištěná s. 134) uvádí pro jedno těsto 3 oz hladké mouky, 1 oz hnědého cukru, ½ oz čistého vepřového sádla a 7 polévkových lžic studené vody; porce neuvádí. Množství přepočteno na g a ml bez škálování, protože podle odhadu 3 oz mouky dají asi 16 tenkých oplatek, tedy asi čtyři porce po čtyřech kusech (odhad, ověř při pečení). Mouka 85 g, cukr 28 g zaokrouhleno na 30 g, sádlo 14 g, voda 105 ml. Šlehačka je ve zdroji doporučené podání, není v surovinách. Zdroj peče na oplatkovači nad ohněm; moderně stačí plochý elektrický oplatkovač nebo vaflovač (v equipment zůstává plotna). Teplotu nastav podle barvy oplatky. Čas 40 minut je odhad z kroků (těsto asi 5 minut, každá oplatka asi 4 minuty, celé těsto asi 25 minut). Oplatky ze zdroje se musí stáčet rychle, dokud jsou horké, jinak praskají.",
+  "source": {
+    "book": "italian-1919",
+    "page": 138,
+    "titleOriginal": "WAFER BISCUITS (Cialdoni)"
+  },
+  "verified": false,
+  "quote": "These wafer-biscuits are generally served with whipped cream."
+}

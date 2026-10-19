@@ -1,0 +1,151 @@
+{
+  "id": "plnene-kure-s-kastany",
+  "title": "Plněné kuře s kaštany a klobásami",
+  "titleOriginal": "STUFFED CHICKEN (Pollo ripieno)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1000,
+      "unit": "g",
+      "group": "Kuře",
+      "note": "střední kuře, celé, s kostmi; zdroj počítá s jedním středním kuřetem pro celý recept"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "group": "Kuře",
+      "note": "na potření kuřete před pečením (doplněno, viz modernNote)"
+    },
+    {
+      "ingredientId": "klobasa",
+      "amount": 150,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "2 klobásy, asi 75 g kus; zdroj: 2 klobásy"
+    },
+    {
+      "ingredientId": "kureci-jatra",
+      "amount": 30,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "kuřecí játra z téhož kuřete (odhad)"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 40,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "srdíčka a žaludky z téhož kuřete (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Plnka",
+      "note": "trochu vývaru na zalití a na kaši"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 20,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "bez kůrky, namočit na kaši"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 50,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "nakrájené na kousky"
+    },
+    {
+      "ingredientId": "kastany",
+      "amount": 85,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "8–10 pečených kaštanů, vyloupaných (asi 10 kusů)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Plnka"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "špetka, zdroj: „a taste of nutmeg“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "i na potření kuřete; klobásy už jsou kořeněné"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Plnka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Klobásy, játra a drobky dej do pánve, zalij trochou vývaru a lehce dochuť solí a pepřem.",
+      "minutes": 15
+    },
+    {
+      "text": "Klobásy, játra a drobky vyndej. Do zbylé šťávy vhoď chléb a zahusť ho trochou vývaru na hustou kaši.",
+      "minutes": 3
+    },
+    {
+      "text": "Houby nakrájej na kousky a krátce je osmahni na zbylé šťávě.",
+      "minutes": 5
+    },
+    {
+      "text": "Z klobás odstraň střívko a společně s játry a drobky je nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Maso s kaštany, vejcem, kaší a houbami umel na jemnou plnku a dochuť muškátem.",
+      "minutes": 5
+    },
+    {
+      "text": "Kuře potři olejem a osol, naplň plnkou a otvory zašij nebo zavaž provázkem.",
+      "minutes": 5
+    },
+    {
+      "text": "Kuře vlož do trouby předehřáté na 190 °C a peč asi 80 minut, dokud není měkké a zlatavé.",
+      "minutes": 80
+    },
+    {
+      "text": "Nech kuře vychladnout a nakrájej na plátky; zdroj ho chválí spíš studené."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 139) udává jen suroviny pro jedno střední kuře a postup; porce ani množství kaštanů a klobás nejsou v textu přesně. Odhady pro 4 porce: kuře 1 000 g s kostmi (spodní mez rozsahu pro jedno střední kuře na 4 porce; syrové maso celkem asi 225 g na porci), 2 klobásy = 150 g, kuřecí játra a drobky 30 g + 40 g, 8–10 kaštanů = 85 g (USDA: 10 kusů = 84 g), houby 50 g (zdroj houby zmiňuje, množství ne), 1 vejce, 20 g bílého chleba na kaši, 120 ml hovězího vývaru (zdroj „a little broth“), sůl 4 g a černý pepř 0,5 g (klobásy už jsou kořeněné), muškátový oříšek špetka 0,5 g. Doplněno z č. 138 (stejný autor, stejný způsob): potření kuřete olejem a solí před pečením (15 ml olivového oleje); zdroj u č. 139 neuvádí tuk. Doplněno ze zdroje: krátké osmahnutí hub, které zdroj v postupu nemá; doba pečení 80 minut při 190 °C je odhad pro kuře 1 000 g se splněnou plnkou. Zdroj uvádí, že kuře je chutnější studené než teplé. Klobásy v zdroji jsou syrové (salsicce) a kůže se odstraňuje; v katalogu je jen uzená klobása jako nejbližší položka (výživové hodnoty). Kaštany: použij hotové pečené vyloupané kaštany z obchodu (vakuované). Zdroj uvádí i variantu s krůtou (dvojnásobná dávka), zde nepřebíráno. Čas 120 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 104,
+    "titleOriginal": "STUFFED CHICKEN (Pollo ripieno)"
+  },
+  "verified": false,
+  "quote": "It is more tasty cold than hot, and it can also be cut better."
+}

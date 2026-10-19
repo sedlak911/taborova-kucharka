@@ -1,0 +1,117 @@
+{
+  "id": "kure-s-rajcaty-po-selsku",
+  "title": "Kuře s rajčaty a bramborami po selsku",
+  "titleOriginal": "Chicken with Tomatoes (Pollo alla contadina)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1200,
+      "unit": "g",
+      "note": "mladé kuře, rozporcované na kousky; odhad 1,2 kg (asi 300 g na porci)"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 3,
+      "unit": "g",
+      "note": "asi 2 větvičky, vpichované do kůže"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 stroužek, nakrájený na 5–6 kousků"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 40,
+      "unit": "g",
+      "note": "nasekané, na opečení kuřete"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti, zvenku i zevnitř"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti, zvenku i zevnitř"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 500,
+      "unit": "g",
+      "note": "čerstvá, zbavená semínek, nakrájená na kousky"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "nebo voda, podle potřeby"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "nakrájené na kousky, opečené na oleji"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 40,
+      "unit": "ml",
+      "note": "na opečení brambor; zdroj uvádí olej, tuk nebo máslo"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře rozporcuj na kousky a do kůže vpichuj větvičky rozmarýnu a kousky česneku.",
+      "minutes": 8
+    },
+    {
+      "text": "Kousky kuřete osol a opepři zvenku i zevnitř.",
+      "minutes": 2
+    },
+    {
+      "text": "Kuře opékej na nasekaném sádle ze všech stran dozlatova, asi 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej nakrájená rajčata a podlij vývarem nebo vodou.",
+      "minutes": 3
+    },
+    {
+      "text": "Pod pokličkou duš kuře do měkka, asi 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Mezitím brambory nakrájej na kousky a na rozehřátém oleji je opékej dozlatova, asi 15 minut.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Opečené brambory vlož do omáčky, na 5 minut je v ní nech prohřát a podávej všechno dohromady.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj nemá žádná množství ani počet porcí; všechny hodnoty jsou odhady pro 4 porce z běžné praxe: kuře 1,2 kg (asi 300 g na porci), rozmarýn 3 g (2 větvičky), 1 stroužek česneku (5 g), sádlo 40 g, sůl 6 g a pepř 1 g podle chuti, rajčata 500 g čerstvých (zdroj jen „tomatoes cut in pieces“), vývar 250 ml nebo voda, brambory 600 g (150 g na porci), olej 40 ml na opečení brambor (zdroj: olej, tuk nebo máslo). Zdroj nezmiňuje dobu dušení; odhad 45 minut pod pokličkou, dokud kuře nezměkne. Časy opékání kuřete a brambor jsou též odhad. Brambory se opékají souběžně s dušením kuřete (krok „Mezitím“ následuje hned za dušením). Porce vychází na asi 740 kcal (kuře s kůží, sádlo a olej na bramborách); pro lehčí variantu dej sádla jen 20 g. Vývar je masový (zdroj „broth“), lze nahradit vodou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 39,
+    "titleOriginal": "CHICKEN WITH TOMATOES (Pollo alla contadina)"
+  },
+  "verified": false,
+  "quote": "Take a young chicken and make some little holes in the skin in which you will put some sprigs of rosemary and a clove of garlic."
+}

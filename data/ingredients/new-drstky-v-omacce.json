@@ -1,0 +1,29 @@
+[
+  {
+    "id": "drstky-predvarene",
+    "name": "Dršťky předvařené",
+    "aliases": [
+      "dršťky",
+      "dršťky hovězí",
+      "hovězí dršťky",
+      "tripe",
+      "beef tripe"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 94,
+      "protein": 11.71,
+      "carbs": 1.99,
+      "fat": 4.05,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174769 (Beef, variety meats and by-products, tripe, cooked, simmered)",
+      "refuse": "předvařené dršťky bez odpadu → 1 (USDA fdc:174769 refusePct 0)"
+    }
+  }
+]

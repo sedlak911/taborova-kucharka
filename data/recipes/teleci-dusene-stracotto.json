@@ -1,0 +1,121 @@
+{
+  "id": "teleci-dusene-stracotto",
+  "title": "Dušené telecí stracotto",
+  "titleOriginal": "Stewed Veal (Stracotto di vitella)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-s-kosti",
+      "amount": 750,
+      "unit": "g",
+      "note": "s kostí; zdroj „one pound or more, bone included“ (1 lb = 454 g), pro 4 porce ~1,65 lb"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek másla; zdroj „a piece of butter or some olive oil (or the two together)“"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "nebo místo másla, případně obojí"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "asi půl střední cibule, nakrájená na malé kousky"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "note": "1 menší mrkev, nakrájená na malé kousky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 80,
+      "unit": "g",
+      "note": "2 stonky, nakrájené na malé kousky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "note": "špetka, na zahuštění a barvu omáčky"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj „some tomato paste“; odhad asi 2 lžíce"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "horká, přilévaná postupně dle potřeby"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli, mrkev a celer nakrájej na malé kousky.",
+      "minutes": 8
+    },
+    {
+      "text": "Do hrnce dej máslo nebo olivový olej, maso s kostí a zeleninu. Osol a opepři.",
+      "minutes": 3
+    },
+    {
+      "text": "Na mírném plameni maso za častého obracení opékej, dokud nezhnědne.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej špetku hladké mouky a rajčatový protlak. Mouka drží omáčku pohromadě a dá jí barvu, ale nesmí zčernat.",
+      "minutes": 2
+    },
+    {
+      "text": "Postupně přilévej vodu a pomalu duš, dokud maso nezměkne a omáčka nezhoustne. Nevytahuj z masa úplně všechnu šťávu.",
+      "minutes": 90
+    },
+    {
+      "text": "Podávej s přílohou ze zeleniny."
+    }
+  ],
+  "modernNote": "Zdroj uvádí jen „one pound of veal or more, bone included“ bez množství pro porce; zvoleno 750 g telecího masa s kostí (asi 530 g masa bez kosti, asi 130 g na porci), tedy víc než 1 lb, jak zdroj říká „or more“. Odhady z běžné praxe: máslo 20 g nebo olivový olej 1 lžíce (zdroj dává na výběr), cibule 100 g, mrkev 80 g, celer 80 g, sůl 5 g a pepř 1 g podle chuti, mouka 5 g (zdroj „pinch“), protlak 30 g (zdroj „some tomato paste“), voda 400 ml postupně. Doba dušení zdroj neuvádí; 90 minut je odhad pro hovězí a telecí maso s kostí na mírném plameni. Sušené houby, které zdroj doporučuje pro chuť, jsou vynechané (lze přidat 10–15 g namočených a krátce povařených). Omáčka z tohoto receptu se podle zdroje hodí i na špagety nebo risoto; vývar z dušení lze použít na vaření makaronů nebo rýže. Zdroj dodává, že tuk a šťávu z masa nemá člověk vytáhnout úplně, aby omáčka nebyla příliš hustá na úkor hlavního jídla.",
+  "source": {
+    "book": "italian-1919",
+    "page": 36,
+    "titleOriginal": "STEWED VEAL (Stracotto di vitella)"
+  },
+  "verified": false,
+  "quote": "The stock from this dish may very well be used to season macaroni or boiled rice."
+}

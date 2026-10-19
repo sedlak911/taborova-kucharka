@@ -1,0 +1,78 @@
+{
+  "id": "pecena-jablka-s-maslem",
+  "title": "Pečená jablka se skořicovým sirupem",
+  "titleOriginal": "Baked Apples",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 4,
+      "unit": "ks",
+      "note": "asi 1 střední jablko na porci; zdroj „size 100“ (100 jablek)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 125,
+      "unit": "g",
+      "note": "do sirupu; zdroj 7 lb (3,2 kg), viz modernNote"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.78,
+      "unit": "g",
+      "note": "do sirupu"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.34,
+      "unit": "g",
+      "note": "do sirupu"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "note": "do sirupu; případně přidat během pečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 175 °C."
+    },
+    {
+      "text": "Jablka omyj, vykrájej jádřince a polož je do zapékací misky.",
+      "minutes": 5
+    },
+    {
+      "text": "V míse rozmíchej cukr, sůl a skořici do vody, dokud se cukr nerozpustí. Sirupem přelij jablka.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč asi 60 minut, dokud jablka nezměknou. Několikrát je během pečení polévej sirupem z misky a v případě potřeby přidej vodu. Pokud začnou zhnědnout dřív, než jsou měkká, přikryj je.",
+      "minutes": 60
+    },
+    {
+      "text": "Podávej teplá, politá sirupem z misky."
+    }
+  ],
+  "modernNote": "Zdroj: porce 1 jablko, 100 porcí (size 100 = 100 jablek), přepočteno na 4 jablka. Zdroj nepoužívá máslo (název Pečená jablka s máslem zůstává jen v id podle shortlistu). Odchylky: (1) Cukr: sloupec Pounds uvádí 7 lb, ale ¾ gal cukru odpovídá podle téhož zdroje (Applesauce na s. 76: 6 lb na ¾ gal) asi 6 lb. Přednost má hmotnost 7 lb, tj. 125 g na 4 porce; rozpor zhruba 15 %, proto verified false. (2) Doba pečení: zdroj 1 až 1½ hodiny platí pro 100 porcí v plechu; pro 4 jablka uvedeno 60 minut, ověř podle měkkosti. (3) Hmotnost jablka 150 g je katalogová hodnota (zdroj neuvádí hmotnost). (4) Zdroj doporučuje podávat s Hard Sauce (str. 57); recept ji nepřebírá, lze podávat s vanilkovou nebo citronovou omáčkou. Varianta Stuffed Baked Apples (datle a ořechy) není součástí. (5) Sůl: 0,78 g na 4 jablka (0,20 g na porci) odpovídá zdroji (2 tsp na 100 porcí); check:recipe hlásí sůl mimo 0,5–2,5 g na porci, ale u sladkého sirupu ponechávám jako chuťové minimum, slanost lze dochutit podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 77,
+    "titleOriginal": "BAKED APPLES"
+  },
+  "verified": false,
+  "quote": "Wash and core apples."
+}

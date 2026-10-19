@@ -1,0 +1,41 @@
+{
+  "id": "bramborovy-salat",
+  "title": "Bramborový salát",
+  "titleOriginal": "Potato Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce", "celer", "horcice"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 330, "unit": "g", "note": "vařené, nakrájené na kostky" },
+    { "ingredientId": "voda", "amount": 500, "unit": "ml", "note": "na vaření brambor; slije se (domácí hodnota ~1 l na 1 kg brambor, zaokrouhleno na 0,5 l)", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "cibule", "amount": 20, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "repkovy-olej", "amount": 15, "unit": "g", "note": "rostlinný, do zálivky" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "ocet", "amount": 8, "unit": "ml" },
+    { "ingredientId": "celer-rapikaty", "amount": 45, "unit": "g", "note": "nakrájený" },
+    { "ingredientId": "vejce", "amount": 0.7, "unit": "ks", "note": "natvrdo uvařená, nasekaná (≈ 0,7 vejce)" },
+    { "ingredientId": "relish-sladky-okurkovy", "amount": 20, "unit": "g" },
+    { "ingredientId": "pimentka-konzervovana", "amount": 10, "unit": "g", "note": "nakrájená, scezená" },
+    { "ingredientId": "majoneza", "amount": 75, "unit": "g" },
+    { "ingredientId": "petrzel-nat", "amount": 2, "unit": "g", "note": "nasekaná, na ozdobu" },
+    { "ingredientId": "sladka-paprika", "amount": 0.92, "unit": "g", "note": "na ozdobu" }
+  ],
+  "steps": [
+    { "text": "Brambory zalij vodou, přiveď k varu, osol a přikryj. Vař, dokud nezměknou.", "minutes": 20 },
+    { "text": "Brambory slij a nech mírně vychladnout.", "minutes": 2 },
+    { "text": "Cibuli, rostlinný olej, sůl, pepř a ocet smíchej a přidej k bramborám. Přikryj a chlaď 1 hodinu.", "minutes": 60 },
+    { "text": "Smíchej celer, vejce, relish, pimentku a majonézu a přidej k bramborám.", "minutes": 3 },
+    { "text": "Opatrně promíchej, aby se brambory rovnoměrně obalily v majonézové směsi.", "minutes": 2 },
+    { "text": "Ozdob petrželovou natí a paprikou. Přikryj a chlaď až do podávání." }
+  ],
+  "modernNote": "Majonéza vyžaduje chlad, proto tento salát je na výlet bez chladničky nevhodný. Pro výlet je vhodná octová varianta M 040 02 (Potato Salad with Vinegar Dressing, AFRS str. 1167), která majonézu nepoužívá. Zdrojová porce je 2/3 hrnku salátu.",
+  "source": { "book": "afrs-2003", "page": 1165, "code": "M 040 00", "titleOriginal": "POTATO SALAD" },
+  "verified": true
+}

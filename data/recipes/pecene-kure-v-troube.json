@@ -1,0 +1,29 @@
+{
+  "id": "pecene-kure-v-troube",
+  "title": "Pečené kuře (osm dílů)",
+  "titleOriginal": "Baked Chicken (8 pc)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne"],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "kureci-prsa", "amount": 910, "unit": "g", "note": "bez kůže a kostí; zdroj uvádí 82 lb kuřete s kostmi, viz poznámka" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "smíchat s pepřem" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 2, "unit": "g", "note": "smíchat se solí" },
+    { "ingredientId": "repkovy-olej", "amount": 3, "unit": "g", "note": "na plechy a na kuře; místo nepřilnavého spreje (AFRS cooking spray)", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Kuře dobře opláchni pod studenou tekoucí vodou, osuš a odstraň přebytečný tuk.", "minutes": 4 },
+    { "text": "Plechy lehce potři olejem a polož na ně kuře masem nahoru.", "minutes": 2 },
+    { "text": "V misce smíchej sůl s pepřem.", "minutes": 2 },
+    { "text": "Na každý plech posyp kuře rovnoměrně směsí soli a pepře a kuře lehce potři olejem.", "minutes": 2 },
+    { "text": "Peč 40 minut při 165 °C na horkovzdušný chod s vysokým výkonem ventilátoru.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj uvádí 82 lb kuřete s kostmi (osm dílů, kůže odstraněna). Součin 100 porcí × 8 oz dává 50 lb jedlého masa, tedy 907 g na 4 porce, zaokrouhleno na 910 g bez kostí. Místo směsi dílů je použité kuřecí prsa, která odpovídá zdroji (260 kcal na porci; vypočteno cca 280 kcal). Sprej na plechy nahrazen olejem. Doporučení: pro maso s kostí vezmi asi 1,5 kg kuřecích čtvrtek nebo stehen (zdroj 82 lb na 100 porcí), kůži odstraň. Teplota 325 °F ze zdroje je převedena na 165 °C, pro horkovzdušnou troubu. Doporučení: vnitřní teplota masa min. 74 °C (165 °F ze zdroje), ověř teploměrem. Čas 50 minut = příprava asi 10 minut a pečení 40 minut.",
+  "source": { "book": "afrs-2003", "page": 952, "code": "L 143 00", "titleOriginal": "BAKED CHICKEN (8 PC)" },
+  "verified": false
+}

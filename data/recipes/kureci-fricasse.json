@@ -1,0 +1,144 @@
+{
+  "id": "kureci-fricasse",
+  "title": "Kuřecí fricassé",
+  "titleOriginal": "Chicken Fricassee",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 295,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 940,
+      "unit": "g",
+      "note": "nákupní hmotnost vykuchaných kuřat (full drawn 52 lb); zdroj uvádí alternativně 70 lb dressed (14 kuřat po 5 lb)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 80,
+      "unit": "ml",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 75,
+        "unit": "g"
+      },
+      "note": "na opečení kuřete; zdroj Chicken fat or other fat 3 lb, moderně řepkový olej 75 g ÷ 0,92 g/ml"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "note": "na obalení kuřete; zdroj Flour 3 lb"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "note": "do obalovací směsi; zdroj Salt 6 oz (¾ cup)"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "note": "do obalovací směsi; zdroj Pepper 1 oz (3½ tbsp)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 610,
+      "unit": "ml",
+      "note": "voda na vaření kuřete (Water, to cover); slitá a použitá jako vývar do omáčky, zdroj 4 gal (4½ gal − ½ gal mléka)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "note": "do omáčky, rozmíchat s vodou; zdroj Flour (for gravy) 2 lb"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "studená, do omáčky; zdroj Water, cold (for gravy) 1 quart"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 75,
+      "unit": "ml",
+      "note": "do omáčky; zdroj Milk, liquid ½ gal"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do omáčky; zdroj Salt (for gravy) 2 oz (¼ cup)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře naporcuj.",
+      "minutes": 10
+    },
+    {
+      "text": "Smíchej mouku se solí a pepřem a obal v ní kousky kuřete.",
+      "minutes": 5
+    },
+    {
+      "text": "Opékej kuře na tuku dozlatova ze všech stran.",
+      "minutes": 10
+    },
+    {
+      "text": "Přelož kuře do hrnce, zalij vodou a přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Duš asi 3½ až 4 hodiny, dokud maso nezměkne.",
+      "minutes": 240
+    },
+    {
+      "text": "Mezitím rozmíchej mouku s vodou na hladkou pastu.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Slij vývar z kuřete a smíchej ho s mlékem.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej pastu do vývaru a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech omáčku 15 minut probublávat a dochuť ji solí.",
+      "minutes": 15
+    },
+    {
+      "text": "Zalij kuře omáčkou a znovu ohřej.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej na vařené rýži nebo na bramborové kaši."
+    }
+  ],
+  "modernNote": "Zdroj Navy 1944: Chicken Fricassee, tištěná strana 165 (PDF 173). Výtěžek 100 porcí, porce zdroje cca ½ až ¾ lb (nákupní hmotnost). Pro 4 porce 940 g vykuchaného kuřete (52 lb full drawn) = 235 g na porci, v rozsahu zdroje; alternativa 70 lb dressed je stejná porce s vnitřnostmi, hlavou a nohama, které katalogová jedlá část 0,68 nepočítá. Tuk ze zdroje (3 lb, kuřecí tuk nebo jiný) je na opečení: sádlo 75 g nahrazeno řepkovým olejem 80 ml (třída fat). Zdroj nemá samostatný vývar: „stock“ je voda, ve které se kuře vaří (to cover), a po slití zůstává v omáčce (4 gal = 4½ gal celkem − ½ gal mléka). Proto je to voda třídy linear, ne náhrada vývaru. Mouka ze zdroje je rozdělena na dva řádky (3 lb na obalení, 2 lb do omáčky) a sůl stejně (6 oz na obalení, 2 oz do omáčky). Sůl 15 g celkem je 3,75 g na porci, nad doporučením; odpovídá zdroji, doporučuji ubrat na polovinu. Dušení 3½ až 4 hodiny je horní mez zdroje pro 100 porcí; u 4 porcí bude maso měkké dřív, zkoušej vidličkou. Časy kroků jsou odhad podle postupu zdroje. Chybělo: množství vody na vaření (uvedeno jen „to cover“), proto vychází z bilance 4 gal vývaru. Nálezy check:recipe: sůl 3,75 g na porci je zdrojová hodnota (seasoning, 8 oz celkem), ponechána; dvě položky voda jsou záměrné – 610 ml je vývar z vaření kuřete (zůstává v omáčce, proto ne vessel), 40 ml je studená voda do pasty."
+  ,
+  "source": {
+    "book": "navy-1944",
+    "page": 173,
+    "titleOriginal": "CHICKEN FRICASSEE"
+  },
+  "verified": true,
+  "quote": "Let simmer about 3½ to 4 hours or until tender."
+}

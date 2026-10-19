@@ -1,0 +1,63 @@
+{
+  "id": "zalivka-z-odpareneho-mleka",
+  "title": "Smetanová zálivka",
+  "titleOriginal": "Sour Cream Dressing",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 65,
+      "unit": "g",
+      "note": "odpařené mléko (4 plechovky po 14½ oz)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "4 tsp na 100 porcí, 1 tsp ≈ 5 g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 40,
+      "unit": "ml",
+      "note": "ocet 50 grain (zhruba 5 %)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej odpařené mléko, cukr a sůl.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého míchání metlou postupně přidávej ocet, dokud se dobře nespojí a cukr se nerozpustí.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj nepoužívá smetanu: odpařené mléko zkyselené octem je náhrada kysané smetany. Recept jsem proto nemodernizoval a zachoval zdrojové suroviny (odpařené mléko je v katalogu). Moderní alternativa: zakysaná smetana přibližně 105 g na 4 porce bez octu (cukr a sůl stejné). Výtěžek ze zdroje je ½ gal (asi 1,9 l) na 100 porcí, ale součet surovin je asi 2,6 l, takže porce vychází přibližně 1,5× vyšší než 19 ml; porce ve zdroji není uvedena, originalYield 100 je ze hlavičky. Zdroj doporučuje podávat studenou na zelí nebo zelené saláty. Volitelně přidat ¼ tsp paprika nebo sušenou hořčici, nebo ⅛ tsp pepř (nezahrnuto). Ocet 50 grain je zhruba 5 %; dnešní ocet 8 % použij o něco méně. Kalorie na porci (32 kcal) a sůl (0,25 g na porci) jsou pod doporučeným rozsahem validátoru, ale odpovídají zdroji: ½ gal na 100 porcí je řidká zálivka po lžíci, sůl 4 tsp na 100 porcí dává 0,2 g na porci; nejde o chybu převodu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 212,
+    "titleOriginal": "SOUR CREAM DRESSING"
+  },
+  "verified": true
+}

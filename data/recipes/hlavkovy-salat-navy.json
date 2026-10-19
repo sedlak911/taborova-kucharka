@@ -1,0 +1,101 @@
+{
+  "id": "hlavkovy-salat-navy",
+  "title": "Hlávkový salát",
+  "titleOriginal": "Lettuce Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 270,
+      "unit": "g",
+      "note": "nahrubo nakrájený"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 35,
+      "unit": "g",
+      "note": "do zálivky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 16,
+      "unit": "ml",
+      "note": "do zálivky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 1,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 2,
+      "unit": "g",
+      "note": "šťáva z cibule, do zálivky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Salát nahrubo nakrájej.",
+      "minutes": 5
+    },
+    {
+      "text": "V míse smíchej sůl, cukr, hořčici a papriku.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej olej, ocet a šťávu z cibule a důkladně prošlehej.",
+      "minutes": 3
+    },
+    {
+      "text": "Zálivku přelij do uzavíratelné nádoby a před podáváním ji silně protřepej.",
+      "minutes": 2
+    },
+    {
+      "text": "Salát a zálivku lehce promíchej, aby se salát jen obalil.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zálivka je French Dressing ze zdroje (PDF 211, tištěná str. 203). Zdroj dává 1½ qt zálivky na 100 porcí salátu, recept zálivky je na ½ galonu, proto jsou všechny její suroviny přepočteny násobkem 0,75. Hlávkový salát: zdrojových 15 lb je nakrájený salát, bereme ho jako hmotnost jedlé části. Cibulová šťáva (onion juice) v katalogu chybí: nahrazena cibulí, 2 g na 4 porce je odhad hmotnosti (verified false). Ocet je ve zdroji „vinegar“, použit kvasný lihový ocet. Porce ~80 g odpovídá zdrojovým ¾ cupu (~85 g). Sůl 0,25 g na porci odpovídá zdroji (0,75 oz na 100 porcí), ponecháno; doporučení: dochutit podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 199,
+    "titleOriginal": "Lettuce Salad"
+  },
+  "verified": false,
+  "quote": "Mix together lettuce and dressing. Toss lightly to mix."
+}

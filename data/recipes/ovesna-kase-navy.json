@@ -1,0 +1,56 @@
+{
+  "id": "ovesna-kase-navy",
+  "title": "Ovesná kaše z valcovaných vloček",
+  "titleOriginal": "Rolled Oats (Regular)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ovesne-vlocky",
+      "amount": 110,
+      "unit": "g",
+      "note": "valcované"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 760,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "do vody na vaření"
+    }
+  ],
+  "steps": [
+    { "text": "Do hrnce nalij vodu, přidej sůl a zahřej do varu.", "minutes": 6 },
+    { "text": "Vločky vsypávej postupně do vroucí vody a průběžně míchej, aby se netvořily hrudky.", "minutes": 2 },
+    { "text": "Zmenši teplotu na mírný var a za občasného míchání vař, dokud kaše nezhoustne.", "minutes": 8 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5–6 oz (asi 2/3 hrnku). Pro 4 porce vychází 110 g vloček a 760 ml vody, tedy poměr cca 7 : 1 jako ve zdroji; kaše je tak řidší. Pro hustší kaši použij méně vody, např. 600 ml. Sůl přepočtena jako koření (ze zdroje 6 lžic na 100 porcí, pro 4 porce cca 7 g); dle chuti uber. Zdroj vaří v parním kotli nebo v dvojitém kotli 30–45 minut; pro 4 porce stačí hrnec na plotně. Ostatní varianty z tabulky (vše na 6 lb kaše na 100 porcí): pšeničné vločky (regular) 5 gal vody, tedy stejný poměr cca 7 : 1 jako ovesné; kukuřičná a hominy 6 gal vody, cca 8 : 1, vaří 20–30 minut v kotli (60 minut v dvojitém kotli); rychlé ovesné a pšeničné vločky a celozrnná pšenice 4¾ gal vody, cca 6,5 : 1, vaří 5 minut (v dvojitém kotli 5–10 minut). Rychlé varianty tedy potřebují méně vody a kratší vaření.",
+  "source": {
+    "book": "navy-1944",
+    "page": 32,
+    "titleOriginal": "Rolled Oats (Regular)"
+  },
+  "verified": true,
+  "quote": "Add oats to water gradually, stirring to prevent lumping."
+}

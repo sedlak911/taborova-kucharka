@@ -1,0 +1,91 @@
+{
+  "id": "kukuricny-chleb",
+  "title": "Kukuřičný chléb",
+  "titleOriginal": "Corn Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "změklé; místo shorteningu",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "lineárně (kypření úměrné mouce); p 0,8 by dalo 19 g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 85,
+      "unit": "g",
+      "note": "kukuřičná krupice nebo hrubá kukuřičná mouka"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.45,
+      "unit": "ks",
+      "note": "rozšlehaná celá vejce; zhruba 1/2 vejce"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 165,
+      "unit": "ml",
+      "note": "množství podle konzistence těsta"
+    }
+  ],
+  "steps": [
+    { "text": "Mouku, máslo, prášek do pečiva, cukr, sůl a kukuřičnou mouku důkladně promíchej.", "minutes": 3 },
+    { "text": "Vejce rozmíchej s mlékem.", "minutes": 2 },
+    { "text": "Vejce s mlékem přidej k suchým surovinám a míchej do hladkého těsta.", "minutes": 3 },
+    { "text": "Těsto rozetři do vymazaného plechu nebo formy." },
+    { "text": "Peč při 220 °C 25 až 30 minut.", "minutes": 30 }
+  ],
+  "modernNote": "Shortening (tuk do pečení, 40 g) jsme nahradili máslem. Prášek do pečiva je přepočten lineárně (9 oz × 0,04 ≈ 10 g), protože kypření je úměrné množství mouky; exponent 0,8 by dal 19 g, tj. dvojnásobek zdrojového poměru. Plech nebo formu vymaž trochou másla navíc (doporučení). Zdroj počítá 2 kusy 5 x 7,5 cm na porci. Množství mléka je ve zdroji proměnné (variable), uprav ho podle hustoty těsta. Zdroj nabízí sušená vejce místo čerstvých, to jsme nepoužili.",
+  "source": {
+    "book": "navy-1944",
+    "page": 353,
+    "titleOriginal": "CORN BREAD"
+  },
+  "verified": true
+}

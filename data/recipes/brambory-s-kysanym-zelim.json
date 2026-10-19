@@ -1,0 +1,83 @@
+{
+  "id": "brambory-s-kysanym-zelim",
+  "title": "Brambory s kysaným zelím",
+  "titleOriginal": "Kartoffeln mit Sauerkraut",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 115,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "kysele-zeli",
+      "amount": 600,
+      "unit": "g",
+      "note": "nepropláchnuté (ungewässert), se šťávou"
+    },
+    {
+      "ingredientId": "jalovec",
+      "amount": 5,
+      "unit": "ks",
+      "note": "odhad: zdroj říká jen „několik“"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "odhad: zdroj říká jen „tak, aby zelí bylo sotva zakryté“; podle zdroje (s. 25) max. ¾ l na osobu na začátku vaření"
+    },
+    {
+      "ingredientId": "uzene-maso",
+      "amount": 400,
+      "unit": "g",
+      "note": "odhad: zdroj uvádí jen „maso“ bez množství (čerstvé, uzené nebo trvanlivé)"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "čerstvé, oloupané a nakrájené"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „dochutit solí“; zelí a uzené jsou už slané, ochutnej"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kysané zelí bez proplachování zalij tolika vodou, aby bylo sotva zakryté, přidej několik jalovcových bobulí a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a vař asi 45 minut až 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej brambory a vař dohotova, asi dalších 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Dochuť solí."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 225 g kysaného zelí, 750 g brambor na muže; zde 150 g kysaného zelí a 250 g brambor na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj neuvádí množství masa, vody ani soli: 400 g uzeného masa (~100 g na porci), 1 l vody a 8 g soli jsou odhady, proto verified: false. Jalovcové bobule zdroj uvádí jen jako „několik“; 5 kusů (asi 1 g) je odhad, lze vynechat. Alternativa zdroje se sušeným zelím (25 g) a sušenými bramborami (75 g na osobu) se nepoužívá.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 16,
+    "code": "7. (varianta, tišt. 29)",
+    "titleOriginal": "Kartoffeln mit Sauerkraut"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz."
+}

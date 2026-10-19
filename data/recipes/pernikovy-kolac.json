@@ -1,0 +1,117 @@
+{
+  "id": "pernikovy-kolac",
+  "title": "Perníkový koláč",
+  "titleOriginal": "Gingerbread",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "zazvor-mlety",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "měkké, na pokojovou teplotu",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      },
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "med",
+      "amount": 50,
+      "unit": "g",
+      "original": {
+        "ingredientId": "melasa",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.45,
+      "unit": "ks",
+      "note": "½ vejce (ze zdroje mražená vejce)",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 23,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "note": "ze zdroje teplá a ledová voda (2 × 2-5/8 lb), sloučeno"
+    }
+  ],
+  "steps": [
+    { "text": "Prosej do mísy mixéru mouku, cukr, sůl, prášek do pečiva, jedlou sodu, skořici a zázvor.", "minutes": 3 },
+    { "text": "Přidej máslo, med a vejce k suchým surovinám. Mixuj 1 minutu na nízké rychlosti, pak 2 minuty na střední. Seškrábni stěny mísy.", "minutes": 3 },
+    { "text": "Přidej vodu a mixuj na nízké rychlosti jen do hladkého těsta.", "minutes": 1 },
+    { "text": "Formu lehce vymaž tukem a vysyp moukou. Nalij do ní těsto.", "minutes": 2 },
+    { "text": "Peč při 150 °C (horkovzdušná trouba; v běžné 165 °C) 25 až 35 minut, dokud není hotovo.", "minutes": 35 },
+    { "text": "Nakrájej na kusy. Podávej teplé, pokud to jde." }
+  ],
+  "modernNote": "Zdroj počítá dávku na 100 porcí (plech nakrájený na 6 × 9 kusů); přepočet je na 4 porce, nakrájej podle velikosti formy. Melasa nahrazena medem ve stejné hmotnosti; med je sladší, sladkost lze upravit. Ztužený rostlinný tuk (shortening) nahrazen máslem. Sprej na formy nahrazen tukem. Zdroj peče v konvektomatu při 300 °F na nízkém ventilátoru s otevřeným odvodem; v běžné troubě peč na 165 °C (doporučení). Zdroj jako volitelné přílohy uvádí šlehačku, citronovou omáčku nebo práškový cukr.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 409,
+    "code": "G 017 00",
+    "titleOriginal": "GINGERBREAD"
+  },
+  "verified": true
+}

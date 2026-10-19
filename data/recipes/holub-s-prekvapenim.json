@@ -1,0 +1,38 @@
+{
+  "id": "holub-s-prekvapenim",
+  "title": "Holub s překvapením",
+  "titleOriginal": "Pigeon Surprise (Piccione a sorpresa)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "krepelka", "amount": 500, "unit": "g", "note": "4 křepelky (místo holubů), asi 125 g kus s kostí" },
+    { "ingredientId": "teleci-maso-libove", "amount": 200, "unit": "g", "note": "telecí řízek z libové plece, asi 50 g na ptáka; zdroj „milk veal“" },
+    { "ingredientId": "kureci-jatra", "amount": 40, "unit": "g", "note": "játra a drobky; u křepelek asi 10 g na ptáka" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "asi 20 g do plátků, zbytek na opečení" },
+    { "ingredientId": "hovezi-vyvar", "amount": 250, "unit": "ml", "note": "hnědý (masový) vývar ze zdroje" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "novy-koreni", "amount": 1, "unit": "spetka", "note": "„a pinch of spices“, druh koření zdroj neurčuje" }
+  ],
+  "steps": [
+    { "text": "Telecí plec rozklepej, aby byla tenčí a měkčí, a rozděl ji na čtyři stejné plátky.", "minutes": 8 },
+    { "text": "Plátky osol, opepři, posyp špetkou koření a polož na ně kousek másla. Srolované plátky vlož do křepelek a otvor zašij.", "minutes": 10 },
+    { "text": "Zbylé máslo rozpusť na pánvi a křepelky z každé strany opékej dozlatova.", "minutes": 10 },
+    { "text": "Přilij hovězí vývar, přikryj a duš na mírném ohni, dokud křepelky nezměknou.", "minutes": 35 },
+    { "text": "Mezitím játra a drobky nasekej nadrobno a na troše másla je krátce opeč.", "minutes": 5, "parallel": true },
+    { "text": "Křepelky vyndej, nitě sundej a podávej s šťávou z pánve a opečenými játry.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj popisuje holuba (nebo kuře) s plátkem telecího masa uvnitř, bez množství a bez počtu porcí. Holuby nahrazeny křepelkami (podobně velký pečený pták; kuřecí stehna jsou alternativa). Množství doplněno z běžné praxe pro 4 ptáky, tedy jednoho na porci: křepelky 500 g s kostí, telecí plec 200 g (50 g na ptáka, libová plec jako nejbližší dostupný řez mléčného telete), játra a drobky 40 g (odhad), máslo 50 g (asi 20 g do plátků, zbytek na opečení), hnědý masový vývar 250 ml. Zdroj nepopisuje způsob dušení ptáků; doplněno: opéct na másle, podlít vývarem a dusit pod pokličkou. Doba 35 minut je odhad (křepelka měkne asi 30 až 40 minut). Játra a drobky se podávají s omáčkou ze šťávy, jak zdroj doporučuje. Suroviny a množství jsou orientační; makra podle katalogu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 102,
+    "titleOriginal": "PIGEON SURPRISE (Piccione a sorpresa)"
+  },
+  "verified": false,
+  "quote": "The pigeon (or chicken) must be opened and stuffed with a cutlet of milk veal."
+}

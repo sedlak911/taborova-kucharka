@@ -1,0 +1,81 @@
+{
+  "id": "krokant-ve-vodni-lazni",
+  "title": "Krokantový pudink ve vodní lázni",
+  "titleOriginal": "Crisp Cake in Double Boiler (Croccante a bagno maria)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 155,
+      "unit": "g",
+      "group": "Mandlový karamel a krém",
+      "scaling": "linear",
+      "note": "dvě třetiny na karamel, třetina na rozetření mandlí"
+    },
+    {
+      "ingredientId": "mandle",
+      "amount": 85,
+      "unit": "g",
+      "group": "Mandlový karamel a krém",
+      "note": "sladké, oloupat a nasekat nadrobno (zrnka jako pšenice)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "group": "Forma",
+      "scaling": "vessel",
+      "note": "na vymazání plechu a formy; zdroj množství neuvádí, odhad"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 5,
+      "unit": "ks",
+      "group": "Mandlový karamel a krém",
+      "note": "žloutky z pěti vajec"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 470,
+      "unit": "ml",
+      "group": "Mandlový karamel a krém",
+      "note": "1 pinta"
+    }
+  ],
+  "steps": [
+    { "text": "Mandle oloupej a nasekej nadrobno, zhruba jako zrnka pšenice.", "minutes": 10 },
+    { "text": "Dvě třetiny cukru rozpusť na mírném ohni.", "minutes": 5 },
+    { "text": "Přidej mandle a neustále míchej naběračkou, dokud nezhnědnou do barvy skořice.", "minutes": 10 },
+    { "text": "Karamelizované mandle přelij do plechu vymazaného máslem a nech je vychladnout." },
+    { "text": "Vychladlé mandle roztluč se zbylou třetinou cukru na jemný prášek.", "minutes": 15 },
+    { "text": "Přidej žloutky, pak mléko a dobře promíchej.", "minutes": 3 },
+    { "text": "Směs nalij do formy s otvorem uprostřed vymazané máslem a polož ji do vodní lázně, aby se vařila parou.", "minutes": 40 },
+    { "text": "Nech krém vychladnout a dej jej na čtyři hodiny do lednice." },
+    { "text": "Podávej vychlazené." }
+  ],
+  "modernNote": "Zdroj uvádí 5½ oz cukru (155 g), 3 oz mandlí (85 g), 5 žloutků a 1 pintu mléka (470 ml) bez počtu porcí; berou se jako celé množství pro 4 porce, bez zvětšení. Máslo 10 g na vymazání plechu a formy je odhad (zdroj množství neuvádí). Mandle zdroj nechává oloupat (kůži odstraníš sám, lze použít i blanšírované). Doba vaření ve vodní lázni a čas karamelizace jsou odhady: zdroj uvádí jen „vařit parou“; pudink je hotový, když se krém na dotek srazí a neteče. Chlazení zdroj nepíše; doporučuji čtyři hodiny v lednici, aby krém držel tvar. Recept je bez masa a bez trouby, vaří se v hrnci s vodou (vodní lázeň). Gentile uvádí jako číslo 206 i Stuffed Peaches; zde je recept Croccante (první výskyt). Tag tabor recept nemá: forma s otvorem je speciální vybavení.",
+  "source": {
+    "book": "italian-1919",
+    "page": 148,
+    "titleOriginal": "CRISP CAKE IN DOUBLE BOILER (Croccante a bagno maria)"
+  },
+  "verified": false,
+  "quote": "Place the mold in a double boiler so that it will be cooked by steam."
+}

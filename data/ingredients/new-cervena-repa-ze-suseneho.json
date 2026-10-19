@@ -1,0 +1,29 @@
+[
+  {
+    "id": "repa-susena",
+    "name": "Řepa červená sušená",
+    "aliases": [
+      "sušená řepa",
+      "sušená červená řepa",
+      "dehydrated beets",
+      "beets, dehydrated"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 344,
+      "protein": 12.9,
+      "carbs": 76.5,
+      "fat": 1.36,
+      "fiber": 22.4
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "odvozeno z USDA SR Legacy fdc:169145 (Beets, raw) × 8 (sušina syrové řepy ~12 %, sušená ~95 %); „beets, dehydrated“ v USDA nenalezeno",
+      "units": "bez hrnku/ks; hmotnost ze zdroje",
+      "refuse": "bez odpadu (sušená řepa je už oloupaná a nakrájená)"
+    }
+  }
+]

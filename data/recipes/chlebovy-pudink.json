@@ -1,0 +1,79 @@
+{
+  "id": "chlebovy-pudink",
+  "title": "Chlebový nákyp",
+  "titleOriginal": "Bread Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 450,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 45,
+      "unit": "g",
+      "note": "starý chléb nakrájený na kostky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 45,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.7,
+      "unit": "ks",
+      "note": "lehce rozšlehané; zhruba 3/4 vejce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 4,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 190 °C a vymaž zapékací misku." },
+    { "text": "Všechny suroviny důkladně promíchej.", "minutes": 3 },
+    { "text": "Nalij směs do vymazané misky do výšky 5–6 cm.", "minutes": 1 },
+    { "text": "Peč asi 1 hodinu.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 oz (zhruba 1/2 hrnku); na 4 porce vychází málo chleba (45 g) a asi 3/4 vejce, což je věrný přepočet zdroje – v praxi vezmi klidně 1 menší vejce a trochu víc chleba, pokud chceš hutnější nákyp. Zdroj dovoluje „máslo nebo shortening“, použito máslo. Sůl (6 g, ve zdroji 6 lžic na 100 porcí) je vyšší, dle chuti uber. Doporučení: podávej s vanilkovou nebo citronovou omáčkou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 54,
+    "titleOriginal": "BREAD PUDDING"
+  },
+  "verified": true,
+  "quote": "Mix all ingredients together thoroughly."
+}

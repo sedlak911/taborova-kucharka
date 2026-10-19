@@ -1,0 +1,38 @@
+{
+  "id": "musle-s-rajcatovou-omackou",
+  "title": "Mušle s rajčatovou omáčkou",
+  "titleOriginal": "Mussels with Tomato Sauce (Arselle alla livornese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mekkysi"],
+  "ingredients": [
+    { "ingredientId": "slavky", "amount": 1600, "unit": "g", "note": "čerstvé, se skořápkou (nákupní hmotnost); asi 480 g jedlého masa, tedy 120 g na porci" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "note": "na osmahnutí cibule a do omáčky" },
+    { "ingredientId": "cibule", "amount": 60, "unit": "g", "note": "půlka cibule ze zdroje k slávkám a asi osmina do omáčky" },
+    { "ingredientId": "cesnek", "amount": 3, "unit": "g", "note": "asi půl stroužku do omáčky" },
+    { "ingredientId": "celer-rapikaty", "amount": 20, "unit": "g", "note": "kousek asi na délku prstu, do omáčky" },
+    { "ingredientId": "rajce", "amount": 480, "unit": "g", "note": "čerstvá, nakrájená; polovina zdrojových sedm až osm rajčat (4 střední)" },
+    { "ingredientId": "bobkovy-list", "amount": 2, "unit": "ks", "note": "2 listy do omáčky (polovina z „a few“)" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "nasekaná nahrubo; špetka k slávkám a trocha do omáčky" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do omáčky, podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "spetka", "note": "dvě špetky ze zdroje (slávky a omáčka)" },
+    { "ingredientId": "chleb-bily", "amount": 120, "unit": "g", "note": "4 krajíce na topinky" }
+  ],
+  "steps": [
+    { "text": "Slávky důkladně opláchni v čerstvé vodě a vyřaď ty, které jsou otevřené a po poklepu se nezavřou.", "minutes": 5 },
+    { "text": "Nasekej nadrobno celer a česnek, rajčata nakrájej na kousky a vše dej s bobkovými listy, solí a trochou oleje na mírný oheň.", "minutes": 5 },
+    { "text": "Omáčku za častého míchání vař, dokud šťáva nezhoustne na řídký krém; pak ji přeceď přes sítko.", "minutes": 25 },
+    { "text": "Mezitím nasekej cibuli nadrobno a na oleji se špetkou pepře ji osmahni, dokud nezačne hnědnout; pak přidej petrželku nasekanou nahrubo.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím opeč krajíce chleba dozlatova a polož je na talíř.", "minutes": 4, "parallel": true },
+    { "text": "Do cibule vmíchej slávky, přilij přeceděnou omáčku, přikryj pokličkou a občas hrnec zatřes, dokud se slávky neotevřou.", "minutes": 8 },
+    { "text": "Otevřené slávky s omáčkou polož na opečené krajíce a podávej horké.", "minutes": 1 }
+  ],
+  "modernNote": "Zdroj neuvádí množství slávek ani počet porcí; 1,6 kg slávek ve skořápce (asi 480 g jedlého masa) je odhad z běžné praxe pro hlavní jídlo. Omáčka je polovina receptu č. 12 (asi 480 g čerstvých rajčat, polovina celeru, česneku a bobkových listů), jak zdroj předepisuje; zdroj dovoluje i rajčatový protlak zředěný vodou. Olej, sůl a chléb zdroj nekvantifikuje, množství jsou odhad. Slávky, které se po uvaření neotevřou, vyhoď (bezpečnost). Cibuli zdroj uvádí jako půlku, přidána je i osmina z odkazované omáčky.",
+  "source": { "book": "italian-1919", "page": 93, "titleOriginal": "Mussels with Tomato Sauce (Arselle alla livornese)" },
+  "verified": false,
+  "quote": "Chop fine half an onion and put it on the fire with oil and a pinch of pepper."
+}

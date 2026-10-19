@@ -1,0 +1,39 @@
+{
+  "id": "duseny-zajic",
+  "title": "Dušený zajíc",
+  "titleOriginal": "Stewed Hare (Stufato di lepre)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mleko", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "kralik", "amount": 800, "unit": "g", "note": "modernizace zajíce: králík celý s kostí, nakrájený na kusy (asi 480 g masa, 120 g na porci)" },
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "note": "1 střední, nasekaná nadrobno" },
+    { "ingredientId": "cesnek", "amount": 5, "unit": "g", "note": "1 stroužek, nasekaný nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 40, "unit": "g", "note": "1 stonek, nasekaný nadrobno" },
+    { "ingredientId": "rozmaryn-cerstvy", "amount": 2, "unit": "g", "note": "několik lístků, nasekaných" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "několik kousků na osmahnutí" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "note": "2 lžíce" },
+    { "ingredientId": "spek", "amount": 60, "unit": "g", "note": "4–5 plátků slaniny nebo bůček nakrájený na proužky" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "zampiony", "amount": 150, "unit": "g", "note": "čerstvé, nakrájené na plátky" },
+    { "ingredientId": "bile-vino", "amount": 120, "unit": "ml", "note": "1 sklenka suchého bílého vína" },
+    { "ingredientId": "hovezi-vyvar", "amount": 400, "unit": "ml", "note": "masový vývar; zdroj množství neuvádí" },
+    { "ingredientId": "rajcatove-pyre", "amount": 200, "unit": "g", "note": "rajčatová passata (zdroj: „tomato sauce“)" }
+  ],
+  "steps": [
+    { "text": "Králíka rozporcuj na kusy.", "minutes": 10 },
+    { "text": "Cibuli, česnek, celer a rozmarýn nasekej nadrobno.", "minutes": 8 },
+    { "text": "Na pánvi nebo v kotlíku rozehřej máslo s olejem, přidej spek a nasekanou zeleninu a na mírném ohni osmahni asi 5 minut.", "minutes": 5 },
+    { "text": "Přidej kousky králíka, osol je a opepři. Opékej, dokud nezhnědnou.", "minutes": 10 },
+    { "text": "Zalij bílým vínem, přidej žampiony a nech víno odpařit.", "minutes": 5 },
+    { "text": "Přilej vývar a rajčatovou passatu, přikryj a duš na mírném ohni, dokud maso nezměkne.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj (č. 51, s. 42) uvádí jen půl dobrého zajíce a způsob přípravy, žádná množství ani porce; vše kromě zajíce je odhad pro 4 porce. Zajíce modernizován na králíka (katalog `kralik`, s kostí 800 g, asi 120 g masa na porci), protože zajíc se běžně nekupuje; přepočet z poloviny zajíce je odhad. Zdroj neuvádí koření („spices“), nepřidáno. Cibule 1 střední (150 g), česnek 1 stroužek, celer 1 stonek, rozmarýn několik lístků (2 g) jsou z textu; zbytek odhad: máslo 20 g a olej 2 lžíce (30 ml), spek 60 g (4–5 plátků, zdroj „bacon or salt pork“), 150 g žampionů (zdroj „fresh mushrooms“; sušené houby jako varianta), 1 sklenka vína 120 ml, vývar 400 ml (zdroj „broth“ = masový vývar), rajčatová passata 200 g (zdroj „tomato sauce“). Doba dušení zdroj neuvádí, odhad 60 minut do změknutí. Zdroj v závěru zmiňuje ještě kus másla „if necessary“, nepřidáno (lze dodat). Maso z výtěžnosti s kostí je orientační, makra jsou pro maso bez kosti.",
+  "source": { "book": "italian-1919", "page": 46, "titleOriginal": "STEWED HARE (Stufato di lepre)" },
+  "verified": false
+}

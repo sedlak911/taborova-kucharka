@@ -1,0 +1,40 @@
+{
+  "id": "avokadovy-salat",
+  "title": "Avokádový salát s hlávkovým",
+  "titleOriginal": "Avocado and Lettuce Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle"],
+  "equipment": [],
+  "allergens": ["horcice"],
+  "ingredients": [
+    { "ingredientId": "avokado", "amount": 2, "unit": "ks", "note": "zralé, ½ kusu na porci" },
+    { "ingredientId": "salat-ledovy", "amount": 55, "unit": "g", "note": "nahrubo nakrájený" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do zálivky", "scaling": "seasoning" },
+    { "ingredientId": "cukr-krystal", "amount": 2, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "horcice-susena", "amount": 0.61, "unit": "g", "note": "do zálivky", "scaling": "seasoning" },
+    { "ingredientId": "sladka-paprika", "amount": 0.66, "unit": "g", "note": "do zálivky", "scaling": "seasoning" },
+    { "ingredientId": "repkovy-olej", "amount": 45, "unit": "g", "note": "do zálivky", "scaling": "linear" },
+    { "ingredientId": "ocet", "amount": 20, "unit": "ml", "note": "do zálivky", "scaling": "linear" },
+    { "ingredientId": "cibule", "amount": 1, "unit": "g", "note": "cibulová šťáva (≈ 1 ml), do zálivky", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Smíchej sůl, cukr, hořčici a papriku.", "minutes": 2 },
+    { "text": "Přidej olej, ocet a cibulovou šťávu.", "minutes": 2 },
+    { "text": "Zálivku přelij do uzavíratelné nádoby a před podáváním ji silně protřepej.", "minutes": 2 },
+    { "text": "Avokáda rozpůl, nelup je a vyjmi pecku.", "minutes": 4 },
+    { "text": "Salát nahrubo nakrájej.", "minutes": 3 },
+    { "text": "Na každý talíř polož půlku avokáda ve slupce, vedle ní salát a zalij zálivkou.", "minutes": 1 }
+  ],
+  "modernNote": "Avokádo: zdroj uvádí 50 kusů na 100 porcí bez hmotnosti, tedy 2 ks na 4 porce (½ kusu na porci); hmotnost kusu (150 g) je katalogový odhad. Zdroj podává avokádo ve slupce, to zůstává. Řezy zdroj doporučuje pokapat citronem proti hnědnutí; citron nemá ve zdroji množství, proto není v surovinách, jen jako volitelný tip. Zálivka je French Dressing ze strany 203 (PDF 211) v množství ½ galonu na 100 porcí, přepočtený přímo na 4 porce (×0,04). Olej: hmotnost 2 lb 8 oz (1134 g) a objem 1½ quart si neodpovídají (při hustotě 0,92 g/ml by bylo 1,2 l), použita hmotnost. Cukr: 1⅓ oz (38 g na 100 porcí) proti 2 polévkovým lžícím, použita hmotnost; rozdíl je zanedbatelný. Salát: 3 lb na 100 porcí je jen asi 14 g na porci, zdroj počítá ½ hrnku na porci, takže je salátu málo; doporučení: přidej víc salátu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 194,
+    "titleOriginal": "AVOCADO AND LETTUCE SALAD"
+  },
+  "verified": false,
+  "quote": "Serve in the peel, with crisp lettuce and French Dressing or Thousand Island Dressing."
+}

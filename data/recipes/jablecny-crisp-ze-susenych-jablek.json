@@ -1,0 +1,95 @@
+{
+  "id": "jablecny-crisp-ze-susenych-jablek",
+  "title": "Jablečný crisp ze sušených jablek",
+  "titleOriginal": "Apple Crisp (dehydrated apple nuggets)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 270,
+      "unit": "g",
+      "note": "čerstvá, rozkrájená na plátky; zdroj sušená jablka rehydrovaná ve vodě",
+      "original": {
+        "ingredientId": "susena-jablka",
+        "amount": 55,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 110,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "měkké",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 190 °C."
+    },
+    {
+      "text": "Nakrájej jablka na plátky a rozlož je do vymazané zapékací formy.",
+      "minutes": 8
+    },
+    {
+      "text": "Posyp jablka muškátovým oříškem a cukrem.",
+      "minutes": 2
+    },
+    {
+      "text": "Smíchej hnědý cukr, mouku a máslo, dokud nevznikne drobenka.",
+      "minutes": 4
+    },
+    {
+      "text": "Posyp jablka drobenkou.",
+      "minutes": 1
+    },
+    {
+      "text": "Peč, dokud není povrch dozlatova a jablka měkká.",
+      "minutes": 90
+    }
+  ],
+  "modernNote": "Zdroj používá sušená jablka (3 lb), která se 1 hodinu namočí do 7½ qt vody. Místo nich jsou v receptu čerstvá jablka (×5, odhad podle běžné rehydratace) a sušená jablka jsou v original. Voda na namočení se nepoužívá: vsákla by se do sušených jablek a čerstvá ji nepotřebují. Teplota 190 °C odpovídá horní mezi zdroje (375 °F); zdroj se peče 1½ hodiny. Poznámku k podávání s přelivem z odpařeného mléka nebo vanilkovou omáčkou jsem nepřebral.",
+  "source": {
+    "book": "navy-1944",
+    "page": 45,
+    "titleOriginal": "APPLE CRISP (Using dehydrated apple nuggets)"
+  },
+  "verified": false
+}

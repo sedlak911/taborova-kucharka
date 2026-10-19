@@ -1,0 +1,88 @@
+{
+  "id": "hrasek-s-nasolenym-hovezim",
+  "title": "Hrášek s nasoleným hovězím",
+  "titleOriginal": "PEAS WITH CORNED BEEF (Piselli con la carne secca)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 100,
+      "unit": "g",
+      "group": "Směs",
+      "note": "nadrobno nakrájené; zdroj říká jen „hash“ bez množství, odhad"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Směs",
+      "note": "stroužky, nasekané"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "group": "Směs",
+      "note": "2 snítky, nasekané"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Směs",
+      "note": "2 lžíce; zdroj říká jen olej"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Směs"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Směs"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 600,
+      "unit": "g",
+      "group": "Hrášek",
+      "note": "čerstvý nebo mražený, jedlá část (zdroj bez množství)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Hrášek",
+      "note": "zdroj „broth“; vodu jen jako záložní"
+    }
+  ],
+  "steps": [
+    { "text": "Hovězí solené nakrájej nadrobno, česnek a petrželku nasekej nadrobno.", "minutes": 5 },
+    { "text": "Na rozehřátý olej dej hovězí, česnek a petrželku a osmahni, dokud česnek nezezlátne.", "minutes": 6 },
+    { "text": "Osol a opepři podle chuti." },
+    { "text": "Přidej hrášek a zamíchej, aby se obalil ve směsi.", "minutes": 3 },
+    { "text": "Duš, dokud hrášek nevsákne omáčku.", "minutes": 5 },
+    { "text": "Zalij vývarem a duš do měkka.", "minutes": 15 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 109) nedává žádná množství ani čas: „hash“ z nasoleného hovězího, česneku, petrželky a oleje, pak hrášek a vývar. Odhady pro 4 porce: hrášek 600 g (150 g na porci, jedlá část), nasolené hovězí 100 g (jen ochucení, ne hlavní maso), 2 stroužky česneku, 2 snítky petrželky (10 g), 2 lžíce oleje, sůl 2 g (solené hovězí už solí), pepř 1 g. Vývar 250 ml je ze zdroje („broth“); voda je jen záložní způsob podle zdroje. Čas 35 minut je odhad; čerstvý hrášek bývá rychlejší, sušený by potřeboval namočení a jiný postup. Nasolené hovězí (corned beef, id hovezi-solene) je solené, ne uzené; název podle skutečné suroviny.",
+  "source": {
+    "book": "italian-1919",
+    "page": 86,
+    "titleOriginal": "PEAS WITH CORNED BEEF (Piselli con la carne secca)"
+  },
+  "verified": false
+}

@@ -1,0 +1,34 @@
+{
+  "id": "celerova-kremova-polevka",
+  "title": "Celerová krémová polévka",
+  "titleOriginal": "Cream of Celery Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "celer-rapikaty", "amount": 220, "unit": "g", "note": "nakrájený nadrobno" },
+    { "ingredientId": "hovezi-vyvar", "amount": 230, "unit": "ml", "note": "kupovaný; zdroj Beef Stock (s. 216, PDF 224) nebo voda, vývar se nahrazuje vývarem, ne vodou" },
+    { "ingredientId": "cibule", "amount": 14, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "scaling": "linear", "note": "na orestování cibule", "original": { "ingredientId": "sadlo", "amount": 25, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 18, "unit": "g" },
+    { "ingredientId": "mleko-polotucne", "amount": 610, "unit": "ml", "note": "horké" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.11, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Celer a cibuli nadrobno nakrájej.", "minutes": 8 },
+    { "text": "V hrnci přiveď vývar k varu, přidej celer a vař asi 35 minut, dokud nezměkne.", "minutes": 40 },
+    { "text": "Mezitím cibuli na tuku orestuj do sklovatění a vmíchej mouku.", "minutes": 6, "parallel": true },
+    { "text": "Přilij horké mléko.", "minutes": 2 },
+    { "text": "Směs z cibule a mouky vmíchej do polévky a za stálého míchání nech zhoustnout.", "minutes": 3 },
+    { "text": "Dochuť solí a pepřem a nech na mírném ohni 20 minut probublávat." , "minutes": 20 }
+  ],
+  "modernNote": "Zdroj uvádí vývar z hovězího masa (Beef Stock, s. 216, PDF 224) nebo vodu: použit kupovaný hovězí vývar (katalog hovezi-vyvar), voda nenahrazuje vývar, recept proto není bez-masa. Tuk (Fat, 1 lb 8 oz) je moderně máslo, původní sádlo je v original (25 g); tuk se restuje s cibulí a jde do jíšky, proto třída linear. Mléko je čerstvé (Milk, liquid), ne sušené. Pepř zdroj nespecifikuje, použit černý mletý. Výtěžek 6 gal na 100 porcí (≈ 227 ml na porci) odpovídá porci 1 cup, originalYield 100. Sůl 3 oz na 100 porcí dává přes třídu seasoning ~1,5 g soli na porci: doporučení ubrat podle chuti.",
+  "source": { "book": "navy-1944", "page": 240, "titleOriginal": "Cream of Celery Soup" },
+  "verified": true
+}

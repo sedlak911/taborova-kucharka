@@ -1,0 +1,68 @@
+{
+  "id": "jablecno-brusinkova-omacka",
+  "title": "Jablečno-brusinková omáčka",
+  "titleOriginal": "Apple Cranberry Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 90,
+      "unit": "g",
+      "note": "čerstvá, nakrájená na kostičky",
+      "original": {
+        "ingredientId": "susena-jablka",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "brusinky",
+      "amount": 50,
+      "unit": "g",
+      "note": "čerstvé nebo mražené",
+      "original": {
+        "ingredientId": "brusinky-susene",
+        "amount": 10,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 230,
+      "unit": "ml",
+      "note": "horká"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 75,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci zalij jablka a brusinky horkou vodou a nech 30 minut namočit.", "minutes": 30 },
+    { "text": "Přidej cukr, přikryj a pomalu zahřej do varu.", "minutes": 5 },
+    { "text": "Nech 30 minut mírně probublávat a občas zamíchej.", "minutes": 30 },
+    { "text": "Nech omáčku vychladnout." }
+  ],
+  "modernNote": "Zdroj používá sušená jablka (apple nuggets) a sušené brusinky (flaked); moderně jsou v řádcích čerstvá jablka a čerstvé nebo mražené brusinky v hmotnosti ×5 sušené (90 g a 50 g), sušená hmotnost (18 g a 10 g) je v original. Převod ×5 je odhad, proto verified false. Voda je horká a zůstává v omáčce (linear, 1½ gal ze zdroje). Zdroj uvádí porci ¼ cupu (zhruba 60 ml); nález bilance (111 g na porci vs. 59 ml) je způsobený čerstvým ovocem, které přidává hmotnost vody: se suchým ovocem vychází 82 g na porci, a samotný zdroj (2 gal na 100 porcí) dává ~76 ml na porci, takže omáčka je hustější než ¼ cupu. Omáčka se vaří v jednom hrnci, bez trouby, proto tag tabor. Podávej k pudinkům a masu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 80,
+    "titleOriginal": "APPLE CRANBERRY SAUCE"
+  },
+  "verified": false
+}

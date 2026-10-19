@@ -1,0 +1,33 @@
+[
+  {
+    "id": "fazole-cernooke",
+    "name": "Fazole černooké sušené (black-eyed peas)",
+    "aliases": [
+      "černooké fazole",
+      "černooký hrášek",
+      "black-eyed peas",
+      "black eyed peas",
+      "cowpeas",
+      "blackeye peas"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 336,
+      "protein": 23.52,
+      "carbs": 60.03,
+      "fat": 1.26,
+      "fiber": 10.6
+    },
+    "units": {
+      "hrnek": 176
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173758 (Cowpeas, common (blackeyes, crowder, southern), mature seeds, raw)",
+      "units": "USDA fdc:173758 cup = 167 g; přepočet na metrický hrnek 250 ml: 167 × 250/237 = 176 g",
+      "refuse": "bez odpadu"
+    }
+  }
+]

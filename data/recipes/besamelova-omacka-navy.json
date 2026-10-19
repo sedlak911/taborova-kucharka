@@ -1,0 +1,108 @@
+{
+  "id": "besamelova-omacka-navy",
+  "title": "Bešamelová omáčka",
+  "titleOriginal": "Bechamel Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 230,
+      "unit": "ml",
+      "note": "zdroj: kuřecí nebo telecí vývar (1½ gal, odkaz na p. 216); použit kuřecí"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 75,
+      "unit": "ml",
+      "note": "½ gal"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "volitelné (zdroj: lze vynechat)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nadrobno nakrájená (1 lb)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "1 lb; zdroj „butter or other fat“"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 9,
+      "unit": "g",
+      "note": "8 oz"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "volitelné (zdroj: lze vynechat); 2 čajové lžičky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "½ oz; zdroj uvádí i 4 čajové lžičky (cca 19 g), viz modernNote"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "1 čajová lžička"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci smíchej vývar s mlékem a přidej bobkový list.",
+      "minutes": 2
+    },
+    {
+      "text": "Zahřej do varu a bobkový list vyjmi.",
+      "minutes": 5
+    },
+    {
+      "text": "Na másle orestuj nadrobno nakrájenou cibuli, dokud nezesklovatí.",
+      "minutes": 10
+    },
+    {
+      "text": "Smíchej cibuli s moukou, tymiánem, solí a pepřem na hladkou pastu.",
+      "minutes": 3
+    },
+    {
+      "text": "Za stálého míchání vmíchej pastu do horkého vývaru a vař, dokud omáčka mírně nezhoustne.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj (Navy 1944, p. 176, PDF 184) počítá na 100 porcí, porce je ¼ hrnku (cca 2 oz = 60 ml), výtěžek 2 gal. Přepočteno na 4 porce (240 ml omáčky). Vývar: zdroj uvádí kuřecí nebo telecí (1½ gal, odkaz na Chicken or Veal Stock p. 216); použit kupovaný kuřecí vývar, samotný vývar se nevaří podle odkazu. Sůl: sloupec Ounces uvádí ½ oz (cca 14 g), sloupec Amounts 4 čajové lžičky (cca 19 g); přednost má Weight, sůl je tedy nízká (0,23 g na porci, check:recipe hlásí pod rozsah) a doporučuje se dochutit podle chuti; ponecháno věrně zdroji. Bobkový list (2 listy na 100 porcí) je na 4 porce 0,1 ks, zdroj uvádí, že se může vynechat. Tymián je 2 čajové lžičky na 100 porcí (cca 0,2 g na 4 porce), zdroj uvádí, že se může vynechat. Pro žlutou omáčku zdroj přidává šlehaná žloutka 16 vajec na 100 porcí (cca 0,65 ks na 4 porce); není zařazena do tohoto receptu. Bilance: 4 porce mají cca 350 g surovin proti 240 ml omáčky, což je dané hustotou bešamelu a odpařováním. Zdroj doporučuje podávat s krokety.",
+  "source": {
+    "book": "navy-1944",
+    "page": 184,
+    "titleOriginal": "BECHAMEL SAUCE"
+  },
+  "verified": false
+}

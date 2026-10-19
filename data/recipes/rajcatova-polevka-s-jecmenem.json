@@ -1,0 +1,99 @@
+{
+  "id": "rajcatova-polevka-s-jecmenem",
+  "title": "Rajčatová polévka s ječmenem",
+  "titleOriginal": "Tomato, Barley, Macaroni, Noodle or Rice Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 680,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 350,
+      "unit": "g",
+      "note": "z konzervy"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "rozpuštěné, na jíšku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g",
+      "note": "na jíšku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kroupy",
+      "amount": 25,
+      "unit": "g",
+      "note": "ječné, nevařené"
+    }
+  ],
+  "steps": [
+    { "text": "Ohřej vývar do varu.", "minutes": 8 },
+    { "text": "Přidej nakrájený celer, cibuli, rajčata, sůl, pepř a cukr. Vař 20 minut, dokud zelenina nezměkne.", "minutes": 20 },
+    { "text": "Mezitím rozpusť máslo a rozmíchej ho s moukou na jíšku.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej jíšku do horké směsi a vař, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Přeceď přes síto.", "minutes": 2 },
+    { "text": "Vrať přecezenou polévku do hrnce, přiveď k varu a vmíchej kroupy.", "minutes": 8 },
+    { "text": "Vař 25 minut, dokud kroupy nezměknou.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj používá „Tomato Stock“ (str. 219, PDF 227) s hovězím vývarem nebo vodou; použit kupovaný hovězí vývar (masový, proto bez tagu bez-masa). Rajčata z konzervy (zdroj 3 No. 10 cans ≈ 2½ gal, na 4 porce 350 g). Zdroj dává na 100 porcí 6 oz soli a 8 oz cukru (přes třídu seasoning vychází 11 g soli na 4 porce, tj. 2,75 g na porci, nad doporučený rozsah 0,5–2,5 g; cukr 15 g) – doporučení: sůl a cukr dle chuti ubrat. Pepř 1/4 oz na 100 porcí = 0,46 g na 4 porce. Máslo a mouka tvoří jíšku (zdroj 2 lb tuku a 12 oz mouky na 100 porcí, přepočet lineární). Místo ječmene lze použít stejné suché množství těstovin, nudlí nebo rýže (zdroj 1 lb 8 oz na 100 porcí = 25 g suchého na 4 porce), vař je 20–30 minut podle druhu. Bilance: porce 300 g vs. 8 oz (227 g) zdroje = 1,3×, v toleranci (hustá polévka s kroupami). Zdroj neuvádí kotlík; označeno jako kotlík (vaření na plotně v kotlíku).",
+  "source": {
+    "book": "navy-1944",
+    "page": 231,
+    "titleOriginal": "TOMATO, BARLEY, MACARONI, NOODLE OR RICE SOUP"
+  },
+  "verified": true,
+  "quote": "Stir in barley, macaroni, noodles or rice."
+}

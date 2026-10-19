@@ -1,0 +1,42 @@
+{
+  "id": "polevka-cappelletti",
+  "title": "Polévka s plněnými cappelletti",
+  "titleOriginal": "Soup of \"Cappelletti\"",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 3,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "group": "Těsto", "note": "2 hrnky (kniha: asi hrnek mouky na vejce)" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "group": "Těsto", "note": "do těsta i náplně" },
+    { "ingredientId": "kureci-maso-vareno", "amount": 150, "unit": "g", "group": "Náplň", "note": "vařené kuře (kniha: vařené maso, kuře, vepřové nebo telecí), co nejjemněji umleté" },
+    { "ingredientId": "tvaroh", "amount": 150, "unit": "g", "group": "Náplň", "note": "stejné množství jako maso (kniha: tvaroh nebo cottage)" },
+    { "ingredientId": "parmezan", "amount": 30, "unit": "g", "group": "Náplň", "note": "nastrouhaný" },
+    { "ingredientId": "citron", "amount": 5, "unit": "g", "group": "Náplň", "note": "nastrouhaná žlutá kůra z 1/2 citronu" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "group": "Náplň", "note": "špetka" },
+    { "ingredientId": "novy-koreni", "amount": 0.5, "unit": "g", "group": "Náplň", "note": "špetka mletého nového koření" },
+    { "ingredientId": "kureci-vyvar", "amount": 1500, "unit": "ml", "group": "Vývar", "note": "kuřecí (kniha: kuřecí nebo hovězí)" }
+  ],
+  "steps": [
+    { "text": "Mouku smíchej na prkně s částí soli, udělej v ní důlek a rozklepni do něj vejce.", "minutes": 3 },
+    { "text": "Hněť těsto, dokud nebude hladké a pružné; podle potřeby přidej trochu mouky.", "minutes": 10 },
+    { "text": "Vařené kuřecí maso umel, smíchej ho s tvarohem, parmezánem, citronovou kůrou, muškátovým oříškem, novým kořením a zbytkem soli.", "minutes": 5 },
+    { "text": "Těsto vyválej válečkem do plátu tenkého asi 3 mm a vykrájej z něj kolečka o průměru asi 7,5 cm.", "minutes": 15 },
+    { "text": "Do středu každého kolečka dej lžičku náplně, přehni ho přes polovinu do půlměsíce, okraje navlhči vodou a pevně přitiskni.", "minutes": 15 },
+    { "text": "Vývar ohřej do varu a pak zmenši plamen na mírný var.", "minutes": 8 },
+    { "text": "Cappelletti vař ve vývaru, dokud je těsto měkké.", "minutes": 10 },
+    { "text": "Podávej horké, cappelletti s vývarem." }
+  ],
+  "modernNote": "Gentile uvádí suroviny jen slovně, bez množství a bez počtu porcí; všechna množství jsou odhad z běžné praxe pro 4 porce. Těsto: kniha říká „asi hrnek mouky na vejce“, proto 2 hrnky (250 g) a 2 vejce. Náplň: maso a tvaroh ve stejném množství (podle knihy), 150 g + 150 g, parmazán 30 g, kůra z 1/2 citronu a špetky muškátu a nového koření jsou odhad. Vývar 1,5 l (375 ml na porci) je odhad, kniha uvádí jen „chicken or beef broth“ (zvolen kuřecí). Čas 85 minut je odhad, zdroj dobu neuvádí; zdroj odpočinek těsta nezmiňuje, proto v krocích není. Sůl se dělí mezi těsto a náplň (kniha: sůl do obojího). Tag tabor recept nemá kvůli válení a vykrajování těsta; kotlik zůstává, vaří se jen na plotně. Kniha výslovně neuvádí počet cappelletti, tvarování a válení těsta je nejnáročnější část. Nález check:recipe „548 g na porci“ je záměr: polévka je z velké části vývar (375 ml na porci), což je běžná porce; při menším vývaru (např. 1,2 l) by hmotnost klesla jen na cca 470 g.",
+  "source": {
+    "book": "italian-1919",
+    "page": 10,
+    "titleOriginal": "SOUP OF \"CAPPELLETTI\""
+  },
+  "verified": false,
+  "quote": "This Soup is called of \"Cappelletti\" or \"little hats\" on account of the shape of the \"Cappelletti.\""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kralovska-polevka",
+  "title": "Královská polévka",
+  "titleOriginal": "Queen's Soup (Zuppa Regina)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce", "orechy"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 950, "unit": "ml", "group": "Polévka", "note": "1 quart (946 ml), horký" },
+    { "ingredientId": "kureci-maso-vareno", "amount": 200, "unit": "g", "group": "Polévka", "note": "bílé maso uvařené (zdroj nespecifikuje, zda syrové nebo vařené; odhad 1 prso)" },
+    { "ingredientId": "mandle-blansovane", "amount": 8, "unit": "g", "group": "Polévka", "note": "5–6 blanšírovaných mandlí (≈ 1,3 g kus)" },
+    { "ingredientId": "chleb-bily", "amount": 40, "unit": "g", "group": "Polévka", "note": "bez kůrky, asi pětina hmotnosti masa; namočit do mléka" },
+    { "ingredientId": "mleko-polotucne", "amount": 50, "unit": "ml", "group": "Polévka", "note": "na namočení chleba" },
+    { "ingredientId": "zloutek", "amount": 1, "unit": "ks", "group": "Polévka", "note": "volitelné, na zjemnění polévky; zdroj: žloutek z jednoho vejce" },
+    { "ingredientId": "chleb-bily", "amount": 25, "unit": "g", "group": "Krutony", "note": "1 krajíc, nakrájený na kostičky" },
+    { "ingredientId": "repkovy-olej", "amount": 50, "unit": "ml", "group": "Krutony", "scaling": "vessel", "note": "na usmažení krutonů v hlubším tuku; většina se slije" },
+    { "ingredientId": "parmezan", "amount": 40, "unit": "g", "group": "Podávání", "note": "strouhaný, podává se zvlášť" }
+  ],
+  "steps": [
+    { "text": "Namoč chléb do mléka a nech ho asi 5 minut nasáknout.", "minutes": 5 },
+    { "text": "Maso, mandle a namočený chléb protlač mlýnkem nebo rozmixuj na velmi hladkou pastu.", "minutes": 5 },
+    { "text": "Pastu postupně zřeď horkým vývarem a přendej do hrnce.", "minutes": 5 },
+    { "text": "Polévku zahřívej na mírném ohni, nesmí se vařit.", "minutes": 10 },
+    { "text": "Žloutek rozšlehej s několika lžícemi horkého vývaru, vmíchej do polévky a už ji nevař, jinak se srazí.", "minutes": 2 },
+    { "text": "Mezitím nakrájej chléb na kostičky a usmaž je ve fritovacím oleji dozlatova; vyndej na papírovou utěrku.", "minutes": 5, "parallel": true },
+    { "text": "Podávej horkou, s krutony a strouhaným parmezánem zvlášť." }
+  ],
+  "modernNote": "Zdroj uvádí jen jednu kvartu vývaru (946 ml, přepočteno na 950 ml) a postup, množství masa, mandlí a chleba doplněna jako odhad pro 4 porce: 200 g uvařeného kuřecího prsa (50 g na porci, v polévce zjemněné), 8 g blanšírovaných mandlí (5–6 kusů ze zdroje), 40 g bílého chleba (pětina masa) namočeného do 50 ml mléka a 25 g chleba na krutony. Zdroj neuvádí, zda je maso syrové nebo vařené; zvoleno vařené, protože se při mletí nedodává tekutina navíc. Žloutek (1 ks) je volitelný, jak říká zdroj. Fritovací olej 50 ml je odhad (zdroj uvádí jen 'deep fat'). Parmezan 40 g je doporučení; zdroj říká jen 'grated cheese'. Časy kroků jsou odhad, zdroj je neuvádí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 13,
+    "titleOriginal": "QUEEN'S SOUP (Zuppa Regina)"
+  },
+  "verified": false,
+  "quote": "Do not let the soup boil after the egg is added or it will curdle."
+}

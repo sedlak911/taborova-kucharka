@@ -1,0 +1,174 @@
+{
+  "id": "bolonske-krokety",
+  "title": "Boloňské krokety",
+  "titleOriginal": "Fried Croquettes, Bologna Style (Fritto composto alla Bolognese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 400,
+      "unit": "g",
+      "group": "Směs",
+      "note": "libové telecí maso, dušené; asi 100 g na porci, zbytek tvoří šunka, sýr a bílá omáčka; odhad"
+    },
+    {
+      "ingredientId": "kureci-prsa",
+      "amount": 60,
+      "unit": "g",
+      "group": "Směs",
+      "note": "místo mozku (zdroj „a little brain“); uvař v osolené vodě"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Směs",
+      "note": "1 plátek šunky; odhad"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 40,
+      "unit": "g",
+      "group": "Směs",
+      "note": "místo lanýžů (zdroj „if you have them“), volitelně"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "group": "Směs",
+      "note": "strouhaný"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Směs",
+      "note": "„a taste of nutmeg“, asi špetka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Směs",
+      "note": "podle chuti; zdroj nepíše, odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Směs",
+      "note": "1 ks do směsi (zdroj: žloutek nebo celé vejce, stačí žloutek); 2 ks rozšlehat na obalení"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Balsamella",
+      "note": "1 polévková lžíce, odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Balsamella",
+      "note": "odhad"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Balsamella",
+      "note": "na bílou omáčku, odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Obalení",
+      "note": "na vyválení kuliček"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Obalení",
+      "note": "jemně mletá, na dvojité obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Smažení",
+      "scaling": "vessel",
+      "note": "na fritování; odhad, většina zůstane v hrnci"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Smažení",
+      "note": "nasáklý při smažení (odhad)",
+      "scaling": "fat"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Telecí maso dej do hrnce, zalij vodou, osol a duš na mírném ohni, dokud není měkké.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím kuřecí prsa povař v osolené vodě do měkka a nech vychladnout.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Telecí maso, šunku, kuře a houby umel nebo nasekej nadrobno.",
+      "minutes": 10
+    },
+    {
+      "text": "Na másle orestuj mouku a za stálého míchání postupně přilévej mléko; vař, dokud omáčka nezhoustne jako smetana.",
+      "minutes": 10
+    },
+    {
+      "text": "Bílou omáčku, vejce, parmezán a muškátový oříšek přimíchej k masu a na mírném ohni míchej, dokud se vejce nesrazí.",
+      "minutes": 8
+    },
+    {
+      "text": "Hmotu vyklop na talíř a nech úplně vychladnout.",
+      "minutes": 30
+    },
+    {
+      "text": "Z vychladlé hmoty tvaruj kuličky velké jako vlašský ořech a obal je v mouce.",
+      "minutes": 10
+    },
+    {
+      "text": "Kuličky obal v rozšlehaném vejci a pak v jemné strouhance; obalení zopakuj dvakrát.",
+      "minutes": 10
+    },
+    {
+      "text": "Kroketky smaž v horkém oleji dozlatova, vyndej na papírovou utěrku a podávej.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 67, s. 53) chce „trochu mozku“ a „lanýže, pokud je máte“. Mozek nahrazujeme kuřecím masem (zdroj: „a little brain boiled or stewed“; původně mozek, ~60 g na 4 porce), lanýže žampiony (původně lanýže, volitelně). Telecí maso zvolna dušené (zdroj: „stewed lean veal“) bereme jako 400 g libové telecí kýty bez kosti (asi 100 g na porci; zbytek tvoří šunka, sýr a bílá omáčka). Gentile nedává žádná množství; šunka 60 g (plátek), parmezán 40 g, mouka a máslo jsou odhad. Bílá omáčka (zdroj odkazuje na „No. 54“; nadpis Balsamella v knize je č. 59, viz bechamelova-omacka) je připravena přímo v receptu, aby se nemusela scházet s jiným receptem. Vejce: 1 ks do směsi, 2 ks na obalení (zdroj: žloutek nebo celé vejce). Muškátový oříšek 0,5 g (zdroj: „a taste“). Sůl 4 g je odhad, zdroj ji nepíše. Olej 500 ml je odhad na fritování a slévá se (kategorie vessel). Čas 150 minut zahrnuje dušení masa a chlazení směsi (30 minut). Olej na smažení se slévá (vessel); nasáklý podíl asi 30 ml je zapsán zvlášť jako tuk v jídle (odhad). Tag tabor nepřiřazen: recept potřebuje čtyři nádoby, mlýnek a hluboké smažení.",
+  "source": {
+    "book": "italian-1919",
+    "page": 57,
+    "titleOriginal": "FRIED CROQUETTES, BOLOGNA STYLE (Fritto composto alla Bolognese)"
+  },
+  "verified": false,
+  "quote": "Take a piece of stewed lean veal, a little brain boiled or stewed, and a slice of ham."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "spanelska-ryze",
+  "title": "Španělská rýže",
+  "titleOriginal": "Spanish Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 105, "unit": "g", "note": "dlouhozrnná; do rýže", "group": "Rýže" },
+    { "ingredientId": "voda", "amount": 270, "unit": "ml", "note": "studená; vsákne se do rýže", "group": "Rýže" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do rýže", "group": "Rýže" },
+    { "ingredientId": "repkovy-olej", "amount": 2, "unit": "g", "note": "do rýže", "group": "Rýže" },
+    { "ingredientId": "spek", "amount": 25, "unit": "g", "note": "slanina, syrová", "group": "Omáčka" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 360, "unit": "g", "note": "kostky, scezená (bez nálevu)", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "note": "nasekaná", "group": "Omáčka" },
+    { "ingredientId": "paprika-zelena", "amount": 35, "unit": "g", "note": "nasekaná", "group": "Omáčka" },
+    { "ingredientId": "cukr-krystal", "amount": 4, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "tymian-susity", "amount": 0.61, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.46, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "bobkovy-list", "amount": 1.15, "unit": "ks", "note": "odstranit před podáváním", "group": "Omáčka" }
+  ],
+  "steps": [
+    { "text": "Rýži, studenou vodu, sůl a olej dej do hrnce a přiveď k varu. Občas zamíchej.", "minutes": 5 },
+    { "text": "Hrnec pevně přikryj a na mírném ohni duš 20–25 minut. Nemíchej.", "minutes": 25 },
+    { "text": "Slaninu orestuj v druhém hrnci nebo na pánvi dokřupava. Sceď ji a tuk slij.", "minutes": 8, "parallel": true },
+    { "text": "Přidej rajčata, cibuli, papriku, cukr, sůl, tymián, černý pepř, česnek a bobkové listy. Zamíchej, přiveď k varu, přikryj, sniž teplotu a duš 15 minut.", "minutes": 20 },
+    { "text": "Přidej uvařenou rýži, zamíchej a s poklicí na mírném ohni zahřívej 30 minut. Před podáváním odstraň bobkové listy.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj dokončuje rýži v konvektomatu (325 °F, 30 minut, uzavřený průduch); zde je krok 5 proveden na plotně s poklicí. Porce odpovídá 3/4 hrnku ze zdroje (cca 39 g suché rýže na porci), jako hlavní jídlo počítej o něco víc rýže. Kroky 1–2 jsou postup zdroje pro rýži (E 005 00). Doporučení: pokud se směs při dušení přesouší, dolej lžíci vody.",
+  "source": { "book": "afrs-2003", "page": 312, "code": "E 009 00", "titleOriginal": "SPANISH RICE" },
+  "verified": true
+}

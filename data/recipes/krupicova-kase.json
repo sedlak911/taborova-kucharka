@@ -1,0 +1,29 @@
+{
+  "id": "krupicova-kase",
+  "title": "Krupicová kaše",
+  "titleOriginal": "Hot Farina",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 610, "unit": "ml", "note": "horká, na začátku; zdroj 33½ lb; poměr zůstává jako ve zdroji" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "krupice-psenicna", "amount": 115, "unit": "g" },
+    { "ingredientId": "voda", "amount": 150, "unit": "ml", "note": "studená; na rozmíchání krupice; zdroj 8⅓ lb" }
+  ],
+  "steps": [
+    { "text": "Do horké vody přidej sůl a přiveď k varu.", "minutes": 3 },
+    { "text": "Krupici rozmíchej se studenou vodou a za stálého míchání ji vlij do vroucí osolené vody. Míchej, dokud voda znovu nezačne vřít.", "minutes": 4 },
+    { "text": "Sniž teplotu a 2 až 5 minut vař na mírném ohni za častého míchání.", "minutes": 5 },
+    { "text": "Vypni plotnu a nech kaši 5 minut odstát.", "minutes": 5 }
+  ],
+  "modernNote": "Porce odpovídá 3/4 hrnku kaše ze zdroje (cca 180 ml). Poměr krupice a vody je ze zdroje řídký (cca 1 : 6,7 hmotnostně); výsledek je tekutější kaše. Pro hustší kaši doporučujeme méně vody, např. 450 ml na 115 g krupice. Doporučení: kaši můžeš zjemnit mlékem místo části vody, dochutit máslem, cukrem nebo ovocem.",
+  "source": { "book": "afrs-2003", "page": 293, "code": "E 001 02", "titleOriginal": "HOT FARINA" },
+  "verified": true,
+  "quote": "Mix cereal with cold water; pour into boiling salted water stirring constantly."
+}

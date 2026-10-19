@@ -1,0 +1,65 @@
+{
+  "id": "zelene-fazolky-na-masle",
+  "title": "Zelené fazolky na másle",
+  "titleOriginal": "Buttered Green Beans",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zelene-fazolky",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé, očištěné; zdroj 25 lb nákupní hmotnosti (A.P.) × jedlá část 0,88 = 22 lb (konzerva 4 No. 10 ≈ 3¼ gal ve zdroji jako náhrada, nepoužito)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se; zdroj „to cover“, domácí hodnota"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj 1 lb (minimální množství)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Přiveď osolenou vodu k varu.", "minutes": 8 },
+    { "text": "Mezitím očisti fazolky, odlom konce stonků a nakrájej je na kousky požadované délky.", "minutes": 5, "parallel": true },
+    { "text": "Fazolky vhoď do vroucí vody a vař do měkka, asi 30 minut.", "minutes": 30 },
+    { "text": "Sceď fazolky.", "minutes": 2 },
+    { "text": "Přidej rozpuštěné máslo a promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 4½ oz (zhruba ⅔ hrnku), 25 lb čerstvých fazolek a 1 lb másla (minimální množství). Na 4 porce vychází 400 g očištěných fazolek (25 lb A.P. × 0,88 jedlé části × 0,04) a 18 g másla. Voda na vaření (1 l) a sůl (2 g na 1 l) jsou domácí hodnoty s třídou vessel, slijí se; zdroj uvádí vodu „to cover“ a 3 oz soli, které se nepřebírají. Doba vaření 30 minut je ze zdroje; moderní tip: mladé tenké fazolky bývají měkké už za 10 až 15 minut, ověř zkouškou. Konzerva zelených fazolek ze zdroje (4 No. 10) není použita, zde jen čerstvé nebo mražené. Varianta se slaninou („Green Beans, Southern Style“, 2 lb solené slaniny, bůček nebo šunkové kosti) není v receptu; slanina by ji dělala masovou. Varianta Creamed Green Beans (s 1½ gal mléčné omáčky, str. 173) také není zahrnuta.",
+  "source": {
+    "book": "navy-1944",
+    "page": 257,
+    "titleOriginal": "Buttered Green Beans"
+  },
+  "verified": true,
+  "quote": "Add butter."
+}

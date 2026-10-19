@@ -1,0 +1,29 @@
+[
+  {
+    "id": "krabi-maso-konzerva",
+    "name": "Krabí maso v konzervě",
+    "aliases": [
+      "krabí maso",
+      "krab konzervovaný",
+      "canned crab meat"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 83,
+      "protein": 17.88,
+      "carbs": 0,
+      "fat": 0.74,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "korysi"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171966 (Crustaceans, crab, blue, canned)",
+      "refuse": "USDA fdc:171966 refusePct 0"
+    }
+  }
+]

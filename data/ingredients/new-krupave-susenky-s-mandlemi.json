@@ -1,0 +1,31 @@
+[
+  {
+    "id": "anyz-zrnka",
+    "name": "Anýz (semínka)",
+    "aliases": [
+      "anýz",
+      "anýzová semínka",
+      "anise seed",
+      "anis"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 337,
+      "protein": 17.6,
+      "carbs": 50.02,
+      "fat": 15.9,
+      "fiber": 14.6
+    },
+    "units": {
+      "lzice": 6.7,
+      "lzicka": 2.1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171316 (Spices, anise seed)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

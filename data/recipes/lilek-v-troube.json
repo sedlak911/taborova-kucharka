@@ -1,0 +1,200 @@
+{
+  "id": "lilek-v-troube",
+  "title": "Lilek zapečený v troubě",
+  "titleOriginal": "Egg-Plants in the Oven (Melanzane al forno)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "lilek",
+      "amount": 800,
+      "unit": "g",
+      "note": "5 menších lilků (zdroj „five or six“), asi 160 g kus; oloupat",
+      "group": "Lilek"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "na vysolení lilků; většina se slije s vodou z lilků (vessel); zbytek do vaječné směsi",
+      "group": "Lilek",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení kolečků",
+      "group": "Lilek"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na smažení; část se vsákne, zbytek slít",
+      "group": "Lilek",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Lilek",
+      "note": "nasáklý při smažení (odhad)",
+      "scaling": "fat"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 600,
+      "unit": "g",
+      "note": "5 až 6 zralých rajčat, nakrájených; omáčka č. 12 zmenšená na tři čtvrtiny samostatného receptu",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "malý kousek cibule, najemno",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 4,
+      "unit": "g",
+      "note": "asi stroužek, najemno",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 15,
+      "unit": "g",
+      "note": "kousek řapíkatého celeru, najemno",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "note": "několik listů; po uvaření vyndat",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 8,
+      "unit": "g",
+      "note": "najemno nasekaná",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 11,
+      "unit": "ml",
+      "note": "asi půl lžíce",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.4,
+      "unit": "g",
+      "group": "Omáčka (č. 12)"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 50,
+      "unit": "g",
+      "note": "strouhaný; mezi vrstvy a do vaječné směsi (zdroj „grated cheese“)",
+      "group": "Zapékání"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zdroj „one egg“; na směs stačí asi polovina",
+      "group": "Zapékání"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 20,
+      "unit": "g",
+      "note": "2 lžíce, do vaječné směsi",
+      "group": "Zapékání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lilky oloupej a nakrájej na kolečka.",
+      "minutes": 10
+    },
+    {
+      "text": "Kolečka posyp solí, polož je na talíř a nech několik hodin odstát, aby pustila vodu."
+    },
+    {
+      "text": "Pro omáčku nasekej nadrobno cibuli, česnek, celer a petržel; bobkové listy přidej celé.",
+      "minutes": 6
+    },
+    {
+      "text": "Přidej olej, sůl, pepř a nakrájená rajčata a vše dej na mírný oheň.",
+      "minutes": 3
+    },
+    {
+      "text": "Za občasného míchání vař, dokud omáčka nezhoustne na řídký krém.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím kolečka lilku osuš, obal v mouce a smaž v rozpáleném oleji dozlatova; na papíře je osuš.",
+      "minutes": 12,
+      "parallel": true
+    },
+    {
+      "text": "Omáčku přetlač přes síto a vyndej bobkové listy.",
+      "minutes": 3
+    },
+    {
+      "text": "Předehřej troubu na 180 °C."
+    },
+    {
+      "text": "Do žáruvzdorné mísy nebo plechu skládej vrstvy lilku a mezi každou vrstvu posyp parmezán a přelij omáčkou.",
+      "minutes": 5
+    },
+    {
+      "text": "Rozšlehej vejce, přidej omáčku, parmezán a strouhanku a touto směsí polej horní vrstvu.",
+      "minutes": 3
+    },
+    {
+      "text": "Zapékej v troubě, dokud se vejce nesrazí, asi 20 minut.",
+      "minutes": 20
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Gentile (č. 102, s. 76) uvádí jen počet lilků („five or six“), vrstvy sýra, vejce a omáčky bez množství; porce ani čas neuvádí. Všechna množství jsou odhad pro 4 porce: 5 menších lilků 800 g (asi 200 g na porci), mouka 50 g na obalení, smažení 150 ml řepkového oleje (většina se slévá, proto vessel), parmezán 50 g, 1 vejce (zdroj „one egg“, stačí část), strouhanka 20 g (zdroj „two of crumbs“, 2 lžíce), sůl 8 g na vysolení lilků (většina se slije s vodou, proto vessel) a zbytek do směsi. Omáčka č. 12 je zmenšená na tři čtvrtiny samostatného receptu (rajčata 600 g atd.; zdroj říká „abundantly“, ale lilek je v troubě zapečený). Olej na smažení se slévá (vessel, 150 ml); nasáklý podíl asi 30 ml je zapsán zvlášť jako tuk v jídle (odhad). Vysolení lilku (několik hodin) není příprava předem, proto bez tagu pripravit-predem. Lilky se solí několik hodin, aby pustily vodu; zdroj to předepisuje, doba není udána. Teplota 180 °C je doplněna (zdroj ji neuvádí), pečení 20 minut je odhad podle zdrojového „dokud se vejce nesrazí“. Čas 80 minut je odhad. Recept je bez masa; masový vývar se v něm nepoužívá.",
+  "source": {
+    "book": "italian-1919",
+    "page": 80,
+    "titleOriginal": "EGG-PLANTS IN THE OVEN (Melanzane al forno)"
+  },
+  "verified": false,
+  "quote": "Skin five or six egg-plants, cut them in round slices and salt them so that they throw out the water that they contain."
+}

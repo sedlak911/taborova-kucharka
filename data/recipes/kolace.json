@@ -1,0 +1,140 @@
+{
+  "id": "kolace",
+  "title": "Koláče (sladké pečivo)",
+  "titleOriginal": "Kolaches",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 210,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drozdi-susene",
+      "amount": 6,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "sušené droždí; rozpusť ve vodě s částí cukru",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 35,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "teplá, nejvýše 43 °C, na rozpuštění droždí"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "část (asi 1 g) rozpusť s droždím, zbytek s tukem a solí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "nesolené, změkčené",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.35,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "celé, rozšlehej (ze zdroje 18 g mraženého vejce)",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "studená, k vajíčkům"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 130,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "pekařská pšeničná mouka (zdroj: FLOUR,WHEAT,BREAD); prosej"
+    },
+    {
+      "ingredientId": "mleko-susene",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "sušené odtučněné mléko; prosej s moukou"
+    },
+    {
+      "ingredientId": "tresnova-plnka",
+      "amount": 110,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "hotová třešňová náplň; asi 28 g (1 unce, 2 lžíce) na 1 kolač"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 18,
+      "unit": "g",
+      "group": "Posyp",
+      "note": "moučkový cukr, prosátý; podle chuti",
+      "optional": true,
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Droždí posyp na vodu, nech 5 minut stát, přidej cukr a míchej, dokud se nerozpustí. Nech 10 minut stát, znovu zamíchej a odlož stranou.", "minutes": 15 },
+    { "text": "Cukr, sůl a změklé máslo vyšlehej v míse mixéru na střední rychlost 1 minutu.", "minutes": 1 },
+    { "text": "Na nízké rychlosti vmíchej vejce, studenou vodu a směs s droždím.", "minutes": 2 },
+    { "text": "Prosej mouku s mlékem, přidej k vaječné směsi a na nízké rychlosti mixuj 7 až 10 minut, dokud nevznikne těsto.", "minutes": 10 },
+    { "text": "Nech těsto kynout na teplém místě (asi 27 °C) zhruba 1 hodinu.", "minutes": 60 },
+    { "text": "Nech těsto 10 minut odpočinout, rozděl na 2 díly a každý díl vytvaruj do hladké kuličky. Nech 10 minut odpočinout.", "minutes": 20 },
+    { "text": "Vytvaruj válec o průměru asi 4 cm, nakrájej na kousky po 4 cm a z nich tvaruj kuličky o hmotnosti asi 57 g. Polož je na vymazaný plech 5 cm od sebe a lehce zploštěj dlaní.", "minutes": 10 },
+    { "text": "Nech kusy kynout asi 30 minut, dokud nezdvojnásobí objem.", "minutes": 30 },
+    { "text": "Lžící zatlač střed každého kusu a nech okraj široký asi 6 mm.", "minutes": 5 },
+    { "text": "Do středu každého kolače dej asi 28 g (2 lžíce) třešňové náplně.", "minutes": 3 },
+    { "text": "Okraj potři rozšlehaným vejcem (vaječný lesk ze zdroje, D 017 00: vejce, trocha mléka a vody).", "minutes": 2 },
+    { "text": "Nech kolače dokynout asi 20 minut, dokud nezdvojnásobí objem.", "minutes": 20 },
+    { "text": "Peč při 175 °C 25 minut, dokud nejsou hotové. V horkovzdušné troubě peč 15 minut při 150 °C.", "minutes": 25 },
+    { "text": "Nech vychladnout a podle chuti posyp prosátým moučkovým cukrem." }
+  ],
+  "modernNote": "Ztužený tuk (shortening) nahrazen máslem, které je v ČR běžně dostupné; původní hodnota je v original. Sušené mléko ponecháno, protože se prosévá suché s moukou (3 g). Vaječný lesk (recept D 017 00) a vanilkovou polevu (D 046 00) zdroj na této stránce nekvantifikuje, proto nejsou v surovinách. Zdroj uvádí dokynutí „20 minutes at 350 F“, což je zjevná chyba zdroje (350 °F = 175 °C by zabila kvasinky a stejná teplota je v kroku pečení), proto dokynutí jen podle objemu (asi 20 minut). Mražené vejce nahrazeno čerstvým (original). Náplň lze podle zdroje nahradit jablkem, borůvkou, malinou nebo broskví.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 188,
+    "code": "D 027 00",
+    "titleOriginal": "KOLACHES"
+  },
+  "verified": true,
+  "quote": "DO NOT USE TEMPERATURES ABOVE 110 F."
+}

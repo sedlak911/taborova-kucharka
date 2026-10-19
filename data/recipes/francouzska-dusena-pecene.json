@@ -1,0 +1,84 @@
+{
+  "id": "francouzska-dusena-pecene",
+  "title": "Francouzská pečeně na hrnci",
+  "titleOriginal": "French Pot Roast",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 215,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 730,
+      "unit": "g",
+      "note": "zdroj „Beef, boneless“ 40 lb; méně křehký kus (předek), jak zdroj doporučuje"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 75,
+      "unit": "ml",
+      "note": "½ galonu ze zdroje, vaha ve zdroji chybí, přepočet z objemu"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 500,
+      "unit": "ml",
+      "note": "zdroj „as needed“ (dost, aby byla pečeně zakryta); odhad"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 270,
+      "unit": "g",
+      "note": "čistá hmotnost (E.P.), nakrájet na hranolky; dušené v omáčce"
+    }
+  ],
+  "steps": [
+    { "text": "Maso nakrájej na kostky asi 7–8 cm a cibuli nasekej nadrobno.", "minutes": 10 },
+    { "text": "Smíchej maso, cibuli, sůl a pepř.", "minutes": 3 },
+    { "text": "Peč v pomalé troubě na 150 °C 30 minut.", "minutes": 30 },
+    { "text": "Vmíchej mouku a opékej, dokud nezhnědne.", "minutes": 5 },
+    { "text": "Vmíchej kečup a zalij vývarem tak, aby bylo maso zakryté.", "minutes": 3 },
+    { "text": "Sniž teplotu na 110 °C a duš, dokud maso nezměkne.", "minutes": 120 },
+    { "text": "Mezitím nakrájej brambory na hranolky.", "minutes": 10, "parallel": true },
+    { "text": "Přidej brambory do masa 40 minut před koncem dušení a duš, dokud nezměknou.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj uvádí jen hmotnosti masa, cibule, soli, pepře, mouky a brambor, objem kečupu (½ galonu) a vývar „podle potřeby“. Tuk na opečení zdroj neuvádí (tuk se uvolní z masa a z hovězího kusu), proto žádný tuk nepřidáváme. Vývar 500 ml je odhad (zakrytí pečeně); jde o nejvíc nejistou položku. Kečup je přepočten z objemu (75 ml na 4 porce), protože ve zdroji chybí hmotnost. Maso: „Use less tender cuts“, proto předek (hovezi-predni). Sůl 11 g (2,75 g na porci) odpovídá zdroji (6 oz na 100 porcí, shodně s „¾ cup“) a nechávám ji; dle chuti uber. Teplota: zdroj 300 °F = 150 °C, dušení 200–250 °F sníženo na 110 °C. Doba dušení (120 + 40 minut) je odhad podle zdroje „until tender“. Bilance (check:recipe: 422 g na porci proti 5–6 oz zdroje) je interpretace: porce zdroje je maso (syrových 183 g se po dušení smrskne zhruba na 110 g), brambory (asi 67 g na porci) a omáčka z vývaru se počítají zvlášť. Oddíl „Simmered beef“ z téže strany nepoužit.",
+  "source": {
+    "book": "navy-1944",
+    "page": 111,
+    "titleOriginal": "FRENCH POT ROAST"
+  },
+  "verified": false,
+  "quote": "Use less tender cuts of meat."
+}

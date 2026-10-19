@@ -1,0 +1,31 @@
+[
+  {
+    "id": "susena-jablka",
+    "name": "Jablka sušená",
+    "aliases": [
+      "sušená jablka",
+      "jablka sušená",
+      "dehydrated apple nuggets",
+      "apples, dried"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 243,
+      "protein": 0.93,
+      "carbs": 65.89,
+      "fat": 0.32,
+      "fiber": 8.7
+    },
+    "units": {
+      "hrnek": 91
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171691 (Apples, dried, sulfured, uncooked); nejbližší položka v indexu, nesířená varianta nenalezena",
+      "units": "USDA cup 86 g × 250/237 = 91 g (metrický hrnek)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

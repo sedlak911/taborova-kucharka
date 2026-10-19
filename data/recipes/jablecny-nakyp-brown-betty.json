@@ -1,0 +1,90 @@
+{
+  "id": "jablecny-nakyp-brown-betty",
+  "title": "Jablečný nákyp se strouhankou",
+  "titleOriginal": "Apple Brown Betty",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "strouhanka",
+      "amount": 65,
+      "unit": "g",
+      "note": "suchá strouhanka"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 145,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 45,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "g",
+      "note": "nastrouhaná kůra"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 55,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 3,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 190 °C a vymaž pekáč." },
+    { "text": "Dno pekáče vysyp strouhankou a rozlož na ni jablka.", "minutes": 5 },
+    { "text": "V misce smíchej hnědý cukr, muškátový oříšek, skořici a citronovou kůru.", "minutes": 3 },
+    { "text": "Posyp jablka cukrovou směsí.", "minutes": 2 },
+    { "text": "Vrstvi zbylou strouhanku, jablka a cukrovou směs a nahoře nech vrstvu strouhanky.", "minutes": 5 },
+    { "text": "Rozpusť máslo, smíchej ho s vodou a citronovou šťávou a zalij směs.", "minutes": 3 },
+    { "text": "Peč, dokud vrch nezhnědne.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj počítá 100 porcí; pečení 45–60 minut v pekáči pro 100 porcí jsme pro 4 porce zkrátili na odhad 40 minut (kontroluj podle barvy). Tuk „Butter or other fat“ (1 lb 10 oz) je máslo; zalévá se přes vrstvy a zůstává v jídle, ale není to jíška ani těsto, proto katalogová třída fat (40 g, ne 30 g jako linear). Strouhanka je suchá (bread crumbs, dry), ne čerstvý chléb. Voda z 1½ qt zůstává v jídle (linear); citronová šťáva a kůra jsou z receptu, podávej s vanilkovou nebo citronovou omáčkou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 44,
+    "titleOriginal": "APPLE BROWN BETTY"
+  },
+  "verified": true,
+  "quote": "Line greased baking pans with bread crumbs. Cover with a layer of apples."
+}

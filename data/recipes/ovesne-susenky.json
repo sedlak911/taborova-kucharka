@@ -1,0 +1,118 @@
+{
+  "id": "ovesne-susenky",
+  "title": "Ovesné sušenky",
+  "titleOriginal": "Oatmeal Cookies",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 0.43,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.3,
+      "unit": "ks",
+      "note": "rozšlehej 1 vejce a použij asi třetinu",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 15,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 5,
+      "unit": "ml",
+      "note": "studená"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "měkké, pokojová teplota",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 35,
+        "unit": "g"
+      },
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 25,
+      "unit": "g",
+      "note": "balený"
+    },
+    {
+      "ingredientId": "ovesne-vlocky",
+      "amount": 95,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 35,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Prosej mouku, sůl, jedlou sodu a prášek do pečiva; odlož stranou.", "minutes": 2 },
+    { "text": "Vejce, vodu, vanilkový extrakt, máslo a oba cukry vyšlehej na nízké rychlosti 1–2 minuty, dokud nebude směs hladká. Přidej suché přísady a míchej na nízké rychlosti 2–3 minuty do hladka.", "minutes": 5 },
+    { "text": "Přidej ovesné vločky a rozinky a promíchej asi 1 minutu.", "minutes": 1 },
+    { "text": "Plechy lehce vymaž tukem. Těsto dávkuj po jedné polévkové lžíci do řad (v originále po 5 × 7 kusech).", "minutes": 3 },
+    { "text": "Peč s horkým vzduchem při 165 °C 13–15 minut, dokud lehce nezhnědnou.", "minutes": 15 },
+    { "text": "Sušenky z plechu sundej, dokud jsou ještě teplé." }
+  ],
+  "modernNote": "Porce = 2 sušenky; pro celé vejce ztrojnásob všechna množství (24 sušenek). Ztužený rostlinný tuk (shortening) nahrazen máslem: 35 g tuku odpovídá cca 43 g másla (máslo má cca 82 % tuku), zaokrouhleno na 45 g. Zmrazená vejce nahrazena čerstvými. Sprej na plechy vynechán, plechy vymazat lžičkou tuku nebo použít papír na pečení. Originál 325 °F v konvekční troubě = 165 °C s horkým vzduchem. Doporučení: vychladit na mřížce.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 478,
+    "code": "H 007 00",
+    "titleOriginal": "OATMEAL COOKIES"
+  },
+  "verified": true
+}

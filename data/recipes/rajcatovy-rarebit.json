@@ -1,0 +1,80 @@
+{
+  "id": "rajcatovy-rarebit",
+  "title": "Rajčatový rarebit",
+  "titleOriginal": "Tomato Rarebit",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 350,
+      "unit": "g",
+      "note": "z konzervy, zdroj 3 No. 10 cans"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 90,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 270,
+      "unit": "g",
+      "note": "strouhaný"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "4 plátky toastu"
+    }
+  ],
+  "steps": [
+    { "text": "Rajčata zahřej do varu.", "minutes": 10 },
+    { "text": "Mezitím v misce rozmíchej máslo, mouku, sůl a hořčici na hladkou pastu.", "minutes": 2, "parallel": true },
+    { "text": "Mezitím opeč chleba do zlatova.", "minutes": 4, "parallel": true },
+    { "text": "Vmíchej pastu do rajčat a za stálého míchání vař, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Přidej strouhaný sýr a míchej, dokud se nerozpustí.", "minutes": 3 },
+    { "text": "Podávej ihned na toastu." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (asi 6 galonů, porce 1 šálek) a přepočet na 4 porce je úměrný. Rajčata: zdroj uvádí 3 konzervy No. 10, použita konzervovaná rajčata. Tuk: zdroj uvádí „Butter or other fat“, použito máslo; protože je to základ jíšky (zůstává v jídle jako součást omáčky), platí třída linear a vychází 90 g, ne 125 g třídou fat. Chléb: zdroj uvádí 100 plátků toastu bez hmotnosti; 4 plátky jsou odhad 30 g na plátek. Sýr 270 g a sůl 11 g jsou podle zdroje (15 lb a 6 oz na 100 porcí), jsou to velké množství pro 1 šálek. Sůl vychází 2,75 g na porci, nad doporučení 2,5 g; hodnotu ponechávám ze zdroje a doporučuji ji dle chuti snížit. Sušená hořčice 0,92 g je přesná hodnota z 1/2 unce (zdroj), ne špetka. Varianta Welsh rarebit (s mlékem a vejci) je samostatný recept z téže strany.",
+  "source": {
+    "book": "navy-1944",
+    "page": 43,
+    "titleOriginal": "TOMATO RAREBIT"
+  },
+  "verified": false,
+  "quote": "Blend together fat, flour, salt and mustard to a smooth paste."
+}

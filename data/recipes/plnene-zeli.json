@@ -1,0 +1,171 @@
+{
+  "id": "plnene-zeli",
+  "title": "Plněné zelí s telecím",
+  "titleOriginal": "Stuffed Cabbage (Cavolo ripieno)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 130,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 700,
+      "unit": "g",
+      "note": "jedlá část celé hlávky po odstranění tvrdých vnějších listů; zdroj říká jen „a big cabbage“",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "do vody na blanšírování zelí; slije se (domácí hodnota)",
+      "scaling": "vessel",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na blanšírování; slije se (2 g na 1 l)",
+      "scaling": "vessel",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "kousek másla na dokončení",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 500,
+      "unit": "g",
+      "note": "mléčné telecí maso (milk veal), zdroj: „milk veal stewed alone“",
+      "group": "Dušení"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Dušení"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "hovězí vývar (brown stock) jako tekutina dušení a omáčky; zdroj neuvádí množství",
+      "group": "Dušení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Dušení"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 120,
+      "unit": "ml",
+      "note": "do bešamelu (č. 59), zmenšeno na asi čtvrtinu",
+      "group": "Bešamel"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "do bešamelu",
+      "group": "Bešamel"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 5,
+      "unit": "g",
+      "note": "malá špetka strouhaného sýra",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti (zdroj: „a taste of nutmeg“)",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z hlávky zelí odstraň tvrdé vnější listy a odřízni stonek zarovna s listy.",
+      "minutes": 5
+    },
+    {
+      "text": "Telecí maso nakrájej na kostičky, opékej na másle dozlatova a osol.",
+      "minutes": 8
+    },
+    {
+      "text": "Podlij vývarem, přikryj a duš na mírném ohni, dokud maso nezměkne.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím zelí povař celé v osolené vodě, dokud listy nepovolí, pak ho vyjmi a nech okapat hlavou dolů.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím připrav bešamel: na másle zpěň mouku, zalij mlékem a za stálého míchání nech zhoustnout.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Maso vyjmi z omáčky a nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej maso s bešamelem, strouhaným parmazánem a žloutkem, dochuť muškátovým oříškem, solí a pepřem.",
+      "minutes": 3
+    },
+    {
+      "text": "Listy zelí jeden po druhém rozevírej, až odhalíš střed; na něj polož náplň. Listy přehni přes náplň, zavři a převaž nití nakřížem.",
+      "minutes": 15
+    },
+    {
+      "text": "Zelí vlož do omáčky z dušení, přidej kousek másla a duš na mírném ohni, dokud zelí nezměkne.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj (Gentile č. 112, s. 83) uvádí jen slovně: velkou hlávku zelí, mléčné telecí maso (nebo telecí brzlík či kuřecí játra) dušené samotné a jemný bešamel (kniha chybně odkazuje na č. 54, správně č. 59), špetku sýra, žloutek a muškátový oříšek. Množství ani porce chybí; odhady pro 4 porce: telecí 500 g (125 g na porci), zelí 700 g jedlé části (asi jedna celá hlávka po odstranění tvrdých listů), vývar 250 ml jako tekutina dušení (zdroj mluví jen o „sauce of this stew“). Bešamel č. 59 (1 pinta mléka = 473 ml, 1 lžíce mouky, máslo velikosti vejce) je zmenšena na 120 ml mléka, asi čtvrtinu samostatného receptu, tedy 5 g mouky a 10 g másla. Žloutek 1 ks a muškátový oříšek podle chuti jsou z textu. Zdroj nabízí i dušení v troubě na nízké teplotě; zde je varianta na plotně. Větší listy lze plnit jednotlivě a roládky svázat (zdroj). Telecí maso se z vývaru vyjímá na náplň, omáčka zůstává na dušení zelí. Čas 130 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 87,
+    "titleOriginal": "Stuffed Cabbage (Cavolo ripieno)"
+  },
+  "verified": false,
+  "quote": "Take a big cabbage, remove the hard outside leaves, cut the stem off even with the leaves"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dusene-maso-stufato",
+  "title": "Dušené maso (stufato)",
+  "titleOriginal": "Stew (Stufato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 195,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "petrzel-nat", "amount": 40, "unit": "g", "note": "asi 2 svazky, nasekat nadrobno", "group": "Zelenina" },
+    { "ingredientId": "mrkev", "amount": 60, "unit": "g", "note": "1 malá, nasekat nadrobno", "group": "Zelenina" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "note": "půl střední, nasekat nadrobno", "group": "Zelenina" },
+    { "ingredientId": "jarni-cibulka", "amount": 15, "unit": "g", "note": "malý kousek, nasekat nadrobno", "group": "Zelenina" },
+    { "ingredientId": "bobkovy-list", "amount": 2, "unit": "ks", "group": "Zelenina" },
+    { "ingredientId": "hovezi-predni", "amount": 600, "unit": "g", "note": "jeden kus, omytý, zbavený blan a tuku", "group": "Maso" },
+    { "ingredientId": "spek", "amount": 30, "unit": "g", "note": "proužky na vpichování (špikování) masa", "group": "Maso" },
+    { "ingredientId": "repkovy-olej", "amount": 20, "unit": "ml", "note": "1,5 lžíce", "group": "Dušení" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "dobrý kus másla", "group": "Dušení" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "přidat umírněně, až když je maso napůl hotové", "group": "Dušení" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Dušení" },
+    { "ingredientId": "hovezi-vyvar", "amount": 200, "unit": "ml", "note": "podle potřeby, během dušení", "group": "Dušení" }
+  ],
+  "steps": [
+    { "text": "Nasekej nadrobno petržel, mrkev, půl cibule a jarní cibulku.", "minutes": 8 },
+    { "text": "Maso omyj, zbav blan a tuku a vpíchni do něj proužky špeku.", "minutes": 10 },
+    { "text": "Do hrnce nalij olej a přidej máslo. Osmahni na něm nasekanou zeleninu a bobkové listy, dokud cibule nezlátne.", "minutes": 8 },
+    { "text": "Cibuli vyjmi, do tuku vlož maso a opékej ho ze všech stran dozlatova.", "minutes": 12 },
+    { "text": "Když je maso z poloviny hotové, osol a opepři a podle potřeby podlij vývarem.", "minutes": 5 },
+    { "text": "Hrnec přikryj pokličkou, pod ni dej papír namazaný tukem a duš na mírném plameni, dokud maso nezměkne (asi tři hodiny od začátku).", "minutes": 150 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj uvádí suroviny ve větách bez množství a bez počtu porcí; všechna množství jsou odhad z běžné praxe pro 4 porce. Maso: 600 g hovězího předního (150 g na porci; zdroj říká „a good piece of meat“). Špek 30 g na vpichování, protože zdroj předepisuje maso „larded“. Petržel asi 40 g (dva svazky), mrkev 60 g (malá), půl střední cibule asi 75 g, jarní cibulka asi 15 g, dva bobkové listy podle zdroje. Olej 1,5 lžíce (zdroj) = 20 ml; máslo „a good piece“ odhadnuto na 40 g. Sůl a pepř podle chuti, sůl přidávána až napůl dušení jako ve zdroji. Vývar zdroj uvádí „broth or water“: použit masový vývar (200 ml) podle potřeby, vodou nenahrazen. Doba dušení ze zdroje asi tři hodiny na mírném ohni; celkový čas odhadnut na 195 minut včetně přípravy. Tuk celkem 60 g (máslo 40 g, olej 20 ml) zůstává převážně v omáčce. Zdroj neuvádí, jestli se maso dává na talíř celé, nebo krájí; doporučení: po dušení nakrájej na plátky.",
+  "source": { "book": "italian-1919", "page": 121, "titleOriginal": "STEW (Stufato)" },
+  "verified": false,
+  "quote": "An excellent stufato can be made in the following way."
+}

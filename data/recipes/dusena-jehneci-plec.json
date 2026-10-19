@@ -1,0 +1,111 @@
+{
+  "id": "dusena-jehneci-plec",
+  "title": "Dušená jehněčí plec",
+  "titleOriginal": "Shoulder of Lamb (Spalla d'agnello)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 650,
+      "unit": "g",
+      "note": "plec, nakrájená na kostky; zdroj nedává množství, odhad asi 125 g masa na porci po odpadu"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "2 malé cibule (asi 150 g), nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "asi 25 g na opečení cibule a 15 g na zásmažku"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "note": "na obalení kousku másla"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěný ve vývaru"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 500,
+      "unit": "ml",
+      "note": "zdroj: vývar nebo voda s kostkou"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso nakrájej na menší kostky a cibuli nasekej nadrobno.",
+      "minutes": 10
+    },
+    {
+      "text": "Cibuli opékej na másle do zlatova.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej maso, osol a opepři; opékej, dokud maso nezačne hnědnout.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím rozpusť protlak v části horkého vývaru.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Přidej kousek másla obaleného v mouce a dobře promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Postupně přilévej vývar s rozpuštěným protlakem, přikryj a nech na mírném ohni.",
+      "minutes": 3
+    },
+    {
+      "text": "Duš, dokud maso není měkké.",
+      "minutes": 60
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile č. 79, s. 61) neuvádí žádná množství ani počet porcí, jen postup. Všechna množství jsou odhad z běžné praxe pro 4 porce: plec 650 g (asi 125 g masa na porci, ediblePortion 0,77; katalogová položka je jehněčí s kostí, kosti a tuk se odstraní podle kusu), cibule 150 g (2 malé), máslo 40 g (asi 25 g na opečení cibule a 15 g na zásmažku), hladká mouka 15 g, sůl 3 g a černý pepř 0,5 g podle chuti, rajčatový protlak 30 g (zdroj: tomato sauce nebo paste rozpuštěná ve vývaru), hovězí vývar 500 ml (zdroj: soup stock nebo voda s kostkou bouillonu). Doba dušení 60 minut je odhad; plec nakrájená na kousky měkne 60–90 minut. Zdroj doporučuje postupně přilévat vývar a dusit do měkka.",
+  "source": {
+    "book": "italian-1919",
+    "page": 65,
+    "titleOriginal": "SHOULDER OF LAMB (Spalla d'agnello)"
+  },
+  "verified": false,
+  "quote": "Cut the meat of a shoulder of lamb in small pieces, or squares."
+}

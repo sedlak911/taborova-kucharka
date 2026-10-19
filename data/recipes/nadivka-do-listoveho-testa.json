@@ -1,0 +1,159 @@
+{
+  "id": "nadivka-do-listoveho-testa",
+  "title": "Masová náplň do listového těsta",
+  "titleOriginal": "Meat Stuffing for Vol-au-Vent (Ripieno di carne per pasticcini di pasta sfoglia)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-prsa",
+      "amount": 300,
+      "unit": "g",
+      "group": "Maso",
+      "note": "syrové; místo brzlíku (zdroj: telecí brzlík nebo kuřecí drobky)",
+      "original": {
+        "ingredientId": "brzlik",
+        "amount": 300,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Maso",
+      "note": "na opečení masa"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Maso",
+      "note": "masový vývar (zdroj: brown stock), na dušení"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 40,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "místo lanýžů (vůně hub)"
+    },
+    {
+      "ingredientId": "hovezi-jazyk-vareny",
+      "amount": 60,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "vařený, nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 60,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "asi 2 plátky, nakrájené na kostičky"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 5,
+      "unit": "g",
+      "group": "Plnka",
+      "note": "špetka strouhaného sýra"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "domácí bešamel místo odkazu na č. 54"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Bešamel",
+      "note": "asi 2 lžíce hotové omáčky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Koření",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Koření",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Koření",
+      "note": "špetka, „a taste of nutmeg“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuřecí maso nakrájej na větší kusy, osol a opepři.",
+      "minutes": 5
+    },
+    {
+      "text": "Na rozehřátém másle maso opeč dozlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Přilij vývar a na mírném ohni duš do měkka.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím žampiony nasekej nadrobno a osmaž je na suché pánvi, dokud se neodpaří voda; šunku a jazyk nakrájej na drobné kostičky.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Maso vyndej, nech vychladnout a nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Na másle rozpusť mouku, zalij mlékem a za stálého míchání povař bešamel do zhoustnutí.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej maso, žampiony, šunku, jazyk, bešamel, parmezán a muškátový oříšek.",
+      "minutes": 3
+    },
+    {
+      "text": "Směs nech vychladnout, až ztuhne; pak se lépe plní do těsta."
+    }
+  ],
+  "modernNote": "Zdroj (č. 65, s. 52) předepisuje telecí brzlík (nebo kuřecí drobky) jako hlavní část náplně, lanýže pro vůni a jazyk; množství nejsou uvedena. Modernizace: brzlík (zdroj nabízí i kuřecí drobky) nahrazen kuřecími prsy 300 g (syrová, dušená a nasekaná; brzlík se u nás běžně nekupuje); lanýže nahrazeny žampiony 40 g, protože vůně lanýžů je u nás nedostupná a drahá. Bešamel zdroj odkazuje na č. 54; zde je nahrazen domácím bešamelem z 5 g másla, 5 g mouky a 40 ml mléka (asi 2 lžíce). Ostatní množství jsou odhad pro 4 porce: jazyk 60 g, šunka 60 g (asi 2 plátky), parmezán 5 g (špetka), muškátový oříšek 0,5 g, sůl 3 g, vývar 100 ml, máslo 20 g na opečení. Výsledná náplň zhruba 500 g, tj. asi 120 g na porci. Listové těsto (č. 57) není součástí tohoto receptu, náplň se plní do hotových košíčků nebo pečeného těsta. Doba dušení a chladnutí je odhad; náplň zdroj nechává vychladnout, aby ztuhla.",
+  "source": {
+    "book": "italian-1919",
+    "page": 56,
+    "titleOriginal": "MEAT STUFFING FOR VOL-AU-VENT (Ripieno di carne per pasticcini di pasta sfoglia)"
+  },
+  "verified": false,
+  "quote": "A taste of truffles greatly improves the stuffing."
+}

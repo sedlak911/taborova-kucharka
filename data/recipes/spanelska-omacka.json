@@ -1,0 +1,113 @@
+{
+  "id": "spanelska-omacka",
+  "title": "Španělská omáčka",
+  "titleOriginal": "Spanish Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "z konzervy, včetně nálevu"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "paprika-cervena",
+      "amount": 18,
+      "unit": "g",
+      "note": "sladká, nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájené na plátky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "na restování zeleniny",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 0.09,
+      "unit": "g",
+      "note": "půl čajové lžičky na 100 porcí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 9,
+      "unit": "ml",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zahřej rajčata k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Na tuku pomalu osmahni cibuli, papriky a žampiony dosměkka.",
+      "minutes": 8
+    },
+    {
+      "text": "Vmíchej mouku a krátce ji nech ve směsi zahřát.",
+      "minutes": 2
+    },
+    {
+      "text": "Smíchej sůl a chilli prášek, zalej vodou a rozmíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej rajčata a rozmíchanou směs a míchej, dokud omáčka nezačne vřít.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj: Spanish Sauce (p. 183 tištěná = PDF 191), 100 porcí = 2¼ gal, porce ⅓ cup. Přepočet k = 0,04 z obrázku stránky: sloupce Pounds/Ounces, Amounts jen kontrola. Rajčata 12 lb 12 oz (2 No. 10 konzervy) = konzervovaná rajčata včetně nálevu, stejně jako Creole Sauce. „Butter or other fat“ 8 oz = máslo, které se restuje se zeleninou a zůstává v omáčce (linear); sadlo jsme nezakládali. Sůl 1 oz (2 lžíce) a chilli ½ čajové lžičky jsou koření (seasoning); chilli na 4 porce vychází 0,09 g, zapsáno přesně. Postup uvádí „salt, sugar and chili powder“, ale v tabulce surovin cukr chybí a množství není, proto ho nepřidávám; dochuť cukrem podle chuti. Zdroj dovoluje ½ pintu masového vývaru (str. 216 = PDF 224) místo vody; použita voda podle hlavního postupu, vývar by udělal masovou variantu. Bilance: porce ze zdroje ⅓ cupu je 79 ml, suroviny na 4 porce jsou přibližně 1,1× objem omáčky, v pořádku. Nález kalorií (33 kcal na porci) je v pořádku: porce je ⅓ cupu omáčky z rajčat a zeleniny (asi 85 g) s malým množstvím másla a mouky; hodnota odpovídá receptu, nic se neměnilo.",
+  "source": {
+    "book": "navy-1944",
+    "page": 191,
+    "titleOriginal": "SPANISH SAUCE"
+  },
+  "verified": true
+}

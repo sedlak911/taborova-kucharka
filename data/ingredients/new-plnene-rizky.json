@@ -1,0 +1,28 @@
+[
+  {
+    "id": "teleci-kostni-dren",
+    "name": "Telecí kostní dřeň",
+    "aliases": [
+      "kostní dřeň",
+      "dřeň z telecí kosti",
+      "veal marrow",
+      "bone marrow"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 786,
+      "protein": 6.7,
+      "carbs": 0,
+      "fat": 84.4,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA fdc:169800 (Caribou, bone marrow, raw) – náhrada, telecí/hovězí dřeň v indexu není; odhad",
+      "refuse": "dřeň se vybírá z kosti, ediblePortion 1"
+    }
+  }
+]

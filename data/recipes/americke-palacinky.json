@@ -1,0 +1,98 @@
+{
+  "id": "americke-palacinky",
+  "title": "Americké palačinky",
+  "titleOriginal": "Pancakes",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 10,
+      "unit": "g",
+      "note": "lineárně; zdrojový poměr k mouce zachován, p 0,8 by dalo 19 g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "čerstvé; 1 ks ≈ 50 g",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml",
+      "note": "ze sušeného mléka 15 g a 135 ml vody (poměr 1 : 9)",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 15,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "zbylá voda do těsta"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 18,
+      "unit": "g",
+      "note": "do těsta; lineárně (tuk v těstě)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Do mísy prosej mouku, prášek do pečiva, cukr a sůl.", "minutes": 2 },
+    { "text": "Přidej mléko, vejce a vodu a na nízké rychlosti míchej asi 1 minutu, dokud se těsto nespojí.", "minutes": 1 },
+    { "text": "Přimíchej olej nebo rozpuštěný tuk asi 1 minutu.", "minutes": 1 },
+    { "text": "Pánev lehce potři olejem.", "minutes": 2 },
+    { "text": "Na horkou pánev nalij 1/4 hrnku (asi 60 ml) těsta. Peč 1,5–2 minuty, dokud se na povrchu neobjeví bubliny a spodek nezezlátne.", "minutes": 2 },
+    { "text": "Otoč a peč dalších 1,5–2 minuty.", "minutes": 2 }
+  ],
+  "modernNote": "Porce 2 palačinky (AFRS Portion 2 Cakes); recept je pro 4 porce, tj. 8 palačinek. Sušené mléko z AFRS je převedeno na čerstvé mléko podle pravidla 1 díl sušeného + 9 dílů vody, proto krok se sušeným mlékem přesunut do tekutin. Mražená vejce nahrazena čerstvými. Sprej na pánev ze zdroje (2 oz na 100 porcí) je vynechán, pánev stačí lehce vymazat olejem. Prášek do pečiva je přepočítán lineárně (10 g), protože kypření je úměrné množství mouky; exponent 0,8 by dal 19 g, tj. dvojnásobek zdrojového poměru k mouce. Olej v těstě je také lineárně. Doba 20 minut předpokládá pečení po 2 palačinkách najednou.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 176,
+    "code": "D 025 00",
+    "titleOriginal": "PANCAKES"
+  },
+  "verified": true
+}

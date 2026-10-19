@@ -1,0 +1,130 @@
+{
+  "id": "plnene-rohliky",
+  "title": "Plněné rohlíky smažené",
+  "titleOriginal": "Stuffed Rolls (Pagnottelle ripiene)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "rohlik",
+      "amount": 360,
+      "unit": "g",
+      "group": "Rohlíky",
+      "note": "8 starších rohlíků (cca 45 g); vydlabat střídku, kůrka zůstane celá"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Rohlíky",
+      "note": "horké, na nasáknutí zvenku i zevnitř"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Rohlíky",
+      "note": "rozšlehaná, na obalení"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 150,
+      "unit": "g",
+      "group": "Smažení",
+      "note": "na smažení; nebo řepkový olej",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "kureci-prsa",
+      "amount": 150,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "nasekané"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 90,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "kuřecí drůbeží drobky, nasekané"
+    },
+    {
+      "ingredientId": "jatra",
+      "amount": 60,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Náplň",
+      "note": "hovězí (hnědý) vývar, v němž se maso povaří"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "aby se náplň držela pohromadě"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rohlíky navrchu kulatým otvorem o průměru půlkoruny nebo menším vydlab střídku, aby zůstala kůrka celá a ne příliš tenká.",
+      "minutes": 10
+    },
+    {
+      "text": "Rohlíky zvenku i zevnitř navlhči horkým mlékem a nech je nasáknout.",
+      "minutes": 5
+    },
+    {
+      "text": "Mezitím kuřecí prsa, drůbeží drobky a játra nasekej nadrobno.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Nasekané maso povař v hovězím vývaru s moukou, dokud se vývar nevstřebá a náplň drží pohromadě.",
+      "minutes": 12
+    },
+    {
+      "text": "Nasáklé rohlíky obal v rozšlehaných vejcích.",
+      "minutes": 3
+    },
+    {
+      "text": "Rohlíky naplň uvařeným masem.",
+      "minutes": 5
+    },
+    {
+      "text": "Na rozpáleném sádle nebo oleji je smaž ze všech stran dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej teplé."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) neuvádí žádná množství ani počet porcí; všechna čísla jsou odhad z běžné praxe pro 4 porce: 8 rohlíků (2 na osobu, ≈ 45 g), 200 ml mléka, 2 vejce, 150 g tuku na smažení, náplň 300 g masa (150 g kuřecích prsou, 90 g drůbežích drobků, 60 g jater; to je méně než 120–150 g masa na porci, ale rohlíky jsou tu hlavní sytá složka), 120 ml hovězího vývaru a 15 g hladké mouky. Sůl a pepř zdroj nezmiňuje, do receptu jsem je nepřidal; podle chuti doplň. Kroky o vaření masa a plnění jsou výklad zdroje („previously chopped and cooked“, způsob vaření neuveden). Smažení v tuku nebo oleji podle zdroje (lard or oil). Čas 45 minut je odhad. Zdroj rohlíky plní až při smažení, když začínají hnědnout; zde se plní před smažením, což je praktičtější.",
+  "source": {
+    "book": "italian-1919",
+    "page": 36,
+    "titleOriginal": "STUFFED ROLLS (Pagnottelle ripiene)"
+  },
+  "verified": false,
+  "quote": "Wet inside and outside with hot milk, and when they are fairly soaked, dip in beaten eggs and fry them in lard or oil."
+}

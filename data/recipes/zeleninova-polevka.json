@@ -1,0 +1,34 @@
+{
+  "id": "zeleninova-polevka",
+  "title": "Zeleninová polévka",
+  "titleOriginal": "Vegetable Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 680, "unit": "ml", "note": "kupovaný, připravený podle návodu na obalu" },
+    { "ingredientId": "rajce", "amount": 240, "unit": "g", "note": "zralá, čerstvá; nahrazuje drcená rajčata z konzervy vč. nálevu", "original": { "ingredientId": "rajcata-drcena", "amount": 240, "unit": "g" } },
+    { "ingredientId": "brambory", "amount": 55, "unit": "g", "note": "čerstvé, oloupané, na kostky" },
+    { "ingredientId": "celer-rapikaty", "amount": 20, "unit": "g", "note": "nakrájený" },
+    { "ingredientId": "mrkev", "amount": 20, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "bile-zeli", "amount": 20, "unit": "g", "note": "nakrájené" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "paprika-zelena", "amount": 8, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.61, "unit": "g", "note": "sušený mletý" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Připrav vývar podle návodu na obalu.", "minutes": 5 },
+    { "text": "Vývar, rajčata, brambory, celer, mrkev, zelí, cibuli, papriku, sušený česnek a černý pepř dej do kotlíku nebo hrnce a přiveď k varu.", "minutes": 8 },
+    { "text": "Přikryj a na mírném ohni duš 30 minut, dokud zelenina nezměkne.", "minutes": 30 }
+  ],
+  "modernNote": "Konzervovaná drcená rajčata (vč. nálevu) nahrazena čerstvými rajčaty o stejné hmotnosti (240 g na 4 porce); čerstvá rajčata dají méně šťávy. Vývar je kuřecí z katalogu, proto recept není označen bez-masa (zeleninový vývar by ho zpřístupnil, zdroj ho ale nepředepisuje). Objem na porci (~270 ml) odpovídá zdrojové porci 1 cup (237 ml); je to spíš předkrm, pro hlavní jídlo počítej dvojnásobek. Zdroj uvádí 57 kcal na porci; vypočtených ~40 kcal je nižších kvůli čerstvým rajčatům místo konzervy (18 proti 32 kcal/100 g) a nízkokalorickému kupovanému vývaru (6 kcal/100 g). Doporučení: ochutnej a dochuť solí podle chuti (zdroj sůl neuvádí).",
+  "source": { "book": "afrs-2003", "page": 1399, "code": "P 007 00", "titleOriginal": "Vegetable Soup" },
+  "verified": true,
+  "quote": "Cover; simmer 30 minutes or until vegetables are tender."
+}

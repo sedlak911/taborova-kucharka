@@ -1,0 +1,67 @@
+{
+  "id": "pecene-hovezi",
+  "title": "Pečené hovězí",
+  "titleOriginal": "Roast Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-zadni",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti; zdroj uvádí 42 lb bez kosti nebo 60 lb s kostí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "seasoning"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 160 °C."
+    },
+    {
+      "text": "Maso natři solí a pepřem.",
+      "minutes": 3
+    },
+    {
+      "text": "Polož maso tukovou stranou nahoru do pekáče.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč asi 50 minut, dokud maso nedosáhne požadované propečenosti.",
+      "minutes": 50
+    },
+    {
+      "text": "Vyjmi z trouby."
+    },
+    {
+      "text": "Nakrájej napříč vlákny na tenké plátky.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 oz (cca 113 g uvařeného masa). Na 4 porce vychází kus bezkostního hovězího zadního cca 760 g; varianta s kostí z karty (60 lb) by byla o cca 40 % těžší kvůli kosti. Časy: zdroj peče při 325 °F (160 °C) asi 3 hodiny, tj. zhruba 30 minut na libru hmotnosti kusu (kusy 6–8 lb), nebo do požadované propečenosti; pro kus 760 g (cca 1,7 lb) to vychází zhruba 50 minut. Moderní doporučení, není ve zdroji: ověř teploměrem ve středu masa (orientačně 55–60 °C pro střední propečenost) a maso nech před krájením chvíli odpočinout pod alobalem. Bilance: 187 g syrového masa na porci proti 113 g uvařeného je úbytek při pečení (odtékající tuk a šťávy, cca 40 %), ne chyba přepočtu. Sůl: 15 g na 760 g masa je cca 2 % (3,75 g na porci, check:recipe to označí jako mimo rozsah); zdroj má 8 oz na 42 lb (cca 1,2 %), koeficient pro koření ho nadhodnotil – dle chuti uber. Zdroj doporučuje podávat s omáčkou; omáčka není v surovinách, udělej ji z šťáv z pekáče podle chuti. Yorkshire pudding je na téže straně, ale je to samostatný recept a tady nezahrnut.",
+  "source": {
+    "book": "navy-1944",
+    "page": 109,
+    "titleOriginal": "ROAST BEEF"
+  },
+  "verified": true,
+  "quote": "Rub with salt and pepper."
+}

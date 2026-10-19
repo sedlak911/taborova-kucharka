@@ -1,0 +1,47 @@
+{
+  "id": "veprove-klobasky-na-plotne",
+  "title": "Vepřové klobásky na plotně",
+  "titleOriginal": "Griddle-Broiled Pork Sausage Links",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-klobasa-syrova",
+      "amount": 635,
+      "unit": "g",
+      "note": "syrové vepřové klobásy",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej plotnu nebo pánev na střední teplotu, ne tak, aby se tuk kouřil.",
+      "minutes": 3
+    },
+    {
+      "text": "Klobásy opékej pomalu asi 10–12 minut, dokud nejsou zhnědlé a dobře propečené; průběžně je otáčej, aby se opekly rovnoměrně.",
+      "minutes": 12
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Klobásy se opékají na suché rozpálené pánvi bez přidaného tuku, protože zdroj žádný tuk nepředepisuje; sádlo z klobás stačí. Zdroj uvádí 35 lb na 100 porcí, tj. 5,6 oz syrové klobásy na porci, zatímco hlavička uvádí porci 2 až 3 oz. Přepočet používá hmotnost z tabulky (35 lb, ověřeno z obrázku; 635 g na 4 porce), proto nález bilance (160 g na porci vs. 57 g porce zdroje) není chyba přepočtu, ale rozpor ve zdroji. Doporučuji na talíř dát 2 až 3 klobásy na osobu (asi 2 až 3 oz) a množství podle toho upravit. Zdroj nabízí podání s omáčkou (Barbecue Sauce, Tomato Sauce); v receptu není, protože není jako surovina v karte.",
+  "source": {
+    "book": "navy-1944",
+    "page": 153,
+    "titleOriginal": "GRIDDLE-BROILED PORK SAUSAGE LINKS"
+  },
+  "verified": true,
+  "quote": "Broil sausage slowly on heated griddle about 10 to 12 minutes or until browned and well done."
+}

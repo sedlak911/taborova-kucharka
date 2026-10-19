@@ -1,0 +1,44 @@
+{
+  "id": "duseny-zralok",
+  "title": "Dušený žralok s rajčaty",
+  "titleOriginal": "Stewed Dog-Fish (Palombo in umido)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "ryby"],
+  "ingredients": [
+    { "ingredientId": "treska", "amount": 500, "unit": "g", "group": "Ryba", "note": "filet bez kůže, nakrájený na větší kusy; místo žraloka (palomba), který u nás není k dostání", "original": { "ingredientId": "zralok", "amount": 600, "unit": "g" } },
+    { "ingredientId": "cibule", "amount": 20, "unit": "g", "group": "Ryba", "note": "nasekaná nadrobno, jen trochu" },
+    { "ingredientId": "cesnek", "amount": 5, "unit": "g", "group": "Ryba", "note": "1 stroužek, nasekaný nadrobno" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Ryba", "note": "nasekaná nadrobno" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "group": "Ryba", "note": "2 lžíce" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Ryba", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Ryba", "note": "podle chuti" },
+    { "ingredientId": "rajce", "amount": 400, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "čerstvá, nakrájená na kousky; nebo konzervovaná" },
+    { "ingredientId": "cibule", "amount": 20, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "nasekaná nadrobno" },
+    { "ingredientId": "cesnek", "amount": 3, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "půl stroužku" },
+    { "ingredientId": "celer-rapikaty", "amount": 10, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "asi poloviční kousek řapíku" },
+    { "ingredientId": "bobkovy-list", "amount": 1, "unit": "ks", "group": "Rajčatová omáčka (č. 12)" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "group": "Rajčatová omáčka (č. 12)", "note": "nasekaná" }
+  ],
+  "steps": [
+    { "text": "Rajčata nakrájej na kousky a dej na střední oheň s nadrobno nasekanou cibulí, česnekem, celerem, bobkovým listem, petrželí a solí.", "minutes": 10 },
+    { "text": "Omáčku za občasného míchání vař, dokud šťáva nezhoustne do tenkého krému, a pak ji přeceď přes sítko.", "minutes": 20 },
+    { "text": "Mezitím rybu nakrájej na poměrně velké kusy a nasekej nadrobno cibuli, česnek a petržel.", "minutes": 5, "parallel": true },
+    { "text": "Na rozehřátém olivovém oleji osmaž připravenou směs dozlatova.", "minutes": 6 },
+    { "text": "Přidej kousky ryby, osol a opepři a nech je vařit, dokud nezměknou.", "minutes": 10 },
+    { "text": "Zalij rybu přeceděnou rajčatovou omáčkou a nech chvíli probublat.", "minutes": 5 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Gentile (č. 127, s. 92, pokračuje na s. 93) nedává množství ani porce: žralok nakrájený na větší kusy, nasekaný česnek, petržel a trochu cibule na oleji, osolit a opepřit, na závěr rajčatová omáčka č. 12 nechat probublat. Palomba (máčka) u nás není k dostání, proto je v řádku pevná bílá treska (500 g, asi 125 g na porci) a žralok je v `original` (asi 600 g celé ryby). Odhady pro 4 porce z běžné praxe: cibule 20 g, česnek 5 g (zdroj u smažené máčky počítá stroužek na libru ryby), petrželka 10 g, olivový olej 30 ml (2 lžíce), sůl 4 g a pepř 1 g podle chuti. Omáčka č. 12 je v poloviční velikosti proti samostatnému receptu: 400 g rajčat, 20 g cibule, 3 g česneku, 10 g celeru, 1 bobkový list a 5 g petrželky; olej a sůl jsou v hlavním řádku. Konzervovaná rajčata jsou přijatelná. Doba vaření zdroj neuvádí, čas 55 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 96,
+    "titleOriginal": "Stewed Dog-Fish (Palombo in umido)"
+  },
+  "verified": false,
+  "quote": "Cut the dog-fish in rather big pieces and then make a hash of garlic, parsley and very little onion."
+}

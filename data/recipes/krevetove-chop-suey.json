@@ -1,0 +1,188 @@
+{
+  "id": "krevetove-chop-suey",
+  "title": "Krevetové chop suey",
+  "titleOriginal": "Shrimp Chop Suey",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "korysi",
+    "lepek",
+    "mleko",
+    "ryby",
+    "soja"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "krevety",
+      "amount": 200,
+      "unit": "g",
+      "note": "vařené a loupané; zdroj 20 lb krevet se skořápkou (A.P.), po vaření a loupání odhad 55 %"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření krevet, slije se; domácí hodnota, krevety zakryté vodou",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opečení krevet; zdroj sádlo",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 75,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 110,
+      "unit": "g",
+      "note": "nakrájená na kostky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "klicky-mungo",
+      "amount": 230,
+      "unit": "g",
+      "note": "scezené"
+    },
+    {
+      "ingredientId": "rybi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj „fish stock or water“, zvolen vývar"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „butter or other fat“",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sojova-omacka",
+      "amount": 60,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 125,
+      "unit": "g",
+      "note": "suchá; uvařená rýže ze zdroje 21 lb, na 4 porce ≈ 380 g uvařené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření rýže, slije se; domácí hodnota 1 l na 100 g suché rýže",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření rýže, slije se; 2 g na 1 l",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži důkladně opláchni a vsyp do vroucí osolené vody. Vař bez míchání, dokud nezměkne, pak ji sceď a opláchni horkou vodou.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím krevety zalij vodou, přiveď k varu a vař 20 minut.",
+      "minutes": 28,
+      "parallel": true
+    },
+    {
+      "text": "Scezni krevety a ponoř je do studené vody, aby rychle vychladly.",
+      "minutes": 2
+    },
+    {
+      "text": "Oloupej krevety, ostrým nožem na špičku vyjmi černou žílu a důkladně je omyj.",
+      "minutes": 10
+    },
+    {
+      "text": "Na pánvi rozehřej olej a krevety v něm opékej 10 minut.",
+      "minutes": 12
+    },
+    {
+      "text": "Přidej cibuli, zelenou papriku, celer, rajčata, sůl a pepř a duš 10 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Vmíchej klíčky.",
+      "minutes": 2
+    },
+    {
+      "text": "V druhém hrnci přiveď rybí vývar k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Rozpusť máslo, rozmíchej ho s moukou na hladkou pastu a vmíchej do vývaru.",
+      "minutes": 4
+    },
+    {
+      "text": "Za stálého míchání vař asi 10 minut, dokud lehce nezhoustne.",
+      "minutes": 10
+    },
+    {
+      "text": "Vmíchej sójovou omáčku, přidej ji ke krevetám se zeleninou a znovu je ohřej.",
+      "minutes": 4
+    },
+    {
+      "text": "Podávej s rýží."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 8 oz (asi 1 šálek) bez rýže; rýže (21 lb uvařené) je odkaz na vařenou rýži na s. 25, zde jednoduchý postup ve slané vodě. Krevety: 20 lb se skořápkou (A.P.) = 360 g, po vaření a loupání odhad 55 % = 200 g (stejný výtěžek jako u Shrimps Creole); katalog krevety je položka vařené loupané (její USDA údaj je u syrových krevet, makra jsou tedy přibližná). Sádlo (40 g) nahrazeno řepkovým olejem na opečení krevet. Zdroj „fish stock or water“: zvolen rybí vývar, ne voda. Suchá rýže 125 g je odhad jako třetina uvařené hmotnosti. Voda a sůl do vody na vaření krevet a rýže jsou domácí hodnoty a slévají se. Kroky vařené rýže a krevet běží souběžně; součet nesouběžných kroků je 89 minut, timeMinutes 90. Nález maso 50 g na porci (mimo 80–250 g) sedí s kartou (20 lb krevet na 100 porcí, bez rýže je porce 8 oz); ponechán, pro hlavní jídlo doporučuji 1,5× množství krevet, nebo 80–100 g krevet na porci.",
+  "source": {
+    "book": "navy-1944",
+    "page": 97,
+    "titleOriginal": "SHRIMP CHOP SUEY"
+  },
+  "verified": false
+}

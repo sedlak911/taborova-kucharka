@@ -1,0 +1,86 @@
+{
+  "id": "rajcatove-nudle",
+  "title": "Rajčatové nudle s masem",
+  "titleOriginal": "Tomatennudeln",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 180,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "vroucí; množství zdroj neuvádí (doplněno, nudle ji hodně nasáknou)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí nebo vepřové; množství zdroj neuvádí (doplněno, 100 g na porci)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "místo polévkové zeleniny; množství zdroj neuvádí (doplněno, 1 střední cibule), nakrájená"
+    },
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 440,
+      "unit": "g",
+      "note": "suché; ve zdroji 180 g na hlavu"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 100,
+      "unit": "g",
+      "note": "zdroj: „bis zu 50 g“ na hlavu, tedy nejvýš; dávkuj podle chuti"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej maso, nakrájenou cibuli a sůl a vař skoro do měkka asi 2 a půl hodiny (vepřové maso jen asi 1 a půl hodiny).",
+      "minutes": 150
+    },
+    {
+      "text": "Přidej nudle a na mírném ohni vař dohotova, asi 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Dochuť rajčatovým protlakem a solí."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 180 g nudlí na muže; zde 110 g nudlí na porci, řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (rajčatového protlaku) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Zdroj popisuje jen rozdíl proti základní nudlové polévce: hotové jídlo se dochutí rajčatovým protlakem „bis zu 50 g“ na hlavu a místo polévkové zeleniny se použije cibule. Množství cibule (100 g), masa (400 g), vody (1,5 l) a soli (6 g) zdroj neuvádí, doplněno jako odhad, proto verified: false. Kvasniční extrakt ze základního receptu zdroj u této varianty neuvádí.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 20,
+    "code": "2. (varianta, tišt. 37)",
+    "titleOriginal": "Tomatennudeln"
+  },
+  "verified": false,
+  "quote": "Das gare Gericht ist mit Tomatenmark bis zu 50 g abzuschmecken."
+}

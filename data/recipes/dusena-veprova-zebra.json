@@ -1,0 +1,58 @@
+{
+  "id": "dusena-veprova-zebra",
+  "title": "Dušená vepřová žebra",
+  "titleOriginal": "Braised Spareribs",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 160,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-zebra",
+      "amount": 1180,
+      "unit": "g",
+      "note": "žebra s kostmi, nakrájená na kusy po čtyřech žebrech"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "odhad; zdroj uvádí vývar nebo vodu jen „tak, aby dno pánve bylo pokryté“"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Žebra nakrájej na kusy po čtyřech žebrech.", "minutes": 10 },
+    { "text": "Naskládej kusy do pekáčů co nejvolněji.", "minutes": 3 },
+    { "text": "Peč bez přikrytí, dokud žebra nezhnědnou.", "minutes": 20 },
+    { "text": "Posyp solí a pepřem.", "minutes": 2 },
+    { "text": "Přilij tolik vývaru, aby dno pekáče sotva zakrylo.", "minutes": 2 },
+    { "text": "Přikryj a peč při 160 °C, dokud se žebra neodlepují od masa.", "minutes": 120 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (65 lb žeber, porce 8 až 10 oz), na 4 porce vychází 1 180 g žeber s kostmi, tedy asi 295 g na porci, což odpovídá zdrojové porci. Vývar nebo voda nemá ve zdroji množství; použit hovězí vývar, odhad 250 ml na 4 porce (verified false). Sůl: sloupec Ounces uvádí 10 oz, sloupec Amounts „1¼ cups“; obě hodnoty jsou v souladu s poměrem 1 cup ≈ 8 oz u vepřových kotlet na stejné stránce, bereme 10 oz. Výsledkem je 18 g soli na 4 porce (třída seasoning, cca 4,5 g na porci, check:recipe to hlásí jako nález), doporučení: ubrat na polovinu podle chuti. Pepř: sloupec Ounces ½ oz (stejná hodnota u kotlet), Amounts „1 tablespoon“; použit ½ oz, jde o rozpor (verified false). Pepř je černý mletý, ve zdroji není upřesněn. Tuk na opečení zdroj nevyžaduje, žebra si ho uvolní sama. Recept nevyžaduje plotnu, tag kotlik z předlohy odebrán, protože zdroj peče v troubě. Hotovo 157 minut z 160.",
+  "source": {
+    "book": "navy-1944",
+    "page": 141,
+    "titleOriginal": "BRAISED SPARERIBS"
+  },
+  "verified": false,
+  "quote": "Cut spareribs into 4-rib pieces weighing about 8 to 10 ounces each."
+}

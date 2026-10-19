@@ -1,0 +1,4159 @@
+[
+  {
+    "id": "ananas",
+    "name": "Ananas",
+    "aliases": [
+      "ananas čerstvý"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 50,
+      "protein": 0.54,
+      "carbs": 13.12,
+      "fat": 0.12,
+      "fiber": 1.4
+    },
+    "units": {
+      "ks": 460,
+      "hrnek": 174
+    },
+    "ediblePortion": 0.51,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169124",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:169124 refuse 49%"
+    }
+  },
+  {
+    "id": "angrest",
+    "name": "Angrešt",
+    "aliases": [
+      "angrešty"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 44,
+      "protein": 0.88,
+      "carbs": 10.18,
+      "fat": 0.58,
+      "fiber": 4.3
+    },
+    "units": {
+      "hrnek": 158
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173030",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "arasidove-maslo",
+    "name": "Arašídové máslo",
+    "aliases": [
+      "burákové máslo",
+      "arašídový krém"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 598,
+      "protein": 22.21,
+      "carbs": 22.31,
+      "fat": 51.36,
+      "fiber": 5
+    },
+    "units": {
+      "lzice": 16,
+      "hrnek": 272
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "arasidy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174266",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "arasidovy-olej",
+    "name": "Arašídový olej",
+    "aliases": [
+      "olej arašídový"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 884,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.92,
+    "units": {
+      "lzice": 13.8,
+      "lzicka": 4.6,
+      "hrnek": 230
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "arasidy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171410",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "arasidy",
+    "name": "Arašídy",
+    "aliases": [
+      "burské oříšky",
+      "buráky",
+      "arašídy loupané"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 567,
+      "protein": 25.8,
+      "carbs": 16.13,
+      "fat": 49.24,
+      "fiber": 8.5
+    },
+    "units": {
+      "hrnek": 154
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "arasidy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172430",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "avokado",
+    "name": "Avokádo",
+    "aliases": [
+      "avokádo zralé"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 160,
+      "protein": 2,
+      "carbs": 8.53,
+      "fat": 14.66,
+      "fiber": 6.7
+    },
+    "units": {
+      "ks": 150
+    },
+    "ediblePortion": 0.74,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171705",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:171705 refuse 26%"
+    }
+  },
+  {
+    "id": "banan",
+    "name": "Banán",
+    "aliases": [
+      "banány"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 89,
+      "protein": 1.09,
+      "carbs": 22.84,
+      "fat": 0.33,
+      "fiber": 2.6
+    },
+    "units": {
+      "ks": 120
+    },
+    "ediblePortion": 0.64,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173944",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:173944 refuse 36%"
+    }
+  },
+  {
+    "id": "bazalka-cerstva",
+    "name": "Bazalka čerstvá",
+    "aliases": [
+      "bazalka"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 23,
+      "protein": 3.15,
+      "carbs": 2.65,
+      "fat": 0.64,
+      "fiber": 1.6
+    },
+    "units": {
+      "lzice": 2.5
+    },
+    "ediblePortion": 0.64,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172232",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:172232 refuse 36%"
+    }
+  },
+  {
+    "id": "bazalka-susena",
+    "name": "Bazalka sušená",
+    "aliases": [
+      "sušená bazalka"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 233,
+      "protein": 22.98,
+      "carbs": 47.75,
+      "fat": 4.07,
+      "fiber": 37.7
+    },
+    "units": {
+      "lzicka": 0.7,
+      "lzice": 2.1
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171317",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "bile-zeli",
+    "name": "Bílé zelí",
+    "aliases": [
+      "zelí bílé",
+      "zelí",
+      "hlávkové zelí"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 25,
+      "protein": 1.28,
+      "carbs": 5.8,
+      "fat": 0.1,
+      "fiber": 2.5
+    },
+    "units": {
+      "ks": 1000
+    },
+    "ediblePortion": 0.8,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169975",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169975 refuse 20%"
+    }
+  },
+  {
+    "id": "boruvky",
+    "name": "Borůvky",
+    "aliases": [
+      "borůvka",
+      "černé borůvky"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 57,
+      "protein": 0.74,
+      "carbs": 14.49,
+      "fat": 0.33,
+      "fiber": 2.4
+    },
+    "units": {
+      "hrnek": 156
+    },
+    "ediblePortion": 0.95,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171711",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:171711 refuse 5%"
+    }
+  },
+  {
+    "id": "brokolice",
+    "name": "Brokolice",
+    "aliases": [
+      "brokolice čerstvá"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 34,
+      "protein": 2.82,
+      "carbs": 6.64,
+      "fat": 0.37,
+      "fiber": 2.6
+    },
+    "units": {
+      "ks": 180
+    },
+    "ediblePortion": 0.61,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170379",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170379 refuse 39%"
+    }
+  },
+  {
+    "id": "brusinky",
+    "name": "Brusinky",
+    "aliases": [
+      "brusinky čerstvé",
+      "klikva"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 46,
+      "protein": 0.46,
+      "carbs": 11.97,
+      "fat": 0.13,
+      "fiber": 3.6
+    },
+    "units": {
+      "hrnek": 105
+    },
+    "ediblePortion": 0.98,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171722",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:171722 refuse 2%"
+    }
+  },
+  {
+    "id": "brusinky-susene",
+    "name": "Brusinky sušené",
+    "aliases": [
+      "sušené brusinky",
+      "klikva sušená"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 308,
+      "protein": 0.17,
+      "carbs": 82.8,
+      "fat": 1.09,
+      "fiber": 5.3
+    },
+    "units": {
+      "hrnek": 160
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171723",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "bulgur",
+    "name": "Bulgur",
+    "aliases": [
+      "bulgur pšeničný"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 342,
+      "protein": 12.29,
+      "carbs": 75.87,
+      "fat": 1.33,
+      "fiber": 12.5
+    },
+    "units": {
+      "hrnek": 148
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170688",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "cedar",
+    "name": "Čedar",
+    "aliases": [
+      "sýr čedar",
+      "cheddar"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 403,
+      "protein": 22.87,
+      "carbs": 3.37,
+      "fat": 33.31,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 119
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173414",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "cekanka",
+    "name": "Čekanka",
+    "aliases": [
+      "endivie",
+      "čekanka salátová"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 17,
+      "protein": 1.25,
+      "carbs": 3.35,
+      "fat": 0.2,
+      "fiber": 3.1
+    },
+    "units": {
+      "ks": 130
+    },
+    "ediblePortion": 0.86,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168412",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168412 refuse 14%"
+    }
+  },
+  {
+    "id": "celer-bulvovy",
+    "name": "Celer bulvový",
+    "aliases": [
+      "bulvový celer",
+      "celer"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 42,
+      "protein": 1.5,
+      "carbs": 9.2,
+      "fat": 0.3,
+      "fiber": 1.8
+    },
+    "units": {
+      "ks": 350
+    },
+    "ediblePortion": 0.86,
+    "allergens": [
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170400",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170400 refuse 14%"
+    }
+  },
+  {
+    "id": "celer-rapikaty",
+    "name": "Celer řapíkatý",
+    "aliases": [
+      "řapíkatý celer",
+      "celer stonkový"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 14,
+      "protein": 0.69,
+      "carbs": 2.97,
+      "fat": 0.17,
+      "fiber": 1.6
+    },
+    "units": {
+      "ks": 64,
+      "hrnek": 107
+    },
+    "ediblePortion": 0.89,
+    "allergens": [
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169988",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:169988 refuse 11%"
+    }
+  },
+  {
+    "id": "cervene-zeli",
+    "name": "Červené zelí",
+    "aliases": [
+      "zelí červené",
+      "modré zelí"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 31,
+      "protein": 1.43,
+      "carbs": 7.37,
+      "fat": 0.16,
+      "fiber": 2.1
+    },
+    "units": {
+      "ks": 900
+    },
+    "ediblePortion": 0.8,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169977",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169977 refuse 20%"
+    }
+  },
+  {
+    "id": "cesnek",
+    "name": "Česnek",
+    "aliases": [
+      "stroužek česneku",
+      "česnek čerstvý"
+    ],
+    "category": "zelenina",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 149,
+      "protein": 6.36,
+      "carbs": 33.06,
+      "fat": 0.5,
+      "fiber": 2.1
+    },
+    "units": {
+      "ks": 5,
+      "lzicka": 3
+    },
+    "ediblePortion": 0.87,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169230",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169230 refuse 13%"
+    }
+  },
+  {
+    "id": "chilli-papricky",
+    "name": "Chilli papričky",
+    "aliases": [
+      "chilli",
+      "chilli paprička",
+      "pálivá paprička"
+    ],
+    "category": "zelenina",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 40,
+      "protein": 1.87,
+      "carbs": 8.81,
+      "fat": 0.44,
+      "fiber": 1.5
+    },
+    "units": {
+      "ks": 33
+    },
+    "ediblePortion": 0.73,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170106",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170106 refuse 27%"
+    }
+  },
+  {
+    "id": "chilli-prasek",
+    "name": "Chilli prášek",
+    "aliases": [
+      "chilli koření",
+      "mleté chilli",
+      "chilli mleté"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 282,
+      "protein": 13.46,
+      "carbs": 49.7,
+      "fat": 14.28,
+      "fiber": 34.8
+    },
+    "units": {
+      "lzicka": 2.7,
+      "lzice": 8
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171319",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "chorizo",
+    "name": "Chorizo",
+    "aliases": [
+      "španělská klobása",
+      "klobása chorizo"
+    ],
+    "category": "uzeniny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 296,
+      "protein": 13.63,
+      "carbs": 3.78,
+      "fat": 25.1,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 60
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173859 (surové)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "cibule",
+    "name": "Cibule",
+    "aliases": [
+      "cibule žlutá",
+      "cibule kuchyňská"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 40,
+      "protein": 1.1,
+      "carbs": 9.34,
+      "fat": 0.1,
+      "fiber": 1.7
+    },
+    "units": {
+      "ks": 100
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170000",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170000 refuse 10%"
+    }
+  },
+  {
+    "id": "cibule-cervena",
+    "name": "Cibule červená",
+    "aliases": [
+      "červená cibule",
+      "cibule fialová"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 40,
+      "protein": 1.1,
+      "carbs": 9.34,
+      "fat": 0.1,
+      "fiber": 1.7
+    },
+    "units": {
+      "ks": 100
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170000 (náhrada: obecná syrová cibule, Tandoor onions-red 44 kcal)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170000 refuse 10%"
+    }
+  },
+  {
+    "id": "citron",
+    "name": "Citron",
+    "aliases": [
+      "citrón",
+      "citrony"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 29,
+      "protein": 1.1,
+      "carbs": 9.32,
+      "fat": 0.3,
+      "fiber": 2.8
+    },
+    "units": {
+      "ks": 45
+    },
+    "ediblePortion": 0.53,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167746",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:167746 refuse 47%"
+    }
+  },
+  {
+    "id": "citronova-stava",
+    "name": "Citronová šťáva",
+    "aliases": [
+      "šťáva z citronu",
+      "citronová štáva"
+    ],
+    "category": "ostatni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 22,
+      "protein": 0.35,
+      "carbs": 6.9,
+      "fat": 0.24,
+      "fiber": 0.3
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167747",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "cizrna-v-konzerve",
+    "name": "Cizrna v konzervě",
+    "aliases": [
+      "cizrna",
+      "cizrna konzervovaná"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 139,
+      "protein": 7.05,
+      "carbs": 22.53,
+      "fat": 2.77,
+      "fiber": 6.4
+    },
+    "units": {
+      "hrnek": 164
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173800",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "cocka-cervena",
+    "name": "Čočka červená",
+    "aliases": [
+      "červená čočka",
+      "čočka půlená"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 358,
+      "protein": 23.91,
+      "carbs": 63.1,
+      "fat": 2.17,
+      "fiber": 10.8
+    },
+    "units": {
+      "hrnek": 203
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174284",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "cottage-syr",
+    "name": "Cottage sýr",
+    "aliases": [
+      "cottage",
+      "cottage cheese",
+      "zrněný sýr"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 81,
+      "protein": 10.45,
+      "carbs": 4.76,
+      "fat": 2.27,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 238
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172182",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "creme-fraiche",
+    "name": "Crème fraîche",
+    "aliases": [
+      "creme fraiche",
+      "krémfreš"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 340,
+      "protein": 2.84,
+      "carbs": 2.84,
+      "fat": 36.08,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 15
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170859 (náhrada: smetana ke šlehání; Tandoor makra neúplná)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "cukr-krystal",
+    "name": "Cukr krystal",
+    "aliases": [
+      "cukr",
+      "cukr krupice",
+      "cukr bílý"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 387,
+      "protein": 0,
+      "carbs": 99.98,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 12.6,
+      "lzicka": 4.2,
+      "hrnek": 211
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169655",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "cukr-moucka",
+    "name": "Moučkový cukr",
+    "aliases": [
+      "moučkový cukr",
+      "moučka",
+      "cukr moučkový",
+      "cukr moučka"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 389,
+      "protein": 0,
+      "carbs": 99.77,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 8,
+      "hrnek": 127
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169656",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "datle",
+    "name": "Datle",
+    "aliases": [
+      "datle sušené",
+      "datle deglet noor"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 282,
+      "protein": 2.45,
+      "carbs": 75.03,
+      "fat": 0.39,
+      "fiber": 8
+    },
+    "units": {
+      "ks": 7,
+      "hrnek": 155
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171726",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:171726 refuse 10%"
+    }
+  },
+  {
+    "id": "drozdi-susene",
+    "name": "Droždí sušené",
+    "aliases": [
+      "sušené droždí",
+      "instantní droždí"
+    ],
+    "category": "trvanlive",
+    "scaling": "leavening",
+    "nutritionPer100g": {
+      "kcal": 325,
+      "protein": 40.44,
+      "carbs": 41.22,
+      "fat": 7.61,
+      "fiber": 26.9
+    },
+    "units": {
+      "lzicka": 4,
+      "lzice": 12
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175043",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "dyne-maslova",
+    "name": "Dýně máslová",
+    "aliases": [
+      "butternut",
+      "máslová dýně"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 45,
+      "protein": 1,
+      "carbs": 11.69,
+      "fat": 0.1,
+      "fiber": 2
+    },
+    "units": {
+      "hrnek": 148
+    },
+    "ediblePortion": 0.84,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169295",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:169295 refuse 16%"
+    }
+  },
+  {
+    "id": "emental",
+    "name": "Ementál",
+    "aliases": [
+      "sýr ementál",
+      "Swiss cheese"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 393,
+      "protein": 26.96,
+      "carbs": 1.44,
+      "fat": 30.99,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 114
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171251 (Swiss cheese jako náhrada ementálu)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "estragon-suseny",
+    "name": "Estragon sušený",
+    "aliases": [
+      "estragon",
+      "sušený estragon"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 295,
+      "protein": 22.77,
+      "carbs": 50.22,
+      "fat": 7.24,
+      "fiber": 7.4
+    },
+    "units": {
+      "lzicka": 0.6,
+      "lzice": 1.8
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170937",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "fazole-bile-v-konzerve",
+    "name": "Fazole bílé v konzervě",
+    "aliases": [
+      "fazole z konzervy"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 114,
+      "protein": 7.26,
+      "carbs": 21.2,
+      "fat": 0.29,
+      "fiber": 4.8
+    },
+    "units": {
+      "hrnek": 276
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175204",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "fenykl",
+    "name": "Fenykl",
+    "aliases": [
+      "fenykl bulva",
+      "fenykl hlíza"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 31,
+      "protein": 1.24,
+      "carbs": 7.3,
+      "fat": 0.2,
+      "fiber": 3.1
+    },
+    "units": {
+      "ks": 165
+    },
+    "ediblePortion": 0.72,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169385",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169385 refuse 28%"
+    }
+  },
+  {
+    "id": "fenyklova-seminka",
+    "name": "Fenyklová semínka",
+    "aliases": [
+      "fenykl semínka",
+      "fenyklové semeno"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 345,
+      "protein": 15.8,
+      "carbs": 52.29,
+      "fat": 14.87,
+      "fiber": 39.8
+    },
+    "units": {
+      "lzicka": 2,
+      "lzice": 5.8
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171323",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "feta",
+    "name": "Feta",
+    "aliases": [
+      "sýr feta",
+      "balkánský sýr"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 265,
+      "protein": 14.21,
+      "carbs": 3.88,
+      "fat": 21.49,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 158,
+      "lzice": 9
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173420",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "fiky",
+    "name": "Fíky",
+    "aliases": [
+      "fík",
+      "fíky čerstvé"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 74,
+      "protein": 0.75,
+      "carbs": 19.18,
+      "fat": 0.3,
+      "fiber": 2.9
+    },
+    "units": {
+      "ks": 50
+    },
+    "ediblePortion": 0.99,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173021",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:173021 refuse 1%"
+    }
+  },
+  {
+    "id": "garam-masala",
+    "name": "Garam masala",
+    "aliases": [
+      "garam masála"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 325,
+      "protein": 14.29,
+      "carbs": 55.83,
+      "fat": 14.01,
+      "fiber": 53.2
+    },
+    "units": {
+      "lzicka": 2.5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170924 (náhrada: kari koření; Tandoor makra garam masaly nekonzistentní)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "ghi",
+    "name": "Ghí",
+    "aliases": [
+      "přepuštěné máslo",
+      "ghee",
+      "máslo přepuštěné"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 900,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 13,
+      "lzicka": 4.3
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171314",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "grapefruit",
+    "name": "Grapefruit",
+    "aliases": [
+      "grep",
+      "grapefruit bílý"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 33,
+      "protein": 0.69,
+      "carbs": 8.41,
+      "fat": 0.1,
+      "fiber": 1.1
+    },
+    "units": {
+      "ks": 120
+    },
+    "ediblePortion": 0.49,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174676",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:174676 refuse 51%"
+    }
+  },
+  {
+    "id": "gruyere",
+    "name": "Gruyère",
+    "aliases": [
+      "sýr gruyère",
+      "gruyer"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 413,
+      "protein": 29.81,
+      "carbs": 0.36,
+      "fat": 32.34,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 139
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171242",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "hladka-mouka",
+    "name": "Hladká mouka",
+    "aliases": [
+      "mouka hladká",
+      "pšeničná mouka",
+      "mouka",
+      "pšeničná hladká mouka"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 364,
+      "protein": 10.33,
+      "carbs": 76.31,
+      "fat": 0.98,
+      "fiber": 2.7
+    },
+    "units": {
+      "lzice": 8,
+      "hrnek": 132
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168936 (unbleached enriched jako náhrada hladké mouky)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "hliva-ustricna",
+    "name": "Hlíva ústřičná",
+    "aliases": [
+      "hlíva",
+      "ústřičná houba"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 33,
+      "protein": 3.31,
+      "carbs": 6.09,
+      "fat": 0.41,
+      "fiber": 2.3
+    },
+    "units": {
+      "ks": 50
+    },
+    "ediblePortion": 0.89,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168580",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168580 refuse 11%"
+    }
+  },
+  {
+    "id": "horcice",
+    "name": "Hořčice",
+    "aliases": [
+      "hořčice plnotučná",
+      "hořčice kremžská",
+      "hořčice žlutá",
+      "hořčice stolní"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 60,
+      "protein": 3.74,
+      "carbs": 5.83,
+      "fat": 3.34,
+      "fiber": 4
+    },
+    "densityGPerMl": 1.05,
+    "units": {
+      "lzice": 15,
+      "lzicka": 5,
+      "hrnek": 263
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "horcice"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172234",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "hrasek",
+    "name": "Hrášek",
+    "aliases": [
+      "zelený hrášek",
+      "hrách zelený"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 81,
+      "protein": 5.42,
+      "carbs": 14.45,
+      "fat": 0.4,
+      "fiber": 5.7
+    },
+    "units": {
+      "hrnek": 153
+    },
+    "ediblePortion": 0.38,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170419",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:170419 refuse 62%"
+    }
+  },
+  {
+    "id": "hrebicek-mlety",
+    "name": "Hřebíček mletý",
+    "aliases": [
+      "hřebíček",
+      "mletý hřebíček"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 274,
+      "protein": 5.97,
+      "carbs": 65.53,
+      "fat": 13,
+      "fiber": 33.9
+    },
+    "units": {
+      "lzicka": 2.1,
+      "lzice": 6.5
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171321",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "hroznove-vino",
+    "name": "Hroznové víno",
+    "aliases": [
+      "víno hroznové",
+      "hrozny",
+      "hrozen"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 69,
+      "protein": 0.72,
+      "carbs": 18.1,
+      "fat": 0.16,
+      "fiber": 0.9
+    },
+    "units": {
+      "hrnek": 158
+    },
+    "ediblePortion": 0.96,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174683",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:174683 refuse 4%"
+    }
+  },
+  {
+    "id": "jablko",
+    "name": "Jablko",
+    "aliases": [
+      "jablka",
+      "jablko čerstvé"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 52,
+      "protein": 0.26,
+      "carbs": 13.81,
+      "fat": 0.17,
+      "fiber": 2.4
+    },
+    "units": {
+      "ks": 150
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171688",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:171688 refuse 10%"
+    }
+  },
+  {
+    "id": "jahly",
+    "name": "Jáhly",
+    "aliases": [
+      "jáhly loupané",
+      "proso",
+      "jáhly pšenové",
+      "proso loupané"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 378,
+      "protein": 11.02,
+      "carbs": 72.85,
+      "fat": 4.22,
+      "fiber": 8.5
+    },
+    "units": {
+      "hrnek": 211
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169702",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "jahody",
+    "name": "Jahody",
+    "aliases": [
+      "jahoda",
+      "jahody čerstvé"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 32,
+      "protein": 0.67,
+      "carbs": 7.68,
+      "fat": 0.3,
+      "fiber": 2
+    },
+    "units": {
+      "hrnek": 158
+    },
+    "ediblePortion": 0.94,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167762",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:167762 refuse 6%"
+    }
+  },
+  {
+    "id": "jalapeno",
+    "name": "Jalapeño",
+    "aliases": [
+      "jalapeno",
+      "jalapeño paprička"
+    ],
+    "category": "zelenina",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 29,
+      "protein": 0.91,
+      "carbs": 6.5,
+      "fat": 0.37,
+      "fiber": 2.8
+    },
+    "units": {
+      "ks": 14
+    },
+    "ediblePortion": 0.92,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168576",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168576 refuse 8%"
+    }
+  },
+  {
+    "id": "jarni-cibulka",
+    "name": "Jarní cibulka",
+    "aliases": [
+      "jarní cibule",
+      "cibulka",
+      "pažitka cibule"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 32,
+      "protein": 1.83,
+      "carbs": 7.34,
+      "fat": 0.19,
+      "fiber": 2.6
+    },
+    "units": {
+      "ks": 15,
+      "hrnek": 105
+    },
+    "ediblePortion": 0.96,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170005",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:170005 refuse 4%"
+    }
+  },
+  {
+    "id": "javorovy-sirup",
+    "name": "Javorový sirup",
+    "aliases": [
+      "sirup javorový",
+      "javorový syrup"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 260,
+      "protein": 0.04,
+      "carbs": 67.04,
+      "fat": 0.06,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.33,
+    "units": {
+      "lzice": 20,
+      "lzicka": 6.7,
+      "hrnek": 322
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169661",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "jedla-soda",
+    "name": "Jedlá soda",
+    "aliases": [
+      "soda bikarbona",
+      "soda",
+      "hydrogenuhličitan sodný"
+    ],
+    "category": "trvanlive",
+    "scaling": "leavening",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzicka": 4.6
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175040",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "jogurt-bily",
+    "name": "Jogurt bílý",
+    "aliases": [
+      "bílý jogurt",
+      "jogurt plnotučný"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 61,
+      "protein": 3.47,
+      "carbs": 4.66,
+      "fat": 3.25,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171284",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kakao",
+    "name": "Kakao",
+    "aliases": [
+      "kakaový prášek",
+      "kakao neslazené",
+      "holandské kakao",
+      "kakao holandské"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 228,
+      "protein": 19.6,
+      "carbs": 57.9,
+      "fat": 13.7,
+      "fiber": 37
+    },
+    "units": {
+      "lzice": 5.4,
+      "lzicka": 1.8,
+      "hrnek": 91
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169593",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "kapusta-kaderavek",
+    "name": "Kapusta kadeřávek",
+    "aliases": [
+      "kadeřávek",
+      "kale"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 35,
+      "protein": 2.92,
+      "carbs": 4.42,
+      "fat": 1.49,
+      "fiber": 4.1
+    },
+    "units": {},
+    "ediblePortion": 0.72,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168421",
+      "refuse": "USDA SR Legacy fdc:168421 refuse 28%"
+    }
+  },
+  {
+    "id": "kari-koreni",
+    "name": "Kari koření",
+    "aliases": [
+      "kari",
+      "kari prášek",
+      "curry"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 325,
+      "protein": 14.29,
+      "carbs": 55.83,
+      "fat": 14.01,
+      "fiber": 53.2
+    },
+    "units": {
+      "lzicka": 2,
+      "lzice": 6.3
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170924",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kecup",
+    "name": "Kečup",
+    "aliases": [
+      "kečup rajčatový",
+      "catsup",
+      "kečup jemný"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 101,
+      "protein": 1.04,
+      "carbs": 27.4,
+      "fat": 0.1,
+      "fiber": 0.3
+    },
+    "densityGPerMl": 1.13,
+    "units": {
+      "lzice": 17,
+      "lzicka": 5.7,
+      "hrnek": 280
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168556",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kedlubna",
+    "name": "Kedlubna",
+    "aliases": [
+      "kedlubna čerstvá"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 27,
+      "protein": 1.7,
+      "carbs": 6.2,
+      "fat": 0.1,
+      "fiber": 3.6
+    },
+    "units": {
+      "ks": 115
+    },
+    "ediblePortion": 0.46,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168424",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168424 refuse 54%"
+    }
+  },
+  {
+    "id": "kesu",
+    "name": "Kešu",
+    "aliases": [
+      "kešu ořechy",
+      "kešu ořechy nesolené"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 553,
+      "protein": 18.22,
+      "carbs": 30.19,
+      "fat": 43.85,
+      "fiber": 3.3
+    },
+    "units": {
+      "hrnek": 130
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170162",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "klementinky",
+    "name": "Klementinky",
+    "aliases": [
+      "klementinka",
+      "mandarinky"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 47,
+      "protein": 0.85,
+      "carbs": 12.02,
+      "fat": 0.15,
+      "fiber": 1.7
+    },
+    "units": {
+      "ks": 58
+    },
+    "ediblePortion": 0.77,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168195",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168195 refuse 23%"
+    }
+  },
+  {
+    "id": "kokos-strouhany",
+    "name": "Kokos strouhaný",
+    "aliases": [
+      "strouhaný kokos",
+      "kokosové vločky"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 660,
+      "protein": 6.88,
+      "carbs": 23.65,
+      "fat": 64.53,
+      "fiber": 16.3
+    },
+    "units": {
+      "hrnek": 80
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170170 (sušený neslazený; tandoor položka je slazená vločková)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kokosove-mleko",
+    "name": "Kokosové mléko",
+    "aliases": [
+      "kokosové mléko konzervované",
+      "mléko kokosové"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 197,
+      "protein": 2.02,
+      "carbs": 2.81,
+      "fat": 21.33,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.96,
+    "units": {
+      "lzice": 14.4,
+      "lzicka": 4.8,
+      "hrnek": 240
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170173",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kopr-cerstvy",
+    "name": "Kopr čerstvý",
+    "aliases": [
+      "kopr",
+      "koprová nať"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 43,
+      "protein": 3.46,
+      "carbs": 7.02,
+      "fat": 1.12,
+      "fiber": 2.1
+    },
+    "units": {
+      "lzice": 1.7
+    },
+    "ediblePortion": 0.59,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172233",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:172233 refuse 41%"
+    }
+  },
+  {
+    "id": "koriandr-cerstvy",
+    "name": "Koriandr čerstvý",
+    "aliases": [
+      "koriandr",
+      "cilantro",
+      "listy koriandru"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 23,
+      "protein": 2.13,
+      "carbs": 3.67,
+      "fat": 0.52,
+      "fiber": 2.8
+    },
+    "units": {
+      "lzice": 1
+    },
+    "ediblePortion": 0.85,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169997",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169997 refuse 15%"
+    }
+  },
+  {
+    "id": "kremovy-syr",
+    "name": "Krémový sýr",
+    "aliases": [
+      "tavený krémový sýr",
+      "cream cheese",
+      "smetanový sýr"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 350,
+      "protein": 6.15,
+      "carbs": 5.52,
+      "fat": 34.44,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 14.5,
+      "hrnek": 245
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173418",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "krupice-psenicna",
+    "name": "Krupice pšeničná",
+    "aliases": [
+      "krupice",
+      "pšeničná krupice"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 369,
+      "protein": 10.6,
+      "carbs": 78,
+      "fat": 0.5,
+      "fiber": 1.9
+    },
+    "units": {
+      "lzice": 11,
+      "hrnek": 186
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173916",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "kukurice-konzervovana",
+    "name": "Kukuřice konzervovaná",
+    "aliases": [
+      "kukuřice",
+      "sladká kukuřice",
+      "kukuřice z konzervy"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 67,
+      "protein": 2.29,
+      "carbs": 14.34,
+      "fat": 1.22,
+      "fiber": 2
+    },
+    "units": {
+      "hrnek": 210
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169214",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kukuricny-skrob",
+    "name": "Kukuřičný škrob",
+    "aliases": [
+      "škrob kukuřičný",
+      "Gustin",
+      "maizena"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 381,
+      "protein": 0.26,
+      "carbs": 91.27,
+      "fat": 0.05,
+      "fiber": 0.9
+    },
+    "units": {
+      "lzice": 8,
+      "hrnek": 135
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169698",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "kureci-kridelka",
+    "name": "Kuřecí křidélka",
+    "aliases": [
+      "kuřecí křidýlko",
+      "křidélka"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 191,
+      "protein": 17.52,
+      "carbs": 0,
+      "fat": 12.85,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 65
+    },
+    "ediblePortion": 0.62,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172390",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:172390 refuse 38%"
+    }
+  },
+  {
+    "id": "kureci-palicky",
+    "name": "Kuřecí paličky",
+    "aliases": [
+      "kuřecí palička",
+      "paličky"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 116,
+      "protein": 19.41,
+      "carbs": 0,
+      "fat": 3.71,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 75
+    },
+    "ediblePortion": 0.58,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173614",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:173614 refuse 42%"
+    }
+  },
+  {
+    "id": "kureci-prsa",
+    "name": "Kuřecí prsa",
+    "aliases": [
+      "kuřecí prso",
+      "kuřecí řízek"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 120,
+      "protein": 22.5,
+      "carbs": 0,
+      "fat": 2.62,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 180
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171077",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "kuskus",
+    "name": "Kuskus",
+    "aliases": [
+      "kuskus pšeničný",
+      "couscous"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 376,
+      "protein": 12.76,
+      "carbs": 77.43,
+      "fat": 0.64,
+      "fiber": 5
+    },
+    "units": {
+      "hrnek": 182
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169699",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "kvetak",
+    "name": "Květák",
+    "aliases": [
+      "květák čerstvý"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 25,
+      "protein": 1.92,
+      "carbs": 4.97,
+      "fat": 0.28,
+      "fiber": 2
+    },
+    "units": {
+      "ks": 235
+    },
+    "ediblePortion": 0.39,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169986",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169986 refuse 61%"
+    }
+  },
+  {
+    "id": "lilek",
+    "name": "Lilek",
+    "aliases": [
+      "baklažán"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 25,
+      "protein": 0.98,
+      "carbs": 5.88,
+      "fat": 0.18,
+      "fiber": 3
+    },
+    "units": {
+      "ks": 285
+    },
+    "ediblePortion": 0.81,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169228",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169228 refuse 19%"
+    }
+  },
+  {
+    "id": "limetka",
+    "name": "Limetka",
+    "aliases": [
+      "limetky",
+      "lime"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 30,
+      "protein": 0.7,
+      "carbs": 10.54,
+      "fat": 0.2,
+      "fiber": 2.8
+    },
+    "units": {
+      "ks": 55
+    },
+    "ediblePortion": 0.84,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168155",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168155 refuse 16%"
+    }
+  },
+  {
+    "id": "limetkova-stava",
+    "name": "Limetková šťáva",
+    "aliases": [
+      "šťáva z limetky"
+    ],
+    "category": "ostatni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 25,
+      "protein": 0.42,
+      "carbs": 8.42,
+      "fat": 0.07,
+      "fiber": 0.4
+    },
+    "densityGPerMl": 1.02,
+    "units": {
+      "lzice": 15.3,
+      "lzicka": 5.1,
+      "hrnek": 255
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168156",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "liskove-orechy",
+    "name": "Lískové ořechy",
+    "aliases": [
+      "lískové oříšky",
+      "lískáče"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 628,
+      "protein": 14.95,
+      "carbs": 16.7,
+      "fat": 60.75,
+      "fiber": 9.7
+    },
+    "units": {
+      "hrnek": 142
+    },
+    "ediblePortion": 0.41,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170581",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:170581 refuse 59%"
+    }
+  },
+  {
+    "id": "lisky",
+    "name": "Lišky",
+    "aliases": [
+      "liška obecná",
+      "kuřátka"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 32,
+      "protein": 1.49,
+      "carbs": 6.86,
+      "fat": 0.53,
+      "fiber": 3.8
+    },
+    "units": {
+      "hrnek": 57
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168422",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "listove-testo",
+    "name": "Listové těsto",
+    "aliases": [
+      "těsto listové",
+      "listové těsto mražené"
+    ],
+    "category": "mrazene",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 551,
+      "protein": 7.3,
+      "carbs": 45.1,
+      "fat": 38.1,
+      "fiber": 1.5
+    },
+    "units": {
+      "ks": 250
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172790",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "lnene-seminko",
+    "name": "Lněné semínko",
+    "aliases": [
+      "len",
+      "lněná semínka",
+      "semínka lněná"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 534,
+      "protein": 18.29,
+      "carbs": 28.88,
+      "fat": 42.16,
+      "fiber": 27.3
+    },
+    "units": {
+      "lzice": 10.3,
+      "hrnek": 177
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169414",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "majoneza",
+    "name": "Majonéza",
+    "aliases": [
+      "majolka",
+      "majonéza vaječná"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 680,
+      "protein": 0.96,
+      "carbs": 0.57,
+      "fat": 74.85,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.93,
+    "units": {
+      "lzice": 13.8,
+      "hrnek": 232
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "vejce",
+      "horcice"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171009",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "majoranka",
+    "name": "Majoránka",
+    "aliases": [
+      "majoránka sušená",
+      "sušená majoránka",
+      "majorán"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 271,
+      "protein": 12.66,
+      "carbs": 60.56,
+      "fat": 7.04,
+      "fiber": 40.3
+    },
+    "units": {
+      "lzicka": 0.6,
+      "lzice": 1.7
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170928",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "maliny",
+    "name": "Maliny",
+    "aliases": [
+      "malina",
+      "maliny čerstvé"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 52,
+      "protein": 1.2,
+      "carbs": 11.94,
+      "fat": 0.65,
+      "fiber": 6.5
+    },
+    "units": {
+      "hrnek": 130
+    },
+    "ediblePortion": 0.96,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167755",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:167755 refuse 4%"
+    }
+  },
+  {
+    "id": "mandarinky-v-konzerve",
+    "name": "Mandarinky v konzervě",
+    "aliases": [
+      "mandarinky z konzervy",
+      "mandarinky kompot"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 37,
+      "protein": 0.62,
+      "carbs": 9.57,
+      "fat": 0.03,
+      "fiber": 0.7
+    },
+    "units": {
+      "hrnek": 263
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169106",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "aliases": [
+      "mango zralé"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 60,
+      "protein": 0.82,
+      "carbs": 14.98,
+      "fat": 0.38,
+      "fiber": 1.6
+    },
+    "units": {
+      "ks": 235
+    },
+    "ediblePortion": 0.71,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169910",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169910 refuse 29%"
+    }
+  },
+  {
+    "id": "mangold",
+    "name": "Mangold",
+    "aliases": [
+      "mangold čerstvý"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 19,
+      "protein": 1.8,
+      "carbs": 3.74,
+      "fat": 0.2,
+      "fiber": 1.6
+    },
+    "units": {},
+    "ediblePortion": 0.92,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169991",
+      "refuse": "USDA SR Legacy fdc:169991 refuse 8%"
+    }
+  },
+  {
+    "id": "mascarpone",
+    "name": "Mascarpone",
+    "aliases": [
+      "sýr mascarpone"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 429,
+      "protein": 3.57,
+      "carbs": 3.57,
+      "fat": 42.86,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 15
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-mascarpone; vláknina nedohledána, 0",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "maslo",
+    "name": "Máslo",
+    "aliases": [
+      "máslo nesolené",
+      "máslo čerstvé"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 717,
+      "protein": 0.85,
+      "carbs": 0.06,
+      "fat": 81.11,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 14.2,
+      "lzicka": 4.7,
+      "hrnek": 239
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173430",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "mata",
+    "name": "Máta",
+    "aliases": [
+      "máta peprná",
+      "čerstvá máta",
+      "mentha"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 44,
+      "protein": 3.29,
+      "carbs": 8.41,
+      "fat": 0.73,
+      "fiber": 6.8
+    },
+    "units": {
+      "lzice": 2
+    },
+    "ediblePortion": 0.41,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173475",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:173475 refuse 59%"
+    }
+  },
+  {
+    "id": "med",
+    "name": "Med",
+    "aliases": [
+      "včelí med",
+      "med květový",
+      "med lesní"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 304,
+      "protein": 0.3,
+      "carbs": 82.4,
+      "fat": 0,
+      "fiber": 0.2
+    },
+    "densityGPerMl": 1.42,
+    "units": {
+      "lzice": 21,
+      "lzicka": 7,
+      "hrnek": 358
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169640",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "melasa",
+    "name": "Melasa",
+    "aliases": [
+      "melasa tmavá",
+      "melasa třtinová"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 290,
+      "protein": 0,
+      "carbs": 74.73,
+      "fat": 0.1,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.42,
+    "units": {
+      "lzice": 20,
+      "hrnek": 355
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168820",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "merunky",
+    "name": "Meruňky",
+    "aliases": [
+      "meruňka"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 48,
+      "protein": 1.4,
+      "carbs": 11.12,
+      "fat": 0.39,
+      "fiber": 2
+    },
+    "units": {
+      "ks": 35
+    },
+    "ediblePortion": 0.93,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171697",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:171697 refuse 7%"
+    }
+  },
+  {
+    "id": "miso",
+    "name": "Miso",
+    "aliases": [
+      "miso pasta"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 198,
+      "protein": 12.79,
+      "carbs": 25.37,
+      "fat": 6.01,
+      "fiber": 5.4
+    },
+    "units": {
+      "lzice": 17,
+      "hrnek": 290
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "soja"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172442",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "mleko-odtucnene",
+    "name": "Mléko odtučněné",
+    "aliases": [
+      "odtučněné mléko",
+      "nízkotučné mléko"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 35,
+      "protein": 3.37,
+      "carbs": 4.86,
+      "fat": 0.18,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173432",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "mleko-plnotucne",
+    "name": "Mléko plnotučné",
+    "aliases": [
+      "plnotučné mléko",
+      "mléko"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 61,
+      "protein": 3.15,
+      "carbs": 4.8,
+      "fat": 3.25,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171265",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "mleko-polotucne",
+    "name": "Mléko polotučné",
+    "aliases": [
+      "polotučné mléko"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 50,
+      "protein": 3.3,
+      "carbs": 4.8,
+      "fat": 1.98,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171267",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "muskatovy-orisek",
+    "name": "Muškátový oříšek",
+    "aliases": [
+      "muškát",
+      "mletý muškátový oříšek",
+      "muškátový oříšek mletý"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 525,
+      "protein": 5.84,
+      "carbs": 49.29,
+      "fat": 36.31,
+      "fiber": 20.8
+    },
+    "units": {
+      "lzicka": 2.2,
+      "lzice": 7
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171326",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "nektarinky",
+    "name": "Nektarinky",
+    "aliases": [
+      "nektarinka"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 44,
+      "protein": 1.06,
+      "carbs": 10.55,
+      "fat": 0.32,
+      "fiber": 1.7
+    },
+    "units": {
+      "ks": 140
+    },
+    "ediblePortion": 0.91,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169914",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169914 refuse 9%"
+    }
+  },
+  {
+    "id": "ocet-balzamikovy",
+    "name": "Ocet balzamikový",
+    "aliases": [
+      "balzamikový ocet",
+      "balsamico"
+    ],
+    "category": "trvanlive",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 88,
+      "protein": 0.49,
+      "carbs": 17.03,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.1,
+    "units": {
+      "lzice": 16.5,
+      "lzicka": 5.5,
+      "hrnek": 275
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "siricitany"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172241",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "ocet-jablecny",
+    "name": "Ocet jablečný",
+    "aliases": [
+      "jablečný ocet"
+    ],
+    "category": "trvanlive",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 21,
+      "protein": 0,
+      "carbs": 0.93,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.01,
+    "units": {
+      "lzice": 15.2,
+      "lzicka": 5.0,
+      "hrnek": 252
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173469",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "okurka-salatova",
+    "name": "Okurka salátová",
+    "aliases": [
+      "okurka",
+      "salátová okurka"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 15,
+      "protein": 0.65,
+      "carbs": 3.63,
+      "fat": 0.11,
+      "fiber": 0.5
+    },
+    "units": {
+      "ks": 300
+    },
+    "ediblePortion": 0.97,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168409",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:168409 refuse 3%"
+    }
+  },
+  {
+    "id": "okurky-kysele",
+    "name": "Okurky kyselé",
+    "aliases": [
+      "kyselé okurky",
+      "nakládané okurky",
+      "okurky"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 11,
+      "protein": 0.33,
+      "carbs": 2.26,
+      "fat": 0.2,
+      "fiber": 1.2
+    },
+    "units": {
+      "ks": 65
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169379",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "olivovy-olej",
+    "name": "Olivový olej",
+    "aliases": [
+      "olej olivový",
+      "olivový olej extra panenský"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 884,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.92,
+    "units": {
+      "lzice": 13.8,
+      "lzicka": 4.6,
+      "hrnek": 230
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171413",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "olivy-cerne",
+    "name": "Olivy černé",
+    "aliases": [
+      "černé olivy",
+      "olivy"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 116,
+      "protein": 0.84,
+      "carbs": 6.04,
+      "fat": 10.9,
+      "fiber": 1.6
+    },
+    "units": {
+      "lzice": 8.4,
+      "ks": 3.2
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169094",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "ovesne-vlocky",
+    "name": "Ovesné vločky",
+    "aliases": [
+      "vločky ovesné",
+      "ovesné vločky jemné"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 379,
+      "protein": 13.15,
+      "carbs": 67.7,
+      "fat": 6.52,
+      "fiber": 10.1
+    },
+    "units": {
+      "lzice": 5,
+      "hrnek": 85
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173904",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "parmezan",
+    "name": "Parmezán",
+    "aliases": [
+      "sýr parmezán",
+      "parmigiano"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 392,
+      "protein": 35.75,
+      "carbs": 3.22,
+      "fat": 25,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 5
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170848 (hard, strouhaný ≈ 5 g/lžíci)",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "pekanove-orechy",
+    "name": "Pekanové ořechy",
+    "aliases": [
+      "pekany",
+      "pekanové ořechy loupané"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 691,
+      "protein": 9.17,
+      "carbs": 13.86,
+      "fat": 71.97,
+      "fiber": 9.6
+    },
+    "units": {
+      "hrnek": 115
+    },
+    "ediblePortion": 0.53,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170182",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:170182 refuse 47%"
+    }
+  },
+  {
+    "id": "petrzel-nat",
+    "name": "Petržel nať",
+    "aliases": [
+      "petrželka",
+      "petrželová nať",
+      "nať petrželová"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 36,
+      "protein": 2.97,
+      "carbs": 6.33,
+      "fat": 0.79,
+      "fiber": 3.3
+    },
+    "units": {
+      "lzice": 4
+    },
+    "ediblePortion": 0.95,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170416",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170416 refuse 5%"
+    }
+  },
+  {
+    "id": "podmasli",
+    "name": "Podmáslí",
+    "aliases": [
+      "podmáslí čerstvé"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 62,
+      "protein": 3.21,
+      "carbs": 4.88,
+      "fat": 3.31,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172225",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "porek",
+    "name": "Pórek",
+    "aliases": [
+      "pórek zelený",
+      "por"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 61,
+      "protein": 1.5,
+      "carbs": 14.15,
+      "fat": 0.3,
+      "fiber": 1.8
+    },
+    "units": {
+      "ks": 65
+    },
+    "ediblePortion": 0.44,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169246",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169246 refuse 56%"
+    }
+  },
+  {
+    "id": "rajcata-konzervovana",
+    "name": "Rajčata konzervovaná",
+    "aliases": [
+      "loupaná rajčata",
+      "rajčata v plechovce",
+      "krájená rajčata"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 16,
+      "protein": 0.79,
+      "carbs": 3.47,
+      "fat": 0.25,
+      "fiber": 1.9
+    },
+    "units": {
+      "hrnek": 253,
+      "lzice": 15
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170051",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "recky-jogurt",
+    "name": "Řecký jogurt",
+    "aliases": [
+      "jogurt řecký"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 95,
+      "protein": 8.78,
+      "carbs": 4.75,
+      "fat": 4.39,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-yogurt-greek-plain-whole-milk; vláknina nedohledána, 0",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "repa-cervena",
+    "name": "Řepa červená",
+    "aliases": [
+      "červená řepa",
+      "řepa"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 43,
+      "protein": 1.61,
+      "carbs": 9.56,
+      "fat": 0.17,
+      "fiber": 2.8
+    },
+    "units": {
+      "ks": 67
+    },
+    "ediblePortion": 0.67,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169145",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169145 refuse 33%"
+    }
+  },
+  {
+    "id": "ricotta",
+    "name": "Ricotta",
+    "aliases": [
+      "sýr ricotta"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 150,
+      "protein": 7.54,
+      "carbs": 7.27,
+      "fat": 10.18,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 259
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170851",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "ruzickova-kapusta",
+    "name": "Růžičková kapusta",
+    "aliases": [
+      "růžičková kapusta čerstvá",
+      "kapustičky"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 43,
+      "protein": 3.38,
+      "carbs": 8.95,
+      "fat": 0.3,
+      "fiber": 3.8
+    },
+    "units": {
+      "ks": 19
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170383",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:170383 refuse 10%"
+    }
+  },
+  {
+    "id": "rybi-omacka",
+    "name": "Rybí omáčka",
+    "aliases": [
+      "omáčka rybí",
+      "nam pla"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 35,
+      "protein": 5.06,
+      "carbs": 3.64,
+      "fat": 0.01,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.2,
+    "units": {
+      "lzice": 18,
+      "hrnek": 290
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174531",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "rybiz-cerny",
+    "name": "Rybíz černý",
+    "aliases": [
+      "černý rybíz"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 63,
+      "protein": 1.4,
+      "carbs": 15.38,
+      "fat": 0.41,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 118
+    },
+    "ediblePortion": 0.98,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173963",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:173963 refuse 2%"
+    }
+  },
+  {
+    "id": "rybiz-cerveny",
+    "name": "Rybíz červený",
+    "aliases": [
+      "červený rybíz",
+      "rybíz"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 56,
+      "protein": 1.4,
+      "carbs": 13.8,
+      "fat": 0.2,
+      "fiber": 4.3
+    },
+    "units": {
+      "hrnek": 118
+    },
+    "ediblePortion": 0.98,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173964",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:173964 refuse 2%"
+    }
+  },
+  {
+    "id": "ryze-bila",
+    "name": "Rýže bílá",
+    "aliases": [
+      "rýže dlouhozrnná",
+      "rýže"
+    ],
+    "category": "testoviny-a-ryze",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 365,
+      "protein": 7.13,
+      "carbs": 79.95,
+      "fat": 0.66,
+      "fiber": 1.3
+    },
+    "units": {
+      "hrnek": 195
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169756",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "ryzove-nudle",
+    "name": "Rýžové nudle",
+    "aliases": [
+      "nudle rýžové"
+    ],
+    "category": "testoviny-a-ryze",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 364,
+      "protein": 5.95,
+      "carbs": 80.18,
+      "fat": 0.56,
+      "fiber": 1.6
+    },
+    "units": {},
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169742"
+    }
+  },
+  {
+    "id": "salat-ledovy",
+    "name": "Salát ledový",
+    "aliases": [
+      "ledový salát",
+      "hlávkový salát"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 14,
+      "protein": 0.9,
+      "carbs": 2.97,
+      "fat": 0.14,
+      "fiber": 1.2
+    },
+    "units": {
+      "ks": 540
+    },
+    "ediblePortion": 0.95,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169248",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169248 refuse 5%"
+    }
+  },
+  {
+    "id": "salat-rimsky",
+    "name": "Salát římský",
+    "aliases": [
+      "římský salát",
+      "romaine"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 17,
+      "protein": 1.23,
+      "carbs": 3.29,
+      "fat": 0.3,
+      "fiber": 2.1
+    },
+    "units": {
+      "ks": 500
+    },
+    "ediblePortion": 0.94,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169247",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169247 refuse 6%"
+    }
+  },
+  {
+    "id": "saturejka",
+    "name": "Saturejka",
+    "aliases": [
+      "saturejka sušená",
+      "sušená saturejka"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 272,
+      "protein": 6.73,
+      "carbs": 68.73,
+      "fat": 5.91,
+      "fiber": 45.7
+    },
+    "units": {
+      "lzicka": 1.4,
+      "lzice": 4.4
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170936",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "skorice-mleta",
+    "name": "Skořice mletá",
+    "aliases": [
+      "skořice",
+      "mletá skořice"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 247,
+      "protein": 3.99,
+      "carbs": 80.59,
+      "fat": 1.24,
+      "fiber": 53.1
+    },
+    "units": {
+      "lzicka": 2.6,
+      "lzice": 7.8
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171320",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "smetana-ke-slehani",
+    "name": "Smetana ke šlehání",
+    "aliases": [
+      "smetana 33 %",
+      "šlehačka tekutá"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 340,
+      "protein": 2.84,
+      "carbs": 2.84,
+      "fat": 36.08,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.99,
+    "units": {
+      "lzice": 15.0,
+      "lzicka": 5.0,
+      "hrnek": 251
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170859",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "sojova-omacka",
+    "name": "Sójová omáčka",
+    "aliases": [
+      "soja omáčka",
+      "sójová omáčka tmavá",
+      "shoyu"
+    ],
+    "category": "ostatni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 53,
+      "protein": 8.14,
+      "carbs": 4.93,
+      "fat": 0.57,
+      "fiber": 0.8
+    },
+    "densityGPerMl": 1.08,
+    "units": {
+      "lzice": 16,
+      "lzicka": 5.3,
+      "hrnek": 269
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "soja",
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174277",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "spargle-zelena",
+    "name": "Špargle zelená",
+    "aliases": [
+      "chřest zelený",
+      "chřest",
+      "zelený chřest"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 20,
+      "protein": 2.2,
+      "carbs": 3.88,
+      "fat": 0.12,
+      "fiber": 2.1
+    },
+    "units": {},
+    "ediblePortion": 0.53,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168389",
+      "refuse": "USDA SR Legacy fdc:168389 refuse 47%"
+    }
+  },
+  {
+    "id": "strouhanka",
+    "name": "Strouhanka",
+    "aliases": [
+      "strouhaná houska",
+      "drobenka",
+      "housková strouhanka",
+      "strouhanka bílá",
+      "strouhanka na obalování"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 395,
+      "protein": 13.35,
+      "carbs": 71.98,
+      "fat": 5.3,
+      "fiber": 4.5
+    },
+    "units": {
+      "lzice": 7,
+      "hrnek": 114
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174928",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "tahini",
+    "name": "Tahini",
+    "aliases": [
+      "sezamová pasta",
+      "tahini pasta"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 595,
+      "protein": 17,
+      "carbs": 21.19,
+      "fat": 53.76,
+      "fiber": 9.3
+    },
+    "units": {
+      "lzice": 15,
+      "lzicka": 5
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "sezam"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170189",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "testoviny",
+    "name": "Těstoviny",
+    "aliases": [
+      "těstoviny suché",
+      "špagety",
+      "penne"
+    ],
+    "category": "testoviny-a-ryze",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 371,
+      "protein": 13.04,
+      "carbs": 74.67,
+      "fat": 1.51,
+      "fiber": 3.2
+    },
+    "units": {
+      "hrnek": 100
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168927",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "topinambur",
+    "name": "Topinambur",
+    "aliases": [
+      "slunečnice topinambur",
+      "jeruzalémský artyčok"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 73,
+      "protein": 2,
+      "carbs": 17.44,
+      "fat": 0.01,
+      "fiber": 1.6
+    },
+    "units": {},
+    "ediblePortion": 0.69,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169236",
+      "refuse": "USDA SR Legacy fdc:169236 refuse 31%"
+    }
+  },
+  {
+    "id": "treska",
+    "name": "Treska",
+    "aliases": [
+      "filet z tresky",
+      "treska atlantská"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 82,
+      "protein": 17.81,
+      "carbs": 0,
+      "fat": 0.67,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1.0,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171955"
+    }
+  },
+  {
+    "id": "treska-jednoskvrnna",
+    "name": "Treska jednoskvrnná",
+    "aliases": [
+      "haddock",
+      "treska skvrnitá"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 74,
+      "protein": 16.32,
+      "carbs": 0,
+      "fat": 0.45,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1.0,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171964 (Fish, haddock, raw)"
+    }
+  },
+  {
+    "id": "tunak-v-konzerve",
+    "name": "Tuňák v konzervě",
+    "aliases": [
+      "tuňák konzervovaný",
+      "tuňák ve vlastní šťávě"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 86,
+      "protein": 19.44,
+      "carbs": 0,
+      "fat": 0.96,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1.0,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173709"
+    },
+    "containsMeat": true
+  },
+  {
+    "id": "vajecne-nudle",
+    "name": "Vaječné nudle",
+    "aliases": [
+      "nudle vaječné",
+      "nudle"
+    ],
+    "category": "testoviny-a-ryze",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 384,
+      "protein": 14.16,
+      "carbs": 71.27,
+      "fat": 4.44,
+      "fiber": 3.3
+    },
+    "units": {
+      "hrnek": 40
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "lepek",
+      "vejce"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169755",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "vejce",
+    "name": "Vejce",
+    "aliases": [
+      "vajíčko",
+      "vejce slepičí",
+      "slepičí vejce"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 143,
+      "protein": 12.56,
+      "carbs": 0.72,
+      "fat": 9.51,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 50
+    },
+    "ediblePortion": 0.88,
+    "allergens": [
+      "vejce"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171287",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:171287 refuse 12%"
+    }
+  },
+  {
+    "id": "zakysana-smetana",
+    "name": "Zakysaná smetana",
+    "aliases": [
+      "kysaná smetana",
+      "smetana kysaná",
+      "smetana zakysaná"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 198,
+      "protein": 2.44,
+      "carbs": 4.63,
+      "fat": 19.35,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 12,
+      "hrnek": 243
+    },
+    "ediblePortion": 1.0,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171257",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml"
+    }
+  },
+  {
+    "id": "zampiony",
+    "name": "Žampiony",
+    "aliases": [
+      "žampion",
+      "pečárky",
+      "šampiony"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 22,
+      "protein": 3.09,
+      "carbs": 3.26,
+      "fat": 0.34,
+      "fiber": 1
+    },
+    "units": {
+      "ks": 18,
+      "hrnek": 74
+    },
+    "ediblePortion": 0.97,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169251",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:169251 refuse 3%"
+    }
+  },
+  {
+    "id": "zazvor",
+    "name": "Zázvor",
+    "aliases": [
+      "zázvor čerstvý",
+      "zázvorový kořen"
+    ],
+    "category": "zelenina",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 80,
+      "protein": 1.82,
+      "carbs": 17.77,
+      "fat": 0.75,
+      "fiber": 2
+    },
+    "units": {
+      "lzicka": 2
+    },
+    "ediblePortion": 0.93,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169231",
+      "units": "USDA SR Legacy portions / běžné české hodnoty",
+      "refuse": "USDA SR Legacy fdc:169231 refuse 7%"
+    }
+  },
+  {
+    "id": "zazvor-mlety",
+    "name": "Zázvor mletý",
+    "aliases": [
+      "mletý zázvor",
+      "sušený zázvor"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 335,
+      "protein": 8.98,
+      "carbs": 71.62,
+      "fat": 4.24,
+      "fiber": 14.1
+    },
+    "units": {
+      "lzicka": 1.8,
+      "lzice": 5.3
+    },
+    "ediblePortion": 1.0,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170926",
+      "units": "USDA SR Legacy portions / běžné české hodnoty"
+    }
+  },
+  {
+    "id": "zelene-fazolky",
+    "name": "Zelené fazolky",
+    "aliases": [
+      "fazolky",
+      "fazolové lusky",
+      "fazole zelená"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 31,
+      "protein": 1.83,
+      "carbs": 6.97,
+      "fat": 0.22,
+      "fiber": 2.7
+    },
+    "units": {
+      "hrnek": 105
+    },
+    "ediblePortion": 0.88,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169961",
+      "units": "USDA SR Legacy portions / běžné české hodnoty; hrnek přepočten z US cup 237 ml na 250 ml",
+      "refuse": "USDA SR Legacy fdc:169961 refuse 12%"
+    }
+  }
+]

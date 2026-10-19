@@ -1,0 +1,146 @@
+{
+  "id": "salat-ze-syrove-zeleniny",
+  "title": "Salát ze syrové zeleniny",
+  "titleOriginal": "Raw Vegetable Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "celer",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 75,
+      "unit": "g",
+      "note": "nastrouhané"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 75,
+      "unit": "g",
+      "note": "nastrouhaná"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 110,
+      "unit": "g",
+      "note": "nakrájená na kostky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájený na plátky"
+    },
+    {
+      "ingredientId": "cekanka",
+      "amount": 25,
+      "unit": "g",
+      "note": "nahrubo nakrájená, přidává se těsně před podáváním"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "na posypání salátu"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 25,
+      "unit": "g",
+      "note": "do zálivky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 11,
+      "unit": "ml",
+      "note": "do zálivky, kvasný lihový",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 0.76,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.31,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.33,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 1,
+      "unit": "g",
+      "note": "šťáva z cibule, do zálivky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí a mrkev nastrouhej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Papriku, rajčata a celer nakrájej, čekanku nahrubo nakrájej a cibuli nastrouhej a vymačkej šťávu.",
+      "minutes": 8
+    },
+    {
+      "text": "V míse smíchej zelí, mrkev, papriku, rajčata a celer a posyp solí.",
+      "minutes": 3
+    },
+    {
+      "text": "V jiné míse smíchej sůl, cukr, hořčici a papriku.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej olej, ocet a šťávu z cibule a důkladně prošlehej.",
+      "minutes": 3
+    },
+    {
+      "text": "Zálivku přelij do uzavíratelné nádoby a před podáváním ji silně protřepej.",
+      "minutes": 2
+    },
+    {
+      "text": "Těsně před podáváním přidej čekanku a zálivku a lehce promíchej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, výtěžek 5 gal, porce ¾ cup (approx. 3 oz, ~85 g). Všechna čísla ze zeleniny a soli jsou z obrázku stránky (PDF 207). Zálivka je French Dressing ze zdroje (PDF 211, tištěná str. 203): zdroj dává 1 qt zálivky na 100 porcí salátu, recept zálivky je na ½ galonu, proto jsou všechny její suroviny přepočteny násobkem 0,5 a pak na 4 porce. Olej: použita hmotnost 2 lb 8 oz (zdroj uvádí 1½ qt, rozdíl ~13 %). Cibulová šťáva (onion juice) v katalogu chybí: nahrazena cibulí; 1 g cibule na 4 porce (~0,6 ml šťávy) je odhad, proto verified false. Ocet ve zdroji „vinegar“, použit kvasný lihový ocet. Sůl do salátu (7 g na 4 porce) odpovídá zdroji (4 oz na 100 porcí) přes třídu seasoning; doporučení: ubrat na ~3 g nebo dochutit podle chuti. Zdroj doporučuje podávat s majonézou (Mayonnaise, PDF 212); nepřidána, lze podávat zvlášť. Variace Chef's Salad nepřebrána. Kontrola: nález u cukru (0,76 g < 1 g) je přesný přepočet (1⅓ oz × ½ × 0,04), nechán. Bilance na porci: 103 g proti 3 oz (85 g) ze zdroje, poměr 1,2, v pořádku (nález se objeví jen u objemové porce ¾ cup).",
+  "source": {
+    "book": "navy-1944",
+    "page": 207,
+    "titleOriginal": "RAW VEGETABLE SALAD"
+  },
+  "verified": false,
+  "quote": "Add endive and dressing just before serving. Toss lightly until well mixed."
+}

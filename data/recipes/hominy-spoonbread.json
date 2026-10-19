@@ -1,0 +1,97 @@
+{
+  "id": "hominy-spoonbread",
+  "title": "Hominy spoonbread (kukuřičný nákyp)",
+  "titleOriginal": "Hominy Spoonbread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 570,
+      "unit": "ml",
+      "note": "z 3-3/4 gal"
+    },
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 90,
+      "unit": "g",
+      "note": "z Hominy grits (sušená mletá kukuřice, ne konzervovaná hominy)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "note": "z 8 oz (1 cup)"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2.4,
+      "unit": "ks",
+      "note": "žloutky z 60 vajec na 100 porcí (2 lb 8 oz)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „butter or other fat“",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 2.4,
+      "unit": "ks",
+      "note": "našlehané dotuha; bílky z 60 vajec na 100 porcí"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pekáče (odhad)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Troubu předehřej na 175 °C." },
+    { "text": "Vymaž pekáč olejem.", "minutes": 1 },
+    { "text": "V hrnci přiveď mléko k varu.", "minutes": 6 },
+    { "text": "Za stálého míchání do vroucího mléka vmíchej kukuřičnou mouku a sůl. Přikryj.", "minutes": 2 },
+    { "text": "Vař 20 minut za občasného míchání.", "minutes": 20 },
+    { "text": "Mezitím bílky našlehej dotuha.", "minutes": 3, "parallel": true },
+    { "text": "Nech mírně vychladnout.", "minutes": 5 },
+    { "text": "V míse rozšlehej žloutky, vmíchej prášek do pečiva a rozpuštěné máslo.", "minutes": 2 },
+    { "text": "Žloutkovou směs vmíchej do kukuřičné směsi.", "minutes": 2 },
+    { "text": "Našlehané bílky zlehka vmíchej do směsi.", "minutes": 2 },
+    { "text": "Vlij do vymazaného pekáče.", "minutes": 1 },
+    { "text": "Pekáč postav do většího pekáče s horkou vodou.", "minutes": 2 },
+    { "text": "Peč 40 minut, dokud nezatuhne.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 5 oz (asi 2/3 hrnku); porce 4-1/2 oz. Mléko 3-3/4 gal, Hominy grits 5 lb, sůl 8 oz, prášek do pečiva 3-3/4 oz, žloutky 60 ks (2 lb 8 oz), máslo 2 lb 12 oz a bílky 60 ks jsme přepočetli přes obrázek stránky 278 (PDF; tištěná strana 270); recept je spodní polovina stránky. Hominy grits jsou sušená mletá kukuřice, proto kukuřičná mouka (kukuricna-mouka), ne konzervovaná hominy (vodnatá). Žloutky a bílky jsou z 60 vajec na 100 porcí, proto 2,4 ks žloutků a 2,4 ks bílků (katalog zloutek a bilek). Sůl 8 oz přes třídu seasoning dává 15 g na 4 porce (3,75 g na porci); doporučení: ubrat na polovinu (7 g). Pečení: zdroj 30 až 40 minut, použita horní mez 40 minut. Lázeň („pan of hot water“) nemá ve zdroji množství, proto je jen v kroku, bez řádku. Bilance 1,7× (217 g surovin na 128 g porce): tekutiny se vsáknou do kukuřičné kaše a část vody se při pečení odpaří; nevadí. Hotovo 83 minut, timeMinutes 85.",
+  "source": {
+    "book": "navy-1944",
+    "page": 278,
+    "titleOriginal": "HOMINY SPOONBREAD"
+  },
+  "verified": true,
+  "quote": "Before baking set pan of spoonbread in pan of hot water and bake to insure smooth texture."
+}

@@ -1,0 +1,96 @@
+{
+  "id": "rajcatova-jiskova-polevka",
+  "title": "Rajčatová jíšková polévka",
+  "titleOriginal": "Tomatensuppe",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 195,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "odhad: zdroj uvádí jen „vroucí vodu“ a „Fleischbrühe“; část použij na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "místo polévkové zeleniny (zdroj: Sellerie oder Zwiebeln, 30 g na hlavu); místo cibule lze celer"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 240,
+      "unit": "g",
+      "note": "ve zdroji „bis zu 100 g“ na hlavu (horní mez); lze jakoukoli mouku"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 100,
+      "unit": "g",
+      "note": "ve zdroji „bis zu 50 g“ na hlavu (horní mez)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Salz nach Geschmack); odhad 1–2 g na porci"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej maso, cibuli a sůl a vař asi 2 a půl hodiny (vepřové maso jen asi 1 a půl hodiny).",
+      "minutes": 150
+    },
+    {
+      "text": "Vyndej maso z polévky a nakrájej ho na kostky.",
+      "minutes": 5
+    },
+    {
+      "text": "Mouku rozmíchej za studena v hrnku s trochou vody dohladka.",
+      "minutes": 3
+    },
+    {
+      "text": "Rozmíchanou mouku za stálého míchání vlévej do vývaru a nech ji pomalu vařit asi 15 minut, dokud není mouka dovařená.",
+      "minutes": 20
+    },
+    {
+      "text": "Vrať do polévky maso nakrájené na kostky."
+    },
+    {
+      "text": "Hotovou polévku ochuť rajčatovým protlakem a dochuť solí a kvasničným extraktem."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 100 g mouky na muže; zde 60 g mouky na porci, řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (rajčatového protlaku) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Základ je jíšková polévka s masem (viz jiskova-polevka-s-masem); zdroj ji jen mění: hotovou polévku ochutit až 50 g rajčatového protlaku na hlavu a místo polévkové zeleniny dát celer nebo cibuli. Cibule 100 g je zvolená varianta, celer je rovnocenná. Maso (100 g na porci) a voda (1,5 l) jsou odhad, proto verified: false. Kvasničný extrakt zdroj uvádí v základu (bez množství), v katalogu není. Maso se vaří dlouho, proto bez tagu rychle. Hmotnost porce vychází z celé vody; při několikahodinovém varu se část odvaří, hotová porce je lehčí (voda je nutná, aby se mouka, kroupy či luštěniny nesvařily na kaši).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 26,
+    "code": "2. (varianta, tišt. 48)",
+    "titleOriginal": "Tomatensuppe"
+  },
+  "verified": false,
+  "quote": "Die fertige Mehlsuppe ist mit Tomatenmark bis zu 50 g abzuschmecken."
+}

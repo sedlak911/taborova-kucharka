@@ -1,0 +1,108 @@
+{
+  "id": "glazovana-cibule",
+  "title": "Glazovaná cibule",
+  "titleOriginal": "Glazed Onions",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 460,
+      "unit": "g",
+      "note": "malá cibule, loupaná; z nákupní hmotnosti ~510 g (28 lb × 0,04), jedlá část 90 %",
+      "group": "Cibule"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření cibule; slije se (domácí hodnota ~1 l na 1 kg, nejméně 1 l)",
+      "scaling": "vessel",
+      "group": "Cibule"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se (2 g na 1 l)",
+      "scaling": "vessel",
+      "group": "Cibule"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 55,
+      "unit": "g",
+      "group": "Glazura"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "zbylá sůl ze zdroje (2 lžíce z 3, zbytek šel do vody)",
+      "group": "Glazura"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "group": "Glazura"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 125,
+      "unit": "ml",
+      "note": "na tenký sirup; zůstává v jídle",
+      "group": "Glazura"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli oloupej, nech ji celou, omyj a na každé propichni vidličkou, aby při vaření nepraskla.",
+      "minutes": 10
+    },
+    {
+      "text": "Do vody přidej sůl a přiveď ji k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Předehřej troubu na 175 °C."
+    },
+    {
+      "text": "Cibuli přidej do vroucí vody a vař bez pokličky asi 15 minut, dokud částečně nezměkne.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím smíchej důkladně cukr, zbylou sůl, máslo a vodu na tenký sirup.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Cibuli scedi a rozlož do zapékací mísy.",
+      "minutes": 2
+    },
+    {
+      "text": "Polij ji sirupem a peč v troubě asi 30 minut; během pečení ji často polévej, aby byla rovnoměrně glazovaná a měkká.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Porce ze zdroje 4 až 5 oz (asi ⅔ cupu); do check:recipe zadáno 4-1/2 oz. Cibule 460 g = 28 lb ze zdroje × 0,04 = 508 g A.P. × 90 % jedlé části (katalog). Vařicí voda (1 l) a sůl v ní (2 g) jsou domácí hodnoty a slijí se; zbývající 2 lžíce soli ze zdroje jsou v glazuře. Krok „Cibuli scedi“ doplněn: zdroj vodu vynechává a předpokládá přenesení cibule do pekáče. Propichování vidličkou je z poznámky zdroje; předehřátí trouby je domácí doplněk. Hnědý cukr 3 lb (zdroj uvádí 2¼ qt objemově) odpovídá volně nasypanému cukru, bez rozporu. Cukr, máslo a sirup tvoří velkou část hmotnosti jídla, takže kcal jsou vyšší než u samotné cibule.",
+  "source": {
+    "book": "navy-1944",
+    "page": 281,
+    "titleOriginal": "GLAZED ONIONS"
+  },
+  "verified": true
+}

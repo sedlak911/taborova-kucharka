@@ -1,0 +1,90 @@
+{
+  "id": "celerove-brambory",
+  "title": "Celerové brambory",
+  "titleOriginal": "Selleriekartoffeln",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "odhad: zdroj neuvádí množství; podle zdroje (s. 25) nejvýš ¾ l na osobu na začátku vaření"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "odhad: zdroj uvádí jen „Fleisch“ bez množství (čerstvé hovězí nebo vepřové, nebo trvanlivé)"
+    },
+    {
+      "ingredientId": "celer-bulvovy",
+      "amount": 100,
+      "unit": "g",
+      "note": "čerstvý, oloupaný a nakrájený, místo polévkových bylin (zdroj: bis zu 50 g na hlavu; sušený 5 g)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „einige Zwiebeln“ bez množství; 25 g na hlavu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „nach Geschmack“ (tabulka koření s. 19: až 15 g na hlavu = 1 l jídla, tady přehnané); dochuť postupně"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 1200,
+      "unit": "g",
+      "note": "čerstvé, oloupané a nakrájené (zdroj: 1 500 g na hlavu)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso, celer, cibuli a sůl a vař asi 2½ hodiny (vepřové maso jen asi 1½ hodiny).",
+      "minutes": 150
+    },
+    {
+      "text": "Mezitím oloupej brambory a nakrájej je na kousky.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Přidej brambory a vař dohotova, asi dalších 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Dochuť solí a kořením."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 1 500 g brambor na muže; zde 300 g brambor na porci, řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (celeru) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Varianta základu: místo polévkových bylin celer (nejvýš 50 g čerstvého na hlavu) a několik cibulí; množství cibule zdroj neuvádí (odhad 100 g celkem). Zdroj má celer ve významu „Sellerie“ (bulva nebo nať); použit bulvový. Zdroj neuvádí množství masa ani vody: 400 g masa (~100 g na porci) a 1,2 l vody (zdroj s. 25: nejvýš ¾ l na osobu na začátku vaření) jsou odhady, proto verified: false. Sůl (8 g) je odhad, zdroj říká jen „podle chuti“; tabulka koření (s. 19) uvádí až 15 g na hlavu (tj. 50 g na 4 porce), to je při 1 l jídla na hlavu, tady příliš; dochucuj postupně. Sušené suroviny (brambory 150 g, bylinky 2,5–3 g na hlavu; při použití sušených brambor se použije i voda z namáčení) a varianty s trvanlivou klobásou (do hotového jídla, krátce svařit) či konzervovaným masem (těsně před podáváním jen prohřát) se nepoužívají.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 16,
+    "code": "5. (varianta, tišt. 28)",
+    "titleOriginal": "Selleriekartoffeln"
+  },
+  "verified": false,
+  "quote": "Statt der Suppenkräuter sind bis zu 50 g frische oder 5 g getrocknete Sellerie und einige Zwiebeln im Gericht mitzukochen."
+}

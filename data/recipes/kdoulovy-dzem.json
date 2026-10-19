@@ -1,0 +1,64 @@
+{
+  "id": "kdoulovy-dzem",
+  "title": "Kdoulový džem",
+  "titleOriginal": "PRESERVE OF QUINCE (Conserva di cotogne soda)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 24,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "kdoule",
+      "amount": 165,
+      "unit": "g",
+      "group": "Zavařenina",
+      "note": "oloupané a zbavené jádřinců (zdroj: „peeled and cored“), to je asi 270 g celých kdoulí; zdroj předpokládá asi 2 lb kdoulí na dávku"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Zavařenina",
+      "note": "na povaření kdoulí (zdroj: sklenice vody); z větší části se odpaří"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 105,
+      "unit": "g",
+      "group": "Sirup",
+      "note": "poměr zdroje 0,5 části cukru na 0,8 části kdoulí (5 : 8)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 20,
+      "unit": "ml",
+      "group": "Sirup",
+      "note": "na rozpuštění cukru (zdroj: půl sklenice)"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci rozpusť cukr ve vodě, krátce povař a odstav stranou.", "minutes": 5 },
+    { "text": "Kdoule oloupej, vyjmi jádřince a nakrájej je na velmi tenké plátky.", "minutes": 15 },
+    { "text": "Plátky vlož do hrnce, zalij vodou a přikryj pokličkou.", "minutes": 2 },
+    { "text": "Na mírném ohni vař pod pokličkou a občas promíchej naběračkou, aby se plátky rozpadaly na kaši, dokud kdoule nezměknou.", "minutes": 25 },
+    { "text": "Až jsou kdoule měkké, vlij horký cukrový sirup, dobře promíchej a vař bez pokličky, dokud zavařenina při zvednutí naběračkou nezačne padat v nitkách.", "minutes": 20 },
+    { "text": "Nech vychladnout a naplň do dobře uzavíratelných sklenic.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (č. 215) nedává porce ani výtěžek, uvádí jen poměr kdoule : cukr 8 : 5 a orientační asi 2 lb kdoulí. Základ pro přepočet je domácí várka 1 kg očištěných kdoulí a 630 g cukru, která dá asi 1,2 kg džemu, tedy 24 porcí po 50 g (originalYield 24); recept ukazuje 4 porce: 165 g kdoulí, 105 g cukru, 40 ml a 20 ml vody. 1 porce = 50 g džemu (asi 2 lžíce na pečivo), 4 porce = asi 200 g džemu; na zásobu nastav 20–25 porcí. Voda na povaření kdoulí a voda na rozpuštění cukru jsou domácí odhady; kdoule se vaří bez slévání, voda se během vaření odpaří, žádná není slévaná. Cukr v malém množství vody se rozpouští pomaleji, proto sirup krátce povař a dobře promíchej. Zavařenina je hotová, když při zvednutí naběračkou padá v nitkách (zdroj). Zdroj uvádí uchování ve sklenicích s parafínem nebo papírem namočeným v alkoholu; v domácích podmínkách stačí sklenice uzavřít a uchovat v chladu. Tag pripravit-predem recept nemá: čekání (chladnutí) je kratší než 4 h. Čas 75 minut zahrnuje přípravu, vaření a plnění, chladnutí se nepočítá.",
+  "source": {
+    "book": "italian-1919",
+    "page": 155,
+    "titleOriginal": "PRESERVE OF QUINCE (Conserva di cotogne soda)"
+  },
+  "verified": false,
+  "quote": "Cut the quinces peeled and coreless in very thin slices and put them on the fire with a glass of water."
+}

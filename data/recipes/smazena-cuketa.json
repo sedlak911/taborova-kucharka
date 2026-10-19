@@ -1,0 +1,76 @@
+{
+  "id": "smazena-cuketa",
+  "title": "Smažená cuketa",
+  "titleOriginal": "Fried Squash (Zucchine fritte)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cuketa",
+      "amount": 600,
+      "unit": "g",
+      "note": "dlouhé tenké cukety (zdroj: „Zucchine“, malé cukety); odhad 150 g na porci"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "mírně, na proužky; zdroj neuvádí množství"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g",
+      "note": "na obalení proužků; přebytek se přesívá"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 250,
+      "unit": "ml",
+      "note": "olej, tuk nebo máslo na smažení (zdroj); odhad množství",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vyber dlouhé a tenké cukety, omyj je a nakrájej na proužky silné méně než 1 cm. Měkkou střední část vyjmi.",
+      "minutes": 10
+    },
+    {
+      "text": "Proužky mírně osol a nech je 1–2 hodiny odstát."
+    },
+    {
+      "text": "Odkapej je, ale neosušuj. Obal je v mouce a přebytečnou mouku lehce setři přes síto.",
+      "minutes": 5
+    },
+    {
+      "text": "Ihned je vlož do pánve s vroucím olejem; zpočátku se jich nedotýkej, aby se nerozpadly.",
+      "minutes": 2
+    },
+    {
+      "text": "Když lehce ztuhnou, obracej je a vyndej, jakmile začnou hnědnout.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Zdroj uvádí jen postup, bez množství a bez počtu porcí. Množství jsou odhad z běžné praxe pro 4 porce: 600 g dlouhých tenkých cuket (asi 150 g na porci), 5 g soli (mírně, zdroj „salt moderately“), 40 g hladké mouky na obalení a 250 ml oleje na smažení; část oleje zůstane v pánvi, proto je tuk ve třídě vessel. Čekání 1–2 hodiny na osolení není zahrnuto v timeMinutes (tag pripravit-predem se nenasazuje, protože čekání je kratší než 4 hodiny). Doby kroků jsou odhad, zdroj žádné neuvádí. Zdroj neuvádí koření kromě soli, takže pepř nepřidáváme.",
+  "source": {
+    "book": "italian-1919",
+    "page": 32,
+    "titleOriginal": "FRIED SQUASH (Zucchine fritte)"
+  },
+  "verified": false,
+  "quote": "The \"Zucchine\" are an extremely tasty vegetable and they are especially good when fried."
+}

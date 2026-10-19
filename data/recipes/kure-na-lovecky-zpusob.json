@@ -1,0 +1,36 @@
+{
+  "id": "kure-na-lovecky-zpusob",
+  "title": "Kuře po lovecku",
+  "titleOriginal": "Chicken alla Cacciatora (Pollo alla cacciatora)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "note": "1 velká, nakrájená na kousky; přes 30 minut ve studené vodě, pak osušená" },
+    { "ingredientId": "sadlo", "amount": 40, "unit": "g", "note": "na opečení cibule a kuřete" },
+    { "ingredientId": "cele-kure", "amount": 1200, "unit": "g", "note": "rozporcované na kousky, s kostmi" },
+    { "ingredientId": "hladka-mouka", "amount": 30, "unit": "g", "note": "na obalení kousků" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 470, "unit": "g", "note": "1 pinta (473 ml); nebo čerstvá rajčata" },
+    { "ingredientId": "paprika-zelena", "amount": 6, "unit": "ks", "note": "sladké, nakrájené" },
+    { "ingredientId": "voda", "amount": 150, "unit": "ml", "note": "horká, podle potřeby" }
+  ],
+  "steps": [
+    { "text": "Nakrájej velkou cibuli a nech ji déle než půl hodiny ve studené vodě.", "minutes": 30 },
+    { "text": "Cibuli osuš a na tuku opeč do zhnědnutí. Dej ji stranou.", "minutes": 5 },
+    { "text": "Kuře rozporcuj na kousky a posyp je moukou, solí a pepřem.", "minutes": 8 },
+    { "text": "Kousky opeč na tuku, který zůstal v pánvi, dozlatova.", "minutes": 8 },
+    { "text": "Přidej rajčata a nakrájenou zelenou papriku. Vrať cibuli.", "minutes": 3 },
+    { "text": "Když je šťáva dostatečně hustá, přilej horkou vodu, aby zelenina nepřipálila.", "minutes": 5 },
+    { "text": "Pevně přikryj a duš, dokud kuře není velmi měkké.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj uvádí jen část množství a neuvádí počet porcí; zbytek je odhad z běžné praxe pro 4 porce (jedno kuře): kuře 1,2 kg s kostmi (asi 300 g na porci), 30 g mouky, 40 g sádla, sůl a pepř podle chuti, 150 ml vody. Ze zdroje pochází jen jedna velká cibule (asi 150 g; nad půl hodiny ve vodě), jedna pinta rajčat (473 ml, asi 470 g) a půl tuctu zelených paprik. Doba dušení zdroj neuvádí (do měkka); doporučení: asi 45–60 minut. Tuk zdroj nejmenuje, použito sádlo, lze nahradit olejem. Zdroj chválí recept pro staré, tuhé slepice nebo předvařená kuřata.",
+  "source": { "book": "italian-1919", "page": 34, "code": "č. 35 (s. 30)", "titleOriginal": "CHICKEN ALLA CACCIATORA" },
+  "verified": false,
+  "quote": "This is an excellent way to cook tough chickens."
+}

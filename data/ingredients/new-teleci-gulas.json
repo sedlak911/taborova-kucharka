@@ -1,0 +1,28 @@
+[
+  {
+    "id": "zelene-fazolky-v-konzerve",
+    "name": "Zelené fazolky v konzervě",
+    "aliases": [
+      "konzervované zelené fazolky",
+      "konzervované fazolky",
+      "green beans, canned"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 15,
+      "protein": 0.72,
+      "carbs": 3.27,
+      "fat": 0.17,
+      "fiber": 1.5
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169142 (Beans, snap, green, canned, regular pack, solids and liquids)",
+      "units": "bez objemových jednotek; hmotnost z Navy váhy (včetně nálevu v konzervě)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

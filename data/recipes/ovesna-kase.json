@@ -1,0 +1,27 @@
+{
+  "id": "ovesna-kase",
+  "title": "Ovesná kaše",
+  "titleOriginal": "Hot Oatmeal",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "ovesne-vlocky", "amount": 110, "unit": "g", "note": "valcované" },
+    { "ingredientId": "voda", "amount": 760, "unit": "ml", "note": "vroucí; zdroj 41¾ lb, poměr zůstává jako ve zdroji (cca 7 : 1)" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Do vroucí vody vsyp vločky a přidej sůl. Míchej, aby se netvořily hrudky.", "minutes": 1 },
+    { "text": "Znovu přiveď k varu, zmenši teplotu a vař 1 až 3 minuty. Občas zamíchej.", "minutes": 4 },
+    { "text": "Vypni plotnu a nech kaši 10 minut odstát, pak podávej.", "minutes": 10 }
+  ],
+  "modernNote": "Porce odpovídá 3/4 hrnku kaše ze zdroje (cca 180 ml). Poměr vody a vloček je ze zdroje řídký (cca 7 : 1 hmotnostně); výsledek je tekutější kaše, pro hustší kaši doporučujeme méně vody, např. 300 ml na 110 g vloček. Doporučení: kaši můžeš zjemnit mlékem nebo dochutit medem či ovocem.",
+  "source": { "book": "afrs-2003", "page": 292, "code": "E 001 00", "titleOriginal": "HOT OATMEAL" },
+  "verified": true,
+  "quote": "Add cereal and salt to boiling water; stir to prevent lumping."
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pstruh-lombardsky",
+  "title": "Pstruh po lombardsku",
+  "titleOriginal": "Trout Lombard (Trota fritta)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["ryby"],
+  "ingredients": [
+    { "ingredientId": "pstruh", "amount": 1200, "unit": "g", "group": "Ryby", "note": "4 pstruzi po asi 300 g, celé (odpad asi 53 %)" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "group": "Ryby", "note": "na posolení ryb a do nálevu" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "group": "Nálev", "note": "asi půl rybí konvice; nálev se nepodává", "scaling": "vessel" },
+    { "ingredientId": "citron", "amount": 100, "unit": "g", "group": "Nálev", "note": "1 citron: půlka do nálevu, zbytek na plátky k podávání" },
+    { "ingredientId": "bobkovy-list", "amount": 2, "unit": "ks", "group": "Nálev" },
+    { "ingredientId": "mrkev", "amount": 60, "unit": "g", "group": "Nálev", "note": "1 lehká (malá) mrkev, nakrájená" },
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "group": "Nálev", "note": "1 střední, na čtvrtky" },
+    { "ingredientId": "cely-pepr", "amount": 0.5, "unit": "g", "group": "Nálev", "note": "asi 10 zrn" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.5, "unit": "g", "group": "Nálev", "note": "3 celé hřebíčky, před podáváním vyjmout" },
+    { "ingredientId": "brambory", "amount": 600, "unit": "g", "group": "Brambory", "note": "mladé, celé, uvařené" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "group": "Brambory", "note": "do vody na vaření brambor, slije se", "scaling": "vessel" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Podávání", "note": "čerstvá nať, na ozdobu" }
+  ],
+  "steps": [
+    { "text": "Pstruhy očisti, zbav šupin, opláchni a osuš.", "minutes": 10 },
+    { "text": "Posol je a nech půl hodiny odpočinout.", "minutes": 30 },
+    { "text": "Do hrnce nalij vodu a přidej půlku citronu, bobkové listy, nakrájenou mrkev, cibuli na čtvrtky, pepř, hřebíček a sůl.", "minutes": 5 },
+    { "text": "Vodu zahřej, až je vlažná.", "minutes": 15 },
+    { "text": "Mezitím uvař brambory v osolené vodě, dokud nejsou měkké.", "minutes": 12, "parallel": true },
+    { "text": "Do vlažné vody ponoř pstruhy a vař je na mírném ohni, dokud nejsou uvařené.", "minutes": 10 },
+    { "text": "Pstruhy vyndej a podávej s natrhanou petrželí, plátky citronu a brambory." }
+  ],
+  "modernNote": "Gentile neuvádí počet porcí ani množství v číslech, jen „půl rybí konvice“, „půl citronu“ a počty bylin a koření. Pro 4 pstruhy po asi 300 g (1,2 kg celé ryby s odpadem 53 %) jsou množství odhad z běžné praxe: nálev 2 l (zakryje ryby, nálev se nepodává, zde jako slévaná voda), 1 citron (100 g; půlka do nálevu, zbytek na plátky), 1 střední cibule (150 g), 1 lehká mrkev (60 g), 10 zrn pepře (0,5 g), 3 hřebíčky (0,5 g mletého), 2 bobkové listy, sůl 10 g (odhad na posolení ryb i nálevu). Brambory 600 g na 4 porce, vařené zvlášť v 1 l vody. Petržel 10 g na ozdobu. Zdroj zmiňuje „dobrou rybí omáčku“ bez receptu; zde vynechána. Čas 75 minut včetně půlhodinového solení je odhad. Pstruha jen ponořit do vlažné vody a vařit na mírném ohni, aby se maso nerozpadlo. Ryba se podává bez nálevu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 125,
+    "titleOriginal": "TROUT LOMBARD (Trota fritta)"
+  },
+  "verified": false,
+  "quote": "A good fish-sauce ought to accompany it."
+}

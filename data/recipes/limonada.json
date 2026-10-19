@@ -1,0 +1,29 @@
+{
+  "id": "limonada",
+  "title": "Limonáda",
+  "titleOriginal": "Lemonade",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "cukr-krystal", "amount": 125, "unit": "g", "note": "rozpuštěný v části vody" },
+    { "ingredientId": "voda", "amount": 910, "unit": "ml", "note": "sloučeno ze dvou položek zdroje: 12,5 lb na rozpuštění cukru a 37,6 lb studené vody" },
+    { "ingredientId": "citronova-stava", "amount": 35, "unit": "ml", "note": "šťáva z citronů", "scaling": "linear" },
+    { "ingredientId": "led", "amount": 175, "unit": "g", "note": "přidat těsně před podáváním" }
+  ],
+  "steps": [
+    { "text": "Rozpusť cukr v části vody.", "minutes": 5 },
+    { "text": "Nech vychladnout." },
+    { "text": "Přidej citronovou šťávu a zbylou vodu k cukrovému roztoku. Dobře promíchej, přikryj a dej do lednice.", "minutes": 2 },
+    { "text": "Těsně před podáváním přidej led." }
+  ],
+  "modernNote": "Zdroj uvádí na 100 porcí a porci 1-1/4 šálku (cca 296 ml), tedy 4 porce jsou cca 1,2 l nápoje včetně ledu. Cukr a voda škálovány lineárně, citronová šťáva škálována lineárně (hlavní složka nápoje). Recept je bez vaření, čas 10 minut je přípravný. Doba v lednici není ve zdroji uvedena, proto tag pripravit-predem není přidán.",
+  "source": { "book": "afrs-2003", "page": 105, "code": "C 008 00", "titleOriginal": "LEMONADE" },
+  "verified": true,
+  "quote": "Add ice just before serving."
+}

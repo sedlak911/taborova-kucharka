@@ -1,0 +1,109 @@
+{
+  "id": "dusena-hovezi-srdce",
+  "title": "Dušená hovězí srdce",
+  "titleOriginal": "Braised Beef Hearts",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 270,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-srdce",
+      "amount": 730,
+      "unit": "g",
+      "note": "nákup včetně tuku a žil; po očištění asi 520 g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 19,
+      "unit": "g",
+      "note": "na opečení cibule a dušení; moderně olej",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 19,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "omáčka; zdrojový odkaz: hovězí vývar (page 216)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "note": "na zahuštění omáčky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 14,
+      "unit": "ml",
+      "note": "na rozmíchání mouky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Srdce omyj, odstraň tepny, žíly a chlopně a znovu omyj.",
+      "minutes": 10
+    },
+    {
+      "text": "Cibuli opékej na tuku, dokud nezesklovatí.",
+      "minutes": 5
+    },
+    {
+      "text": "Srdce vlož do pekáče nebo hrnce. Přidej cibuli s tukem, sůl, pepř, mrkev a vývar. Pevně přikryj a duš na mírném ohni 3 až 4 hodiny, dokud srdce nezměknou.",
+      "minutes": 240
+    },
+    {
+      "text": "Přeceď tekutinu ze srdcí. Mouku rozmíchej s vodou na hladkou kaši, vmíchej do tekutiny a za stálého míchání vař, dokud omáčka nezhoustne.",
+      "minutes": 10
+    },
+    {
+      "text": "Srdce nakrájej napříč na plátky a podávej s omáčkou.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj uvádí hmotnost srdcí 40 lb bez upřesnění, zda je to nákup, nebo čistá hmotnost; přepočet bere nákup, odpad (tuk, žíly, chlopně) je v ediblePortion 0,71. Mouka a voda tvoří hustou zálivku, která je v porci omáčky ze zdroje. Zdroj nechává volbu mezi dušením na plotně a pečením v troubě při 300 °F (asi 150 °C); zde je jen dušení na plotně. Beef drippings (hovězí tuk z pečení) je nahrazen olejem; v original je katalogové sádlo. Sůl podle třídy seasoning dává asi 2,75 g na porci (lineárně by to bylo 1,7 g); pro domácí chuť doporučuji ubrat na 1,5–2 g na porci. Porce 5–6 oz odpovídá mase, omáčka je navíc (bilance porce vs. zdroj proto přesahuje). Při chuti na více omáčky lze použít vývar 400 ml.",
+  "source": {
+    "book": "navy-1944",
+    "page": 130,
+    "titleOriginal": "BRAISED BEEF HEARTS"
+  },
+  "verified": true,
+  "quote": "Carve hearts across grain. Serve with gravy."
+}

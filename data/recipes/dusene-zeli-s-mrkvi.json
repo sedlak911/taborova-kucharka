@@ -1,0 +1,86 @@
+{
+  "id": "dusene-zeli-s-mrkvi",
+  "title": "Dušené zelí s mrkví",
+  "titleOriginal": "Calico Cabbage",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 360,
+      "unit": "g",
+      "note": "nasekané na proužky"
+    },
+    {
+      "ingredientId": "mrkev-mrazena",
+      "amount": 9,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 9,
+      "unit": "g",
+      "note": "čerstvý, na kroužky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "na restování; zůstává v jídle",
+      "scaling": "fat"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 6,
+      "unit": "g",
+      "note": "dochucení",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Přidej mrkev, plátky celeru a nasekanou cibuli k zelí.", "minutes": 7 },
+    { "text": "Zelí smaž na másle na pánvi nahřáté na 165 °C, 10 minut nebo dokud nezměkne. Často míchej, aby nepřipálilo.", "minutes": 10 },
+    { "text": "Zelí dochuť solí, pepřem a cukrem." }
+  ],
+  "modernNote": "Porce 1/2 šálku dle zdroje. Zdroj uvádí máslo, margarín nebo rostlinný olej; zapsáno je máslo. Pokyny CCP (ohřev na 145 °F a držení na 140 °F pro výdej z velkokuchyně) vynechány. Pánev 325 °F odpovídá cca 165 °C.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1499,
+    "code": "Q 012 01",
+    "titleOriginal": "CALICO CABBAGE"
+  },
+  "verified": true
+}

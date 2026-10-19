@@ -1,0 +1,71 @@
+{
+  "id": "hovezi-vyvar-s-vlozkou",
+  "title": "Hovězí vývar s nudlemi",
+  "titleOriginal": "Beef Broth with Barley, Noodles, Spaghetti or Rice",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 910,
+      "unit": "ml",
+      "note": "kupovaný hovězí vývar (Beef Stock, s. 216 tištěná = PDF 224), 6 gal ve zdroji"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nadrobno nakrájený"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 25,
+      "unit": "g",
+      "note": "ve zdroji ječmen, nudle, špagety nebo rýže (1 lb 8 oz); zde vaječné nudle, viz modernNote"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do vývaru přidej nadrobno nakrájený celer, nakrájenou cibuli a nudle.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vař 20–30 minut, dokud není celer měkký.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj počítá s domácím vývarem z hovězího masa, v receptu je kupovaný hovězí vývar v množství ze zdroje (6 gal na 100 porcí, 910 ml na 4 porce). Zdroj uvádí na 100 porcí 1 lb 8 oz ječmene, nudlí, špaget nebo rýže; zde jsou vaječné nudle (25 g na 4 porce), ječmen nebo rýži lze použít ve stejném množství (25 g) a upravit dobu vaření podle balení. Výtěžek 6 gal při porci 1 cup odpovídá asi 100 porcím, proto je originalYield 100. Zdroj nepředepisuje sůl; kupovaný vývar bývá slaný, dochuť až na konci. Porce 1 cup (8 oz) je řidší polévka s hmotností 243 g; jako hlavní chod počítej 1½ cupu (cca 360 g), jako předkrm zůstává zdrojová porce.",
+  "source": {
+    "book": "navy-1944",
+    "page": 228,
+    "titleOriginal": "BEEF BROTH WITH BARLEY, NOODLES, SPAGHETTI OR RICE"
+  },
+  "verified": true,
+  "quote": "Add celery, onions and barley to stock."
+}

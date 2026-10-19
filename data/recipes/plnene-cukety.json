@@ -1,0 +1,196 @@
+{
+  "id": "plnene-cukety",
+  "title": "Plněné cukety",
+  "titleOriginal": "Stuffed Italian Squash (Zucchini ripieni)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cuketa",
+      "amount": 800,
+      "unit": "g",
+      "group": "Cukety",
+      "note": "4 střední cukety, podélně na poloviny"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "group": "Cukety",
+      "note": "na opečení plněných polovin"
+    },
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 500,
+      "unit": "g",
+      "group": "Maso a omáčka",
+      "note": "libové telecí, nakrájené na kousky"
+    },
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 50,
+      "unit": "g",
+      "group": "Maso a omáčka",
+      "note": "trochu soleného hovězího (corned beef), nakrájené na kousky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "group": "Maso a omáčka",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 60,
+      "unit": "g",
+      "group": "Maso a omáčka",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 40,
+      "unit": "g",
+      "group": "Maso a omáčka",
+      "note": "nasekaný nadrobno"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "group": "Maso a omáčka",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "group": "Maso a omáčka",
+      "note": "1 lžíce"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Maso a omáčka",
+      "note": "zalévání, zdroj dává „šálek“ dvakrát"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Maso a omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Maso a omáčka"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Náplň",
+      "note": "celé vejce; stačí i část (asi polovina)"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 50,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "starý, uvařený v mléce"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Náplň",
+      "note": "na vaření chleba; zdroj říká i vývar"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Náplň",
+      "note": "jen špetka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukety podélně přepůl a vyhrab dřeň tak, aby zůstal prostor pro náplň.",
+      "minutes": 5
+    },
+    {
+      "text": "Cibuli, petrželku, celer a mrkev nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Telecí maso nakrájej na kousky. V rendlíku na oleji opékej nasekanou zeleninu, maso a nakrájené solené hovězí; osol a opepři. Za častého míchání opékej, dokud maso nezhnědne.",
+      "minutes": 10
+    },
+    {
+      "text": "Zalij vodou, po chvíli přilij ještě trochu vody a duš pod pokličkou, dokud je maso měkké.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím nakrájej chléb, uvař ho v mléce do měkka a vymačkej.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Šťávu z masa přeceď sítkem a odlož.",
+      "minutes": 2
+    },
+    {
+      "text": "Uvařené maso nasekej nadrobno a pomel v mlýnku.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej maso s vejcem, nastrouhaným parmezánem, rozmačkaným chlebem a muškátovým oříškem; dochuť solí.",
+      "minutes": 3
+    },
+    {
+      "text": "Směsí naplň poloviny cuket.",
+      "minutes": 3
+    },
+    {
+      "text": "Plněné poloviny opékej na másle plnou stranou dolů do zlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij je odloženou šťávou a dovař pod pokličkou, dokud cukety nezměknou.",
+      "minutes": 15
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství ani počet porcí, všechna jsou odhad pro 4 porce z běžné praxe: 4 střední cukety (800 g, tj. 150–200 g zeleniny na porci), 500 g libového telecího masa (120–150 g na porci), 50 g soleného hovězího „trochu“ (corned beef je v katalogu uzenina, makra orientační), zelenina na základ 190 g, 300 ml vody (zdroj „šálek“ dvakrát, pro 4 porce), 1 lžíce oleje, 40 g másla na opékání, 40 g parmezánu, 50 g starého chleba a 100 ml mléka na vaření chleba, 1 celé vejce (zdroj „one egg“; stačí i polovina), sůl 5 g, pepř 1 g, muškátový ořech 0,5 g („just a taste“). Zdroj dává pro vývar i chléb na výběr mléko nebo vývar; zvoleno mléko, aby byla náplň bez přídavného masového vývaru. Maso vyjmuté ze zdroje nakrájené a pomleté do náplně se jí, makra vycházejí z celé porce. Zdroj vynechává dobu dušení masa, odhad 25 minut. Pro 4 porce lze z hlediska chuti přidat jedno vejce a více parmezánu. Kapitola ze shortlistu; tag tabor nepřiřazen (mlýnek na maso, pánev a rendlík).",
+  "source": {
+    "book": "italian-1919",
+    "page": 73,
+    "titleOriginal": "STUFFED ITALIAN SQUASH (Zucchini ripieni)"
+  },
+  "verified": false,
+  "quote": "Put this hash inside each half squash and put them to brown in butter, completing the cooking with the gravy set aside."
+}

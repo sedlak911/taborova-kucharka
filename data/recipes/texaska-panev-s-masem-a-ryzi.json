@@ -1,0 +1,33 @@
+{
+  "id": "texaska-panev-s-masem-a-ryzi",
+  "title": "Texaská pánev s mletým masem a rýží",
+  "titleOriginal": "Texas Hash (Ground Beef)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 440, "unit": "g", "note": "mleté, 90 % libové" },
+    { "ingredientId": "rajcata-drcena", "amount": 360, "unit": "g", "note": "drcená, včetně šťávy" },
+    { "ingredientId": "cibule", "amount": 95, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "paprika-zelena", "amount": 75, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "ryze-bila", "amount": 65, "unit": "g", "note": "dlouhozrnná, nevařená" },
+    { "ingredientId": "voda", "amount": 18, "unit": "ml" },
+    { "ingredientId": "chilli-prasek", "amount": 6, "unit": "g", "note": "tmavé, mleté" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Maso opékej na pánvi, dokud nezblědne; při tom ho rozdrobuj. Slij nebo seber přebytečný tuk.", "minutes": 8 },
+    { "text": "Přidej rajčata, cibuli, papriku, rýži, vodu, chilli, sůl a pepř k mase a dobře promíchej. Zahřej do mírného varu.", "minutes": 7 },
+    { "text": "Rozlož směs do hlubokých pekáčů nebo zapékací mísy." },
+    { "text": "Přikryj a peč v troubě na 190 °C 1 hodinu, nebo dokud rýže nezměkne.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj peče přikryté v troubě na 375 °F (190 °C) 1 hodinu; recept je přepočten ze 100 porcí na 4. Na plotně: po kroku 2 přikryj hrnec a duš na mírném ohni, dokud rýže nezměkne; podle potřeby dolij horkou vodu, protože rýže bez trouby přesychá rychleji. Maso je 440 g na 4 porce (110 g na porci), což je pod doporučeným rozsahem, ale odpovídá poměru zdroje (24 lb masa na 100 porcí); pro hlavní jídlo přidej maso.",
+  "source": { "book": "afrs-2003", "page": 798, "code": "L 061 00", "titleOriginal": "TEXAS HASH (GROUND BEEF)" },
+  "verified": true
+}

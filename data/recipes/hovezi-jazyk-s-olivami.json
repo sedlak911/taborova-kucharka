@@ -1,0 +1,43 @@
+{
+  "id": "hovezi-jazyk-s-olivami",
+  "title": "Hovězí jazyk s olivami",
+  "titleOriginal": "Beef Tongue with Olives (Lingua di bue alle olive)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 195,
+  "difficulty": 2,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-jazyk-syrovy", "amount": 600, "unit": "g", "note": "celý, syrový; zdroj vaří jazyk nejdřív celý, pak ho dusí v omáčce", "group": "Jazyk" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "do vody na vaření, slije se; dost, aby byl jazyk ponořený", "scaling": "vessel", "group": "Jazyk" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel", "group": "Jazyk" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "kousek másla (odhad)", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "note": "půl střední cibule, na plátky", "group": "Omáčka" },
+    { "ingredientId": "hladka-mouka", "amount": 3, "unit": "g", "note": "1 čajová lžička", "group": "Omáčka" },
+    { "ingredientId": "hovezi-vyvar", "amount": 480, "unit": "ml", "note": "2 šálky horkého hovězího vývaru, přecezeného přes sítko", "group": "Omáčka" },
+    { "ingredientId": "olivy-cerne", "amount": 100, "unit": "g", "note": "vypeckované; zdroj říká „some olives“ (odhad)", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "do omáčky (odhad)", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "do omáčky (odhad)", "group": "Omáčka" }
+  ],
+  "steps": [
+    { "text": "Jazyk spař vroucí vodou a stáhni z něj kůži.", "minutes": 10 },
+    { "text": "Jazyk dej do hrnce s osolenou vodou, přiveď k varu a vař, dokud nezměkne (asi dvě hodiny).", "minutes": 120 },
+    { "text": "Mezitím nakrájej půl cibule na plátky a na rozpuštěném másle ji zarumeň.", "minutes": 10, "parallel": true },
+    { "text": "Mezitím cibuli vyjmi a do tuku vmíchej lžičku mouky; míchej, dokud nezhnědne.", "minutes": 3, "parallel": true },
+    { "text": "Mezitím zalij mouku horkým vývarem přeceděným přes sítko, osol, opepři a vař deset minut.", "minutes": 10, "parallel": true },
+    { "text": "Jazyk vyndej z vody a vlož ho do omáčky.", "minutes": 2 },
+    { "text": "Duš na mírném ohni asi hodinu; jazyk často obracej a zalévej ho omáčkou.", "minutes": 60 },
+    { "text": "Mezitím olivy nakrájej do spirály kolem pecky, pecku vyjmi a olivy vlož k jazyku.", "minutes": 5, "parallel": true },
+    { "text": "Podávej horký jazyk s omáčkou a olivami." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 155, Beef Tongue with Olives) nedává množství ani počet porcí. Jazyk se nejdřív spaří a celý uvaří v osolené vodě, pak se dusí asi hodinu v omáčce z másla, cibule, mouky a vývaru, do které se přidají olivy; zdroj doporučuje nechat jazyk s olivami den nebo dva, to jsem do postupu nezahrnul (lze jako volitelný tip). Odhady z běžné praxe pro 4 porce: jazyk 600 g syrového (asi 150 g na porci, po stažení kůže a odstranění kořene asi 500 g masa); voda 2 l jen na vaření jazyka, slije se, sůl 2 g na litr (do vody, slije se); máslo 20 g („a piece of butter“); půl střední cibule 75 g (zdroj přesně); 1 čajová lžička hladké mouky = 2,7 g (převod přes convert, zaokrouhleno na 3 g); „soup stock“ = hovězí vývar, zdroj dává 1–2 šálky, zvoleno 2 šálky × 240 ml = 480 ml; olivy 100 g („some olives“, odhad); sůl 3 g a černý pepř 1 g do omáčky („seasoning with salt and pepper“, odhad). Doba vaření jazyka zdroj neuvádí; odhad dvě hodiny podle hovězího vaření a receptu č. 154, zkontroluj vidličkou. Surovina je syrový jazyk, protože zdroj jazyk nejdřív vaří; vařený jazyk (hovezi-jazyk-vareny) by odpovídal hotovému masu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 113,
+    "titleOriginal": "BEEF TONGUE WITH OLIVES (Lingua di bue alle olive)"
+  },
+  "verified": false,
+  "quote": "Scald the tongue and peel off the skin."
+}

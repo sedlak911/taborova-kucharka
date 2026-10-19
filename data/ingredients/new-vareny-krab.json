@@ -1,0 +1,30 @@
+[
+  {
+    "id": "krab-cely",
+    "name": "Krab celý, živý",
+    "aliases": [
+      "živý krab",
+      "krab v celku",
+      "blue crab",
+      "hard shell crab"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 87,
+      "protein": 18.06,
+      "carbs": 0.04,
+      "fat": 1.08,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.5,
+    "allergens": [
+      "korysi"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174204 (Crustaceans, crab, blue, raw)",
+      "refuse": "zdroj Navy 1944 s. 93: krab 8 oz → ½ cup maso (~4 oz) = ~50 %; USDA fdc:174204 uvádí odpad 0 % (jen maso), proto použito 0,5 podle zdroje"
+    }
+  }
+]

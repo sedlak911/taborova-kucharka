@@ -1,0 +1,110 @@
+{
+  "id": "merlan-s-ancovickami",
+  "title": "Merlan s ančovičkami",
+  "titleOriginal": "Whiting with Anchovy Sauce (Merluzzo alla Palermitana)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 560,
+      "unit": "g",
+      "note": "filé z tresky místo merlana, který u nás běžně není",
+      "original": {
+        "ingredientId": "merlan",
+        "amount": 560,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 40,
+      "unit": "g",
+      "note": "solené, odkostěné (zdroj: 3–4 větší ančovičky); katalog má v oleji, olej počítej zvlášť"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 90,
+      "unit": "ml",
+      "note": "2 lžíce do omáčky, 2 lžíce na misu a olej na polévání během pečení"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 40,
+      "unit": "g",
+      "note": "na posypání ryby dvakrát"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 2,
+      "unit": "g",
+      "note": "několik lístků na ozdobu"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "jen šťáva"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rybí filé osuš a rozděl na čtyři stejné kusy.",
+      "minutes": 8
+    },
+    {
+      "text": "Kousky ryby polož na žáruvzdornou misu nebo plech, potři olejem, osol, opepři a posyp strouhankou.",
+      "minutes": 3
+    },
+    {
+      "text": "Ančovičky opláchni, odkostěj a nasekej nadrobno. Dej je na mírný oheň s olejem a nenech je vařit.",
+      "minutes": 5
+    },
+    {
+      "text": "Omáčku z ančoviček rozetři po kouscích ryby, posyp ji strouhankou a lístky rozmarýnu.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč v troubě předehřáté na 200 °C, dokud se na rybě netvoří lehká kůrka; během pečení ji polévej olejem, aby nevyschla.",
+      "minutes": 25
+    },
+    {
+      "text": "Těsně před vyjmutím z plechu vymačkej na rybu šťávu z citronu.",
+      "minutes": 1
+    },
+    {
+      "text": "Podávej horkou; můžeš ji obložit topinkami s kaviárem nebo ančovičkami s máslem."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 117, s. 87) předepisuje jednoho celého merlana (whiting) o váze asi 1 lb (454 g), rozpůleného, s hlavou a ocasem; v receptu je místo něj filé, proto jsou kroky upraveny (bez ploutví, hlavy a páteře) a 3–4 větší solené ančovičky, 2 lžíce oleje do omáčky, 2 lžíce oleje na misu, strouhanku, lístky rozmarýnu a půl citronu. Pro 4 porce počítáno 560 g rybího filé (140 g na porci, s ančovičkami asi 150 g na porci), tedy víc než jedna ryba ze zdroje; odhad. Merlan (whiting) u nás běžně není, proto je v řádku treska (filé), v original merlan se stejnou hmotností (560 g). Ančovičky 40 g (solené, odkostěné; katalog má v oleji, olej v omáčce počítán zvlášť). Olivový olej 90 ml je odhad (2 + 2 lžíce a polévání během pečení). Strouhanka 40 g, rozmarýn 2 g, citron 1 ks (zdroj půl citronu na rybu), sůl 3 g a pepř 1 g jsou odhad z běžné praxe. Teplota 200 °C a doba 25 minut nejsou ve zdroji; doplněno podle běžné praxe pro filé (hotovo, když se maso snadno rozpadá vidličkou). Zdroj nabízí podávání s topinkami a kaviárem nebo ančovičkami s máslem jako volitelné.",
+  "source": {
+    "book": "italian-1919",
+    "page": 91,
+    "titleOriginal": "WHITING WITH ANCHOVY SAUCE (MERLUZZO ALLA PALERMITANA)"
+  },
+  "verified": false,
+  "quote": "Take one whiting, one pound or a little more, and trim all the fins, leaving the tail and the head."
+}

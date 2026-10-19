@@ -1,0 +1,112 @@
+{
+  "id": "holubi-ragout",
+  "title": "Ragú z kuřecích stehen",
+  "titleOriginal": "Ragout of Squabs (Manicaretto di piccione)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-stehna",
+      "amount": 4,
+      "unit": "ks",
+      "note": "místo holubů; každé stehno rozdělit v kloubu na dvě části"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 50,
+      "unit": "g",
+      "note": "plátek šunky; před podáváním vyndat"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "kousek na začátek (20 g) a kousek s moukou (15 g)"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "svazek petrželky; před podáváním vyndat"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 400,
+      "unit": "ml",
+      "note": "masový vývar, přilévat postupně"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 100,
+      "unit": "g",
+      "note": "srdce a žaludky, nakrájet"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 150,
+      "unit": "g",
+      "note": "čerstvé, nakrájené na plátky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "note": "na zahuštění, posypat kousek másla"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva na maso"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "podle chuti; zdroj solení neuvádí, domácí doplněk"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Stehna rozděl v kloubu na dvě části a dej je do hrnce s plátkem šunky, kouskem másla a svazkem petrželky.",
+      "minutes": 8
+    },
+    {
+      "text": "Opékej na mírném ohni, dokud maso nezačne zasychat, pak přilij trochu vývaru.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej drobky a nakrájené žampiony, průběžně přilévej vývar a dus na mírném ohni, dokud není maso měkké.",
+      "minutes": 40
+    },
+    {
+      "text": "Přidej kousek másla posypaný moukou a nech omáčku zhoustnout; dochuť solí.",
+      "minutes": 5
+    },
+    {
+      "text": "Vyndej šunku a petrželku, na maso vymačkej šťávu z citronu a podávej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 39) uvádí dva nebo více holoubat (holoubě) rozřezaných v kloubech na čtyři části, bez množství a bez počtu porcí. Holoubě se v obchodě nekoupí, proto jsou použita kuřecí stehna: 4 ks (asi 150 g s kostí na porci, tedy přibližně jedno stehno na osobu). Ostatní množství jsou odhady z běžné praxe: plátek šunky 50 g, máslo 35 g (kousek na začátek a kousek s moukou), petrželka 10 g (svazek, před podáváním vyndat), vývar 400 ml (zdroj jen „some broth“), drobky 100 g (u kuřete lze vynechat), žampiony 150 g, mouka 10 g, citron 1 ks (zdroj „one lemon“). Sůl 3 g je domácí doplněk: zdroj ji u tohoto receptu nezmiňuje, ale bez soli by jídlo chutnalo prázdně; šunka je slaná, proto solit s rozvahou. Čas 75 minut a doba dušení 40 minut jsou odhady, zdroj je neuvádí. Vývar zdroj označuje jen jako „broth“, v katalogu je hovězí (masový), jak to kniha definuje v č. 1.",
+  "source": {
+    "book": "italian-1919",
+    "page": 43,
+    "titleOriginal": "RAGOUT OF SQUABS (Manicaretto di piccione)"
+  },
+  "verified": false,
+  "quote": "Cut two or more squabs at the joints, preferably in four parts each."
+}

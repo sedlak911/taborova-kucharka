@@ -1,0 +1,89 @@
+{
+  "id": "francouzska-zalivka",
+  "title": "Francouzská zálivka",
+  "titleOriginal": "French Dressing",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.97,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.88,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 45,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 20,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 1,
+      "unit": "g",
+      "note": "místo cibulové šťávy (2 lžíce na 100 porcí), přibližně",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej sůl, cukr, sušenou hořčici a papriku.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej olej, ocet a cibuli a důkladně vyšlehej.",
+      "minutes": 3
+    },
+    {
+      "text": "Přelij do uzavíratelné nádoby a dobře uzavři.",
+      "minutes": 1
+    },
+    {
+      "text": "Před podáváním zálivku silně protřepej."
+    }
+  ],
+  "modernNote": "Zdroj uvádí výtěžek přibližně ½ galonu na 100 porcí; na 4 porce vychází asi 70 g zálivky. Olej (2 lb 8 oz) a ocet (2¼ cupu) jsou z obrázku. Cibulová šťáva ze zdroje (2 lžíce) není v katalogu, nahrazena cibulí v malém množství (odhad, verified false). Sůl 2 g a cukr 2 g jsou podle zdroje na 100 porcí a při přepočtu přes třídu seasoning; na 4 porce můžeš dochutit podle chuti. Zdroj dovoluje místo octa citronovou šťávu a volitelně jeden stroužek česneku (odstraň před použitím); varianty s olivami a kari jsou v zadání pouze zmíněny, recept je neobsahuje. Mikser nebo ruční šlehač jsou přípustné alternativy k vyšlehání. Hořčice je sušená (horcice-susena), ne plnotučná.",
+  "source": {
+    "book": "navy-1944",
+    "page": 211,
+    "titleOriginal": "FRENCH DRESSING"
+  },
+  "verified": false
+}

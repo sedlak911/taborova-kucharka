@@ -1,0 +1,42 @@
+{
+  "id": "hneda-masova-omacka",
+  "title": "Hnědý masový základ",
+  "titleOriginal": "Brown Stock (Sugo di carne)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 425,
+  "difficulty": 1,
+  "tags": ["pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 500, "unit": "g", "note": "tenké plátky ze šťavnatého kusu, případně zbytky steaků nebo pečeně" },
+    { "ingredientId": "spek", "amount": 50, "unit": "g", "note": "drobné kousky nasolené slaniny (salt pork)" },
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "note": "1 velká, nasekaná nadrobno" },
+    { "ingredientId": "mrkev", "amount": 100, "unit": "g", "note": "1 mrkev, nasekaná nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 60, "unit": "g", "note": "1 stonek, nasekaný nadrobno" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "na opečení" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.5, "unit": "g", "note": "2 celé hřebíčky; zdroj říká „cloves“" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "3 šálky (710 ml) na podlití postupně, zbytek vroucí voda nebo vývar" }
+  ],
+  "steps": [
+    { "text": "Na dno velkého hrnce polož tenké plátky hovězího masa a kousky slaniny.", "minutes": 3 },
+    { "text": "Navrch dej nadrobno nasekanou cibuli, mrkev a celer, přidej máslo a zbytky masa.", "minutes": 5 },
+    { "text": "Osol, přidej hřebíček a hrnec polož na plotnu bez míchání.", "minutes": 2 },
+    { "text": "Nech cibuli dobře zhnědnout, pak maso otoč a opékej, dokud je všechno hnědé.", "minutes": 20 },
+    { "text": "Přilij šálek vody, nech ji odpařit a postup celkem třikrát zopakuj (tři šálky vody).", "minutes": 15 },
+    { "text": "Zalij vroucí vodou nebo vývarem a nech jemně probublávat 5 až 6 hodin.", "minutes": 360 },
+    { "text": "Vývar sceď přes sítko.", "minutes": 2 },
+    { "text": "Nech vychladnout a z povrchu sejmi ztuhlý tuk." },
+    { "text": "Vývar uchovej v lednici několik dní jako základ pro další jídla; maso lze použít na masové kuličky nebo krokety." }
+  ],
+  "modernNote": "Zdroj neuvádí porce ani množství masa a zeleniny; hmotnosti jsou odhad z běžné praxe pro 4 porce (hovězí 500 g, tedy asi 125 g na porci; cibule, mrkev a celer jako jedna velká cibule, jedna mrkev a jeden stonek). Tři šálky vody (zdroj: šálek vody podlít a „renewing the latter three times“; 1 šálek = 237 ml, celkem 710 ml) jsou z textu, zbytek vody do celkových 2 l je odhad a vývar je podle zdroje lepší než voda. Dva celé hřebíčky (0,5 g) jsou zapsané jako mletý hřebíček, sůl 5 g je odhad. Doba varu 5–6 hodin je zapsána horní mezí (360 minut). Hotovo je součet aktivních kroků a čekání; chladnutí a sundání tuku se do času nepočítá. Maso po scezení lze podle zdroje použít na masové kuličky nebo krokety (ve vývaru nezůstává). V knize je název „Sugo di Came“ (OCR), správně „Sugo di Carne“. Výsledný objem vývaru zdroj neuvádí, odhad je asi 1,5 l.",
+  "source": {
+    "book": "italian-1919",
+    "page": 19,
+    "titleOriginal": "BROWN STOCK (SUGO DI CARNE)"
+  },
+  "verified": false,
+  "quote": "Cover the bottom of a saucepan with thin slices of beef taken from a juicy cut and small pieces of salt pork."
+}

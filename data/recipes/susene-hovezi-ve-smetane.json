@@ -1,0 +1,35 @@
+{
+  "id": "susene-hovezi-ve-smetane",
+  "title": "Sušené hovězí ve smetanové omáčce",
+  "titleOriginal": "Creamed Sliced Dried Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "susene-hovezi", "amount": 125, "unit": "g", "note": "sušené hovězí, nakrájené na plátky (zdroj: Beef, dried, sliced, 7 lb); koupitelné jako sušená šunka nebo bresaola" },
+    { "ingredientId": "mleko-polotucne", "amount": 760, "unit": "ml", "note": "do omáčky (zdroj: Milk, liquid, 5 gal)" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "note": "rozpuštěné do jíšky (zdroj: Fat, melted, 2 lb)", "original": { "ingredientId": "sadlo", "amount": 35, "unit": "g" }, "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 45, "unit": "g", "note": "do jíšky (zdroj: Flour, 2 lb 8 oz)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g", "note": "zdroj: Pepper, ½ oz (1¾ tbsp)" },
+    { "ingredientId": "chleb-bily", "amount": 120, "unit": "g", "note": "4 plátky, opečené na topinky (zdroj: Bread, toasted, 100 slices; 1 plátek ≈ 30 g odhad)" }
+  ],
+  "steps": [
+    { "text": "Maso nakrájej na malé kousky.", "minutes": 5 },
+    { "text": "Mléko ohřej téměř do varu.", "minutes": 8 },
+    { "text": "Mezitím rozpusť máslo v hrnci a vmíchej mouku do hladké pasty.", "minutes": 3, "parallel": true },
+    { "text": "Za stálého míchání vmíchej pastu do horkého mléka.", "minutes": 2 },
+    { "text": "Vař za stálého míchání, dokud omáčka nezhoustne.", "minutes": 5 },
+    { "text": "Přidej pepř a vmíchej nakrájené maso.", "minutes": 1 },
+    { "text": "Nech asi 10 minut probublávat.", "minutes": 10 },
+    { "text": "Mezitím opeč chléb na topinky.", "minutes": 4, "parallel": true },
+    { "text": "Podávej omáčku na topinkách." }
+  ],
+  "modernNote": "Creamed Sliced Dried Beef (Navy 1944, s. 117 tištěná = PDF 125; na stránce je i Beef Stuffed Cabbage Rolls, zpracován jen tento recept). Sušené hovězí (7 lb na 100 porcí) zůstává v řádku jako `susene-hovezi` (bez original), koupitelné jako sušená šunka nebo bresaola. Tuk „Fat, melted“ (2 lb) je v jíšce → moderně máslo, linear; původní sádlo 35 g je v original. Recept nemá odkaz na Cream Sauce (p. 173); omáčka je zadána přímo (mléko 5 gal, tuk 2 lb, mouka 2 lb 8 oz), proto nebyla přepočítávána z jiné stránky. Mléko 5 gal = 18,9 l (US gal 3,785 l). Sůl ve zdroji není; sušené hovězí je slané, proto dle zdroje: je-li maso příliš slané, namočte je na 15–20 minut do vlažné vody (před krájením). Pepř třídy seasoning: 0,92 g na 4 porce (lineárně by to bylo 0,57 g); dochuť podle chuti. Chléb: 100 plátků na 100 porcí = 4 plátky na 4 porce; hmotnost plátku 30 g je odhad (verified false). Bilance: 4 porce omáčky s masem ≈ 965 g proti porci zdroje 8 oz (227 g), poměr 1,06, v pořádku. Maso 31 g na porci je pod doporučených 80 g; ponecháno podle zdroje (7 lb na 100 porcí), jako hlavní jídlo počítej 60–80 g sušeného hovězího.",
+  "source": { "book": "navy-1944", "page": 125, "titleOriginal": "Creamed Sliced Dried Beef" },
+  "verified": false
+}

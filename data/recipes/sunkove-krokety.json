@@ -1,0 +1,130 @@
+{
+  "id": "sunkove-krokety",
+  "title": "Šunkové krokety",
+  "titleOriginal": "Ham Croquettes",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 450,
+      "unit": "g",
+      "note": "vařená mletá šunka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "jemně nasekaná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 36,
+      "unit": "g",
+      "note": "na restování cibule a jíšku; zdroj používá sádlo",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 36,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 36,
+      "unit": "g",
+      "note": "do jíšky"
+    },
+    {
+      "ingredientId": "vyvar-sunkovy",
+      "amount": 190,
+      "unit": "ml",
+      "note": "horký; zdroj 1¼ galonu na 100 porcí, odkaz na šunkový vývar na str. 218 (PDF 226); nenahrazen vodou"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.6,
+      "unit": "ks",
+      "note": "1,2 ks do směsi a 0,4 ks na zálivku"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 90,
+      "unit": "g",
+      "note": "do směsi"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 35,
+      "unit": "ml",
+      "note": "na vaječnou zálivku"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "note": "na obalení; odhad, zdroj množství neuvádí"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 25,
+      "unit": "g",
+      "note": "na obalení; odhad, zdroj množství neuvádí"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "do hrnce na smažení; většina se po smažení slije",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý v kroketách (odhad)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej mletou šunku, sůl a pepř.", "minutes": 2 },
+    { "text": "Cibuli orestuj na tuku, dokud nezesklovatí.", "minutes": 8 },
+    { "text": "Přimíchej mouku a dobře promíchej.", "minutes": 2 },
+    { "text": "Za stálého míchání přilévej horký šunkový vývar, přiveď k varu a sundej z ohně.", "minutes": 8 },
+    { "text": "Vmíchej strouhanku, šunku a vejce a dobře promíchej.", "minutes": 3 },
+    { "text": "Nech směs v lednici ztuhnout.", "minutes": 60 },
+    { "text": "Mezitím rozšlehej mléko s vejcem na zálivku.", "minutes": 2, "parallel": true },
+    { "text": "Vytvaruj z šunkové směsi krokety, obal je v mouce, pak v zálivce a nakonec ve strouhance.", "minutes": 10 },
+    { "text": "Smaž v hlubokém oleji zahřátém na 190 °C 3 až 4 minuty, dokud nejsou ze všech stran zlatavé.", "minutes": 4 },
+    { "text": "Ihned podávej." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí; porce = 2 krokety po 3 až 3½ oz, tedy asi 6½ oz (185 g). Šunka je 25 lb vařené mleté šunky (450 g). Sádlo (2 lb) na restování cibule a do jíšky nahrazeno máslem (35 g, jíška = třída linear); sádlo je v original. Šunkový vývar (Ham Stock, str. 218 = PDF 226, 1¼ galonu) je zachován, nenahrazen vodou. Vejce: 1 lb = 10 ks (45 g): 3 lb celých do směsi (1,2 ks) + 1 lb na zálivku (0,4 ks) = 1,6 ks na 4 porce. Sůl (2 oz = 4 g) je ve třídě seasoning, pro chuť doporučuji ubrat; pepř ½ oz = 0,92 g. Zdroj neuvádí množství mouky a strouhanky na obalení ani dobu chlazení: mouka 10 g, strouhanka 25 g a chlazení 60 minut jsou odhad, verified false. Smažení 375 °F = 190 °C, 3 až 4 minuty (horní mez 4). Hmotnost porce vychází zhruba 268 g (včetně obalení a oleje na smažení) proti 185 g ze zdroje (poměr 1,45, přijatelné, bilance sedí).",
+  "source": {
+    "book": "navy-1944",
+    "page": 152,
+    "titleOriginal": "HAM CROQUETTES"
+  },
+  "verified": false,
+  "quote": "Dip croquettes into mixture. Roll in crumbs."
+}

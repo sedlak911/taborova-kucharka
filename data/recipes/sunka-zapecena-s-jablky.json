@@ -1,0 +1,73 @@
+{
+  "id": "sunka-zapecena-s-jablky",
+  "title": "Šunka zapečená s jablky",
+  "titleOriginal": "Ham Scalloped with Apples",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 360,
+      "unit": "g",
+      "note": "uvařená, nakrájená na kostky"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 360,
+      "unit": "g",
+      "note": "oloupaná, nakrájená na plátky"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 75,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "jablecny-dzus",
+      "amount": 55,
+      "unit": "ml",
+      "note": "nebo voda"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 150 °C."
+    },
+    {
+      "text": "Jablka oloupej, vykrájej jádřinec a nakrájej na plátky.",
+      "minutes": 5
+    },
+    {
+      "text": "Střídavě ulož do zapékací misky vrstvy šunky, jablek, cukru a celých hřebíčků.",
+      "minutes": 5
+    },
+    {
+      "text": "Zalij šťávou nebo vodou.",
+      "minutes": 1
+    },
+    {
+      "text": "Peč asi 1,5 hodiny, dokud jablka nezměknou.",
+      "minutes": 90
+    }
+  ],
+  "modernNote": "Zdroj uvádí jako tekutinu „fruit juice or water“; zvolena jablečná šťáva, voda jde také a zůstává v jídle (třída linear). Celé hřebíčky (3/4 unce na 100 porcí) jsou nová surovina hrebicek-cely; na 4 porce vychází 1 g, při podávání je lze vyjmout. Bilance: zdroj má na 100 porcí po 6 oz (37,5 lb) a vstup je 47 lb, rozdíl se při pečení ztrácí odpařením tekutiny; 4 porce tak váží o něco víc než porce zdroje.",
+  "source": {
+    "book": "navy-1944",
+    "page": 149,
+    "titleOriginal": "HAM SCALLOPED WITH APPLES"
+  },
+  "verified": true
+}

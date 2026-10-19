@@ -1,0 +1,118 @@
+{
+  "id": "kureci-polevka-s-ryzi",
+  "title": "Kuřecí polévka s rýží",
+  "titleOriginal": "Chicken Rice Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 1060,
+      "unit": "ml",
+      "group": "Vývar a zelenina",
+      "note": "kupovaný; zdroj: Chicken Stock (s. 216) 7 gal na 100 porcí; vývar je ochucený, proto v receptu bez sůl navíc"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "group": "Vývar a zelenina",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 35,
+      "unit": "g",
+      "group": "Vývar a zelenina",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 25,
+      "unit": "g",
+      "group": "Vývar a zelenina",
+      "note": "suchá, syrová; zdroj: rýže uvařená v polévce, propláchnutá"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "group": "Jíška",
+      "scaling": "linear",
+      "note": "roztopené; zdroj: kuřecí tuk (chicken fat)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g",
+      "group": "Jíška"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 45,
+      "unit": "g",
+      "group": "Koření a maso",
+      "note": "vařené, nakrájené na kostičky; zdroj: 2 lb 8 oz vařeného kuřete"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "group": "Koření a maso"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "group": "Koření a maso",
+      "note": "zdroj: pepř, druh neuveden; černý mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži propláchni, pak ji spolu s nakrájenou cibulí a celerem přidej do vývaru.",
+      "minutes": 4
+    },
+    {
+      "text": "Přiveď k varu a vař 30 minut, dokud rýže nezměkne.",
+      "minutes": 38
+    },
+    {
+      "text": "Mezitím v misce rozmíchej roztopený tuk s moukou do hladké jíšky.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Jíšku vmíchej do polévky, přidej sůl, pepř a kuřecí maso a vař 15 minut, dokud polévka nezhoustne.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Zdroj: Chicken Rice Soup, s. 229 tištěná (PDF 237). Výtěžek approx. 6 gal, porce 1 cup (approx. 8 oz): 6 gal / 1 cup = 96 porcí, odchylka 4 % je v toleranci, proto originalYield 100. Vývar: kupovaný kuřecí vývar (kureci-vyvar) v množství ze zdroje 7 gal na 100 porcí = 1060 ml na 4 porce; zdrojový Chicken Stock (s. 216) nebyl rozepisován. Zdrojová sůl 4 oz (½ cup) na 100 porcí dává přes třídu seasoning 7 g na 4 porce; kupovaný vývar bývá solený, proto doporučuji sůl ubrat podle chuti. Tuk: kuřecí tuk (sadlo) je v original, moderně máslo 25 g v jíšce (linear, jíška nepatří do třídy fat). Rýže: 1 lb 8 oz syrové rýže = 25 g na 4 porce, ryze-bila. Kuřecí maso: zdroj uvádí vařené kuře 2 lb 8 oz, počítáno jako vařené (kureci-maso-vareno). Bilance: 315 g na porci a 265 ml tekutiny proti 1 cup (227 g, 237 ml) ve zdroji; rozdíl odpovídá zdrojové bilanci 7 gal vývaru na 6 gal výtěžku (odpařování, vstřebání rýží) a nepovažuji ho za chybu. Kcal ≈ 124 na porci je výpočet z kupovaného vývaru a surovin, bez odpařené části.",
+  "source": {
+    "book": "navy-1944",
+    "page": 237,
+    "titleOriginal": "Chicken Rice Soup"
+  },
+  "verified": true
+}

@@ -1,0 +1,116 @@
+{
+  "id": "filet-po-piemontsku",
+  "title": "Hovězí filet po piemontsku",
+  "titleOriginal": "Tenderloin with Spices (Filetto alla piemontese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-filet",
+      "amount": 600,
+      "unit": "g",
+      "group": "Filet",
+      "note": "vyčištěný, bez blan; zdroj neuvádí váhu, odhad 150 g na porci"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Filet",
+      "note": "zdroj „salt“; množství odhad podle receptu s marsalou"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Filet",
+      "note": "zdroj „pepper“"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.2,
+      "unit": "g",
+      "group": "Filet",
+      "note": "štipka, zdroj „nutmeg“"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Filet",
+      "note": "štipka, zdroj „cinnamon“"
+    },
+    {
+      "ingredientId": "salvej",
+      "amount": 2,
+      "unit": "g",
+      "group": "Bylinky a zelenina",
+      "note": "zdroj „sage“ v svazku; v katalogu jen sušená"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "group": "Bylinky a zelenina",
+      "note": "zdroj „parsley“ v svazku, asi hrst"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 2,
+      "unit": "g",
+      "group": "Bylinky a zelenina",
+      "note": "zdroj „rosemary“"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "group": "Bylinky a zelenina",
+      "note": "1 menší, nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 50,
+      "unit": "g",
+      "group": "Bylinky a zelenina",
+      "note": "1 menší, nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 50,
+      "unit": "g",
+      "group": "Bylinky a zelenina",
+      "note": "1 řapík, nadrobno nasekaný"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Pánev",
+      "note": "kousek másla, zdroj „a piece of butter“"
+    }
+  ],
+  "steps": [
+    { "text": "Maso očisti a odstraň všechny blanky.", "minutes": 5 },
+    { "text": "Maso posyp muškátovým oříškem, skořicí, solí a pepřem.", "minutes": 2 },
+    { "text": "Maso vlož do pokryté hliněné nádoby spolu s nadrobno nasekanými bylinkami, cibulí, mrkví a celerem.", "minutes": 5 },
+    { "text": "Nech několik hodin odležet pod pokličkou." },
+    { "text": "Na pánvi rozpusť máslo a zlehka v něm opeč bylinky s cibulí, mrkví a celerem.", "minutes": 5 },
+    { "text": "Bylinky vyjmi z pánve a do máslové šťávy vlož filet.", "minutes": 2 },
+    { "text": "Filet duš na mírném ohni půl hodiny; často ho propichuj velkou vidličkou, aby pustil šťávu do omáčky.", "minutes": 30 },
+    { "text": "Hotový filet nakrájej a podávej horký se šťávou z pánve.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 158, s. 111) uvádí jen druh masa a postup; množství a počet porcí nejsou, všechna čísla jsou odhad pro 4 porce. Filet 600 g (asi 150 g na porci) podle doporučení pro hovězí maso; zdroj mluví o celém kusu „tenderloin“, proto zůstává filet, u levnější varianty lze dát hovězí zadní (pak prodlužte dušení). Filet je drahý, proto recept nemá tag levne. Odhady z běžné praxe: sůl 4 g (stejně jako u filetu s marsalou), pepř 0,5 g, muškátový oříšek a skořice po štipce (0,2 g a 0,5 g), sušená šalvěj 2 g (zdroj „a bunch of aromatic herbs“; čerstvá šalvěj není v katalogu), petržel 10 g, rozmarýn 2 g, cibule, mrkev a celer po 50 g, máslo 20 g. Zdroj nepřidává žádnou tekutinu; omáčka vznikne ze šťávy masa a másla s bylinkami. Pokud se dno připaluje, přilij lžíci vody nebo hovězího vývaru. Zdroj uvádí jen „after a few hours“ (odležení ~3 h), proto bez tagu pripravit-predem (pod 4 h), čas odležení není v timeMinutes. Dušení zdroj uvádí na půl hodiny, nemusí být přesné.",
+  "source": {
+    "book": "italian-1919",
+    "page": 115,
+    "titleOriginal": "TENDERLOIN WITH SPICES (Filetto alla piemontese)"
+  },
+  "verified": false,
+  "quote": "Clean and trim the meat, removing all the little skins."
+}

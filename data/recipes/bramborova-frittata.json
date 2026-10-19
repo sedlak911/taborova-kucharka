@@ -1,0 +1,176 @@
+{
+  "id": "bramborova-frittata",
+  "title": "Bramborová frittata",
+  "titleOriginal": "Potato Frittata",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 300,
+      "unit": "g",
+      "note": "oloupané, na kostky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na vaření brambor, slije se; domácí hodnota (zdroj 16¾ lb), aby byly brambory ponořené",
+      "scaling": "vessel",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření brambor, slije se",
+      "scaling": "vessel",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "brokolice",
+      "amount": 300,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na vaření brokolice, slije se; domácí hodnota (zdroj 20⅞ lb)",
+      "scaling": "vessel",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření brokolice, slije se",
+      "scaling": "vessel",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 340,
+      "unit": "g",
+      "note": "na plátky",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 115,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 16,
+      "unit": "g",
+      "note": "strouhaný",
+      "group": "Zelenina"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 140,
+      "unit": "ml",
+      "note": "čerstvé; zdroj rozmíchává sušené mléko s vodou, zde objem součtu",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 8,
+        "unit": "g"
+      },
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3.9,
+      "unit": "ks",
+      "note": "celá, čerstvá (zdroj mražená celá vejce)",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 195,
+        "unit": "g"
+      },
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 195,
+      "unit": "g",
+      "note": "bílky",
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 2,
+      "unit": "g",
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 1,
+      "unit": "g",
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "bazalka-susena",
+      "amount": 1,
+      "unit": "g",
+      "note": "drcená",
+      "group": "Vaječná směs"
+    }
+  ],
+  "steps": [
+    { "text": "Brambory přidej do vroucí osolené vody, přiveď k varu a sniž teplotu. Přikryj a vař 8 minut, dokud nejsou měkké. Dobře sceď.", "minutes": 13 },
+    { "text": "Do vroucí osolené vody přidej brokolici, přiveď k varu a sniž teplotu. Vař 5 minut, dokud nezměkne. Sceď a nech vychladnout.", "minutes": 5, "parallel": true },
+    { "text": "Smíchej brambory, brokolici, rajčata, cibuli a parmezán. Lehce promíchej a rozlož do lehce vymazaného pekáče.", "minutes": 3 },
+    { "text": "Mléko, vejce, bílky, petrželku, sůl, pepř, česnek, papriku a bazalku dobře prošlehej.", "minutes": 3 },
+    { "text": "Vaječnou směs rovnoměrně nalij na zeleninu v pekáči a lehce promíchej, aby se rozdělila.", "minutes": 2 },
+    { "text": "Peč v předehřáté troubě na horkovzduch při 165 °C 40–45 minut, dokud vejce neztuhnou.", "minutes": 45 }
+  ],
+  "modernNote": "Přepočteno z velkokuchyňské dávky (100 porcí) na 4 porce. Na porci vychází cca 405 g (zdroj Portion 12 oz ≈ 340 g), kcal na porci 237 (zdroj 243). Sušené mléko rozmíchané s teplou vodou (poměr zdroje cca 1 : 16, velmi slabé) nahrazeno polotučným mlékem v objemu součtu. Mražená celá vejce nahrazena čerstvými, rozmrazování odpadá. Slévaná voda na brambory a brokolici je domácí hodnota 500 ml místo zdrojových 16¾ lb a 20⅞ lb; sůl do ní škálována jako slévaná. Sprej na pekáč vynechán; doporučení: pekáč lehce vymaž olejem. CCP pokyny (držení 140 °F, vnitřní 145 °F) vynechány; doporučení: před vyjmutím ověř, že střed je pevný.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1028,
+    "code": "L 175 00",
+    "titleOriginal": "Potato Frittata"
+  },
+  "verified": true
+}

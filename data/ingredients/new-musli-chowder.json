@@ -1,0 +1,35 @@
+[
+  {
+    "id": "skeble-konzervovane",
+    "name": "Škeble (clams) konzervované, bez nálevu",
+    "aliases": [
+      "škeble",
+      "škeble z konzervy",
+      "clams",
+      "clams canned",
+      "minced clams",
+      "mušle škeble"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 142,
+      "protein": 24.25,
+      "carbs": 5.9,
+      "fat": 1.59,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 160
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mekkysi"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171976 (Mollusks, clam, mixed species, canned, drained solids)",
+      "refuse": "bez odpadu (sceděný obsah konzervy)",
+      "units": "USDA fdc:171976 cup = 160 g"
+    }
+  }
+]

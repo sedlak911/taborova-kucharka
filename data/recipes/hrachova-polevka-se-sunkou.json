@@ -1,0 +1,47 @@
+{
+  "id": "hrachova-polevka-se-sunkou",
+  "title": "Hrachová polévka se šunkou",
+  "titleOriginal": "Split Pea Soup with Ham",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 165,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "hrach-puleny", "amount": 145, "unit": "g", "note": "půlený, propláchnout" },
+    {
+      "ingredientId": "voda",
+      "amount": 1060,
+      "unit": "ml",
+      "note": "včetně vody, ve které se vaří koleno (vznikne vývar)",
+      "original": { "ingredientId": "vyvar-sunkovy", "amount": 610, "unit": "ml" }
+    },
+    {
+      "ingredientId": "uzene-koleno",
+      "amount": 100,
+      "unit": "g",
+      "note": "jedlé maso; celé koleno cca 250 g, po uvaření odkostit",
+      "original": { "ingredientId": "sunka", "amount": 35, "unit": "g" }
+    },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "nastrouhaná" },
+    { "ingredientId": "mrkev", "amount": 20, "unit": "g", "note": "nastrouhaná" },
+    { "ingredientId": "bobkovy-list", "amount": 0.5, "unit": "ks", "note": "půl listu (4 na 100 porcí)" },
+    { "ingredientId": "cukr-krystal", "amount": 3, "unit": "g", "scaling": "seasoning" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Hrách přeber, odstraň cizí příměsi a důkladně propláchni v studené vodě." },
+    { "text": "Hrách zalij vodou, přidej uzené koleno a přiveď k varu.", "minutes": 8 },
+    { "text": "Přidej nastrouhanou cibuli, mrkev, bobkový list, cukr a pepř. Sniž plamen a jemně duš asi 2,5 hodiny, dokud hrách nerozvaří.", "minutes": 150 },
+    { "text": "Vyjmi bobkový list a uzené koleno. Maso z kolena odkosti a nakrájej na kostičky.", "minutes": 5 },
+    { "text": "Polévku vyšlehej dohladka. Je-li příliš hustá, přilij vařící vodu.", "minutes": 2 },
+    { "text": "Vrať maso do polévky a znovu ohřej." }
+  ],
+  "modernNote": "Šunka (35 g na porci, 2 lb na 100 porcí) je nahrazena uzeným kolenem: na 4 porce cca 100 g jedlého masa z kolena cca 250 g. Odchylka: 100 g místo 35 g, protože celé koleno je nejmenší praktická koupě. Vývar z balíčku (610 ml) nahrazen vodou, ve které se koleno vaří; celkem 1060 ml (původně 455 ml vody + 610 ml vývaru). Množství masa je odhad digitizéra, proto `verified: false`; kcal vychází o ~35 vyšší než na kartě AFRS kvůli většímu množství masa. Odkostění kolena a vrácení masa do polévky po vyšlehání je modernizace kroku.",
+  "source": { "book": "afrs-2003", "page": 1444, "code": "P 023 00", "titleOriginal": "SPLIT PEA SOUP WITH HAM" },
+  "verified": false,
+  "quote": "Whip until mixture is smooth."
+}

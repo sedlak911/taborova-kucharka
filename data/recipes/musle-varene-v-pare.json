@@ -1,0 +1,59 @@
+{
+  "id": "musle-varene-v-pare",
+  "title": "Mušle vařené v páře",
+  "titleOriginal": "Steamed Clams",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mekkysi",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "slavky",
+      "amount": 1280,
+      "unit": "g",
+      "note": "v lasturách (nákupní hmotnost), odhad; zdroj množství neuvádí; nebo jiné mlže, např. srdcovky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "voda na páru na dně hrnce; domácí hodnota"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "rozpuštěné, na podávání; odhad",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Mušle důkladně očisti kartáčem a opláchni pod tekoucí vodou, aby se zbavily písku.", "minutes": 8 },
+    { "text": "Do velkého hrnce s pokličkou dej mušle a přilij vodu.", "minutes": 1 },
+    { "text": "Přikryj a zahřej do varu.", "minutes": 7 },
+    { "text": "Mezitím rozpusť máslo v malém hrnci.", "minutes": 2, "parallel": true },
+    { "text": "Vař, dokud se lastury neotevřou, a hned sundej z ohně.", "minutes": 5 },
+    { "text": "Podávej horké v lasturách s rozpuštěným máslem a šťávou z hrnce." }
+  ],
+  "modernNote": "Zdroj neuvádí množství mušlí ani másla (jen „melted butter“ a „1 quart water for each bushel of clams“), ani počet porcí; všechna tři čísla jsou odhad. Mušle 1,28 kg v lasturách ≈ 320 g na osobu (zhruba 100 g masa). Voda 250 ml je domácí hodnota pro hrnec s pokličkou; zdrojový poměr 1 qt na bušl by pro 4 porce dal jen asi 30 ml. Šťáva z hrnce, kterou zdroj podává v šálcích, je tatáž voda s mořskou šťávou. Doporučení: mušle, které se po vaření neotevřou, vyhoď. Zdroj také zmiňuje smažení vyloupaných mušlí a použití na mušlové karbanátky (Fish Cakes, s. 82), to zde není. Slávky lze nahradit srdcovkami.",
+  "source": {
+    "book": "navy-1944",
+    "page": 93,
+    "titleOriginal": "STEAMED CLAMS"
+  },
+  "verified": false,
+  "quote": "Cook until shells open."
+}

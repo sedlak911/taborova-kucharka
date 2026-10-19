@@ -1,0 +1,33 @@
+[
+  {
+    "id": "kastany",
+    "name": "Kaštany pečené, vyloupané",
+    "aliases": [
+      "kaštany",
+      "pečené kaštany",
+      "kaštany vařené",
+      "vyloupané kaštany",
+      "roasted chestnuts",
+      "chestnuts"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 245,
+      "protein": 3.17,
+      "carbs": 52.96,
+      "fat": 2.2,
+      "fiber": 5.1
+    },
+    "units": {
+      "ks": 8.4
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170190 (Nuts, chestnuts, european, roasted)",
+      "units": "USDA SR Legacy: 10 kernels = 84 g, tedy 1 ks ≈ 8,4 g",
+      "refuse": "USDA fdc:170190 odpad 37 % (skořápky a slupky); v katalogu g = už vyloupané kaštany"
+    }
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "id": "kvetak-s-besamelem",
+  "title": "Květák zapečený s bešamelem",
+  "titleOriginal": "Cauliflower with Balsamella (Cavolfiore colla balsamella)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kvetak",
+      "amount": 800,
+      "unit": "g",
+      "group": "Květák",
+      "note": "jedlá část (asi 1 střední hlava); zdroj „a good sized cauliflower“, bez váhy"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Květák",
+      "note": "na vaření květáku; slije se (domácí odhad, zdroj neuvádí)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Květák",
+      "note": "do vody na vaření, slije se (2 g/l)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Květák",
+      "note": "na opečení květáku; zdroj „brown with butter“, množství odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Květák",
+      "note": "dochucení květáku při opékání; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Květák",
+      "note": "dochucení; odhad"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Bešamel",
+      "note": "zdroj č. 59 má 1 pintu (473 ml) na větší dávku; zde množství pro tento pokrm (asi 300 ml bešamelu)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 25,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "zdroj udává 1 polévkovou lžíci; odhad pro hustší omáčku"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "kousek velikosti vejce podle zdroje; odhad"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "group": "Zapečení",
+      "note": "„a small pinch of grated cheese“; odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odstraň z květáku vnější listy a zelené žebra a do stonku zařízni hluboký křížový řez.",
+      "minutes": 5
+    },
+    {
+      "text": "Ve velkém hrnci přiveď osolenou vodu k varu, vlož květák a vař do měkka.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím v jiném hrnci rozpusť máslo, zasyp mouku a za stálého míchání zahřívej, dokud mouka nezačne hnědnout.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Za stálého míchání pozvolna přilévej mléko a vař, dokud omáčka nezhoustne jako smetana.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Uvařený květák sceď, osuš a rozděl na větší růžice.",
+      "minutes": 5
+    },
+    {
+      "text": "Na pánvi rozehřej máslo a opékej květák dozlatova; dochuť solí a pepřem.",
+      "minutes": 8
+    },
+    {
+      "text": "Předehřej troubu na 200 °C a zapékací mísu vymaž máslem."
+    },
+    {
+      "text": "Opečený květák dej do mísy, posyp strouhaným parmazánem a zalij bešamelem.",
+      "minutes": 3
+    },
+    {
+      "text": "Zapékej v troubě, dokud povrch nezezlátne.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej horké jako přílohu k vařenému kuřeti nebo guláši, nebo jako předkrm."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 111, s. 83) uvádí květák bez váhy („a good sized cauliflower“), bešamel odkazuje na „No. 54“, ale správně je to č. 59 (Balsamella). Množství: květák 800 g jedlé části (asi 1 střední hlava), bešamel pro toto jídlo 300 ml mléka, 25 g hladké mouky a 25 g másla (zdroj má pro pintu mléka jen 1 lžíci mouky a kousek másla velikosti vejce, takže omáčka je husté pokrytí zeleniny; odhad). Vodu na vaření 1 l na 800 g a sůl 2 g/l přidáváme jako domácí hodnoty, slévají se. Máslo na opečení 20 g a parmezán 10 g (malá špetka) jsou odhady. Sůl a pepř bez množství ve zdroji, dochucení odhad. Zdroj neudává čas; kroky a celkové 55 minut jsou odhad (vaření květáku, bešamel během něj, zapečení 10 minut).",
+  "source": {
+    "book": "italian-1919",
+    "page": 87,
+    "titleOriginal": "CAULIFLOWER WITH BALSAMELLA (Cavolfiore colla balsamella)"
+  },
+  "verified": false,
+  "quote": "Serve this cauliflower as an entremets or as a side-dish with boiled chicken or a stew."
+}

@@ -1,0 +1,83 @@
+{
+  "id": "cernooke-fazole",
+  "title": "Černooké fazole",
+  "titleOriginal": "Black-Eyed Peas",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 185,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-cernooke",
+      "amount": 220,
+      "unit": "g",
+      "note": "sušené"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 75,
+      "unit": "g",
+      "note": "solená slanina (salt pork), nakrájená na plátky bez kůže"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na namočení a vaření, slije se"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 270,
+      "unit": "ml",
+      "note": "vsáknutá do fazolí, dopočteno z výtěžku 5 oz na porci"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.03,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazole přeber, opláchni, zalij vodou a nech asi hodinu namočené; nescedí se."
+    },
+    {
+      "text": "Solenou slaninu nakrájej na plátky silné asi 8 mm až ke kůži a kůži odřízni.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej vodu, slaninu a fazole, vař 1 hodinu a potom scedi.",
+      "minutes": 60
+    },
+    {
+      "text": "Fazole se slaninou smíchej se solí a kajenským pepřem a vař ještě 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Podávej teplé s plátky slaniny."
+    }
+  ],
+  "modernNote": "Zdroj (100 porcí, 5 oz na porci, cca 2/3 hrnku) přepočteno na 4 porce: 220 g sušených fazolí a 75 g solené slaniny. Obě vody zdroje (2½ gal na namočení a 2½ gal na vaření) se slijí, proto je v receptu domácí hodnota 1 l (`vessel`), ne 5 gal. Zbývající voda je vsáknutá do fazolí: 100 porcí × 5 oz = 31,25 lb, suché suroviny (fazole, slanina, sůl) dávají 16,2 lb, rozdíl 15 lb je voda v jídle, na 4 porce 270 ml (`linear`, odhad, proto `verified: false`). Bez ní by hmotnost porce vyšla polovina zdroje. Sůl (3½ oz, 7 lžic) je ve zdroji přidána celá až do konce vaření, moderní solená slanina je často slanější; doporučuji ji dochutit až na konci a ubrat na polovinu. Solený vepřový bok (salt pork) je nahrazen špekem, který se dnes běžně koupí. Zdroj v postupu nemá nikde zmínku o množství vody v poslední hodině vaření; pokud fazole zřetelně vyschnou, přidej trochu vody. Varianta s rýží (Black-Eyed Peas and Rice) není v receptu: uvařenou rýži smíchej s hotovými fazolemi a dochuť máslem nebo slaninou. Zdroj také povoluje přidat nakrájenou cibuli nebo konzervovaná rajčata, v receptu nejsou. Kajenský pepř je ve zdroji ¼ lžičky, na 4 porce tedy jen 0,03 g.",
+  "source": {
+    "book": "navy-1944",
+    "page": 284,
+    "titleOriginal": "BLACK-EYED PEAS"
+  },
+  "verified": false,
+  "quote": "Pick over and wash peas thoroughly."
+}

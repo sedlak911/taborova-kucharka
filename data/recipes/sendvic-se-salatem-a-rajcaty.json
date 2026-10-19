@@ -1,0 +1,61 @@
+{
+  "id": "sendvic-se-salatem-a-rajcaty",
+  "title": "Sendvič se salátem a rajčaty",
+  "titleOriginal": "Lettuce and Tomato Sandwich",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 220,
+      "unit": "g",
+      "note": "8 plátků (2 na porci); zdroj množství chleba neuvádí, odhad 28 g na plátek"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g",
+      "note": "kupovaná majoneza (zdroj odkazuje na Mayonnaise, str. 204)"
+    },
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 75,
+      "unit": "g",
+      "note": "listy z hlávky"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 270,
+      "unit": "g",
+      "note": "na plátky"
+    }
+  ],
+  "steps": [
+    { "text": "Salát omyj a rozděl na listy.", "minutes": 5 },
+    { "text": "Rajčata nakrájej na plátky.", "minutes": 4 },
+    { "text": "Chleba namaž majonézou.", "minutes": 4 },
+    { "text": "Na jeden plátek chleba polož plátky rajčete a listy salátu.", "minutes": 2 },
+    { "text": "Přikryj druhým plátkem chleba.", "minutes": 1 }
+  ],
+  "modernNote": "Zdroj uvádí jen „Spread bread“ bez množství chleba; odhad 2 plátky bílého chleba na porci (8 plátků = 224 g, zaokrouhleno na 220 g), verified false. Majonéza je kupovaná podle odkazu (Mayonnaise, str. 204 = PDF 212); domácí recept nerozepisován. Sendvič má ~160 g, rajčata tvoří většinu hmotnosti. Varianta Lettuce, Tomato and Bacon Sandwich (2 plátky opečené slaniny na sendvič) není v receptu; slanina by šla na pánvi zvlášť.",
+  "source": {
+    "book": "navy-1944",
+    "page": 221,
+    "titleOriginal": "LETTUCE AND TOMATO SANDWICH"
+  },
+  "verified": false,
+  "quote": "Wash and separate lettuce heads into leaves."
+}

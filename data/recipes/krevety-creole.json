@@ -1,0 +1,212 @@
+{
+  "id": "krevety-creole",
+  "title": "Krevety creole",
+  "titleOriginal": "Shrimps Creole",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "korysi",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "krevety",
+      "amount": 200,
+      "unit": "g",
+      "note": "loupané; ze zdroje 20 lb syrových krevet v krunýřích (odhad výtěžku 55 %)",
+      "group": "Krevety"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 180,
+      "unit": "g",
+      "note": "z konzervy, včetně šťávy",
+      "group": "Krevety"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 120,
+      "unit": "g",
+      "note": "ve zdroji konzerva No. 10; dnes zelený hrášek",
+      "group": "Krevety"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Krevety"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "kajenský pepř",
+      "group": "Krevety"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření krevet, slije se; domácí hodnota (minimum 1 l)",
+      "scaling": "vessel",
+      "group": "Krevety"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 18,
+      "unit": "g",
+      "note": "solený vepřový bok (salt pork) nakrájený na kostičky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 8,
+      "unit": "g",
+      "note": "nasekaná nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 6,
+      "unit": "g",
+      "note": "nasekaný nadrobno",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.05,
+      "unit": "ks",
+      "note": "v gázovém sáčku, vyjmout",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "ve zdroji celé hřebíčky v gázovém sáčku",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 75,
+      "unit": "g",
+      "note": "z konzervy, do omáčky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 105,
+      "unit": "ml",
+      "note": "do omáčky a na rozmíchání mouky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "seasoning",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 1,
+      "unit": "g",
+      "note": "rozmíchaná s vodou na kaši",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 125,
+      "unit": "g",
+      "note": "suchá; ze zdroje 21 lb uvařené rýže (odkaz na stranu 25, PDF 33), suchá ≈ 1/3",
+      "group": "Rýže"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření rýže, slije se; domácí hodnota 1 l na 100 g rýže",
+      "scaling": "vessel",
+      "group": "Rýže"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření rýže, slije se",
+      "scaling": "vessel",
+      "group": "Rýže"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špek nakrájej na kostičky a v hrnci ho osmahni dozlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Cibuli a celer nasekej nadrobno, přidej je ke špeku a opékej, dokud lehce nezhnědnou.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej bobkový list a hřebíček zavázané v gázovém sáčku, rajčata, vodu a cukr a přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech omáčku dusit 30 minut.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím v jiném hrnci zalij krevety vodou a přiveď k varu.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím krevety vař 20 minut, slij je a ponoř do studené vody, aby rychle vychladly.",
+      "minutes": 20,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím v dalším hrnci uvař rýži v osolené vařicí vodě asi 25 minut, slij ji a propláchni horkou vodou.",
+      "minutes": 25,
+      "parallel": true
+    },
+    {
+      "text": "Mouku rozmíchej s vodou na hladkou kaši, vmíchej ji do omáčky a nech dusit dalších 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Vyjmi sáček s kořením.",
+      "minutes": 1
+    },
+    {
+      "text": "Odstraň krunýř a černou žílku ostrým nožíkem a krevety důkladně opláchni.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej krevety, rajčata, hrášek, sůl a kajenský pepř a přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech 10 minut probublávat.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej s uvařenou rýží."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 8 oz (9–10 krevet); čísla přečtena z obrázku stránky 98 (tištěná 90). Krevety ve zdroji 20 lb syrových v krunýřích (2½ gal výtěžku, objemová míra) – v katalogu je loupaná položka `krevety`, proto je použit odhad výtěžku 55 % (11 lb = 200 g na 4 porce). Pokud koupíš hotové loupané krevety, přeskoč vaření a loupání (kroky 5, 6 a 10 zkrať na ohřátí). Kreolská omáčka je odkaz na stranu 178 (PDF 186): zdroj dává 3 gal omáčky, do tohoto receptu jde 1 gal = ⅓ všech surovin, přepočteno úměrně; dušení omáčky zkráceno z 1 h na 30 min a zahuštění z 30 na 15 min, protože jde o malou dávku. Rajčata: 10 lb do směsi (180 g) a 4¼ lb do omáčky (75 g). Hrášek ve zdroji z konzervy No. 10 (6 lb 10 oz), dnes zelený hrášek. Uvařená rýže 21 lb ze strany 25 (PDF 33) je přepočtena na suchou ≈ 1/3 (125 g); voda a sůl ze stejné strany jsou domácí hodnoty (1 l na 100 g, sůl 2 g na 1 l), protože se slévají. Sůl a koření: třída seasoning. Nesrovnalost: kajenský pepř je ve zdroji ¼ oz (7 g na 100 porcí), ale ¾ lžíce odpovídá asi 5 g; použita váha, `verified: false`. Krevety: výtěžek je odhad, `verified: false`. Hmotnost porce vychází zhruba 210 g oproti 8 oz zdroje (227 g), bilance je v toleranci. Doporučení: zdroj uvádí 9–10 krevet na porci, ale 20 lb syrových krevet na 100 porcí dává jen ~50 g loupaných na porci (nález „maso 55 g“ mimo 80–250 g je odchylka od karty, ne chyba výpočtu); pro hlavní jídlo počítej 100–150 g krevet na porci a přidej je nad rámec receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 98,
+    "titleOriginal": "SHRIMPS CREOLE"
+  },
+  "verified": false
+}

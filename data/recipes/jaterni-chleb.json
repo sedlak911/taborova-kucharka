@@ -1,0 +1,157 @@
+{
+  "id": "jaterni-chleb",
+  "title": "Játrový chlebíček",
+  "titleOriginal": "Liver Loaf (Pane di fegato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 450,
+      "unit": "g",
+      "group": "Játra",
+      "note": "telecí játra, nakrájet na tenké plátky („about one pound“)"
+    },
+    {
+      "ingredientId": "kureci-jatra",
+      "amount": 160,
+      "unit": "g",
+      "group": "Játra",
+      "note": "4 kuřecí játra, každé rozpůlit (≈ 40 g/ks, odhad)"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 2,
+      "unit": "g",
+      "group": "Játra",
+      "note": "1 větvička"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Játra",
+      "note": "2 kousky na pánev (po 20 g) + 10 g na vymazání formy (odhad)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Játra",
+      "note": "odhad, podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Játra",
+      "note": "odhad, podle chuti"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 50,
+      "unit": "g",
+      "group": "Směs",
+      "note": "„a big crumb of bread“, nakrájet na malé kousky (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Směs",
+      "note": "100 ml do směsi, 50 ml na želatinu; nebo voda (zdroj: „brown stock or water“)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Směs",
+      "note": "celé"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Směs"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 5,
+      "unit": "g",
+      "group": "Směs",
+      "note": "strouhaný; zdroj „a pinch“ (odhad)"
+    },
+    {
+      "ingredientId": "zelatina",
+      "amount": 5,
+      "unit": "g",
+      "group": "Podávání",
+      "note": "zdroj uvádí jen „with gelatine“; množství odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Telecí játra nakrájej na tenké plátky, kuřecí játra rozpůl.",
+      "minutes": 5
+    },
+    {
+      "text": "Na pánvi rozpusť kousek másla s rozmarýnem, vlož játra. Když se máslo rozpustí, přidej druhý kousek másla, osol a opepři.",
+      "minutes": 3
+    },
+    {
+      "text": "Játra opékej 4–5 minut na silném ohni, pak je vyjmi a nech okapat.",
+      "minutes": 5
+    },
+    {
+      "text": "Vyjmutá játra umel s rozmarýnem.",
+      "minutes": 3
+    },
+    {
+      "text": "Do zbylé šťávy na pánvi vlož chleba nakrájeného na malé kousky a rozmíchej na hustou kaši.",
+      "minutes": 5
+    },
+    {
+      "text": "Kaši umel spolu s játry a vše protlač sítkem.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej celé vejce, dva žloutky, strouhaný parmezán a zřeď vývarem nebo vodou.",
+      "minutes": 3
+    },
+    {
+      "text": "Hladkou formu vymaž máslem, na dno vlož pergamen a naplň ji směsí.",
+      "minutes": 5
+    },
+    {
+      "text": "Formu postav do většího hrnce s vodou a vař na mírném ohni jako vodní lázeň.",
+      "minutes": 45
+    },
+    {
+      "text": "Nech vychladnout a vyklop z formy. Želatinu rozpusť v horkém vývaru, zalij jí terinu a nech ztuhnout v lednici."
+    },
+    {
+      "text": "Podávej studenou."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, tištěná s. 68, PDF 72) uvádí „about one pound of veal liver“, 4 kuřecí játra, rozmarýn, dva kousky másla, „a big crumb of bread“, celé vejce, dva žloutky, „a pinch of grated cheese“, vývar nebo vodu a podávání studené s želatinou. Množství pro 4 porce jsou odhady z běžné praxe: 610 g jater celkem (≈ 150 g na porci, telecí 450 g z knihy, kuřecí 160 g), máslo 50 g, chléb 50 g, parmezán 5 g, sůl 5 g, pepř 1 g, vývar 150 ml (100 ml do směsi, 50 ml na želatinu), želatina 5 g. Zdroj neuvádí čas vaření ve vodní lázni; 45 minut je odhad. Zdroj neuvádí chlazení, ale podávání studené s želatinou vyžaduje ztuhnutí v lednici (tag pripravit-predem, min. 4 h), chlazení není v timeMinutes. Postup s želatinou je doplněn, zdroj ho nepopisuje. Makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 72,
+    "titleOriginal": "LIVER LOAF (PANE DI FEGATO)"
+  },
+  "verified": false,
+  "quote": "Remove from the mold when cool and serve cold, with gelatine."
+}

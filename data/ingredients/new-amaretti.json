@@ -1,0 +1,34 @@
+[
+  {
+    "id": "horkomandlove-aroma",
+    "name": "Hořkomandlová esence (aroma)",
+    "aliases": [
+      "hořkomandlový extrakt",
+      "esence hořkých mandlí",
+      "bitter almond extract",
+      "bitter almond flavouring"
+    ],
+    "category": "koreni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzicka": 5
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "náhrada: makra zanedbatelná (1 ml aroma); USDA SR Legacy fdc:170567 (mandle) jako orientační nulová hodnota",
+      "units": "lžička ≈ 5 ml běžného extraktu",
+      "refuse": "bez odpadu"
+    },
+    "densityGPerMl": 0.92
+  }
+]

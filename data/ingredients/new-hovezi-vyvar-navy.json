@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hovezi-kosti",
+    "name": "Hovězí kosti",
+    "aliases": [
+      "hovězí kosti na vývar",
+      "beef bones",
+      "bones, beef or veal"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.3,
+    "allergens": [],
+    "sources": {
+      "nutrition": "nastaveno na 0: kosti se do vývaru nejedí, jejich makra jsou v tekutině (vývar); shodně u hovezi-kosti, teleci-kosti a sunkova-kost",
+      "refuse": "odhad ediblePortion 0,3 shodně u hovezi-kosti, teleci-kosti a sunkova-kost (kosti s dření a málem masa, po vaření se vyhodí); proxy USDA Beef, rib, shortribs (fdc:168614) refusePct 59 – kosti bez masa jsou ještě větší odpad"
+    }
+  }
+]

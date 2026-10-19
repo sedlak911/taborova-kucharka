@@ -1,0 +1,42 @@
+{
+  "id": "milanska-zeleninova-polevka",
+  "title": "Milánská zeleninová polévka (minestrone)",
+  "titleOriginal": "Vegetable Chowder (Minestrone alla Milanese)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 180,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    { "ingredientId": "spek", "amount": 230, "unit": "g", "group": "Vývar", "note": "solená vepřová slanina (salt pork), nekuřená; kůži odřízni, slaninu i kůži vař ve vodě, malý plátek utluč na pastu; po změknutí slaninu nakrájej a vrať do polévky" },
+    { "ingredientId": "voda", "amount": 1890, "unit": "ml", "group": "Vývar", "note": "2 quarty; studená voda na vaření" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Pasta", "note": "2–3 větvičky" },
+    { "ingredientId": "celer-rapikaty", "amount": 30, "unit": "g", "group": "Pasta", "note": "trochu, malý kousek" },
+    { "ingredientId": "cesnek", "amount": 1, "unit": "ks", "group": "Pasta", "note": "jeden stroužek" },
+    { "ingredientId": "mrkev", "amount": 2, "unit": "ks", "group": "Zelenina" },
+    { "ingredientId": "bile-zeli", "amount": 250, "unit": "g", "group": "Zelenina", "note": "¼ středně velké hlávky, bez žeber" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Dochucení", "note": "kousek másla; odhad" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "group": "Dochucení", "note": "odhad; slanina je už solená, ochutnej" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Dochucení", "note": "odhad" },
+    { "ingredientId": "ryze-bila", "amount": 120, "unit": "g", "group": "Rýže", "note": "malá hrst na porci (~30 g na osobu), přidat posledních 30 minut" }
+  ],
+  "steps": [
+    { "text": "Ze solené slaniny odřízni kůži a malý plátek stranou. Zbytek slaniny i s kůží dej do vody a přiveď k varu.", "minutes": 10 },
+    { "text": "Odřezaný plátek slaniny utluč s petrželkou, kouskem celeru a stroužkem česneku na pastu a přidej ji do vody.", "minutes": 5 },
+    { "text": "Mrkev nakrájej na plátky, ze zelí odřízni žebra a listy nakrájej na proužky.", "minutes": 10 },
+    { "text": "Přidej mrkev, zelí, případnou další zeleninu, sůl, pepř a máslo a nech pomalu vařit 2 hodiny.", "minutes": 120 },
+    { "text": "Poslední půl hodiny přidej rýži, hrst na každou porci.", "minutes": 30 },
+    { "text": "Až je slanina velmi měkká, vyjmi ji, nakrájej na tenké proužky a vrať do polévky.", "minutes": 5 },
+    { "text": "Podávej horkou; stejně dobře chutná i studená." }
+  ],
+  "modernNote": "Gentile uvádí suroviny bez gramáží a bez počtu porcí, všechna množství jsou odhad pro 4 porce. Pevná čísla ze zdroje: ½ lb solené slaniny (230 g), 2 quarty vody (1,9 l), 2 mrkve, ¼ středně velké hlávky zelí (250 g). Odhady: petrželka 10 g, celer 30 g, 1 stroužek česneku, máslo 20 g, sůl 6 g, pepř 1 g, rýže 120 g (malá hrst na osobu, ~30 g na porci). Zdroj zmiňuje „other vegetables“ bez názvu; nepřidáno do množství, doporučení: fazolky nebo cuketa podle sezóny (přidej do 150–200 g na porci). Vaření 2,5 hodiny je z knihy a je dlouhé, na moderním sporáku stačí pomalé probublávání. Slanina (včetně kůže) se vaří v polévce celou dobu a až je velmi měkká, vyjme se, nakrájí a vrátí zpět; malý plátek se utluče na pastu. Slanina musí být nekuřená solená (salt pork); v katalogu je nejbližší položka špek. Polévku lze podávat studenou, jak píše zdroj. Check hlásí 671 g na porci (mimo 250–450 g u polévky): voda 1,9 l je z knihy a odpovídá 2 quartům, nechávám ji. Jako hlavní jídlo počítej s menší porcí, nebo vodu sniž na 1,5 l pro hustější variantu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 15,
+    "titleOriginal": "VEGETABLE CHOWDER (Minestrone alla Milanese)"
+  },
+  "verified": false,
+  "quote": "The minestrone is equally good eaten cold."
+}

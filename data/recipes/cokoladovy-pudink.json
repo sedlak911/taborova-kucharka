@@ -1,0 +1,103 @@
+{
+  "id": "cokoladovy-pudink",
+  "title": "Čokoládový pudink",
+  "titleOriginal": "Chocolate Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "sladke",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 420,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "kakao",
+      "amount": 27,
+      "unit": "g",
+      "note": "místo neslazené čokolády (zdroj: 1 lb kakaa za 1½ lb čokolády)",
+      "original": {
+        "ingredientId": "cokolada-horka",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 135,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 45,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.45,
+      "unit": "ks",
+      "note": "čerstvá, lehce rozšlehaná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci zahřej část mléka s kakaem téměř do varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Zatímco se mléko ohřívá, ušlehej cukr, sůl, mouku, zbylé mléko a vejce v hladkou pastu.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej pastu do horké směsi mléka a za stálého míchání vař 30 až 40 minut, dokud nezhoustne.",
+      "minutes": 40
+    },
+    {
+      "text": "Sundej z ohně, vmíchej máslo a vanilku.",
+      "minutes": 2
+    },
+    {
+      "text": "Nech vychladnout.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj používá neslazenou čokoládu (36 kostek, 2 lb 4 oz); v katalogu je jen kakao, nahrazeno kakaem v poměru ze zdroje (variace Chocolate Bread Pudding na téže straně: 1 lb kakaa nebo 1½ lb čokolády), tedy 27 g kakaa místo 40 g čokolády. Kakao neobsahuje kakaové máslo, pudink proto bude o něco suchší a méně sytý. Škrob ve zdroji není, zahušťuje hladká pšeničná mouka (shortlist uváděl kukuřičný škrob). Zdroj připouští 1 lb sušených vajec + 1¼ qt vody místo 4 lb vajec; použita čerstvá vejce. Mléko se podle zdroje rozděluje: část s kakaem na ohřátí, zbytek do pasty; v surovinách je celkové množství.",
+  "source": {
+    "book": "navy-1944",
+    "page": 56,
+    "titleOriginal": "CHOCOLATE PUDDING"
+  },
+  "verified": true,
+  "quote": "Cook about 30 to 40 minutes or until thickened, stirring constantly."
+}

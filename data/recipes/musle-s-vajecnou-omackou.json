@@ -1,0 +1,40 @@
+{
+  "id": "musle-s-vajecnou-omackou",
+  "title": "Mušle s vaječnou omáčkou",
+  "titleOriginal": "Mussels with Egg Sauce (Arselle in salsa d'uovo)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mekkysi"],
+  "ingredients": [
+    { "ingredientId": "slavky", "amount": 1800, "unit": "g", "group": "Slávky", "note": "čerstvé, ve skořápce (asi 540 g masa, asi 135 g na porci); odhad, zdroj množství neuvádí" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "group": "Slávky", "note": "na osmažení česneku a petrželky" },
+    { "ingredientId": "cesnek", "amount": 2, "unit": "ks", "group": "Slávky", "note": "2 stroužky, odhad (zdroj neuvádí počet)" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Slávky", "note": "čerstvá, nasekaná" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "spetka", "group": "Slávky" },
+    { "ingredientId": "zloutek", "amount": 3, "unit": "ks", "group": "Omáčka", "note": "zdroj: „one or more yolks, according to the quantity“; 3 žloutky na 4 porce" },
+    { "ingredientId": "citronova-stava", "amount": 15, "unit": "ml", "group": "Omáčka", "note": "šťáva z 1 citronu, odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 3, "unit": "g", "group": "Omáčka", "note": "1 čajová lžička" },
+    { "ingredientId": "hovezi-vyvar", "amount": 120, "unit": "ml", "group": "Omáčka", "note": "zdroj: „broth“ (masový vývar); vývar se po ohřátí přidá do omáčky" }
+  ],
+  "steps": [
+    { "text": "Slávky důkladně opláchni čerstvou vodou.", "minutes": 5 },
+    { "text": "V hrnci zahřej olivový olej, osmaž na něm nasekaný česnek a petrželku a přidej špetku pepře.", "minutes": 3 },
+    { "text": "Slávky vlož do hrnce, přikryj a často zatřepej; dávej pozor, aby nevsákly celou omáčku. Vař, dokud se otevřou.", "minutes": 8 },
+    { "text": "Mezitím v misce rozšlehej žloutky s citronovou šťávou a moukou.", "minutes": 2, "parallel": true },
+    { "text": "Otevřené slávky vyndej z hrnce do mísy a šťávu z hrnce přeceď; slávky, které se neotevřely, vyhoď.", "minutes": 2 },
+    { "text": "Do přeceděné šťávy přilej horký vývar, pak po troškách přilévej žloutkovou směs a za stálého míchání ohřívej, dokud omáčka nezhoustne do hladkého krému. Nesmí se uvařit.", "minutes": 6 },
+    { "text": "Omáčku nalij na slávky a ihned podávej." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 120) uvádí jen suroviny bez množství a bez počtu porcí; přepočet na 4 porce je odhad z běžné praxe. Slávky 1 800 g ve skořápce (asi 540 g masa, asi 135 g na porci; skořápka tvoří ~70 % hmotnosti, ediblePortion 0,3). Olivový olej 30 ml, 2 stroužky česneku, 10 g petrželky, špetka pepře (zdroj „a pinch of pepper“), 3 žloutky (zdroj „one or more yolks, according to the quantity“), šťáva z 1 citronu (15 ml), 1 čajová lžička mouky (3 g) a 120 ml vývaru. Vývar je podle knihy masový (hovězí). Slávky se nesolí, mořská voda v nich stačí; sůl do omáčky zdroj nepředepisuje. Z vlastní šťávy slávek (zdroj „some of their own juice“) je v omáčce použita přeceděná šťáva z hrnce. Směs vaječných žloutků se ohřívá jen do zhoustnutí, jinak se srazí. Slávky, které se po uvaření neotevřely, vyhoď (bezpečnost). Doba 25 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 93,
+    "titleOriginal": "MUSSELS WITH EGG SAUCE (Arselle in salsa d'uovo)"
+  },
+  "verified": false,
+  "quote": "A good washing with fresh water is sufficient for mussels that do not have any sand to be cleaned away."
+}

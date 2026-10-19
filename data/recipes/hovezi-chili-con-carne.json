@@ -1,0 +1,121 @@
+{
+  "id": "hovezi-chili-con-carne",
+  "title": "Hovězí chili con carne",
+  "titleOriginal": "Beef Chili con Carne",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 225,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-cervene-v-konzerve",
+      "amount": 120,
+      "unit": "g",
+      "note": "část protlačená mlýnkem, zbytek celý"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 450,
+      "unit": "g",
+      "note": "vykostěné, nakrájené na kostky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 25,
+      "unit": "g",
+      "note": "na osmahnutí česneku a masa",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 0.62,
+      "unit": "g",
+      "note": "rozdrcený; zdroj 4 stroužky na 100 porcí"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj 2 gal; podle potřeby dolévej"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 4,
+      "unit": "g",
+      "note": "zdroj chili prášek 2 oz (¾ hrnku)"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.34,
+      "unit": "g",
+      "note": "kajenský pepř; zdroj 1 lžíce na 100 porcí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 115,
+      "unit": "g",
+      "note": "konzervovaná, i se šťávou"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Část fazolí protlač mlýnkem na maso, zbytek nech celý.",
+      "minutes": 5
+    },
+    {
+      "text": "Hovězí maso nakrájej na kostky, nebo ho namelj.",
+      "minutes": 10
+    },
+    {
+      "text": "Česnek nasekej nadrobno a na tuku ho osmahni dozlatova.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej maso a opékej dohněda.",
+      "minutes": 10
+    },
+    {
+      "text": "Zalij vývarem tak, aby bylo maso zakryté.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej chilli prášek, kajenský pepř a sůl.",
+      "minutes": 2
+    },
+    {
+      "text": "Pánev nebo hrnec pevně přikryj a duš 3 hodiny, dokud maso nezměkne. Během vaření podle potřeby dolévej vývar, aby maso zůstalo zakryté.",
+      "minutes": 180
+    },
+    {
+      "text": "Smíchej rozmačkané i celé fazole, rajčata a maso. Přiveď k varu a ihned podávej.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Hovězí z přední části (boneless, 25 lb raw ve zdroji); varianta s kostí (35 lb) nebo uvařené hovězí (18 lb) by vyšla jinak, zvolena syrová, protože se maso ve zdroji opéká a dusí. Fazole jsou z konzervy: zdroj uvádí No. 10 can (¾ gal) a 6 lb 12 oz, což odpovídá hmotnosti scezených vařených fazolí; sušené by v závěrečných 10 minutách nezměkly. Kajenský pepř (1 lžíce na 100 porcí) je zvlášť jako pálivá paprika mletá (0,34 g na 4 porce, třída seasoning). Tuk: zdroj má hovězí lůj (sádlo, 1 lb), v modernizaci olej na osmahnutí; sádlo je v original. Vývar je zdrojový hovězí, ne voda. Sůl 6 oz (¾ cupu) není rozpor; přes třídu seasoning vychází 11 g na 4 porce (2,75 g na porci, nad doporučených 0,5–2,5 g), doporučení ubrat sůl na 1,5–2 g podle chuti. Protlačení fazolí a krájení masa jsou v nejjednodušším domácím postupu, zdroj nedává časy. Pokrm se dá jíst i jako hlavní jídlo s rýží nebo chlebem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 124,
+    "titleOriginal": "BEEF CHILI CON CARNE"
+  },
+  "verified": false,
+  "quote": "Cover pans tightly. Let simmer 3 hours or until meat is tender."
+}

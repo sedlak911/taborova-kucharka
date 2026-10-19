@@ -1,0 +1,77 @@
+{
+  "id": "peceny-luncheon-meat",
+  "title": "Pečený luncheon meat",
+  "titleOriginal": "Baked Luncheon Meat",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "luncheon-meat",
+      "amount": 640,
+      "unit": "g",
+      "note": "konzervovaný vepřový luncheon meat"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "pomerancova-stava",
+      "amount": 40,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 115,
+      "unit": "ml",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 175 °C."
+    },
+    {
+      "text": "Povrch masa několikrát nařízni nožem a polož ho do pekáče.",
+      "minutes": 5
+    },
+    {
+      "text": "Hnědý cukr smíchej s pomerančovou šťávou.",
+      "minutes": 2
+    },
+    {
+      "text": "Směsí polij maso.",
+      "minutes": 2
+    },
+    {
+      "text": "Přilij vodu.",
+      "minutes": 1
+    },
+    {
+      "text": "Peč 30 minut při 175 °C.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj je konzervovaný vepřový luncheon meat (35 lb na 100 porcí, tedy asi 160 g na porci, odpovídá „5 to 6 ounces“). Konzerva zůstává, protože čerstvý ekvivalent v katalogu není. Hřebíček a hořčice nejsou v tomto receptu ve zdroji, proto nebyly přidány. Zdroj nabízí jako variantu podávání s barbecue omáčkou (s. 172) nebo rajčatovou omáčkou (s. 184); není to součást receptu, nepřebíráno.",
+  "source": {
+    "book": "navy-1944",
+    "page": 165,
+    "titleOriginal": "BAKED LUNCHEON MEAT"
+  },
+  "verified": true,
+  "quote": "Score surface of luncheon meat with knife."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "merunkovy-dzem",
+  "title": "Meruňkový džem",
+  "titleOriginal": "Apricot Marmalade (Conserva di albicocche)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 22,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "merunky",
+      "amount": 145,
+      "unit": "g",
+      "note": "dobré, zralé; bez pecek",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 110,
+      "unit": "g",
+      "note": "osm desetin hmotnosti protlaku (8 liber cukru na 10 liber protlaku)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Zralé meruňky vypeckuj.", "minutes": 10 },
+    { "text": "Dej je na oheň bez vody a při varu je míchej vařečkou, aby se rozvařily na kaši.", "minutes": 8 },
+    { "text": "Vař asi půl hodiny.", "minutes": 30 },
+    { "text": "Kaši protlač sítem, aby se dužina oddělila od slupek. Slupky vyhoď.", "minutes": 10 },
+    { "text": "Protlak vrať na oheň, přidej cukr krystal a často míchej.", "minutes": 8 },
+    { "text": "Vař, dokud směs nezíská pevnost džemu. Zkouška: dej čas od času lžičku na talíř; džem má stékat pomalu.", "minutes": 15 },
+    { "text": "Hotový džem sundej z ohně a nech vychladnout." },
+    { "text": "Nalij do sklenic a dobře je zakryj vrstvou parafínu nebo pergamenem namočeným v alkoholu, aby dovnitř nepronikl vzduch.", "minutes": 5 }
+  ],
+  "modernNote": "Gentile uvádí jen poměr (8 liber cukru na 10 liber protlaku) a porce neuvádí. Základ pro přepočet je domácí várka 800 g meruněk a 600 g cukru, která dá asi 1,1 kg džemu, tedy 22 porcí po 50 g (originalYield 22); recept ukazuje 4 porce: 145 g meruněk a 110 g cukru (cukr je asi 0,8 hmotnosti protlaku, ze 145 g meruněk vyjde asi 130 g protlaku). 1 porce = 50 g džemu (asi 2 lžíce na pečivo), 4 porce = asi 200 g džemu; na zásobu nastav 20–25 porcí. Doporučení: sklenice předem vymyj a spař, zavařené sklenice s víčkem uchovej na chladném místě.",
+  "source": {
+    "book": "italian-1919",
+    "page": 155,
+    "code": "č. 214 (s. 151)",
+    "titleOriginal": "APRICOT MARMALADE (Conserva di albicocche)"
+  },
+  "verified": false,
+  "quote": "Stir often with the ladle until the mixture acquires the firmness of marmalade."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "francouzska-cibulova-polevka",
+  "title": "Francouzská cibulová polévka",
+  "titleOriginal": "French Onion Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "hovezi-vyvar", "amount": 910, "unit": "ml", "note": "zdroj: Meat Stock, s. 216 (PDF 224), 6 gal; kupovaný vývar" },
+    { "ingredientId": "cibule", "amount": 360, "unit": "g", "note": "tenké plátky" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "scaling": "linear", "note": "na restování cibule", "original": { "ingredientId": "sadlo", "amount": 35, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g" },
+    { "ingredientId": "worcester", "amount": 8, "unit": "ml", "note": "zdroj ½ cupu bez hmotnosti" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g", "note": "2 tsp" },
+    { "ingredientId": "chleb-bily", "amount": 120, "unit": "g", "note": "4 krajíce toustu (zdroj 100 krajíců, cca 30 g krajíc)" },
+    { "ingredientId": "cedar", "amount": 11, "unit": "g", "note": "strouhaný, 2½ cupu" }
+  ],
+  "steps": [
+    { "text": "Vývar ohřej k varu.", "minutes": 8 },
+    { "text": "Mezitím nakrájej cibuli na tenké plátky.", "minutes": 6, "parallel": true },
+    { "text": "Na pánvi rozpusť máslo, cibuli osmahni dozlatova a vmíchej mouku.", "minutes": 10 },
+    { "text": "Směs přidej do vývaru a dobře rozmíchej.", "minutes": 3 },
+    { "text": "Přidej worcestrovou omáčku, sůl a pepř a vař 10 minut.", "minutes": 10 },
+    { "text": "Mezitím opeč krajíce chleba dozlatova na suché pánvi nebo v toustovači.", "minutes": 4, "parallel": true },
+    { "text": "Do každé misky polož krajíc opečeného chleba.", "minutes": 1 },
+    { "text": "Posyp strouhaným sýrem a zalij horkou polévkou.", "minutes": 1 }
+  ],
+  "modernNote": "Vývar: zdroj Meat Stock (s. 216, PDF 224) je samostatný recept; použit kupovaný hovezi-vyvar v množství 6 gal (910 ml pro 4 porce). Tuk „Fat“ je sádlo do original, moderně máslo; restuje se s cibulí a zůstává v polévce, proto třída linear. Sýr zdroj neuvádí druh („Cheese, grated“): zvolen čedar (v Navy běžný americký čedar); hmotnost 2½ cupu přepočtena podle tabulky Navy (1 lb ≈ 1 qt). Chléb: zdroj „rye or white“, zvolen bílý; 100 krajíců → 4 krajíce, hmotnost krajíce ~30 g je odhad. Worcestrová omáčka je ve zdroji jen objemem (½ cupu = 118 ml, pro 4 porce 8 ml); sůl má hmotnost 4 oz ze zdroje. Sůl vychází třídou seasoning na 7 g na 4 porce (≈ 7 g na litr), doporučení ubrat na 5 g. Zdroj píše „toast slices“: chléb se proto opeče dozlatova (krok doplněn), zapékání se nedělá: krajíc a sýr se jen posypou a zalijí horkou polévkou. Druhý recept na téže stránce (Onion Soup, dehydrated onions) není přepisován.",
+  "source": { "book": "navy-1944", "page": 236, "titleOriginal": "French Onion Soup" },
+  "verified": false
+}

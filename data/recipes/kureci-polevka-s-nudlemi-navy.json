@@ -1,0 +1,29 @@
+{
+  "id": "kureci-polevka-s-nudlemi-navy",
+  "title": "Kuřecí polévka s nudlemi",
+  "titleOriginal": "Chicken Soup with Noodles or Rice",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 980, "unit": "ml", "note": "kupovaný, zdroj: Chicken Stock 6½ gal (spodní hranice rozsahu 6½–7 gal)" },
+    { "ingredientId": "vajecne-nudle", "amount": 11, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Vývar zahřej k varu.", "minutes": 8 },
+    { "text": "Přidej nudle a za častého míchání vař 1 hodinu na mírném ohni, aby se nelepily ke dnu.", "minutes": 60 },
+    { "text": "Podávej horkou." }
+  ],
+  "modernNote": "Zdroj: Chicken Soup with Noodles or Rice, s. 221 tištěná (PDF 229). Výtěžek 6 gal, porce 1 cup (≈ 8 oz): 6 gal / 1 cup = 96 porcí, odchylka 4 % je v toleranci, proto originalYield 100. Vývar: zdroj uvádí Chicken Stock (s. 216, PDF 224) 6½ až 7 gal, „well seasoned“. Modernizace: kupovaný kuřecí vývar (kureci-vyvar) v množství spodní hranice rozsahu (24,6 l na 100 porcí = 980 ml na 4 porce); domácí postup vývaru je v receptu kureci-vyvar-navy. Vývar je už ochucený podle zdroje, proto v receptu není sůl ani pepř. Nudle: zdroj 10 oz (283 g na 100 porcí) = 11 g na 4 porce, vaří se přímo v polévce. Varianta s rýží (zdroj: 1 lb 8 oz, tj. 680 g na 100 porcí): na 4 porce 25 g syrové rýže místo nudlí, postup stejný. Bilance: 248 g na porci odpovídá porci zdroje (1 cup ≈ 8 oz = 227 g). Nález kcal (25 na porci) je správný výpočet pro řídkou polévku: 101 kcal celkem na 4 porce, kuřecí vývar má kolem 6 kcal na 100 g; nejde o chybu receptu. Nález „mimo rozsah 250–450 g“ je u polévky očekávaný, porce 1 cup se shoduje se zdrojem. Čas 70 minut je 8 minut zahřátí a 60 minut vaření nudlí, proto tag rychle není.",
+  "source": {
+    "book": "navy-1944",
+    "page": 229,
+    "titleOriginal": "Chicken Soup with Noodles or Rice"
+  },
+  "verified": false
+}

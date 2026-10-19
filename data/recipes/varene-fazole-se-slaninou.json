@@ -1,0 +1,35 @@
+{
+  "id": "varene-fazole-se-slaninou",
+  "title": "Vařené fazole se slaninou",
+  "titleOriginal": "Boiled Navy, Kidney or Lima Beans II",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 95,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "fazole-suche", "amount": 220, "unit": "g", "note": "sušené bílé (navy), namočit" },
+    { "ingredientId": "hovezi-vyvar", "amount": 450, "unit": "ml", "note": "horký; zdroj uvádí masový vývar nebo horkou vodu" },
+    { "ingredientId": "spek", "amount": 35, "unit": "g", "note": "solený nebo slanina, nakrájená na kostičky" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Přeber fazole, vyřaď zbarvená zrna a cizí příměsi. Důkladně je opláchni.", "minutes": 10 },
+    { "text": "Zalij fazole studenou vodou a nech je namočit asi 6 hodin. Vodu neslévej." },
+    { "text": "Zalij fazole horkým vývarem tak, aby byly zakryté. Přidej nakrájenou slaninu a přiveď k varu.", "minutes": 8 },
+    { "text": "Nech mírně probublávat asi 30 minut, nebo dokud fazole nejsou částečně měkké.", "minutes": 30 },
+    { "text": "Přidej sůl a pepř. Vař dál, dokud fazole nejsou měkké, ale ne rozvařené.", "minutes": 45 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí, porce 5 oz (asi 2/3 hrnku). Fazole se namáčejí 6 hodin ve studené vodě („to cover“, bez množství) bez slití; ta se vsákne do fazolí, proto není samostatným řádkem (tag pripravit-predem; namáčení není v timeMinutes). Vývar ze zdroje (Meat Stock, str. 216) zůstal vývarem; horká voda je podle zdroje alternativa, pro bezmasou variantu by bylo nutné nahradit zeleninovým vývarem. Sůl 3½ oz (7 lžic) na 100 porcí dává 6 g na 4 porce (1,5 g na porci), což je víc než běžně; doporučuji ubrat na 3–4 g a dochutit až nakonec. Zdroj dovoluje šunkové kosti místo slaniny. Kroky 4–5 jsou odhad doby z praxe: zdroj uvádí jen „30 minut nebo do částečné měkkosti“ a poté „dokud nejsou měkké“. Bilance: vývar 3 gal ze zdroje (450 ml na 4 porce) je přepočten úměrně; zdroj dává na 100 porcí kapaliny víc, než kolik se při 1,5 hodině vaření vsákne do fazolí a odpaří, takže hotová porce vychází hmotnostně nad 5 oz zdroje. Kapalina z vaření slouží jako hustší „pot liquor“; je to vlastnost zdroje, ne chyba přepočtu (dřívější verze navíc započítávala voda z namáčení, která byla odstraněna). Varianta s rajčaty je samostatný recept.",
+  "source": {
+    "book": "navy-1944",
+    "page": 261,
+    "titleOriginal": "BOILED NAVY, KIDNEY OR LIMA BEANS, II"
+  },
+  "verified": true,
+  "quote": "Let simmer about 30 minutes or until beans are partially tender."
+}

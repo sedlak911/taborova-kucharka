@@ -1,0 +1,136 @@
+{
+  "id": "zeli-ve-smetanove-omacce",
+  "title": "Zelí ve smetanové omáčce",
+  "titleOriginal": "Creamed Cabbage",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 450,
+      "unit": "g",
+      "note": "jedlá část ze 31 lb nákupu (A.P. 562 g × ediblePortion katalogu 0,8); nakrájené na klínky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "rozpuštěné, do omáčky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 230,
+      "unit": "ml",
+      "note": "horké, do omáčky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.34,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "na ozdobu, podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce nalij vodu, přidej sůl a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím zelí očisti, omyj a nakrájej na klínky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Zelí vlož do vroucí vody, přikryj a vař asi 10 až 15 minut, dokud není měkké.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím v jiném hrnci ohřej mléko téměř do varu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím v menším hrnci rozpusť máslo a vmíchej mouku do hladké pasty.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím za rychlého míchání vlij do pasty horké mléko a vař za stálého míchání, dokud omáčka nezhoustne.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Zelí sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Omáčku dochuť solí a pepřem.",
+      "minutes": 1
+    },
+    {
+      "text": "Zelí vlož do omáčky a krátce prohřej.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej posypané paprikou podle chuti."
+    }
+  ],
+  "modernNote": "Zdroj: Creamed Cabbage, varianta Buttered Cabbage (str. 260, PDF 268): čerstvé zelí 31 lb „Cabbage, A.P.“ a omáčka 1½ gal Medium Cream Sauce (str. 173, PDF 181). Omáčka přepočtena z 1 gal sloupce Medium Cream Sauce (máslo 12 oz, mouka 6 oz, mléko 1 gal, sůl 1 oz, pepř 1½ tsp) na 1½ gal přes `npm run convert --yield 100`. Máslo 1 lb z základu nahrazeno máslem v omáčce (zdroj zelí „combine with sauce“ místo „add butter“), celkem na 100 porcí 1 lb 2 oz. Varianta ze str. 261 (PDF 269, „Creamed Cabbage“ se sušeným zelím a 1 gal omáčky) není použita, protože vychází ze sušeného zelí. Jedlá část zelí 0,8 je ediblePortion katalogu (bile-zeli). Sůl 2 oz do vody: domácí hodnota 2 g na 1 l vody, voda se slévá. Paprika na ozdobu bez množství ve zdroji: špetka jako odhad. Bilance: omáčka tvoří asi třetinu hmotnosti porce, ostatní hodnoty podle výpisu check:recipe. Doporučení: omáčku dělej těsně před zeleninou a zelí nevař přes 15 minut, jinak ztrácí barvu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 268,
+    "titleOriginal": "CREAMED CABBAGE"
+  },
+  "verified": false,
+  "quote": "Combine cabbage with 1½ gallons Medium Cream Sauce."
+}

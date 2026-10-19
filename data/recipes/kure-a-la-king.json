@@ -1,0 +1,139 @@
+{
+  "id": "kure-a-la-king",
+  "title": "Kuře à la King",
+  "titleOriginal": "Chicken à la King",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml",
+      "note": "1 gal ve zdroji (bez hmotnosti)"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj: kuřecí vývar (s. 216), zde kupovaný"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 2,
+      "unit": "g",
+      "note": "šťáva z nastrouhané cibule, odhad 1:1"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 25,
+      "unit": "g",
+      "note": "čerstvé, nakrájené na plátky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na osmahnutí hub a do jíšky",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 35,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 25,
+      "unit": "g",
+      "note": "nahrubo nakrájená"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.35,
+      "unit": "ks",
+      "note": "rozšlehaná"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 195,
+      "unit": "g",
+      "note": "uvařené, nakrájené na kostky"
+    },
+    {
+      "ingredientId": "pimentka-konzervovana",
+      "amount": 30,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej žampiony na plátky, papriku nahrubo, pimentku nasekej a kuře nakrájej na kostky (asi 1,5 cm). Cibuli nastrouhej a vymačkej z ní šťávu.",
+      "minutes": 8
+    },
+    {
+      "text": "Smíchej mléko, vývar a cibulovou šťávu a přiveď k varu.",
+      "minutes": 6
+    },
+    {
+      "text": "Na tuku osmahni žampiony asi 5 minut a vyjmi je. Tuk nech v pánvi.",
+      "minutes": 5
+    },
+    {
+      "text": "Odeber část horké mléčné směsi, povař v ní papriku 8–10 minut, dokud nezměkne. Scedi ji a tekutinu vrať do směsi.",
+      "minutes": 9
+    },
+    {
+      "text": "Do tuku v pánvi zamíchej mouku a vyhlaď na hladkou pastu.",
+      "minutes": 2
+    },
+    {
+      "text": "Pastu zamíchej do mléčné směsi a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Část omáčky vmíchej do rozšlehaných vajec za stálého míchání, aby se vejce nesrazila.",
+      "minutes": 2
+    },
+    {
+      "text": "Vajíčkovou směs vmíchej zpět do omáčky a intenzivně míchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej žampiony, papriku, kuře, pimentku a sůl a omáčku znovu ohřej.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (asi 5 gal, porce 6–8 oz, asi 1 cup), přepočet ×0,04; 4 porce vycházejí asi 200 g na porci, což odpovídá zdroji. Kuřecí vývar ze strany 216 je nahrazen kupovaným kuřecím vývarem. Cibulová šťáva (¼ cup) je odhad 1:1 z cibule. Tuk ze zdroje (Chicken fat or other fat, 2 lb) je v originálu sádlo; moderně máslo, jeden řádek, protože zdroj tuk nerozděluje na smažení a na jíšku. Vejce 13 oz odpovídají asi 8 ks (1 lb = 10 ks), pro 4 porce 0,35 ks. Sůl je podle třídy seasoning; podle chuti ubrat. Zdroj podává na toastu, rozpůlených sušenkách, rýži, nudlích nebo na opečeném kukuřičném chlebu. Masa je ve zdroji jen asi 49 g na porci (omáčkové jídlo); pokud chceš hlavní jídlo, zvyš kuře na 100–120 g na porci a omáčku přiměř.",
+  "source": {
+    "book": "navy-1944",
+    "page": 175,
+    "titleOriginal": "CHICKEN A LA KING"
+  },
+  "verified": false,
+  "quote": "Add egg mixture to sauce, stirring vigorously."
+}

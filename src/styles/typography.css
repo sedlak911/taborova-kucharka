@@ -1,0 +1,15 @@
+/* typografie společná všem epochám */
+h1, h2, h3 { font-weight: 700; line-height: 1.2; margin: 0 0 0.5em; }
+h1 { font-size: 1.8rem; }
+h2 { font-size: 1.4rem; }
+h3 { font-size: 1.15rem; }
+
+.small-caps { font-variant: small-caps; letter-spacing: 0.04em; }
+
+/* ornamentální oddělovač: inline SVG jako pozadí */
+.ornament {
+  height: 18px;
+  margin: 1em auto;
+  width: 60%;
+  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 18'><g fill='none' stroke='%235a4a38' stroke-width='1'><path d='M2 9h44M74 9h44'/><path d='M60 3l6 6-6 6-6-6z' fill='%235a4a38'/><circle cx='50' cy='9' r='1.6'/><circle cx='70' cy='9' r='1.6'/></g></svg>") center / contain no-repeat;
+}

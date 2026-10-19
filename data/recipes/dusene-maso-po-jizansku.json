@@ -1,0 +1,33 @@
+{
+  "id": "dusene-maso-po-jizansku",
+  "title": "Dušené maso po jižansku",
+  "titleOriginal": "Southern Stew (Stufato meridionale)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 310,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["siricitany"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 600, "unit": "g", "note": "jeden kus masa; zdroj neuvádí váhu, zvoleno 150 g na porci" },
+    { "ingredientId": "voda", "amount": 470, "unit": "ml", "note": "2 šálky (cup)" },
+    { "ingredientId": "bile-vino", "amount": 470, "unit": "ml", "note": "2 šálky (cup), suché" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Kus masa vlož do hrnce tak velkého, aby ho zcela vyplnil.", "minutes": 5 },
+    { "text": "Zalij vodou a vínem, osol a opepři.", "minutes": 3 },
+    { "text": "Vař na mírném ohni pět hodin.", "minutes": 300 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile, Southern Stew) uvádí jen kus masa bez váhy, 2 šálky vody a 2 šálky bílého vína, sůl, pepř a 5 hodin vaření na mírném ohni; počet porcí neuvádí. Zvoleno hovězí přední 600 g (150 g na porci, podle shortlistu), tekutiny ze zdroje přepočteny podle units.md (1 cup = 237 ml): 2 cups = 474 ml, zaokrouhleno na 470 ml vody a 470 ml vína. Sůl 6 g a pepř 1 g jsou odhady z běžné praxe. Čas 310 minut odpovídá 5 hodinám vaření a přípravě; zdroj nezmiňuje pokličku, proto ji recept nepředepisuje. Tekutiny zůstávají v jídle a při dlouhém vaření se část vypaří, jinak lze poslední hodinu nechat hrnec odkrytý. Hovězí přední je levnější řez vhodný na dlouhé dušení.",
+  "source": {
+    "book": "italian-1919",
+    "page": 122,
+    "titleOriginal": "SOUTHERN STEW (Stufato Meridionale)"
+  },
+  "verified": false,
+  "quote": "Put the piece of meat in a saucepan of such a size that it remains completely filled."
+}

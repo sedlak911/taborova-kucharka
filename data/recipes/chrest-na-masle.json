@@ -1,0 +1,141 @@
+{
+  "id": "chrest-na-masle",
+  "title": "Chřest na másle",
+  "titleOriginal": "Buttered Fresh Asparagus",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "spargle-zelena",
+      "amount": 365,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "jedlá část bez tuhých konců (zdroj: 38 lb A.P., 53 % jedlé podle USDA)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření chřestu, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do přelivu (Drawn Butter Sauce)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do přelivu"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "do přelivu, vaří se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "do přelivu"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "do přelivu"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odřízni tuhé konce stonků; zbytky použij do polévky.",
+      "minutes": 5
+    },
+    {
+      "text": "Chřest důkladně omyj a nech asi 20 minut namočit ve studené vodě.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím ve větším hrnci přiveď k varu vodu se solí.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Nakrájej chřest na kousky asi 4 cm dlouhé; špičky odděl od stonků.",
+      "minutes": 5
+    },
+    {
+      "text": "Vhoď stonky do vroucí vody a vař 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím ve druhém hrnci přiveď k varu vodu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím rozpusť asi dvě třetiny másla, vmíchej mouku a rozmíchej do hladké pasty.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím vmíchej směs do vroucí vody a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 4,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím dochuť solí a pepřem a vmíchej zbylé máslo.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Přidej špičky a vař asi 5 minut, dokud nejsou měkké.",
+      "minutes": 5
+    },
+    {
+      "text": "Scedi chřest.",
+      "minutes": 2
+    },
+    {
+      "text": "Chřest přelij horkou máslovou omáčkou.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: 38 lb chřestu A.P. (as purchased, i s tuhými konci) na 100 porcí, porce 4 až 5 oz. Na 4 porce vychází 690 g A.P.; v receptu je jedlá část 53 % (USDA, odpad 47 %), tedy 365 g. Dřívější přepočet bral jako základ porci 4½ oz × 4 a ignoroval hmotnost A.P. ze zdroje (510 g, bilance 1,9×). Podíl jedlé části je odhad, proto verified false. Přeliv je odkazovaná Drawn Butter Sauce (str. 179, PDF 187) ve množství 2 gal, přepočtená úměrně (na 100 porcí máslo 2 lb, mouka 1 lb, voda 2 gal, sůl 1½ oz, pepř 2 tsp). Přeliv přidává asi 90 g na porci nad chřest, proto je hmotnost porce vyšší než 4–5 oz (chřest samotný ~90 g). Voda a sůl na vaření chřestu jsou domácí hodnoty (1 l vody, 2 g soli) a slijí se; druhá voda a sůl patří do přelivu. Varianta Asparagus Hollandaise (podání na toastu s Mock Hollandaise) tu není. Sůl v přelivu ubírej podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 257,
+    "titleOriginal": "BUTTERED FRESH ASPARAGUS"
+  },
+  "verified": false,
+  "quote": "Cut off tough part of asparagus stalks."
+}

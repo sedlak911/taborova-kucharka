@@ -1,0 +1,103 @@
+{
+  "id": "rybi-knedlicky-z-tresky",
+  "title": "Rybí knedlíčky z tresky",
+  "titleOriginal": "Codfish Balls",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 450,
+      "unit": "g",
+      "note": "čerstvé, oloupané, na kostky; zdroj 20 lb hotové rozmačkané kaše (asi 360 g), syrové brambory ≈ 1,25×"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření brambor, slije se; domácí hodnota, aby byly brambory ponořené",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření brambor, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na hluboké smažení; odhad, zdroj uvádí jen „deep fat“",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "treska-konzervovana",
+      "amount": 180,
+      "unit": "g",
+      "note": "scezená konzerva; zdroj 10 lb"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 11,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „butter or other fat“ 10 oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "lehce rozšlehaná; zdroj 2 lb (20 ks, 1 lb = 10 ks)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "podle chuti (zdroj „to taste“, odhad)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý do kuliček (odhad)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Brambory oloupej a nakrájej na kostky.", "minutes": 6 },
+    { "text": "Brambory zalij osolenou vodou, přiveď k varu a vař asi 20 minut, dokud nejsou měkké.", "minutes": 28 },
+    { "text": "Mezitím v hlubším hrnci rozehřej olej na 190 °C.", "minutes": 8, "parallel": true },
+    { "text": "Brambory sceď a rozmačkej je na hladkou kaši.", "minutes": 6 },
+    { "text": "Rybu z konzervy sceď a rozdrob vidličkou.", "minutes": 3 },
+    { "text": "Do kaše vmíchej rybu, rozpuštěné máslo, rozšlehaná vejce a sůl a vše důkladně promíchej.", "minutes": 4 },
+    { "text": "Z hmoty tvaruj kuličky velkou naběračkou na zmrzlinu.", "minutes": 8 },
+    { "text": "Kuličky smaž v oleji 2 minuty, po dávkách, dokud nejsou světle zlatavé.", "minutes": 6 },
+    { "text": "Vyndej je děrovanou lžící a nechej okapat na papírové utěrce.", "minutes": 2 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj uvádí 2 kuličky na porci (2½ až 3 oz), což je asi 75 g hmoty na kuličku, tedy 8 kuliček na 4 porce. Brambory: zdroj počítá s hotovou kaší (20 lb na 100 porcí = asi 360 g na 4 porce); v domácím postupu se brambory vaří a rozmačkají, proto syrové oloupané brambory 450 g (odhad podle běžného úbytku při loupání). Vodu na vaření (1 l) a sůl (2 g) počítej jako domácí slévané hodnoty, slijí se. Treska: zdroj má kanovanou (konzervovanou) treskou, v katalogu nebyla, založena surovina treska-konzervovana (USDA Atlantic cod, canned, hodnoty orientační). Sušená treska se zde nepoužívá. Máslo nebo jiný tuk (10 oz) = máslo bez `original`, rozpuštěné, lineárně. Vejce: 2 lb = 20 ks, na 4 porce 0,8 ks. Sůl „to taste“: 3 g jako odhad, u konzervované slané ryby upravit podle chuti. Smažení: 500 ml oleje do hlubšího hrnce je domácí odhad (zdroj uvádí jen „deep fat“), 30 ml nasáklého oleje je odhad. Zdroj v poznámce 1 nabízí obalení v strouhance, krupici nebo mouce před smažením; vynecháno, lze přidat. Teplota 375 °F = 190 °C, doba 2 minuty nebo do světle zlatavé. Bilance: na porci vychází 45 g ryby a 178 g hmoty, což odpovídá zdroji (10 lb ryby na 100 porcí); jako hlavní jídlo počítej víc ryby, kolem 120 g na porci.",
+  "source": {
+    "book": "navy-1944",
+    "page": 86,
+    "titleOriginal": "CODFISH BALLS"
+  },
+  "verified": false,
+  "quote": "Fry in deep fat at 375°F. for 2 minutes or until light golden brown."
+}

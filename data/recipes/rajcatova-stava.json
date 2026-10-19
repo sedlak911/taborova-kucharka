@@ -1,0 +1,25 @@
+{
+  "id": "rajcatova-stava",
+  "title": "Rajčatová šťáva",
+  "titleOriginal": "Tomato Juice",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 5,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "rajcatova-stava", "amount": 960, "unit": "g", "note": "z konzervy No. 10; zdroj: 53 lb, 8 No. 10 cans" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: 1 oz (2 lžíce uvedeny v množství)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g", "note": "zdroj: 1 čajová lžička" }
+  ],
+  "steps": [
+    { "text": "Smíchej rajčatovou šťávu se solí a pepřem.", "minutes": 3 },
+    { "text": "Vychlaď." }
+  ],
+  "modernNote": "Rajčatová šťáva z konzervy je přímo v katalogu jako samostatná surovina (dříve chybělo). Zdroj uvádí sůl jako 1 oz i 2 lžíce; použita hmotnost 1 oz (na 4 porce 2 g), 2 lžíce by byly asi o třetinu víc. Chlazení bez udané doby. Varianty ze zdroje (Tomato Juice Cocktail s cibulovou šťávou, Worcestershire omáčkou a citronovou šťávou; Tomato-Sauerkraut) nejsou součástí receptu. Zdroj uvádí, že šťáva může být podávána nesolená. Nález „41 kcal na porci“ je reálná hodnota pro nápoj (1 šálek ≈ 240 g při 17 kcal/100 g), ne chyba převodu.",
+  "source": { "book": "navy-1944", "page": 31, "titleOriginal": "Tomato Juice" },
+  "verified": true
+}

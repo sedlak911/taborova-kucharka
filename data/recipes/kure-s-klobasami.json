@@ -1,0 +1,106 @@
+{
+  "id": "kure-s-klobasami",
+  "title": "Kuře s klobásami a šunkou",
+  "titleOriginal": "Chicken with Sausages (Pollo colle salsicce)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "půl střední cibule, nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "kousek másla"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "note": "4–5 plátků širokých asi 1,2 cm, nakrájených na pásky"
+    },
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1200,
+      "unit": "g",
+      "note": "celé kuře, s kostmi"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "lehce, podle chuti"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 400,
+      "unit": "ml",
+      "note": "nebo voda"
+    },
+    {
+      "ingredientId": "klobasa",
+      "amount": 255,
+      "unit": "g",
+      "note": "3 čerstvé syrové klobásy, asi 85 g kus"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "V hrnci rozpusť máslo, vsyp cibuli a přidej šunku nakrájenou na pásky.",
+      "minutes": 3
+    },
+    {
+      "text": "Na cibuli a šunku polož celé kuře, posyp pepřem a lehce solí.",
+      "minutes": 2
+    },
+    {
+      "text": "Kuře opékej na všech stranách dozlatova, dokud se cibule úplně nerozpustí.",
+      "minutes": 15
+    },
+    {
+      "text": "Přilij vývar nebo vodu a přidej čerstvé klobásy.",
+      "minutes": 2
+    },
+    {
+      "text": "Vař na mírném ohni tak, aby omáčka zůstala tekutá a nevyschla, dokud kuře nezměkne.",
+      "minutes": 60
+    },
+    {
+      "text": "Podávej horké, kuře s klobásami a omáčkou."
+    }
+  ],
+  "modernNote": "Zdroj neuvádí porce ani množství, jen „half an onion“, „a piece of butter“, „four or five slices of ham“, „a whole chicken“, „three or four sausages“ a „water or broth“. Odhady pro 4 porce: celé kuře 1,2 kg (asi 200 g jedlého masa na porci), cibule 75 g (půl střední), máslo 30 g, šunka 100 g (4–5 plátků), klobásy 3 kusy po asi 85 g (255 g; zdroj „three or four“, vzat spodní počet), sůl 4 g a pepř 1 g, vývar 400 ml (zdroj dává vodu nebo vývar; masový vývar jako v celé knize). Doba dušení zdroj neuvádí; odhad 60 minut do měkka, celkem asi 90 minut. Zdroj nepíše, kdy kuře podávat; podává se s omáčkou a klobásami. Recept je v originále s italským názvem „Polio“ (tisk/OCR), v současné italštině „Pollo“. Nález check:recipe „maso 293 g na porci“ (nad 250 g) je vlastnost receptu, ne chyba: celé kuře s kostmi, klobásy a šunka jsou jediný zdroj masa a zdroj počty drží (celé kuře, 3–4 klobásy, 4–5 plátků šunky); jedlého masa z kuřete je asi 204 g na porci. Pro lehčí porci ber kuře 1 kg a podávej jen přílohu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 40,
+    "titleOriginal": "CHICKEN WITH SAUSAGES (Pollo colle salsicce)"
+  },
+  "verified": false,
+  "quote": "add water or broth and three or four sausages freshly made."
+}

@@ -1,0 +1,61 @@
+{
+  "id": "ananasovy-salat-se-syrem",
+  "title": "Ananasový salát se sýrem",
+  "titleOriginal": "Pineapple Cheese Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["tabor", "rychle", "bez-masa"],
+  "equipment": [],
+  "allergens": ["mleko", "vejce", "horcice"],
+  "ingredients": [
+    {
+      "ingredientId": "ananas-konzervovany",
+      "amount": 370,
+      "unit": "g",
+      "note": "plátky, odkapané a nakrájené na kostičky; hmotnost bez šťávy"
+    },
+    {
+      "ingredientId": "salat-listovy",
+      "amount": 270,
+      "unit": "g",
+      "note": "nahrubo nakrájený nebo nastrouhaný"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 25,
+      "unit": "g",
+      "note": "nahrubo nastrouhaný"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 55,
+      "unit": "g",
+      "note": "kupovaná; zdroj 3 lb (1½ qt) majonézy ze str. 204"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ananas nakrájej na kostičky a dobře ho odkapej, salát nahrubo nakrájej a sýr nastrouhej.",
+      "minutes": 10
+    },
+    {
+      "text": "Ve velké míse lehce smíchej ananas, salát a sýr.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej majonézu a lehce promíchej, aby se salát jen obalil.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj uvádí ananas (odkapaný, 20 lb 4 oz), salát (15 lb) a čedar (1 lb 8 oz) jako hmotnosti na 100 porcí; přepočteno jako jedlá hmotnost bez odpadu (u salátu zdroj neuvádí odřezky). Majonéza je kupovaná v množství ze zdroje (3 lb, 1½ qt); zdroj odkazuje na vlastní recept (str. 204, PDF 212), který si můžeš připravit doma, ale na 4 porce by vyšlo jen 0,15 vejce, proto není rozepsaný. Ananas se do salátu počítá odkapaný, bez šťávy. Zdroj v kapitole Variation přidává kokosovou variantu (1 lb strouhaného kokosu namočeného v mléce na posyp), nezahrnuto.",
+  "source": {
+    "book": "navy-1944",
+    "page": 200,
+    "titleOriginal": "PINEAPPLE CHEESE SALAD"
+  },
+  "verified": true,
+  "quote": "Combine pineapple, lettuce and cheese. Add mayonnaise and mix together lightly."
+}

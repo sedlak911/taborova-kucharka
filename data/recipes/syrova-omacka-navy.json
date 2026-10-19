@@ -1,0 +1,93 @@
+{
+  "id": "syrova-omacka-navy",
+  "title": "Sýrová omáčka",
+  "titleOriginal": "Cheese Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 50,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horké (zdroj „hot milk“, 1 gal = 50 porcí)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné, do jíšky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g",
+      "note": "do jíšky"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 55,
+      "unit": "g",
+      "note": "strouhaný (American cheddar)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.4,
+      "unit": "g",
+      "note": "zdroj 1½ tsp na 1 gal; druh pepře ve zdroji neuveden, černý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci ohřej mléko téměř do varu.",
+      "minutes": 5
+    },
+    {
+      "text": "V druhém hrnci rozpusť máslo, vmíchej mouku a míchej do hladké jíšky.",
+      "minutes": 2
+    },
+    {
+      "text": "Jíšku rychle vmíchej do horkého mléka.",
+      "minutes": 1
+    },
+    {
+      "text": "Za stálého míchání vař, dokud omáčka nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Vmíchej strouhaný sýr a míchej, dokud se nerozpustí.",
+      "minutes": 3
+    },
+    {
+      "text": "Dochuť solí a pepřem."
+    }
+  ],
+  "modernNote": "Zdroj: Cream or White Sauce Variations, s. 175 (PDF 183), varianta Cheese: 1 gal Medium Cream Sauce + 1 lb 8 oz americké čedar. Základ Medium Cream Sauce je na s. 173 (PDF 181): 1 gal = 50 porcí, porce cca 2 oz (¼ cup). Přepočet na 4 porce × 0,08 (linear); sůl a pepř jako seasoning (× 0,117). Máslo a mouka tvoří jíšku, proto linear, ne fat. Zdroj nemá postup pro přidání sýra, doplněno: sýr se rozpustí v hotové omáčce. Ohřev mléka je z „hot milk“. Sůl 3 g na 4 porce je podle třídy seasoning o něco víc než lineárně (2 tbsp na gal); doporučení: ubrat na 2 g a dochutit podle chuti. Nález bilance (102 g na porci vs. 2 oz = 57 g) je vlastností zdroje, ne přepočtu: 1 gal mléka (3 785 g) + 1 lb 8 oz sýra (680 g) + 12 oz másla (340 g) + 6 oz mouky (170 g) dává cca 4 975 g / 50 porcí = 99,5 g na porci, zatímco porce je uvedena jako objem ¼ cup (cca 2 oz). Přepočet tento poměr zachovává. Ostatní varianty téže tabulky na 1 l Cream Sauce (zdroj je na 1 gal = 3,8 l): slanina 150 g, kapary 60 ml, natvrdo uvařená vejce 2 ks, křen 90–160 ml, sušená hořčice 2,6 g, paprika 0,6 g, čerstvé houby 150 g nebo konzervované 190 ml, cibule 22 g a máslo na osmažení 30 g, petrželka 45 g, pimientos 112 g, červená paprika 15 g, zelená paprika 30 g, okurková relish 45 g.",
+  "source": {
+    "book": "navy-1944",
+    "page": 183,
+    "titleOriginal": "Cheese Sauce (Cream or White Sauce Variations)"
+  },
+  "verified": true,
+  "quote": "Blend fat and flour to a smooth paste. Stir rapidly into hot milk."
+}

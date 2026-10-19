@@ -1,0 +1,60 @@
+[
+  {
+    "id": "polevkovy-koncentrat-instantni",
+    "name": "Polévkový koncentrát instantní",
+    "aliases": [
+      "instantní polévka",
+      "polévkový koncentrát",
+      "Wehrmachtsuppenkonserve",
+      "dehydrated soup mix"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 446,
+      "protein": 8,
+      "carbs": 52.1,
+      "fat": 24.1,
+      "fiber": 3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek",
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171166 (Soup, cream of vegetable, dry, powder); náhrada: sušený instantní polévkový koncentrát",
+      "refuse": "USDA fdc:171166 refusePct 0"
+    }
+  },
+  {
+    "id": "jalovec",
+    "name": "Jalovec (bobule)",
+    "aliases": [
+      "jalovcové bobule",
+      "jalovčinky",
+      "Wacholderbeeren",
+      "juniper berries"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 251,
+      "protein": 10.39,
+      "carbs": 63.95,
+      "fat": 3.26,
+      "fiber": 25.3
+    },
+    "units": {
+      "ks": 0.2
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170931 (Spices, pepper, black); náhrada: jalovec v USDA není, vzat suchý kořeněný plod podobného složení",
+      "units": "ks 0,2 g (jedna sušená bobule, běžná hodnota)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

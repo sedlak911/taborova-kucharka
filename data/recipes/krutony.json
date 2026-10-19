@@ -1,0 +1,61 @@
+{
+  "id": "krutony",
+  "title": "Krutony",
+  "titleOriginal": "Croutons",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 20,
+      "unit": "g",
+      "note": "starý, nakrájený na kostky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 150 °C."
+    },
+    {
+      "text": "Nakrájej starý chléb na plátky silné asi 1,2 cm.",
+      "minutes": 3
+    },
+    {
+      "text": "Plátky nakrájej na pruhy a pak na kostky.",
+      "minutes": 4
+    },
+    {
+      "text": "Kostky rozprostři v jedné vrstvě na plech.",
+      "minutes": 1
+    },
+    {
+      "text": "Peč asi 20 minut za občasného otočení, dokud nejsou krutony zlatohnědé.",
+      "minutes": 20
+    },
+    {
+      "text": "Krutony podávej horké do polévky jako posypku."
+    }
+  ],
+  "modernNote": "Zdroj uvádí jen postup, bez množství a bez tuku; recept proto tuk nepřidává (v pomalé troubě krutony zhnědnou i suché). Krutony jsou posypka do polévky, výtěžek 100 porcí je podle hlavičky stránky (stejně jako u Oyster Bisque na téže straně). Odhad pro 100 porcí: 500 g starého bílého chleba (zhruba 18 plátků po 28 g), tedy 5 g na porci (asi 5 kostek); pro 4 porce vychází 20 g. Čas pečení zdroj neuvádí, 20 minut je odhad. Pečení: 300 °F = 150 °C (pomalá trouba). Z téže stránky lze krutony použít také jako surovinu v dušených rajčatech; to zde nezpracováno. Množství jsou odhad, verified false. Nález 17 kcal a 6 g na porci mimo rozsah polévky je očekávaný: krutony jsou posypka (porce ~5 g), nikoli samostatné jídlo.",
+  "source": {
+    "book": "navy-1944",
+    "page": 249,
+    "titleOriginal": "CROUTONS"
+  },
+  "verified": false,
+  "quote": "Serve as a garnish for soups or ingredient in stewed tomatoes."
+}

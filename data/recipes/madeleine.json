@@ -1,0 +1,93 @@
+{
+  "id": "madeleine",
+  "title": "Madeleine (piškotový dortík)",
+  "titleOriginal": "CAKE MADELEINE (Pasta Maddalena)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 130,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj 4½ oz cukru (asi 128 g), zaokrouhleno"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 4,
+      "unit": "ks",
+      "note": "4 žloutky ze zdroje"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 85,
+      "unit": "g",
+      "note": "zdroj 3 oz; před použitím vysušit"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 0.5,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj „a pinch“ (špetka)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj 1 oz; změkčené na pokojovou teplotu"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 5,
+      "unit": "g",
+      "note": "jen strouhaná kůra (asi ⅛ citronu), zdroj „a taste of lemon peel“; odhad"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "3 bílky ze zdroje"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 10,
+      "unit": "g",
+      "note": "na poprášení po upečení; zdroj množství neuvádí, odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Mouku předem vysuš v troubě nebo na suché pánvi.", "minutes": 5 },
+    { "text": "Troubu předehřej na 180 °C." },
+    { "text": "Žloutky s cukrem míchej, dokud nezesvětlají; pak přidej mouku se špetkou sody a míchej ještě chvíli.", "minutes": 20 },
+    { "text": "Vmíchej změkčené máslo a strouhanou citronovou kůru.", "minutes": 3 },
+    { "text": "Bílky ušlehej na tuhý sníh a opatrně je vmíchej do těsta.", "minutes": 5 },
+    { "text": "Malé formičky vymaž máslem a poprašuj moukou; těsto do nich nalévej jen tenkou vrstvou.", "minutes": 3 },
+    { "text": "Peč, dokud okraje nezezlátnou.", "minutes": 10 },
+    { "text": "Upečené vyjmi, nakrájej na kosočtverce a poprašuj moučkovým cukrem.", "minutes": 5 },
+    { "text": "Podávej vychladlé." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 192) uvádí suroviny bez porcí: 4½ oz cukru, 3 oz mouky, 1 oz másla, 4 žloutky, 3 bílky, špetku sody a trochu citronové kůry. Nepřepočítával jsem je z jiné dávky, berou se jako domácí dávka pro 4 porce (zdroj jde o jeden tenký dortík z malých formiček). Cukr a máslo zaokrouhleny na 130 g a 30 g, mouka 85 g. Soda 0,5 g je skutečná špetka (kypřidlo v malém množství, vyšší dávka by dortík zkazila). Odhady: citronová kůra z asi osminy citronu (odhad), moučkový cukr na poprášení 10 g. Zdroj nedává teplotu ani čas pečení; 180 °C a asi 10 minut jsou z běžné praxe pro tenké piškoty. Formičky se mažou máslem a moukou bez uvedeného množství (asi 5 g každého). Zdroj doporučuje dortík držet tenký a malý; po upečení se nakrájí na kosočtverce. Čas 55 minut je odhad včetně sušení mouky a předehřátí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 136,
+    "titleOriginal": "CAKE MADELEINE (Pasta Maddalena)"
+  },
+  "verified": false,
+  "quote": "This cake may be given different shapes, but keep it always thin and in little volume."
+}

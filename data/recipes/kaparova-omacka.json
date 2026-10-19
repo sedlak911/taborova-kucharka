@@ -1,0 +1,111 @@
+{
+  "id": "kaparova-omacka",
+  "title": "Kaparová omáčka",
+  "titleOriginal": "Caper Sauce (Salsa con capperi)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 600,
+      "unit": "g",
+      "group": "Ryba",
+      "note": "zdroj „a piece of fish or a whole fish“; 4 porce po 150 g, druh ryby zdroj neurčuje"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 75,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "2 oz (57 g) × 1,32, rozděleno na dvě části"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 čajová lžička (zdroj „one teaspoonful of flour“)"
+    },
+    {
+      "ingredientId": "rybi-vyvar",
+      "amount": 155,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "zdroj „half cup of the broth of the fish“; kupovaný rybí vývar nebo voda, ve které se ryba vařila"
+    },
+    {
+      "ingredientId": "kapary",
+      "amount": 75,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "2 oz (zdroj „capers soaked in vinegar“), scezené"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 5,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "„some drops of vinegar“, dochutit podle chuti; odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "„season generously“; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "„pepper“; odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rybu vař v hrnci s osolenou vodou, dokud není měkká.",
+      "minutes": 15
+    },
+    {
+      "text": "Na pánvi rozpusť polovinu másla, vmíchej mouku a míchej, dokud nezezlátne.",
+      "minutes": 4
+    },
+    {
+      "text": "Přidej zbylé máslo a nech ho zesvětlat.",
+      "minutes": 2
+    },
+    {
+      "text": "Zalij vývarem z vařené ryby, dochuť solí a pepřem a nech krátce provřít.",
+      "minutes": 3
+    },
+    {
+      "text": "Pánev stáhni z ohně, vmíchej kapary, napůl celé a napůl nasekané, a několik kapek octa. Ochutnej, až bude omáčka hustá jako tekutá smetana.",
+      "minutes": 2
+    },
+    {
+      "text": "Omáčku podávej horkou k rybě."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 57) uvádí suroviny pro „a little more than one pound of fish“ (asi 454 g ryby): 2 oz másla, 2 oz kaparů, 1 čajovou lžičku mouky, polovinu šálku vývaru z vařené ryby, několik kapek octa, sůl a pepř. Přepočet na 4 porce faktorem 1,32 (npm run convert, --yield 3.03): máslo 75 g, kapary 75 g, vývar 155 ml, mouka 3 g (1 tsp = 5 ml × 1,32 = 6,6 ml ≈ 3 g). Ryba 600 g je odhad 4 × 150 g, protože zdroj ryby hmotnost určuje jen přibližně. Ocet 5 ml, sůl 3 g a pepř 0,5 g jsou odhady. Vývar je rybí vývar (jako u žluté omáčky); místo něj lze použít vodu z vaření ryby. Kapitola testoviny-a-ryze jako u ostatních omáček z knihy. Doba 30 minut je odhad. Omáčka je tučná a kyselá, zdroj doporučuje podávat střídmě.",
+  "source": {
+    "book": "italian-1919",
+    "page": 49,
+    "titleOriginal": "CAPER SAUCE (Salsa con capperi)"
+  },
+  "verified": false,
+  "quote": "This sauce is especially adapted for boiled fish."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "veprove-chop-suey",
+  "title": "Vepřové chop suey s rýží",
+  "titleOriginal": "Pork Chop Suey",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "soja"],
+  "ingredients": [
+    { "ingredientId": "veprova-plec", "amount": 450, "unit": "g", "note": "nakrájená na kostky nebo proužky; zdroj „Pork, boneless“ 25 lb (varianta s kostmi 35 lb)" },
+    { "ingredientId": "hovezi-vyvar", "amount": 150, "unit": "ml", "note": "masový vývar (Meat Stock, tištěná str. 216) nebo voda; zdroj uvádí 1 gal" },
+    { "ingredientId": "sojova-omacka", "amount": 30, "unit": "ml", "note": "zdroj 1 pint" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "note": "nakrájená na tenké plátky" },
+    { "ingredientId": "celer-rapikaty", "amount": 145, "unit": "g", "note": "nakrájený na proužky" },
+    { "ingredientId": "kukuricny-skrob", "amount": 12, "unit": "g", "note": "rozmíchaný s vodou z klíčků" },
+    { "ingredientId": "klicky-mungo", "amount": 240, "unit": "g", "note": "scezené" },
+    { "ingredientId": "sul", "amount": 11, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "ryze-bila", "amount": 175, "unit": "g", "note": "suchá; uvařená rýže ze zdroje 27 lb, suchá podle Boiled Rice (PDF 33) 1/2,8" },
+    { "ingredientId": "voda", "amount": 1750, "unit": "ml", "note": "na vaření rýže, slije se; domácí hodnota 1 l na 100 g suché rýže", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 3.5, "unit": "g", "note": "do vody na vaření rýže, slije se; 2 g na 1 l", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Maso nakrájej na kostky nebo proužky.", "minutes": 8 },
+    { "text": "Maso v hrnci opékej do zlatohněda.", "minutes": 10 },
+    { "text": "Zalij vývarem, přidej sůl a pepř a nech 1 hodinu dusit na mírném ohni.", "minutes": 60 },
+    { "text": "Přidej nakrájenou cibuli a celer a duš dalších 30 minut.", "minutes": 30 },
+    { "text": "Mezitím uvař rýži v osolené vodě, dokud nebude měkká, a scedi.", "minutes": 18, "parallel": true },
+    { "text": "Mezitím odlij klíčky a část jejich vody smíchej se škrobem na hladkou pastu.", "minutes": 3, "parallel": true },
+    { "text": "Maso se zeleninou scedi, tekutinu nech v hrnci a do horké tekutiny vmíchej škrobovou pastu.", "minutes": 3 },
+    { "text": "Vrať maso se zeleninou do hrnce, přidej klíčky a sójovou omáčku a vař, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Podávej chop suey na uvařené rýži." }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 8 oz chop suey plus rýže (hlavička uvádí cca 6 oz rýže na porci; tabulka 27 lb uvařené rýže na 100 porcí dává 4,3 oz, rozpor je v zadání zdroje). Maso: „Pork, boneless“ 25 lb; kostnatá varianta 35 lb je alternativa. Vývar: „Meat Stock (page 216) or water“ zvolen masový vývar, ne voda (katalog hovezi-vyvar). Pečení masa bez přidaného tuku, zdroj žádný tuk u vepřové verze nepředepisuje (maso se opéká ve vlastním tuku); varianta s hovězím nebo telecím používá 1 lb tuku. Rýže: uvařená hmotnost ze zdroje 27 lb, suchá podle poměru z Boiled Rice (10 lb suché ≈ 28 lb uvařené, tj. 1/2,8; 175 g na 4 porce), vaří se ve slané vodě (domácí hodnota 1 l na 100 g suché rýže, sůl 2 g/l), slévá se. Sůl 6 oz na 100 porcí dává přes třídu seasoning ~2,75 g na porci; doporučuji ubrat. Sójová omáčka: 1 pint = 473 ml, katalogová třída seasoning. Klíčky: zdroj 2 No. 10 cans včetně nálevu, do jídla vloženy scezené; část jejich vody je použita pro škrobovou pastu. Kroky rýže a škrobové pasty běží souběžně s dušením.",
+  "source": {
+    "book": "navy-1944",
+    "page": 142,
+    "titleOriginal": "PORK CHOP SUEY"
+  },
+  "verified": false
+}

@@ -1,0 +1,43 @@
+{
+  "id": "testoviny-s-brokolici-a-rajcaty",
+  "title": "Těstoviny s brokolicí a rajčaty",
+  "titleOriginal": "Italian Broccoli Pasta",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "repkovy-olej", "amount": 1, "unit": "lzicka", "note": "na vymazání pánve (místo nepřilnavého spreje)", "scaling": "vessel", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 155, "unit": "g", "note": "nakrájená", "group": "Omáčka" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 840, "unit": "g", "note": "krájená, scezená", "group": "Omáčka" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 50, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cukr-krystal", "amount": 12, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cesnek-prasek", "amount": 4, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 2, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "bazalka-susena", "amount": 2, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "oregano", "amount": 2, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "tymian-susity", "amount": 0.6, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "brokolice", "amount": 560, "unit": "g", "note": "mražená, rozmražená", "group": "Omáčka" },
+    { "ingredientId": "testoviny", "amount": 300, "unit": "g", "note": "rotini, suché", "group": "Těstoviny" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření těstovin; slije se (domácí hodnota 1 l na 100 g)", "scaling": "vessel", "group": "Těstoviny" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel", "group": "Těstoviny" },
+    { "ingredientId": "jarni-cibulka", "amount": 25, "unit": "g", "note": "nakrájená, na posypání", "group": "Podávání" },
+    { "ingredientId": "parmezan", "amount": 25, "unit": "g", "note": "strouhaný, na posypání", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Pánev vymaž lžičkou oleje nebo použij nepřilnavou pánev. Přidej cibuli, dobře zamíchej, přikryj a duš 10 minut, dokud nezměkne. Občas zamíchej.", "minutes": 10 },
+    { "text": "Přidej rajčata, rajčatový protlak, cukr, sůl, česnek v prášku, pepř, bazalku, oregano a tymián. Přiveď k varu, sniž plamen a duš 25 až 30 minut. Občas zamíchej.", "minutes": 30 },
+    { "text": "Přidej rozmraženou brokolici, dobře promíchej a znovu krátce přiveď k varu. Duš 3 až 5 minut, dokud není dohřátá. Nevař ji do měkka.", "minutes": 5 },
+    { "text": "Ve větším hrnci přiveď k varu osolenou vodu. Za stálého míchání vsyp rotini, vař 10 až 12 minut, dokud nejsou měkké. Občas zamíchej. Scedi, krátce propláchni teplou vodou a dobře odkapej.", "minutes": 22, "parallel": true },
+    { "text": "Na každý talíř dej těstoviny, přelij je omáčkou s brokolicí a posyp jarní cibulkou a parmezánem." }
+  ],
+  "modernNote": "Konzervované krájené rajče a mražená brokolice jsou z katalogu, sprej na pánev nahrazen lžičkou oleje. Porce 75 g suchých těstovin na osobu odpovídá zdroji. Zdrojová váha 11 oz na porci neodpovídá vážené receptuře (cca 500 g na porci), proto se přepočet řídí váhou surovin. Vodu na vaření zdroj uvádí pro 10 galonů; zde je domácí hodnota 1 l na 100 g těstovin.",
+  "source": { "book": "afrs-2003", "page": 1045, "code": "L 189 00", "titleOriginal": "ITALIAN BROCCOLI PASTA" },
+  "verified": true,
+  "quote": "Do not overcook."
+}

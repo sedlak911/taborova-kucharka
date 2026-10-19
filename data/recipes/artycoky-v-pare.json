@@ -1,0 +1,78 @@
+{
+  "id": "artycoky-v-pare",
+  "title": "Artyčoky dušené v páře",
+  "titleOriginal": "Steamed Artichokes (Carciofi a vapore)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "artycok",
+      "amount": 320,
+      "unit": "g",
+      "note": "4 střední celé artyčoky; jedlá část (nákupní váha asi 800 g, cca 200 g na kus)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "note": "asi 1,5 cm vody na dně hrnce"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 55,
+      "unit": "g",
+      "note": "kolik se vejde do středu každého artyčoku, asi 1 lžíce na kus"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do otvoru uprostřed artyčoků"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "do otvoru uprostřed artyčoků"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Artyčoky očisti, odřízni tvrdé špičky listů a stonek zkrať tak, aby byl kratší než 1,5 cm.",
+      "minutes": 15
+    },
+    {
+      "text": "Artyčoky postav dnem dolů do hrnce těsně vedle sebe a nalij asi 1,5 cm vody.",
+      "minutes": 3
+    },
+    {
+      "text": "Do otvoru uprostřed každého artyčoku dej špetku soli, pepř a olivový olej.",
+      "minutes": 2
+    },
+    {
+      "text": "Hrnec přikryj a postav na střední oheň; artyčoky se udusí v páře, dokud nejsou dno a listy měkké, asi 35 minut.",
+      "minutes": 35
+    },
+    {
+      "text": "Podávej teplé."
+    }
+  ],
+  "modernNote": "Gentile neuvádí počet artyčoků ani množství; zdroj popisuje jen postup. Množství jsou odhad z běžné praxe pro 4 porce: 4 střední artyčoky (cca 800 g nákupní váhy; v receptu je jedlá část 320 g, tj. asi 40 %, protože aplikace počítá gramy zeleniny jako jedlou část), asi 1,5 cm vody (zdroj říká „half an inch or more“), olivový olej asi 1 lžíce na artyčok (zdroj „as much as they may contain“), sůl a pepř podle chuti. Čas přípravy a dušení (asi 35 minut) je odhad; zdroj dobu neuvádí. Zdroj zmiňuje také sůl a olej, ale ne citron ani česnek, proto nejsou přidány.",
+  "source": {
+    "book": "italian-1919",
+    "page": 30,
+    "titleOriginal": "STEAMED ARTICHOKES (Carciofi a vapore)"
+  },
+  "verified": false,
+  "quote": "The artichokes, that are already seasoned, will be cooked by the steam."
+}

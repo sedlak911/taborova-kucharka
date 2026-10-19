@@ -1,0 +1,112 @@
+{
+  "id": "stolni-horcice",
+  "title": "Stolní hořčice",
+  "titleOriginal": "Prepared Table Mustard",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 380,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 4,
+      "unit": "g",
+      "note": "prášek"
+    },
+    {
+      "ingredientId": "kurkuma",
+      "amount": 0.3,
+      "unit": "g",
+      "note": "mletá"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "celerova-sul",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice",
+      "amount": 7,
+      "unit": "g",
+      "note": "hotová stolní hořčice"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 7,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 14,
+      "unit": "ml",
+      "note": "50 grain, cca 5 %"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej mouku, hořčici v prášku, kurkumu, sůl, celerovou sůl a cukr.",
+      "minutes": 2
+    },
+    {
+      "text": "Rozehřej olej.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej olej do suchých surovin a rozmíchej na hladkou pastu.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej hotovou hořčici a důkladně promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "V hrnci smíchej vodu s octem a přiveď k varu.",
+      "minutes": 3
+    },
+    {
+      "text": "Do horké vody s octem vmíchej hořčičnou pastu a vař za stálého míchání.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Sušená hořčice, kurkuma, sůl, celerová sůl, cukr a mouka tvoří suchou směs; hotová hořčice (Mustard, prepared) je běžná stolní hořčice (katalog `horcice`). Olej je řepkový, ocet je kvasný 50 grain (cca 5 %). Zdroj je v rozporu sám se sebou: výtěžek 1 gal (3 785 ml) na „100 porcí“ dává ~38 ml na porci, ale hlavička uvádí porci „approx. 2 teaspoons“ (~10 ml). Množství surovin sedí na výtěžek 1 gal, proto originalYield = 3 785 ml / 10 ml = ~380 porcí (ne 100) a suroviny na 4 porce (asi 40 ml hořčice) jsou přepočteny faktorem 4/380. Množství jsou kvůli malé dávce velmi malá, pro praktické vaření násobte recept. Energie 26 kcal na porci (2 lžičky) a sůl 0,05 g jsou u hořčice očekávané; sůl a cukr jsou podle zdroje velmi nízké, dochuť podle chuti. Zdroj nepředepisuje odležení, proto bez tagu pripravit-predem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 189,
+    "titleOriginal": "Prepared Table Mustard"
+  },
+  "verified": true
+}

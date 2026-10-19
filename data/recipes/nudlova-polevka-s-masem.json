@@ -1,0 +1,81 @@
+{
+  "id": "nudlova-polevka-s-masem",
+  "title": "Nudlová polévka s masem",
+  "titleOriginal": "Nudeln und frisches Rind- oder Schweinefleisch oder Dauerfleisch",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 180,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "vroucí; množství zdroj neuvádí (doplněno, nudle ji hodně nasáknou)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí nebo vepřové; množství zdroj neuvádí (doplněno, 100 g na porci)"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 440,
+      "unit": "g",
+      "note": "suché; ve zdroji 180 g na hlavu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“ a na konci dochutit solí"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej maso, polévkovou zeleninu a sůl a vař skoro do měkka asi 2 a půl hodiny (vepřové maso jen asi 1 a půl hodiny).",
+      "minutes": 150
+    },
+    {
+      "text": "Přidej nudle a na mírném ohni vař dohotova, asi 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Dochuť solí a kvasničným extraktem."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 180 g nudlí na muže; zde 110 g nudlí na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj uvádí jen nudle (180 g na hlavu) a polévkovou zeleninu (30 g čerstvé nebo 2,5–3 g sušené); množství masa a vody chybí. Maso (400 g, asi 100 g na porci), vodu (1,5 l) a sůl (6 g) jsme doplnili jako odhad, proto verified: false. Kvasniční extrakt (Hefeextrakt) není v katalogu, dochuť jím po špetkách, nebo použij bujón. Varianty s trvanlivou vařenou klobásou (do hotového jídla, jen krátce svařit) a konzervovaným masem (až těsně před podáváním, jen prohřát) jsou vynechány.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 20,
+    "code": "Grundgericht (tišt. 36)",
+    "titleOriginal": "Nudeln und frisches Rind- oder Schweinfleisch oder Dauerfleisch"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz und Hefeextrakt."
+}

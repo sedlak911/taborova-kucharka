@@ -1,0 +1,37 @@
+{
+  "id": "jehneci-kyta-po-orientalsku",
+  "title": "Jehněčí kýta po orientálsku",
+  "titleOriginal": "Leg of Lamb (Agnello all'orientale)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 110,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["trouba"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 700, "unit": "g", "note": "kýta s kostí, asi 540 g masa bez kosti; zdroj nevyčíslil" },
+    { "ingredientId": "spek", "amount": 60, "unit": "g", "note": "na špikování, tenké plátky (zdroj: slanina, asi 6 až 8 plátků); osolené a opepřené" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na potření kýty; zdroj: „greased with butter or milk“" },
+    { "ingredientId": "mleko-polotucne", "amount": 250, "unit": "ml", "note": "na polévání, zdroj: „milk alone“, odhad" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "osolit až v polovině pečení (zdroj); podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "na slaninu a kýtu; podle chuti" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Plátky slaniny osol a opepři a pomocí špikovací jehly je vpichuj do kýty.", "minutes": 10 },
+    { "text": "Kýtu potři máslem a polož ji do pekáče.", "minutes": 3 },
+    { "text": "Peč kýtu, dokud není z poloviny hotová.", "minutes": 40 },
+    { "text": "Osol ji a polévej mlékem, dokud není měkká a propečená.", "minutes": 40 },
+    { "text": "Nech kýtu chvíli odpočinout.", "minutes": 10 },
+    { "text": "Nakrájej ji na plátky a podávej se šťávou z pekáče.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 147) uvádí jen postup: kýtu špikovat slaninou ochucenou solí a pepřem, potřít máslem nebo mlékem, když je napůl hotová, osolit a polévat mlékem; množství, počet porcí i čas chybí a jsou odhadnuty pro 4 porce: kýta 700 g s kostí (asi 540 g masa, asi 135 g na porci), slanina 60 g, máslo 20 g, polotučné mléko 250 ml, sůl 6 g, pepř 1 g. Zdroj neuvádí teplotu; 180 °C je volba pro pečení v troubě. Doba pečení 80 minut (40 + 40) je orientační, rozhodující je měkkost masa. Zdroj uvádí, že Arabové kýtu nešpikují (vepřové je zakázáno), ale pečou ji v mléce; tato verze je italská se slaninou. Mléko se během pečení částečně sráží a zhnědne, z pekáče vznikne šťáva k podávání; zdroj ji nezmiňuje.",
+  "source": {
+    "book": "italian-1919",
+    "page": 109,
+    "titleOriginal": "LEG OF LAMB (Agnello all'Orientale)"
+  },
+  "verified": false,
+  "quote": "This is a way to cook lamb in use in the Orient and adopted by the Italians, especially in Southern Italy."
+}

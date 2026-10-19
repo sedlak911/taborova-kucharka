@@ -1,0 +1,97 @@
+{
+  "id": "nadivka-do-ryby",
+  "title": "Nádivka do pečené ryby",
+  "titleOriginal": "Stuffing for Baked Whole Fish",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 9,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné; na restování i do směsi"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 145,
+      "unit": "g",
+      "note": "měkký, nakrájený na kostky"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 19,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 190 °C."
+    },
+    {
+      "text": "Cibuli nasekej nadrobno a celer nakrájej na kostičky.",
+      "minutes": 5
+    },
+    {
+      "text": "Na tuku restuj cibuli a celer, dokud nebudou průsvitné.",
+      "minutes": 8
+    },
+    {
+      "text": "Ve velké míse smíchej chlebové kostky s citronovou šťávou, solí a pepřem.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej restovanou cibuli, celer a tuk a dobře promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Nádivkou naplň celou rybu a peč ve vyhřáté troubě, dokud ryba není propečená.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Ryba není součástí receptu, nádivka je pro 4 porce. Zdroj uvádí 1/2 cupu (cca 3 oz) na porci a yield cca 10 lb, ale součet jeho surovin je cca 5,9 kg na 100 porcí (cca 59 g na porci), proto držím suroviny, ne portion; nálezu bilance je zdrojový rozpor. Teplota 190 °C a doba pečení 30 minut jsou moderní odhad, zdroj je neuvádí; podle velikosti ryby uprav. Citronová šťáva je ve zdroji 1 pint na 100 porcí (hlavní vlhkost nádivky), proto je lineární. Tuk slouží na restování i do směsi, jako v původním postupu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 90,
+    "titleOriginal": "STUFFING FOR BAKED WHOLE FISH"
+  },
+  "verified": true
+}

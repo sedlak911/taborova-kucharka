@@ -1,0 +1,91 @@
+{
+  "id": "drstky-v-omacce",
+  "title": "Dršťky v omáčce",
+  "titleOriginal": "Tripe with Gravy",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "drstky-predvarene",
+      "amount": 500,
+      "unit": "g",
+      "note": "předvařené, zakoupené hotové; zdroj neuvádí množství"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek másla"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "hnědý (masový) vývar; zdroj nabízí alternativně rajčatovou omáčku"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "note": "špetka strouhaného sýra"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dršťky nakrájej na úzké proužky a osuš utěrkou.",
+      "minutes": 8
+    },
+    {
+      "text": "V hrnci rozpusť máslo.",
+      "minutes": 2
+    },
+    {
+      "text": "Do rozpuštěného másla vlož dršťky a zalij je hnědým vývarem.",
+      "minutes": 2
+    },
+    {
+      "text": "Osol, opepři a na mírném ohni důkladně prohřívej 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Před podáváním vmíchej špetku strouhaného parmezánu a sundej z ohně.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 82, s. 63) uvádí jen postup: dršťky povařit, nakrájet na proužky asi 6 mm, osušit, opéct na másle, zalít hnědým vývarem nebo dobrou rajčatovou omáčkou, osolit, opepřit, důkladně provařit a na závěr přidat špetku strouhaného sýra. Množství chybí; odhad pro 4 porce: dršťky 500 g (125 g na porci), máslo 20 g, vývar 250 ml, sůl 3 g, pepř 1 g, parmezán 10 g (špetka). Dršťky se dnes kupují předvařené, proto původní dlouhé vaření syrových dršťek odpadá (zdroj dobu neuvádí; syrové dršťky se obvykle vaří 2–3 hodiny, odhad) a časy kroků počítají jen s prohřátím. Pokud nejsou předvařené, uvařte je nejdřív v osolené vodě do měkka a osušte. Místo vývaru lze použít rajčatovou omáčku (zdroj ji uvádí jako alternativu). Čas 30 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 67,
+    "titleOriginal": "TRIPE WITH GRAVY"
+  },
+  "verified": false,
+  "quote": "Boil some tripe in water and when it is boiled, cut it in strips, one quarter of an inch wide."
+}

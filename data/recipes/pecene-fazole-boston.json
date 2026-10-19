@@ -1,0 +1,81 @@
+{
+  "id": "pecene-fazole-boston",
+  "title": "Pečené fazole po bostonsku",
+  "titleOriginal": "Boston Baked Beans",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 330,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 220,
+      "unit": "g",
+      "note": "bílé malé (navy)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 530,
+      "unit": "ml",
+      "note": "vařící, na provaření; zdroj: 3–4 galony na 100 porcí. Studená voda na namočení navíc, odhadem (zdroj: „na zakrytí“)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 2,
+      "unit": "g",
+      "note": "hořčičný prášek"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 75,
+      "unit": "g",
+      "note": "slanina nebo slaninový tuk, na kostičky; zdroj: solené vepřové, slanina nebo šunkový tuk"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 50,
+      "unit": "g",
+      "note": "místo melasy; lze i med",
+      "original": {
+        "ingredientId": "melasa",
+        "amount": 50,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Fazole přeber a důkladně omyj.", "minutes": 3 },
+    { "text": "Zalij je studenou vodou a nech asi 6 hodin namáčet. Nesceďuj." },
+    { "text": "Přidej vařící vodu, aby byly fazole zakryté." },
+    { "text": "Duš asi 1 hodinu, dokud fazole nezměknou, ale nerozpadají se.", "minutes": 60 },
+    { "text": "Přebytečnou tekutinu sceď a odlož stranou.", "minutes": 2 },
+    { "text": "Přidej sůl, hořčici, slaninu a cukr (nebo med).", "minutes": 3 },
+    { "text": "Dej do pekáče." },
+    { "text": "Peč v pomalé troubě při 150 °C 3 až 4 hodiny. Podle potřeby podlévej odloženou tekutinou z vaření fazolí.", "minutes": 240 }
+  ],
+  "modernNote": "Melasa se dnes špatně shání, proto je nahrazena hnědým cukrem (originál 1 quart na 100 porcí; hnědý cukr nebo med dá podobnou sladkost, chuť bude lehčí). Voda je přepočtená lineárně z údaje 3–4 galony; zdroj uvádí studenou vodu na namočení jen „na zakrytí“ bez množství, takže 530 ml pokrývá jen vařící vodu a studenou vodu na namočení přilij odhadem (asi 500 ml, aby byly fazole ponořené). Doporučení: nech fazole v troubě přikryté, aby nevyschly.",
+  "source": {
+    "book": "navy-1944",
+    "page": 259,
+    "titleOriginal": "BOSTON BAKED BEANS"
+  },
+  "verified": false,
+  "quote": "Bake in slow oven (300°F.) 3 to 4 hours, adding liquid from the boiled beans as needed."
+}

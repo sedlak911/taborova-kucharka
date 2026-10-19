@@ -1,0 +1,80 @@
+{
+  "id": "jehneci-karbanatky",
+  "title": "Jehněčí karbanátky na plotně",
+  "titleOriginal": "Griddle-Broiled Lamb Patties",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-mlete",
+      "amount": 560,
+      "unit": "g",
+      "note": "zdroj: Lamb, boneless (bez kosti)"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 125,
+      "unit": "g",
+      "note": "měkké drobky z čerstvého chleba (zdroj: Bread crumbs, soft 7 lb)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 115,
+      "unit": "ml",
+      "note": "masový vývar (zdroj: Meat Stock, s. 216 tištěná = PDF 224)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pánve (odhad, zdroj tuk nepředepisuje)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli nasekej nadrobno.", "minutes": 3 },
+    { "text": "Maso nakrájej na malé kostky a semel.", "minutes": 5 },
+    { "text": "Lehce, ale důkladně smíchej maso, cibuli, chlebové drobky, sůl, pepř a vývar.", "minutes": 3 },
+    { "text": "Hmotu tvaruj do placiček o tloušťce asi 2,5 cm.", "minutes": 5 },
+    { "text": "Pánev vymaž olejem a rozpal ji.", "minutes": 3 },
+    { "text": "Placičky opékej na rozpálené pánvi asi 12 minut podle požadované propečenosti; během opékání je otoč, aby se propekly rovnoměrně.", "minutes": 12 },
+    { "text": "Podávej ihned, s omáčkou nebo bez ní." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 2 placičkách (cca 3½ oz, 100 g). Použito boneless jehněčí (31 lb; varianta bone-in 45 lb by vyšla s kostmi, proto ji nepoužívám). Mleté jehněčí je založeno jako samostatná surovina `jehneci-mlete`, protože `jehneci-maso` počítá s kostí (ediblePortion 0,77). Sůl (5 oz na 100 porcí) vychází na 9 g na 4 porce, tedy přes 2 g na porci; doporučuji ubrat na polovinu. Vývar: zdroj uvádí „Meat Stock (page 216)“ nebo vodu; použit masový vývar, voda nenahrazuje vývar. Tuk na pánvi zdroj neuvádí; přidán 1 lžička řepkového oleje jako odhad na vymazání pánve, lehce lze vynechat, jehněčí má vlastní tuk.",
+  "source": {
+    "book": "navy-1944",
+    "page": 139,
+    "titleOriginal": "GRIDDLE-BROILED LAMB PATTIES"
+  },
+  "verified": false,
+  "quote": "Mix together all ingredients lightly, but thoroughly."
+}

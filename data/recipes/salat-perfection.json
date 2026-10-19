@@ -1,0 +1,114 @@
+{
+  "id": "salat-perfection",
+  "title": "Salát Perfection (želatinový)",
+  "titleOriginal": "Perfection Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "pripravit-predem",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zelatina",
+      "amount": 6,
+      "unit": "g",
+      "note": "odhad; tuhost pro sladký ovocný dezert, verified false",
+      "original": {
+        "ingredientId": "zelatinovy-dezert-prasek",
+        "amount": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 45,
+      "unit": "g",
+      "note": "odhad; sladidlo, které v prášku bylo (zhruba 80 % hmotnosti)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 280,
+      "unit": "ml",
+      "note": "horká i studená dohromady",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 30,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.91,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 55,
+      "unit": "g",
+      "note": "jemně nasekané"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájený nadrobno"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 14,
+      "unit": "g",
+      "note": "jemně nasekaná"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 14,
+      "unit": "g",
+      "note": "čerstvá, jemně nasekaná"
+    },
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 110,
+      "unit": "g",
+      "note": "nahrubo nakrájený, na podávání"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g",
+      "note": "kupovaná, k podávání"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci ohřej vodu téměř do varu.", "minutes": 8 },
+    { "text": "V horké vodě rozmíchej želatinu s cukrem, dokud se nerozpustí.", "minutes": 3 },
+    { "text": "Vmíchej studenou vodu a chlaď, dokud mírně nezhoustne.", "minutes": 20 },
+    { "text": "Mezitím nadrobno nakrájej zelí, celer, mrkev a papriku, smíchej je s octem a solí a nahrubo nakrájej salát.", "minutes": 10, "parallel": true },
+    { "text": "Zeleninovou směs vmíchej do mírně ztuhlé želatiny.", "minutes": 3 },
+    { "text": "Přelij do mělké formy a chlaď do úplného ztuhnutí." },
+    { "text": "Nakrájej na čtverce o straně asi 6 cm.", "minutes": 5 },
+    { "text": "Podávej na listech salátu s majonézou." }
+  ],
+  "modernNote": "Zdroj používá hotový ovocný (citronový) želatinový dezert v prášku: 3 lb 4 oz na 100 porcí, tj. 60 g na 4 porce, uvedený v `original` (zelatinovy-dezert-prasek). Moderní řádek je z reálných surovin: želatina 6 g a cukr 45 g jsou odhady (cukr ~80 % hmotnosti prášku), voda 280 ml je součet zdrojové horké vody (1 gal) a studené vody (3½ qt), ocet 30 ml z 1½ pt. Citrónová příchuť z prášku v modernizaci chybí; podle chuti přidej citronovou šťávu. Sůl 1 tbsp = 14 g na 100 porcí, 0,91 g na 4 porce (třída seasoning; 0,23 g na porci je nízko, doporučení: dochuť solí podle chuti). Kalorie asi 189 kcal na porci (historické suroviny 241). Zelí, celer, mrkev a salát jsou nakrájené nadrobno nebo nahrubo podle zdroje. Zdroj uvádí čerstvou zelenou papriku, proto je zvolena paprika-zelena místo pimentky z konzervy. Majonéza je kupovaná (zdroj odkazuje na domácí Mayonnaise na str. 204) v množství ze zdroje 4 lb na 100 porcí. Zdroj uvádí čtverce 2½ palce (asi 6,4 cm); zdroj dovoluje přidat natvrdo uvařená vejce (poznámka 2), v receptu nejsou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 203,
+    "titleOriginal": "PERFECTION SALAD"
+  },
+  "verified": false
+}

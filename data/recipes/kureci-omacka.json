@@ -1,0 +1,90 @@
+{
+  "id": "kureci-omacka",
+  "title": "Kuřecí omáčka",
+  "titleOriginal": "Chicken Gravy",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 170,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "kuřecí tuk z osmažených kuřat",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci smíchej kuřecí vývar s mlékem a zahřej téměř do varu.",
+      "minutes": 3
+    },
+    {
+      "text": "Mezitím v jiném hrnci rozpusť tuk a vmíchej mouku do hladké jíšky.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Za stálého míchání vmíchej jíšku do horkého vývaru.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého míchání vař 15 minut, dokud omáčka nezhoustne a nezhladí.",
+      "minutes": 15
+    },
+    {
+      "text": "Dochuť solí a pepřem."
+    }
+  ],
+  "modernNote": "Zdroj: Chicken Gravy, 100 porcí, výtěžek cca 2 gal, porce 1/4 cup (cca 2 oz = 60 ml). Vývar: zdroj odkazuje na Chicken Stock (p. 216); použit kupovaný kuřecí vývar v množství 1 gal na 100 porcí, tj. 150 ml na 4 porce. Tuk z osmažených kuřat (drippings) 18 g: v original jako sádlo, moderně máslo. Sůl 1 oz (2 lžíce) dává 2 g. Bilance: 4 porce ≈ 360 g surovin proti 240 ml (4 × 60 ml) u hustší omáčky, v pořádku. Poznámka zdroje: na pečené kuře lze použít odkapky z pečeného kuřete.",
+  "source": {
+    "book": "navy-1944",
+    "page": 185,
+    "titleOriginal": "CHICKEN GRAVY"
+  },
+  "verified": true
+}

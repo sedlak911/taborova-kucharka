@@ -1,0 +1,249 @@
+{
+  "id": "holubi-timbale",
+  "title": "Makaronová timbale s kuřecím masem",
+  "titleOriginal": "Squab Timbale (Timballo di piccioni)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 130,
+  "difficulty": 3,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "na křehké těsto, odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "studené, na kostičky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "studená, podle potřeby"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 50,
+      "unit": "g",
+      "group": "Ragú",
+      "note": "nasekaná; zdroj množství neuvádí, odhad"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "group": "Ragú",
+      "note": "1 malá, bez měkké části"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 30,
+      "unit": "g",
+      "group": "Ragú"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 30,
+      "unit": "g",
+      "group": "Ragú"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Ragú"
+    },
+    {
+      "ingredientId": "kureci-stehna",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Ragú",
+      "note": "místo holubů, s kostí"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Ragú",
+      "note": "masový (zdroj „broth“), na dochucení a dušení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Ragú"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Ragú"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 135,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "makaronové trubičky, do poloviny uvařené a scezené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1350,
+      "unit": "ml",
+      "group": "Těstoviny",
+      "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2.7,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "nastrouhaný; zdroj „grated cheese“, odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "houby-susene",
+      "amount": 5,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "sušené houby (zdroj: lanýže nebo sušené houby), namočené"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Bešamel"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Bešamel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Bešamel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ze mouky, másla, soli a vody rychle zadělej hladké těsto a nech ho chvíli odpočinout.",
+      "minutes": 10
+    },
+    {
+      "text": "Sušené houby namoč do teplé vody, dokud nezměknou, a nakrájej je."
+    },
+    {
+      "text": "Předehřej troubu na 180 °C."
+    },
+    {
+      "text": "Nasekej nadrobno šunku, cibuli, celer a mrkev.",
+      "minutes": 6
+    },
+    {
+      "text": "V hrnci rozpusť máslo, přidej nasekanou zeleninu a šunku, osol a opepři. Vlož kuřecí stehna a opékej je ze všech stran dozlatova.",
+      "minutes": 12
+    },
+    {
+      "text": "Zalij vývarem a duš pod pokličkou, dokud maso nezměkne. Omáčka má zůstat hustá.",
+      "minutes": 35
+    },
+    {
+      "text": "Mezitím vař v hrnci osolenou vodu a v ní těstoviny jen do poloviny měkkosti. Sceď je.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím v rendlíku rozpusť máslo, zapraš moukou, zalij mlékem a za stálého míchání povař do hustého bešamelu.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Stehna vyjmi z omáčky, odstraň kosti a maso nakrájej na kousky.",
+      "minutes": 5
+    },
+    {
+      "text": "Do omáčky vsyp scezené těstoviny a míchej, dokud je omáčka nevsákne.",
+      "minutes": 5
+    },
+    {
+      "text": "Do těstovin vmíchej strouhaný parmezan, kousky másla, nakrájenou šunku, muškátový ořech, houby a kousky masa.",
+      "minutes": 3
+    },
+    {
+      "text": "Nakonec přidej bešamel a vše dobře promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Žáruvzdornou formu vymaž máslem a vylož ji dvěma třetinami těsta.",
+      "minutes": 10
+    },
+    {
+      "text": "Hmotu vlij do formy, překryj zbylým těstem, okraje přitiskni a peč, dokud těsto nezezlátne.",
+      "minutes": 40
+    },
+    {
+      "text": "Vyklop z formy a podávej horké."
+    }
+  ],
+  "modernNote": "Gentile uvádí, že 3/4 lb makaronů a 2 holubi stačí pro 10 osob; přepočteno na 4 porce: 135 g makaronů (136 g) a 0,8 holuba, tedy 2 kuřecí stehna s kostí (holubi se v běžném obchodě nekupují; kuře je nejbližší dostupná náhrada). Těstoviny jsou tak jen 34 g na porci; hlavní část pokrmu tvoří těsto, maso a bešamel (celkem asi 330 g na porci). Hovězí vývar zůstává, jak ho zdroj myslí („broth“); pro bezmasou variantu nahraď zeleninovým vývarem (bez kuřecích stehen by pak bylo i bez masa). Zdroj nemá množství šunky, másla, sýra, hub ani těsta; odhady z praxe: šunka 50 + 30 g, parmezan 30 g, máslo 115 g celkem, křehké těsto 150 g mouky a 60 g másla, bešamel 250 ml mléka s 20 g mouky a 20 g másla, houby 5 g. Drůbeží drobky z holubů jsem vynechal; zdroj uvádí lanýže nebo sušené houby jako volbu, použity sušené houby. Pečení 40 minut a celkový čas 130 minut jsou odhady (zdroj čas neuvádí).",
+  "source": {
+    "book": "italian-1919",
+    "page": 44,
+    "titleOriginal": "SQUAB TIMBALE (Timballo di piccioni)"
+  },
+  "verified": false,
+  "quote": "Three quarters of a pound of macaroni and two pigeons are enough for ten persons."
+}

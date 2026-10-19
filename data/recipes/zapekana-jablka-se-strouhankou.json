@@ -1,0 +1,107 @@
+{
+  "id": "zapekana-jablka-se-strouhankou",
+  "title": "Zapékaná jablka se strouhankou",
+  "titleOriginal": "Escalloped Apples",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 110,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 540,
+      "unit": "g",
+      "note": "kuchyňská jablka; zdroj Apples, A.P. 30 lb (jako nakoupeno, před odečtením jádřinců a slupky)"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 50,
+      "unit": "g",
+      "note": "měkká strouhanka z bílého chleba"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 19,
+      "unit": "ml",
+      "note": "z asi ⅓ citronu",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 190,
+      "unit": "ml",
+      "note": "nebo ovocná šťáva, např. jablečná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 175 °C a vymaž zapékací misku."
+    },
+    {
+      "text": "Nakrájej jablka na klínky, zbav je jádřinců a oloupej.",
+      "minutes": 8
+    },
+    {
+      "text": "Smíchej cukr, muškátový oříšek, sůl, máslo a strouhanku.",
+      "minutes": 3
+    },
+    {
+      "text": "Dno misky vysyp vrstvou strouhankové směsi.",
+      "minutes": 2
+    },
+    {
+      "text": "Jablka a strouhankovou směs střídavě ukládej do vrstev, nahoře musí být strouhanka.",
+      "minutes": 5
+    },
+    {
+      "text": "Citronovou šťávu smíchej s vodou nebo ovocnou šťávou a zalij jablka.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč 75–90 minut, dokud jablka nezměknou a strouhanka nezezlátne.",
+      "minutes": 90
+    }
+  ],
+  "modernNote": "Zdroj: ESCALLOPED APPLES, porce 4 až 5 oz (asi 2/3 hrnku), 100 porcí; všechna čísla přečtena z obrázku strany 78. Pečení podle zdroje 1¼ až 1½ hodiny (v receptu horní mez 90 minut) při 350 °F = 175 °C. Zdroj počítá s jablky jako nakoupenými, proto je hmotnost surovin na porci vyšší než porce; část tekutiny se při pečení odpaří a slupka a jádřince odpadnou. Rozpor: u hnědého cukru uvádí zdroj 1 lb 4 oz (567 g) proti 3¾ hrnku (asi 750 g při běžném poměru); použita je hodnota z kolonky Ounces, verified je proto false. Muškátový oříšek (½ oz, 1¾ tbsp) i sůl (½ oz, 1 tbsp) sedí navzájem. Zdroj nepočítá s tukem na vymazání misky, není uveden. Sůl (0,23 g na porci) a cukr jsou podle zdroje nízké; dochuť podle chuti. Podávej k masu, nebo jako dezert.",
+  "source": {
+    "book": "navy-1944",
+    "page": 78,
+    "titleOriginal": "ESCALLOPED APPLES"
+  },
+  "verified": false,
+  "quote": "Cut apples into wedges. Core and peel."
+}

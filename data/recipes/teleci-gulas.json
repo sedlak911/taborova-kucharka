@@ -1,0 +1,146 @@
+{
+  "id": "teleci-gulas",
+  "title": "Telecí guláš",
+  "titleOriginal": "Veal Stew",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 165,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 510,
+      "unit": "g",
+      "note": "bez kosti (zdroj 28 lb boneless; varianta s kostí 40 lb)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 200,
+      "unit": "ml",
+      "note": "masový vývar (Meat Stock, str. 216), množství ve zdroji chybí – odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 45,
+      "unit": "g",
+      "note": "na obalení masa i na zahuštění omáčky (zdroj 1 lb 8 oz + 1 lb)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "note": "do obalovací směsi"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "do obalovací směsi"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opečení masa",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 180,
+      "unit": "g",
+      "note": "nakrájená na čtvrtky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 180,
+      "unit": "g",
+      "note": "nakrájený na velké kostky"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "zelene-fazolky-v-konzerve",
+      "amount": 340,
+      "unit": "g",
+      "note": "z konzervy včetně nálevu (zdroj 3 No. 10 cans, 18 lb 15 oz); čerstvé nebo mražené asi 200 g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 30,
+      "unit": "ml",
+      "note": "na rozmíchání mouky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej maso na větší kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "Smíchej mouku se solí a pepřem.",
+      "minutes": 2
+    },
+    {
+      "text": "Obal maso v mouce.",
+      "minutes": 5
+    },
+    {
+      "text": "Za stálého míchání opékej maso na tuku dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Zalij vývarem nebo vodou, přikryj pokličkou a duš.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej cibuli a celer.",
+      "minutes": 45
+    },
+    {
+      "text": "Přidej rajčata a fazolky a duš dalších 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Sceď vývar z masa a zeleniny.",
+      "minutes": 2
+    },
+    {
+      "text": "Rozmíchej mouku s vodou a vmíchej ji do vývaru.",
+      "minutes": 3
+    },
+    {
+      "text": "Za stálého míchání přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Vrať omáčku k masu a zelenině a znovu prohřej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 8 oz (Portion: approx. 8 ounces, 1 cup); pro 4 porce faktor 0,04. Maso: boneless 28 lb (510 g); varianta s kostí (40 lb) jinde. Množství vývaru/vody („Meat Stock nebo water, hot“) ve zdroji chybí: odhad 5 l na 100 porcí (≈ 0,5 l na kg masa), `verified: false`; masový vývar ze str. 216 zvolen jako hovězí. Mouka: 1 lb 8 oz na obalení + 1 lb na zahuštění sečteno do jednoho řádku. Sádlo (Fat) nahrazeno řepkovým olejem 1:1 (třída fat), sádlo v original. Zelené fazolky zůstávají konzervované (3 No. 10 cans, hmotnost včetně nálevu), makra USDA konzervy (15 kcal/100 g) jsou asi poloviční oproti čerstvým (31 kcal), proto samostatná surovina; nálev jde do omáčky. Sůl 6 oz na 100 porcí dává 2,75 g na porci (třída seasoning, nález nad rozsahem) – doporučuji ubrat na cca 1,5 g na porci. Zdroj neuvádí brambory, proto id i název „Telecí guláš“. Varianty z téže stránky (pie s bramborovou nebo sušenkovou krustou) nepřebírám. Kotlík zdroje (cover kettle) = dušení na plotně, tag kotlik. Bilance 1,95×: suroviny na 100 porcí ≈ 84 lb, porce zdroje 8 oz (50 lb); rozdíl dělá ztráta masa varem (~30 %), nálev v konzervovaných rajčatech a fazolkách a vývar vsáklý do zeleniny. Zdroj má takto, nechávám.",
+  "source": {
+    "book": "navy-1944",
+    "page": 158,
+    "titleOriginal": "VEAL STEW"
+  },
+  "verified": false,
+  "quote": "Cover kettle tightly. Let simmer about 2 hours or until tender."
+}

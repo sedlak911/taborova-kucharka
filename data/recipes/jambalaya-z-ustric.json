@@ -1,0 +1,92 @@
+{
+  "id": "jambalaya-z-ustric",
+  "title": "Jambalaya z ústřic",
+  "titleOriginal": "Oyster Jambalaya",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mekkysi",
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 95,
+      "unit": "g",
+      "note": "suchá; odpovídá 16 lb uvařené rýže ze zdroje (odhad 1/3)"
+    },
+    {
+      "ingredientId": "rybi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "místo ústřicového nálevu (oyster liquor or stock); lze použít scezený nálev z ústřic"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "nebo jiný tuk ze zdroje (Butter or other fat)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 9,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "kajenský pepř"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 110,
+      "unit": "g",
+      "note": "vařená, nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "ustrice",
+      "amount": 440,
+      "unit": "g",
+      "note": "3 gal vyloupaných ústřic, hmotnost odhadnuta"
+    }
+  ],
+  "steps": [
+    { "text": "Uvař bílou rýži podle návodu na obal.", "minutes": 20 },
+    { "text": "Přiveď k varu vývar.", "minutes": 4 },
+    { "text": "Mezitím v druhém hrnci smíchej máslo, mouku, sůl a kajenský pepř.", "minutes": 2, "parallel": true },
+    { "text": "Vmíchej směs do horkého vývaru a za stálého míchání vař, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Přidej rajčata, šunku a ústřice a pomalu vař asi 10 minut, dokud se okraje ústřic nezkroutí.", "minutes": 10 },
+    { "text": "Podávej horké na uvařené rýži." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí; porce je přibližně 8 oz s rýží. Ústřicový nálev (oyster liquor or stock) nahrazen rybím vývarem (`rybi-vyvar`); lze použít i scezený nálev z ústřic. Ústřice ve zdroji jen jako 3 gal bez hmotnosti: odhad 8 lb na galon (24 lb na 100 porcí), tedy 440 g na 4 porce, `verified: false`. Rýže ve zdroji je uvedena uvařená (16 lb, odkaz na rýži ze strany 25); do receptu jde suchá rýže přepočtená odhadem 1/3 hmotnosti uvařené. Rajčata z konzervy (2 No. 10 cans). Sůl a kajenský pepř jsou koření, přepočtené ze zdroje (2 oz soli, 1/4 oz kajenského pepře). Bilance: check:recipe dává 306 g na porci proti 227 g (8 oz) ve zdroji, tedy o třetinu víc; rozdíl je z odhadu ústřic a rýže, check nehlásí nález. Ústřice jsou drahé, proto recept není levný.",
+  "source": {
+    "book": "navy-1944",
+    "page": 96,
+    "titleOriginal": "OYSTER JAMBALAYA"
+  },
+  "verified": false
+}

@@ -1,0 +1,99 @@
+{
+  "id": "zakladni-kremova-polevka",
+  "title": "Základní krémová zeleninová polévka",
+  "titleOriginal": "Vegetable Cream Soups (basic recipe)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 610,
+      "unit": "ml",
+      "note": "ohřát téměř k varu, nevařit"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 5,
+      "unit": "g",
+      "note": "nakrájená nadrobno",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 200,
+      "unit": "g",
+      "note": "vařená, nakrájená na kostičky nebo rozmixovaná",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ohřej mléko téměř k varu, ale nenech ho vařit.",
+      "minutes": 8
+    },
+    {
+      "text": "Rozpusť máslo, přidej nadrobno nakrájenou cibuli a smaž ji dosklovita.",
+      "minutes": 10
+    },
+    {
+      "text": "Vmíchej mouku do tuku s cibulí a směs zašlehej do horkého mléka.",
+      "minutes": 3
+    },
+    {
+      "text": "Vař za častého míchání, dokud lehce nezhoustne.",
+      "minutes": 20
+    },
+    {
+      "text": "Vmíchej sůl, pepř a vařenou zeleninu, pak polévku před podáváním znovu ohřej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Základní recept na krémové zeleninové polévky (100 porcí, 1 šálek ≈ 8 oz, výtěžek cca 6 gal). Zdroj nedefinuje druh zeleniny („one or several kinds of vegetables“): použita mrkev, jiné varianty (hrách, brokolice, špenát, cuketa) lze použít ve stejném množství vařené zeleniny. Zdroj uvádí 2 gal vařené zeleniny bez hmotnosti: odhad 0,66 g/ml (cca 5 kg na 100 porcí), tedy 200 g na 4 porce; vařená mrkev v katalogu chybí, je použita syrová (rozdíl v kcal je malý). Mléko je čerstvé (zdroj není sušené). Máslo je použito jako „butter or other fat“, na orestování cibule i do jíšky. Sůl 2 oz dává 4 g na 4 porce; podle chuti ji ubrat. Pepř 1 čajová lžička ≈ 2,3 g. Mléko se nesmí vařit. Zelenina může být rozmixována (zdroj: „diced or pureed“). Porce 1 cup = 8 oz (227 g) ze zdroje; spočtená hmotnost porce 219 g je 96 % této hodnoty, bilance sedí. Nález „mimo 250–450 g“ je obecný rozsah pro polévky a na řídkou krémovou polévku 1 cup nedopadá.",
+  "source": {
+    "book": "navy-1944",
+    "page": 238,
+    "titleOriginal": "VEGETABLE CREAM SOUPS"
+  },
+  "verified": false,
+  "quote": "Heat milk to boiling temperature. Do not boil."
+}

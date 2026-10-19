@@ -1,0 +1,40 @@
+{
+  "id": "cervene-fazole-s-kukurici",
+  "title": "Červené fazole s kukuřicí",
+  "titleOriginal": "Kidney Beans and Corn",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": ["levne", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "kukurice-konzervovana", "amount": 360, "unit": "g", "note": "scezená (whole kernel, drained)" },
+    { "ingredientId": "spek", "amount": 9, "unit": "g", "note": "opečená dochrupava a nasekaná nadrobno" },
+    { "ingredientId": "fazole-cervene", "amount": 45, "unit": "g", "note": "sušené; zdroj uvádí uvařené fazole" },
+    { "ingredientId": "voda", "amount": 65, "unit": "ml", "note": "vsáknutá do fazolí při vaření" },
+    { "ingredientId": "chili-omacka", "amount": 9, "unit": "g" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, důkladně je opláchni a namoč do studené vody na 6 hodin. Nescedí." },
+    { "text": "Zalij fazole vařící vodou, přiveď k varu a nech asi 30 minut probublávat.", "minutes": 35 },
+    { "text": "Dovař fazole do měkka, ale ne rozvařené.", "minutes": 60 },
+    { "text": "Mezitím slaninu opeč na pánvi dochrupava a nasekej ji nadrobno.", "minutes": 8, "parallel": true },
+    { "text": "Mezitím kukuřici zahřej k varu a dobře ji sceď.", "minutes": 6, "parallel": true },
+    { "text": "Fazole sceď a nech okapat.", "minutes": 2 },
+    { "text": "Smíchej kukuřici, slaninu, fazole, chili omáčku, sůl a pepř.", "minutes": 3 },
+    { "text": "Směs ohřej k varu.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj uvádí kukuřici (3 konzervy No. 10, 19 lb 14 oz scezené), 6 lb uvařených ledvinových fazolí, 8 oz slaniny, 8 oz chili omáčky, 3 oz soli (6 lžic) a 1 lžičku pepře; porce 4–5 oz (asi 2/3 hrnku), výtěžek 100 porcí. Fazole zdroj neuvádí jako sušené: jsou uvařené z fazolí z téže strany (Boiled Navy, Kidney or Lima Beans II, PDF 261). Proto je tu sušená hmotnost odhadnutá jako uvařená / 2,5 (odhad bobtnání, 45 g na 4 porce) a rozdíl uvařené a sušené hmotnosti je vsáklá voda (65 ml, třída linear). Voda z vaření, která se po scezení nepoužije, do receptu nepatří. Tuk ze slaniny zůstává na pánvi, do jídla jde jen opečená slanina. Chili omáčka je v katalogu jako chili-omacka (USDA tomato chili sauce); kečup by byl sladší. Sůl 6 g na 4 porce je přes třídu seasoning; při chuti ubrat. Doporučení: fazole namočit přes noc, ale postup bez toho zůstává podle zdroje. Čas 105 min = vaření fazolí (95 min) a závěrečné kroky; 6hodinové namáčení se do timeMinutes nepočítá (tag pripravit-predem). Časy dovaření (60 min) jsou odhad, zdroj je nedává.",
+  "source": {
+    "book": "navy-1944",
+    "page": 261,
+    "titleOriginal": "KIDNEY BEANS AND CORN"
+  },
+  "verified": false,
+  "quote": "Combine corn, bacon, kidney beans, chili sauce, salt and pepper."
+}

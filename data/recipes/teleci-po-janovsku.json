@@ -1,0 +1,121 @@
+{
+  "id": "teleci-po-janovsku",
+  "title": "Telecí po janovsku obalené omeletou",
+  "titleOriginal": "Meat Genovese (Carne alla genovese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 480,
+      "unit": "g",
+      "note": "tlustší libové plátky bez kostí; zdroj „about a pound“ (1 lb = 454 g), zaokrouhleno na 120 g na porci"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "zdroj „three or four eggs“; zvoleno 4 ks na omeletu o velikosti masa"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "note": "zdroj „a pinch of grated cheese“; odhad asi 2 lžíce strouhaného sýra"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "nasekaná hrst; zdroj „some chopped parsley“"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "asi 15 g na omeletu („in butter“) a 15 g na opečení plátku („a piece of butter“)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 10,
+      "unit": "g",
+      "note": "zdroj „some flour“, na obalení plátku; odhad asi 1 lžíce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti; zdroj „salt and pepper“"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 200,
+      "unit": "ml",
+      "note": "zdroj „some soup stock“ (vývar; zdroj také připouští vodu); přilévá se na dokončení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Telecí maso nakrájej na silné plátky a rozklep je dobře, aby byly tenké a rovné.",
+      "minutes": 5
+    },
+    {
+      "text": "Ve vejcích rozšlehej sůl, pepř, strouhaný sýr a nasekanou petržel.",
+      "minutes": 3
+    },
+    {
+      "text": "Na rozpuštěném másle usmaž z vajec omeletu zhruba o velikosti plátku masa.",
+      "minutes": 5
+    },
+    {
+      "text": "Omeletu polož na maso; kde přečnívá, přeřízni ji, a doplň místa, kde chybí, aby maso bylo celé zakryté.",
+      "minutes": 3
+    },
+    {
+      "text": "Maso s omeletou pevně sroluj a převaž nití.",
+      "minutes": 3
+    },
+    {
+      "text": "Srolovaný plátek posyp moukou, dej do hrnce s kouskem másla a osol a opepři.",
+      "minutes": 2
+    },
+    {
+      "text": "Opékej, dokud nezhnědne ze všech stran.",
+      "minutes": 8
+    },
+    {
+      "text": "Podlij vývarem a duš na mírném ohni, dokud maso nezměkne a omáčka nezhoustne.",
+      "minutes": 30
+    },
+    {
+      "text": "Nit odstraň, plátek nakrájej a podávej v omáčce."
+    }
+  ],
+  "modernNote": "Zdroj uvádí „about a pound“ masa a „three or four eggs“ bez počtu porcí; zvoleno 480 g tenkých libových plátků (120 g na porci) a 4 vejce na omeletu. Odhady z běžné praxe pro 4 porce: parmezan 10 g (zdroj „pinch“), petržel 10 g, máslo 30 g (zdroj ho uvádí dvakrát), mouka 10 g, sůl 5 g, pepř 1 g a vývar 200 ml, obojí podle chuti a konzistence omáčky. Zdroj neuvádí dobu dušení; 30 minut je odhad. Vývar: v originále „soup stock“, zdroj připouští i vodu. Makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 69,
+    "titleOriginal": "MEAT GENOVESE (CARNE ALLA GENOVESE)"
+  },
+  "verified": false,
+  "quote": "Take thick slices of good lean veal, weighing about a pound, beat it and flatten it well."
+}

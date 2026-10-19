@@ -1,0 +1,151 @@
+{
+  "id": "berani-kyta-v-hrnci",
+  "title": "Dušená jehněčí kýta",
+  "titleOriginal": "Leg of Mutton in Casserole (Cosciotto di castrato in cazzaruola)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 225,
+  "difficulty": 2,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 750,
+      "unit": "g",
+      "group": "Maso",
+      "note": "kýta nebo plec, vykostěná; nákupní hmotnost s kostí (asi 580 g masa)",
+      "original": {
+        "ingredientId": "skopove-maso",
+        "amount": 750,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 60,
+      "unit": "g",
+      "group": "Maso",
+      "note": "proužky slaniny na prošpikování, osolené a opepřené"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Maso",
+      "note": "mírně, podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Maso",
+      "note": "na slaninu"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Maso",
+      "note": "kousek másla na opečení"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 velká, celá, s hřebíčky"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "zdroj: 2–3 celé hřebíčky zapíchnout do cibule; katalog má mletý"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "1 hrnek; zdroj dovoluje i vodu"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 300,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "čerstvá, nakrájená na kousky"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "svazek zelených bylinek: petržel, celer a mrkev"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "do svazku bylinek"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 30,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "do svazku bylinek"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso vykost, prošpikuj proužky slaniny osolenými a opepřenými a lehce osol.",
+      "minutes": 15
+    },
+    {
+      "text": "Maso pevně svaž kuchyňským provázkem.",
+      "minutes": 3
+    },
+    {
+      "text": "Do hrnce dej máslo, cibuli s hřebíčky a maso; na ohni opékej, dokud maso nezačne hnědnout.",
+      "minutes": 10
+    },
+    {
+      "text": "Hrnec sundej z ohně, přilij vývar, přidej svazek petržele, celeru a mrkve a nakrájená rajčata.",
+      "minutes": 2
+    },
+    {
+      "text": "Hrnec přikryj, vrať na mírný oheň a duš asi tři hodiny; občas maso obrať.",
+      "minutes": 180
+    },
+    {
+      "text": "Maso vyjmi, cibuli vyhoď, omáčku protlač přes síto a sejmi z ní tuk.",
+      "minutes": 10
+    },
+    {
+      "text": "Maso nakrájej na plátky, polož na mísu a polej omáčkou.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej teplé."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 72) nedává váhu masa ani počet porcí. Kýta nebo plec („shoulder or leg“) jsou odhadnuty na asi 145 g masa na porci, tj. asi 580 g vykostěného masa, což je 750 g s kostí (ediblePortion jehněčího 0,77). Skopové (cosciotto di castrato) je modernizováno na jehněčí podle katalogu. Ostatní množství jsou odhady z běžné praxe: slanina 60 g, máslo 20 g, sůl 6 g, pepř 1 g, cibule 150 g, vývar 250 ml (zdroj „a cup of broth, or of water“; lze použít i vodu), rajčata 300 g (zdroj „some tomatoes“), svazek bylinek (petržel 10 g, celer 20 g, mrkev 30 g), hřebíček 1 g (zdroj „clover“ = hřebíček; katalog má mletý, v kroku se mají použít celé hřebíčky). Dušení tři hodiny podle zdroje; zdroj varuje před přepečením, proto doporučuji kontrolovat maso od 2,5 hodiny. Tuk z omáčky sejmi lžící před podáním. Maso se v tomto receptu vyjímá z omáčky a podává, nevyhazuje se.",
+  "source": {
+    "book": "italian-1919",
+    "page": 61,
+    "titleOriginal": "LEG OF MUTTON IN CASSEROLE (Cosciotto di castrato in cazzaruola)"
+  },
+  "verified": false,
+  "quote": "The mutton must not be overdone, for in this case it cannot be sliced."
+}

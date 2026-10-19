@@ -1,0 +1,109 @@
+{
+  "id": "slaninova-zalivka",
+  "title": "Teplá slaninová zálivka",
+  "titleOriginal": "Hot Bacon Dressing",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "spek",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájená na kostičky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 55,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 55,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pánvi opékej slaninu s cibulí, dokud slanina nezkřupne a cibule nezesklovatí.",
+      "minutes": 10
+    },
+    {
+      "text": "Slij tuk do misky a nech ho stranou; slaninu s cibulí odlož.",
+      "minutes": 2
+    },
+    {
+      "text": "V hrnci zahřej vodu s octem do varu.",
+      "minutes": 4
+    },
+    {
+      "text": "Přidej cukr, sůl a pepř.",
+      "minutes": 1
+    },
+    {
+      "text": "Smíchej odlitý tuk s moukou na hladkou pastu.",
+      "minutes": 2
+    },
+    {
+      "text": "Pastu vmíchej do horké tekutiny a znovu zahřej do varu.",
+      "minutes": 3
+    },
+    {
+      "text": "Vař asi 10 minut, dokud lehce nezhoustne.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej slaninu s cibulí a dochuť."
+    }
+  ],
+  "modernNote": "Zdroj nabízí výtěžek 1 gal na 100 porcí; porce není v hlavičce uvedena, proto originalYield 100. Tuk ze slaniny se nevyhazuje, ale vrací se do jíšky (zdroj: Drain off fat, Blend fat and flour). Sůl a pepř jsou na 4 porce v pořádku, sůl 0,92 g. Zdroj ve stejné tabulce uvádí i Boiled dressing (PDF 211); ten zde není zpracován. Pokyn „Add to salad just before serving“ je výdejní instrukce a je vynechán. Nález soli 0,23 g na porci (pod 0,5 g) odpovídá zdroji (½ oz soli na 100 porcí), ponecháno; doporučení: dochutit podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 210,
+    "titleOriginal": "HOT BACON DRESSING"
+  },
+  "verified": true
+}

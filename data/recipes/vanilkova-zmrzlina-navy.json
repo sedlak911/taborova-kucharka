@@ -1,0 +1,75 @@
+{
+  "id": "vanilkova-zmrzlina-navy",
+  "title": "Vanilková zmrzlina",
+  "titleOriginal": "Ice Cream",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "smetana-ke-slehani",
+      "amount": 100,
+      "unit": "ml",
+      "note": "náhrada zdrojové směsi a vody"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 120,
+      "unit": "ml",
+      "note": "náhrada zdrojové směsi a vody"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml",
+      "note": "náhrada zdrojové směsi a vody"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 70,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 3,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smetanu, odpařené mléko, cukr a vanilkový extrakt šlehej v míse, dokud se cukr úplně nerozpustí.",
+      "minutes": 5
+    },
+    {
+      "text": "Směs dej do lednice, aby vychladla na 4 °C."
+    },
+    {
+      "text": "Vychlazenou směs přelij do mrazicí nádoby nebo kovové misky.",
+      "minutes": 3
+    },
+    {
+      "text": "Dej do mrazáku a každou hodinu směs vyndej a protřepej nebo protři vidličkou, aby nevznikly velké krystaly ledu."
+    }
+  ],
+  "modernNote": "Zdroj: US Navy 1944, strana 60 (9 lb sušené směsi a 1¾ gal vody na 100 porcí; pro 4 porce 165 g směsi a 265 ml vody, obojí přečteno z obrázku). Sušená směs na zmrzlinu (commercial ice cream mix) není v katalogu a její složení zdroj neuvádí ani na straně 61 (varianty jen přidávají ovoce, kakao, ořechy; poznámka 1 mluví o neochucené směsi s vanilkovými tabletami), proto zůstává jen zde a není založena jako surovina. Nahrazena smetanou ke šlehání (100 ml), odpařeným mlékem (120 ml), polotučným mlékem (150 ml) a cukrem (70 g), vanilkový extrakt 3 ml podle poznámky 1 na straně 61. Hodnoty 100/120/150/70/3 jsou odhad (tučnost směsi asi 11 %, tj. běžná zmrzlinová směs, cukr asi 17 %), ne zdroj, proto verified false. Zdroj míchá v zmrzlinovém stroji a dosahuje 100% provzdušnění (overrun); doma nahrazeno mrazákem s protřepáváním každou hodinu, provzdušnění bude nižší. Čas 4 h a více mrazení = tag pripravit-predem, čas mrazení není v timeMinutes. Bilance v check:recipe (porce zdroje je No. 10 scoop, 5 porcí na kvart) je dána provzdušněním: z asi 95 ml směsi na porci vznikne 190 ml zmrzliny. Varianty ze strany 61 (čokoláda, káva, ovoce, ořechy) nejsou v tomto receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 60,
+    "titleOriginal": "ICE CREAM"
+  },
+  "verified": false,
+  "quote": "Combine the mix and water. Whip together in an electric mixer or with a wire whip."
+}

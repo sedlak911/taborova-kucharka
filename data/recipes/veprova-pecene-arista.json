@@ -1,0 +1,107 @@
+{
+  "id": "veprova-pecene-arista",
+  "title": "Vepřová pečeně arista",
+  "titleOriginal": "Loin of Pork Roasted (Lombo di maiale arrosto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-plec",
+      "amount": 600,
+      "unit": "g",
+      "group": "Maso",
+      "note": "vcelku, bez kosti; zdroj má kus s žebry (loin), katalog nemá karé, nejbližší je plec"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vpich",
+      "note": "2 stroužky, na plátky"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 3,
+      "unit": "g",
+      "group": "Vpich",
+      "note": "1 větvička, jehličky"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Vpich"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Vpich",
+      "note": "jen špetka, zdroj říká „a few cloves, but moderately“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "group": "Dochucení",
+      "note": "na potření masa"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 180 °C."
+    },
+    {
+      "text": "Maso osuš a na několika místech do něj nakrájej hluboké zářezy.",
+      "minutes": 5
+    },
+    {
+      "text": "Do zářezů vlož plátky česneku, jehličky rozmarýnu a kousky bobkového listu.",
+      "minutes": 5
+    },
+    {
+      "text": "Maso posyp solí, pepřem a hřebíčkem a potři olejem.",
+      "minutes": 3
+    },
+    {
+      "text": "Pečeni polož do plechu a peč v předehřáté troubě, dokud není uvnitř propečená; během pečení ji několikrát polij vlastní šťávou.",
+      "minutes": 60
+    },
+    {
+      "text": "Vyjmi pečeni z trouby, nech ji chvíli odpočinout a pak nakrájej na plátky.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej teplou, pokapanou pečenou šťávou z plechu."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 146) neuvádí žádné množství ani počet porcí; uvádí jen, že celý pečený bok s žebry má vážit 6 až 8 lb (2,7 až 3,6 kg), tedy pro větší společnost. Pro 4 porce počítám 600 g masa (asi 150 g na porci), tedy přibližně jednu šestinu zdrojového kusu. Odhady z běžné praxe: 2 stroužky česneku (asi 10 g), 1 větvička rozmarýnu (3 g), 1 bobkový list, špetka mletého hřebíčku (0,5 g), sůl 6 g, pepř 1 g a 1 lžíce olivového oleje (zdroj říká jen „oil“). Zdroj uvádí česnek, rozmarýn nebo bobkový list jako možnosti; použity všechny tři v malém množství. Doba pečení 60 minut při 180 °C je odhad pro kus 600 g s kostí; teplota a čas se mění podle velikosti kusu, měří se vpichem teploměru (vnitřek cca 70 °C). Katalog nemá karé ani kotlety; jako nejbližší kus pro pečení je použita vepřová plec (bez kosti), makra jsou tedy orientační a kus s kostmi by měl vyšší váhu na porci. Zdroj popisuje i variantu na rožni, kde se maso prokládá kousky topinky; ta se v troubě nepoužívá, proto je vynechána. Čas 90 minut je odhad včetně předehřátí a odpočinku.",
+  "source": {
+    "book": "italian-1919",
+    "page": 109,
+    "titleOriginal": "LOIN OF PORK ROASTED (Lombo di maiale arrosto)"
+  },
+  "verified": false,
+  "quote": "This roast is very popular in Italy, where they call it arista."
+}

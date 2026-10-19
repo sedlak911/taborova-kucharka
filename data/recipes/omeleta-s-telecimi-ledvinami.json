@@ -1,0 +1,112 @@
+{
+  "id": "omeleta-s-telecimi-ledvinami",
+  "title": "Omeleta s telecí ledvinou",
+  "titleOriginal": "Veal Kidney Omelet (Frittata di rognone di vitella)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-ledvina",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 větší telecí ledvina, podélně rozříznutá, s tukem; kupní hmotnost"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 lžíce, na potření ledvin; odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "střídmě, odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "střídmě, odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "rozšlehaná; zdroj říká „podle velikosti ledviny“"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "nasekaná, asi 2 větvičky; odhad"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 30,
+      "unit": "g",
+      "note": "strouhaný; zdroj říká „some grated cheese“"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na smažení omelety; zdroj říká „some butter“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ledvinu podélně rozřízni a nech na ní tuk.",
+      "minutes": 3
+    },
+    {
+      "text": "Ledvinu osol, opepři, potři olejem a opékej na pánvi nebo na grilu do propečení.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím rozšlehej vejce se solí, pepřem, nasekanou petrželkou a strouhaným sýrem.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Opečenou ledvinu nakrájej na tenké plátky.",
+      "minutes": 5
+    },
+    {
+      "text": "Plátky ledviny vmíchej do vajec.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozehřej máslo, vlij směs a smaž omeletu dozlatova z jedné strany.",
+      "minutes": 6
+    },
+    {
+      "text": "Omeletu opatrně obrať a dopeč i z druhé strany.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej horkou, nakrájenou na kousky."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí jednu telecí ledvinu, olej, sůl a pepř „v přiměřeném množství“, vejce „podle velikosti ledviny“, strouhaný sýr a máslo bez gramáže a porce neudává. Množství jsou odhad z běžné praxe pro 4 porce: 1 větší telecí ledvina (400 g, počet ze zdroje „a veal kidney“), 4 vejce (200 g), 30 g parmezánu, 20 g másla, 15 ml oleje, 4 g soli a 1 g pepře. Petržel 10 g (asi 2 větvičky). Ledvinu zdroj smaží s tukem; postup na pánvi nebo grilu je domácí náhrada za grilování. Doba 30 minut je odhad. Kupní hmotnost ledvin zahrnuje asi 12 % odpadu (tuk, žilky, blány), který započítává ediblePortion suroviny.",
+  "source": {
+    "book": "italian-1919",
+    "page": 52,
+    "titleOriginal": "VEAL KIDNEY OMELET (Frittata di rognone di vitella)"
+  },
+  "verified": false,
+  "quote": "Take a veal kidney, open it lengthwise and leave all its fat."
+}

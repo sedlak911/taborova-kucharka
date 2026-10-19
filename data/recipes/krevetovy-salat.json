@@ -1,0 +1,92 @@
+{
+  "id": "krevetovy-salat",
+  "title": "Krevetový salát s celerem",
+  "titleOriginal": "Shrimp and Celery Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "celer",
+    "horcice",
+    "korysi",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "krevety",
+      "amount": 200,
+      "unit": "g",
+      "note": "vařené a loupané; zdroj 20 lb krevet se skořápkou (A.P.), po loupání odhad 55 % (360 g → 200 g)"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 9,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 110,
+      "unit": "g",
+      "note": "nakrájený nadrobno"
+    },
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 35,
+      "unit": "g",
+      "note": "hrubě nakrájený, na podávání"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g",
+      "note": "kupovaná majonéza"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Krevety oloupej, odstraň z nich černou žílu a omyj je.",
+      "minutes": 10
+    },
+    {
+      "text": "Celer nakrájej nadrobno a salát hrubě nakrájej.",
+      "minutes": 5
+    },
+    {
+      "text": "V míse smíchej krevety, citronovou šťávu a celer.",
+      "minutes": 2
+    },
+    {
+      "text": "Osol a opepři."
+    },
+    {
+      "text": "Přidej majonézu a opatrně promíchej, aby se krevety nerozlámaly.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej na hrubě nakrájeném salátu."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce ¾ cup (asi 5 oz), výtěžek 5 gal. Krevety: 20 lb A.P. (se skořápkou, vařené) → loupané 55 % (odhad; zdroj uvádí 2½ gal jedlé části, což by odpovídalo asi 60 %, tedy ~220 g). Na 4 porce je porce podle přepočtu ~110 g, zatímco zdroj počítá 5 oz včetně skořápek a salátu, takže porce je lehčí – pro hlavní jídlo přidej krevet nebo větší porci. Sůl 6 g je dle třídy seasoning (lineárně by vyšlo 3,4 g), ubrat dle chuti. Majonéza je kupovaná (zdroj odkazuje na domácí Mayonnaise na s. 204 = PDF 212; nerozepisováno). Salát a citronová šťáva jsou v množství ze zdroje.",
+  "source": {
+    "book": "navy-1944",
+    "page": 204,
+    "titleOriginal": "SHRIMP AND CELERY SALAD"
+  },
+  "verified": false
+}

@@ -1,0 +1,61 @@
+{
+  "id": "maslo-ke-steaku",
+  "title": "Máslo ke steaku",
+  "titleOriginal": "Steak Butter",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 9,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 12,
+      "unit": "ml",
+      "note": "šťáva z půl citronu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.07,
+      "unit": "g",
+      "note": "zdroj uvádí jen „pepper“, bere se černý"
+    }
+  ],
+  "steps": [
+    { "text": "Máslo vyšlehej do krémova.", "minutes": 3 },
+    { "text": "Přidej cibuli, citronovou šťávu, sůl a pepř.", "minutes": 1 },
+    { "text": "Vše důkladně promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (2 lb másla, 1½ qt), 1 polévková lžíce (½ oz) na porci. Cibule je ve zdroji „minced“, proto je nadrobno nasekaná už v surovinách. Citronová šťáva ze zdroje je ½ pintu (4 citrony na 100 porcí), pro 4 porce vychází 12 ml, tedy zhruba půl citronu. Sůl odpovídá zdroji (1 oz = 2 lžíce). Podávej k steaku nebo k hovězím burgerům (zdroj odkazuje na str. 110). Doporučení: sůl lze ubrat dle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 191,
+    "titleOriginal": "STEAK BUTTER"
+  },
+  "verified": true
+}

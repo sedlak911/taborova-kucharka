@@ -1,0 +1,101 @@
+{
+  "id": "dusene-kure-navy",
+  "title": "Dušené kuře",
+  "titleOriginal": "Braised Poultry",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 240,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1810,
+      "unit": "g",
+      "note": "nákupní hmotnost vykuchaných kuřat (100 lb, ≈ 20 ks), nebo jiná drůbež"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 75,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "note": "do obalovací směsi"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g",
+      "note": "do obalovací směsi"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 50,
+      "unit": "g",
+      "note": "na opečení na pánvi",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na podlití; zdroj Chicken Stock (s. 216)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 175 °C."
+    },
+    {
+      "text": "Kuře připrav a rozděl na kusy vhodné k podávání.",
+      "minutes": 10
+    },
+    {
+      "text": "V míse smíchej mouku, sůl a pepř a kousky kuřete v nich obal.",
+      "minutes": 5
+    },
+    {
+      "text": "Na tuku dozlatova opeč kousky kuřete z obou stran.",
+      "minutes": 12
+    },
+    {
+      "text": "Opečené kusy přelož do pekáče, přilij vývar tak, aby zakryl dno, a přikryj.",
+      "minutes": 3
+    },
+    {
+      "text": "Duš v přikrytém pekáči v troubě při 175 °C 2½ až 3½ hodiny, dokud maso nezměkne.",
+      "minutes": 210
+    },
+    {
+      "text": "Zatímco se kuře duší, několikrát ho obrať a polévej šťávou.",
+      "minutes": 30,
+      "parallel": true
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (1 lb kuřete vykuchaného na porci). Přepočet na 4 porce: kuře 1,81 kg, mouka 75 g, sůl 11 g, pepř 2 g, tuk 50 g, vývar 150 ml. Sůl 11 g je 2,75 g na porci, doporučuji ubrat na cca 7 g. Tuk ze zdroje (kuřecí tuk nebo jiný) je v původní surovině sádlo; moderně použit řepkový olej na opečení. Zdroj uvádí, že vývar lze nahradit 1 galonem vody, zde zůstává vývar. Dušení 2½–3½ hodiny platí pro velkou dávku; u 4 porcí bude kuře měkké dříve (tabulka zdroje: 40 min na libru, tj. cca 160 min), proto zkoušej měkkost po 90 minutách. Zdroj doporučuje omáčku ze šťávy z dušení, v postupu zde není. Zdroj jako alternativu uvádí pečená kuřata místo smažených nebo krůtu či jinou drůbež (zde nebráno v úvahu, jen v poznámce k surovině). Dušení v parním kotli zdroj uvádí jako možnost; zde je použita trouba. Nález maso 308 g na porci: je to hmotnost masa bez kostí z 1 lb kuřete na porci, což odpovídá zdroji (Portion 3/4 až 1 lb); ponecháno. Kalorie cca 844 na porci: kuře s kůží (katalog 215 kcal/100 g) a olej na opečení.",
+  "source": {
+    "book": "navy-1944",
+    "page": 168,
+    "titleOriginal": "BRAISED POULTRY"
+  },
+  "verified": true,
+  "quote": "Braise in moderate oven (350°F.) 2½ to 3½ hours or until tender."
+}

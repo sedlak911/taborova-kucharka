@@ -1,0 +1,113 @@
+{
+  "id": "celer-s-maslem",
+  "title": "Celer s máslem",
+  "titleOriginal": "Celery with Butter (Sedano al burro)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 800,
+      "unit": "g",
+      "group": "Celer",
+      "note": "očištěné řapíky bez listů a tvrdých částí; zdroj „two heads of celery for each person“ = 8 hlav, jedlá část odhadem asi 100 g na hlavu"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Blanšírování",
+      "note": "osolená voda na vaření, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Blanšírování",
+      "note": "do vody na vaření (2 g na 1 l), slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Opékání a dušení",
+      "note": "zdroj „a piece of butter“, odhad na opečení celeru"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Opékání a dušení",
+      "note": "horký masový vývar (zdroj „hot stock (soup stock or chicken broth)“); množství zdroj neuvádí, odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "podle chuti, zdroj „salt and pepper“"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Velký hrnec mírně osolené vody přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím celer několikrát propláchni pod tekoucí vodou, odstraň tvrdé řapíky a listy, ořízni konce a osuš.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Celer ponoř do vroucí osolené vody a vař do změknutí, asi 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Sceď a osuš.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozpusť máslo a celer v něm opékej dozlatova, často ho obracej.",
+      "minutes": 10
+    },
+    {
+      "text": "Podlij horkým vývarem, přikryj pokličkou a krátce povař.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsně před podáváním dochuť solí a pepřem."
+    },
+    {
+      "text": "Podávej horký."
+    }
+  ],
+  "modernNote": "Gentile uvádí postup bez množství celeru a bez počtu porcí, jen „dvě hlavy celeru na osobu“ (8 hlav pro 4 porce). Hlava v italské kuchyni je menší než supermarketová, proto odhad 100 g jedlé části na hlavu, celkem 800 g (200 g na porci, horní mez běžné porce). Máslo 30 g, masový vývar 250 ml a sůl 3 g a pepř 0,5 g jsou odhady z běžné praxe; zdroj „a piece of butter“ a „hot stock“ nemá množství. Blanšírovací voda 1 l a sůl 2 g na 1 l jsou domácí hodnoty (slévají se, do jídla nejdou). Doba vaření 15 minut je odhad („cooked“ bez času); kniha počítá celkově asi tři čtvrtě hodiny před podáváním, zde jsou kroky sečteny. Vývar je ze zdroje masový (kniha v kapitole 1 definuje „broth“ jako hovězí), recept tedy není bez masa; bezmasá varianta: zeleninový vývar v řádku a hovězí do original. Zdroj zmiňuje hnědý vývar na dochucení, pokud je po ruce; nahrazen solí a pepřem, jak zdroj uvádí jako druhou možnost.",
+  "source": {
+    "book": "italian-1919",
+    "page": 119,
+    "titleOriginal": "CELERY WITH BUTTER (Sedano al burro)"
+  },
+  "verified": false,
+  "quote": "Two heads of celery for each person."
+}

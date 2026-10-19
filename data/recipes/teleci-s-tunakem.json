@@ -1,0 +1,176 @@
+{
+  "id": "teleci-s-tunakem",
+  "title": "Telecí s tuňákovou omáčkou",
+  "titleOriginal": "Veal with Tunny (Vitello tonnato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 125,
+  "difficulty": 2,
+  "tags": [
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 600,
+      "unit": "g",
+      "group": "Telecí maso",
+      "note": "bez kostí, zbavené tuku a šlach; zdroj 2 lb (910 g) pro celé jídlo, snížili jsme na 150 g na porci"
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 16,
+      "unit": "g",
+      "group": "Telecí maso",
+      "note": "4 ks (2 do masa, 2 do omáčky), asi 4 g na kus; odhad hmotnosti"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "group": "Vývar",
+      "note": "¼ cibule, našpikovaná hřebíčkem; jen na vaření, nejí se"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Vývar",
+      "note": "2 hřebíčky do cibule"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Vývar",
+      "note": "1 list; jen na vaření"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Vývar",
+      "note": "1 stonek; jen na vaření"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Vývar",
+      "note": "1 mrkev; jen na vaření"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "group": "Vývar",
+      "note": "stonky petrželky; jen na vaření"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "group": "Vývar",
+      "note": "dost, aby maso bylo zcela ponořené; slije se, vývar se do jídla nepočítá (zdroj ho doporučuje na rizoto)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Vývar",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "tunak-v-konzerve",
+      "amount": 75,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "tuňák v olivovém oleji z konzervy; zdroj ¼ lb na 2 lb masa, úměrně 600 g"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "odhad („in abundance“), přilévat postupně, dokud omáčka zůstane tekutá"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Omáčka",
+      "note": "1 celý citron, vymačkat"
+    },
+    {
+      "ingredientId": "kapary",
+      "amount": 15,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "„some capers“ v octě, odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso zbav tuku a šlach. Dvě ančovičky vymyj, vykosti a podélně rozpůl, pak je zapíchni do masa.",
+      "minutes": 10
+    },
+    {
+      "text": "Maso volně svaž provázkem, ne příliš pevně.",
+      "minutes": 3
+    },
+    {
+      "text": "Čtvrtku cibule našpikuj hřebíčkem a dej do hrnce s vodou spolu s bobkovým listem, celerem, mrkví a petrželí.",
+      "minutes": 5
+    },
+    {
+      "text": "Vodu dobře osol, přiveď k varu a teprve pak do ní vlož maso.",
+      "minutes": 8
+    },
+    {
+      "text": "Maso vař 90 minut, dokud je zcela ponořené a měkké.",
+      "minutes": 90
+    },
+    {
+      "text": "Mezitím nasekej tuňáka z konzervy a dvě ančovičky, rozetři nožem a protlač sítkem.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím do pasty přidávej po troškách olivový olej a vymačkej celý citron, aby omáčka zůstala tekutá.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím vmíchej do omáčky kapary nakládané v octě.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Maso vyjmi a osuš.",
+      "minutes": 5
+    },
+    {
+      "text": "Maso vlož do omáčky, přikryj a nech 2–3 dny v lednici."
+    },
+    {
+      "text": "Podávej studené, nakrájené na tenké plátky, s omáčkou."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 90) uvádí jen suroviny a postup, porce neuvádí. Čísla z knihy pro celé jídlo: 2 lb masa (910 g, asi 227 g na porci), ¼ lb tuňáka, 2 + 2 ančovičky, 1 citron. Protože 227 g masa na porci je nad doporučením 120 až 150 g, je maso sníženo na 600 g (150 g na porci) a omáčka úměrně (tuňák 75 g, olivový olej 100 ml, kapary 15 g); ančovičky a citron zůstávají. Odhady: olivový olej, kapary, voda 1,5 l (slévá se, vessel), sůl 2 g/l, zelenina a koření na vývar (¼ cibule, celer, mrkev, petrželová nať, bobkový list, 2 hřebíčky) jen na vaření. Ančovičky: 4 ks à ~4 g (katalog nemá kusovou hmotnost). Vývar z vaření (asi 1 l po scezení) zdroj doporučuje na rizoto; do jídla se nepočítá. Maso se nejí z vývaru, ale vyjímá se, takže makra jsou orientační. Recept se připravuje 2–3 dny předem (čekání v lednici bez minut, tag pripravit-predem); timeMinutes je aktivní čas a vaření, bez čekání. Zdroj nevysvětluje, jak servírovat; podávání v tenkých plátcích je z textu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 72,
+    "titleOriginal": "VEAL WITH TUNNY (Vitello tonnato)"
+  },
+  "verified": false,
+  "quote": "Serve the veal cold, in thin slices, with the sauce."
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "skopove-maso",
+    "name": "Skopové maso s kostí",
+    "aliases": [
+      "skopové",
+      "skopové kotlety",
+      "skopové maso",
+      "mutton"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 298,
+      "protein": 15.4,
+      "carbs": 0.22,
+      "fat": 26.19,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.8,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172517 (Lamb, New Zealand, imported, loin chop, separable lean and fat, raw); skopové v USDA chybí, náhrada jehněčí kotleta s tukem",
+      "refuse": "USDA fdc:172517 refusePct 20 (kost a pojivo) → ediblePortion 0.80"
+    }
+  },
+  {
+    "id": "brzlik",
+    "name": "Brzlík (telecí)",
+    "aliases": [
+      "brzlík",
+      "telecí brzlík",
+      "sweetbreads",
+      "veal sweetbread",
+      "thymus"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 101,
+      "protein": 17.21,
+      "carbs": 0,
+      "fat": 3.07,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172542 (Veal, variety meats and by-products, thymus, raw)",
+      "refuse": "USDA fdc:172542 refusePct 0"
+    }
+  }
+]

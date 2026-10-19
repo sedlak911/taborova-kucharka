@@ -1,0 +1,37 @@
+{
+  "id": "kremova-polevka-ze-zeleneho-hrachu",
+  "title": "Krémová polévka ze zeleného hrachu",
+  "titleOriginal": "Cream of Green Split Pea Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "pripravit-predem", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hrach-puleny", "amount": 110, "unit": "g", "note": "zelený, půlený; přebraný a propláchnutý" },
+    { "ingredientId": "voda", "amount": 230, "unit": "ml", "note": "zůstává v polévce; hrách se v ní namáčí a vaří" },
+    { "ingredientId": "celer-rapikaty", "amount": 1, "unit": "g", "note": "zdroj: celery leaves (nať); protlačí se" },
+    { "ingredientId": "cibule", "amount": 9, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "maslo", "amount": 9, "unit": "g", "note": "rozpuštěné; jíška", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 5, "unit": "g", "note": "na jíšku" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g" },
+    { "ingredientId": "mleko-polotucne", "amount": 830, "unit": "ml", "note": "horké, vmíchá se těsně před podáváním" }
+  ],
+  "steps": [
+    { "text": "Hrách přeber, důkladně opláchni a zalij studenou vodou. Nech 6–8 hodin namočit. Nesceď." },
+    { "text": "Přidej celerové listy a cibuli. Přiveď k varu.", "minutes": 8 },
+    { "text": "Vař asi hodinu, dokud hrách není měkký.", "minutes": 60 },
+    { "text": "Protlač celerové listy, cibuli a hrách sítem.", "minutes": 5 },
+    { "text": "Vrať pyré zpět do vody, ve které se hrách vařil.", "minutes": 2 },
+    { "text": "Rozmíchej máslo s moukou, vmíchej do pyré a vař za častého míchání, dokud mírně nezhoustne.", "minutes": 10 },
+    { "text": "Dochuť solí a pepřem." },
+    { "text": "Těsně před podáváním vmíchej horké mléko.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: Cream of Green Split Pea Soup, tištěná s. 235 (PDF 243), 100 porcí, výtěžek cca 6 gal, porce 1 cup (cca 8 oz); 6 gal / 1 cup ≈ 96 porcí, v toleranci, originalYield zůstává 100. Hrách je zelený půlený (6 lb). Namáčení 6–8 hodin je mimo timeMinutes; hrách se nesceđuje a voda ze namáčení i vaření zůstává v polévce (linear). Celerová nať (1 oz = 1 g na 4 porce) je namapována na celer-rapikaty s poznámkou (makra shodná, množství zanedbatelné). Tuk „Butter or other fat, melted“ je máslo bez `original`; s moukou tvoří jíšku, proto třída linear. Mléko je čerstvé (liquid, hot), ne sušené. Sůl 3 oz (6 tbsp) dává přes třídu seasoning 6 g na 4 porce (asi 1,5 g na porci; lineárně by to bylo 3,4 g); dochuť až na konci podle chuti. Pepř 2 tsp (mletý černý, zdroj ho nespecifikuje) = 0,3 g. Voda 1½ gal je jen vodou na vaření a namáčení, ne slévaná.",
+  "source": { "book": "navy-1944", "page": 243, "titleOriginal": "Cream of Green Split Pea Soup" },
+  "verified": true
+}

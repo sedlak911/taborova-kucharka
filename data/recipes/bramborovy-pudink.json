@@ -1,0 +1,106 @@
+{
+  "id": "bramborovy-pudink",
+  "title": "Bramborový pudink",
+  "titleOriginal": "Potato Pudding (Budino di patate)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 610,
+      "unit": "g",
+      "note": "moučnaté, ve slupce; po uvaření oloupat (1,5 lb ≈ 680 g s ní, jedlá část asi 610 g)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "do vody na vaření brambor, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření brambor, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "1,5 oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "note": "1 polévková lžíce"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 240,
+      "unit": "ml",
+      "note": "1/2 pinty (US, 237 ml)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 155,
+      "unit": "g",
+      "note": "5,5 oz"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "zdroj: „a pinch of salt“"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "podle chuti; zdroj: skořice nebo citronová kůra (jen na ochutnání)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "celá, rozdělená na žloutky a bílky"
+    }
+  ],
+  "steps": [
+    { "text": "Brambory se slupkou uvař v osolené vodě do měkka, sceď a oloupej.", "minutes": 25 },
+    { "text": "Mezitím odděl žloutky od bílků a bílky ušlehej na tuhý sníh.", "minutes": 5, "parallel": true },
+    { "text": "Oloupané brambory prolisuj přes síto.", "minutes": 5 },
+    { "text": "Vrať je na mírný oheň s máslem, moukou a mlékem, které postupně přilévej. Dobře míchej vařečkou.", "minutes": 8 },
+    { "text": "Přidej cukr, sůl a skořici nebo citronovou kůru podle chuti a dobře promíchej.", "minutes": 2 },
+    { "text": "Sundej z ohně. Až je hmota vlažná nebo studená, vmíchej nejdřív žloutky a pak opatrně našlehané bílky.", "minutes": 3 },
+    { "text": "Hmotu přelož do vymaštěné formy a peč v předehřáté troubě na 180 °C asi 40 minut, dokud pudink nezezlátne.", "minutes": 40 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Kniha neuvádí počet porcí ani objem; čísla z textu (1,5 lb brambor, 6 vajec, 5,5 oz cukru, 1/2 pinty mléka) bereme jako 4 porce, celkem asi 1,4 kg, tedy asi 340 g na porci. Pokud chcete menší porce, počítejte s 6 porcemi. Brambory: 1,5 lb ≈ 680 g se slupkou, po oloupání asi 610 g (odhad 10 % odpadu). Vodu (1 l) a sůl (2 g) slijte; sůl do vody je domácí hodnota. Máslo 1,5 oz ≈ 42 g zaokrouhleno na 45 g, mouka 1 polévková lžíce ≈ 8 g (odhad), mléko 1/2 pinty v US míře (237 ml) zaokrouhleno na 240 ml. Doplněné odhady: doba pečení 40 minut při 180 °C (zdroj říká jen „bake like other puddings“), sůl a skořice jsou podle chuti. Citronová kůra je ve zdroji jako alternativa ke skořici, v receptu je skořice. Sůl: zdroj dává do pudinku jen „a pinch of salt“ (1 špetka ≈ 0,3 g), zbytek soli odchází se slévanou vodou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 145,
+    "titleOriginal": "POTATO PUDDING (Budino di patate)"
+  },
+  "verified": false,
+  "quote": "Bake like all other puddings and serve hot."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ovocny-crisp",
+  "title": "Ovocný crisp (drobenkový)",
+  "titleOriginal": "Peach Crisp",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "jablko", "amount": 360, "unit": "g", "note": "oloupaná, bez jádřinců, na plátky", "group": "Ovoce", "original": { "ingredientId": "broskve-v-konzerve", "amount": 360, "unit": "g" } },
+    { "ingredientId": "cukr-krystal", "amount": 18, "unit": "g", "group": "Ovoce" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "group": "Ovoce" },
+    { "ingredientId": "sul", "amount": 0.46, "unit": "g", "group": "Ovoce" },
+    { "ingredientId": "skorice-mleta", "amount": 0.46, "unit": "g", "group": "Ovoce" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.23, "unit": "g", "group": "Ovoce" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "prasek-do-peciva", "amount": 0.28, "unit": "g", "group": "Drobenka", "scaling": "linear" },
+    { "ingredientId": "jedla-soda", "amount": 0.28, "unit": "g", "group": "Drobenka", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 1.15, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "ovesne-vlocky", "amount": 18, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "hnedy-cukr", "amount": 30, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "group": "Drobenka", "note": "změkčené", "scaling": "linear", "original": { "ingredientId": "margarin", "amount": 35, "unit": "g" } }
+  ],
+  "steps": [
+    { "text": "Jablka oloupej, zbav jádřinců a nakrájej na plátky.", "minutes": 7 },
+    { "text": "Vymaž pekáč tukem a rozlož do něj jablka.", "minutes": 2 },
+    { "text": "Smíchej cukr, mouku, sůl, skořici a muškátový oříšek, posyp jím jablka a lehce promíchej, aby se mouka navlhla.", "minutes": 2 },
+    { "text": "Smíchej mouku, prášek do pečiva, jedlou sodu, sůl, ovesné vločky, hnědý cukr a změkčené máslo a promíchej jen do spojení.", "minutes": 2 },
+    { "text": "Směsí rovnoměrně posyp jablka." },
+    { "text": "Peč v troubě na horkovzduch při 175 °C asi 30 minut, dokud vršek lehce nezhnědne.", "minutes": 30 },
+    { "text": "Nakrájej a podávej lžící nebo lopatkou." }
+  ],
+  "modernNote": "Konzervované broskve jsme nahradili čerstvými jablky stejné hmotnosti (360 g). Šťávu z konzervy (3 šálky na pekáč ve zdroji) jsme vynechali; jablka při pečení pustí vlastní šťávu. Nepřilnavý sprej na pekáč je nahrazen tukem k vymazání, jeho množství není započteno. Margarín je nahrazen máslem. Kypřidla škálována lineárně.",
+  "source": { "book": "afrs-2003", "page": 618, "code": "J 008 00", "titleOriginal": "PEACH CRISP" },
+  "verified": true,
+  "quote": "Mix only until blended."
+}

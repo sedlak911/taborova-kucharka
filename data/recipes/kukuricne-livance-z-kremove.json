@@ -1,0 +1,121 @@
+{
+  "id": "kukuricne-livance-z-kremove",
+  "title": "Kukuřičné lívance z krémové kukuřice",
+  "titleOriginal": "Corn Fritters (cream-style corn)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 90,
+      "unit": "g",
+      "note": "prosít"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 3,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.4,
+      "unit": "ks",
+      "note": "rozšlehaná; 1 lb = 10 ks"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "rozpuštěné; ve zdroji ztužený tuk (shortening)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 9,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 200,
+      "unit": "g",
+      "note": "smetanová (cream style), z konzervy"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na hluboké smažení při 190 °C; odhad, zdroj uvádí jen „deep fat“",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý do lívanců (odhad)",
+      "scaling": "fat"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zahřej olej v hlubokém hrnci na 190 °C.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím prosej do mísy mouku, prášek do pečiva, sůl a cukr.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Smíchej rozšlehaná vejce, rozpuštěný tuk a kukuřici.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej směs k suchým surovinám a míchej, dokud není těsto hladké.",
+      "minutes": 2
+    },
+    {
+      "text": "Po lžících vkládej těsto do horkého oleje a smaž 3–5 minut, často obracej, aby lívance zhnědly rovnoměrně.",
+      "minutes": 5
+    },
+    {
+      "text": "Sceď lívance na savém papíře.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 2 střední lívance (na 100 porcí tedy asi 200 kusů). Krémová kukuřice z konzervy (11 lb 4 oz ≈ 1¼ gal) je 200 g na 4 porce; zrnková varianta je v jiném receptu. Ztužený tuk (shortening, rozpuštěný) je nahrazen rozpuštěným máslem; zdroj zůstává v original (ztuzeny-tuk). Vejce: 1 lb = 10 ks, na 4 porce 0,4 ks (18 g). Prášek do pečiva a cukr jsou ve těstě, proto linear. Sůl je třídy seasoning z katalogu. Olej na smažení (500 ml, zůstává v hrnci) a nasáklý olej (30 ml) jsou odhady: zdroj uvádí jen „deep fat“ bez druhu tuku, použit řepkový olej. Pro chrumkavost smaž po menších dávkách a lívance podávej hned; zdroj doporučuje sirup nebo džem (jen návrh, nepřidáno do kroků).",
+  "source": {
+    "book": "navy-1944",
+    "page": 272,
+    "titleOriginal": "CORN FRITTERS (Cream-style corn)"
+  },
+  "verified": false,
+  "quote": "Drop by spoonsful into hot deep fat at 375°F and fry 3 to 5 minutes, turning fritters frequently to brown them evenly."
+}

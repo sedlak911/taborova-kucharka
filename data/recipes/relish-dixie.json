@@ -1,0 +1,151 @@
+{
+  "id": "relish-dixie",
+  "title": "Dixie relish",
+  "titleOriginal": "Dixie Relish",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 220,
+      "unit": "g",
+      "note": "nadrobno nakrájené"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 75,
+      "unit": "g",
+      "note": "nakrájený nadrobno"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g",
+      "note": "část do zeleniny, část do dresinku"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 75,
+      "unit": "ml",
+      "note": "do dresinku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "note": "do dresinku"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 7,
+      "unit": "g",
+      "note": "do dresinku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 2,
+      "unit": "g",
+      "note": "do dresinku"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.3,
+      "unit": "ks",
+      "note": "rozšlehaná; do dresinku"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 2,
+      "unit": "g",
+      "note": "do dresinku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 19,
+      "unit": "ml",
+      "note": "do dresinku",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci zahřej část mléka téměř k varu, ale nevař.",
+      "minutes": 5
+    },
+    {
+      "text": "V misce smíchej mouku, cukr, hořčici a sůl a rozmíchej se zbytkem studeného mléka na hladkou pastu.",
+      "minutes": 3
+    },
+    {
+      "text": "Pastu přidej do horkého mléka za stálého míchání, přiveď k varu a vař, dokud nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Vejce lehce rozšlehej a za stálého míchání k nim pomalu přilévej horkou směs, aby se nesrazila.",
+      "minutes": 2
+    },
+    {
+      "text": "Vaječnou směs vmíchej zpět do zahuštěné směsi a za stálého míchání vař 10 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Sundej z ohně, vmíchej máslo, nech mírně zchladnout a vmíchej ocet.",
+      "minutes": 2
+    },
+    {
+      "text": "Dresink nech úplně vychladnout.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím nakrájej zelí, celer, zelenou papriku a cibuli nadrobno.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Zeleninu osol, přidej vychladlý dresink a lehce promíchej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj: Dixie Relish (PDF 209, tištěná str. 201), 100 porcí, výtěžek ~5 gal, porce ½ až ¾ cup. Dresink „Boiled“ Salad Dressing (PDF 210, tištěná str. 202) je sub-recept s výtěžkem ~1½ gal; relish používá ¾ gal, tedy polovinu jeho množství. Proto je přepočet dresinku nástrojem s výtěžkem 200 (4/200 = 0,02). Sůl z tabulky (7 g) a sůl do dresinku (2 g) jsou sloučeny do jednoho řádku. Cukr v dresinku je třída linear (sladký dresink, ne koření). Vejce 1 lb 8 oz = 15 ks na 100 porcí dresinku, tedy 0,3 ks na 4 porce dresinku v relish (rozpor váha vs. ks není). Dresink se vaří na plotně, pečení netřeba. Vynechána volitelná poznámka „6 large dill pickles“ (není množství v hmotnosti, je jen k chuti). Pokyn „Hold in refrigerator“ je skladovací, do kroků nepatří. Zdroj „Heat to boiling temperature. Do not boil“ čteme jako zahřátí téměř k varu, protože varem se dresink zahušťuje později. Doba chlazení 15 minut je odhad, zdroj ji neuvádí. Recept nemá tag pripravit-predem: zdroj nepředepisuje čekání 4 h a více. Porce cca 125 g odpovídá zdrojovým ½ až ¾ cup.",
+  "source": {
+    "book": "navy-1944",
+    "page": 209,
+    "titleOriginal": "Dixie Relish"
+  },
+  "verified": true,
+  "quote": "Combine cabbage, celery, peppers, onions and salt. Add dressing and mix together lightly."
+}

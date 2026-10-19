@@ -1,0 +1,99 @@
+{
+  "id": "zmrzlina-ze-suseneho-mleka",
+  "title": "Zmrzlina ze sušeného mléka a vajec",
+  "titleOriginal": "Ice Cream (powdered milk and eggs)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 565,
+      "unit": "ml",
+      "note": "490 ml vody a 75 g sušeného mléka; sušené mléko rozmíchej s vodou",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 75,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "z rekonstituovaných sušených vajec ve vodě (1 ks)",
+      "original": {
+        "ingredientId": "vejce-susena",
+        "amount": 12,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 4,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V míse smíchej škrob, cukr a sůl.",
+      "minutes": 2
+    },
+    {
+      "text": "V jiné míse rozmíchej sušené mléko a sušená vejce s vodou a vmíchej do směsi se škrobem.",
+      "minutes": 4
+    },
+    {
+      "text": "Směs za občasného míšení vař asi 20 minut nad vroucí vodou v hrnci.",
+      "minutes": 20
+    },
+    {
+      "text": "Nech směs úplně vychladnout."
+    },
+    {
+      "text": "Vmíchej vanilku.",
+      "minutes": 1
+    },
+    {
+      "text": "Zmrazuj v mrazáku a každých 30 minut směs promíchej, dokud neztuhne."
+    }
+  ],
+  "modernNote": "Zdroj je receptura na 100 porcí (asi 5 galonů) s práškovým mlékem a sušenými vejci; přepočet na 4 porce proběhl přes npm run convert. Sušené mléko (75 g) a vodu (490 ml) jsem sloučil do jednoho řádku polotučného mléka (565 ml), prášek je v original. Sušená vejce (11 oz, zdroj) jsou v original (12 g) a v receptu jsou 1 ks vejce, rekonstituované ve vodě (poměr ze zdroje: 4 oz prášku a 1½ hrnku vody = 1 lb vajec; strana 56 a 57: prášek v poměru 1:4 ke čerstvým vejcím; 312 g prášku ≈ 1 247 g vajec, na porci 50 g). Vejce tak nejsou zvlášť k vodě, aby se voda nepočítala dvakrát. Mrazicí stroj s přesným overrunem nahrazen mrazákem: zmrazuj a každých 30 minut směs promíchej, dokud neztuhne; hotová zmrzlina potřebuje mrazák nejméně 4 hodiny, proto tag pripravit-predem. Zdroj vaří směs nad vroucí vodou nebo v parním kotli; doma stačí hrnec nad vroucí vodou. Vanilku zdroj dává jako 2 oz nebo ¼ hrnku; použita 4 ml extraktu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 62,
+    "titleOriginal": "ICE CREAM (Using powdered whole milk and powdered eggs)"
+  },
+  "verified": true,
+  "quote": "Cook over boiling water or in steam-jacketed kettle about 20 minutes, stirring occasionally."
+}

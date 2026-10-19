@@ -1,0 +1,60 @@
+{
+  "id": "varena-uzena-treska",
+  "title": "Vařený uzený treskovec",
+  "titleOriginal": "Boiled Finnan Haddie",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "uzena-treska",
+      "amount": 450,
+      "unit": "g",
+      "note": "filety"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na povaření ryby, slije se; domácí hodnota ~1 l na 450 g ryby",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 115,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "na ochucení"
+    }
+  ],
+  "steps": [
+    { "text": "Filety polož do hrnce a zalij vodou.", "minutes": 3 },
+    { "text": "Přiveď k varu, nech asi 10 minut probublávat a vodu slij.", "minutes": 18 },
+    { "text": "Přilij mléko a pomalu ohřej k varu.", "minutes": 4 },
+    { "text": "Na rybu polož máslo." }
+  ],
+  "modernNote": "Zdroj uvádí uzeného treskovce „Finnan Haddie“ (25 lb na 100 porcí, porce cca 4 oz); v katalogu chyběla uzená treska jednoskvrnná, založena jako nová surovina (USDA fdc:174199). Voda „to cover“ bez množství ve zdroji: slévá se, proto třída vessel s domácí hodnotou 1 l na 450 g ryby, bez soli. Mléko zůstává v jídle (linear). Máslo „Butter or other fat“ (6 oz, polož na rybu) modernizováno na máslo bez původní suroviny, třída fat. Varianta dušená v páře (Steamed Finnan Haddie) v receptu není.",
+  "source": {
+    "book": "navy-1944",
+    "page": 89,
+    "titleOriginal": "BOILED FINNAN HADDIE"
+  },
+  "verified": true
+}

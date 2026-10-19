@@ -1,0 +1,56 @@
+{
+  "id": "jablka-v-teste",
+  "title": "Jablka v těstě",
+  "titleOriginal": "Apple Dumplings",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 180, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "prasek-do-peciva", "amount": 7, "unit": "g", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "ztuzeny-tuk", "amount": 55, "unit": "g", "group": "Těsto", "note": "ztužený rostlinný tuk na pečení; zapracovat do mouky", "scaling": "linear" },
+    { "ingredientId": "mleko-polotucne", "amount": 110, "unit": "ml", "group": "Těsto", "note": "podle konzistence, zdroj uvádí \"variable\"" },
+    { "ingredientId": "jablko", "amount": 360, "unit": "g", "group": "Náplň", "note": "čerstvá, mražená nebo konzervovaná; na plátky nebo půlky" },
+    { "ingredientId": "cukr-krystal", "amount": 100, "unit": "g", "group": "Náplň", "note": "do směsi se skořicí" },
+    { "ingredientId": "skorice-mleta", "amount": 11, "unit": "g", "group": "Náplň", "note": "do cukrové směsi; zdroj dovoluje muškátový oříšek" },
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "group": "Posyp", "note": "na posypání dumplingů" },
+    { "ingredientId": "voda", "amount": 115, "unit": "ml", "group": "Posyp", "note": "horká; nalít kolem dumplingů do pekáče" }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 200 °C a vymaž plech na buchty." },
+    { "text": "Smíchej mouku, sůl a prášek do pečiva.", "minutes": 2 },
+    { "text": "Zapracuj ztužený tuk do směsi, dokud nebude drobivá.", "minutes": 5 },
+    { "text": "Vmíchej mléko, dokud nevznikne těsto jako na koláč.", "minutes": 2 },
+    { "text": "Těsto rozválej na pomoučeném povrchu na tloušťku asi 6 mm a nakrájej na čtverce 13 cm.", "minutes": 8 },
+    { "text": "Na střed každého čtverce polož plátky nebo půlky jablek.", "minutes": 4 },
+    { "text": "Smíchej cukr se skořicí.", "minutes": 3 },
+    { "text": "Na každé jablko nasyp trochu cukrové směsi.", "minutes": 2 },
+    { "text": "Protilehlé rohy těsta přehni přes jablko.", "minutes": 2 },
+    { "text": "Okraje pevně zmáčkni a dumplingy polož na plech.", "minutes": 2 },
+    { "text": "Dumplingy posyp cukrem a kolem nich nalij horkou vodu.", "minutes": 2 },
+    { "text": "Peč při 200 °C asi 40 minut.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj počítá 100 dumplingů (porce 1 dumpling); na 4 porce jsou 4 dumplingy, na každý zhruba půl jablka (360 g). Mléko je ve zdroji „variable“ bez hmotnosti, použito 110 ml podle přepočtu objemu z obrázku; upravuj podle konzistence těsta. Pečení 400 °F = 200 °C. Ztužený tuk je rostlinný tuk na pečení, je ponechán. Horká voda v pekáči zůstává mezi dumplingy a nepřelévá se do jídla. Na 4 porce je zapékací plech praktičtější než buchtový.",
+  "source": {
+    "book": "navy-1944",
+    "page": 46,
+    "titleOriginal": "APPLE DUMPLINGS"
+  },
+  "verified": true,
+  "quote": "Fold opposite corners of dough over apple."
+}

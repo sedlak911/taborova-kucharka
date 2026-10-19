@@ -1,0 +1,111 @@
+{
+  "id": "jablecny-kolac",
+  "title": "Jablečný koláč",
+  "titleOriginal": "Applesauce Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 0.85,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "jablecne-pyre",
+      "amount": 60,
+      "unit": "g",
+      "note": "nesladěné, z konzervy"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      },
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.6,
+      "unit": "ks",
+      "note": "rozšlehej 1 vejce a použij polovinu",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 30,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Prosej do mísy mixéru mouku, prášek do pečiva, jedlou sodu, skořici, hřebíček, sůl a cukr." },
+    { "text": "Přidej rozinky, jablečné pyré a máslo. Mixuj 1 minutu na nízké rychlosti, pak 2 minuty na střední. Seškrábni stěny mísy.", "minutes": 3 },
+    { "text": "Vejce přidávej pomalu za míchání na nízké rychlosti asi 1 minutu. Seškrábni stěny mísy a mixuj 3 minuty na střední rychlosti.", "minutes": 4 },
+    { "text": "Formu vymaž tukem a vysyp moukou. Nalij do ní těsto." },
+    { "text": "Peč v horkovzdušné troubě při 165 °C 20 až 25 minut, dokud není hotovo.", "minutes": 25 },
+    { "text": "Nech vystydnout, podle chuti polev a nakrájej na kusy." }
+  ],
+  "modernNote": "Zdroj počítá dávku na 100 porcí (výtěžek 100 kusů, krájeno 6 × 9 z plechu); přepočet je na 4 porce, nakrájej podle velikosti formy. Ztužený rostlinný tuk (shortening) nahrazen máslem. Nepřilnavý sprej na formy vynechán, formu vymaž tukem. Zdroj peče v konvektomatu při 325 °F s horkým vzduchem; v troubě bez ventilátoru asi 180 °C. Polevu zdroj uvádí jen jako volitelnou (frost if desired). Karta AFRS uvádí 304 kcal na kus, ale její vlastní suroviny dávají asi 206 kcal na kus (a asi 7,6 g tuku místo uvedených 12 g); přepis věrně sleduje suroviny, kcal v aplikaci jsou proto nižší než údaj karty.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 380,
+    "code": "G 002 00",
+    "titleOriginal": "APPLESAUCE CAKE"
+  },
+  "verified": true
+}

@@ -1,0 +1,95 @@
+{
+  "id": "mandlove-makronky-amaretti",
+  "title": "Mandlové makrónky (amaretti)",
+  "titleOriginal": "Macaroons (Amaretti)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko",
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 260,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "zdroj 9 oz (255 g) granulovaného cukru; celá dávka, asi 20 kusů"
+    },
+    {
+      "ingredientId": "mandle-blansovane",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "blanšírované, nasekané najemno; zdroj 3½ oz sladkých a 1¾ oz hořkých mandlí, hořké nahrazeny sladkými"
+    },
+    {
+      "ingredientId": "horkomandlove-aroma",
+      "amount": 2.5,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "náhrada za hořké mandle ze zdroje (1¾ oz ≈ 50 g); 1 kapka (0,05 ml) na 1 g hořkých mandlí, tedy asi 50 kapek",
+      "original": {
+        "ingredientId": "mandle",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "bílky ze dvou vajec; jeden rozšlehaný bílek jen když je těsto tvrdé"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Plech",
+      "note": "na vymazání plechu; odhad, zdroj množství neuvádí"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Plech",
+      "note": "na poprášení plechu (spolu s moučkovým cukrem); odhad"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Plech",
+      "note": "na poprášení plechu (spolu s moukou); odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Blanšírované mandle osuš a nasekej co nejjemněji.", "minutes": 5 },
+    { "text": "Cukr smíchej s bílky a míchej asi půl hodiny.", "minutes": 30 },
+    { "text": "Přimíchej nasekané mandle a hořkomandlové aroma, dokud nevznikne pevnější těsto. Pokud je těsto měkké, přidej trochu másla; pokud je tvrdé, přidej trochu rozšlehaného bílku.", "minutes": 3 },
+    { "text": "Z těsta tvaruj kuličky velké jako vlašský ořech a každou zplošť na tloušťku zhruba jednoho centimetru.", "minutes": 10 },
+    { "text": "Kuličky polož na oplatky nebo papír, případně na plech vymazaný máslem a poprášený směsí z hladké mouky a moučkového cukru. Nech mezi nimi odstup, protože rostou.", "minutes": 3 },
+    { "text": "Peč v troubě vyhřáté na 180 °C asi dvacet minut, dokud nejsou povrchy světle zlaté.", "minutes": 20 },
+    { "text": "Nech makrónky vychladnout na mřížce." }
+  ],
+  "modernNote": "Zdroj (Gentile, varianta I) udává 9 oz (255 g) granulovaného cukru, 3½ oz (99 g) sladkých mandlí, polovinu hořkých mandlí (1¾ oz, 50 g) a 2 bílky; to je celá dávka asi 20 kusů, proto ji bereme jako 4 porce po 5 kusech (škálování 1:1). Hořké mandle se dnes neprodávají a obsahují amygdalin, který se při zpracování mění na kyanovodík, proto je nahrazuji sladkými blanšírovanými mandlemi (150 g; ze zdroje dohromady 149 g) a hořkomandlovým aromatem (nová surovina horkomandlove-aroma): 1 kapka (0,05 ml) na 1 g hořkých mandlí ze zdroje, tedy 2,5 ml. Odhady, které zdroj nedává: 5 g másla, 5 g hladké mouky a 5 g moučkového cukru na vymazání a poprášení plechu; velikost kuliček (asi vlašský ořech, zploštěné na zhruba 1 cm) a doba pečení 20 minut při 180 °C (zdroj jen píše „moderately hot oven“ bez času). Pokud je těsto měkké, dej trochu másla, pokud tvrdé, trochu bílku, jak uvádí zdroj; tyto přídavky nejsou v seznamu surovin. Zdroj uvádí i variantu II (10½ oz moučkového cukru, 3 oz sladkých a 1 oz hořkých mandlí, 2 bílky), zde nepoužitou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 140,
+    "titleOriginal": "MACAROONS (Amaretti)"
+  },
+  "verified": false,
+  "quote": "Skin and dry the almonds, then chop them very fine."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "grilovane-berani-ledvinky",
+  "title": "Grilované beraní ledvinky",
+  "titleOriginal": "Broiled Mutton Kidney (Rognone di montone alla graticola)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["rychle"],
+  "equipment": ["gril"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "jehneci-ledvinky", "amount": 480, "unit": "g", "note": "4 ledvinky po asi 120 g; zdroj počet ani váhu neuvádí, odhad" },
+    { "ingredientId": "repkovy-olej", "amount": 10, "unit": "ml", "note": "na potření ledvinek a roštu" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "čerstvá nať, na posyp a ozdobu" },
+    { "ingredientId": "citron", "amount": 60, "unit": "g", "note": "asi půl citronu, na plátky" }
+  ],
+  "steps": [
+    { "text": "Ledvinky dobře opláchni, sundej z nich blanu a každou rozřízni napůl, ale ne úplně.", "minutes": 5 },
+    { "text": "Rozpal gril na silný žár, ledvinky osol, opepři a potři olejem.", "minutes": 3 },
+    { "text": "Polož ledvinky na gril a peč je na silném žáru, dokud nejsou hotové.", "minutes": 12 },
+    { "text": "Mezitím nasekej petrželku nadrobno a citron nakrájej na plátky.", "minutes": 3, "parallel": true },
+    { "text": "Hotové ledvinky podávej horké, ozdobené petrželkou a plátky citronu." }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani počet porcí; odhad pro 4 porce: 4 jehněčí ledvinky po asi 120 g (480 g, tedy 120 g na porci), sůl 4 g a pepř 1 g podle chuti, olej na potření, asi půl citronu a petrželka na ozdobu. Ledvinky jsou z jehněte (mladšího zvířete, nikoli skopa); ve zdroji jde o stejnou surovinu, proto originál není uveden. Ledvinky se nakrájí napůl, aby se propekly bez odlepení obou polovin. Doba grilování (asi 10–12 minut) je z knihy, časy přípravy jsou odhad.",
+  "source": { "book": "italian-1919", "page": 112, "titleOriginal": "BROILED MUTTON KIDNEY (Rognone di montone alla graticola)" },
+  "verified": false,
+  "quote": "Serve hot with parsley and slices of lemon."
+}

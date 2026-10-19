@@ -1,0 +1,69 @@
+{
+  "id": "varene-makarony",
+  "title": "Vařené makarony",
+  "titleOriginal": "Boiled Macaroni, Noodles or Spaghetti",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "testoviny",
+      "amount": 145,
+      "unit": "g",
+      "note": "makarony suché; nudle nebo špagety stejně"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci přiveď osolenou vodu k varu.",
+      "minutes": 9
+    },
+    {
+      "text": "Vmíchej těstoviny a znovu přiveď k varu, během toho míchej, aby se nelepily.",
+      "minutes": 3
+    },
+    {
+      "text": "Vař, dokud těstoviny nezměknou, ale nepřevař je.",
+      "minutes": 20
+    },
+    {
+      "text": "Dobře sceď.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj uvádí 8 galonů vody a 4 oz soli na 100 porcí; slévaná voda (1,5 l na 145 g těstovin) a sůl 2 g na 1 l jsou domácí hodnoty, ne zdrojové množství. Nález bilance je očekávaný: zdroj počítá vodu na vaření do porce, ta se ale slévá, a v jídle zůstávají jen suché těstoviny (36 g na porci). Zdroj uvádí porci 5 až 6 oz, což při 36 g suchých těstovin odpovídá spíš vařené hmotnosti; to je nesoulad ve zdroji, hodnoty 8 lb ponechávám. Zdroj doporučuje podání se sýrovou nebo rajčatovou omáčkou (odkazované recepty nepřebírám); zvol libovolnou omáčku, nebo těstoviny podávej s máslem a sýrem. Blanšírování (poznámka 1) jen pro salát, vynecháno.",
+  "source": {
+    "book": "navy-1944",
+    "page": 34,
+    "titleOriginal": "BOILED MACARONI, NOODLES OR SPAGHETTI"
+  },
+  "verified": true
+}

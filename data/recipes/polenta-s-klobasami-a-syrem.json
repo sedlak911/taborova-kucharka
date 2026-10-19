@@ -1,0 +1,125 @@
+{
+  "id": "polenta-s-klobasami-a-syrem",
+  "title": "Polenta s klobásami a sýrem",
+  "titleOriginal": "Corn Meal with Sausages (Polenta con salsicce)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 300,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "žlutá kukuřičná mouka (krupice); zdroj 1 hrnek ≈ 124 g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 900,
+      "unit": "ml",
+      "group": "Polenta",
+      "note": "vroucí; husté kaše se vaří v poměru 1:3"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Polenta",
+      "note": "do vody; zdroj říká „salt it well“"
+    },
+    {
+      "ingredientId": "klobasa",
+      "amount": 400,
+      "unit": "g",
+      "group": "Klobásy",
+      "note": "několik celých klobás; italské salsicce jsou syrové vepřové, české syrové jsou nejbližší"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Klobásy",
+      "scaling": "vessel",
+      "note": "trochu vody na uvaření klobás, slije se (nebo odpaří)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Klobásy",
+      "note": "hovězí vývar (zdroj „brown stock“); zdroj alternativně rajčatová omáčka"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 50,
+      "unit": "g",
+      "group": "Zapékání",
+      "note": "strouhaný (zdroj „grated cheese“)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Zapékání",
+      "note": "na vymazání mísy a kousek na vrch"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kukuřičnou mouku zvolna sypej do vroucí osolené vody a pořád míchej dřevěnou vařečkou, dokud nevznikne hustá kaše.",
+      "minutes": 20
+    },
+    {
+      "text": "Hustou kaši vylij na prkno nebo plech do vrstvy asi 1,5 cm a nech ji vychladnout a ztuhnout.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím v jiném hrnci uvař celé klobásy s trochou vody do měkka.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Klobásy oloupej, rozdrť vidličkou a přilej hovězí vývar; krátce podus.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Vyhřej troubu na 200 °C."
+    },
+    {
+      "text": "Ztuhlou polentu nakrájej na malé čtverce.",
+      "minutes": 5
+    },
+    {
+      "text": "Čtverce vrstvi do žáruvzdorné mísy vymazané máslem, posyp parmezánem a polož na ně rozdrcené klobásy i se šťávou.",
+      "minutes": 5
+    },
+    {
+      "text": "Zapékej v troubě, dokud se sýr nerozpustí a povrch nezhnědne.",
+      "minutes": 15
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 36) dává jen 1 hrnek žluté kukuřičné mouky (≈ 124 g), vodu, porce ani čas nedává. Na 4 porce dopočítáno z praxe: 300 g mouky (75 g na porci, stejně jako u č. 163), 900 ml vody pro husté kaše (poměr 1:3), sůl 6 g. Odhady: klobásy 400 g, 100 ml vody na uvaření klobás („a little water“), vývar 200 ml („some brown stock“), parmezán 50 g („grated cheese“), máslo 20 g („a piece of butter“). Pečení (200 °C, 15 minut až do rozpuštění sýra) a 30minutové chlazení polenty jsou moje doplnění, zdroj je nekvantifikuje. Zdroj nabízí rajčatovou omáčku jako náhradu vývaru. Tagy tabor a kotlik ze shortlistu odebrány: recept potřebuje troubu. Čas 75 minut je odhad (kaše 20, chlazení 30, ostatní kroky), klobásy se vaří souběžně s chlazením.",
+  "source": {
+    "book": "italian-1919",
+    "page": 34,
+    "titleOriginal": "CORN MEAL WITH SAUSAGES (Polenta con salsicce)"
+  },
+  "verified": false,
+  "quote": "Cook in water one cup of yellow cornmeal making a stiff mush."
+}

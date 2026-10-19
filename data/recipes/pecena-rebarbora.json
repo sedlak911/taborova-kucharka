@@ -1,0 +1,29 @@
+{
+  "id": "pecena-rebarbora",
+  "title": "Pečená rebarbora",
+  "titleOriginal": "Baked Rhubarb",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa", "sladke"],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "rebarbora", "amount": 640, "unit": "g", "note": "řapíky, bez loupání" },
+    { "ingredientId": "cukr-krystal", "amount": 180, "unit": "g" },
+    { "ingredientId": "sul", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "voda", "amount": 65, "unit": "ml" }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 175 °C." },
+    { "text": "Odstraň listy z řapíků, neloupej je. Řapíky omyj a nakrájej na kousky velké asi 2,5 cm.", "minutes": 8 },
+    { "text": "Nakrájenou rebarboru vlož do zapékací misky.", "minutes": 2 },
+    { "text": "Sůl a cukr rozmíchej ve vodě a zalij jimi rebarboru.", "minutes": 3 },
+    { "text": "Peč 10 minut, nebo dokud rebarbora nezměkne.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 5 oz (approx. ⅔ cup); pro 4 porce je uvedena spodní hranice 4 oz. Rebarbora je as purchased (35 lb, bez odpadu), proto je bez úpravy ediblePortion. Sůl je 1 tablespoon (½ oz), cukr 10 lb, voda 1¾ quarts. Voda zůstává v misce a rebarbora se v ní dusí, proto je linear. Zdroj předepisuje pečení 5 až 10 minut; použita horní mez, ale pro menší misku je nutné kontrolovat měkkost a prodloužit podle potřeby. Bilance hmotnosti (surová směs cca 220 g na porci proti 4–5 oz hotové) odpovídá poměru zdroje (45 lb surovin proti 28 lb porcí), část vody se odpaří. Nález bilance (221 g na porci proti 4 oz) je dán spodní hranicí porce; při horní hranici 5 oz vychází poměr 1,55, tedy v rozsahu zdroje (surová směs cca 220 g na porci). Nález soli (0,23 g na porci) odpovídá zdroji: 0,5 oz soli na 100 porcí je málo a sůl je rozpuštěná ve vodě, která zůstává v misce; sůl není vessel, protože se neslévá. Dochuť podle chuti. Skořici nebo muškátový oříšek zdroj uvádí jako volitelné, nepřidáno.",
+  "source": { "book": "navy-1944", "page": 83, "titleOriginal": "BAKED RHUBARB" },
+  "verified": true
+}

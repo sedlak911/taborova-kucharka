@@ -1,0 +1,58 @@
+[
+  {
+    "id": "javorove-aroma",
+    "name": "Javorové aroma",
+    "aliases": [
+      "javorová esence",
+      "maple flavour",
+      "maple flavoring",
+      "maple extract"
+    ],
+    "category": "koreni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzicka": 5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:169661 (Syrups, maple) jako základ; makra nastavena na 0, protože aroma se dávkuje v řádu mililitrů",
+      "units": "lžička 5 ml (odhad)"
+    },
+    "densityGPerMl": 1
+  },
+  {
+    "id": "javorove-tablety",
+    "name": "Javorové tablety (aroma, tablety)",
+    "aliases": [
+      "tablety javorové",
+      "maple flavoring tablets",
+      "maple flavor tablets"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 387,
+      "protein": 0,
+      "carbs": 99.98,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: makra cukru (cukr-krystal, USDA SR Legacy fdc:169655); tableta je převážně cukr",
+      "units": "1 tableta ≈ 1 g (odhad, zdroj hmotnost neuvádí)"
+    }
+  }
+]

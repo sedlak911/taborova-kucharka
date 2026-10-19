@@ -1,0 +1,10 @@
+{
+  "id": "gulas", "title": "Guláš", "chapter": "maso-a-ryby", "baseServings": 4, "timeMinutes": 120, "difficulty": 2,
+  "tags": [], "equipment": ["plotna"], "allergens": [],
+  "ingredients": [
+    { "ingredientId": "veprove", "amount": 600, "unit": "g" },
+    { "ingredientId": "neexistuje", "amount": 100, "unit": "g" }
+  ],
+  "steps": ["Dusit."],
+  "source": { "book": "vlastni" }, "verified": false
+}

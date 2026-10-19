@@ -1,0 +1,55 @@
+{
+  "id": "placky-z-sunky-a-masa",
+  "title": "Placky z šunky a mletého masa",
+  "titleOriginal": "Griddle-Broiled Ham and Meat Patties",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 180,
+      "unit": "g",
+      "note": "mletá šunka (zdroj: Ham, ground 10 lb)"
+    },
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 360,
+      "unit": "g",
+      "note": "zdroj: maso (hovězí, jehněčí, vepřové nebo telecí) mleté 20 lb; použito hovězí"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pánve; ve zdroji není, domácí hodnota",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Mletou šunku a mleté maso důkladně smíchej.", "minutes": 3 },
+    { "text": "Tvaruj placky tlusté asi 2 cm.", "minutes": 5 },
+    { "text": "Pánev lehce vymaž olejem a rozehřej ji na střední žár.", "minutes": 3 },
+    { "text": "Opékej 12 až 15 minut, dokud nejsou propečené a zvenku hnědé; během opékání je několikrát otoč, aby se propekly rovnoměrně. Tuk nesmí dýmat.", "minutes": 15 },
+    { "text": "Podávej hned." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (10 lb šunky a 20 lb mletého masa, celkem 30 lb; porce 4 až 5 oz). Pro 4 porce vychází 180 g mleté šunky a 360 g mletého masa. Zdroj uvádí „meat (beef, lamb, pork or veal)“, tj. libovolné mleté maso; zde je použito hovězí, vepřové mleté by přidalo tuk (a tím kalorie). Hovězí mleté je v katalogu bez specifikace podílu tuku, použit je ekvivalent 80/20. Zdroj nepředepisuje tuk na pánev; přidán je 1 lžička oleje (5 ml) jako domácí hodnota, aby placky nelpěly. Sůl a koření zdroj neuvádí; dochuť podle chuti. Podávání: zdroj doporučuje hnědou omáčku (Brown Gravy, strana 177, PDF 185), nebo smetanovou omáčku u pečené varianty. Omáčka není do receptu přidána, stejně jako u Hamburgerových placek z téže knihy; pro podání ji lze připravit zvlášť. Pečená varianta ze zdroje (25–30 minut v troubě na 160–175 °C) v receptu není. Zdroj uvádí 3 až 3½ oz (asi 90 až 100 g) na placku, což při celkové porci 4,8 oz syrového masa vychází na 1,5 placky na porci.",
+  "source": {
+    "book": "navy-1944",
+    "page": 148,
+    "titleOriginal": "GRIDDLE-BROILED HAM AND MEAT PATTIES"
+  },
+  "verified": true,
+  "quote": "Mix together ham and other meat."
+}

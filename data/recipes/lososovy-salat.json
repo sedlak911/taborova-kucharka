@@ -1,0 +1,99 @@
+{
+  "id": "lososovy-salat",
+  "title": "Lososový salát",
+  "titleOriginal": "Salmon Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "ryby",
+    "celer",
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "losos-v-konzerve",
+      "amount": 360,
+      "unit": "g",
+      "note": "scezený, bez kostí a kůže"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 125,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "okurky-kysele",
+      "amount": 35,
+      "unit": "g",
+      "note": "sladké, nasekané"
+    },
+    {
+      "ingredientId": "salat-listovy",
+      "amount": 35,
+      "unit": "g",
+      "note": "nahrubo nakrájený, křupavý"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "posypat"
+    },
+    {
+      "ingredientId": "horcice",
+      "amount": 1,
+      "unit": "g",
+      "note": "hotová, do salátu"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 4,
+      "unit": "g",
+      "note": "větvičky na ozdobu (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Scezený losos zbav kostí a kůže a rozděl ho na větší kusy.",
+      "minutes": 5
+    },
+    {
+      "text": "Celer nakrájej na kostičky, okurky nasekej nadrobno a salát nahrubo nakrájej.",
+      "minutes": 8
+    },
+    {
+      "text": "Smíchej losos, celer, okurky a salát a lehce osol.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej hořčici a majonézu a opatrně promíchej, aby se losos nerozmačkal.",
+      "minutes": 3
+    },
+    {
+      "text": "Ozdob salát větvičkami čerstvé petrželky.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí po 3/4 šálku (cca 5 oz), výtěžek cca 5 galonů. Losos je 20 lb konzervy (20 tall cans, cca 2 gal); po scezení je hmotnost nižší než u zdrojové vážky, bilance proto mírně nadhodnocuje losos – při přípravě ber scezený losos. Lososa lze nahradit uzeným nebo vařeným bílým rybím masem (treska, kambala) nebo krabím masem. Majonéza je kupovaná (zdroj odkazuje na domácí recept na str. 204, zde se nerozepisuje). Zdroj uvádí sladké okurky (sweet pickles) – v katalogu je nejblíž okurky kyselé, sladkou variantu lze koupit. Hořčice ve zdroji 1 oz (¼ cupu), převedeno na hmotnost. Sůl 3 oz (6 tbsp) dává přes třídu seasoning 6 g na 4 porce, doporučení ubrat na cca 4 g. Petrželová nať na ozdobu je odhad, zdroj neuvádí množství. Variantu Salmon Salad Tropical (banány, ananas) a zelený hrášek místo celeru tento recept nepokrývá.",
+  "source": {
+    "book": "navy-1944",
+    "page": 204,
+    "titleOriginal": "SALMON SALAD"
+  },
+  "verified": false,
+  "quote": "Combine salmon, celery, pickles and crisp lettuce."
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "tapioka",
+    "name": "Tapioka",
+    "aliases": [
+      "tapioka perlová",
+      "tapioka instantní",
+      "rychlá tapioka",
+      "tapioca",
+      "tapioca pearl"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 358,
+      "protein": 0.19,
+      "carbs": 88.69,
+      "fat": 0.02,
+      "fiber": 0.9
+    },
+    "units": {
+      "hrnek": 160
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169717 (Tapioca, pearl, dry); instantní varianta v indexu nenalezena, použita perlová",
+      "units": "USDA cup 152 g × 250/237 = 160 g (metrický hrnek)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

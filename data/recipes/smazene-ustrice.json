@@ -1,0 +1,89 @@
+{
+  "id": "smazene-ustrice",
+  "title": "Smažené ústřice",
+  "titleOriginal": "Fried Oysters",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mekkysi",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ustrice",
+      "amount": 630,
+      "unit": "g",
+      "note": "vyloupané ústřice; zdroj uvádí jen objem (4 gal), hmotnost odhadnuta"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "zhruba 1/4 vejce; zdroj 6 ks na 100 porcí"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 16,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 55,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení v hrnci; slévá se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý do ústřic a strouhanky (odhad)",
+      "scaling": "fat"
+    }
+  ],
+  "steps": [
+    { "text": "V hlubokém hrnci rozehřej olej na 190 °C.", "minutes": 8 },
+    { "text": "Mezitím odstraň z ústřic cizí částice a kousky skořápky.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím smíchej sůl, pepř, vejce a mléko.", "minutes": 2, "parallel": true },
+    { "text": "Ústřice vlož do vaječné směsi.", "minutes": 1 },
+    { "text": "Jednotlivě vyjímej ústřice z vaječné směsi a každou pečlivě obal ve strouhance.", "minutes": 5 },
+    { "text": "Smaž v horkém tuku 3–4 minuty, dokud nejsou křupavé a zlatohnědé.", "minutes": 4 },
+    { "text": "Osuš na papírové utěrce a podávej ihned.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj uvádí 4 galony ústřic bez váhy. Hmotnost jsem odhadl z objemu přes hustotu vyloupaného masa z katalogu (1,046 g/ml): 4 gal ≈ 15,8 kg na 100 porcí, pro 4 porce 630 g (zhruba 24 g na ústřici, tedy 6–7 ústřic na porci, jak zdroj uvádí). Sůl (2 oz) a pepř (½ oz) jsou ze sloupce Ounces; sloupec Amounts uvádí ¼ cupu soli a 1¾ lžíce pepře, tj. o 25–40 % méně, zvolena váha. Vejce: 9½ oz ≈ 6 ks na 100 porcí, pro 4 porce 0,25 ks (lze nahradit 1 malým vejcem a upravit mléko). Olej: 500 ml na smažení je domácí hodnota pro hrnec (slévá se), 30 ml je odhad nasáknuté části. Teplota 375 °F = 190 °C, smažení 3–4 minuty do křupava. Ústřice jsou drahé; v moderní verzi použij vyloupané ústřice z obchodu, nejlépe čerstvé a dobře scezené.",
+  "source": {
+    "book": "navy-1944",
+    "page": 95,
+    "titleOriginal": "FRIED OYSTERS"
+  },
+  "verified": false,
+  "quote": "Coat each oyster thoroughly with meal."
+}

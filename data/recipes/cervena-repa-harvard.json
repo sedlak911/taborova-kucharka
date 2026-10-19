@@ -1,0 +1,134 @@
+{
+  "id": "cervena-repa-harvard",
+  "title": "Červená řepa Harvard",
+  "titleOriginal": "Harvard Beets",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "repa-cervena",
+      "amount": 400,
+      "unit": "g",
+      "note": "oloupaná jedlá hmotnost (zdroj 33 lb nákupní řepy, jedlá část 0,67)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření řepy, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 75,
+      "unit": "ml",
+      "note": "základ omáčky, zůstává v jídle (zdroj ½ gal)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 8.75,
+      "unit": "ks",
+      "note": "vaří se v omáčkové vodě 1 minutu, vyjme se (zdroj 1/3 oz)"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.15,
+      "unit": "ks",
+      "note": "vaří se v omáčkové vodě, vyjme se (zdroj 2 listy)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 14,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "zdroj uvádí jen „pepper“, použit černý"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 14,
+      "unit": "ml",
+      "note": "zdroj uvádí jen „vinegar“",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Řepu důkladně omyj a stonky zkrať na 2–3 cm nad hlízou. Kořínky ponech.",
+      "minutes": 5
+    },
+    {
+      "text": "Ve velkém hrnci přiveď k varu vodu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vlož řepu do vroucí vody a vař 60 minut, dokud nezměkne. Sceď.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím v malém hrnci přiveď k varu vodu s hřebíčkem a bobkovým listem, vař 1 minutu a vyjmi je.",
+      "minutes": 4,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím smíchej cukr, škrob, sůl a pepř, vmíchej je do horké vody a vař za stálého míchání, dokud nezhoustne.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Zalij řepu studenou vodou, oloupej a nakrájej na kostky nebo plátky.",
+      "minutes": 8
+    },
+    {
+      "text": "Do omáčky vmíchej rozpuštěné máslo a ocet.",
+      "minutes": 2
+    },
+    {
+      "text": "Polij řepu omáčkou a znovu ohřej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, 33 lb řepy „as purchased“ (nákupní hmotnost). Přepočteno přes katalog: 33 lb × 0,04 = 599 g nákupní, jedlá část 0,67 → 400 g oloupané řepy (nákupní ≈ 600 g). Voda na vaření řepy (1 l) je domácí hodnota s třídou vessel, slévá se (zdroj uvádí jen „to cover“); zdroj nedává sůl do vody, proto ji nepřidávám. Vaření 35–60 minut: použita horní mez. Omáčka: ½ gal vody (75 ml, linear) s hřebíčkem a bobkovým listem, ty se vyvaří 1 minutu a vyjmou. Cukr 14 g a škrob 6 g a máslo 9 g a ocet 14 ml jsou linear (podle zadání pro omáčku). Sůl 1½ oz (= 3 tbsp) přes třídu seasoning dává 3 g na 4 porce; lze ubrat podle chuti. Hřebíček a bobkový list jsou tak malé množství, že se jejich chuť do omáčky prakticky nepřenese. Pepř zdroj uvádí jen jako „pepper“, použit černý mletý. Recept je z čerstvé řepy; varianta ze sušené řepy (zdroj ji doporučuje) a z konzervované řepy není součástí tohoto receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 265,
+    "titleOriginal": "HARVARD BEETS"
+  },
+  "verified": true
+}

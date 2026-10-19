@@ -1,0 +1,123 @@
+{
+  "id": "rizoto-s-drobky",
+  "title": "Rizoto s drůbežími drobky",
+  "titleOriginal": "Risotto with Chicken Giblets (Risotto alla Milanese II)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 320,
+      "unit": "g",
+      "group": "Rizoto",
+      "note": "dlouhozrnná, nejlépe rizotová (arborio); zdroj množství neuvádí, odhad 80 g na porci"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Rizoto",
+      "note": "osolená, na předvaření rýže do poloviny; zdroj množství neuvádí, odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Rizoto",
+      "note": "do předvařovací vody, případně dochutit"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 600,
+      "unit": "ml",
+      "group": "Rizoto",
+      "note": "postupně po naběračkách; zdroj chce vývar z drobků, krků a konečků křídel pečeného kuřete, nebo ze zbytků pečeného kuřete"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "g",
+      "group": "Drobky a cibule",
+      "note": "zdroj: olej nebo tuk; nebo kousek másla"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "group": "Drobky a cibule",
+      "note": "1 střední, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 150,
+      "unit": "g",
+      "group": "Drobky a cibule",
+      "note": "srdce, žaludky a krky z pečeného kuřete, nasekané nadrobno"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "group": "Dokončení",
+      "note": "hrubě nastrouhaný"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Dokončení",
+      "note": "rozšlehané"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rýži zalij osolenou vodou a vař ji zhruba do poloviny doby vaření.",
+      "minutes": 9
+    },
+    {
+      "text": "Nech vodu odpařit a postupně přilévej vývar po naběračkách. Vař, dokud rýže není měkká a téměř suchá.",
+      "minutes": 10
+    },
+    {
+      "text": "Zatímco se rýže vaří, nasekanou cibuli osmahni na olivovém oleji nebo na tuku do zlatava.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Do cibule přidej nasekané drobky a opékej, dokud nezměknou.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Osmažené drobky s cibulí vmíchej do rýže.",
+      "minutes": 3
+    },
+    {
+      "text": "Rýži sundej z ohně a rychle vmíchej parmezán a rozšlehané vejce.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej hned, horké; nesmí vychladnout ani převařit."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) neuvádí množství rýže, vývaru ani tuku; vše je odhad z běžné praxe pro 4 porce: rýže 320 g (80 g na porci), voda na předvaření 300 ml a kupovaný kuřecí vývar 600 ml (rýže se vsákne a dosušuje, zdroj chce vývar z drobků a krků pečeného kuřete, lze použít i domácí), olivový olej 15 g (zdroj: olej nebo tuk), 1 střední cibule (100 g), drobky 150 g (USDA: drobky jednoho kuřete asi 75 g, pro 4 porce přidány i krky), parmezán 40 g, 1 vejce a sůl 4 g. Zdroj nepíše čas ani pořadí přidání vývaru přesně; čas 30 minut je odhad. Houby, které zdroj zmiňuje jako dobrý doplněk, jsou volitelné a v receptu nejsou. Zdroj popisuje předvaření rýže do poloviny ve vodě, vodu nechat odpařit a dovařit vývarem.",
+  "source": {
+    "book": "italian-1919",
+    "page": 26,
+    "titleOriginal": "RISOTTO WITH CHICKEN GIBLETS (Risotto alla Milanese II)"
+  },
+  "verified": false,
+  "quote": "The broth for this risotto may be made by cooking together the giblets, neck and tips of wings of a chicken which is to be roasted, or it may be made from the left-overs of roast fowl."
+}

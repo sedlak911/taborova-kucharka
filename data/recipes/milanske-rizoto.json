@@ -1,0 +1,37 @@
+{
+  "id": "milanske-rizoto",
+  "title": "Milánské rizoto se šafránem",
+  "titleOriginal": "Risotto Milanese (Risotto alla Milanese)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "kousek na opečení cibule a kousek na dokončení" },
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "note": "1 střední, na tenké plátky; jen na ochucení másla, pak se vyjme" },
+    { "ingredientId": "ryze-bila", "amount": 320, "unit": "g", "note": "rýže na rizoto (ideálně kulatozrnná)" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1200, "unit": "ml", "note": "horký, přilévat postupně; nebo horká voda" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "safran", "amount": 0.1, "unit": "g", "note": "volitelně, „if you like it“; asi půl sáčku" },
+    { "ingredientId": "parmezan", "amount": 40, "unit": "g", "note": "nastrouhaný" }
+  ],
+  "steps": [
+    { "text": "V hrnci rozehřej kousek másla a v něm dozlatova opéct tenké plátky cibule. Pak cibuli vyndej.", "minutes": 8 },
+    { "text": "Do ztmavlého másla postupně přisypávej rýži a za stálého míchání dřevěnou vařečkou ji s tukem promíchej.", "minutes": 3 },
+    { "text": "Přilévej horký vývar vždy, když se rýže začne sušit, a za stálého míchání ji vař. Přidej sůl, pepř a šafrán rozpuštěný v lžíci horkého vývaru.", "minutes": 18 },
+    { "text": "Když je rýže téměř měkká, dolij zbylý vývar, přidej nastrouhaný parmezán a kousek másla a dobře promíchej.", "minutes": 3 },
+    { "text": "Podávej hned horké; rizoto nesmí převařit ani vystydnout." }
+  ],
+  "modernNote": "Gentile uvádí jen suroviny bez množství a bez počtu porcí, proto jsou všechna množství odhad z běžné praxe pro 4 porce: rýže 80 g na porci (320 g), jedna střední cibule (150 g), máslo 20 g na opečení a 20 g na dokončení, parmezán 40 g, hovězí vývar 1,2 l (zdroj říká „brown stock“, rýže ho vstřebá postupně; nouzově horká voda), sůl 5 g, pepř 0,5 g a šafrán 0,1 g (zdroj ho dává „if you like it“, v Miláně typický). Cibule se podle zdroje po opečení v másle vyjme a slouží jen k ochucení; ve výsledku se nejí. Čas 35 minut je odhad (rýže se vaří ~18 minut, zdroj dobu neuvádí). Kulatozrnná rýže (arborio, carnaroli) je pro rizoto vhodnější než bílá dlouhozrnná z katalogu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 26,
+    "titleOriginal": "RISOTTO MILANAISE (Risotto alla Milanese)"
+  },
+  "verified": false,
+  "quote": "This dish must not be allowed to be overcooked or cooled before eating."
+}

@@ -1,0 +1,95 @@
+{
+  "id": "artycoky-v-omacce",
+  "title": "Artyčoky v omáčce",
+  "titleOriginal": "ARTICHOKES WITH SAUCE (Carciofi in salsa)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "artycok",
+      "amount": 320,
+      "unit": "g",
+      "note": "jedlá část, očištěná srdíčka (asi 4 celé hlavy)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opečení artyčoků a do omáčky (zdroj říká „butter in proportion“)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "asi 200 ml na dovaření, zbytek na zřídnutí omáčky"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "note": "nasekaná, „a pinch“"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 10,
+      "unit": "g",
+      "note": "1–2 čajové lžičky jemně strouhaného"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 10,
+      "unit": "ml",
+      "note": "asi čtvrtina citronu"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zdroj říká jeden nebo dva podle množství; zvoleny dva"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "na artyčoky a do omáčky, podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    { "text": "Odstraň tvrdé vnější listy artyčoků, zkrať špičky a oloupej stonky.", "minutes": 10 },
+    { "text": "Každý artyčok rozděl na čtyři části, u větších na šest.", "minutes": 5 },
+    { "text": "Ve velké pánvi rozehřej máslo, vlož artyčoky, osol je a opepři.", "minutes": 3 },
+    { "text": "Pánev zatřepej, aby se artyčoky obrátily, a opékej je, dokud nevsáknou většinu rozpuštěného másla.", "minutes": 8 },
+    { "text": "Zalij je trochou vývaru a dovař do měkka.", "minutes": 15 },
+    { "text": "Artyčoky vyjmi suché a do zbylé šťávy na pánvi vmíchej nasekanou petrželku, jemně strouhaný parmezán a citronovou šťávu.", "minutes": 2 },
+    { "text": "Dochuť solí a pepřem a nech omáčku krátce probublat.", "minutes": 3 },
+    { "text": "Pánev sundej z ohně a vmíchej žloutky.", "minutes": 2 },
+    { "text": "Pánev vrať na oheň, přilij zbylý vývar, aby omáčka zřídla, a vlož do ní artyčoky, aby se ohřály.", "minutes": 3 },
+    { "text": "Podávej teplé, nejlépe jako přílohu k vařenému masu." }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani počet porcí; odhad pro 4 porce z běžné praxe: 320 g jedlé části artyčoků (asi 4 celé hlavy, očištěná srdíčka), 40 g másla na opečení a do omáčky, 300 ml hovězího vývaru (asi 200 ml na dovaření, zbytek na zřídnutí), 10 g parmazánu (1–2 čajové lžičky jemně strouhaného), 5 g petrželky, 10 ml citronové šťávy (asi čtvrtina citronu), 2 žloutky (zdroj říká jeden až dva podle množství; zvoleny dva), 3 g soli a 1 g pepře. Gentile „broth“ je hovězí vývar (kniha ho tak definuje v č. 1), proto zůstává hovězí; bezmasá varianta by použila zeleninový vývar. Doba dušení je odhad. Recept je zamýšlen jako příloha k vařenému masu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 82,
+    "titleOriginal": "ARTICHOKES WITH SAUCE (Carciofi in salsa)"
+  },
+  "verified": false,
+  "quote": "Put the artichokes in the sauce this second time to heat them and serve especially as a side-dish for boiled meat."
+}

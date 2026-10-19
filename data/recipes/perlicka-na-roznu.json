@@ -1,0 +1,34 @@
+{
+  "id": "perlicka-na-roznu",
+  "title": "Perlička na rožni",
+  "titleOriginal": "African Hen (Gallina di Faraone)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["trouba"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1100, "unit": "g", "note": "celé kuře s kostí; zdroj předepisuje perličku, viz původní surovina", "original": { "ingredientId": "perlicka", "amount": 1100, "unit": "g" } },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "kulička do dutiny (asi 30 g) a máslo na papír a na potření (asi 20 g)" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "do dutiny, na papír a na potření" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 220 °C." },
+    { "text": "Kuře zevnitř osol a do dutiny vlož kuličku másla.", "minutes": 3 },
+    { "text": "Kuře zabal do papíru namazaného máslem a posypaného solí.", "minutes": 3 },
+    { "text": "Zabalené kuře peč v troubě asi 35 minut.", "minutes": 35 },
+    { "text": "Sundej papír, kuře potři máslem a lehce dosol.", "minutes": 3 },
+    { "text": "Peč dalších 20 minut, dokud kůže nezezlátne.", "minutes": 20 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile č. 143, s. 103) uvádí jen postup: perličku pečenou na rožni, do dutiny kulička másla osolená, zabalená v máslem potřeném a solí posypaném papíru, papír se sundá, až je pták skoro hotový, a dokončí se potřením máslem a solí. Hmotnost ani počet porcí zdroj neuvádí. Odhady pro 4 porce: celé ptáče 1 100 g s kostí (v katalogu celé kuře; perlička je k sehnání jen občas, proto je perlička v původní surovině a kuře v řádku), kulička másla 30 g a 20 g na papír a potření, sůl 4 g. Pepř zdroj neuvádí, nepřidán. Pečení na rožni nahrazeno pečením v troubě na 220 °C; doby 35 + 20 minut jsou odhad pro ptáče kolem 1,1 kg. Zdroj zmiňuje, že zvěřina nemá být příliš čerstvá; to se u kuřete neřeší.",
+  "source": {
+    "book": "italian-1919",
+    "page": 107,
+    "titleOriginal": "AFRICAN HEN (GALLINA DI FARAONE)"
+  },
+  "verified": false,
+  "quote": "The best way to cook the African hen is roasted at the spit."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "grilovany-toast-se-syrem",
+  "title": "Grilovaný toast se sýrem",
+  "titleOriginal": "Grilled Cheese Sandwich",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "taveny-syr", "amount": 230, "unit": "g", "note": "plátkový, 2 plátky na sendvič" },
+    { "ingredientId": "chleb-bily", "amount": 200, "unit": "g", "note": "krájený, 2 kusy na sendvič" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "rozpuštěné; na potření vnějších stran" }
+  ],
+  "steps": [
+    { "text": "Mezi 2 plátky chleba polož 2 plátky sýra.", "minutes": 3 },
+    { "text": "Vnější strany sendviče lehce potři rozpuštěným máslem nebo margarínem.", "minutes": 2 },
+    { "text": "Opékej na pánvi rozpálené na 200 °C, dokud nejsou sendviče z každé strany lehce zlatavé a sýr se neroztaví.", "minutes": 8 },
+    { "text": "Každý sendvič rozkrojí na půlky a podávej horký.", "minutes": 1 }
+  ],
+  "modernNote": "Porce 1 sendvič (AFRS Portion 1 Sandwich, výtěžek 100 sendvičů); recept je pro 4 porce, tj. 4 sendviče. Zdroj neuvádí čas, timeMinutes 15 je odhad. Teplota 400 °F (200 °C) je z zdrojového plechu (griddle); na domácí pánvi ji upravit podle chuti. Alternativa ze zdroje (Notes): dorumenit v horkovzdušné troubě na 425 °F (220 °C) 5 minut. CCP věta o držení při 140 °F vynechána.",
+  "source": { "book": "afrs-2003", "page": 1230, "code": "N 006 00", "titleOriginal": "GRILLED CHEESE SANDWICH" },
+  "verified": true,
+  "quote": "Grill on 400 F. griddle until sandwiches are lightly browned on each side and cheese is melted."
+}

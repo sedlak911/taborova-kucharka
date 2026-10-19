@@ -1,0 +1,84 @@
+{
+  "id": "omacka-z-bujonovych-kostek",
+  "title": "Omáčka z bujónových kostek",
+  "titleOriginal": "Bouillon Cube Gravy",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredientId": "bujon-kostka",
+      "amount": 1.2,
+      "unit": "ks",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 16,
+      "unit": "g",
+      "note": "místo tuku ze slaniny",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 16,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Bujónové kostky rozpusť v části vroucí vody a pak dolij zbylou vodu.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozpusť máslo, vmíchej mouku a za stálého míchání opékej do zhnědnutí.",
+      "minutes": 6
+    },
+    {
+      "text": "Za stálého míchání postupně přilévej bujónový vývar k jíšce.",
+      "minutes": 3
+    },
+    {
+      "text": "Zahřej do varu a vař 5 minut.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Zdroj je omáčka na 100 porcí (2 gal, porce ¼ cupu ≈ 60 ml); přepočet na 4 porce dává asi 300 ml vody, 1,2 kostky bujónu a 18 g mouky. Zdroj počítá 30 kostek na 100 porcí; kostky jsou základ omáčky (rozpouštějí se v celém množství vody), proto třída linear: 30 × 0,04 = 1,2 ks; podle chuti lze přidat až na 2 kostky. Hmotnost kostky 10 g je z katalogu. Tuk ze slaniny (1 pint ≈ 411 g sádla při 0,87 g/ml) je v originále sádlo; moderně použito máslo v jíšce (lineárně 16 g). Bilance omáčky (≈ 85 g syrových surovin na porci vs. ≈ 60 ml) je u husté omáčky v pořádku. Obsahuje bujón s masovým extraktem, proto není bezmasý.",
+  "source": {
+    "book": "navy-1944",
+    "page": 184,
+    "titleOriginal": "BOUILLON CUBE GRAVY"
+  },
+  "verified": true
+}

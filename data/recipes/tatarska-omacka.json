@@ -1,0 +1,77 @@
+{
+  "id": "tatarska-omacka",
+  "title": "Tatarská omáčka",
+  "titleOriginal": "Tartare Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kapary",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "olivy-cerne",
+      "amount": 3,
+      "unit": "g",
+      "note": "bez pecek, nasekané"
+    },
+    {
+      "ingredientId": "okurky-kysele",
+      "amount": 3,
+      "unit": "g",
+      "note": "nadrobno nasekané"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 2,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 2,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nadrobno nasekej okurky, cibuli a petrželku, olivy nakrájej.",
+      "minutes": 5
+    },
+    {
+      "text": "Smíchej kapary, olivy, okurky, cibuli a petrželku.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej do majonézy a dobře promíchej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: Tartare Sauce na straně 192 PDF (tištěná 184), výtěžek 100 porcí (asi ½ gal), porce 1½ tbsp (asi ¾ oz, 21 g). Hmotnosti ze zdroje: majonéza 4 lb (1 814 g), okurky 3 oz, cibule 1½ oz, petrželka 1 oz; kapary a olivy jsou ve zdroji jen v objemu (½ cup), převedeny přes hmotnost lžíce (kapary 8,6 g, olivy 8,4 g; katalog) – odhad, proto verified false. Majonéza ze zdroje odkazuje na vlastní recept (Mayonnaise, p. 204 tištěná = PDF 212); použita katalogová majonéza, domácí postup nebyl přepisován. Bilance: 4 porce = 88 g, tj. 22 g na porci proti 21 g ze zdroje. Doporučení: k smaženým rybám a ústřicím, na pečené ryby a telecí řízky se hodí i tatarská omáčka z domácí majonézy.",
+  "source": {
+    "book": "navy-1944",
+    "page": 192,
+    "titleOriginal": "TARTARE SAUCE"
+  },
+  "verified": false,
+  "quote": "Combine capers, olives, pickles, onion and parsley. Stir into mayonnaise. Mix well."
+}

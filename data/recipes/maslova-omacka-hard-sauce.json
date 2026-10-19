@@ -1,0 +1,54 @@
+{
+  "id": "maslova-omacka-hard-sauce",
+  "title": "Máslová omáčka (hard sauce)",
+  "titleOriginal": "Hard Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "změkčené",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 75,
+      "unit": "g",
+      "note": "prosátý"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 4,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Ušlehej změkčené máslo do krémova.", "minutes": 5 },
+    { "text": "Postupně přidávej cukr a vanilku a vyšlehej do hladka.", "minutes": 5 },
+    { "text": "Natlač směs do formiček vystlaných voskovým papírem nebo do čtvercových forem.", "minutes": 2 },
+    { "text": "Ochlaď v lednici do ztuhnutí." },
+    { "text": "Vyklop z formiček a nakrájej na plátky.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (6 liber, porce 1 unce, zhruba 1½–2 lžíce). Pro 4 porce vychází 4 × 1 unce ≈ 113 g, recept dává 114 g. Máslo je třída linear, protože jde o krém (ne tuk na smažení). Vanilka: váha 2 unce (≈ ¼ hrnku) přepočtena na 4 ml. Podává se k parnímu pudinku, pečeným jablkům nebo jablečnému koláči. Podle zdroje lze podat i bez ztuhnutí. Chlazení zdroj nevymezuje časem, proto nemá minutes a není zahrnuto do timeMinutes; v praxi počítej s 1–2 hodinami v lednici. Kalorie: moučkový cukr a máslo tvoří většinu energie.",
+  "source": {
+    "book": "navy-1944",
+    "page": 65,
+    "titleOriginal": "HARD SAUCE"
+  },
+  "verified": true,
+  "quote": "Beat butter until creamy."
+}

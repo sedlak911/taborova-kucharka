@@ -1,0 +1,64 @@
+[
+  {
+    "id": "celerove-seminko",
+    "name": "Celerové semínko",
+    "aliases": [
+      "celery seed",
+      "semínka celeru",
+      "celerová semínka"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 392,
+      "protein": 18.07,
+      "carbs": 41.35,
+      "fat": 25.27,
+      "fiber": 11.8
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170920 (Spices, celery seed)",
+      "units": "USDA fdc:170920 portions (tsp 2 g, tbsp 6,5 g)",
+      "refuse": "USDA fdc:170920 refusePct 0"
+    },
+    "units": {
+      "lzice": 6.5,
+      "lzicka": 2
+    }
+  },
+  {
+    "id": "horcicne-seminko",
+    "name": "Hořčičné semínko (celé)",
+    "aliases": [
+      "hořčičné semínko",
+      "mustard seed",
+      "hořčičná semínka"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 508,
+      "protein": 26.08,
+      "carbs": 28.09,
+      "fat": 36.24,
+      "fiber": 12.2
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "horcice"
+    ],
+    "sources": {
+      "nutrition": "náhrada: USDA SR Legacy fdc:170929 (Spices, mustard seed, ground); celé semeno v USDA chybí",
+      "units": "USDA fdc:170929 portions (tsp 2 g, tbsp 6,3 g) – mletá hodnota, celé semeno je u celé lžíce těžší",
+      "refuse": "USDA fdc:170929 refusePct 0"
+    },
+    "units": {
+      "lzice": 6.3,
+      "lzicka": 2
+    }
+  }
+]

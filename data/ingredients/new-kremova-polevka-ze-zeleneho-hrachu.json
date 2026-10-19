@@ -1,0 +1,29 @@
+[
+  {
+    "id": "celerova-nat",
+    "name": "Celerová nať",
+    "aliases": [
+      "listy celeru",
+      "celerové listy",
+      "celery leaves"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 14,
+      "protein": 0.69,
+      "carbs": 2.97,
+      "fat": 0.17,
+      "fiber": 1.6
+    },
+    "units": {},
+    "ediblePortion": 0.89,
+    "allergens": [
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169988 (Celery, raw) – proxy za listy, stonky mají podobná makra",
+      "refuse": "odpad 11 % shodně s USDA Celery, raw (Roots and trimmings)"
+    }
+  }
+]

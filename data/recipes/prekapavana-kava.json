@@ -1,0 +1,68 @@
+{
+  "id": "prekapavana-kava",
+  "title": "Překapávaná káva",
+  "titleOriginal": "Coffee: Drip Method (Urn)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 950,
+      "unit": "ml",
+      "note": "čerstvě natažená studená, převař"
+    },
+    {
+      "ingredientId": "kava-mleta",
+      "amount": 55,
+      "unit": "g",
+      "note": "mletá na překapávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu přiveď v hrnci k rychlému bublavému varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím vlož mletou kávu do filtru a filtr zavěs nad prázdný džbán nebo konvici.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Vodu postupně nalévej na kávu ve filtru a filtr přikryj.",
+      "minutes": 4
+    },
+    {
+      "text": "Jakmile voda celá prokape, filtr vyjmi.",
+      "minutes": 1
+    },
+    {
+      "text": "Kávu v nádobě zamíchej, aby chuť byla vyrovnaná.",
+      "minutes": 2
+    },
+    {
+      "text": "Kávu přikryj a udrž teplou, ale nevař ji, jinak hořkne."
+    }
+  ],
+  "modernNote": "Zdroj: Drip Method (Urn), kotel armádní kuchyně, 100 porcí; 6¼ galonu vody a 3 lb mleté kávy, 1 šálek ≈ 8 oz (237 ml). Pro 4 porce 950 ml vody a 55 g kávy. Doma se káva nevaří v kotli, ale nalévá přes filtr; přehřátí hořkne, proto se nenechává vřít. Bag Method (látkový sáček, který se po přelití horkou vodou nechá 6 minut ponořený) a Vacuum-Type a Percolator Method jsou v knize také, v tomto receptu nezpracované. Iced Coffee (ochladit, přidat led a cukr) je varianta z téže strany, cukr lze vynechat. Nález 0 kcal na porci je záměrný: nápoj z kávy a vody má energii prakticky nulovou (stejně jako černý čaj).",
+  "source": {
+    "book": "navy-1944",
+    "page": 25,
+    "titleOriginal": "Coffee: Drip Method (Urn)"
+  },
+  "verified": true
+}

@@ -1,0 +1,2982 @@
+[
+  {
+    "id": "agave-sirup",
+    "name": "Agávový sirup",
+    "aliases": [
+      "sirup agávový"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 310,
+      "protein": 0.09,
+      "carbs": 76.37,
+      "fat": 0.45,
+      "fiber": 0.2
+    },
+    "densityGPerMl": 1.38,
+    "units": {
+      "lzice": 21,
+      "lzicka": 6.9,
+      "hrnek": 345
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170277 (Sweetener, syrup, agave)",
+      "refuse": "USDA fdc:170277 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "ancovicky",
+    "name": "Ančovičky",
+    "aliases": [
+      "ančovičky v oleji",
+      "ančovičky filety"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 210,
+      "protein": 28.89,
+      "carbs": 0,
+      "fat": 9.71,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174183 (Fish, anchovy, european, canned in oil, drained solids)",
+      "refuse": "USDA fdc:174183 refusePct 0"
+    }
+  },
+  {
+    "id": "artycok",
+    "name": "Artyčok",
+    "aliases": [
+      "artyčoky",
+      "artičok"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 47,
+      "protein": 3.27,
+      "carbs": 10.51,
+      "fat": 0.15,
+      "fiber": 5.4
+    },
+    "units": {},
+    "ediblePortion": 0.4,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169205 (Artichokes, (globe or french), raw)",
+      "refuse": "USDA fdc:169205 refusePct 60"
+    }
+  },
+  {
+    "id": "basmati",
+    "name": "Rýže basmati",
+    "aliases": [
+      "basmati",
+      "rýže basmati dlouhozrnná"
+    ],
+    "category": "testoviny-a-ryze",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 356,
+      "protein": 8.89,
+      "carbs": 75.56,
+      "fat": 1.11,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 195
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "open-tandoor-data food-basmati-rice; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)",
+      "units": "USDA fdc:168877 cup 185 g (rýže jako analog)"
+    }
+  },
+  {
+    "id": "batat",
+    "name": "Batát",
+    "aliases": [
+      "sladký brambor",
+      "batáty"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 86,
+      "protein": 1.57,
+      "carbs": 20.12,
+      "fat": 0.05,
+      "fiber": 3
+    },
+    "units": {
+      "ks": 95
+    },
+    "ediblePortion": 0.72,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168482 (Sweet potato, raw, unprepared (Includes foods for USDA's Food Distribu); Tandoor food-sweet-potatoes-orange-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168482 refusePct 28",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "bile-vino",
+    "name": "Bílé víno",
+    "aliases": [
+      "víno bílé",
+      "suché bílé víno"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 80,
+      "protein": 0.07,
+      "carbs": 3.74,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.99,
+    "units": {
+      "lzice": 14.8,
+      "lzicka": 5,
+      "hrnek": 248
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "siricitany"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173200 (Alcoholic beverage, wine, table, white, Riesling); Tandoor food-wine-white má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:173200 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "bilek",
+    "name": "Bílek",
+    "aliases": [
+      "vaječný bílek",
+      "bílky"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 52,
+      "protein": 10.9,
+      "carbs": 0.73,
+      "fat": 0.17,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 33
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "vejce"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172183 (Egg, white, raw, fresh); Tandoor food-egg-white-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172183 refusePct 0",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "brambory",
+    "name": "Brambory",
+    "aliases": [
+      "brambor",
+      "zemáky"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 69,
+      "protein": 1.68,
+      "carbs": 15.71,
+      "fat": 0.1,
+      "fiber": 2.4
+    },
+    "units": {
+      "ks": 120
+    },
+    "ediblePortion": 0.8,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170028 (Potatoes, white, flesh and skin, raw); Tandoor food-potatoes má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "odpad 20 % (běžná hodnota pro brambory; USDA fdc:170028 uvádí 25 %)",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "brie",
+    "name": "Brie",
+    "aliases": [
+      "sýr brie",
+      "brie plísňový"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 334,
+      "protein": 20.75,
+      "carbs": 0.45,
+      "fat": 27.68,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172177 (Cheese, brie); Tandoor food-cheese-brie má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172177 refusePct 0"
+    }
+  },
+  {
+    "id": "camembert",
+    "name": "Camembert",
+    "aliases": [
+      "hermelín",
+      "plísňový sýr"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 300,
+      "protein": 19.8,
+      "carbs": 0.46,
+      "fat": 24.26,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 100
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172178 (Cheese, camembert); Tandoor food-cheese-camembert má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172178 refusePct 0",
+      "units": "běžné balení hermelínu 100 g"
+    }
+  },
+  {
+    "id": "celozrnna-mouka",
+    "name": "Celozrnná pšeničná mouka",
+    "aliases": [
+      "mouka celozrnná",
+      "celozrnná mouka"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 340,
+      "protein": 13.21,
+      "carbs": 71.97,
+      "fat": 2.5,
+      "fiber": 10.7
+    },
+    "units": {
+      "hrnek": 127
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168893 (Wheat flour, whole-grain (Includes foods for USDA's Food Distribution ); Tandoor food-flour-wheat-whole-grain-unenriched má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168893 refusePct 0",
+      "units": "USDA fdc:168893 portions"
+    }
+  },
+  {
+    "id": "cerny-pepr-mlety",
+    "name": "Pepř černý mletý",
+    "aliases": [
+      "pepř mletý",
+      "černý pepř"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 251,
+      "protein": 10.39,
+      "carbs": 63.95,
+      "fat": 3.26,
+      "fiber": 25.3
+    },
+    "units": {
+      "lzice": 6.9,
+      "lzicka": 2.3
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170931 (Spices, pepper, black)",
+      "refuse": "USDA fdc:170931 refusePct 0",
+      "units": "USDA fdc:170931 portions"
+    }
+  },
+  {
+    "id": "cervene-vino",
+    "name": "Červené víno",
+    "aliases": [
+      "víno červené",
+      "suché červené víno"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 85,
+      "protein": 0.07,
+      "carbs": 2.61,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.99,
+    "units": {
+      "lzice": 14.8,
+      "lzicka": 5,
+      "hrnek": 248
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "siricitany"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173190 (Alcoholic beverage, wine, table, red); Tandoor food-wine-red má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:173190 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "cesnek-prasek",
+    "name": "Česnek sušený mletý",
+    "aliases": [
+      "česnek granulovaný",
+      "česnekový prášek"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 331,
+      "protein": 16.55,
+      "carbs": 72.73,
+      "fat": 0.73,
+      "fiber": 9
+    },
+    "units": {
+      "lzice": 9.7,
+      "lzicka": 3.1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171325 (Spices, garlic powder)",
+      "refuse": "USDA fdc:171325 refusePct 0",
+      "units": "USDA fdc:171325 portions"
+    }
+  },
+  {
+    "id": "chia",
+    "name": "Chia semínka",
+    "aliases": [
+      "chia",
+      "semínka chia"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 486,
+      "protein": 16.5,
+      "carbs": 42.1,
+      "fat": 30.7,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "open-tandoor-data food-chia-seeds; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)"
+    }
+  },
+  {
+    "id": "chleb-celozrnny",
+    "name": "Chléb celozrnný",
+    "aliases": [
+      "celozrnný chléb",
+      "chleba celozrnný"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 252,
+      "protein": 12.45,
+      "carbs": 42.71,
+      "fat": 3.5,
+      "fiber": 6
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172688 (Bread, whole-wheat, commercially prepared); Tandoor food-bread-whole-wheat-commercially-prepared má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172688 refusePct 0"
+    }
+  },
+  {
+    "id": "cibule-bila",
+    "name": "Cibule bílá",
+    "aliases": [
+      "cibule sladká",
+      "bílá cibule"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 35,
+      "protein": 0.89,
+      "carbs": 7.68,
+      "fat": 0.13,
+      "fiber": 1.7
+    },
+    "units": {
+      "ks": 100
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "open-tandoor-data food-onions-white-raw; vláknina 1,7 g převzata ze suroviny cibule (USDA SR Legacy fdc:170000)",
+      "refuse": "jako cibule: USDA SR Legacy fdc:170000 refuse 10%",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "cibule-prasek",
+    "name": "Cibule sušená mletá",
+    "aliases": [
+      "cibulový prášek",
+      "cibule v prášku"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 341,
+      "protein": 10.41,
+      "carbs": 79.12,
+      "fat": 1.04,
+      "fiber": 15.2
+    },
+    "units": {
+      "lzice": 6.9,
+      "lzicka": 2.4
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171327 (Spices, onion powder)",
+      "refuse": "USDA fdc:171327 refusePct 0",
+      "units": "USDA fdc:171327 portions"
+    }
+  },
+  {
+    "id": "cibule-vlocky",
+    "name": "Cibule sušená (vločky)",
+    "aliases": [
+      "sušená cibule",
+      "cibule dehydrovaná"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 349,
+      "protein": 8.95,
+      "carbs": 83.28,
+      "fat": 0.46,
+      "fiber": 9.2
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170002 (Onions, dehydrated flakes)",
+      "refuse": "USDA fdc:170002 refusePct 0"
+    }
+  },
+  {
+    "id": "cuketa",
+    "name": "Cuketa",
+    "aliases": [
+      "cukety"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 17,
+      "protein": 1.21,
+      "carbs": 3.11,
+      "fat": 0.32,
+      "fiber": 1
+    },
+    "units": {
+      "ks": 200
+    },
+    "ediblePortion": 0.95,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169291 (Squash, summer, zucchini, includes skin, raw); Tandoor food-summer-squash-green-zucchini-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169291 refusePct 5",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "dyne",
+    "name": "Dýně",
+    "aliases": [
+      "dýně hokkaido",
+      "dýně obecná"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 34,
+      "protein": 0.95,
+      "carbs": 8.59,
+      "fat": 0.13,
+      "fiber": 1.5
+    },
+    "units": {},
+    "ediblePortion": 0.71,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170489 (Squash, winter, all varieties, raw); Tandoor food-winter-squash-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170489 refusePct 29"
+    }
+  },
+  {
+    "id": "dynova-seminka",
+    "name": "Dýňová semínka",
+    "aliases": [
+      "semínka dýňová",
+      "dýňové jádro"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 559,
+      "protein": 30.23,
+      "carbs": 10.71,
+      "fat": 49.05,
+      "fiber": 6
+    },
+    "units": {
+      "hrnek": 136
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170556 (Seeds, pumpkin and squash seed kernels, dried); Tandoor food-seeds-pumpkin-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "nakupuje se loupané, USDA fdc:170556 udává odpad 26 % u neloupané suroviny",
+      "units": "USDA fdc:170556 portions"
+    }
+  },
+  {
+    "id": "fazole-cerne",
+    "name": "Fazole černé sušené",
+    "aliases": [
+      "černé fazole"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 341,
+      "protein": 21.6,
+      "carbs": 62.36,
+      "fat": 1.42,
+      "fiber": 15.5
+    },
+    "units": {
+      "hrnek": 205
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173734 (Beans, black, mature seeds, raw); Tandoor food-black-beans-from-canned-fat-added má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:173734 refusePct 0",
+      "units": "USDA fdc:173734 portions"
+    }
+  },
+  {
+    "id": "fazole-cervene",
+    "name": "Fazole červené sušené",
+    "aliases": [
+      "červené fazole",
+      "fazole ledvinky"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 337,
+      "protein": 22.53,
+      "carbs": 61.29,
+      "fat": 1.06,
+      "fiber": 15.2
+    },
+    "units": {
+      "hrnek": 194
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173744 (Beans, kidney, red, mature seeds, raw); Tandoor food-beans-dried-dark-red-kidney má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:173744 refusePct 0",
+      "units": "USDA fdc:173744 portions"
+    }
+  },
+  {
+    "id": "gouda",
+    "name": "Gouda",
+    "aliases": [
+      "sýr gouda",
+      "holandský sýr"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 356,
+      "protein": 24.94,
+      "carbs": 2.22,
+      "fat": 27.44,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171241 (Cheese, gouda); Tandoor food-cheese-gouda má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:171241 refusePct 0"
+    }
+  },
+  {
+    "id": "hnedy-cukr",
+    "name": "Hnědý cukr",
+    "aliases": [
+      "cukr hnědý",
+      "třtinový cukr"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 380,
+      "protein": 0.12,
+      "carbs": 98.09,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzicka": 3,
+      "hrnek": 232
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168833 (Sugars, brown)",
+      "refuse": "USDA fdc:168833 refusePct 0",
+      "units": "USDA fdc:168833 cup packed 220 g, lžička unpacked"
+    }
+  },
+  {
+    "id": "houby-sitake",
+    "name": "Houby šitake",
+    "aliases": [
+      "šitake",
+      "shiitake"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 34,
+      "protein": 2.24,
+      "carbs": 6.79,
+      "fat": 0.49,
+      "fiber": 2.5
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169242 (Mushrooms, shiitake, raw); Tandoor food-mushrooms-shiitake má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169242 refusePct 0"
+    }
+  },
+  {
+    "id": "hovezi-mlete",
+    "name": "Hovězí maso mleté",
+    "aliases": [
+      "mleté hovězí",
+      "hovězí mleté"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 254,
+      "protein": 17.17,
+      "carbs": 0,
+      "fat": 20,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174036 (Beef, ground, 80% lean meat / 20% fat, raw); Tandoor food-beef-ground-80pct-lean-meat-20pct-fat-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:174036 refusePct 0"
+    }
+  },
+  {
+    "id": "hruska",
+    "name": "Hruška",
+    "aliases": [
+      "hrušky"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 57,
+      "protein": 0.36,
+      "carbs": 15.23,
+      "fat": 0.14,
+      "fiber": 3.1
+    },
+    "units": {
+      "ks": 150
+    },
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169118 (Pears, raw); Tandoor food-pear-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169118 refusePct 10",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "jablecny-dzus",
+    "name": "Jablečný džus",
+    "aliases": [
+      "džus jablečný",
+      "jablečná šťáva"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 46,
+      "protein": 0.1,
+      "carbs": 11.3,
+      "fat": 0.13,
+      "fiber": 0.2
+    },
+    "densityGPerMl": 1.05,
+    "units": {
+      "lzice": 15.8,
+      "lzicka": 5.2,
+      "hrnek": 262
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173933 (Apple juice, canned or bottled, unsweetened, without added ascorbic ac); Tandoor food-apple-juice má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:173933 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "kalmar",
+    "name": "Kalmar",
+    "aliases": [
+      "sépie",
+      "kalamáry"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 92,
+      "protein": 15.58,
+      "carbs": 3.08,
+      "fat": 1.38,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mekkysi"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174223 (Mollusks, squid, mixed species, raw)",
+      "refuse": "USDA fdc:174223 refusePct 0"
+    }
+  },
+  {
+    "id": "kapary",
+    "name": "Kapary",
+    "aliases": [
+      "kapary v nálevu"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 23,
+      "protein": 2.36,
+      "carbs": 4.89,
+      "fat": 0.86,
+      "fiber": 3.2
+    },
+    "units": {
+      "lzice": 8.6
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172238 (Capers, canned)",
+      "refuse": "USDA fdc:172238 refusePct 0",
+      "units": "USDA fdc:172238 portions"
+    }
+  },
+  {
+    "id": "kardamom",
+    "name": "Kardamom",
+    "aliases": [
+      "kardamom mletý"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 311,
+      "protein": 10.76,
+      "carbs": 68.47,
+      "fat": 6.7,
+      "fiber": 28
+    },
+    "units": {
+      "lzice": 5.8,
+      "lzicka": 2
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170919 (Spices, cardamom)",
+      "refuse": "USDA fdc:170919 refusePct 0",
+      "units": "USDA fdc:170919 portions"
+    }
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "aliases": [
+      "aktinidie",
+      "kiwi zelené"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 61,
+      "protein": 1.14,
+      "carbs": 14.66,
+      "fat": 0.52,
+      "fiber": 3
+    },
+    "units": {
+      "ks": 53
+    },
+    "ediblePortion": 0.76,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168153 (Kiwifruit, green, raw); Tandoor food-kiwifruit-green-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168153 refusePct 24",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "klicky-mungo",
+    "name": "Klíčky mungo",
+    "aliases": [
+      "sójové klíčky",
+      "klíčky fazole mungo"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 30,
+      "protein": 3.04,
+      "carbs": 5.94,
+      "fat": 0.18,
+      "fiber": 1.8
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169957 (Mung beans, mature seeds, sprouted, raw)",
+      "refuse": "USDA fdc:169957 refusePct 0"
+    }
+  },
+  {
+    "id": "kokosovy-olej",
+    "name": "Kokosový olej",
+    "aliases": [
+      "olej kokosový",
+      "kokosový tuk"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 892,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 99.06,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.92,
+    "units": {
+      "lzice": 13.6,
+      "lzicka": 4.5,
+      "hrnek": 230
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171412 (Oil, coconut); Tandoor food-coconut-oil má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:171412 refusePct 0",
+      "units": "USDA fdc:171412 portions"
+    }
+  },
+  {
+    "id": "kondenzovane-mleko",
+    "name": "Kondenzované mléko slazené",
+    "aliases": [
+      "sladké kondenzované mléko",
+      "salko"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 321,
+      "protein": 7.91,
+      "carbs": 54.4,
+      "fat": 8.7,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.29,
+    "units": {
+      "lzice": 19.4,
+      "lzicka": 6.5,
+      "hrnek": 322
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171275 (Milk, canned, condensed, sweetened); Tandoor food-milk-condensed-sweetened má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:171275 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "koriandr-semena",
+    "name": "Koriandr semínka",
+    "aliases": [
+      "koriandr celý",
+      "koriandr mletý"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 298,
+      "protein": 12.37,
+      "carbs": 54.99,
+      "fat": 17.77,
+      "fiber": 41.9
+    },
+    "units": {
+      "lzice": 5,
+      "lzicka": 1.8
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170922 (Spices, coriander seed)",
+      "refuse": "USDA fdc:170922 refusePct 0",
+      "units": "USDA fdc:170922 portions"
+    }
+  },
+  {
+    "id": "kukuricna-mouka",
+    "name": "Kukuřičná mouka",
+    "aliases": [
+      "mouka kukuřičná",
+      "kukuřičná krupice"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 361,
+      "protein": 6.93,
+      "carbs": 76.85,
+      "fat": 3.86,
+      "fiber": 7.3
+    },
+    "units": {
+      "hrnek": 124
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170290 (Corn flour, whole-grain, yellow); Tandoor food-flour-corn má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170290 refusePct 0",
+      "units": "USDA fdc:170290 portions"
+    }
+  },
+  {
+    "id": "kureci-vyvar",
+    "name": "Kuřecí vývar",
+    "aliases": [
+      "vývar z kuřete",
+      "drůbeží vývar"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 6,
+      "protein": 0.64,
+      "carbs": 0.44,
+      "fat": 0.21,
+      "fiber": 0
+    },
+    "densityGPerMl": 1,
+    "units": {
+      "lzice": 15,
+      "lzicka": 5,
+      "hrnek": 250
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "containsMeat": true,
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174536 (Soup, chicken broth, ready-to-serve)",
+      "refuse": "USDA fdc:174536 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "kurkuma",
+    "name": "Kurkuma mletá",
+    "aliases": [
+      "kurkuma",
+      "indický šafrán"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 312,
+      "protein": 9.68,
+      "carbs": 67.14,
+      "fat": 3.25,
+      "fiber": 22.7
+    },
+    "units": {
+      "lzice": 9.4,
+      "lzicka": 3
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172231 (Spices, turmeric, ground)",
+      "refuse": "USDA fdc:172231 refusePct 0",
+      "units": "USDA fdc:172231 portions"
+    }
+  },
+  {
+    "id": "losos",
+    "name": "Losos",
+    "aliases": [
+      "losos filet",
+      "filet z lososa"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 208,
+      "protein": 20.42,
+      "carbs": 0,
+      "fat": 13.42,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175167 (Fish, salmon, Atlantic, farmed, raw); Tandoor food-fish-salmon-pink-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:175167 refusePct 0"
+    }
+  },
+  {
+    "id": "makadamie",
+    "name": "Makadamie",
+    "aliases": [
+      "makadamové ořechy",
+      "makadamové jádro"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 718,
+      "protein": 7.79,
+      "carbs": 13.38,
+      "fat": 76.08,
+      "fiber": 8
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170179 (Nuts, macadamia nuts, dry roasted, without salt added)",
+      "refuse": "USDA fdc:170179 refusePct 0"
+    }
+  },
+  {
+    "id": "mandle",
+    "name": "Mandle",
+    "aliases": [
+      "mandle loupané",
+      "mandlová jádra"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 579,
+      "protein": 21.15,
+      "carbs": 21.55,
+      "fat": 49.93,
+      "fiber": 12.5
+    },
+    "units": {
+      "hrnek": 151
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170567 (Nuts, almonds); Tandoor food-nuts-almonds-whole-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "nakupuje se loupané, USDA fdc:170567 udává odpad 60 % u neloupané suroviny",
+      "units": "USDA fdc:170567 cup, whole 143 g"
+    }
+  },
+  {
+    "id": "mandle-blansovane",
+    "name": "Mandle blanšírované",
+    "aliases": [
+      "blanšírované mandle",
+      "mandle bez slupky"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 590,
+      "protein": 21.4,
+      "carbs": 18.67,
+      "fat": 52.52,
+      "fiber": 9.9
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170568 (Nuts, almonds, blanched)",
+      "refuse": "USDA fdc:170568 refusePct 0"
+    }
+  },
+  {
+    "id": "meloun-vodni",
+    "name": "Meloun vodní",
+    "aliases": [
+      "vodní meloun",
+      "meloun"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 30,
+      "protein": 0.61,
+      "carbs": 7.55,
+      "fat": 0.15,
+      "fiber": 0.4
+    },
+    "units": {},
+    "ediblePortion": 0.52,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167765 (Watermelon, raw); Tandoor food-watermelon-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:167765 refusePct 48"
+    }
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "aliases": [
+      "mozzarella kulička",
+      "sýr mozzarella"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 254,
+      "protein": 24.26,
+      "carbs": 2.77,
+      "fat": 15.92,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 125
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170847 (Cheese, mozzarella, part skim milk); Tandoor food-cheese-mozzarella-part-skim má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170847 refusePct 0",
+      "units": "běžné balení 125 g"
+    }
+  },
+  {
+    "id": "mrkev",
+    "name": "Mrkev",
+    "aliases": [
+      "mrkvička",
+      "karotka"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 41,
+      "protein": 0.93,
+      "carbs": 9.58,
+      "fat": 0.24,
+      "fiber": 2.8
+    },
+    "units": {
+      "ks": 60
+    },
+    "ediblePortion": 0.89,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170393 (Carrots, raw); Tandoor food-carrots-mature-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170393 refusePct 11",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "odparene-mleko",
+    "name": "Odpařené mléko",
+    "aliases": [
+      "evaporované mléko",
+      "kondenzované mléko neslazené"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 134,
+      "protein": 6.81,
+      "carbs": 10.04,
+      "fat": 7.56,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.07,
+    "units": {
+      "lzice": 16.1,
+      "lzicka": 5.4,
+      "hrnek": 268
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171276 (Milk, canned, evaporated, with added vitamin D and without added vitam); Tandoor food-milk-evaporated-whole má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:171276 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "okra",
+    "name": "Okra",
+    "aliases": [
+      "okra jedlá",
+      "ibišek jedlý"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 33,
+      "protein": 1.93,
+      "carbs": 7.45,
+      "fat": 0.19,
+      "fiber": 3.2
+    },
+    "units": {},
+    "ediblePortion": 0.86,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169260 (Okra, raw)",
+      "refuse": "USDA fdc:169260 refusePct 14"
+    }
+  },
+  {
+    "id": "oregano",
+    "name": "Oregano",
+    "aliases": [
+      "oregano sušené",
+      "dobromysl"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 265,
+      "protein": 9,
+      "carbs": 68.92,
+      "fat": 4.28,
+      "fiber": 42.5
+    },
+    "units": {
+      "lzicka": 1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171328 (Spices, oregano, dried)",
+      "refuse": "USDA fdc:171328 refusePct 0",
+      "units": "USDA fdc:171328 portions"
+    }
+  },
+  {
+    "id": "ovesna-mouka",
+    "name": "Ovesná mouka",
+    "aliases": [
+      "mouka ovesná"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 404,
+      "protein": 14.66,
+      "carbs": 65.7,
+      "fat": 9.12,
+      "fiber": 6.5
+    },
+    "units": {
+      "hrnek": 110
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169741 (Oat flour, partially debranned); Tandoor food-flour-oat-whole-grain má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169741 refusePct 0",
+      "units": "USDA fdc:169741 portions"
+    }
+  },
+  {
+    "id": "paprika-cervena",
+    "name": "Paprika červená",
+    "aliases": [
+      "paprika",
+      "paprika sladká čerstvá"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 26,
+      "protein": 0.99,
+      "carbs": 6.03,
+      "fat": 0.3,
+      "fiber": 2.1
+    },
+    "units": {
+      "ks": 125
+    },
+    "ediblePortion": 0.82,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170108 (Peppers, sweet, red, raw); Tandoor food-bell-pepper-red má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170108 refusePct 18",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "paprika-zluta",
+    "name": "Paprika žlutá",
+    "aliases": [
+      "paprika zlatá"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 27,
+      "protein": 1,
+      "carbs": 6.32,
+      "fat": 0.21,
+      "fiber": 0.9
+    },
+    "units": {
+      "ks": 125
+    },
+    "ediblePortion": 0.82,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169383 (Peppers, sweet, yellow, raw); Tandoor food-bell-pepper-yellow má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169383 refusePct 18",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "pastinak",
+    "name": "Pastinák",
+    "aliases": [
+      "pastinák kořenový"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 75,
+      "protein": 1.2,
+      "carbs": 17.99,
+      "fat": 0.3,
+      "fiber": 4.9
+    },
+    "units": {
+      "ks": 85
+    },
+    "ediblePortion": 0.85,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170417 (Parsnips, raw)",
+      "refuse": "USDA fdc:170417 refusePct 15",
+      "units": "běžná hmotnost kořene"
+    }
+  },
+  {
+    "id": "pesto",
+    "name": "Pesto",
+    "aliases": [
+      "pesto bazalkové",
+      "bazalkové pesto"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 580,
+      "protein": 8.61,
+      "carbs": 5.67,
+      "fat": 59.2,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko",
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-pesto; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)"
+    }
+  },
+  {
+    "id": "petrzel-susena",
+    "name": "Petržel sušená",
+    "aliases": [
+      "petrželová nať sušená",
+      "sušená petrželka"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 292,
+      "protein": 26.63,
+      "carbs": 50.64,
+      "fat": 5.48,
+      "fiber": 26.7
+    },
+    "units": {
+      "lzice": 1.6,
+      "lzicka": 0.5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170930 (Spices, parsley, dried)",
+      "refuse": "USDA fdc:170930 refusePct 0",
+      "units": "USDA fdc:170930 portions"
+    }
+  },
+  {
+    "id": "piniove-orisky",
+    "name": "Piniové oříšky",
+    "aliases": [
+      "piniové jádra",
+      "pinoly"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 673,
+      "protein": 13.69,
+      "carbs": 13.08,
+      "fat": 68.37,
+      "fiber": 3.7
+    },
+    "units": {
+      "hrnek": 143
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170591 (Nuts, pine nuts, dried); Tandoor food-pine-nuts má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "nakupuje se loupané, USDA fdc:170591 udává odpad 23 % u neloupané suroviny",
+      "units": "USDA fdc:170591 portions"
+    }
+  },
+  {
+    "id": "pistacie",
+    "name": "Pistácie",
+    "aliases": [
+      "pistácie loupané",
+      "pistáciové oříšky"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 560,
+      "protein": 20.16,
+      "carbs": 27.17,
+      "fat": 45.32,
+      "fiber": 10.6
+    },
+    "units": {
+      "hrnek": 130
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170184 (Nuts, pistachio nuts, raw); Tandoor food-pistachio-nuts-unsalted má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "nakupuje se loupané, USDA fdc:170184 udává odpad 47 % u neloupané suroviny",
+      "units": "USDA fdc:170184 portions"
+    }
+  },
+  {
+    "id": "pohankova-mouka",
+    "name": "Pohanková mouka",
+    "aliases": [
+      "mouka pohanková"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 335,
+      "protein": 12.62,
+      "carbs": 70.59,
+      "fat": 3.1,
+      "fiber": 10
+    },
+    "units": {
+      "hrnek": 127
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170687 (Buckwheat flour, whole-groat); Tandoor food-flour-buckwheat má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170687 refusePct 0",
+      "units": "USDA fdc:170687 portions"
+    }
+  },
+  {
+    "id": "pomeranc",
+    "name": "Pomeranč",
+    "aliases": [
+      "pomeranče"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 47,
+      "protein": 0.94,
+      "carbs": 11.75,
+      "fat": 0.12,
+      "fiber": 2.4
+    },
+    "units": {
+      "ks": 95
+    },
+    "ediblePortion": 0.73,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169097 (Oranges, raw, all commercial varieties); Tandoor food-orange-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169097 refusePct 27",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "pomerancova-stava",
+    "name": "Pomerančová šťáva",
+    "aliases": [
+      "pomerančový džus",
+      "džus pomerančový"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 45,
+      "protein": 0.7,
+      "carbs": 10.4,
+      "fat": 0.2,
+      "fiber": 0.2
+    },
+    "densityGPerMl": 1.04,
+    "units": {
+      "lzice": 15.6,
+      "lzicka": 5.2,
+      "hrnek": 260
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169098 (Orange juice, raw (Includes foods for USDA's Food Distribution Program); Tandoor food-orange-juice má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169098 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "prasek-do-peciva",
+    "name": "Prášek do pečiva",
+    "aliases": [
+      "kypřicí prášek",
+      "kypřidlo"
+    ],
+    "category": "trvanlive",
+    "scaling": "leavening",
+    "nutritionPer100g": {
+      "kcal": 51,
+      "protein": 0.1,
+      "carbs": 24.1,
+      "fat": 0,
+      "fiber": 0.2
+    },
+    "units": {
+      "lzicka": 4.6
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172804 (Leavening agents, baking powder, double-acting, straight phosphate)",
+      "refuse": "USDA fdc:172804 refusePct 0",
+      "units": "USDA fdc:172804 portions"
+    }
+  },
+  {
+    "id": "quinoa",
+    "name": "Quinoa",
+    "aliases": [
+      "merlík chilský",
+      "kinoa"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 368,
+      "protein": 14.12,
+      "carbs": 64.16,
+      "fat": 6.07,
+      "fiber": 7
+    },
+    "units": {
+      "hrnek": 180
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168874 (Quinoa, uncooked)",
+      "refuse": "USDA fdc:168874 refusePct 0",
+      "units": "USDA fdc:168874 portions"
+    }
+  },
+  {
+    "id": "radicchio",
+    "name": "Radicchio",
+    "aliases": [
+      "červený čekanek"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 23,
+      "protein": 1.43,
+      "carbs": 4.48,
+      "fat": 0.25,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "open-tandoor-data food-radicchio-raw; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)"
+    }
+  },
+  {
+    "id": "rajcata-cherry",
+    "name": "Rajčata cherry",
+    "aliases": [
+      "cherry rajčata",
+      "koktejlová rajčata"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 18,
+      "protein": 0.88,
+      "carbs": 3.89,
+      "fat": 0.2,
+      "fiber": 1.2
+    },
+    "units": {},
+    "ediblePortion": 0.91,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170457 (Tomatoes, red, ripe, raw, year round average); Tandoor food-tomatoes-cherry má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170457 refusePct 9"
+    }
+  },
+  {
+    "id": "rajcata-drcena",
+    "name": "Rajčata drcená (konzerva)",
+    "aliases": [
+      "drcená rajčata",
+      "rajčata v konzervě drcená"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 32,
+      "protein": 1.64,
+      "carbs": 7.29,
+      "fat": 0.28,
+      "fiber": 1.9
+    },
+    "densityGPerMl": 1.02,
+    "units": {
+      "lzice": 15.3,
+      "lzicka": 5.1,
+      "hrnek": 255
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170501 (Tomatoes, crushed, canned); Tandoor food-tomatoes-crushed-canned má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170501 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "rajcata-susena",
+    "name": "Rajčata sušená",
+    "aliases": [
+      "sušená rajčata",
+      "sušená rajčata bez oleje"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 258,
+      "protein": 14.11,
+      "carbs": 55.76,
+      "fat": 2.97,
+      "fiber": 12.3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168567 (Tomatoes, sun-dried)",
+      "refuse": "USDA fdc:168567 refusePct 0"
+    }
+  },
+  {
+    "id": "rajcatove-pyre",
+    "name": "Rajčatové pyré",
+    "aliases": [
+      "passata",
+      "rajčatová passata"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 38,
+      "protein": 1.65,
+      "carbs": 8.98,
+      "fat": 0.21,
+      "fiber": 1.9
+    },
+    "densityGPerMl": 1.06,
+    "units": {
+      "lzice": 15.9,
+      "lzicka": 5.3,
+      "hrnek": 265
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170460 (Tomato products, canned, puree, without salt added); Tandoor food-tomato-puree-canned má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170460 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "rajce",
+    "name": "Rajče",
+    "aliases": [
+      "rajčata",
+      "paradajka"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 18,
+      "protein": 0.88,
+      "carbs": 3.89,
+      "fat": 0.2,
+      "fiber": 1.2
+    },
+    "units": {
+      "ks": 120
+    },
+    "ediblePortion": 0.91,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170457 (Tomatoes, red, ripe, raw, year round average); Tandoor food-tomatoes-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170457 refusePct 9",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "rebarbora",
+    "name": "Rebarbora",
+    "aliases": [
+      "reveň",
+      "rebarbora kyselá"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 21,
+      "protein": 0.9,
+      "carbs": 4.54,
+      "fat": 0.2,
+      "fiber": 1.8
+    },
+    "units": {},
+    "ediblePortion": 0.75,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167758 (Rhubarb, raw)",
+      "refuse": "USDA fdc:167758 refusePct 25"
+    }
+  },
+  {
+    "id": "redkvicka",
+    "name": "Ředkvička",
+    "aliases": [
+      "ředkvičky",
+      "ředkev"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 16,
+      "protein": 0.68,
+      "carbs": 3.4,
+      "fat": 0.1,
+      "fiber": 1.6
+    },
+    "units": {},
+    "ediblePortion": 0.9,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169276 (Radishes, raw); Tandoor food-radish-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:169276 refusePct 10"
+    }
+  },
+  {
+    "id": "repkovy-olej",
+    "name": "Řepkový olej",
+    "aliases": [
+      "olej řepkový",
+      "řepka"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 884,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.92,
+    "units": {
+      "lzice": 14,
+      "lzicka": 4.5,
+      "hrnek": 230
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172336 (Oil, canola); Tandoor food-canola-oil má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172336 refusePct 0",
+      "units": "USDA fdc:172336 portions"
+    }
+  },
+  {
+    "id": "rericha",
+    "name": "Řeřicha",
+    "aliases": [
+      "řeřicha potoční",
+      "řeřicha setá"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 11,
+      "protein": 2.3,
+      "carbs": 1.29,
+      "fat": 0.1,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "open-tandoor-data food-watercress-raw; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)"
+    }
+  },
+  {
+    "id": "rimsky-kmin",
+    "name": "Římský kmín",
+    "aliases": [
+      "kmín římský",
+      "kumin",
+      "římský kmín celý"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 375,
+      "protein": 17.81,
+      "carbs": 44.24,
+      "fat": 22.27,
+      "fiber": 10.5
+    },
+    "units": {
+      "lzice": 6,
+      "lzicka": 2.1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170923 (Spices, cumin seed)",
+      "refuse": "USDA fdc:170923 refusePct 0",
+      "units": "USDA fdc:170923 portions"
+    }
+  },
+  {
+    "id": "rozinky",
+    "name": "Rozinky",
+    "aliases": [
+      "hrozinky",
+      "rozinky tmavé"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 299,
+      "protein": 3.3,
+      "carbs": 79.32,
+      "fat": 0.25,
+      "fiber": 4.5
+    },
+    "units": {
+      "hrnek": 153
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168165 (Raisins, dark, seedless (Includes foods for USDA's Food Distribution P); Tandoor food-raisins má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168165 refusePct 0",
+      "units": "USDA fdc:168165 portions"
+    }
+  },
+  {
+    "id": "rozmaryn-cerstvy",
+    "name": "Rozmarýn čerstvý",
+    "aliases": [
+      "rozmarýn větvička"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 131,
+      "protein": 3.31,
+      "carbs": 20.7,
+      "fat": 5.86,
+      "fiber": 14.1
+    },
+    "units": {
+      "lzice": 1.7,
+      "lzicka": 0.7
+    },
+    "ediblePortion": 0.65,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173473 (Rosemary, fresh)",
+      "refuse": "USDA fdc:173473 refusePct 35",
+      "units": "USDA fdc:173473 portions"
+    }
+  },
+  {
+    "id": "rozmaryn-susity",
+    "name": "Rozmarýn sušený",
+    "aliases": [
+      "rozmarýn"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 331,
+      "protein": 4.88,
+      "carbs": 64.06,
+      "fat": 15.22,
+      "fiber": 42.6
+    },
+    "units": {
+      "lzice": 3.3,
+      "lzicka": 1.2
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171333 (Spices, rosemary, dried)",
+      "refuse": "USDA fdc:171333 refusePct 0",
+      "units": "USDA fdc:171333 portions"
+    }
+  },
+  {
+    "id": "safran",
+    "name": "Šafrán",
+    "aliases": [
+      "šafrán pravý"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 310,
+      "protein": 11.43,
+      "carbs": 65.37,
+      "fat": 5.85,
+      "fiber": 3.9
+    },
+    "units": {
+      "lzicka": 0.7
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170934 (Spices, saffron)",
+      "refuse": "USDA fdc:170934 refusePct 0",
+      "units": "USDA fdc:170934 portions"
+    }
+  },
+  {
+    "id": "salat-listovy",
+    "name": "Salát listový červený",
+    "aliases": [
+      "listový salát",
+      "salát červený"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 13,
+      "protein": 1.33,
+      "carbs": 2.26,
+      "fat": 0.22,
+      "fiber": 0.9
+    },
+    "units": {},
+    "ediblePortion": 0.8,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168431 (Lettuce, red leaf, raw); Tandoor food-lettuce-leaf-red-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168431 refusePct 20"
+    }
+  },
+  {
+    "id": "salotka",
+    "name": "Šalotka",
+    "aliases": [
+      "šalotková cibule",
+      "ešalotka"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 72,
+      "protein": 2.5,
+      "carbs": 16.8,
+      "fat": 0.1,
+      "fiber": 3.2
+    },
+    "units": {
+      "ks": 22
+    },
+    "ediblePortion": 0.88,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170499 (Shallots, raw)",
+      "refuse": "USDA fdc:170499 refusePct 12",
+      "units": "běžná hmotnost šalotky"
+    }
+  },
+  {
+    "id": "salvej",
+    "name": "Šalvěj sušená",
+    "aliases": [
+      "šalvěj",
+      "šalvěj mletá"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 315,
+      "protein": 10.63,
+      "carbs": 60.73,
+      "fat": 12.75,
+      "fiber": 40.3
+    },
+    "units": {
+      "lzice": 2,
+      "lzicka": 0.7
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170935 (Spices, sage, ground)",
+      "refuse": "USDA fdc:170935 refusePct 0",
+      "units": "USDA fdc:170935 portions"
+    }
+  },
+  {
+    "id": "sardinky",
+    "name": "Sardinky v oleji",
+    "aliases": [
+      "sardinky konzervované",
+      "sardinky"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 208,
+      "protein": 24.62,
+      "carbs": 0,
+      "fat": 11.45,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175139 (Fish, sardine, Atlantic, canned in oil, drained solids with bone); Tandoor food-fish-sardines-canned má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:175139 refusePct 0"
+    },
+    "containsMeat": true
+  },
+  {
+    "id": "sezamova-seminka",
+    "name": "Sezamová semínka",
+    "aliases": [
+      "sezam",
+      "sezam semínka"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 573,
+      "protein": 17.73,
+      "carbs": 23.45,
+      "fat": 49.67,
+      "fiber": 11.8
+    },
+    "units": {
+      "lzice": 9,
+      "hrnek": 152
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "sezam"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170150 (Seeds, sesame seeds, whole, dried); Tandoor food-sesame-seeds má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170150 refusePct 0",
+      "units": "USDA fdc:170150 portions"
+    }
+  },
+  {
+    "id": "sezamovy-olej",
+    "name": "Sezamový olej",
+    "aliases": [
+      "olej sezamový"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 884,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.92,
+    "units": {
+      "lzice": 13.6,
+      "lzicka": 4.5,
+      "hrnek": 230
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "sezam"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171016 (Oil, sesame, salad or cooking); Tandoor food-sesame-oil má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:171016 refusePct 0",
+      "units": "USDA fdc:171016 portions"
+    }
+  },
+  {
+    "id": "slunecnicova-seminka",
+    "name": "Slunečnicová semínka",
+    "aliases": [
+      "slunečnice semínka",
+      "slunečnicová jádra"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 584,
+      "protein": 20.78,
+      "carbs": 20,
+      "fat": 51.46,
+      "fiber": 8.6
+    },
+    "units": {
+      "hrnek": 148
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170562 (Seeds, sunflower seed kernels, dried); Tandoor food-seeds-sunflower-kernel-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "nakupuje se loupané, USDA fdc:170562 udává odpad 46 % u neloupané suroviny",
+      "units": "USDA fdc:170562 portions"
+    }
+  },
+  {
+    "id": "slunecnicovy-olej",
+    "name": "Slunečnicový olej",
+    "aliases": [
+      "olej slunečnicový"
+    ],
+    "category": "tuky-a-oleje",
+    "scaling": "fat",
+    "nutritionPer100g": {
+      "kcal": 884,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 100,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.92,
+    "units": {
+      "lzice": 13.6,
+      "lzicka": 4.5,
+      "hrnek": 230
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171017 (Oil, sunflower, linoleic (less than 60%)); Tandoor food-sunflower-oil má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:171017 refusePct 0",
+      "units": "USDA fdc:171017 portions"
+    }
+  },
+  {
+    "id": "sojove-mleko",
+    "name": "Sójové mléko",
+    "aliases": [
+      "sójový nápoj",
+      "mléko sójové"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 54,
+      "protein": 3.27,
+      "carbs": 6.28,
+      "fat": 1.75,
+      "fiber": 0.6
+    },
+    "densityGPerMl": 1.03,
+    "units": {
+      "lzice": 15.5,
+      "lzicka": 5.2,
+      "hrnek": 258
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "soja"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172446 (Soymilk, original and vanilla, unfortified); Tandoor food-soy-milk má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172446 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "spaldova-mouka-bila",
+    "name": "Špaldová mouka bílá",
+    "aliases": [
+      "mouka špaldová",
+      "špaldová hladká"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 333,
+      "protein": 13.33,
+      "carbs": 70,
+      "fat": 3.33,
+      "fiber": 0
+    },
+    "units": {
+      "hrnek": 132
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-spelt-flour-white; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)",
+      "units": "USDA fdc:168894 cup 125 g (mouka pšeničná jako analog)"
+    }
+  },
+  {
+    "id": "spenat",
+    "name": "Špenát",
+    "aliases": [
+      "špenát čerstvý",
+      "listy špenátu"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 23,
+      "protein": 2.86,
+      "carbs": 3.63,
+      "fat": 0.39,
+      "fiber": 2.2
+    },
+    "units": {},
+    "ediblePortion": 0.72,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168462 (Spinach, raw); Tandoor food-spinach-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168462 refusePct 28"
+    }
+  },
+  {
+    "id": "sul",
+    "name": "Sůl",
+    "aliases": [
+      "sůl kuchyňská",
+      "sůl stolní"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 18,
+      "lzicka": 6,
+      "hrnek": 309
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173468 (Salt, table); Tandoor food-salt má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:173468 refusePct 0",
+      "units": "USDA fdc:173468 portions"
+    }
+  },
+  {
+    "id": "sul-morska",
+    "name": "Sůl mořská",
+    "aliases": [
+      "mořská sůl",
+      "sůl hrubá"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 18,
+      "lzicka": 6
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "open-tandoor-data food-salt-sea-flakes-brand-maldon; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)",
+      "units": "USDA fdc:173468 portions; USDA fdc:None portions"
+    }
+  },
+  {
+    "id": "tempeh",
+    "name": "Tempeh",
+    "aliases": [
+      "tempeh sójový"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 192,
+      "protein": 20.29,
+      "carbs": 7.64,
+      "fat": 10.8,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "soja"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174272 (Tempeh)",
+      "refuse": "USDA fdc:174272 refusePct 0"
+    }
+  },
+  {
+    "id": "tofu",
+    "name": "Tofu",
+    "aliases": [
+      "sójový sýr",
+      "tofu tvrdé"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 145,
+      "protein": 12.68,
+      "carbs": 4.39,
+      "fat": 9.99,
+      "fiber": 0.6
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "soja"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174291 (Tofu, hard, prepared with nigari)",
+      "refuse": "USDA fdc:174291 refusePct 0"
+    }
+  },
+  {
+    "id": "tofu-hedvabne",
+    "name": "Tofu hedvábné",
+    "aliases": [
+      "hedvábné tofu",
+      "tofu měkké"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 55,
+      "protein": 4.8,
+      "carbs": 2.9,
+      "fat": 2.7,
+      "fiber": 0.1
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "soja"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174292 (MORI-NU, Tofu, silken, soft)",
+      "refuse": "USDA fdc:174292 refusePct 0"
+    }
+  },
+  {
+    "id": "turin",
+    "name": "Tuřín",
+    "aliases": [
+      "tuřín jedlý",
+      "bruška"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 37,
+      "protein": 1.08,
+      "carbs": 8.62,
+      "fat": 0.16,
+      "fiber": 2.3
+    },
+    "units": {},
+    "ediblePortion": 0.85,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168454 (Rutabagas, raw); Tandoor food-rutabaga-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168454 refusePct 15"
+    }
+  },
+  {
+    "id": "tymian-cerstvy",
+    "name": "Tymián čerstvý",
+    "aliases": [
+      "tymián",
+      "mateřídouška"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 101,
+      "protein": 5.56,
+      "carbs": 24.45,
+      "fat": 1.68,
+      "fiber": 14
+    },
+    "units": {
+      "lzicka": 0.8
+    },
+    "ediblePortion": 0.68,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173470 (Thyme, fresh)",
+      "refuse": "USDA fdc:173470 refusePct 32",
+      "units": "USDA fdc:173470 portions"
+    }
+  },
+  {
+    "id": "tymian-susity",
+    "name": "Tymián sušený",
+    "aliases": [
+      "tymián mletý",
+      "tymián sušený"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 276,
+      "protein": 9.11,
+      "carbs": 63.94,
+      "fat": 7.43,
+      "fiber": 37
+    },
+    "units": {
+      "lzice": 2.7,
+      "lzicka": 1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170938 (Spices, thyme, dried)",
+      "refuse": "USDA fdc:170938 refusePct 0",
+      "units": "USDA fdc:170938 portions"
+    }
+  },
+  {
+    "id": "ustricova-omacka",
+    "name": "Ústřicová omáčka",
+    "aliases": [
+      "ústřicová omáčka"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 51,
+      "protein": 1.35,
+      "carbs": 10.9,
+      "fat": 0.25,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 18
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mekkysi",
+      "soja",
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-oyster-sauce; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)",
+      "units": "hustota 1,2 g/ml (odhad), lžíce = 15 ml × 1,2"
+    },
+    "densityGPerMl": 1.2
+  },
+  {
+    "id": "vanilkovy-extrakt",
+    "name": "Vanilkový extrakt",
+    "aliases": [
+      "extrakt z vanilky",
+      "vanilka tekutá"
+    ],
+    "category": "koreni",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 288,
+      "protein": 0.06,
+      "carbs": 12.65,
+      "fat": 0.06,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.88,
+    "units": {
+      "lzice": 13.2,
+      "lzicka": 4.4,
+      "hrnek": 220
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173471 (Vanilla extract)",
+      "refuse": "USDA fdc:173471 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "vinny-ocet",
+    "name": "Ocet vinný",
+    "aliases": [
+      "červený vinný ocet",
+      "ocet z vína"
+    ],
+    "category": "trvanlive",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 19,
+      "protein": 0.04,
+      "carbs": 0.27,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.01,
+    "units": {
+      "lzice": 15.2,
+      "lzicka": 5,
+      "hrnek": 252
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "siricitany"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172240 (Vinegar, red wine)",
+      "refuse": "USDA fdc:172240 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "vlasske-orechy",
+    "name": "Vlašské ořechy",
+    "aliases": [
+      "ořechy vlašské",
+      "vlašák"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 654,
+      "protein": 15.23,
+      "carbs": 13.71,
+      "fat": 65.21,
+      "fiber": 6.7
+    },
+    "units": {
+      "hrnek": 124
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "orechy"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170187 (Nuts, walnuts, english); Tandoor food-nuts-walnuts-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "nakupuje se loupané, USDA fdc:170187 udává odpad 55 % u neloupané suroviny",
+      "units": "USDA fdc:170187 cup, chopped 117 g"
+    }
+  },
+  {
+    "id": "voda",
+    "name": "Voda",
+    "aliases": [
+      "voda pitná",
+      "voda z kohoutku"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 1,
+    "units": {
+      "lzice": 15,
+      "lzicka": 5,
+      "hrnek": 250
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173647 (Beverages, water, tap, drinking)",
+      "refuse": "USDA fdc:173647 refusePct 0",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "vodnice",
+    "name": "Vodnice",
+    "aliases": [
+      "vodnice setá",
+      "tuřín bílý"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 28,
+      "protein": 0.9,
+      "carbs": 6.43,
+      "fat": 0.1,
+      "fiber": 1.8
+    },
+    "units": {},
+    "ediblePortion": 0.81,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170465 (Turnips, raw); Tandoor food-turnip-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:170465 refusePct 19"
+    }
+  },
+  {
+    "id": "worcester",
+    "name": "Worcestrová omáčka",
+    "aliases": [
+      "worcester",
+      "worcestrová"
+    ],
+    "category": "trvanlive",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 77,
+      "protein": 0,
+      "carbs": 19.2,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 18
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-worcestershire-sauce; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)",
+      "units": "hustota 1,2 g/ml (odhad), lžíce = 15 ml × 1,2"
+    },
+    "densityGPerMl": 1.2
+  },
+  {
+    "id": "zeleninovy-vyvar",
+    "name": "Zeleninový vývar",
+    "aliases": [
+      "vývar zeleninový",
+      "zeleninový bujón hotový"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 5,
+      "protein": 0.24,
+      "carbs": 0.93,
+      "fat": 0.07,
+      "fiber": 0
+    },
+    "densityGPerMl": 1,
+    "units": {
+      "lzice": 15,
+      "lzicka": 5,
+      "hrnek": 250
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "celer"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-vegetable-broth-bouillon; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)",
+      "units": "odvozeno z hustoty"
+    }
+  },
+  {
+    "id": "zitna-mouka",
+    "name": "Žitná mouka",
+    "aliases": [
+      "mouka žitná"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 349,
+      "protein": 10.88,
+      "carbs": 75.43,
+      "fat": 1.52,
+      "fiber": 11.8
+    },
+    "units": {
+      "hrnek": 108
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168886 (Rye flour, medium); Tandoor food-flour-rye má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:168886 refusePct 0",
+      "units": "USDA fdc:168886 portions"
+    }
+  },
+  {
+    "id": "zloutek",
+    "name": "Žloutek",
+    "aliases": [
+      "vaječný žloutek",
+      "žloutky"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 322,
+      "protein": 15.86,
+      "carbs": 3.59,
+      "fat": 26.54,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 17
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "vejce"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172184 (Egg, yolk, raw, fresh); Tandoor food-egg-yolk-raw má jiný záznam, použit nejbližší USDA ekvivalent",
+      "refuse": "USDA fdc:172184 refusePct 0",
+      "units": "běžná hmotnost kusu"
+    }
+  },
+  {
+    "id": "zmrzlina-vanilkova",
+    "name": "Zmrzlina vanilková",
+    "aliases": [
+      "vanilková zmrzlina",
+      "zmrzlina"
+    ],
+    "category": "mrazene",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 207,
+      "protein": 3.5,
+      "carbs": 23.6,
+      "fat": 11,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "open-tandoor-data food-ice-cream-vanilla; vláknina v zdroji není, nastaveno 0",
+      "refuse": "bez odpadu (zdroj neuvádí)"
+    }
+  }
+]

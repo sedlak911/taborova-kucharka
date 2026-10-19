@@ -1,0 +1,100 @@
+{
+  "id": "zalivka-thousand-island",
+  "title": "Zálivka Thousand Island",
+  "titleOriginal": "Thousand Island Dressing",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce",
+    "horcice",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g",
+      "note": "kupovaná; ve zdroji odkaz na domácí majonézu (str. 204)"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 9,
+      "unit": "ml",
+      "note": "chilli omáčka ze zdroje, nahrazena kečupem"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 5,
+      "unit": "g",
+      "note": "jemně nasekaná"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 1,
+      "unit": "g",
+      "note": "jemně nasekaná"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 0.1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "natvrdo uvařené, nasekané nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.32,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "okurky-sladke",
+      "amount": 3,
+      "unit": "g",
+      "note": "jemně nasekané"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce uvař natvrdo, ochlaď, oloupej a nasekej nadrobno.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím nasekej nadrobno papriku, cibuli a okurky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "V míse vmíchej chilli omáčku do majonézy.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej papriku, cibuli, worcesterskou omáčku, vejce, sůl a okurky.",
+      "minutes": 2
+    },
+    {
+      "text": "Důkladně promíchej.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj: Thousand Island Dressing, str. 205 (PDF 213), výtěžek ½ gal na 100 porcí. Majonéza je kupovaná (zdroj odkazuje na domácí recept str. 204, nerozepisováno). Chilli omáčka ze zdroje nahrazena kečupem. Sladké okurky v katalogu nebyly, založena surovina okurky-sladke. Vejce z 3 ks na 100 porcí dávají 0,12 ks na 4 porce, zaokrouhleno na 0,10 ks. Zdroj neobsahuje olivy ani pimentku. Sůl 1 čajová lžička na ½ gal je ve zdroji velmi málo (0,08 g na porci po přepočtu, nálezem check:recipe); dochuť podle chuti. Zdroj neuvádí porci, proto bez kontroly bilance na porci.",
+  "source": {
+    "book": "navy-1944",
+    "page": 213,
+    "titleOriginal": "THOUSAND ISLAND DRESSING"
+  },
+  "verified": true
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hrasek-se-sunkou",
+  "title": "Hrášek se šunkou",
+  "titleOriginal": "Peas with Ham (Piselli col prosciutto)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "hrasek", "amount": 600, "unit": "g", "note": "jedlá část, hrášek vyloupaný z lusků (asi 1,5 kg v lusku)" },
+    { "ingredientId": "cibule", "amount": 100, "unit": "g", "note": "1–2 mladé cibule, přepůlené; po vaření se vyhodí" },
+    { "ingredientId": "olivovy-olej", "amount": 15, "unit": "ml", "note": "asi 1 lžíce" },
+    { "ingredientId": "sunka", "amount": 100, "unit": "g", "note": "jeden silný plátek, nakrájený na malé kostičky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "note": "špetka" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "velmi málo" },
+    { "ingredientId": "hovezi-vyvar", "amount": 250, "unit": "ml", "note": "zdrojový vývar (broth = hovězí), doplňuje se podle potřeby" },
+    { "ingredientId": "maslo", "amount": 10, "unit": "g", "note": "kousek másla" }
+  ],
+  "steps": [
+    { "text": "Mladou cibuli přepůl.", "minutes": 3 },
+    { "text": "V hrnci zahřej olej, dej do něj cibuli a šunku nakrájenou na kostičky. Opékej, dokud se šunka nesmrští.", "minutes": 6 },
+    { "text": "Přidej hrášek, lehce osol, opepři špetkou pepře a promíchej.", "minutes": 2 },
+    { "text": "Zalij vývarem, přidej kousek másla a duš, dokud hrášek nezměkne.", "minutes": 20 },
+    { "text": "Před podáváním cibuli vyhoď." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 108) neuvádí množství ani počet porcí; vše je odhad pro 4 porce. Hrášek 600 g jedlé části (zelenina v g je jedlá část, asi 150 g na porci), cibule 100 g (1–2 mladé), olej 15 ml (asi 1 lžíce), vývar 250 ml, máslo 10 g, sůl 2 g (velmi málo), černý pepř 0,5 g (špetka). Šunka ze zdroje je „jeden silný plátek“ pro celé jídlo, proto 100 g bez přepočtu na porce. Hovězí vývar je zdrojový „broth“ (kniha tak definuje hovězí). Cibule se po vaření vyhodí, jen dodá chuť. Čas 35 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 85,
+    "titleOriginal": "PEAS WITH HAM (Piselli col prosciutto)"
+  },
+  "verified": false,
+  "quote": "Brown until the ham is shrivelled; then put the peas in, season with a pinch of pepper and very little salt."
+}

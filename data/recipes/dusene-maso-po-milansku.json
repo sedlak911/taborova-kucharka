@@ -1,0 +1,115 @@
+{
+  "id": "dusene-maso-po-milansku",
+  "title": "Dušené maso po milánsku",
+  "titleOriginal": "Stew Milanaise (Stufato alla milanese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 430,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "siricitany"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 600,
+      "unit": "g",
+      "group": "Maso",
+      "note": "jeden kus, rozklepaný na plát"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 50,
+      "unit": "g",
+      "group": "Maso",
+      "note": "nakrájená na malé kousky, na naštípání masa; zdroj říká slanina nebo šunka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Maso",
+      "note": "na poprášení masa"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Maso",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Maso",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Maso",
+      "note": "zdroj: „a taste of cinnamon“"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Dušení",
+      "note": "hovězí loj (v katalogu není, nejbližší je sádlo); lze nahradit máslem"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "group": "Dušení",
+      "note": "1 střední, nakrájená"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Dušení",
+      "note": "kus másla na opečení"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Dušení",
+      "note": "polovina tekutiny"
+    },
+    {
+      "ingredientId": "cervene-vino",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Dušení",
+      "note": "polovina tekutiny, suché"
+    }
+  ],
+  "steps": [
+    { "text": "Maso rozklepej na plát, naplň ho kousky špeku, osol, opepři a přidej špetku skořice. Posyp moukou.", "minutes": 10 },
+    { "text": "Do hrnce dej nasekaný hovězí loj, nakrájenou cibuli a máslo a osmahni dozlatova.", "minutes": 8 },
+    { "text": "Cibuli vyjmi a do rozpuštěného másla vlož maso. Opékej ze všech stran dozlatova.", "minutes": 10 },
+    { "text": "Zalij polovinou vody a polovinou červeného vína. Přikryj pokličkou s pergamenem namazaným tukem a duš na velmi mírném ohni pět až šest hodin.", "minutes": 360 },
+    { "text": "Hotové maso vyjmi a nech vychladnout.", "minutes": 30 },
+    { "text": "Šťávu přetři sítem, znovu ohřej a podávej horkou s masem.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 118) neuvádí množství ani počet porcí; vše je odhad z běžné praxe pro 4 porce: hovězí přední 600 g (150 g na porci), špek 50 g (zdroj: slanina nebo šunka), máslo 30 g, hovězí loj 20 g (v katalogu není, použito sádlo), cibule 120 g, mouka 15 g, sůl 5 g, pepř 1 g, skořice jen špetka. Tekutiny 250 ml vody a 250 ml červeného vína odpovídají zdrojovému „polovina vody, polovina červeného vína“. Doba dušení je horní mez zdroje (5–6 hodin), zbytek času je odhad. Šťáva se podle zdroje přetírá sítem, takže omáčka je hustší; maso je součástí podávaného jídla. Kalorie a makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 122,
+    "titleOriginal": "STEW MILANAISE (Stufato alla milanese)"
+  },
+  "verified": false,
+  "quote": "Beat and flatten a good piece of meat and lard with bacon or ham cut in small pieces."
+}

@@ -1,0 +1,128 @@
+{
+  "id": "hovezi-dusene-s-bramborami-a-mrkvi",
+  "title": "Dušené hovězí s bramborami a mrkví",
+  "titleOriginal": "Beef Stew",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 160,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 540,
+      "unit": "g",
+      "note": "vykostěné, nakrájené na kostky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 120,
+      "unit": "g",
+      "note": "čerstvá, nakrájená",
+      "original": {
+        "ingredientId": "rajcata-konzervovana",
+        "amount": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 1,
+      "unit": "g",
+      "note": "česnek v prášku"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1.15,
+      "unit": "ks",
+      "note": "z hmotnosti ve zdroji (1/8 oz)"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 145,
+      "unit": "g",
+      "note": "nakrájená na plátky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 75,
+      "unit": "g",
+      "note": "nakrájený na plátky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "na čtvrtky"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 185,
+      "unit": "g",
+      "note": "nakrájené na kostky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 25,
+      "unit": "g",
+      "group": "Zahuštění"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 55,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Zahuštění"
+    }
+  ],
+  "steps": [
+    { "text": "Maso, vodu, rajčata, sůl, pepř, česnek, tymián a bobkový list dej do hrnce a přiveď k varu.", "minutes": 8 },
+    { "text": "Sniž plamen, přikryj a duš 1 hodinu 40 minut, dokud maso nezměkne.", "minutes": 100 },
+    { "text": "Přidej mrkev, přikryj a duš 15 minut.", "minutes": 15 },
+    { "text": "Přidej celer, cibuli a brambory a zamíchej. Přikryj a duš 20 minut, dokud zelenina nezměkne.", "minutes": 20 },
+    { "text": "Vyjmi bobkový list." },
+    { "text": "Hladkou mouku rozmíchej se studenou vodou do hladka, za stálého míchání vmíchej do dušeného masa a vař 5 minut, dokud nezhoustne.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj počítá 1 1/4 šálku na porci (cca 300 ml). Rajčata jsou v originálu odkapaná z konzervy; modernizováno na čerstvá rajčata stejné hmotnosti. Doporučení: pokud je omáčka příliš hustá, dolij horkou vodu.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 717,
+    "code": "L 022 00",
+    "titleOriginal": "BEEF STEW"
+  },
+  "verified": true,
+  "quote": "Simmer 1 hour 40 minutes or until tender."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "karamelova-omacka",
+  "title": "Karamelová omáčka",
+  "titleOriginal": "Butterscotch Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 180,
+      "unit": "g",
+      "note": "zdroj: sugar, brown 10 lb"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "zdroj: water 1 qt"
+    },
+    {
+      "ingredientId": "sirup-kukuricny",
+      "amount": 55,
+      "unit": "g",
+      "note": "zdroj: sirup, corn 3 lb"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "zdroj: butter 8 oz"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 80,
+      "unit": "g",
+      "note": "zdroj: milk, evaporated 4 lb 8 oz (5 plechovek 14½ oz)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej hnědý cukr, vodu a kukuřičný sirup.",
+      "minutes": 2
+    },
+    {
+      "text": "Vař do 112 °C, dokud několik kapek směsi po vhození do studené vody nevytvoří měkkou kuličku.",
+      "minutes": 15
+    },
+    {
+      "text": "Sundej z ohně a nech vychladnout na 82 °C, aby se směs nesrážela.",
+      "minutes": 10
+    },
+    {
+      "text": "Postupně a za stálého míchání přidávej máslo a odpařené mléko.",
+      "minutes": 2
+    },
+    {
+      "text": "Šlehej, dokud omáčka nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech úplně vychladnout."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí, výtěžek 1½ gal, porce 4 tablespoons (2 oz, tedy 2 fluid oz = 60 ml). Suroviny drží zdroj; na 4 porce vychází 368 g surovin, tj. asi 92 g na porci, což odpovídá 60 ml hustého sirupu o hustotě asi 1,4 g/ml po odpaření vody při vaření na 112 °C. Nález bilance v check:recipe (poměr 1,62) je proto jen důsledek hustoty omáčky, ne chyba přepočtu. Máslo je třída fat (zůstává v omáčce). Odpařené mléko ponechávám podle katalogu (historická surovina). Chlazení do úplného vychladnutí je čekání mimo timeMinutes. Zdroj podává na pečený vanilkový krém (s. 41) nebo zmrzlinu (s. 52); tato poznámka není součástí kroků.",
+  "source": {
+    "book": "navy-1944",
+    "page": 63,
+    "titleOriginal": "BUTTERSCOTCH SAUCE"
+  },
+  "verified": true,
+  "quote": "Combine sugar, water and syrup."
+}

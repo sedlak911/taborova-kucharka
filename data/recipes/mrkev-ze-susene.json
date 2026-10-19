@@ -1,0 +1,77 @@
+{
+  "id": "mrkev-ze-susene",
+  "title": "Mrkev ze sušené mrkve",
+  "titleOriginal": "Buttered Carrots (using dehydrated carrots)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 380,
+      "unit": "ml",
+      "note": "na namočení a vaření mrkve; vstřebá se, zůstává v jídle",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mrkev-susena",
+      "amount": 65,
+      "unit": "g",
+      "note": "sušená kostičková mrkev; rehydratace je podstata receptu"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušenou mrkev zalij vodou, přikryj a nech 45 minut namáčet.",
+      "minutes": 45
+    },
+    {
+      "text": "Pomalu zahřej k varu.",
+      "minutes": 6
+    },
+    {
+      "text": "Vař na mírném ohni 10 minut, dokud mrkev nezměkne a voda se téměř vsákne.",
+      "minutes": 10
+    },
+    {
+      "text": "Sundej z ohně, přimíchej máslo, sůl a pepř a dobře promíchej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Porce přibližně 3 oz (asi 1/2 cupu) z hlavičky; výtěžek 100 porcí odpovídá zdroji (1 lb sušené mrkve ≈ 6 lb uvařené podle poznámky zdroje). Mrkev zůstává sušená, protože rehydratace je podstatou receptu; čerstvá varianta by byla ~12½ × hmotnost sušené (65 g ≈ 800 g nepoloupané mrkve, pak jako mrkev na másle). Voda 2½ gal je linear, nejde o slévanou vodu: zůstává v jídle a vsákne se; pokud zbude tekutina, scedi ji. Doba namáčení 45 minut je převzata ze zdroje, doba zahřívání u 4 porcí je odhad 6 minut (zdroj 45 minut pro 100 porcí). Sůl 2½ oz (5 g pro 4 porce) je třída seasoning s mírným nadhodnocením (4,6 g → 5 g); pro méně slané jídlo ubírej. Pepř 1/2 oz je 0,92 g.",
+  "source": {
+    "book": "navy-1944",
+    "page": 270,
+    "titleOriginal": "Buttered Carrots (using dehydrated carrots)"
+  },
+  "verified": true
+}

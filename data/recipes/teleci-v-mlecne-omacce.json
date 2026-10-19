@@ -1,0 +1,82 @@
+{
+  "id": "teleci-v-mlecne-omacce",
+  "title": "Telecí v mléčné omáčce",
+  "titleOriginal": "Veal with Gravy (Vitella in guazzetto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 600,
+      "unit": "g",
+      "note": "svázané kuchyňským provázkem; zdroj „about one pound of veal“ (454 g) bez počtu porcí, pro 4 porce navýšeno na 600 g (asi 150 g na porci)"
+    },
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 60,
+      "unit": "g",
+      "note": "tenké plátky na dno hrnce; zdroj „some thin slices of corned beef“, odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek másla; zdroj „a piece of butter“, odhad"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "půl citronu nakrájeného na tenké plátky bez kůže a semínek, jako ve zdroji"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 310,
+      "unit": "ml",
+      "note": "vroucí; zdroj „a cup of hot milk, that has boiled“ (1 cup = 237 ml na 454 g masa, přepočteno na 600 g)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Telecí maso svaž kuchyňským provázkem, aby drželo pohromadě.",
+      "minutes": 2
+    },
+    {
+      "text": "Na dno hrnce dej tenké plátky solené hovězí, kousek másla a plátky půl citronu zbavené kůže a semínek.",
+      "minutes": 3
+    },
+    {
+      "text": "Na to polož maso a z každé strany ho opékej dozlatova. Dej pozor, aby nepřipálilo, protože tekutiny je málo.",
+      "minutes": 10
+    },
+    {
+      "text": "Odeber přebytečný tuk, zalij vroucím mlékem a hrnec přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Pod pokličkou dovař maso do změknutí.",
+      "minutes": 40
+    },
+    {
+      "text": "Před podáváním protlač omáčku sítkem a podávej ji s masem.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj nedává porce; pro 4 porce počítáno z běžné praxe: telecí maso 600 g (zdroj „about one pound“ = 454 g bez počtu porcí, což je méně než 120 g na porci; proto navýšeno na 150 g na porci), solené hovězí 60 g (odhad z „some thin slices“), máslo 20 g (odhad z „a piece of butter“), půl citronu jako ve zdroji (0,5 ks), mléko 310 ml (zdroj 1 cup = 237 ml na 454 g, přepočteno na 600 g). Zdroj neuvádí čas dušení; odhad 40 minut pod pokličkou do změknutí. Sůl ve zdroji není, slanou chuť dodává solené hovězí; před podáváním ochutnej. Solené hovězí (corned beef) v katalogu je nejbližší položka, původní kus nebyl specifikován.",
+  "source": {
+    "book": "italian-1919",
+    "page": 66,
+    "titleOriginal": "VEAL WITH GRAVY (Vitella in guazzetto)"
+  },
+  "verified": false,
+  "quote": "Before serving rub the gravy through a sieve."
+}

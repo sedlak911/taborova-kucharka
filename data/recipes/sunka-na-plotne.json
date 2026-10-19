@@ -1,0 +1,53 @@
+{
+  "id": "sunka-na-plotne",
+  "title": "Šunka na plotně",
+  "titleOriginal": "Griddle-Broiled Ham",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 570,
+      "unit": "g",
+      "note": "plátky uzené šunky, bez kosti; zdroj 21–42 lb (boneless), počítáno 31½ lb (střed rozsahu)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej plotnu na střední teplotu."
+    },
+    {
+      "text": "Nakrájej šunku na plátky tlusté asi 1 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "Nakrájej plátky na porce a v několika místech nařízni okraj tuku, aby se nekroutil.",
+      "minutes": 5
+    },
+    {
+      "text": "Opékej na plotně asi 10 minut, po 5 minutách obrať, aby se opekla rovnoměrně; průběžně seškrabuj vytékající tuk a udrž střední teplotu.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej ihned."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 3 až 6 oz (85–170 g). Šunka bez kosti (boneless) 21–42 lb, počítáno střed 31½ lb = 14 288 g → 570 g na 4 porce (≈143 g na porci, tj. ~5 oz, uprostřed rozsahu porce zdroje). Zdroj uvádí i šunku s kostí 30–60 lb; zvolena varianta bez kosti, protože recept pracuje s plátky, ne s kostí a kroky o rozdělení na kolínko odpadají. Rozsah hmotnosti je odhad středu, proto verified false. Postup: zdroj „split hams into knuckle sections“ modernizován na krájení plátků (3/8 inch ≈ 1 cm). Zdroj neuvádí mazání plotny, proto se olej nepřidává; tuk ze šunky se stírá průběžně podle poznámky zdroje. Příloha Cream Gravy (page 177) ani vejce/brambory nejsou součástí receptu. Čas: opékání 10 minut (5 na každou stranu), předehřátí a krájení bez čekání; timeMinutes 20, Hotovo 20.",
+  "source": {
+    "book": "navy-1944",
+    "page": 147,
+    "titleOriginal": "GRIDDLE-BROILED HAM"
+  },
+  "verified": false,
+  "quote": "Broil on heated griddle. Turn to insure even cooking."
+}

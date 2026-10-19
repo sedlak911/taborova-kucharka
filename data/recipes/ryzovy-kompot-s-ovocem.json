@@ -1,0 +1,80 @@
+{
+  "id": "ryzovy-kompot-s-ovocem",
+  "title": "Ovocná rýžová kompotová směs",
+  "titleOriginal": "Fruit and Rice Compote",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "rychle",
+    "sladke",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "zelatinovy-dezert-prasek",
+      "amount": 70,
+      "unit": "g",
+      "note": "jahodová příchuť"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 175,
+      "unit": "ml",
+      "note": "vroucí; 115 ml na rozpuštění dezertu, 60 ml se vsákne do rýže"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "jablecny-dzus",
+      "amount": 115,
+      "unit": "ml",
+      "note": "ze zdroje směs ovocných džusů"
+    },
+    {
+      "ingredientId": "ananas",
+      "amount": 120,
+      "unit": "g",
+      "note": "ze zdroje konzerva (scezená), použit čerstvý; na klínky"
+    },
+    {
+      "ingredientId": "merunky",
+      "amount": 60,
+      "unit": "g",
+      "note": "ze zdroje konzerva, použity čerstvé; na čtvrtky"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 30,
+      "unit": "g",
+      "note": "suchá; ze zdroje uvařená rýže 5 lb, suchá ≈ 1/3"
+    }
+  ],
+  "steps": [
+    { "text": "Nakrájej ananas na klínky a meruňky na čtvrtky.", "minutes": 5 },
+    { "text": "Přiveď část vody k varu a rozpusť v ní jahodový dezert.", "minutes": 3 },
+    { "text": "Přidej cukr a míchej, dokud se nerozpustí.", "minutes": 2 },
+    { "text": "Přilij džus a vychlaď, dokud mírně nezhoustne.", "minutes": 30 },
+    { "text": "Mezitím uvař rýži doměkka, dokud vodu nevsákne.", "minutes": 15, "parallel": true },
+    { "text": "Do mírně ztuhlé směsi vmíchej ovoce a rýži.", "minutes": 2 },
+    { "text": "Nalij do misek nebo forem a vychlaď, dokud úplně nezpevní." }
+  ],
+  "modernNote": "Zdroj: 100 porcí, 5 oz (cca ½ hrnku). Zdroj počítá s uvařenou rýží (5 lb); pro 4 porce je použita suchá rýže (cca 1/3 hmotnosti uvařené), vařená v části vody, která se vsákne. Ovoce ze zdroje je z konzervy (ananas, meruňky); použit čerstvý ekvivalent, konzervu lze použít scezenou. Směs džusů ze zdroje nahrazena jablečným džusem. Zdroj doporučuje podávat s šlehanou odpařenou smetanou nebo studeným krémem (strany 59 a 56); není to součást receptu. Dezert je prášek s cukrem, proto je cukru přidáno jen málo. Čas chlazení (zpevnění) je tak dlouhý, že recept patří mezi přípravu předem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 53,
+    "titleOriginal": "FRUIT AND RICE COMPOTE"
+  },
+  "verified": false,
+  "quote": "Fold in fruits and rice."
+}

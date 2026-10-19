@@ -1,0 +1,92 @@
+{
+  "id": "papriky-plnene-hovezim",
+  "title": "Papriky plněné hovězím a rýží",
+  "titleOriginal": "Beef Stuffed Peppers",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 600,
+      "unit": "g",
+      "note": "4 velké papriky (1 paprika na porci), odhad ~150 g na kus; zdroj udává počet, ne hmotnost"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na blanšírování papriky, slije se; domácí odhad (zdroj „to cover“)",
+      "group": "Papriky",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na blanšírování, slije se",
+      "group": "Papriky",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 80,
+      "unit": "g",
+      "note": "uvař předem; zdroj 13½ lb uvařené rýže, suchá ≈ 1/3 (2041 g na 100 porcí)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 45,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "hovezi-vareno",
+      "amount": 380,
+      "unit": "g",
+      "note": "vařené hovězí, nakrájené na kostičky"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 75,
+      "unit": "ml",
+      "note": "½ galonu ze zdroje; zdroj: podle suchosti rýže, jen na navlhčení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Papriky vyber stejně velké, umyj, překrůj napůl a vyjmi semínka a bílé žebro.", "minutes": 5 },
+    { "text": "Vodu v hrnci přiveď k varu a přidej sůl.", "minutes": 8 },
+    { "text": "Papriky zalij vroucí vodou a vař 5 minut. Sceď.", "minutes": 5 },
+    { "text": "Ve větší míse smíchej uvařenou rýži, nasekanou cibuli, sůl a pepř.", "minutes": 3 },
+    { "text": "Přidej nasekané hovězí a vývar a důkladně promíchej.", "minutes": 3 },
+    { "text": "Naplň půlky papriky směsí a polož je do vymazaného pekáče.", "minutes": 5 },
+    { "text": "Peč v troubě na 175 °C 30 minut.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj je pro 100 porcí (1 paprika = 1 porce, plnění 1 hrnek). Rýži uvař předem; zdroj uvádí uvařenou rýži (13½ lb), v JSON je suchá hmotnost (1/3). Alternativa ze zdroje: strouhanka 8 lb na 100 porcí (nevybráno, zadání chtělo rýži). Hovězí vývar je kupovaný bujón (zdroj odkazuje na vlastní vývar na s. 216 zdroje). Zdroj nepočítá s tukem na vymazání pekáče (množství neuvedeno), tuk v surovinách není. Hmotnost papriky 600 g je odhad. Vodu na blanšírování (1,5 l) a sůl do ní (3 g) počítám jako domácí hodnoty, slévají se. Sůl v náplni (2 oz na 100 porcí) dává přes třídu seasoning 4 g na 4 porce, tj. ~1 g na porci: doporučuji ubrat na polovinu. Zdroj doporučuje podávat s rajčatovou omáčkou (s. 184 zdroje); omáčka není v surovinách, lze podávat s hotovou rajčatovou omáčkou. 175 °C odpovídá 350 °F ze zdroje.",
+  "source": {
+    "book": "navy-1944",
+    "page": 123,
+    "titleOriginal": "BEEF STUFFED PEPPERS"
+  },
+  "verified": false
+}

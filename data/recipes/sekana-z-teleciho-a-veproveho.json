@@ -1,0 +1,107 @@
+{
+  "id": "sekana-z-teleciho-a-veproveho",
+  "title": "Sekaná z telecího a vepřového",
+  "titleOriginal": "Veal and Pork Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-mlete",
+      "amount": 450,
+      "unit": "g",
+      "note": "zdroj 25 lb boneless telecího (varianta bez kosti; bone-in 35 lb nepoužito)"
+    },
+    {
+      "ingredientId": "veprove-mlete",
+      "amount": 110,
+      "unit": "g",
+      "note": "zdroj 6 lb boneless vepřového (varianta bez kosti; bone-in 9 lb nepoužito)"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 75,
+      "unit": "g",
+      "note": "měkké drobky; zdroj 4 lb na 2 gal (asi 0,24 g/ml)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekaná nadrobno; zdroj 1 lb"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekaný nadrobno; zdroj 1 lb"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekaná nadrobno; zdroj 1 lb 8 oz"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 130,
+      "unit": "ml",
+      "note": "zdroj 3½ qt, hmotnost nevyplněna"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "zdroj 8 oz (1 cup)"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "zdroj ½ oz (1¾ tbsp)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání pekáčů a potření bochníků (odhad; zdroj 'Fat, melted' bez množství)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 5,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 160 °C." },
+    { "text": "Nakrájej telecí a vepřové maso na malé kostky a semel je.", "minutes": 10 },
+    { "text": "Nasekej cibuli, celer a zelenou papriku nadrobno.", "minutes": 8 },
+    { "text": "Do mísy dej mleté maso, nasekanou zeleninu, chlebové drobky, mléko, sůl a pepř a důkladně promíchej.", "minutes": 4 },
+    { "text": "Směs tvaruj do dvou bochánků a polož je do dvou vymazaných pekáčů.", "minutes": 5 },
+    { "text": "Vršky bochánků potři olejem.", "minutes": 2 },
+    { "text": "Peč nepřikryté bez přidání vody při 160 °C asi 75 minut, dokud není uprostřed propečeno; každých 20 minut bochánky potři šťávou z pekáče.", "minutes": 75 },
+    { "text": "Podávej nakrájené, teplé nebo studené, případně s rajčatovou omáčkou." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5 oz (asi 140 g); všechna čísla z obrázku stránky (PDF 160, tištěná 152). Zdroj nabízí varianty bone-in (telecí 35 lb, vepřové 9 lb) i boneless (25 lb, 6 lb); použito boneless, protože 31 lb masa odpovídá 100 porcím po 5 oz. Zdroj nemá hmotnost mléka (uvedeno jen 3½ qt, počítáno jako 3,3 l) ani množství tuku na pekáče a potření (vzat odhad 5 ml oleje, původní sádlo 5 g, verified false). Chlebové drobky jsou měkké (čerstvé), ne suché. Sůl 15 g na 4 porce vyšla přes třídu seasoning z 8 oz (asi 3,75 g na porci); je to dost, doporučení ubrat na 10 g. Pečení: zdroj 2 hodiny při 325 °F (160 °C) pro 100 porcí; 75 minut pro dva bochánky z asi 840 g směsi je odhad, ověř uprostřed propečeno. Zdroj varuje, že dobře propečené maso nezůstane růžové. Podávej s rajčatovou omáčkou (zdroj odkazuje na stranu 184, PDF 192) nebo studené.",
+  "source": {
+    "book": "navy-1944",
+    "page": 160,
+    "titleOriginal": "VEAL AND PORK LOAF"
+  },
+  "verified": false,
+  "quote": "Combine ground veal, pork, bread crumbs, onions, celery, green peppers, milk, salt and pepper."
+}

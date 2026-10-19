@@ -1,0 +1,29 @@
+[
+  {
+    "id": "bologna",
+    "name": "Bologna (gothajský salám)",
+    "aliases": [
+      "gothajský salám",
+      "gothaj",
+      "bologna salám",
+      "salám bologna",
+      "salám"
+    ],
+    "category": "uzeniny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 308,
+      "protein": 15.2,
+      "carbs": 5.49,
+      "fat": 24.59,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172013 (Bologna, beef and pork); nejbližší USDA ekvivalent k „bologna, pork and beef“",
+      "refuse": "USDA fdc:172013 refusePct 0"
+    }
+  }
+]

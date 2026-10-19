@@ -1,0 +1,114 @@
+{
+  "id": "zeleninova-polevka-navy",
+  "title": "Zeleninová polévka",
+  "titleOriginal": "Vegetable Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 760,
+      "unit": "ml",
+      "note": "kupovaný, připravený podle návodu na obalu; zdroj Beef Stock (s. 216), masový vývar"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "loupaná, vč. nálevu"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 45,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájené"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 55,
+      "unit": "g",
+      "note": "oloupané, nakrájené na kostky (zdroj: vařené, hmotnost přibližně stejná)"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 120,
+      "unit": "g",
+      "note": "zelený mražený (zdroj: konzerva No. 10, hmotnost včetně nálevu)",
+      "original": {
+        "ingredientId": "hrasek-v-konzerve",
+        "amount": 120,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mrkev, celer, cibuli a zelí nakrájej nadrobno, brambory oloupej a nakrájej na kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "V kotlíku nebo velkém hrnci zahřej vývar, přidej nakrájenou zeleninu (bez brambor) a rajčata a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Na mírném ohni duš 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej brambory a duš dalších 15 minut, dokud mrkev a brambory nezměknou.",
+      "minutes": 15
+    },
+    {
+      "text": "Před podáváním dochuť solí a pepřem, přidej hrášek a znovu ohřej.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj používá masový vývar (Beef Stock, s. 216 tištěná = PDF 224): nahrazen kupovaným hovězím vývarem, recept proto není označen bez-masa (bezmasá varianta by použila zeleninový vývar). Konzervovaná rajčata zůstávají. Brambory zdroj uvádí uvařené (3 lb): vaří se přímo v polévce posledních 15 minut, aby se nemusela vařit zvlášť ve vodě; hmotnost vařených a syrových oloupaných brambor je přibližně stejná. Hrášek zdroj uvádí jako konzervu No. 10 (6 lb 10 oz včetně nálevu); moderně zelený mražený v téže hmotnosti, konzervovaný hrášek je v original. Porce 1 cup (approx. 8 oz) vs. výtěžek 6 gal na 100 porcí (227 ml/porce) je v toleranci, originalYield 100. Zdroj sůl 4 oz na 100 porcí dává ~1,8 g soli na porci: doporučení ubrat podle chuti. Petržel jako ozdobu zdroj volitelně uvádí, vynechána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 231,
+    "titleOriginal": "Vegetable Soup"
+  },
+  "verified": true
+}

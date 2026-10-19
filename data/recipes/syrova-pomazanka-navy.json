@@ -1,0 +1,64 @@
+{
+  "id": "syrova-pomazanka-navy",
+  "title": "Sýrová pomazánka",
+  "titleOriginal": "American Cheese Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko",
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "horcice",
+      "amount": 1,
+      "unit": "g",
+      "note": "hotová hořčice (zdroj „Mustard, prepared“ 1 oz)"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 9,
+      "unit": "g",
+      "note": "zdroj „chili sauce“ (8 oz); nejbližší katalogová omáčka, pálivější chilli omáčka v katalogu není"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 18,
+      "unit": "g",
+      "note": "kupovaná; zdroj odkazuje na domácí majonézu (s. 204)"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 110,
+      "unit": "g",
+      "note": "strouhaný (American cheddar, ground)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej hořčici, kečup a majonézu.",
+      "minutes": 2
+    },
+    {
+      "text": "Směs vmíchej do nastrouhaného sýra a míchej, dokud není hladká a rovnoměrně promíchaná.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj: American Cheese Filling, s. 207 (PDF 215), varianta sendvičových náplní; 100 porcí, porce cca 2 oz. Přepočet na 4 porce × 0,04 (linear). Sýr čedar (6 lb) = cedar. Chili sauce nahrazena kečupem (nejbližší katalogová položka). Majonéza kupovaná, zdroj ji odkazuje z domácího receptu na s. 204, ten zde nerozepisuji. Sekce „Added Seasoning“ na stejné straně se týká másla, ne této náplně, proto cibule, pimientos ani koření do receptu nepatří. Nesoulad zdroje: 100 porcí × 2 oz = 12,5 lb, ale ingredience dávají 7,6 lb (6 lb sýra, 1 lb majonézy, 8 oz kečupu, 1 oz hořčice), tj. na porci 34 g místo 57 g (poměr 1,65). Recept zachovává zdrojové poměry; při podávání počítej spíš 35 g na krajíc. Doporučení: sýr nech před mícháním vytemperovat na pokojovou teplotu, rychleji se rozmíchá (poznámka zdroje). Zdroj náplň používá na topinku, kterou pak zapékáš pod grilem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 215,
+    "titleOriginal": "American Cheese Filling"
+  },
+  "verified": false,
+  "quote": "Add to cheese and stir until mixture is thoroughly blended and smooth."
+}

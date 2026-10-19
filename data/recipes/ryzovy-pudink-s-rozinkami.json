@@ -1,0 +1,72 @@
+{
+  "id": "ryzovy-pudink-s-rozinkami",
+  "title": "Rýžový pudink s rozinkami",
+  "titleOriginal": "Rice Pudding with Raisins",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 75,
+      "unit": "g",
+      "note": "syrová, vaří se přímo v mléku"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 610,
+      "unit": "ml",
+      "note": "v něm se vaří rýže"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 75,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C a vymaž zapékací mísu." },
+    { "text": "V hrnci zahřej mléko těsně k varu.", "minutes": 5 },
+    { "text": "Mezitím rýži opláchni a scedí.", "minutes": 2, "parallel": true },
+    { "text": "Rýži vsyp do vřícího mléka a nech pomalu probublávat 25 minut, dokud nezměkne. Občas zamíchej.", "minutes": 25 },
+    { "text": "Vmíchej cukr, sůl, rozinky a máslo.", "minutes": 3 },
+    { "text": "Vylij směs do vymazané zapékací mísy.", "minutes": 2 },
+    { "text": "Peč asi 30 minut, dokud pudink nezpevní.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj vaří rýži syrovou přímo v mléku (ne uvařenou), proto nic nepřepočítávám na suchou hmotnost a voda na vaření není. Mléko je zadané jen objemem (4 gal = 15,1 l, bez hmotnosti), přepočteno 1 ml = 1 g. Doba vaření rýže: zdroj 45 minut je pro velký kotel s parním pláštěm; v hrnci na 4 porce stačí 25 minut, dokud rýže nezměkne. Máslo je ve zdroji „Butter“, proto bez `original`. Zdroj počítá s pečením ve více pánvích, pro 4 porce stačí jedna mísa. Bilance: zdroj uvádí výtěžek 3 gal (na porci 1/2 cup), ale suroviny (hlavně 4 gal mléka) jsou zhruba 20 kg na 100 porcí, takže část tekutiny se při vaření a pečení odpaří; nález bilance je důsledkem nesouladu zdroje, ne chybou přepočtu, a množství surovin nemění. Doporučení: podávej teplý nebo vychladlý, s vanilkovou omáčkou nebo šlehanou smetanou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 53,
+    "titleOriginal": "RICE PUDDING WITH RAISINS"
+  },
+  "verified": true
+}

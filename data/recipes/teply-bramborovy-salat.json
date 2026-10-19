@@ -1,0 +1,107 @@
+{
+  "id": "teply-bramborovy-salat",
+  "title": "Teplý bramborový salát se slaninou",
+  "titleOriginal": "Hot Potato Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": ["levne", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["horcice"],
+  "ingredients": [
+    {
+      "ingredientId": "spek",
+      "amount": 145,
+      "unit": "g",
+      "note": "nakrájená na kostičky; tuk z ní zůstává v pánvi a jde do salátu"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 910,
+      "unit": "g",
+      "note": "syrové, oloupané, nakrájené na kostky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 190,
+      "unit": "ml",
+      "note": "zůstává v salátu, brambory se v ní vaří do měkka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 45,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 10,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "sušená hořčice v prášku"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 40,
+      "unit": "ml",
+      "note": "vmíchat na konci vaření",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory oloupej a nakrájej na kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "Cibuli nasekej nadrobno.",
+      "minutes": 3
+    },
+    {
+      "text": "Slaninu nakrájej na kostičky a osmahni dolehka.",
+      "minutes": 8
+    },
+    {
+      "text": "K slanině přidej brambory, cibuli, vodu a cukr.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej pepř, hořčici a sůl, dobře promíchej a přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Přiveď k varu a vař 30 minut, dokud brambory téměř nezměknou.",
+      "minutes": 35
+    },
+    {
+      "text": "Opatrně vmíchej ocet, aby se brambory nerozmačkaly, a vař dalších 10 minut, dokud brambory nezměknou, ale nerozpadnou se.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj: Hot Potato Salad, PDF strana 201 (tištěná 193), na stránce je také Cold Potato Salad a další recepty, zpracován jen tento. Brambory se vaří přímo v zálivce a nescedí se, proto je voda třídy linear (190 ml, z 1¼ gal), ne domácí slévaná voda; ocet zůstává v salátu, proto také linear. Sůl a pepř jsou třídy seasoning. Pepř 2 oz (57 g) a 7 tbsp (asi 1,7 oz) ani cukr 2 lb 8 oz a 1¼ qt (asi 2,5 lb) nejsou v rozporu, použita je hmotnost. Porce ~345 g odpovídá hmotnosti porce zdroje (100 porcí ≈ 34 kg, tj. ~341 g na porci); porce zdroje ¾ až 1 cup je objem, proto check:recipe hlásí poměr 1,94 jako falešný poplach. Sůl 2,75 g na porci je nad doporučeným rozsahem: pro chuť ubrat. Čerstvá petrželka (12 oz na 1 qt) a kmín (1½ pint) jsou volitelné varianty ze zdroje a v receptu nejsou.",
+  "source": {
+    "book": "navy-1944",
+    "page": 201,
+    "titleOriginal": "Hot Potato Salad"
+  },
+  "verified": true
+}

@@ -1,0 +1,116 @@
+{
+  "id": "smazena-treska",
+  "title": "Smažená treska",
+  "titleOriginal": "FRIED CODFISH (Baccalà fritto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "tabor",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "susena-treska",
+      "amount": 400,
+      "unit": "g",
+      "note": "sušená solená, před vařením namočená den předem"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na povaření tresky, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na povaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 150,
+      "unit": "g",
+      "note": "asi 30 g na lehké posypání kousků, zbytek do těsta"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "do těsta (zdroj: „water, flour and a little oil“)"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 15,
+      "unit": "ml",
+      "note": "trochu oleje do těsta, jednu lžíci",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení v hlubokém tuku; většina se slije, do jídla se počítá jen nasáklý podíl (viz další řádek)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý při smažení (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Den předem tresku namoč ve studené vodě a několikrát vodu vyměň."
+    },
+    {
+      "text": "Namočenou tresku dej do hrnce se studenou osolenou vodou a postav na plotnu.",
+      "minutes": 10
+    },
+    {
+      "text": "Jakmile voda vzkipí, rybu hned vyndej a nech ji trochu vychladnout.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím připrav řídké těsto ze zbylé mouky, vody a oleje.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Rybu nakrájej na kusy velké jako dlaň a pečlivě z nich odstraň všechny kosti.",
+      "minutes": 10
+    },
+    {
+      "text": "Kousky ryby lehce posyp moukou a ponoř je do těsta.",
+      "minutes": 5
+    },
+    {
+      "text": "V hluboké pánvi zahřej hodně oleje, dokud v něm kousek těsta hned nezačne syčet.",
+      "minutes": 8
+    },
+    {
+      "text": "Kousky ryby smaž v oleji dozlatova a podávej hned horké.",
+      "minutes": 6
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce, všechna množství jsou odhad z běžné praxe pro 4 porce. Treska: 400 g sušené solené tresky (po namočení asi 800 g; po povaření a vykostění zhruba 600 g ryby, tedy asi 150 g na porci, jako u č. 122). Namáčení zdroj přesně neuvádí (odkazuje na postup č. 122 a 124, kniha chybně cituje č. 107, „keeping it for some time under running cold water“); počítám s namáčením přes noc, proto je krok bez minut a tag pripravit-predem. Voda na povaření a sůl (2 g na 1 l) se slijí, do jídla nevstupují. Mouka 150 g: asi 30 g na posypání a zbytek do řídkého těsta (voda 200 ml, olej 1 lžíce); odhad. Smažení v hlubokém tuku: 500 ml oleje se vylévá, do jídla se počítá 30 ml nasáklého tuku (odhad, samostatný řádek). Citron zdroj u tohoto receptu nezmiňuje, nepřidávám ho. Makra katalogu jsou pro nenamočenou sušenou rybu, takže kalorie u tresky jsou orientační a spíše nadhodnocené.",
+  "source": {
+    "book": "italian-1919",
+    "page": 95,
+    "titleOriginal": "FRIED CODFISH (Baccalà fritto)"
+  },
+  "verified": false,
+  "quote": "As soon as the water boils, remove the codfish."
+}

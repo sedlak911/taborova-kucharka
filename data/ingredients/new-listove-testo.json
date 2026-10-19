@@ -1,0 +1,29 @@
+[
+  {
+    "id": "konak",
+    "name": "Koňak (brandy)",
+    "aliases": [
+      "brandy",
+      "koňak",
+      "francouzský koňak",
+      "brandy koňak"
+    ],
+    "category": "napoje",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 250,
+      "protein": 0,
+      "carbs": 0.1,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 0.94,
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171919 (Alcoholic beverage, distilled, all, 86 proof); koňak v USDA není, použit nejbližší záznam destilátu",
+      "refuse": "USDA fdc:171919 refusePct 0"
+    }
+  }
+]

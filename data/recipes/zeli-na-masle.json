@@ -1,0 +1,91 @@
+{
+  "id": "zeli-na-masle",
+  "title": "Zelí na másle",
+  "titleOriginal": "Buttered Cabbage",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 450,
+      "unit": "g",
+      "note": "jedlá část ze 31 lb nákupu (A.P. 562 g × ediblePortion katalogu 0,8); nakrájené na klínky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "na ozdobu, podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce nalij vodu, přidej sůl a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím zelí očisti, omyj a nakrájej na klínky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Zelí vlož do vroucí vody, přikryj a vař asi 10 až 15 minut, dokud není měkké. Vař po menších dávkách, aby zelí neztratilo barvu.",
+      "minutes": 15
+    },
+    {
+      "text": "Zelí sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej rozpuštěné máslo a promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Podle chuti posyp paprikou."
+    }
+  ],
+  "modernNote": "Zdroj: Buttered Cabbage, porce 4 až 5 oz (cca 2/3 hrnku), v check:recipe použita střední hodnota 4-1/2 oz.Zelí (31 lb „Cabbage, A.P.“ = nákupní hmotnost, 562 g na 4 porce) převedeno na jedlou část katalogovým ediblePortion 0,8 (bile-zeli) = 450 g.P.“ = nákupní hmotnost) převedeno na jedlou část katalogem 0,8. Máslo 1 lb ze zdroje, zůstává v jídle = linear. Sůl 2 oz (¼ cupu) ze zdroje je dávána jen do vody na vaření: domácí hodnota 2 g na 1 l vody, voda se slévá. Papriku zdroj uvádí bez množství („To garnish“, „if desired“): špetka jako odhad. Varianty zdroje (Creamed Cabbage: 1½ gal Medium Cream Sauce, str. 173; Cabbage with Bacon: 2 lb slaniny osmažené do křupava, jejího tuku v omáčce) nejsou v tomto receptu. Doporučení: zelí vař v menších dávkách a nepřevař, jinak ztrácí barvu a chuť.",
+  "source": {
+    "book": "navy-1944",
+    "page": 268,
+    "titleOriginal": "BUTTERED CABBAGE"
+  },
+  "verified": false,
+  "quote": "Trim and wash cabbage. Cut into wedges."
+}

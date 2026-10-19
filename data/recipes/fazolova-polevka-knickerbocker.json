@@ -1,0 +1,99 @@
+{
+  "id": "fazolova-polevka-knickerbocker",
+  "title": "Fazolová polévka Knickerbocker",
+  "titleOriginal": "Knickerbocker Bean Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 230,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 125,
+      "unit": "g",
+      "note": "suché navy fazole; namočené 2–3 hodiny ve studené vodě do pokrytí, nesleje se (zůstává v polévce, objem ve zdroji neuveden)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 610,
+      "unit": "ml",
+      "note": "vařící voda"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 9,
+      "unit": "g",
+      "note": "solená vepřová slanina (salt pork) nakrájená na kostky"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 5,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 14,
+      "unit": "g",
+      "note": "nakrájená nadrobno, polovina do polévky, polovina k osmahnutí"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 420,
+      "unit": "ml",
+      "note": "místo domácího Meat Stock (s. 216, PDF 224)"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájené na kostky"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 9,
+      "unit": "g",
+      "note": "slanina nakrájená na kostky, osmažená na pánvi"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 115,
+      "unit": "g",
+      "note": "z konzervy včetně šťávy, nakrájená"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, opláchni a zalij studenou vodou tak, aby byly zakryté. Nech 2–3 hodiny namočit a neslévej." },
+    { "text": "Fazole i s vodou z namáčení zalij vařící vodou, přidej solenou vepřovou slaninu, mrkev a polovinu cibule. Přiveď k varu a vař asi 3 hodiny, dokud fazole nezměknou.", "minutes": 190 },
+    { "text": "Přilij hovězí vývar, přidej brambory a vař asi 30 minut, dokud nezměknou.", "minutes": 30 },
+    { "text": "Mezitím osmahni slaninu s druhou polovinou cibule dosvětle hněda.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej osmahnutou slaninu s cibulí, přidej rajčata, sůl a pepř a znovu přiveď k varu.", "minutes": 8 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 1 cupu (8 oz); 6 gal / 227 ml = 100, originalYield 100 je v pořádku. Namáčení v knize je 2–3 hodiny (ne 2–8, jak bylo ve shortlistu). Studená voda na namočení (do pokrytí, nesleje se) ve zdroji nemá objem; nepřidávána zvlášť, vsákne se do fazolí a zůstane v polévce. Hovězí vývar je koupený místo domácího Meat Stock (s. 216, PDF 224, 2¾ gal na 100 porcí); nenahrazen vodou. Solená vepřová slanina (salt pork) je mapována na špek, skutečný salt pork je tučnější a slanější – podle chuti uber sůl a případně přidej tuk. Rajčata jsou z konzervy (číslo 10, 6 lb 6 oz včetně šťávy). Sůl je 4 g na porci, vzhledem k solenému vývaru a slanině doporučuji dochutit až nakonec.",
+  "source": {
+    "book": "navy-1944",
+    "page": 232,
+    "titleOriginal": "KNICKERBOCKER BEAN SOUP"
+  },
+  "verified": true
+}

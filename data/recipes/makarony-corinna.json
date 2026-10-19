@@ -1,0 +1,167 @@
+{
+  "id": "makarony-corinna",
+  "title": "Makarony Corinna se zeleninou",
+  "titleOriginal": "Macaroni a la Corinna (Maccheroni alla Corinna)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "testoviny",
+      "amount": 340,
+      "unit": "g",
+      "group": "Těstoviny",
+      "note": "suché makarony; zdroj ¾ lb (340 g), 85 g na osobu"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 3500,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "První vaření (5 minut)",
+      "note": "do vody na vaření, slije se; zdroj 2 qts (1,9 l), domácí 1 l na 100 g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "První vaření (5 minut)",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "První vaření (5 minut)",
+      "note": "kousek do vody na vaření; zdroj „a small piece of butter“"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 3500,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Druhé vaření",
+      "note": "čerstvá voda na druhé vaření, slije se; domácí 1 l na 100 g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Druhé vaření",
+      "note": "do druhé vody, slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Druhé vaření",
+      "note": "kousek do druhé vody; zdroj „as above“"
+    },
+    {
+      "ingredientId": "ruzickova-kapusta",
+      "amount": 200,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "nadrobno; místo tuctu růžiček nebo jednoho zelí (zdroj)"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 80,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "nakrájená na tenké plátky, pak nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "drobné cibulky (zdroj: tucet malých)"
+    },
+    {
+      "ingredientId": "vodnice",
+      "amount": 120,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "bílá vodnice (zdroj: turnips)"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 80,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "zdroj: půl tuctu; lze vynechat"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "na restování zeleniny a dušení; odhad"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Zelenina (macedoine)",
+      "note": "trochu vody na dušení zeleniny; odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "dochutit"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Zelenina (macedoine)",
+      "note": "dochutit"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 60,
+      "unit": "g",
+      "group": "Sýr do vrstev",
+      "note": "strouhaný; zdroj jen „grated cheese“, odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Do dvou velkých hrnců nalij vodu, osol ji a do každého přidej kousek másla. Oba hrnce přiveď k varu.", "minutes": 15 },
+    { "text": "Vsyp těstoviny do prvního hrnce a nech je vřít 5 minut. Pak je sceď v cedníku.", "minutes": 5 },
+    { "text": "Těstoviny přendej do druhého hrnce s čerstvou vroucí vodou a vař na mírném ohni.", "minutes": 10 },
+    { "text": "Mezitím zeleninu nakrájej nadrobno. Na másle opékej vodnici, mrkev a cibuli do poloviny, pak přidej kapustu.", "minutes": 8, "parallel": true },
+    { "text": "Zatímco se těstoviny vaří, do zeleniny přilij trochu vody, přidej kousek másla a dus 10 minut.", "minutes": 10, "parallel": true },
+    { "text": "Přidej žampiony, osol a opepři.", "minutes": 2 },
+    { "text": "Těstoviny znovu sceď, trochu vody z vaření si nech a těstoviny jí navlhči. Drž je na mírném ohni dalších 10 minut.", "minutes": 12 },
+    { "text": "Na talíř nebo mísu rozlož vrstvu těstovin, posyp strouhaným sýrem a zeleninou. Vrstvy opakuj a navrch dej sýr.", "minutes": 3 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj uvádí ¾ lb makaronů (340 g, ověřeno na obrázku s. 18; OCR „24 lb“ je ¾ lb), 2 quarty vody a malý kousek másla. Zdroj vaří těstoviny dvakrát (5 minut a pak znovu v čerstvé vodě „prepared as above“), proto jsou voda, sůl a máslo ve dvou skupinách; každá dávka vody je domácí slévaná hodnota 3,5 l (1 l na 100 g), sůl 2 g na litr, obě se slijí. Druhý hrnec s vodou se staví souběžně s prvním, aby voda vřela, až se do něj těstoviny přendají. Zdroj popisuje zeleninu až po těstovinách, v krocích se připravuje souběžně s druhým vařením. Zdroj nemá množství zeleniny, sýra ani másla, jen druhy: zelenina 600 g (150 g na porci), sýr 60 g (zdroj „grated cheese“, typ nespecifikován; zvolen parmezán), máslo 50 g a voda 150 ml na dušení; vše jsou odhady, proto verified false. Zdroj nic nepeče, jen vrství těstoviny se sýrem a zeleninou na talíř (shortlist „zapékané“ neodpovídá textu). Doba druhého vaření (na mírném ohni) zdroj neuvádí, odhad 10 minut. Růžičková kapusta je náhrada za zelí (zdroj nabízí obojí). Chřest a cukr jsou ve zdroji volitelné, vynechány. Celkový čas 50 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 22,
+    "titleOriginal": "MACARONI A LA CORINNA (Maccheroni alla Corinna)"
+  },
+  "verified": false,
+  "quote": "Cover the bottom of a plate with macaroni and cover this first layer with grated cheese and with some vegetables in macedoine."
+}

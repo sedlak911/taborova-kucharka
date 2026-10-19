@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mrkev-susena",
+    "name": "Mrkev sušená (kostky)",
+    "aliases": [
+      "sušená mrkev",
+      "dehydrated carrots",
+      "carrots, dehydrated",
+      "carrots, diced, dehydrated"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 328,
+      "protein": 7.4,
+      "carbs": 76.6,
+      "fat": 1.9,
+      "fiber": 22.4
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "odvozeno z USDA SR Legacy fdc:170393 (Carrots, raw) × 8 (sušina syrové mrkve ~12 %, sušená ~95 %); „carrots, dehydrated“ v USDA nenalezeno (npm run usda -- \"carrots dehydrated\" nalezl 0)",
+      "units": "bez hrnku/ks; hmotnost ze zdroje",
+      "refuse": "bez odpadu (sušená mrkev je už oloupaná a nakrájená)"
+    }
+  }
+]

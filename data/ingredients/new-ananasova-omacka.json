@@ -1,0 +1,27 @@
+[
+  {
+    "id": "ananas-konzervovany",
+    "name": "Ananas konzervovaný",
+    "aliases": [
+      "ananas z konzervy",
+      "ananas drcený v šťávě",
+      "canned pineapple"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 60,
+      "protein": 0.42,
+      "carbs": 15.7,
+      "fat": 0.08,
+      "fiber": 0.8
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169126 (Pineapple, canned, juice pack, solids and liquids)",
+      "refuse": "USDA fdc:169126 odpad 0 %"
+    }
+  }
+]

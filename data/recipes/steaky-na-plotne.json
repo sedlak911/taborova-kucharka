@@ -1,0 +1,62 @@
+{
+  "id": "steaky-na-plotne",
+  "title": "Steaky na plotně",
+  "titleOriginal": "Griddle-Broiled Steaks",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-zadni",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti (roštěnec nebo svíčková); zdroj alternativně uvádí kost, použito bez kosti"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na lehké vymazání pánve, jen když maso nemá dost tuku",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 5,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Hovězí maso nakrájej na steaky silné asi 1,5 cm.", "minutes": 5 },
+    { "text": "Rozehřej pánev. Pokud steaky nemají dost tuku, lehce ji vymaž olejem.", "minutes": 3 },
+    { "text": "Opékej steaky na rozpálené pánvi dozlatova z obou stran a často je otáčej, aby se propekly rovnoměrně.", "minutes": 10 },
+    { "text": "Dopékej na požadovanou propečenost, ale nepřepékej.", "minutes": 5 },
+    { "text": "Těsně před podáváním osol a opepři." }
+  ],
+  "modernNote": "Porce zdroje je jeden steak 6 oz (170 g). Zdroj uvádí hovězí bez kosti 42 lb a s kostí 60 lb; použit je bezkostý kus (roštěnec nebo svíčková). Sůl 8 oz odpovídá 1 cup, což sedí s 1 tbsp = ½ oz. Pepř 1 oz odpovídá 3½ tbsp. Zdroj tuk nepředepisuje, jen radí vymazat pánev lojem, pokud steaky nemají tuk; přidán řepkový olej 5 ml jako odhad (původní sádlo 5 g v original), proto verified false. Zdroj podává steaky s francouzskou smaženou cibulí (str. 271), dušenou cibulí (str. 273) nebo máslovou omáčkou (str. 183). Hotové maso 4 steaků ≈ 680 g, surové 760 g odpovídá běžnému odřezu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 112,
+    "titleOriginal": "GRIDDLE-BROILED STEAKS"
+  },
+  "verified": false,
+  "quote": "Broil steaks on heated griddle until browned on both sides."
+}

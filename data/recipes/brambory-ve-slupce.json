@@ -1,0 +1,54 @@
+{
+  "id": "brambory-ve-slupce",
+  "title": "Brambory vařené ve slupce",
+  "titleOriginal": "Boiled Potatoes in Jackets",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 640,
+      "unit": "g",
+      "note": "celé, ve slupce; z nákupní hmotnosti 798 g × 0,8 (ediblePortion)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření, slije se; domácí hodnota 1 l na 1 kg brambor",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Brambory pečlivě omyj kartáčem, slupku nech.", "minutes": 5 },
+    { "text": "Ve velkém hrnci osol vodu a přiveď ji k varu.", "minutes": 8 },
+    { "text": "Brambory vlož do vroucí vody a vař do změknutí.", "minutes": 40 },
+    { "text": "Brambory sceď.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: 44 lb brambor A.P. na 100 porcí, porce 5 až 5½ oz; vodu uvádí zdroj jen jako „to cover“ (zakrýt) a sůl 4 oz (sůl je ve vodě, která se slévá). Brambory se vaří ve slupce a slupka se jí, přesto je hmotnost počítána jako nákupní hmotnost × ediblePortion 0,8 (798 g → 640 g na 4 porce, asi 160 g na porci, což odpovídá porci 5 oz ze zdroje). Voda a sůl jsou domácí hodnoty pro slévanou vodu (1 l, 2 g soli). Zdroj doporučuje vařit celé brambory v napařovacím koši; ve zdroji není doba pro napařování, proto zůstává vaření ve vodě.",
+  "source": {
+    "book": "navy-1944",
+    "page": 285,
+    "titleOriginal": "BOILED POTATOES IN JACKETS"
+  },
+  "verified": true
+}

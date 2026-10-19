@@ -1,0 +1,110 @@
+{
+  "id": "zapeceny-lilek",
+  "title": "Zapečený lilek s rajčaty",
+  "titleOriginal": "Escalloped Eggplant with Tomato",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření lilku, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "lilek",
+      "amount": 340,
+      "unit": "g",
+      "note": "z nákupní hmotnosti 420 g (23 lb), jedlá část 0,81"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "na osmažení cibule a chleba",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájený na kostky"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "konzerva, váha ze zdroje"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání zapékacích mís (doplněno, zdroj neuvádí)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C." },
+    { "text": "Přidej sůl do vody a přiveď ji k varu.", "minutes": 8 },
+    { "text": "Mezitím lilek oloupej a nakrájej na kostky.", "minutes": 5, "parallel": true },
+    { "text": "Lilek vař v osolené vodě asi 10 minut, dokud nezměkne, a pak sceď.", "minutes": 10 },
+    { "text": "Mezitím cibuli nasekej nadrobno.", "minutes": 3, "parallel": true },
+    { "text": "V pánvi na tuku osmahni cibuli dosklovita.", "minutes": 6 },
+    { "text": "Přidej nakrájený chléb a osmahni ho do lehké zlatavé barvy.", "minutes": 5 },
+    { "text": "Smíchej rajčata, cukr, sůl, pepř, lilek a směs s cibulí.", "minutes": 3 },
+    { "text": "Mísy vymaž olejem a přelož do nich směs.", "minutes": 2 },
+    { "text": "Peč 30–40 minut.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (23 lb lilku, 12 lb 12 oz konzervovaných rajčat); porce 4 až 4½ oz (asi ⅔ hrnku). Lilek je přepočten z nákupní hmotnosti přes jedlou část 0,81. Vodu na vaření lilku a sůl do ní (2 g na litr) uvádím jako domácí hodnoty, slévají se. Rajčata jsou v zdroji vážena i s nálevem z konzervy; nálev nerozděluji. „Bread, chopped“ je čerstvý chléb nakrájený na kostky. Vymazání misek olejem zdroj neuvádí, přidáno jako 5 ml; proto verified false. Zapékání 30–40 minut je v kroku uvedeno celé, minutes počítají horní mez. Recept je bezmasý, ale přesto je to příloha; na hlavní jídlo by bylo třeba přidat bílkovinu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 276,
+    "titleOriginal": "ESCALLOPED EGGPLANT WITH TOMATO"
+  },
+  "verified": false
+}

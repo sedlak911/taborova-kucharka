@@ -1,0 +1,33 @@
+[
+  {
+    "id": "vejce-susena",
+    "name": "Vejce sušená (celá)",
+    "aliases": [
+      "sušená vejce",
+      "vejce sušená celá",
+      "vaječný prášek"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 592,
+      "protein": 48.05,
+      "carbs": 1.13,
+      "fat": 43.9,
+      "fiber": 0
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "vejce"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172188 (Egg, whole, dried)",
+      "refuse": "bez odpadu",
+      "units": "USDA SR Legacy fdc:172188: cup sifted 85 g přepočteno na metrický hrnek 250 ml (85×250/237 ≈ 90 g); tbsp 5 g"
+    },
+    "units": {
+      "hrnek": 90,
+      "lzice": 5
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "polevka-ze-zluteho-hrachu",
+  "title": "Polévka ze žlutého hrachu",
+  "titleOriginal": "Yellow Split Pea Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 140,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hrach-puleny", "amount": 100, "unit": "g", "note": "půlený, přebraný a propláchnutý" },
+    { "ingredientId": "vyvar-sunkovy", "amount": 910, "unit": "ml", "note": "šunkový vývar, namočí se v něm hrách; nescedí se" },
+    { "ingredientId": "cibule", "amount": 110, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "sunkova-kost", "amount": 80, "unit": "g", "note": "šunkové kosti; odhad 8 kusů × cca 250 g, po vaření vyjmout" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g", "note": "podle potřeby" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g" },
+    { "ingredientId": "hrebicek-cely", "amount": 2, "unit": "ks", "note": "celý hřebíček" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g", "note": "rozmíchat s vodou na hladkou pastu" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "studená, na jíšku" }
+  ],
+  "steps": [
+    { "text": "Hrách přeber, opláchni, zalij šunkovým vývarem a nech 3–4 hodiny namočit. Nesceď." },
+    { "text": "Přidej cibuli, šunkové kosti, sůl podle potřeby, pepř a hřebíček. Přiveď k varu.", "minutes": 8 },
+    { "text": "Vař asi 2 hodiny, dokud hrách není měkký.", "minutes": 120 },
+    { "text": "Vyjmi kosti.", "minutes": 2 },
+    { "text": "Smíchej mouku s vodou na hladkou pastu, vmíchej do polévky a znovu přiveď k varu.", "minutes": 8 }
+  ],
+  "modernNote": "Zdroj: Yellow Split Pea Soup, tištěná s. 227 (PDF 235), 100 porcí, výtěžek cca 6 gal, porce 1 cup (cca 8 oz). Šunkový vývar (Ham Stock, tištěná s. 218 = PDF 226, 6 gal) je samostatná surovina `vyvar-sunkovy`, ne hovězí vývar; zůstává v polévce a hrách se v něm namáčí. Namáčení 3–4 hodiny je mimo timeMinutes (stejně jako u Lentil Soup). Šunkové kosti: zdroj uvádí jen číslo 8 bez hmotnosti; odhad 8 kusů × cca 250 g, tedy 80 g na 4 porce. Sůl „if needed“ (4 oz na 100 porcí) dává přes třídu seasoning 7 g na 4 porce; je to víc, než je pro hrachovou polévku běžné, doporučení ubrat na polovinu a dochutit až na konci. Hřebíček: 1 tsp celého hřebíčku odhadnut na 2,1 g, na 4 porce 0,14 g = 2 ks. Pepř je černý mletý (zdroj ho nespecifikuje). Jíška z mouky a studené vody zůstává v polévce, voda je linear.",
+  "source": { "book": "navy-1944", "page": 235, "titleOriginal": "Yellow Split Pea Soup" },
+  "verified": false
+}

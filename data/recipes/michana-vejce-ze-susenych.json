@@ -1,0 +1,71 @@
+{
+  "id": "michana-vejce-ze-susenych",
+  "title": "Míchaná vejce ze sušených vajec",
+  "titleOriginal": "Scrambled Eggs (powdered eggs)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 9.6,
+      "unit": "ks",
+      "note": "čerstvá; ekvivalent sušených vajec (sušená ≈ 1/4 hmotnosti čerstvých, 1 lb = 10 ks)",
+      "original": {
+        "ingredientId": "vejce-susena",
+        "amount": 110,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.45,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 75,
+      "unit": "g",
+      "note": "rozpuštěné, na restování vajec",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 75,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Vejce rozšlehej se solí a pepřem dohladka.", "minutes": 2 },
+    { "text": "Na pánvi rozehřej máslo.", "minutes": 2 },
+    { "text": "Vlij vejce na rozpuštěný tuk.", "minutes": 1 },
+    { "text": "Na mírném ohni míchej, dokud vejce nezhoustnou.", "minutes": 8 },
+    { "text": "Sundej z ohně, dokud jsou vejce ještě měkká; dovaří se zbytkovým teplem." }
+  ],
+  "modernNote": "Zdroj vaří z sušených vajec (6 lb na 100 porcí) rozmíchaných s 2½ gal vody a nechává odstát 20 minut. Čerstvá vejce tento krok nepotřebují, proto voda a odstávání odpadají; v historické variantě je v originálním řádku jen prášek (110 g), rozmíchání s cca 380 ml vody se tam nepromítá, protože `original` nese jednu surovinu. Přepočet čerstvých vajec: sušená ≈ 1/4 hmotnosti čerstvých, tedy 24 lb čerstvých (240 ks) na 100 porcí a 9,6 ks na 4 porce. Sůl 3 oz je totéž co 6 tablespoons (1 tbsp = ½ oz), není to rozpor. Tuk (3 lb, 1½ quarts) je přepočten třídou fat (75 g na 4 porce, sádlo v original, moderně máslo); pro 4 porce lze dát 40–50 g. Varianty se slaninou, šunkou nebo sýrem nepřebírám. Porce zdroje ½ cup.",
+  "source": {
+    "book": "navy-1944",
+    "page": 71,
+    "titleOriginal": "SCRAMBLED EGGS (Using powdered eggs)"
+  },
+  "verified": true,
+  "quote": "Remove from heat while eggs are still soft."
+}

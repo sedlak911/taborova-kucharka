@@ -1,0 +1,55 @@
+{
+  "id": "jablecny-kolac-apple-pie",
+  "title": "Jablečný koláč (apple pie)",
+  "titleOriginal": "Apple Pie",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 95,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 120, "unit": "g", "note": "na těsto", "group": "Těsto" },
+    { "ingredientId": "maslo", "amount": 80, "unit": "g", "note": "studené, na kostičky", "group": "Těsto", "scaling": "linear", "original": { "ingredientId": "ztuzeny-tuk", "amount": 80, "unit": "g" } },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 50, "unit": "ml", "note": "studená, podle potřeby", "group": "Těsto" },
+    { "ingredientId": "jablko", "amount": 440, "unit": "g", "note": "oloupaná, nakrájená na plátky", "group": "Náplň" },
+    { "ingredientId": "cukr-krystal", "amount": 135, "unit": "g", "scaling": "linear", "group": "Náplň" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "group": "Náplň" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.46, "unit": "g", "group": "Náplň" },
+    { "ingredientId": "hladka-mouka", "amount": 5, "unit": "g", "note": "nebo kukuřičný škrob, na zahuštění", "group": "Náplň" },
+    { "ingredientId": "sul", "amount": 0.46, "unit": "g", "group": "Náplň" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "na kousky, na náplň", "group": "Náplň", "original": { "ingredientId": "ztuzeny-tuk", "amount": 25, "unit": "g" } }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 220 °C." },
+    { "text": "Na těsto smíchej mouku se solí a vpracuj do ní studené máslo, aby zůstalo v malých kouscích.", "minutes": 5 },
+    { "text": "Přilij studenou vodu a těsto jen lehce promíchej, aby nebylo houževnaté.", "minutes": 3 },
+    { "text": "Těsto rozděl na dvě části, větší vyválej asi na 3 mm a vylož jím koláčovou formu (asi 20 cm), menší nech na vršek.", "minutes": 15 },
+    { "text": "V misce prosej cukr, skořici, muškátový oříšek, mouku a sůl.", "minutes": 2 },
+    { "text": "Jablka oloupej, nakrájej na plátky a rozlož je v formě na těstě.", "minutes": 10 },
+    { "text": "Jablka posyp cukrovou směsí a rozlož na ně kousky másla.", "minutes": 3 },
+    { "text": "Okraj těsta potři studenou vodou, přikryj druhou částí těsta, okraje pevně přitlač k sobě a vršek několikrát propíchni.", "minutes": 5 },
+    { "text": "Vršek potři mlékem.", "minutes": 1 },
+    { "text": "Peč při 220 °C asi 45 minut, dokud koláč nezezlátne.", "minutes": 45 }
+  ],
+  "modernNote": "Zdroj počítá 100 porcí (17 koláčů o průměru 10 palců, porce = 1/6 koláče), 4 porce odpovídají asi 2/3 koláče; na 20cm formu vyjde trochu méně než plná forma, proto případně přidej jablko navíc. Konzervovaná jablka (4 plechovky č. 10) nahrazují čerstvá, jak zdroj sám povoluje v poznámce 2. Těsto na koláč je zdrojový Pie Pastry (str. 374, druhá varianta) zmenšený na 14 lb těsta na 17 koláčů, tuk ztužený na máslo; mouka, tuk a sůl v těstě i cukr v náplni jsou linear, protože pečení je chemie. Máslo na náplň jde jako katalogový tuk (fat). Mléko na potření vršku zdroj nekvantifikuje, stačí pár lžic. Cukr uprav podle kyselosti jablek, jak radí zdroj; pečení je při 425–450 °F (220–230 °C) 45 minut.",
+  "source": {
+    "book": "navy-1944",
+    "page": 383,
+    "titleOriginal": "APPLE PIE"
+  },
+  "verified": true,
+  "quote": "Vary sugar with the tartness of the fruit to give the desired flavor to the pie."
+}

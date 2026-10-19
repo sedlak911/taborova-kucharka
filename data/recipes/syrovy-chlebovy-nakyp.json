@@ -1,0 +1,79 @@
+{
+  "id": "syrovy-chlebovy-nakyp",
+  "title": "Sýrový chlebový nákyp",
+  "titleOriginal": "Cheese Strats",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 120,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb",
+      "amount": 220,
+      "unit": "g",
+      "note": "starý, nakrájený na kostky 2,5 cm"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 170,
+      "unit": "g",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2.9,
+      "unit": "ks",
+      "note": "lehce rozšlehaná; zdroj 8 lb (3629 g), počítáno na 50 g/ks"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 490,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 175 °C a vymaž zapékací misky." },
+    { "text": "Ořízni kůrky z chleba a nakrájej ho na kostky.", "minutes": 5 },
+    { "text": "Polovinu kostek vyskládej na dno misek.", "minutes": 2 },
+    { "text": "Přikryj je sýrem a navrch rozlož zbylé kostky chleba.", "minutes": 2 },
+    { "text": "Smíchej rozšlehaná vejce s mlékem, paprikou, solí a pepřem.", "minutes": 2 },
+    { "text": "Směs nalij přes chleba a sýr a nech chvíli nasáknout.", "minutes": 45 },
+    { "text": "Peč asi hodinu, dokud je směs ztuhlá a chléb nadýchaný a zlatohnědý.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (porce asi 8 oz). Sýr, chléb, vejce a mléko jsou ze zdroje beze změny. Vejce vycházejí na 2,9 ks (aplikace zobrazí zaokrouhleně); použij 3 menší vejce. Mléko zadáno jen objemem (3¼ gal), přepočteno na ml. Trouba: 350 °F = 175 °C. Chlebová část je bez tuku, pro bohatší nákyp přidej kousek másla na vymazání misek. Zdroj uvádí podávej ihned, v postupu to vynechávám. Sůl (5 g) je vyšší, dle chuti uber. Bilance: porce vychází těžší než 8 oz zdroje, protože je nákyp vlhký (mléko a vejce v hmotnosti).",
+  "source": {
+    "book": "navy-1944",
+    "page": 38,
+    "titleOriginal": "CHEESE STRATS"
+  },
+  "verified": true,
+  "quote": "Combine eggs, milk, paprika, salt and pepper."
+}

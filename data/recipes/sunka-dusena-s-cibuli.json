@@ -1,0 +1,77 @@
+{
+  "id": "sunka-dusena-s-cibuli",
+  "title": "Šunka dušená s cibulí",
+  "titleOriginal": "Ham Slices, Smothered",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 760,
+      "unit": "g",
+      "note": "bez kosti (zdroj: 42 lb bez kosti; varianta s kostí 60 lb = 1090 g)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "do vody na podvaření šunky, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "celý hřebíček (¼ oz ze zdroje, asi 7 kusů)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nadrobno nakrájená"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 90,
+      "unit": "g",
+      "note": "suchá, jemná"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 130,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Šunku rozděl na kusy a nakrájej na plátky silné asi 0,6–1,3 cm.", "minutes": 8 },
+    { "text": "Plátky polož do velkého hrnce, zalij vroucí vodou a nech 35–40 minut podvařit na mírném ohni.", "minutes": 40 },
+    { "text": "Vodu slij.", "minutes": 2 },
+    { "text": "Plátky posyp hřebíčkem, hnědým cukrem, nadrobno nakrájenou cibulí a strouhankou a zalij mlékem.", "minutes": 3 },
+    { "text": "Peč v troubě na 160 °C asi 45 minut, dokud povrch není zlatohnědý a křupavý.", "minutes": 45 }
+  ],
+  "modernNote": "Zdroj je komerční varianta (porce ~6 oz, 100 porcí), přepočteno na 4 porce. Použita šunka bez kosti (42 lb); varianta s kostí (60 lb) dává 1090 g. Voda, ve které se šunka podvařuje, je slévaná (domácí 1 l, v jídle není). Hřebíček je celý (jako ve zdroji), před podáváním ho vyjmi nebo rozdrť. Hnědý cukr (18 g) slouží jako glazura; podle chuti ho lze ubrat. Zdroj nepřidává sůl, šunka je slaná sama. Pečení na 325 °F = 160 °C (pomalá trouba).",
+  "source": {
+    "book": "navy-1944",
+    "page": 147,
+    "titleOriginal": "HAM SLICES, SMOTHERED"
+  },
+  "verified": true,
+  "quote": "Sprinkle cloves, sugar, onions and bread crumbs over ham slices."
+}

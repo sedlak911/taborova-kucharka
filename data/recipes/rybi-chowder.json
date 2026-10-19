@@ -1,0 +1,34 @@
+{
+  "id": "rybi-chowder",
+  "title": "Rybí chowder",
+  "titleOriginal": "Fish Chowder",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": ["levne", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "spek", "amount": 25, "unit": "g", "note": "nakrájený na kostičky; z něj se vytopí tuk na cibuli" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "voda", "amount": 340, "unit": "ml", "note": "zůstává v polévce" },
+    { "ingredientId": "brambory", "amount": 120, "unit": "g", "note": "nakrájené na kostky" },
+    { "ingredientId": "treska-jednoskvrnna", "amount": 270, "unit": "g", "note": "filé bez kůže a kostí, nakrájené na větší kusy" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.22, "unit": "g" },
+    { "ingredientId": "mleko-polotucne", "amount": 300, "unit": "ml" }
+  ],
+  "steps": [
+    { "text": "Špek nakrájej na kostičky, osmahni do křupava a vyjmi ho z tuku. Osuš na papíru.", "minutes": 10 },
+    { "text": "Na tuku po špeku osmahni cibuli do světle zlatavé barvy.", "minutes": 6 },
+    { "text": "Cibuli a brambory přidej do vody, přiveď k varu a vař 10 minut.", "minutes": 18 },
+    { "text": "Přidej rybu a vař, dokud se dá snadno rozdělit na větší kusy.", "minutes": 8 },
+    { "text": "Vmíchej sůl, pepř a mléko a nech 15 minut jemně probublávat.", "minutes": 15 },
+    { "text": "Před podáváním přidej do polévky křupavé kousky špeku." }
+  ],
+  "modernNote": "Haddock (boned and skinned, 15 lb) je v katalogu jako treska-jednoskvrnna, filé bez kůže a kostí (ediblePortion 1). Zdroj jako náhradu uvádí cod, hake a pollock, lze použít i tresku. Mléko je tekuté (zdroj „Milk, liquid“), proto je to jeden řádek mleko-polotucne bez sušené varianty; polotučné místo plnotučného je modernizace. Pepř 1½ tsp přepočten přes 2,3 g na lžičku. Ze zdroje je tuk jen z vykrájeného špeku: na cibuli se použije jeho vytopený tuk, křupavé kousky se vrací před podáváním. Výtěžek 6 gal při 1 cup na porci odpovídá 100 porcím (96 %), originalYield 100 zůstává. Sůl dává ve 4 porcích 7 g; při ochutnávce ji ber s ohledem na špek.",
+  "source": { "book": "navy-1944", "page": 248, "titleOriginal": "FISH CHOWDER" },
+  "verified": true
+}

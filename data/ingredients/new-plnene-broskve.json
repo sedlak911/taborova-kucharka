@@ -1,0 +1,30 @@
+[
+  {
+    "id": "broskev",
+    "name": "Broskev",
+    "aliases": [
+      "broskve",
+      "broskev čerstvá",
+      "peach"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 39,
+      "protein": 0.91,
+      "carbs": 9.54,
+      "fat": 0.25,
+      "fiber": 1.5
+    },
+    "units": {
+      "ks": 150
+    },
+    "ediblePortion": 0.96,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169928 (Peaches, yellow, raw)",
+      "units": "USDA SR Legacy portions: medium (2-2/3 in dia) = 150 g",
+      "refuse": "USDA fdc:169928 pit 4 %"
+    }
+  }
+]

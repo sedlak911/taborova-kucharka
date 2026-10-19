@@ -1,0 +1,32 @@
+{
+  "id": "treska-ve-smetanove-omacce",
+  "title": "Treska ve smetanové omáčce",
+  "titleOriginal": "Creamed Codfish",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby", "vejce"],
+  "ingredients": [
+    { "ingredientId": "treska", "amount": 270, "unit": "g", "note": "vařená, rozvločkovaná (zdroj: Codfish, cooked, flaked, 15 lb)" },
+    { "ingredientId": "mleko-polotucne", "amount": 610, "unit": "ml", "note": "horké; mléko do omáčky (zdroj: Milk, liquid, hot, 4 gal omáčky)" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "note": "rozpuštěné (zdroj: Butter or other fat, melted)", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.89, "unit": "g" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "rozšlehaná; 1 ks ≈ 45 g" }
+  ],
+  "steps": [
+    { "text": "Mléko ohřej téměř do varu.", "minutes": 6 },
+    { "text": "Mezitím rozpusť máslo v hrnci a vmíchej mouku do hladké pasty.", "minutes": 3, "parallel": true },
+    { "text": "Za stálého míchání přilévej horké mléko k pastě a vař, dokud omáčka nezhoustne. Dochuť solí a pepřem.", "minutes": 8 },
+    { "text": "Vařenou tresku rozvločkuj, odstraň kosti a vmíchej ji do omáčky.", "minutes": 3 },
+    { "text": "Rozšlehaná vejce za rychlého míchání vmíchej do ryby s omáčkou, aby se nesrazila.", "minutes": 2 }
+  ],
+  "modernNote": "Creamed Codfish (Navy 1944, s. 78 tištěná = PDF 86) je 100 porcí, zdroj: 15 lb vařené tresky, 4 gal smetanové omáčky, 2 lb vajec, výtěžek 5 gal. Smetanová omáčka (Cream Sauce, medium, „page 173“ = tištěná 173 = PDF 181, Medium Cream or White Sauce) není na stránce 86, takže její suroviny jsou úměrně z 1galonové varianty (máslo 12 oz, mouka 6 oz, sůl 1 oz, pepř 1½ tsp, mléko 1 gal) vynásobené 4 gal omáčky: máslo 3 lb, mouka 1½ lb, sůl 4 oz, pepř 6 tsp, mléko 4 gal. Zdroj nerozlišuje sušenou/solenou treska, proto počítám s vařenou čerstvou tresku (`treska`); pokud jde o solenou rybu, změň na `susena-treska`. Vejce 2 lb = 20 ks (1 lb = 10 ks), pro 4 porce 0,8 ks. Bilance: 4 porce mají asi 1 000 g, zdroj uvádí porci ⅔ cup (asi 6 oz) a výtěžek 5 gal; součet surovin (25 kg na 100 porcí, 4 gal omáčky + 1¾ gal ryby) je vyšší než výtěžek, jde o nesrovnalost zdroje, množství zachovávám podle obrázku. Check: poměr 1,62 (257 g na porci vs. 158 g zdroje) a maso 68 g na porci (pod doporučených 80 g) jsou důsledkem stejného zdroje, ponechávám; jako hlavní jídlo počítej s vyšší porcí. Tuk je máslo, ne sádlo, protože zdroj uvádí „Butter or other fat“ bez specifikace.",
+  "source": { "book": "navy-1944", "page": 86, "titleOriginal": "Creamed Codfish" },
+  "verified": true
+}

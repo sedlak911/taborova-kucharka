@@ -1,0 +1,31 @@
+[
+  {
+    "id": "uhor",
+    "name": "Úhoř",
+    "aliases": [
+      "úhoř",
+      "úhoř říční",
+      "eel",
+      "anguilla"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 184,
+      "protein": 18.44,
+      "carbs": 0,
+      "fat": 11.66,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.9,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174193 (Fish, eel, mixed species, raw)",
+      "units": "bez převodu na kusy; množství v g včetně kůže a kostí",
+      "refuse": "odhad ediblePortion 0,9 (kůže, vnitřnosti a kosti u celého úhoře)"
+    }
+  }
+]

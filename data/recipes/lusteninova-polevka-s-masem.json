@@ -1,0 +1,90 @@
+{
+  "id": "lusteninova-polevka-s-masem",
+  "title": "Luštěninová polévka s masem",
+  "titleOriginal": "Erbsen oder Bohnen oder Linsen und frisches Rind- oder Schweinefleisch oder Dauerfleisch",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hrach-puleny",
+      "amount": 400,
+      "unit": "g",
+      "note": "ve zdroji 180 g na hlavu; suchý, namočený přes noc"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "uzene-maso",
+      "amount": 400,
+      "unit": "g",
+      "note": "zdroj dovoluje i čerstvé hovězí nebo vepřové; množství masa zdroj neuvádí (doplněno, 100 g na porci)"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "množství zdroj neuvádí (doplněno podle varianty 2: 10 g na hlavu)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Salz nach Geschmack); odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočený hrách i s vodou z namáčení dej do hrnce, doplň studenou vodou a přiveď k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Vař 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej maso, polévkovou zeleninu, nakrájenou cibuli a sůl.",
+      "minutes": 5
+    },
+    {
+      "text": "Vař do měkka asi 2 hodiny.",
+      "minutes": 120
+    },
+    {
+      "text": "Dochuť solí, cibulí, saturejkou, tymiánem a majoránkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 180 g hrachu na muže; zde 100 g hrachu na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj uvádí 180 g luštěnin na hlavu a 30 g čerstvé polévkové zeleniny (nebo 2,5–3 g sušené); množství luštěnin je z obrázku stránky (OCR je nečitelné). Maso (100 g na porci, uzené maso), vodu (1,5 l), cibuli a sůl jsme doplnili jako odhad, proto verified: false. Recept je napsaný pro hrách; zdroj dovoluje stejně fazole nebo čočku (fazole namoč přes noc, čočka se nenamáčí a vaří se kratší dobu). Luštěniny namoč několik hodin až přes noc a vodu z namáčení použij k vaření. Bez namáčení se doba prodlužuje. Dochucení saturejkou (Bohnenkraut), tymiánem a majoránkou je bez množství, dávkuj po špetkách. Varianty s trvanlivou vařenou klobásou (do hotového jídla, krátce svařit) nebo konzervovaným masem (až těsně před podáváním, jen prohřát) jsou vynechány. Pokud se jídlo jí bez masa, zdroj radí vařit s 10 g tuku na hlavu (40 g sádla). Hmotnost porce vychází z celé vody; při několikahodinovém varu se část odvaří, hotová porce je lehčí (voda je nutná, aby se mouka, kroupy či luštěniny nesvařily na kaši).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 21,
+    "code": "Grundgericht (tišt. 39)",
+    "titleOriginal": "Erbsen oder Bohnen oder Linsen und frisches Rind- oder Schweinefleisch oder Dauerfleisch"
+  },
+  "verified": false,
+  "quote": "Erbsen oder Bohnen oder Linsen in kaltem Wasser (Einweichwasser) zum Kochen bringen und etwa 1 Std. kochen lassen."
+}

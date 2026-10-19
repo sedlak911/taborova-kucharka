@@ -1,0 +1,31 @@
+[
+  {
+    "id": "zelatina",
+    "name": "Želatina",
+    "aliases": [
+      "želatina prášková",
+      "gelatine",
+      "gelatin",
+      "jedlá želatina"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 335,
+      "protein": 85.6,
+      "carbs": 0,
+      "fat": 0.1,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 7
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169599 (Gelatins, dry powder, unsweetened)",
+      "units": "1 polévková lžíce ≈ 7 g (USDA envelope 1 tbsp = 7 g)",
+      "refuse": "USDA fdc:169599 refusePct 0"
+    }
+  }
+]

@@ -1,0 +1,159 @@
+{
+  "id": "zapecena-ryze-se-syrem",
+  "title": "Zapečená rýže se sýrem",
+  "titleOriginal": "Baked Rice and Cheese",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "horcice",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do omáčky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.92,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 210,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 110,
+      "unit": "g",
+      "note": "strouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 55,
+      "unit": "g",
+      "note": "syrová, propláchnutá",
+      "group": "Rýže"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření rýže, slije se; domácí hodnota 1 l na 100 g rýže",
+      "group": "Rýže",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "group": "Rýže",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 25,
+      "unit": "g",
+      "note": "vlhká",
+      "group": "Posyp"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "rozpuštěné, na promíchání se strouhankou",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 160 °C a vymaž zapékací misky."
+    },
+    {
+      "text": "V hrnci přiveď osolenou vodu k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím v jiném hrnci smíchej máslo, mouku, sůl a hořčici na hladkou pastu.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Vsyp rýži do vroucí vody a vař 20 až 30 minut, dokud nezměkne.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím přilij mléko a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 6,
+      "parallel": true
+    },
+    {
+      "text": "Sniž teplotu a vmíchej sýr.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím strouhanku promíchej s rozpuštěným máslem.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Rýži sceď a nech dobře odkapat.",
+      "minutes": 2
+    },
+    {
+      "text": "Smíchej sýrovou směs s rýží.",
+      "minutes": 2
+    },
+    {
+      "text": "Přelož do vymazaných misek a posyp strouhankou.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč 25 minut, dokud strouhanka nezhnědne.",
+      "minutes": 25
+    }
+  ],
+  "modernNote": "Máslo do jíšky (zůstává v omáčce) je třída linear (1 lb 8 oz = 25 g). Zdroj počítá na 100 porcí po 8 oz (cca 1 šálek); čísla přečtena z obrázku stránky 41 (tištěná 33). Mléko a voda na vaření nemají ve zdroji hmotnost, použity objemy ze sloupce Amounts (5½ qt mléka, 3 gal vody). Rýže je syrová (3 lb = 55 g na 4 porce), takže v bilanci je jen suchá; uvařená vsákne zhruba trojnásobek své váhy (cca 230 g na porci). Nález bilance (115 g oproti 227 g) je proto způsoben suchou rýží, ne chybou receptu; zdroj sám na 100 porcí ukazuje jen cca 140 g jedlé hmoty na porci. Voda na vaření rýže se slévá: domácí hodnota 1 l (min. 1 l na 100 g rýže), ne 3 gal ze zdroje; sůl do ní 2 g na 1 l. Zapékání 325 °F zaokrouhleno na 160 °C. Strouhanka je vlhká; krok „promíchej s máslem“ vyplývá z „buttered crumbs“. Sýr je americký cheddar (cedar). Sůl do omáčky 2 g; hořčice sušená 0,92 g (přesně, ne špetka).",
+  "source": {
+    "book": "navy-1944",
+    "page": 41,
+    "titleOriginal": "BAKED RICE AND CHEESE"
+  },
+  "verified": true,
+  "quote": "Blend together fat, flour, salt and mustard to a smooth paste."
+}

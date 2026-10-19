@@ -1,0 +1,112 @@
+{
+  "id": "creole-omacka",
+  "title": "Creole omáčka",
+  "titleOriginal": "Creole Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 110,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "spek",
+      "amount": 55,
+      "unit": "g",
+      "note": "solená vepřová slanina (salt pork), nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekaný"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "rozdrcený, svázaný v gázovém sáčku"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 6.55,
+      "unit": "ks",
+      "note": "svázané v gázovém sáčku"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 310,
+      "unit": "ml",
+      "note": "včetně vody na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Osmahni nakrájenou slaninu dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej cibuli a celer a osmahni je do lehka.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej bobkový list a hřebíček svázané v gázovém sáčku, rajčata, vodu a cukr a přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech 60 minut mírně vařit.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím rozmíchej mouku s vodou na hladkou kaši.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej kaši do omáčky a nech dalších 30 minut probublávat.",
+      "minutes": 30
+    },
+    {
+      "text": "Vyjmi svazek s kořením."
+    }
+  ],
+  "modernNote": "Zdroj: Creole Sauce (p. 178 tištěná = PDF 186), 100 porcí = 3 gal, porce ½ cup. Přepočet k = 0,04 z obrázku: sloupce Pounds/Ounces, Amounts jen kontrola. Solená vepřová slanina (salt pork) je nahrazena katalogovou slaninou `spek` (nevykuřovaná položka chybí). Ve zdroji není žádná přidaná sůl ani pepř, takže omáčku dochuť podle chuti; solená slanina dodává většinu slanosti. Voda 2 gal (omáčka) a ½ pint (na rozmíchání mouky) je sloučena do jednoho řádku, obě linear, zůstávají v jídle. Cukr 8 oz je třída seasoning (koření do slaného jídla), ne linear. Bobkový list 3 ks a hřebíček ¼ oz (≈ 7 g) jsou přepočteny třídou seasoning. Bilance: součet surovin ≈ 657 g na 4 porce, porce ze zdroje 454 ml (3 gal / 100 porcí × 4 porce); poměr 1,45 je u omáčky, která se dlouho vaří, v pořádku. Rajčata z konzervy 12 lb 12 oz včetně nálevu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 186,
+    "titleOriginal": "CREOLE SAUCE"
+  },
+  "verified": true
+}

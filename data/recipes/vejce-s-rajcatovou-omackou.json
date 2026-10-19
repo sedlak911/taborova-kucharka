@@ -1,0 +1,40 @@
+{
+  "id": "vejce-s-rajcatovou-omackou",
+  "title": "Vejce s rajčatovou omáčkou",
+  "titleOriginal": "EGGS WITH TOMATO SAUCE (Uova al pomidoro)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "natvrdo uvařená; zdroj počet nedává, 2 na porci" },
+    { "ingredientId": "olivovy-olej", "amount": 8, "unit": "ml", "note": "do omáčky; lze nahradit máslem" },
+    { "ingredientId": "cibule", "amount": 20, "unit": "g", "note": "osmina střední cibule, najemno" },
+    { "ingredientId": "cesnek", "amount": 3, "unit": "g", "note": "půl stroužku, najemno" },
+    { "ingredientId": "celer-rapikaty", "amount": 10, "unit": "g", "note": "polovina kousku řapíkatého celeru dlouhého jako prst, najemno" },
+    { "ingredientId": "bobkovy-list", "amount": 1, "unit": "ks", "note": "1 list, nasekaný" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "najemno nasekaná" },
+    { "ingredientId": "rajce", "amount": 400, "unit": "g", "note": "zralá, nakrájená na kousky (polovina omáčky č. 12)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.25, "unit": "g", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Nasekej nadrobno cibuli, stroužek česneku, kousek řapíkatého celeru, bobkový list a petržel.", "minutes": 6 },
+    { "text": "Přidej olej, sůl a pepř, rajčata nakrájej na kousky a vše dej na mírný oheň.", "minutes": 4 },
+    { "text": "Míchej a vař, dokud šťáva nezhoustne na řídký krém; pak omáčku přeceď přes síto.", "minutes": 25 },
+    { "text": "Mezitím vejce dej do hrnce se studenou vodou, přiveď k varu a vař natvrdo.", "minutes": 18, "parallel": true },
+    { "text": "Vejce ochlaď ve studené vodě, oloupej je a rozkrój napůl podélně.", "minutes": 5 },
+    { "text": "Půlky vajec uspořádej na talíř a polij je omáčkou tak, aby horní část vajec z omáčky vyčnívala.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 123) uvádí jen postup: natvrdo uvařená vejce rozkrojit podélně, uspořádat na talíři a polít dobrou rajčatovou omáčkou tak, aby horní část vajec vykukovala; množství ani počet porcí nejsou uvedeny. Odhad pro 4 porce: 8 vajec (2 na porci). Omáčka je polovina receptu č. 12 (samostatný recept má 800 g rajčat pro 4 porce), tedy 400 g rajčat a úměrně cibule, celer, česnek, bobkový list, petržel, olej, sůl a pepř. Olej, sůl, pepř a hmotnost vajec jsou odhady z běžné praxe. Místo rajčatové omáčky zdroj uvádí i balsamellu (č. 54); v receptu není. Čas 45 minut je odhad (vaření vajec běží během omáčky).",
+  "source": {
+    "book": "italian-1919",
+    "page": 127,
+    "titleOriginal": "EGGS WITH TOMATO SAUCE (Uova al pomidoro)"
+  },
+  "verified": false,
+  "quote": "Prepare some hard boiled eggs, cut them through the middle lengthwise, place in good order upon a plate."
+}

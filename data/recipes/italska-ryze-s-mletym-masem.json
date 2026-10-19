@@ -1,0 +1,39 @@
+{
+  "id": "italska-ryze-s-mletym-masem",
+  "title": "Italská rýže s mletým masem",
+  "titleOriginal": "Italian Rice and Beef",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 440, "unit": "g", "note": "90 % libové, syrové" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 460, "unit": "g", "note": "kostky, scezená; 3 gal přepočteno přes hrnek" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "paprika-zelena", "amount": 75, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "ryze-bila", "amount": 70, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "hovezi-vyvar", "amount": 55, "unit": "ml", "note": "1 qt 2 cup" },
+    { "ingredientId": "cukr-krystal", "amount": 6, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 4, "unit": "g" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "bazalka-susena", "amount": 2, "unit": "g", "note": "sušená, drcená" },
+    { "ingredientId": "oregano", "amount": 2, "unit": "g", "note": "sušený, drcený" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.7, "unit": "g" },
+    { "ingredientId": "parmezan", "amount": 8, "unit": "g", "note": "strouhaný, na zapékání", "optional": true },
+    { "ingredientId": "mozzarella", "amount": 35, "unit": "g", "note": "na zapékání", "optional": true }
+  ],
+  "steps": [
+    { "text": "Mleté maso opékej na pánvi nebo v hrnci za stálého rozmačkávání, dokud nezešedne. Přebytečný tuk slij.", "minutes": 8 },
+    { "text": "Přidej rajčata, cibuli, papriku, rýži, vývar, cukr, česnek v prášku, sůl, bazalku, oregano a pepř. Promíchej a přiveď k varu.", "minutes": 4 },
+    { "text": "Hrnec pevně přikryj, sniž plamen a duš 20–25 minut, dokud rýže nezměkne. Nemíchej.", "minutes": 25 },
+    { "text": "Volitelně: posyp směs strouhaným parmezánem a zapékej v troubě na horkovzduch 165 °C 15–20 minut. Pak navrch rozlož mozzarellu a zapékej dalších 3 minuty, dokud se sýr neroztopí.", "minutes": 23 }
+  ],
+  "modernNote": "Doma se připravuje celé v jednom hrnci; zdroj ji rozděluje do plechů pro výdej a sýr zapékal v konvektomatu. Sýr (parmezán, mozzarella) je v originále součástí postupu, ale je volitelný – bez něj jde o jednohrnkový recept bez trouby. Zdroj počítá na 100 porcí, porce 9 oz (asi 255 g). Maso je na porci 110 g syrového, tedy mírně pod doporučením 120–200 g; změna by odporovala zdroji. Rajčata: kostky scezené, objem 3 gal převeden přes hmotnost 253 g na 250 ml. Doporučení: podle chuti dolij trochu vody nebo vývaru, pokud je směs hustá.",
+  "source": { "book": "afrs-2003", "page": 1063, "code": "L 205 00", "titleOriginal": "ITALIAN RICE AND BEEF" },
+  "verified": true,
+  "quote": "Cover tightly; reduce heat; simmer 20 to 25 minutes or until rice is tender. Do not stir."
+}

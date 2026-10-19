@@ -1,0 +1,27 @@
+[
+  {
+    "id": "teleci-maso-libove",
+    "name": "Telecí maso libové bez kosti",
+    "aliases": [
+      "telecí kýta bez kosti",
+      "veal top round",
+      "telecí plec bez kosti"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 107,
+      "protein": 22.07,
+      "carbs": 0,
+      "fat": 2.07,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172643 (Veal, leg, top round, cap off, cutlet, boneless, raw)",
+      "refuse": "bez kosti, odpad 0 %"
+    }
+  }
+]

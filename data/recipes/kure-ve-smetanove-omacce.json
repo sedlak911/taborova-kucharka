@@ -1,0 +1,107 @@
+{
+  "id": "kure-ve-smetanove-omacce",
+  "title": "Kuře ve smetanové omáčce",
+  "titleOriginal": "Creamed Chicken or Turkey",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 180,
+      "unit": "g",
+      "note": "vařené kuře (zbytky), zdroj 10 lb"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj Chicken Stock (s. 216), 2 gal"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj Milk, liquid, 2 gal"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "tuk v jíšce; zdroj kuřecí tuk nebo jiný tuk, 2 lb",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 35,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "note": "do jíšky, 1 lb"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "1½ oz na 100 porcí"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "¼ oz na 100 porcí"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře nakrájej na kostky zhruba 2 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "V hrnci smíchej vývar s mlékem a zahřej do varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Mezitím v misce rozmíchej tuk s moukou na hladkou pastu.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Pastu vmíchej do horkého vývaru a za stálého míchání vař, dokud nezhoustne.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej kuře a znovu ohřej.",
+      "minutes": 3
+    },
+    {
+      "text": "Dochuť solí a pepřem."
+    },
+    {
+      "text": "Podávej na rozpůlených sušenkách, opečeném toastu, vařených nudlích nebo rýži."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (Portion 6 až 8 oz, cca 1 cup) a neuvádí kalorie. Přepočet na 4 porce: vařené kuře 180 g, vývar 300 ml, mléko 300 ml, tuk 35 g, mouka 18 g, sůl 3 g, pepř 0,46 g. Celková hmotnost 836 g na 4 porce je cca 209 g na porci, tedy uvnitř rozsahu zdroje. Poměr tuku, mouky a tekutin (na 1 gal tekutiny cca 8 oz tuku a 4 oz mouky) odpovídá tenké smetanové omáčce (Thin Cream or White Sauce, s. 173). Tuk ze zdroje je kuřecí nebo jiný tuk, moderně máslo; původní sádlo je v original. Vývar je kuřecí, není nahrazen vodou. Sůl 3 g na 4 porce je 0,75 g na porci; pro chuť lze ubrat. Podávání na toastu, sušenkách, nudlích nebo rýži je z původního postupu; kuře nemá vlastní množství v postupu. Maso 45 g na porci je podle zdroje (10 lb na 100 porcí); recept je spíš omáčkový, jako hlavní jídlo lze brát i 60 g masa a víc omáčky na podávání. Kalorie cca 208 na porci (historické suroviny 224) počítá check:recipe, zdroj je neuvádí. Zdroj uvádí i variantu s šunkou (6 lb kuřete + 4 lb šunky) a s vejci; zde není použita.",
+  "source": {
+    "book": "navy-1944",
+    "page": 176,
+    "titleOriginal": "CREAMED CHICKEN OR TURKEY"
+  },
+  "verified": true,
+  "quote": "Blend together fat and flour to a smooth paste."
+}

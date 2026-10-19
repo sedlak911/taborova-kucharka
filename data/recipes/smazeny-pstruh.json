@@ -1,0 +1,38 @@
+{
+  "id": "smazeny-pstruh",
+  "title": "Smažený pstruh",
+  "titleOriginal": "Fried Trout (Trota fritta)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["ryby", "lepek"],
+  "ingredients": [
+    { "ingredientId": "pstruh", "amount": 1200, "unit": "g", "group": "Ryby", "note": "4 pstruzi po asi 300 g, malí a mladí, celé (odpad asi 53 %)" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "group": "Ryby", "note": "na obalení, asi 10 g na rybu" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "group": "Ryby", "note": "podle chuti" },
+    { "ingredientId": "repkovy-olej", "amount": 300, "unit": "ml", "group": "Smažení", "note": "na smažení v pánvi (zhruba 1 cm); vylévá se, nepočítá se do jídla", "scaling": "vessel" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "group": "Smažení", "note": "nasáklý v rybách (odhad, asi 7 ml na rybu)" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Podávání", "note": "čerstvá nať, krátce opečená v oleji" },
+    { "ingredientId": "citron", "amount": 100, "unit": "g", "group": "Podávání", "note": "1 citron: plátky k podávání" }
+  ],
+  "steps": [
+    { "text": "Pstruhy zbav šupin, vyčisti, opláchni a osuš.", "minutes": 15 },
+    { "text": "Pstruhy osol a obal v mouce.", "minutes": 3 },
+    { "text": "Na pánvi rozehřej olej tak, aby byl pstruh ponořený alespoň do poloviny.", "minutes": 3 },
+    { "text": "Pstruhy smaž z obou stran dozlatova.", "minutes": 12 },
+    { "text": "Mezitím nať petržele krátce opeč v oleji, až zhnědne, a vyndej.", "minutes": 2, "parallel": true },
+    { "text": "Pstruhy vyndej na papírovou utěrku, aby odkapal tuk.", "minutes": 2 },
+    { "text": "Podávej horké s opečenou petrželí a plátky citronu." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 176) uvádí jen postup „malí a mladí pstruzi, obalit v mouce, smažit jako ostatní ryby v oleji nebo v másle“; množství a počet porcí chybí. Odhad pro 4 porce: 4 pstruzi po asi 300 g (1,2 kg celé, odpad asi 53 %, stejně jako č. 175), mouka 40 g, sůl 5 g (zdroj soli u č. 176 nezmiňuje, bere ji z postupu „jako ostatní ryby“ v č. 175), nať petržele 10 g a 1 citron na podání jako v č. 175 a 176 („browned parsley and lemon“). Olej na smažení 300 ml (vylévá se, nepočítá se do jídla) a nasáklý tuk odhad 30 ml, započítán jako surovina. Zdroj uvádí i máslo („in oil or in butter“); zvolen olej, máslo lze použít v poměru 1:1. Čas 40 minut je odhad. Pstruhy stačí smažit jen krátce, aby byla kůže křupavá a maso uvnitř šťavnaté.",
+  "source": {
+    "book": "italian-1919",
+    "page": 125,
+    "titleOriginal": "FRIED TROUT (Trota fritta)"
+  },
+  "verified": false,
+  "quote": "Small and young trouts are best for frying."
+}

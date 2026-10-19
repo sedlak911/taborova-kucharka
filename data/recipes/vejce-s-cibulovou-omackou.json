@@ -1,0 +1,102 @@
+{
+  "id": "vejce-s-cibulovou-omackou",
+  "title": "Vejce natvrdo s cibulovou omáčkou",
+  "titleOriginal": "Eggs with Onion Sauce (Uova trippate)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Vejce",
+      "note": "natvrdo uvařená; zdroj říká „some hard boiled eggs“, počet odhadnut (asi jedno na porci); stačí i část"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "kousek másla velikosti ořechu"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "½ střední cibule, nakrájená na tenké plátky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "2 čajové lžičky"
+    },
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "1 hrnek horkého vývaru; zdroj má masový vývar, viz original",
+      "original": {
+        "ingredientId": "hovezi-vyvar",
+        "amount": 250,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "smetana-na-vareni",
+      "amount": 5,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "1 čajová lžička, přidává se až na konci"
+    }
+  ],
+  "steps": [
+    { "text": "Uvař vejce natvrdo, ochlaď je studenou vodou a oloupej.", "minutes": 12 },
+    { "text": "Nakrájej je na tenká kolečka a odlož stranou.", "minutes": 3 },
+    { "text": "Cibuli nakrájej na tenké plátky.", "minutes": 3 },
+    { "text": "Na pánvi rozpusť máslo a v něm opékej cibuli dozlatova.", "minutes": 6 },
+    { "text": "Cibuli vyjmi z másla.", "minutes": 1 },
+    { "text": "Do másla vmíchej mouku, ale nenech ji zhnědnout.", "minutes": 2 },
+    { "text": "Zalij ji horkým vývarem, osol, opepři a nech krátce vařit na mírném ohni.", "minutes": 10 },
+    { "text": "Do omáčky vlož kolečka vajec, opatrně je promíchej a ohřej, ale nenech omáčku znovu vařit.", "minutes": 3 },
+    { "text": "Těsně před podáváním vmíchej do omáčky smetanu a opatrně promíchej.", "minutes": 1 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj (Gentile 1919) uvádí jen „některá natvrdo uvařená vejce“, půl cibule, kousek másla, 2 čajové lžičky mouky, 1 hrnek horkého vývaru, sůl, pepř a 1 čajovou lžičku smetany; porce nejsou udány. Množství pro 4 porce odhadnuta z běžné praxe: 4 vejce (asi jedno na porci jako předkrm nebo lehké jídlo), máslo 20 g, cibule 75 g (½ střední), vývar 250 ml, mouka 5 g, sůl 2 g, pepř 0,5 g, smetana 5 ml. Zdroj připravuje vývar masový (hovězí), proto je v řádku zeleninový a hovězí vývar je v original. Cibule se podle zdroje po opečení z másla vyjímá, v omáčce zůstává jen její chuť; lze ji vynechat. Vejce se do omáčky vkládají až po zjemnění, aby se nerozbíjela; nevař je znovu. Čas 45 minut je odhad; hotovo je součet kroků bez souběhu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 126,
+    "titleOriginal": "EGGS WITH ONION SAUCE (UOVA TRIPPATE)"
+  },
+  "verified": false,
+  "quote": "Put the sliced eggs in the sauce to warm them, stir a little, but carefully to avoid breaking them, and do not boil again."
+}

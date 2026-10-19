@@ -1,0 +1,93 @@
+{
+  "id": "dusene-artycoky",
+  "title": "Dušené artyčoky se strouhankou",
+  "titleOriginal": "Stewed Artichokes (Carciofi in stufato)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 140,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "artycok",
+      "amount": 320,
+      "unit": "g",
+      "note": "4 středně velké; jedlá část (nákupní váha asi 800 g, cca 200 g na kus)"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 40,
+      "unit": "g",
+      "note": "na náplň"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "nasekaná, na náplň"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do náplně, podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "do náplně, podle chuti"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 2,
+      "unit": "lzice",
+      "note": "do náplně"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 600,
+      "unit": "ml",
+      "note": "na zalití artyčoků, zůstává jako šťáva"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Artyčoky umyj a odřízni tvrdou špičku listů.",
+      "minutes": 10
+    },
+    {
+      "text": "Listy lehce rozevři a vtlač mezi ně náplň ze strouhanky, nasekané petrželky, soli, pepře a oleje.",
+      "minutes": 5
+    },
+    {
+      "text": "Artyčoky postav stonkem dolů v hrnci těsně vedle sebe.",
+      "minutes": 2
+    },
+    {
+      "text": "Zalij vodou, přikryj a vař asi 2 hodiny, dokud se listy snadno neodtrhnou.",
+      "minutes": 120
+    },
+    {
+      "text": "Podávej teplé."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí postup bez množství a bez počtu porcí. Množství je odhad z běžné praxe pro 4 porce: 4 středně velké artyčoky (nákupní váha asi 800 g, asi 200 g na kus; v receptu je jedlá část 320 g, protože aplikace počítá gramy zeleniny jako jedlou část), 40 g strouhanky, 10 g petrželky, 4 g soli, 1 g pepře, 2 lžíce olivového oleje a 600 ml vody na zalití. Zdroj vaření udává na 2 hodiny a více; doba je odhad, hotovo je poznat, když se list snadno odtrhne. Voda zůstává v hrnci jako šťáva, proto není označena jako slévaná. Recept je bez masa, bez trouby a v jednom hrnci.",
+  "source": {
+    "book": "italian-1919",
+    "page": 31,
+    "titleOriginal": "STEWED ARTICHOKES (Carciofi in stufato)"
+  },
+  "verified": false,
+  "quote": "When the leaves are easily detached they are cooked."
+}

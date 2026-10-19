@@ -1,0 +1,78 @@
+{
+  "id": "pomazanka-z-jater-a-vajec",
+  "title": "Pomazánka z jater a vajec",
+  "titleOriginal": "Liver and Egg Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "horcice",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 145,
+      "unit": "g",
+      "note": "vařená, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.8,
+      "unit": "ks",
+      "note": "natvrdo uvařená, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g",
+      "note": "kupovaná; alternativně katsup ve stejném množství"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 6,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "do vody na vaření vajec, slije se"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu k varu, vejce do ní vlož a vař je natvrdo asi 10 minut.", "minutes": 18 },
+    { "text": "Mezitím nasekej nadrobno cibuli a vařená játra.", "minutes": 6, "parallel": true },
+    { "text": "Vejce ponoř do studené vody, ochlaď a oloupej.", "minutes": 5 },
+    { "text": "Vejce nasekej nadrobno.", "minutes": 3 },
+    { "text": "Ve míse smíchej játra, vejce, cibuli, majonézu, sůl a pepř a vše dobře promíchej, dokud nebude směs hladká.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj počítá 100 porcí po 2 oz (náplň na jeden sendvič), takže originalYield je 100 a 4 porce jsou 4 sendviče. Játra jsou ve zdroji už vařená (8 lb), proto se nepřepočítávají na syrovou hmotnost. Vejce: 2 lb = 20 ks (1 lb = 10 ks, 45 g/ks), 4 porce = 0,8 ks (zdroj uvádí přímo 20 ks na 100 porcí; katalog počítá 50 g/ks, tedy 40 g, převod přes 45 g/ks by dal 0,75 ks, ponecháno 0,8 podle počtu ve zdroji). Játra jsou vařená, ale katalog `jatra` má makra syrových jater, kcal jsou proto spíše nižší. Majoneza je kupovaná v množství ze zdroje; zdroj odkazuje na domácí majonézu (p. 204 = PDF 212), a poznámka u zdroje dovoluje 1 qt katsupu místo 1 qt majonézy (jen zmínka, v receptu použita majonéza). Cibule 5 oz, sůl 1 oz (= 2 tbsp), pepř 2 tsp (třída seasoning, 0,30 g). Sůl ve sendviči lze podle chuti ubrat. Bilance: 4 porce ≈ 264 g oproti 4 × 2 oz (227 g), poměr 1,16, v pořádku. Doporučení: náplň připravit těsně před podáním nebo ji nejvýš 1–2 hodiny držet v lednici, ne v teple.",
+  "source": {
+    "book": "navy-1944",
+    "page": 222,
+    "titleOriginal": "LIVER AND EGG FILLING"
+  },
+  "verified": true,
+  "quote": "Combine all ingredients. Stir together until well mixed."
+}

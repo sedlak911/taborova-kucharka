@@ -1,0 +1,104 @@
+{
+  "id": "polevka-z-koncentratu-s-bramborami",
+  "title": "Polévka z koncentrátu s bramborami",
+  "titleOriginal": "Wehrmachtsuppenkonserve mit Kartoffeln",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "na vaření masa a brambor; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „etwas Salz“; koncentrát je slaný, ochutnej"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 600,
+      "unit": "g",
+      "note": "čerstvé, oloupané a nakrájené na kostky (ve zdroji 750 g na hlavu)"
+    },
+    {
+      "ingredientId": "polevkovy-koncentrat-instantni",
+      "amount": 70,
+      "unit": "g",
+      "note": "ve zdroji 75 g vojenské konzervy na hlavu; rozmíchat v 400 ml studené vody (nezapočítáno do vody výše)"
+    },
+    {
+      "ingredientId": "majoranka",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti (zdroj odkazuje na Grundgericht: Salz und Majoran); odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej maso, sůl a polévkovou zeleninu a vař asi 2 hodiny (vepřové maso jen 1 hodinu).",
+      "minutes": 120
+    },
+    {
+      "text": "Přidej brambory a vař dalších asi 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Koncentrát rozdrť a rozmíchej ve studené vodě do hladka.",
+      "minutes": 5
+    },
+    {
+      "text": "Vlij koncentrát za stálého míchání do vroucí polévky a krátce provař.",
+      "minutes": 5
+    },
+    {
+      "text": "Stáhni z ohně a nech 20 minut dojít pod pokličkou, už nevař.",
+      "minutes": 20
+    },
+    {
+      "text": "Dochuť solí a majoránkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 750 g brambor na muže; zde 150 g brambor na porci, řádky jsou praktické domácí množství pro 4 porce. Koncentrát je snížen na asi 18 g na porci podle návodu moderních instantních polévek (zdroj počítá s 75 g vojenské konzervy na hlavu). Vojenská polévková konzerva (Wehrmachtsuppenkonserve, tvrdý lisovaný koncentrát) se dnes nevyrábí; nahrazena instantním polévkovým koncentrátem (sušený prášek/granulát, asi 18 g na porci). Jde o historickou kuriozitu. Zdroj neuvádí množství masa, vody ani soli: 400 g hovězího předního, 1,2 l vody a 8 g soli jsou odhady, proto verified: false. Sušená alternativa zdroje (2,5–3 g zeleniny a 75 g sušených brambor na hlavu) se nepoužívá. Doby vaření masa (2 hodiny) a brambor (¾ hodiny) jsou ze zdroje; koncentrát se přidává jako v základní polévce. Hmotnost porce vychází z celé vody; při několikahodinovém varu se část odvaří, hotová porce je lehčí (voda je nutná, aby se mouka, kroupy či luštěniny nesvařily na kaši).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 23,
+    "code": "2. (varianta, tišt. s. 43)",
+    "titleOriginal": "Wehrmachtsuppenkonserve mit Kartoffeln"
+  },
+  "verified": false,
+  "quote": "weitere Behandlung siehe Grundgericht."
+}

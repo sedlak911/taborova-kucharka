@@ -1,0 +1,99 @@
+{
+  "id": "celerove-pyre",
+  "title": "Celerové pyré",
+  "titleOriginal": "Purée of Celery (Macco di sedani)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celer-bulvovy",
+      "amount": 600,
+      "unit": "g",
+      "group": "Celer",
+      "note": "jedlá část očištěného bulvového celeru (zdroj „some big roots of celery“ bez množství, odhad 150 g na porci)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Vaření",
+      "note": "osolená voda na vaření, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Vaření",
+      "note": "do vody na vaření (2 g na 1 l), slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Pyré",
+      "note": "zdroj „a piece of butter“, odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Pyré",
+      "note": "zdroj „flour“ bez množství, odhad (asi 1,5 polévkové lžíce na zahuštění)"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Pyré",
+      "note": "zdroj „a little cream or milk“, odhad; zdroj uvádí jako náhradu dobrý vývar"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Pyré",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 3,
+      "unit": "g",
+      "group": "Dochucení",
+      "note": "zdroj „a little powdered sugar“, odhad (asi 1 čajová lžička)"
+    }
+  ],
+  "steps": [
+    { "text": "Velký hrnec osolené vody přiveď k varu.", "minutes": 8 },
+    { "text": "Mezitím celer dobře omyj pod tekoucí vodou, odstraň listy a tvrdé části a nakrájej na kusy.", "minutes": 5, "parallel": true },
+    { "text": "Celer ponoř do vroucí osolené vody a vař do měkka.", "minutes": 20 },
+    { "text": "Sceď celer a nech ho okapat.", "minutes": 2 },
+    { "text": "Celer rozmačkej a přetlač přes síto, až vznikne hladké pyré.", "minutes": 8 },
+    { "text": "V hrnci rozpusť máslo, vmíchej mouku a chvíli míchej.", "minutes": 2 },
+    { "text": "Přidej pyré, sůl a postupně mléko a za stálého míchání povař asi 5 minut, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Těsně před podáváním vmíchej moučkový cukr a podávej horké." }
+  ],
+  "modernNote": "Gentile neuvádí množství celeru ani máslo, mouku, mléko a cukr, jen postup („some big roots of celery“, „a piece of butter“, „flour“, „a little cream or milk“, „a little powdered sugar“). Množství jsou odhady z běžné praxe pro 4 porce: celer 600 g jedlé části (150 g na porci), máslo 20 g, mouka 20 g, mléko 200 ml, moučkový cukr 3 g, sůl 3 g. Blanšírovací voda 1 l a sůl 2 g na 1 l jsou domácí hodnoty, slévají se a do jídla nejdou. Zdroj počítá s mlékem nebo smetanou; jako náhrada je uveden dobrý vývar nebo hnědý vývar (kniha tedy nepředepisuje vodu). Recept je bez masa, protože do něj vstupuje mléko místo vývaru. Gentile píše „big roots of celery“; zvolen bulvový celer (kořeny, pyré z něj vyjde husté; z řapíkatého by bylo řídké); nejistota zůstává, kniha jinde píše „heads of celery“ o řapících. Doba vaření 20 minut je odhad („cooked“ bez času).",
+  "source": {
+    "book": "italian-1919",
+    "page": 121,
+    "titleOriginal": "PUREE OF CELERY (Macco di sedani)"
+  },
+  "verified": false
+}

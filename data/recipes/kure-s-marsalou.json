@@ -1,0 +1,101 @@
+{
+  "id": "kure-s-marsalou",
+  "title": "Kuře s marsalou",
+  "titleOriginal": "Chicken with Sherry (Pollo al marsala)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "siricitany"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1200,
+      "unit": "g",
+      "note": "rozporcované na velké kusy, s kostmi; odhad, zdroj množství neuvádí"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 120,
+      "unit": "g",
+      "note": "1 střední, najemno nasekaná"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "„a piece of butter“, odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "„some broth“; nebo voda"
+    },
+    {
+      "ingredientId": "marsala",
+      "amount": 100,
+      "unit": "ml",
+      "note": "„a glass of Sherry or Marsala wine“, asi 100 ml na 4 porce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře rozporcuj na velké kusy a cibuli nasekej najemno.",
+      "minutes": 8
+    },
+    {
+      "text": "V pánvi rozehřej máslo, přidej cibuli a osmahni ji do měkka.",
+      "minutes": 5
+    },
+    {
+      "text": "Kousky kuřete osol a opepři, polož je na pánev a opékej ze všech stran dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Přilij vývar, přikryj a duš, dokud kuře není měkké.",
+      "minutes": 45
+    },
+    {
+      "text": "Přebytečný tuk z omáčky odlij přes síto nebo lžící.",
+      "minutes": 2
+    },
+    {
+      "text": "Vrať pánev na oheň, přilij marsalu a zahřívej jen do chvíle, kdy omáčka začne vřít. Pak sundej z ohně.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj uvádí kuře, jednu střední cibuli, kousek másla, sůl, pepř, vývar (broth) a „sklenici“ sherry nebo marsaly, bez množství a bez počtu porcí. Množství jsou odhady pro 4 porce: kuře 1,2 kg s kostmi (asi 300 g na porci), cibule 120 g, máslo 30 g, sůl 5 g, pepř 1 g, vývar 250 ml, víno 100 ml. Vývar je masový (hovězí), jak ho kniha chápe pod „broth“; lze nahradit vodou. Dobu dušení zdroj neuvádí, odhad 45 minut do měkka. Zdroj předepisuje odlití přebytečného tuku z omáčky, proto samostatný krok. Sherry ani marsala v katalogu nebyly, založena nová surovina `marsala` (suché víno, nejbližší USDA záznam dezertního vína, hustota 0,98 g/ml odhad). Obsahuje sirníky (alergen siricitany) a alkohol, který se při krátkém zahřátí částečně odpaří. Alias `marsala` v katalogu slučuje sherry i marsalu; nutriční údaj je dezertní víno (USDA), takže u suchého sherry jde o orientační hodnotu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 40,
+    "titleOriginal": "CHICKEN WITH SHERRY (Pollo al marsala)"
+  },
+  "verified": false,
+  "quote": "put the chicken back on the fire with a glass of Sherry or Marsala wine"
+}

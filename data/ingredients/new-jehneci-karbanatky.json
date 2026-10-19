@@ -1,0 +1,28 @@
+[
+  {
+    "id": "jehneci-mlete",
+    "name": "Jehněčí maso mleté",
+    "aliases": [
+      "mleté jehněčí",
+      "jehněčí mleté",
+      "mleté jehněčí maso",
+      "lamb ground"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 282,
+      "protein": 16.56,
+      "carbs": 0,
+      "fat": 23.41,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174370 (Lamb, ground, raw)",
+      "refuse": "USDA fdc:174370 refusePct 0"
+    }
+  }
+]

@@ -1,0 +1,104 @@
+{
+  "id": "tapiokovy-krem-z-rychle-tapioky",
+  "title": "Tapiokový krém z rychlé tapioky",
+  "titleOriginal": "Tapioca Cream (Quick-cooking tapioca)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 400,
+      "unit": "ml",
+      "note": "z toho asi 115 ml na žloutky, zbytek se ohřívá"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 0.55,
+      "unit": "ks",
+      "note": "lehce rozšlehané"
+    },
+    {
+      "ingredientId": "tapioka",
+      "amount": 25,
+      "unit": "g",
+      "note": "instantní (rychlá) tapioka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 0.35,
+      "unit": "ks",
+      "note": "ušlehané do tuhého sněhu"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Žloutky rozšlehej s částí mléka.",
+      "minutes": 2
+    },
+    {
+      "text": "Zbytek mléka ohřej téměř k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím vyšlehej bílky do tuhého sněhu.",
+      "minutes": 4,
+      "parallel": true
+    },
+    {
+      "text": "Do horkého mléka vmíchej žloutkovou směs, tapioku, cukr a sůl.",
+      "minutes": 1
+    },
+    {
+      "text": "Za stálého míchání vař rychle 5 minut.",
+      "minutes": 5
+    },
+    {
+      "text": "Sundej z ohně."
+    },
+    {
+      "text": "Vmíchej bílky a vanilku.",
+      "minutes": 2
+    },
+    {
+      "text": "Nech krém vychladit."
+    }
+  ],
+  "modernNote": "Zdroj uvádí 100 porcí (výtěžek 3 galony, porce ½ cupu). Mléko je v zadání jen objemem (2⅝ gal), proto ho přepočítávám jako ml; podle zdroje (strana 59) se žloutky rozmíchají v ¾ gal z 2⅝ gal, tj. asi 115 ml z 400 ml, zbytek se ohřívá. Rychlá tapioka: v katalogu není instantní varianta, použita USDA perlová tapioka (suchá hmotnost stejná). Žloutky a bílky jsou v ks podle katalogových kusů (žloutek 17 g, bílek 33 g), přesně na 0,05 ks; zdroj předepisuje 8 oz žloutků a 10 oz bílků. Vanilka: zdroj uvádí 1 oz nebo 2 lžíce, použito 2 lžíce (30 ml) jako seasoning. Chladnutí zdroj nekvantifikuje, žádná doba v časové ose. Zdroj také dovoluje sušený žloutek a bílek s vodou; nepoužito.",
+  "source": {
+    "book": "navy-1944",
+    "page": 58,
+    "titleOriginal": "TAPIOCA CREAM (Quick-cooking tapioca)"
+  },
+  "verified": true,
+  "quote": "Fold in egg whites. Add vanilla. Chill."
+}

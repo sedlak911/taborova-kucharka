@@ -1,0 +1,115 @@
+{
+  "id": "cheeseburgery",
+  "title": "Cheeseburgery",
+  "titleOriginal": "Beef Cheeseburgers",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "horcice",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 560,
+      "unit": "g",
+      "note": "zdroj: Beef, boneless 31 lb (alternativa bone-in 45 lb)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "note": "zdroj: Salt 6 oz"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "zdroj: Pepper ½ oz"
+    },
+    {
+      "ingredientId": "hamburgerova-houska",
+      "amount": 8,
+      "unit": "ks",
+      "note": "2 housky na porci"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 140,
+      "unit": "g",
+      "note": "plátky; zdroj: 1¼ oz na porci"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "g",
+      "note": "zdroj: Mayonnaise (s. 204), 4 lb"
+    },
+    {
+      "ingredientId": "relish-sladky-okurkovy",
+      "amount": 35,
+      "unit": "g",
+      "note": "zdroj: Pickle relish, 2 lb"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pánve; odhad, zdroj žádný tuk neuvádí",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí maso nakrájej na menší kousky a umel.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej sůl a pepř a dobře promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Z masa tvaruj ploché placičky stejné velikosti.",
+      "minutes": 5
+    },
+    {
+      "text": "Pánev rozehřej, vymaž olejem a opékej placičky z obou stran, dokud nejsou propečené podle chuti.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím housky rozřízni a lehce opeč.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Horní polovinu housek potři majonézou.",
+      "minutes": 1
+    },
+    {
+      "text": "Na spodní polovinu housek polož plátek sýru a na pánvi pod pokličkou zapékej, dokud se sýr neroztaje.",
+      "minutes": 3
+    },
+    {
+      "text": "Na sýr polož horkou placičku, nanes relish a přikryj horní polovinou housky.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj: 2 housky, asi 5 oz hovězího a 1¼ oz sýra na porci. Hovězí je boneless 31 lb (bone-in 45 lb je alternativa), mleté; pokud koupíš mleté, krok na umletí odpadá. Sýr: tabulka dává 10 lb, tj. 1,6 oz na porci, ale řádek Portion uvádí 1¼ oz; zvolen údaj z Portion (140 g). Sůl 6 oz z tabulky (Amounts ¾ cup je nekonzistentní), pepř ½ oz. Majonéza ze zdroje (odkaz na s. 204) je nakoupená. Housky: nová surovina hamburgerova-houska (USDA 44 g na kus), zdroj nemá hmotnost. Olej na pánev je přidán jako odhad, zdroj žádný tuk na smažení neuvádí. Kroky „Broil“ a „oven-broil“ převedeny na pánev s pokličkou, aby recept vystačil s plotnou. Sůl na porci (2,75 g) je nad doporučením; na chuť ji uber na polovinu, zdroj ji nemění.",
+  "source": {
+    "book": "navy-1944",
+    "page": 120,
+    "titleOriginal": "BEEF CHEESEBURGERS"
+  },
+  "verified": false
+}

@@ -1,0 +1,131 @@
+{
+  "id": "kolac-z-kurete-a-zeleniny",
+  "title": "Koláč z kuřete a zeleniny",
+  "titleOriginal": "Chicken and Vegetable Pie",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 450,
+      "unit": "ml",
+      "note": "kuřecí vývar, zdroj 3 gal"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné; do jíšky",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 60,
+      "unit": "g",
+      "note": "do jíšky i do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "do jíšky i do těsta"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "do jíšky; zdroj ½ oz (váha má přednost před 1 lžící)"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 195,
+      "unit": "g",
+      "note": "nakrájené na kostky 2 cm",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 60,
+      "unit": "g",
+      "note": "uvařené, nakrájené na kostky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 45,
+      "unit": "g",
+      "note": "uvařený",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 18,
+      "unit": "g",
+      "note": "uvařená, nakrájená na proužky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ztuzeny-tuk",
+      "amount": 25,
+      "unit": "g",
+      "note": "do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g",
+      "note": "do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 17,
+      "unit": "g",
+      "note": "studená, do těsta",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 230 °C." },
+    { "text": "Zahřej vývar k varu.", "minutes": 8 },
+    { "text": "Mezitím rozetři ztužený tuk s moukou na drobenku velikosti hrášku.", "minutes": 3, "parallel": true },
+    { "text": "Mezitím v menším hrnci rozpusť máslo, vmíchej mouku, sůl a pepř a promíchej do hladké jíšky.", "minutes": 3, "parallel": true },
+    { "text": "Rozpusť cukr a sůl ve vodě, přidej k moukové směsi a promíchej jen tak, aby vzniklo těsto.", "minutes": 3 },
+    { "text": "Těsto rozválej na tloušťku 3 až 6 mm a propichni vidličkou.", "minutes": 5 },
+    { "text": "Vlij jíšku do vařícího vývaru a za stálého míchání vař, dokud nezhoustne.", "minutes": 5 },
+    { "text": "Přidej kuře, brambory, hrášek a mrkev a promíchej.", "minutes": 2 },
+    { "text": "Vlij směs do zapékací misky.", "minutes": 2 },
+    { "text": "Polož těsto na náplň.", "minutes": 1 },
+    { "text": "Peč 10 až 15 minut, dokud těsto nezezlátne.", "minutes": 15 }
+  ],
+  "modernNote": "Podle zdroje (Chicken and Vegetable Pie, tištěná s. 170, PDF 178) na 100 porcí, přepočet na 4 porce. Vývar: zdroj uvádí 3 gal kuřecího vývaru (Chicken Stock, s. 216), použit přímo jako kureci-vyvar, nevodou. Tuk: zdroj „chicken fat or other fat“ – původně sadlo (v original), moderně máslo v jíšce. Těsto: zdroj odkazuje na Pie Dough (s. 373, PDF 381) v množství 5 lb na 100 porcí; složení vzato z Pie Pastry (mouka 7½ lb, ztužený tuk 4½ lb, cukr 6 oz, sůl 4 oz, voda 3 lb; celkem 15 5/8 lb), přepočteno na 5 lb (×0,32) a pak na 4 porce. Mouka a sůl jsou sloučené řádky (jíška + těsto). Pečení 450 °F = 230 °C. Pepř: zdroj uvádí ½ oz (14 g) i 1 lžíci; ½ oz je asi 2 lžíce mletého pepře, takže to není rozpor, použita váha (0,92 g pro 4 porce, třída seasoning); lze ubrat podle chuti. Množství těsta (5 lb) je ze zdroje, složení z Pie Pastry (s. 373, PDF 381), obě čísla přečtena z obrázků. Tuk: 1 lb 4 oz (váha) vs 1½ pt (objem) – použita váha. Zelenina a kuře jsou z vařené váhy, brambory a hrášek z čerstvých a syrových katalogových položek (vařená váha ≈ syrová, odhad). Pro 4 porce je koláč lehký, u hlavního jídla počítej 150 g masa a víc zeleniny.",
+  "source": {
+    "book": "navy-1944",
+    "page": 178,
+    "titleOriginal": "CHICKEN AND VEGETABLE PIE"
+  },
+  "verified": true,
+  "quote": "Roll pie dough 1/8 to 1/4 inch thick. Perforate."
+}

@@ -1,0 +1,69 @@
+{
+  "id": "jehneci-kotlety-na-plotne",
+  "title": "Jehněčí kotlety na plotně",
+  "titleOriginal": "Griddle-Broiled Lamb Chops",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 1180,
+      "unit": "g",
+      "note": "kotlety s kostí; nákupní hmotnost (zdroj 65 lb s kostí pro 100 porcí)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "g",
+      "note": "na vymazání pánve, jen je-li maso málo tučné; odhad (zdroj bez množství)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej jehněčí na kotlety tlusté asi 2 cm.",
+      "minutes": 10
+    },
+    {
+      "text": "Rozehřej pánev na střední až vysokou teplotu a lehce ji vymaž tukem.",
+      "minutes": 3
+    },
+    {
+      "text": "Opékej kotlety z obou stran dozlatova a podle požadované propečenosti, průběžně je otáčej, aby se propekly rovnoměrně; nepřepékej je.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsně před podáváním posyp kotlety solí a pepřem."
+    },
+    {
+      "text": "Podávej ihned, velmi horké."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce = 2 kotlety á cca 4 oz (cca 227 g masa na porci). Jehněčí 65 lb s kostí (nákupní hmotnost) × 0,04 = 1180 g; sůl 6 oz (¾ cupu) a pepř ½ oz (1¾ tbsp) přepočteny třídou seasoning, sůl 11 g, pepř 0,92 g. Zdroj neuvádí tuk pro tuto variantu (v poznámce jen „pokud maso nemá dost tuku, vymaž pánev tukem“); přidán odhad 5 g (1 lžička) řepkového oleje na vymazání pánve, třída vessel (nezapočítává se do výživy), proto verified false. Zdroj kotlety ještě dokončuje v troubě na 150 °C do podávání; v domácí verzi stačí podávat hned na teplém talíři. Sůl 11 g na 4 porce (2,75 g/porci) odpovídá zdroji; nález check:recipe „sůl mimo 0,5–2,5 g“ ponechán, jako doporučení pro 4 porce ji dochuť podle chuti (ubrat). Bilance check:recipe 233 g na porci vs. 227 g masa ve zdroji sedí. Čas: opékání v dávkách (8 kotlet), timeMinutes 30.",
+  "source": {
+    "book": "navy-1944",
+    "page": 135,
+    "titleOriginal": "GRIDDLE-BROILED LAMB CHOPS"
+  },
+  "verified": false
+}

@@ -1,0 +1,115 @@
+{
+  "id": "jambalaya",
+  "title": "Jambalaya",
+  "titleOriginal": "Jambalaya",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 180,
+      "unit": "g",
+      "note": "uvařená šunka (zbytky a odřezky), nakrájená na kostky 1–2 cm"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 36,
+      "unit": "g",
+      "note": "stonky, nakrájené na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 27,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "na osmahnutí zeleniny",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 55,
+      "unit": "g",
+      "note": "syrová, propláchnutá"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "z konzervy, s šťávou"
+    },
+    {
+      "ingredientId": "vyvar-sunkovy",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj: Ham Stock, s. 226 PDF (tištěná 218)"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 19,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 15,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Šunku nakrájej na kostky 1–2 cm.",
+      "minutes": 8
+    },
+    {
+      "text": "Na tuku lehce osmahni celer a cibuli.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej šunku, rýži, rajčata, vývar, kečup, sůl a worcestrovou omáčku.",
+      "minutes": 2
+    },
+    {
+      "text": "Přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vař na mírném ohni za častého míchání, dokud rýže nezměkne a směs nezhoustne.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Tuk ze zdroje (ham or bacon fat, sádlo ze šunky nebo slaniny) je v original jako sádlo, moderně máslo na osmahnutí zeleniny. Vývar ze šunky (Ham Stock, s. 226 PDF) je samostatná surovina a nahrazuje se pouze vývarem ze šunky, ne vodou. Rajčata jsou z konzervy (2 No. 10 konzervy ve zdroji). Zdroj neuvádí dobu vaření; časy odhadnuty z textu kroků. Bilance porce (224 g vs. 1 šálek approx. 8 oz) sedí. Maso 45 g na porci je málo pro hlavní jídlo: jako hlavní chod počítej spíš 120–150 g šunky (zvyš šunku ~2,5×, uber rýži).",
+  "source": {
+    "book": "navy-1944",
+    "page": 150,
+    "titleOriginal": "JAMBALAYA"
+  },
+  "verified": true
+}

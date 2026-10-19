@@ -1,0 +1,59 @@
+{
+  "id": "klobasy-s-cibuli",
+  "title": "Klobásy s cibulí",
+  "titleOriginal": "SAUSAGES WITH ONIONS (Salsicce alla cipollata)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-klobasa-syrova",
+      "amount": 500,
+      "unit": "g",
+      "note": "syrové klobásy, asi 125 g na porci; vepřová syrová klobása (salsiccia) jako v originále"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 200,
+      "unit": "g",
+      "note": "jedlá část, asi 2 střední; zdroj „úměrně, ale ne moc“"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "na opékání; klobásy si pak pustí vlastní tuk"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli oloupej a nakrájej na tenká půlkolečka.", "minutes": 5 },
+    { "text": "Klobásy několikrát propíchej vidličkou, aby neprasknuly.", "minutes": 2 },
+    { "text": "Na pánvi rozehřej olej, vlož klobásy a opékej je na středním ohni dozlatova, občas je obrať.", "minutes": 15 },
+    { "text": "Přidej cibuli a za občasného míchání ji restuj, dokud nezměkne a nezlátne.", "minutes": 10 },
+    { "text": "Dochuť pepřem; klobásy jsou už osolené." },
+    { "text": "Podávej horké, nejlépe s chlebem nebo kaší." }
+  ],
+  "modernNote": "Zdroj (Gentile) nedává množství ani počet porcí. Původní výroba: čerstvé libové vepřové maso a slanina ve stejném poměru, nasekané nadrobno, osolené, opepřené a kořeněné; přidá se úměrné množství cibule nasekané velmi jemně, ale ne moc. Náplň se naplní do připravených střívek a klobásy se přepletou nití po dvou palcích (asi pěti centimetrech). Modernizace: výrobu klobás nahrazuje koupená syrová klobása (500 g, asi 125 g na porci), protože střívka a mletí doma se dnes nedělají. Italské salsicce jsou vepřové (maso a slanina 1:1), proto vepřová syrová klobása; krůtí klobása je lehčí alternativa, ale mnohem méně tučná. Cibule 200 g je odhad, olej 1 lžíce odhad na opékání, pepř 1 g podle chuti. Klobásy se opékají na středním ohni, aby se propekly bez připálení; cibule se restuje na zbylém tuku. Zdroj neuvádí čas, ten je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 118,
+    "titleOriginal": "SAUSAGES WITH ONIONS (Salsicce alla cipollata)"
+  },
+  "verified": false,
+  "quote": "The salsicce alla cipollata are prepared with fresh and lean pork meat and bacon in equal quantity."
+}

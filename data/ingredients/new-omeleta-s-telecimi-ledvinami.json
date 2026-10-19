@@ -1,0 +1,27 @@
+[
+  {
+    "id": "teleci-ledvina",
+    "name": "Telecí ledvina",
+    "aliases": [
+      "telecí ledviny",
+      "ledvina telecí",
+      "veal kidney"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 99,
+      "protein": 15.76,
+      "carbs": 0.85,
+      "fat": 3.12,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.88,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174356 (Veal, variety meats and by-products, kidneys, raw)",
+      "refuse": "USDA odpad 12 % (tuk, žilky, blány) → ediblePortion 0.88"
+    }
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "id": "hneda-omacka-navy",
+  "title": "Hnědá omáčka z pečeně",
+  "titleOriginal": "Savory Brown Gravy",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj výpek z pečeně (1 lb)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 300,
+      "unit": "ml",
+      "note": "zdroj Meat Stock (beef or veal), p. 216; kupovaný hovězí vývar"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej rozpuštěný tuk s moukou a dobře vypracuj.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého míchání opékej jíšku, dokud mouka nezhnědne.",
+      "minutes": 5
+    },
+    {
+      "text": "Za stálého míchání postupně přilévej vývar.",
+      "minutes": 4
+    },
+    {
+      "text": "Vař za stálého míchání, dokud omáčka nezhoustne a nebude hladká.",
+      "minutes": 10
+    },
+    {
+      "text": "Osol a opepři."
+    }
+  ],
+  "modernNote": "Zdroj: Navy 1944, Savory Brown Gravy (p. 177, PDF 185), 100 porcí, výtěžek ~2 gal, porce ⅓ hrnku (~79 ml). Přepočteno na 4 porce (~316 ml omáčky). Tuk z pečeně (1 lb) je v originále sádlo; moderně máslo jako jíška (třída linear). Vývar: zdroj Meat Stock (Beef or Veal, p. 216, PDF 224), 2 gal; použit kupovaný hovězí vývar, samotný vývar se nevaří podle odkazu. Mouka 1 lb a sůl 1 oz (sloupec Ounces; Amounts 2 lžíce = ½ oz na lžíci, tedy 1 oz) jsou ve shodě. Pepř (2 čajové lžičky, bez hmotnosti) převeden objemem 2,3 g na čajovou lžičku. Zdroj k základu uvádí variace (smetanová, cibulová, zeleninová), do receptu nezařazeny. Bilance: 4 porce mají cca 340 g surovin proti ~316 ml omáčky, což odpovídá hustotě jíšky. Sůl 2 g na 4 porce je podle zdroje dochuť, dle chuti doplň.",
+  "source": {
+    "book": "navy-1944",
+    "page": 185,
+    "titleOriginal": "SAVORY BROWN GRAVY"
+  },
+  "verified": true,
+  "quote": "Blend fat and flour well. Cook until flour is browned, stirring constantly."
+}

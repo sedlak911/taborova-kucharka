@@ -1,0 +1,35 @@
+{
+  "id": "hovezi-vyvar-navy",
+  "title": "Hovězí vývar",
+  "titleOriginal": "Meat Stock (Beef or Veal)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 410,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "hovezi-kosti", "amount": 400, "unit": "g", "note": "kosti do vývaru, rozseknuté, bez dřeně" },
+    { "ingredientId": "hovezi-predni", "amount": 180, "unit": "g", "note": "bez kosti, nakrájené na kostky" },
+    { "ingredientId": "voda", "amount": 1210, "unit": "ml", "note": "studená" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "celer-rapikaty", "amount": 18, "unit": "g", "note": "celer stonkový, nasekaný" },
+    { "ingredientId": "mrkev", "amount": 25, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" },
+    { "ingredientId": "bobkovy-list", "amount": 0.3, "unit": "ks" }
+  ],
+  "steps": [
+    { "text": "Kosti přesekej napříč nebo podél a vyjmi dřeň. Kosti opeč na pánvi dozlatova.", "minutes": 15 },
+    { "text": "Maso nakrájej na kostky a opeč je na pánvi dozlatova.", "minutes": 8 },
+    { "text": "Do velkého hrnce vlož kosti, maso, cibuli, celer, mrkev, sůl, pepř a bobkový list a zalij studenou vodou.", "minutes": 3 },
+    { "text": "Přiveď k varu a vař na mírném ohni 5 až 6 hodin. Podle potřeby dolévej horkou vodu.", "minutes": 370 },
+    { "text": "Sceď vývar přes síto.", "minutes": 2 },
+    { "text": "Nech vývar vychladnout a pak ho ulož do lednice." }
+  ],
+  "modernNote": "Zdroj je Meat Stock pro 100 porcí (6 gal, tj. asi 227 ml na porci; porce není ve zdroji uvedena, 4 porce ≈ 0,9 l vývaru). Vývar je samostatný základ pro polévky a omáčky, nikoli příloha. Kosti jsou samostatná surovina hovezi-kosti (katalog neměl; makra 0, ediblePortion 0,3 shodně s `teleci-kosti` a `sunkova-kost`, po vaření se vyhodí). Kcal (65 na porci) počítají celých 180 g masa, které se po scezení také nejí, takže skutečné kcal vývaru jsou nižší. Zdroj opékal kosti v troubě a maso na tuku z dřeně; pro 4 porce opékám na pánvi (plotna), tuk z dřeně není ve zdroji uveden jako množství, proto nepřidávám žádný tuk. Zdroj nemá teplotu ani čas opékání, časy jsou odhad. Vaření 5–6 h v malém hrnci výrazně zmenší objem: dolévej vodu. Sůl 7 g podle třídy seasoning je pro vývar vysoká, doporučuji ubrat na polovinu. Vychladlý vývar je připraven předem (chlazení ≥ 4 h, tag pripravit-predem). Název id je hovezi-vyvar-navy, protože hovezi-vyvar je surovina v katalogu.",
+  "source": { "book": "navy-1944", "page": 224, "titleOriginal": "MEAT STOCK (BEEF OR VEAL)" },
+  "verified": true
+}

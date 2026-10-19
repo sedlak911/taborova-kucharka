@@ -1,0 +1,33 @@
+{
+  "id": "omacka-k-rybe-na-rostu",
+  "title": "Omáčka k rybě na roštu",
+  "titleOriginal": "Sauce for Broiled Fish (Salsa per pesce in gratella)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["ryby", "vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "note": "natvrdo uvařená; použij jen žloutky, bílky nech stranou (odhad: 3 vejce na 4 porce)" },
+    { "ingredientId": "ancovicky", "amount": 30, "unit": "g", "note": "3 velké solené (zdroj: jedna velká na každý tvrdý žloutek); odkostit, slané opláchnout" },
+    { "ingredientId": "olivovy-olej", "amount": 90, "unit": "ml", "note": "odhad, zdroj uvádí jen „dissolve all with oil“" },
+    { "ingredientId": "citronova-stava", "amount": 30, "unit": "ml", "note": "šťáva z ½ až 1 citronu, odhad" }
+  ],
+  "steps": [
+    { "text": "Vejce ve skořápce dej do studené vody, přiveď k varu a vař natvrdo 10 minut.", "minutes": 15 },
+    { "text": "Vejce ochlaď studenou vodou a oloupej je.", "minutes": 5 },
+    { "text": "Žloutky vyndej, ančovičky zbav kostí a protlač je přes sítko spolu se žloutky do hladké hmoty.", "minutes": 5 },
+    { "text": "Za stálého míchání přilévej olivový olej a citronovou šťávu, až vznikne krémová omáčka.", "minutes": 5 },
+    { "text": "Omáčku podávej na grilovanou nebo pečenou rybu, nebo ji nalij do omáčníku zvlášť." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 56) uvádí složení bez množství: natvrdo vařené žloutky, solené ančovičky, olivový olej a citronová šťáva; na každý tvrdý žloutek jedna velká ančovička (nebo dvě malé). Množství jsou odhady pro 4 porce: 3 vejce natvrdo (jen žloutky, bílky se nepoužijí), 3 velké ančovičky (asi 10 g na kus, po odkostění 30 g), 90 ml olivového oleje a 30 ml citronové šťávy, krémová konzistence vzniká rozmícháním oleje se žloutky a šťávou. Sůl ani pepř zdroj u této omáčky nepožaduje, slanost dodávají ančovičky; přidej podle chuti. Katalog má ančovičky v oleji, u solených je nutné opláchnout a odkostit. Doba 30 minut zahrnuje vaření vajec; odhad. Zdroj doporučuje podávat na rybu na roštu, případně zvlášť v omáčníku.",
+  "source": {
+    "book": "italian-1919",
+    "page": 49,
+    "titleOriginal": "SAUCE FOR BROILED FISH (Salsa per pesce in gratella)"
+  },
+  "verified": false,
+  "quote": "This sauce is composed of yolks of eggs, salted anchovies, olive oil and lemon juice."
+}

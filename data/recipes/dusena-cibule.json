@@ -1,0 +1,89 @@
+{
+  "id": "dusena-cibule",
+  "title": "Dušená cibule",
+  "titleOriginal": "Stewed Onions (Cipolle in stufato)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 175,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 820,
+      "unit": "g",
+      "group": "Cibule",
+      "note": "2 lb středních cibulí; zdroj váží neoloupané (asi 907 g), zde jedlá část"
+    },
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Cibule",
+      "note": "tolik, aby cibuli zakryl (slévá se; odhad; zdroj „as much broth as is necessary“)",
+      "original": {
+        "ingredientId": "hovezi-vyvar",
+        "amount": 1000,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 240,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "1 šálek vývaru (zdroj „a cup of broth“)",
+      "original": {
+        "ingredientId": "hovezi-vyvar",
+        "amount": 240,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "kousek másla (odhad, zdroj neuvádí)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 polévková lžíce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "podle chuti (odhad); vývar bývá slaný"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "podle chuti (odhad)"
+    }
+  ],
+  "steps": [
+    { "text": "Cibuli namoč do studené vody na půl hodiny.", "minutes": 30 },
+    { "text": "Cibuli oloupej a dej do hrnce, zalij ji tolik zeleninovým vývarem, aby byla zakrytá.", "minutes": 10 },
+    { "text": "Vař na mírném ohni, dokud cibule nezměkne. U mladé cibule stačí hodina, u běžné dvě.", "minutes": 120 },
+    { "text": "Uvařenou cibuli sceď a přendej do velké hluboké mísy.", "minutes": 2 },
+    { "text": "Na pánvi zhnědni máslo s hladkou moukou, zalij vývarem, osol a opepři.", "minutes": 5 },
+    { "text": "Omáčku za míchání přiveď k varu, nalij na cibuli, promíchej a podávej horkou.", "minutes": 5 }
+  ],
+  "modernNote": "Gentile (č. 160, tišt. s. 112) uvádí 2 lb středních cibulí pro celé jídlo a nemá počet porcí; bráno jako 4 porce (asi 205 g cibule na porci, v rozmezí 150–200 g). Cibule v g je jedlá část: 907 g neoloupaných × 0,9 ≈ 820 g. „Broth“ je v knize hovězí vývar, proto je zde zeleninový vývar s původním hovězím v original (bezmasá varianta). Odhady, které zdroj nedává: 1000 ml vývaru na zakrytí cibule (část se odpaří), 20 g másla, 8 g hladké mouky (1 polévková lžíce), 3 g soli a 0,5 g pepře. Šálek vývaru (237 ml) zaokrouhlen na 240 ml. Doba: zdroj dává 1 hodinu pro mladou cibuli a 2 hodiny pro běžnou; počítáno 2 hodiny, namáčení 30 minut a loupání 10 minut. Gentile v OCR textu píše „seallions“, čteno jako „scallions“ (mladá cibulka).",
+  "source": {
+    "book": "italian-1919",
+    "page": 116,
+    "titleOriginal": "STEWED ONIONS (Cipolle in stufato)"
+  },
+  "verified": false
+}

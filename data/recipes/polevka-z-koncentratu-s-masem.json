@@ -1,0 +1,87 @@
+{
+  "id": "polevka-z-koncentratu-s-masem",
+  "title": "Polévka z koncentrátu s masem",
+  "titleOriginal": "Wehrmachtsuppenkonserve und frisches Rind- oder Schweinefleisch oder Dauerfleisch",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 220,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1300,
+      "unit": "ml",
+      "note": "na vaření masa; množství zdroj neuvádí (doplněno), část se při dlouhém vaření odpaří"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „etwas Salz“ do vody a „Abschmecken mit Salz“; koncentrát je slaný, ochutnej"
+    },
+    {
+      "ingredientId": "polevkovy-koncentrat-instantni",
+      "amount": 70,
+      "unit": "g",
+      "note": "ve zdroji 150 g vojenské konzervy na hlavu; rozmíchat v 600 ml studené vody (nezapočítáno do vody výše)"
+    },
+    {
+      "ingredientId": "majoranka",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Majoran); odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a sůl a vař do měkka asi 3 hodiny (vepřové maso 2 hodiny).",
+      "minutes": 180
+    },
+    {
+      "text": "Koncentrát rozdrť a rozmíchej ve studené vodě do hladka.",
+      "minutes": 5
+    },
+    {
+      "text": "Vlij koncentrát za stálého míchání do vroucí masové vody a krátce provař.",
+      "minutes": 5
+    },
+    {
+      "text": "Stáhni z ohně a nech 20 minut dojít pod pokličkou, už nevař.",
+      "minutes": 20
+    },
+    {
+      "text": "Dochuť solí a majoránkou."
+    }
+  ],
+  "modernNote": "Řádky jsou praktické domácí množství pro 4 porce. Zdroj počítá se 150 g vojenské konzervy na hlavu; koncentrát je snížen na asi 18 g na porci podle návodu moderních instantních polévek. Vojenská polévková konzerva (Wehrmachtsuppenkonserve, tvrdý lisovaný koncentrát) se dnes nevyrábí; nahrazena instantním polévkovým koncentrátem (sušený prášek/granulát, asi 18 g na porci). Jde o historickou kuriozitu. Zdroj počítá s vařením masa 2 až 3 hodiny (u vepřového kratší); zdroj dovoluje i trvanlivé maso (Dauerfleisch). Varianty s trvanlivou vařenou klobásou (do hotové polévky, krátce svařit) a konzervovaným masem (až těsně před podáním, jen prohřát) jsou vynechány. Zdroj tuto základní polévku s masem dává bez zeleniny.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 23,
+    "code": "Grundgericht (tišt. s. 42)",
+    "titleOriginal": "Wehrmachtsuppenkonserve und frisches Rind- oder Schweinefleisch oder Dauerfleisch"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit … Salz und Majoran."
+}

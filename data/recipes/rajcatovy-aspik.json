@@ -1,0 +1,137 @@
+{
+  "id": "rajcatovy-aspik",
+  "title": "Rajčatový aspik",
+  "titleOriginal": "Tomato Aspic",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zelatina",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 75,
+      "unit": "ml",
+      "note": "studená, na namočení želatiny"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 580,
+      "unit": "g",
+      "note": "celá konzerva i se šťávou, vařená a přecezená"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 6,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 9,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.2,
+      "unit": "ks"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájený, listy i stonky"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 30,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 55,
+      "unit": "g",
+      "note": "na podávání, nahrubo nakrájený"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 75,
+      "unit": "ml",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zalij želatinu studenou vodou a nech 10 minut nabobtnat.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím nahrubo nakrájej salát.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "V hrnci smíchej rajčata, cibuli, sůl, cukr, bobkový list a celer.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu a vař 10 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Sundej z ohně a přeceď přes sítko, šťávu si nech.",
+      "minutes": 2
+    },
+    {
+      "text": "Do horké šťávy vmíchej nabobtnalou želatinu a míchej, dokud se úplně nerozpustí.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej ocet a nalij do formy do výšky asi 4 cm.",
+      "minutes": 2
+    },
+    {
+      "text": "Nech v lednici ztuhnout, nejméně 4 hodiny."
+    },
+    {
+      "text": "Nakrájej na čtverce o straně 6,4 cm.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej na listech salátu s majonézou."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí z 5 galonů (asi 190 ml na porci); porce je čtverec 2½ palce, v nádobě 1½ palce hluboké, tedy asi 150 ml – rozdíl je ztráta při krájení a bilance ~1,2× je v pořádku. Rajčata jsou celá konzerva (31 lb 14 oz) vařená a přecezená, šťáva zůstává v aspiku; přecezená dužina je v mase receptu zahrnuta, jak ji zdroj počítá. Sůl (6 g) je přes třídu seasoning vyšší než lineárně (3,4 g) – doporučuji ubrat na polovinu. Cukr je jako sůl seasoning, protože jde o slané jídlo. Zdroj nedává dobu ztuhnutí; odhadnuto na 4 hodiny v lednici. Salát a majonéza jsou z poznámky ke zdroji („serve on lettuce with mayonnaise“, 3 lb salátu a ½ galonu majonézy na 100 porcí). Bobkový list: 3 lístky na 100 porcí = 0,2 ks na 4 porce (třída seasoning, ×0,0648).",
+  "source": {
+    "book": "navy-1944",
+    "page": 205,
+    "titleOriginal": "TOMATO ASPIC"
+  },
+  "verified": true
+}

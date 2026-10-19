@@ -1,0 +1,36 @@
+{
+  "id": "grilovany-holub",
+  "title": "Grilované křepelky (na způsob holoubat)",
+  "titleOriginal": "Broiled Pigeon (Piccione in gratella)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["gril", "plotna"],
+  "allergens": ["mleko", "vejce", "lepek"],
+  "ingredients": [
+    { "ingredientId": "krepelka", "amount": 736, "unit": "g", "note": "8 ks celých křepelek (à 120 g), 2 na porci; přepůlit podélně" },
+    { "ingredientId": "olivovy-olej", "amount": 20, "unit": "ml", "note": "na opečení masa na pánvi" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpuštěné, nevařit" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "note": "rozšlehané; stačí i část celého vejce" },
+    { "ingredientId": "strouhanka", "amount": 40, "unit": "g", "note": "jemně mletá" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Křepelky podélně přepůl a lehce je rozplácni dlaněmi.", "minutes": 5 },
+    { "text": "Na oleji je opeč jen chvíli, aby maso ztuhlo.", "minutes": 5 },
+    { "text": "Horké křepelky osol a opepři." },
+    { "text": "Máslo rozpusť na mírném ohni, nevař ho.", "minutes": 3 },
+    { "text": "Rozšlehej vejce a vmíchej do rozpuštěného másla.", "minutes": 2 },
+    { "text": "Každou křepelku namoč v másle s vejcem a nech ji, dokud nenasaje.", "minutes": 5 },
+    { "text": "Obal je v jemně mleté strouhance.", "minutes": 3 },
+    { "text": "Polož je na gril a griluj na mírném ohni, dokud nejsou propečené.", "minutes": 12 },
+    { "text": "Podávej s omáčkou nebo přílohou." }
+  ],
+  "modernNote": "Zdroj uvádí suroviny jen slovně a nedává porce. Holub se nahrazuje křepelkami (holub v katalogu není), takže původní holub není založen, jen tu zmíněn: 8 křepelek à 120 g celých, 2 na porci, každá přepůlená podélně (jako holub v originále, jeden holub na dvě poloviny). Odhad z běžné praxe pro 4 porce: olivový olej 20 ml na opečení (část zůstane v pánvi), máslo 40 g, 1 vejce (stačí část), strouhanka 40 g, sůl 4 g, pepř 1 g. Doba grilování 12 minut je odhad, zdroj ji neuvádí. Equipment gril a plotna: opékání na pánvi je na plotně. Zdroj uvádí podávání s omáčkou nebo přílohou, přílohu nevybírám.",
+  "source": { "book": "italian-1919", "page": 110, "titleOriginal": "Broiled Pigeon (Piccione in gratella)" },
+  "verified": false,
+  "quote": "Take a young, but fat pigeon, divide it in two parts lengthwise and flatten it well with the hands."
+}

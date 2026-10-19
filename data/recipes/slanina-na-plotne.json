@@ -1,0 +1,54 @@
+{
+  "id": "slanina-na-plotne",
+  "title": "Slanina na plotně",
+  "titleOriginal": "Griddle-Broiled Bacon",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "spek",
+      "amount": 454,
+      "unit": "g",
+      "note": "syrová, bez kůže"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odstraň kůži z plátů slaniny a odřízni co nejméně tuku. Nakrájej slaninu na plátky tlusté asi 3 mm.",
+      "minutes": 5
+    },
+    {
+      "text": "Rozehřej pánev na mírném ohni.",
+      "minutes": 3
+    },
+    {
+      "text": "Smaž slaninu v několika dávkách pomalu a otáčej ji, dokud nebude křupavá, ale ne lámavá. Teplota musí zůstat pod bodem kouření tuku.",
+      "minutes": 15
+    },
+    {
+      "text": "Vyjmi slaninu z tuku a osuš ji na papírové utěrce.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej hned."
+    }
+  ],
+  "modernNote": "Zdroj počítá 25 liber syrové slaniny na 100 porcí; porce „approx. 2 ounces“ je už usmažená. Při smažení odteče zhruba polovina hmotnosti (tuk), proto 4 porce vycházejí z 450 g syrové slaniny (asi 113 g syrové na porci). Bilance 113 g vs. 57 g (poměr 1,98) je tedy záměrná: nálezem bilance porovnáváme syrovou a hotovou hmotnost. Kcal jsou počítány ze syrové hmotnosti, po odlití tuku bude reálný příjem nižší. Variace ze zdroje: pečení v troubě na plechu při 175 °C (350 °F), bez obracení, dokud nedosáhne požadované hnědosti. Zdroj doporučuje podávat s vejci, omeletou, palačinkami nebo bramborami. Zdroj nepřidává sůl ani tuk na smažení.",
+  "source": {
+    "book": "navy-1944",
+    "page": 153,
+    "titleOriginal": "GRIDDLE-BROILED BACON"
+  },
+  "verified": true,
+  "quote": "Broil slowly on heated griddle. Turn until crisp, but not brittle."
+}

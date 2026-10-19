@@ -1,0 +1,38 @@
+{
+  "id": "zapekane-makarony-se-syrem-a-rajcaty",
+  "title": "Zapékané makarony se sýrem a rajčaty",
+  "titleOriginal": "Macaroni with Tomatoes and Cheese",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "celer"],
+  "ingredients": [
+    { "ingredientId": "rajcata-konzervovana", "amount": 230, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 14, "unit": "g", "group": "Omáčka", "note": "nasekaná" },
+    { "ingredientId": "celer-rapikaty", "amount": 2, "unit": "g", "group": "Omáčka", "note": "listy, nasekané" },
+    { "ingredientId": "cukr-krystal", "amount": 10, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.45, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "maslo", "amount": 13, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cedar", "amount": 75, "unit": "g", "group": "Omáčka", "note": "strouhaný" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "group": "Makarony", "scaling": "vessel", "note": "na vaření, slije se" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Makarony", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "testoviny", "amount": 145, "unit": "g", "group": "Makarony", "note": "makarony" }
+  ],
+  "steps": [
+    { "text": "Rajčata, cibuli, listy celeru, cukr, pepř a sůl vař společně 20 minut. Sundej z ohně.", "minutes": 20 },
+    { "text": "Do horké rajčatové směsi vmíchej máslo a sýr. Míchej, dokud se sýr nerozpustí.", "minutes": 2 },
+    { "text": "Osolenou vodu přiveď k varu.", "minutes": 9, "parallel": true },
+    { "text": "Vsyp makarony a vař 20 minut, nebo dokud nezměknou. Dobře slij.", "minutes": 20, "parallel": true },
+    { "text": "Omáčku smíchej s makarony a dej do vymaštěné zapékací mísy.", "minutes": 3 },
+    { "text": "Peč v troubě na 175 °C 25 minut.", "minutes": 25 }
+  ],
+  "modernNote": "Na s. 36 stojí vedle sebe dvě varianty; tohle je ta s rajčaty (Macaroni with Tomatoes and Cheese, postup na s. 37), čistě sýrová Baked Macaroni and Cheese je jiný recept. Originál počítá s 8 uncemi (zhruba 1 hrnek) na porci, takže vychází jen cca 36 g suchých makaronů na osobu – hodnota ze zdroje je ponechána; jako hlavní jídlo počítej 80–100 g suchých těstovin na osobu a ostatní suroviny úměrně zvyš. Originál uvádí konzervovaná rajčata (2 plechovky No. 10), ta zůstávají. Podle poznámky ve zdroji lze makarony nahradit nudlemi nebo špagetami. Voda na vaření je domácí odhad (1 l na 100 g těstovin), sůl do ní se slije.",
+  "source": { "book": "navy-1944", "page": 36, "titleOriginal": "MACARONI WITH TOMATOES AND CHEESE" },
+  "verified": true,
+  "quote": "Noodles or spaghetti may be used in place of macaroni."
+}

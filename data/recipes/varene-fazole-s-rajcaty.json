@@ -1,0 +1,114 @@
+{
+  "id": "varene-fazole-s-rajcaty",
+  "title": "Vařené fazole s rajčaty a slaninou",
+  "titleOriginal": "Boiled Navy, Kidney or Lima Beans, I",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "tabor",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 180,
+      "unit": "g",
+      "note": "sušené navy fazole; kidney nebo lima dávají stejný výsledek"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "vroucí voda na zalití; namáčecí voda se nevypouští a zůstává v jídle (zdroj neuvádí množství)"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 60,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.41,
+      "unit": "g",
+      "note": "1 lžíce ≈ 6,3 g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "note": "1 lžička ≈ 2,3 g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přeber fazole a důkladně je opláchni.",
+      "minutes": 5
+    },
+    {
+      "text": "Namoč je ve studené vodě na 6 hodin."
+    },
+    {
+      "text": "Nescedí se. Zalij je vroucí vodou, aby byly zakryté, a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Nech je asi 1 hodinu podvářet, dokud nejsou měkké, ale ne rozvařené.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím na pánvi opékej spek s cibulí, dokud lehce nezhnědnou.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím přidej do opečené směsi rajčata, cukr, hořčici, sůl a pepř.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Smíchej rajčatovou směs s fazolemi a duš 20 až 30 minut.",
+      "minutes": 25
+    }
+  ],
+  "modernNote": "Zdroj je varianta I pro navy, kidney nebo lima fazole; recept používá navy (bílé) fazole, u kidney nebo lima stejný postup. Namáčení 6 hodin, tag pripravit-predem; čas vaření počítá od zalití vroucí vodou. Namáčecí voda se podle zdroje nevypouští, proto zůstává v jídle jako voda linear. Místo cukru lze použít 1 pint kukuřičného sirupu (podle zdroje). Porce 5 oz (asi 2/3 cupu).",
+  "source": {
+    "book": "navy-1944",
+    "page": 260,
+    "titleOriginal": "BOILED NAVY, KIDNEY OR LIMA BEANS, I"
+  },
+  "verified": true,
+  "quote": "Let simmer about 1 hour until tender but not mushy."
+}

@@ -1,0 +1,158 @@
+{
+  "id": "makarony-se-syrem-creole",
+  "title": "Makarony s mletým masem a rajčaty (Creole)",
+  "titleOriginal": "Creole Macaroni (Ground Beef)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 230,
+      "unit": "ml",
+      "note": "do omáčky, zůstává v jídle",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 140,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 120,
+      "unit": "g",
+      "note": "krájená, scezená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 6,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.69,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.61,
+      "unit": "g",
+      "note": "sušený, mletý",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bazalka-susena",
+      "amount": 0.69,
+      "unit": "g",
+      "note": "drcená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "červená mletá (kajenský typ); pro děti méně",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.23,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 110,
+      "unit": "g",
+      "note": "kolínka, suché",
+      "group": "Těstoviny"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření těstovin; slije se (domácí hodnota 1 l na 100 g)",
+      "group": "Těstoviny",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření těstovin, slije se",
+      "group": "Těstoviny",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 200,
+      "unit": "g",
+      "note": "zhnědnout, tuk slít",
+      "group": "Maso a sýr"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 18,
+      "unit": "g",
+      "note": "strouhaný; zdroj americký sýr, v katalogu použit čedar",
+      "group": "Maso a sýr"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej vodu, rajčatový protlak, rajčata, papriku, cibuli, cukr, sůl, černý pepř, česnek, bazalku, pálivou papriku a tymián. Dobře promíchej, přiveď k varu, sniž teplotu, přikryj a duš 10–15 minut, dokud omáčka nezhoustne.", "minutes": 20 },
+    { "text": "Do osolené vody vsyp těstoviny, za stálého míchání přiveď k varu a vař 10 minut. Občas zamíchej a dobře sceď. Nepřevař.", "minutes": 18, "parallel": true },
+    { "text": "Hovězí maso osmahni na pánvi, dokud nebude bez růžové barvy. Přebytečný tuk slij nebo sejmi.", "minutes": 10, "parallel": true },
+    { "text": "Smíchej maso, omáčku a těstoviny. Dobře promíchej.", "minutes": 3 },
+    { "text": "Směs přelož do žáruvzdorné mísy nebo pekáče." },
+    { "text": "Posyp strouhaným sýrem." },
+    { "text": "Zapékej v troubě s horkovzduchem při 165 °C asi 20 minut, dokud směs nebublá a sýr se nerozpustí.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj je armádní recept na 100 porcí po 1 šálku; přepočet na 4 porce podle hmotností ze zdroje. Vodu na vaření těstovin (zdroj 33,5 lb na 100 porcí, slévá se) nahrazuje domácí hodnota 1 l na 110 g těstovin. Americký sýr v katalogu chybí, použit čedar. Pro děti pálivou papriku snížit nebo vynechat (doporučení). Tag tabor recept nemá, protože krok 7 vyžaduje troubu; bez trouby lze po kroku 4 podávat posypané sýrem a nechat jej rozpustit pod pokličkou (doporučení, není ve zdroji). Tag kotlik platí pro tuto variantu bez zapékání: těstoviny a maso dovař v kotlíku a sýr vmíchej na konci, až je směs horká (doporučení, není ve zdroji). Maso (200 g) a těstoviny (110 g) na 4 porce odpovídají zdroji (11 lb a 6 lb na 100 porcí), tedy cca 50 g masa a 27 g těstovin na porci; je to pod běžným rozsahem, ale ponechávám podle zdroje. Kcal na porci vypočtené z katalogu cca 255 oproti zdroji 267.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 806,
+    "code": "L 064 00",
+    "titleOriginal": "CREOLE MACARONI (GROUND BEEF)"
+  },
+  "verified": true,
+  "quote": "Do not overcook."
+}

@@ -1,0 +1,102 @@
+{
+  "id": "rajcatova-polevka-s-ryzi",
+  "title": "Rajčatová polévka s rýží",
+  "titleOriginal": "Tomato Rice Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 3,
+      "unit": "g",
+      "note": "na restování; zdroj uvádí ztužený rostlinný tuk",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 3,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 490,
+      "unit": "ml",
+      "note": "vývar z bujónu podle návodu na obalu"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "vroucí; na přípravu vývaru"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1.15,
+      "unit": "ks",
+      "note": "vyjmout před podáváním"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 6,
+      "unit": "g",
+      "note": "vyvažuje kyselost rajčat"
+    },
+    {
+      "ingredientId": "ryze-hneda",
+      "amount": 25,
+      "unit": "g",
+      "note": "dlouhozrnná"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 540,
+      "unit": "g",
+      "note": "kostky z konzervy, včetně nálevu"
+    }
+  ],
+  "steps": [
+    { "text": "Na hrnci rozehřej olej a restuj cibuli a celer 5 minut za častého míchání.", "minutes": 5 },
+    { "text": "Připrav vývar z vroucí vody a hovězího vývaru podle návodu na obalu a přilij ho k restované cibuli a celeru.", "minutes": 3 },
+    { "text": "Přidej bobkový list, pepř a cukr a zamíchej.", "minutes": 2 },
+    { "text": "Přidej rýži. Přikryj, přiveď k varu, sniž plamen a vař 25 minut, dokud rýže nezměkne.", "minutes": 25 },
+    { "text": "Přidej rajčata a dobře promíchej. Přikryj, přiveď k varu, sniž plamen a vař 5 minut. Vyjmi bobkový list.", "minutes": 5 }
+  ],
+  "modernNote": "Vývar 3 gal 1 qt na 100 porcí; vařící voda 1 qt je na přípravu vývaru. Ztužený rostlinný tuk nahrazen řepkovým olejem. Cukr odpovídá poměru zdroje (5¼ oz na 29⅞ lb rajčat, cca 1,1 %), slouží k vyvážení kyselosti konzervovaných rajčat. Doporučení: ochutnej a případně uprav cukrem nebo solí podle chuti. Doba vaření rýže je převzata ze zdroje (25 min); u hnědé rýže může být potřeba déle, doporučení: ověř měkkost. Recept obsahuje hovězí vývar, proto nemá tag bez-masa. Porce zdroje je 1 cup (asi 240 ml), tedy menší porce polévky, než doporučují pravidla (300–400 ml); zde vychází asi 300 g na porci.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1398,
+    "code": "P 006 01",
+    "titleOriginal": "TOMATO RICE SOUP"
+  },
+  "verified": true
+}

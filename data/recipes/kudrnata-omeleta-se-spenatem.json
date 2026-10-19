@@ -1,0 +1,114 @@
+{
+  "id": "kudrnata-omeleta-se-spenatem",
+  "title": "Kudrnatá omeleta se špenátem",
+  "titleOriginal": "Curled Omelet (Frittata in riccioli)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "spenat",
+      "amount": 300,
+      "unit": "g",
+      "group": "Omeleta",
+      "note": "syrový, před vařením; barvivo a příměs do vajec"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "group": "Omeleta",
+      "scaling": "vessel",
+      "note": "jen na vymazání pánve"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Proužky",
+      "note": "na opečení proužků"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 20,
+      "unit": "g",
+      "group": "Proužky",
+      "note": "nastrouhaný"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Špenát blanšíruj ve vroucí vodě do změknutí, sceď a přetři sítem.",
+      "minutes": 10
+    },
+    {
+      "text": "Vejce rozšlehej, osol a opepři.",
+      "minutes": 2
+    },
+    {
+      "text": "Do vajec přimíchej tolik špenátového pyré, aby byla vejce zelená.",
+      "minutes": 2
+    },
+    {
+      "text": "Pánev rozehřej a lehce ji vymaž olejem.",
+      "minutes": 2
+    },
+    {
+      "text": "Na horkou pánev nalej část vaječné směsi a pánví roztoč tak, aby vznikla velmi tenká omeleta.",
+      "minutes": 2
+    },
+    {
+      "text": "Hotovou omeletu vyndej a postup opakuj, dokud není všechna směs použita.",
+      "minutes": 6
+    },
+    {
+      "text": "Omelety polož na sebe a nakrájej na tenké proužky.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej máslo, osmaž v něm proužky dozlatova a přidej nastrouhaný parmezán.",
+      "minutes": 6
+    },
+    {
+      "text": "Podávej jako přílohu k telecímu fricandeau nebo podobnému jídlu."
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství ani počet porcí. Ze dvou vajec z textu jsou pro 4 porce 4 vejce (1 vejce na porci jako přídavek k masu). Špenát 300 g syrového (75 g na porci): je to barvivo a příměs do vajec, ne příloha, proto nedosahuje běžných 150–200 g na porci. Máslo 20 g na opečení proužků a parmezán 20 g („a little grated cheese“, odhad). Olej 5 ml jen na vymazání pánve, sůl 2 g, černý pepř 0,5 g. Voda na blanšírování špenátu není ve zdroji uvedena a v receptu nemá množství. Špenát dobře vymačkej, jinak vejce zředí. Čas 35 minut je odhad. Kapitola je příloha, protože zdroj omeletu podává jako přílohu k telecímu fricandeau (ne jako samostatné bezmasé jídlo).",
+  "source": {
+    "book": "italian-1919",
+    "page": 51,
+    "titleOriginal": "CURLED OMELET (Frittata in riccioli)"
+  },
+  "verified": false,
+  "quote": "Put these one over the other and cut them in small strips that are to be browned in butter."
+}

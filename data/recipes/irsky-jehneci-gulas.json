@@ -1,0 +1,41 @@
+{
+  "id": "irsky-jehneci-gulas",
+  "title": "Irský jehněčí guláš",
+  "titleOriginal": "Irish Lamb Stew",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 185,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 730, "unit": "g", "note": "s kostí; zdroj: bone-in 40 lb (alternativa boneless 28 lb)" },
+    { "ingredientId": "sul", "amount": 11, "unit": "g", "note": "do guláše; zdroj 6 oz (¾ cup)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g", "note": "do guláše; zdroj ½ oz" },
+    { "ingredientId": "cibule", "amount": 120, "unit": "g", "note": "část nakrájená do masa, část na čtvrtky do zeleniny; zdroj 8 oz + 6 lb" },
+    { "ingredientId": "hovezi-vyvar", "amount": 450, "unit": "ml", "note": "zdroj: Meat Stock (s. 216) nebo voda; 3 gal" },
+    { "ingredientId": "brambory", "amount": 220, "unit": "g", "note": "kostky; zdroj 12 lb" },
+    { "ingredientId": "mrkev", "amount": 145, "unit": "g", "note": "kousky 1–2 palce; zdroj 8 lb" },
+    { "ingredientId": "hrasek", "amount": 90, "unit": "g", "note": "čerstvý nebo mražený, na ozdobu; zdroj 5 lb" },
+    { "ingredientId": "hladka-mouka", "amount": 35, "unit": "g", "note": "na jíšku (pastu) pro zahuštění; zdroj 2 lb" },
+    { "ingredientId": "voda", "amount": 55, "unit": "ml", "note": "na pastu z mouky; zdroj 1½ qt" }
+  ],
+  "steps": [
+    { "text": "Jehněčí rozkrájej na kostky o straně 2 až 5 cm.", "minutes": 10 },
+    { "text": "Přidej sůl, pepř a nakrájenou cibuli.", "minutes": 3 },
+    { "text": "Zalij vývarem nebo vodou, přikryj a duš 2 až 2½ hodiny, dokud maso nezměkne.", "minutes": 150 },
+    { "text": "Mezitím oloupej brambory a mrkev, nakrájej je na kusy a cibuli na čtvrtky.", "minutes": 10, "parallel": true },
+    { "text": "Zatímco se maso dusí, přidej do hrnce zeleninu a duš ji 45 až 60 minut, dokud nezměkne.", "minutes": 60, "parallel": true },
+    { "text": "Mezitím v misce rozmíchej mouku s vodou na hladkou pastu.", "minutes": 3, "parallel": true },
+    { "text": "Mezitím uvař hrášek zvlášť do měkka.", "minutes": 10, "parallel": true },
+    { "text": "Sceď vývar z hrnce, zahusť ho pastou a znovu zahřej.", "minutes": 10 },
+    { "text": "Smíchej omáčku s masem a zeleninou.", "minutes": 3 },
+    { "text": "Přiveď k varu a před podáváním ozdob uvařeným hráškem.", "minutes": 5 },
+    { "text": "Podávej." }
+  ],
+  "modernNote": "Maso: zdroj uvádí bone-in 40 lb nebo boneless 28 lb; použit bone-in, protože katalog jehněčí má jen variantu s kostí (ediblePortion 0,77), stejně jako u Dušeného jehněčí. Bilance: 1 857 g surovin na 4 porce proti 227 g hotového guláše na porci (zdroj: Portion 8 oz) – poměr 1,86 (nad doporučených 1,6) je dán tím, že zdroj počítá váhu surovin před vařením (kosti v bone-in mase, které jsou v jedlé části 562 g z 730 g, a odpar během 2½ hodin dušení), kdežto porce 8 oz je hotový guláš; doporučení: porce ponechat na 8 oz nebo počítat s ~300 g. Vývar: „Meat Stock (page 216) or water“ → hovězí vývar z katalogu (kupovaný bujón), ne voda; 3 gal → 450 ml na 4 porce, zůstává v jídle. Sůl: 6 oz na 100 porcí dává přes třídu seasoning 2,75 g soli na porci (~1,2 % hmotnosti); doporučení je solit podle chuti a ubrat přibližně třetinu. Hrášek: zdroj 5 lb bez udání stavu (čerstvý, mražený); uvedeno jako hrášek 90 g pro 4 porce, u lusků by bylo potřeba ~1,5 kg. Variace Irish Beef or Veal Stew (hovězí nebo telecí místo jehněčího) není zahrnuta. Zdroj uvádí zeleninu jako volitelnou variantu (tuřín, celer, cuketa…); zařazena je základní varianta (brambory, cibule, mrkev, hrášek).",
+  "source": { "book": "navy-1944", "page": 137, "titleOriginal": "IRISH LAMB STEW" },
+  "verified": true
+}

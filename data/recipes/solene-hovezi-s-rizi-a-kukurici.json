@@ -1,0 +1,93 @@
+{
+  "id": "solene-hovezi-s-rizi-a-kukurici",
+  "title": "Solené hovězí s rýží a kukuřicí",
+  "titleOriginal": "Corned Beef Scramble",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 360,
+      "unit": "g",
+      "note": "z konzervy (corned beef), nakrájet nadrobno"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 18,
+      "unit": "g",
+      "note": "1 lb na 100 porcí; nasekat nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "1 lb na 100 porcí; nasekat nadrobno"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 13,
+      "unit": "g",
+      "note": "na opečení na pánvi",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 13,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 240,
+      "unit": "g",
+      "note": "scezená, z konzervy (zdroj 13 lb 4 oz scezené kukuřice)"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 175,
+      "unit": "g",
+      "note": "syrová; zdroj 27 lb uvařené rýže, syrová ≈ 9,6 lb (Boiled Rice s. 25: 10 lb syrové = asi 28 lb uvařené)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "na vaření rýže, slije se (domácí hodnota 1 l na 100 g rýže)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření rýže, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu se solí k varu.", "minutes": 9 },
+    { "text": "Mezitím nasekej nadrobno hovězí solené, zelenou papriku a cibuli.", "minutes": 6, "parallel": true },
+    { "text": "Rýži opláchni, vsyp do vroucí vody a vař do měkka. Nemíchej.", "minutes": 20 },
+    { "text": "Mezitím na pánvi rozehřej tuk a opékej hovězí s cibulí a paprikou, dokud hovězí nezhnědne. Občas zamíchej.", "minutes": 10, "parallel": true },
+    { "text": "Sceď rýži a opláchni horkou vodou.", "minutes": 2 },
+    { "text": "Vmíchej kukuřici a rýži a důkladně prohřej. Je-li třeba, přidej trochu nálevu z kukuřice.", "minutes": 5 },
+    { "text": "Podávej v hromádkách." }
+  ],
+  "modernNote": "Zdroj (Navy 1944, PDF 132 = tištěná strana 124) je Corned Beef Scramble na 100 porcí, čísla přečtena z obrázku: 20 lb konzervy corned beef, 1 lb zelené papriky, 1 lb cibule, 8 oz roztopeného tuku, 13 lb 4 oz scezené kukuřice, 27 lb uvařené rýže. Recept neobsahuje vejce; název podle shortlistu „Míchaná vejce“ byl nepřesný, id i titul byly přejmenovány podle obsahu. Corned beef je konzerva → `hovezi-solene` (z konzervy). Tuk na opékání na pánvi je třídy `fat` (repkový olej, původně sádlo). Rýže „Rice, cooked (page 25)“ odkazuje na Boiled Rice (Navy, tištěná 25 = PDF 33; recept varena-ryze); zdroj udává uvařenou hmotnost, do receptu je dána syrová rýže podle poměru z Boiled Rice (10 lb syrové na asi 28 lb uvařené; 27 lb ≈ 9,6 lb na 100 porcí, 175 g na 4 porce; odhad, proto verified false). Voda na vaření rýže je domácí hodnota 2 l (1 l na 100 g syrové rýže, zaokrouhleno po 0,5 l) se solí 4 g (2 g/l), obojí se slévá. Čas 40 minut: vaření rýže 20 minut je zkrácené proti zdroji (kuchyňský postup 25–30 minut); kroky se souběžně připravují během vaření. Kukuřici z konzervy je možné vynechat nebo nahradit mraženou. Nálev z kukuřice je volitelný podle konzistence.",
+  "source": {
+    "book": "navy-1944",
+    "page": 132,
+    "titleOriginal": "CORNED BEEF SCRAMBLE"
+  },
+  "verified": false,
+  "quote": "Chop together corned beef, green peppers and onions."
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "slavky",
+    "name": "Slávky (mušle) čerstvé",
+    "aliases": [
+      "slávky",
+      "mušle",
+      "musle",
+      "mušle čerstvé",
+      "mussels",
+      "blue mussels"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 86,
+      "protein": 11.9,
+      "carbs": 3.69,
+      "fat": 2.24,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.3,
+    "allergens": ["mekkysi"],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174216 (Mollusks, mussel, blue, raw); hodnoty na jedlou část (maso)",
+      "refuse": "odhad ediblePortion 0,3: skořápka tvoří asi 70 % nákupní hmotnosti (zadáno v ose G12)"
+    }
+  }
+]

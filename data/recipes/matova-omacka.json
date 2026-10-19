@@ -1,0 +1,50 @@
+{
+  "id": "matova-omacka",
+  "title": "Mátová omáčka",
+  "titleOriginal": "Mint Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 135,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "mata",
+      "amount": 16,
+      "unit": "g",
+      "note": "čerstvá, nasekaná nadrobno; zdroj uvádí jen objem (½ galonu), hmotnost odhadnuta 2 g na lžíci"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 145,
+      "unit": "ml",
+      "note": "kvasný ocet"
+    }
+  ],
+  "steps": [
+    { "text": "Odstraň z máty stonky a staré listy a pořádně ji omyj.", "minutes": 5 },
+    { "text": "Nech ji odkapat, nasekej nadrobno a vmíchej cukr.", "minutes": 7 },
+    { "text": "Nech stát 30 až 60 minut.", "minutes": 60 },
+    { "text": "Přidej ocet.", "minutes": 1 },
+    { "text": "Nech stát alespoň hodinu před podáváním.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj počítá na 1 galon omáčky pro 100 porcí (porce 2 polévkové lžíce, asi 30 ml). Máta je ve zdroji jen objemem (½ galonu nasekané máty), hmotnost je odhad z katalogu (2 g na lžíci), proto verified false. Pokud je ocet příliš silný, zřeď ho vodou (zdroj). Zdroj ji doporučuje k jehněčímu; místo máty lze použít rybízový nebo mátový želé (zdroj, poznámka 3). Doba stání (30–60 minut, pak alespoň hodina) je ve zdroji, proto timeMinutes 135 a tag rychle není. Nález kalorií (33 kcal na porci) je věcně v pořádku: omáčka je ocet s cukrem a mátou, porce je 30 ml. Bilance 47 g surovin na porci proti 1 oz zdroje (28 g) je kvůli odhadnuté hmotnosti máty a cukru v ocetu, u husté omáčky v pořádku.",
+  "source": {
+    "book": "navy-1944",
+    "page": 186,
+    "titleOriginal": "MINT SAUCE"
+  },
+  "verified": false,
+  "quote": "An excellent sauce for lamb."
+}

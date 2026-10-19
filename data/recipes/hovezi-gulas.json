@@ -1,0 +1,38 @@
+{
+  "id": "hovezi-gulas",
+  "title": "Hovězí guláš",
+  "titleOriginal": "Hungarian Goulash",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 540, "unit": "g", "note": "libové, nakrájené na kostky", "group": "Guláš" },
+    { "ingredientId": "voda", "amount": 190, "unit": "ml", "note": "horká", "group": "Guláš" },
+    { "ingredientId": "cibule", "amount": 135, "unit": "g", "note": "nasekaná", "group": "Guláš" },
+    { "ingredientId": "sladka-paprika", "amount": 7, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "cesnek-prasek", "amount": 2, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "tymian-susity", "amount": 0.6, "unit": "g", "group": "Guláš" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "studená", "group": "Zahuštění" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "group": "Zahuštění" },
+    { "ingredientId": "vajecne-nudle", "amount": 165, "unit": "g", "group": "Nudle" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "na vaření nudlí; slije se (domácí hodnota 1 l na 100 g)", "scaling": "vessel", "group": "Nudle" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel", "group": "Nudle" }
+  ],
+  "steps": [
+    { "text": "Maso, horkou vodu, cibuli, papriku, sůl, česnek v prášku, pepř a tymián dej do hrnce a přiveď k varu.", "minutes": 8 },
+    { "text": "Sniž plamen, přikryj a duš asi 2 hodiny, dokud maso nezměkne. Sesbírej z povrchu přebytečný tuk.", "minutes": 120 },
+    { "text": "Studenou vodu smíchej s moukou do hladka, vmíchej do masa. Přiveď k varu, sniž plamen a vař 10 minut, dokud nezhoustne.", "minutes": 15 },
+    { "text": "Nudle vsyp do vroucí osolené vody za stálého míchání, vař 8–10 minut a občas zamíchej. Nepřevař, dobře sceď.", "minutes": 10, "parallel": true },
+    { "text": "Podávej guláš s nudlemi." }
+  ],
+  "modernNote": "Doporučení: omáčka je podle zdroje hustá, podle potřeby dolij vodu. Nudle jsou 165 g suchých, tj. asi 41 g na porci (zdroj: 9 lb na 100 porcí). Vodu na nudle zdroj uvádí pro 100 porcí; zde je domácí hodnota 1,5 l.",
+  "source": { "book": "afrs-2003", "page": 808, "code": "L 065 00", "titleOriginal": "HUNGARIAN GOULASH" },
+  "verified": true
+}

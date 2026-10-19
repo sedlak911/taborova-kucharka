@@ -1,0 +1,93 @@
+{
+  "id": "zeli-s-bramborami",
+  "title": "Zelí s bramborami",
+  "titleOriginal": "Wirsing- oder Weißkohl oder Grünkohl mit Kartoffeln",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 175,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 800,
+      "unit": "g",
+      "note": "ve zdroji 600 g na hlavu neočištěného; místo něj lze kadeřavé zelí (Wirsing) nebo kadeřávek (Grünkohl)"
+    },
+    {
+      "ingredientId": "kmin-cely",
+      "amount": 2,
+      "unit": "g",
+      "note": "zdroj: „etwas Kümmel“, odhad"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí (nebo vepřové); zdroj uvádí jen „Fleisch“ bez množství, odhad"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "odhad: zdroj říká jen „in kochendes Wasser geben“"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "čerstvé, oloupané a nakrájené (750 g na hlavu ve zdroji)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“; na konec dochuť"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj uvádí jen „Petersilie“ k dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a trochu soli a vař asi 1,5 hodiny.",
+      "minutes": 90
+    },
+    {
+      "text": "Přidej nakrájené zelí s kmínem a vař asi 30 minut.",
+      "minutes": 30
+    },
+    {
+      "text": "Přidej brambory a vař dohotova, asi dalších 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Dochuť solí a petrželkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 600 g bílého zelí, 750 g brambor na muže; zde 200 g bílého zelí a 200 g brambor na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj neuvádí množství masa, vody ani soli: 400 g hovězího (~100 g na porci), 1,5 l vody a 8 g soli jsou odhady, proto verified: false. Vepřové maso se podle zdroje vaří jen 45 minut místo 90. Sušená zelenina (30 g) a sušené brambory (75 g na osobu) se nepoužívají (v tom případě se vodou z namáčení nahradí část vody). Kochdauerwurst se dává do hotového jídla, krátce se prohřeje a nevaří se; Konservenfleisch se vmíchá až těsně před podáváním a jen se v jídle prohřeje. Kmín je odhad (zdroj: „etwas Kümmel“, 2 g). Zdroj doporučuje na dochucení i kvasnicový extrakt (Hefeextrakt) – volitelně polévková koření Vegeta apod.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 17,
+    "code": "Grundgericht (tišt. 30)",
+    "titleOriginal": "Wirsing- oder Weißkohl oder Grünkohl mit Kartoffeln"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz und Petersilie. (Hefeextrakt)."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "pecene-solene-hovezi",
+  "title": "Pečené solené hovězí",
+  "titleOriginal": "Corned Beef, Baked",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 640,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 100,
+      "unit": "ml",
+      "note": "zdroj neuvádí množství, jen „tolik, aby zakryl dno pekáče“ – odhad",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 160 °C."
+    },
+    {
+      "text": "Ulož solené hovězí do pekáčů.",
+      "minutes": 3
+    },
+    {
+      "text": "Podlij vývarem tak, aby zakryl dno pekáče.",
+      "minutes": 2
+    },
+    {
+      "text": "Pekáče přikryj a peč 30 minut.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5–6 oz; hovězí je z konzervy 35 lb (přepočet na 4 porce dává 640 g, tedy cca 160 g na porci, což sedí na 5–6 oz ve zdroji). Konzervované solené hovězí je už hotové, pečení ho jen prohřeje a zahřeje. Množství vývaru zdroj neuvádí (Beef Stock, p. 216, je bez hmotnosti i objemu), proto 100 ml pro 4 porce odhadem (cca 2,5 l na 100 porcí, „tolik, aby zakryl dno pekáče“); verified false. Zdroj dovoluje místo vývaru barbecue omáčku (p. 172), tu nepřidávám. Čas 30 minut odpovídá zdroji (325 °F = 160 °C, 30 minut); předehřátí trouby je v timeMinutes. Kroky „přikryj“ a „ulož“ jsou z pokynů zdroje (Cover, Place in roasting pans). Pro lepší propečení a krájení nech maso před krájením chvíli odpočinout pod alobalem. Sůl se v receptu nepoužívá, protože je již v konzervě.",
+  "source": {
+    "book": "navy-1944",
+    "page": 131,
+    "titleOriginal": "CORNED BEEF, BAKED"
+  },
+  "verified": false
+}

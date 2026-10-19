@@ -1,0 +1,75 @@
+{
+  "id": "pudink-z-prazenych-mandli",
+  "title": "Pudink z pražených mandlí",
+  "titleOriginal": "Pudding of Roasted Almonds (Budino di mandorle tostate)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "kotlik",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 950,
+      "unit": "ml",
+      "note": "zdroj 1 quart"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 100,
+      "unit": "g",
+      "note": "část na karamel do formy, zbytek do mléka"
+    },
+    {
+      "ingredientId": "mandle-blansovane",
+      "amount": 55,
+      "unit": "g",
+      "note": "bez slupky, opražené a jemně umleté"
+    },
+    {
+      "ingredientId": "piskoty",
+      "amount": 55,
+      "unit": "g",
+      "note": "lady-finger biscuits (savoiardi), na kousky"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    { "text": "Na suché pánvi opraž mandle dozlatova a nech je vychladnout.", "minutes": 5 },
+    { "text": "V hrnci zahřej mléko se zbylým cukrem a rozlámanými piškoty.", "minutes": 8 },
+    { "text": "Mezitím ve formě na dně rozpusť část cukru na karamel a dno pokryj tenkým filmem.", "minutes": 5, "parallel": true },
+    { "text": "Vař za stálého míchání, dokud se piškoty úplně nerozpadnou a směs nezhoustne.", "minutes": 30 },
+    { "text": "Směs protlač přes síto do čisté misky a přimíchej umleté mandle.", "minutes": 3 },
+    { "text": "Nech směs úplně vychladnout.", "minutes": 15 },
+    { "text": "Vmíchej rozšlehaná vejce.", "minutes": 2 },
+    { "text": "Naplň formu a postav ji do hrnce s vroucí vodou tak, aby voda sahala do poloviny formy." },
+    { "text": "Vař ve vodní lázni na mírném ohni, dokud pudink neztuhne.", "minutes": 35 },
+    { "text": "Vyjmi formu, nech pudink vychladnout a vychlaď ho v lednici, aby úplně ztuhl." },
+    { "text": "Podávej studený." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 205) uvádí 1 quart mléka (946 ml), 3,5 oz cukru (99 g), 2 oz loupaných mandlí (57 g), 2 oz lady-finger piškotů (57 g) a 3 vejce; množství je ověřeno proti obrázku stránky. Porce kniha neudává, proto je recept počítán jako 4 porce bez přepočtu (950 ml mléka = asi 240 ml na porci, bohatý dezert; při 6 porcích stačí 2/3 množství). Mandle: zdroj je loupe horkou vodou, zde použity blanšírované (bez slupky) a opražené doma na suché pánvi. Cukr: část (odhad asi třetina) na karamel do formy, zbytek do mléka. Zdroj nedává dobu vaření ve vodní lázni ani teplotu; 35 minut je odhad (pudink má mírně probublávat, ne vřít). Chlazení v lednici do ztuhnutí je odhad alespoň 4 hodiny (tag pripravit-predem), není započítáno do timeMinutes. Zdroj pudink peče ve „vodní lázni“ v hrnci (double boiler); zde je to hrnec na plotně, ne trouba. Čas 105 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 147,
+    "titleOriginal": "PUDDING OF ROASTED ALMONDS (Budino di mandorle tostate)"
+  },
+  "verified": false
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chuck-wagon-gulas-s-fazolemi",
+  "title": "Kovbojský guláš s fazolemi",
+  "titleOriginal": "Chuck Wagon Stew (Beans with Beef)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete", "amount": 270, "unit": "g", "note": "90% libové" },
+    { "ingredientId": "cibule", "amount": 110, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "paprika-zelena", "amount": 55, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "kecup", "amount": 35, "unit": "g" },
+    {
+      "ingredientId": "fazole-bile-varene",
+      "amount": 740,
+      "unit": "g",
+      "note": "vařené, scezené; energeticky odpovídající náhrada za pečené fazole s vepřovým z konzervy",
+      "original": { "ingredientId": "fazole-bile-v-konzerve", "amount": 970, "unit": "g" }
+    }
+  ],
+  "steps": [
+    { "text": "Hovězí maso s cibulí a paprikou vař za stálého míchání, dokud maso nepřestane být růžové. Rozbíjej ho na drobno.", "minutes": 10 },
+    { "text": "Slij nebo sklim přebytečný tuk.", "minutes": 2 },
+    { "text": "Přidej kečup a vařené fazole a dobře promíchej.", "minutes": 3 },
+    { "text": "Duš 20 minut.", "minutes": 20 }
+  ],
+  "modernNote": "Originál používá konzervované pečené fazole s vepřovým masem (53,5 lb na 100 porcí); nahrazeny vařenými bílými fazolemi v energeticky odpovídajícím množství (740 g místo 970 g, protože vařené fazole bez omáčky mají o třetinu víc kalorií; zhruba 300 g suchých), proto `verified: false`. Suché fazole je nutné předem namočit a uvařit (45 minut v čase počítá s hotovými fazolemi), nebo použij konzervu. Katalogové mleté hovězí je 80/20 (254 kcal/100 g), zdroj má 90% libové, skutečné kcal budou o něco nižší. Nejbližší položka katalogu pro původní konzervu je fazole bílé v konzervě, proto jí odpovídá `original`. Maso 68 g na porci je pod rozsahem 120–200 g, protože zdroj je fazolový guláš (15 lb masa na 100 porcí); množství ponecháno podle zdroje. Doporučení: ochutnej a dochuť solí a pepřem, které zdroj neuvádí.",
+  "source": { "book": "afrs-2003", "page": 1016, "code": "L 167 00", "titleOriginal": "CHUCK WAGON STEW (BEANS WITH BEEF)" },
+  "verified": false
+}

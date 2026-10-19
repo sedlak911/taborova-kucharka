@@ -1,0 +1,42 @@
+{
+  "id": "zapekane-brambory",
+  "title": "Zapékané brambory",
+  "titleOriginal": "Scalloped Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 460, "unit": "g", "note": "oloupané, nakrájené na plátky" },
+    { "ingredientId": "voda", "amount": 500, "unit": "ml", "note": "na vaření brambor; slije se (domácí hodnota asi 1 l na 1 kg brambor)", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "do vody na vaření brambor; slije se", "scaling": "vessel" },
+    { "ingredientId": "repkovy-olej", "amount": 5, "unit": "g", "note": "na vymazání pekáče (zdroj: nepřilnavý sprej; množství odhad)", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 11, "unit": "g", "note": "roztopené; na jíšku", "original": {"ingredientId": "margarin", "amount": 11, "unit": "g"}, "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "note": "na jíšku" },
+    { "ingredientId": "mleko-polotucne", "amount": 300, "unit": "ml", "note": "zahřáté těsně pod bod varu", "original": {"ingredientId": "mleko-susene", "amount": 16, "unit": "g"} },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do omáčky" },
+    { "ingredientId": "pepr-bily", "amount": 0.23, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Brambory zalij osolenou vodou, přiveď k varu a vař 10 minut, dokud nezměknou.", "minutes": 15 },
+    { "text": "Dobře je sceď a rozlož do vymazaného pekáče.", "minutes": 2 },
+    { "text": "Metličkou vmíchej máslo s moukou do hladka.", "minutes": 2 },
+    { "text": "Mléko zahřej těsně pod bod varu, nevař.", "minutes": 3 },
+    { "text": "Mléko přilévej k jíšce za stálého míchání. Přidej sůl a pepř.", "minutes": 3 },
+    { "text": "Vař 10 až 15 minut, dokud omáčka nezhoustne. Podle potřeby míchej.", "minutes": 15 },
+    { "text": "Omáčkou zalij brambory v pekáči." },
+    { "text": "Peč v horkovzdušné troubě na 165 °C asi 30 minut, dokud nezhnědnou.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj peče v konvektomatu (325 °F = 165 °C, horkovzduch). Sušené odtučněné mléko je nahrazeno polotučným: součet ze zdroje (407 g sušeného mléka + 7 106 ml teplé vody = 7 514 ml) dává na 4 porce 300 ml. Zdroj uvádí poměr 1 : 17, běžné rozmíchání je 1 : 9; použit je součet ze zdroje. Margarín nahrazen máslem. Nepřilnavý sprej nahrazen olejem na vymazání pekáče (odhad). Voda na vaření brambor je domácí hodnota (500 ml na 460 g brambor), slévá se.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1583,
+    "code": "Q 053 00",
+    "titleOriginal": "SCALLOPED POTATOES"
+  },
+  "verified": true
+}

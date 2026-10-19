@@ -1,0 +1,106 @@
+{
+  "id": "krupicovy-kolac",
+  "title": "Krupicový koláč",
+  "titleOriginal": "Farina Tart (Torta di semolino)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce",
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "krupice-psenicna",
+      "amount": 65,
+      "unit": "g",
+      "note": "jemně mletá (farina)"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 470,
+      "unit": "ml",
+      "note": "zdroj 1 quart (946 ml), přepočteno ×0,5"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 65,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mandle",
+      "amount": 50,
+      "unit": "g",
+      "note": "neloupané sladké mandle; loupou se v prvním kroku"
+    },
+    {
+      "ingredientId": "horkomandlove-aroma",
+      "amount": 0.1,
+      "unit": "ml",
+      "note": "náhrada za 3 hořké mandle ze zdroje (po půlení asi 2 g); 1 kapka (0,05 ml) na 1 g hořkých mandlí",
+      "original": {
+        "ingredientId": "mandle",
+        "amount": 2,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "kousek; odhad, včetně másla na vymazání formy"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "jen strouhaná kůra"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 5,
+      "unit": "g",
+      "note": "na vysypání formy"
+    }
+  ],
+  "steps": [
+    { "text": "Mandle opař teplou vodou, oloupej a rozemel je s cukrem, který přidávej po lžících, a s hořkomandlovým aromatem.", "minutes": 10 },
+    { "text": "Mléko zahřej v hrnci téměř k varu, zvolna do něj vsyp krupici a za stálého míchání vař, dokud nezhoustne.", "minutes": 10 },
+    { "text": "Mezitím vymaž formu máslem a vysyp ji strouhankou.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej máslo, mandlovou směs, citronovou kůru a sůl, pak hrnec odstav z ohně.", "minutes": 2 },
+    { "text": "Nech směs vychladnout na vlažno.", "minutes": 15 },
+    { "text": "Vejce rozšlehej a vmíchej do vlažné směsi.", "minutes": 3 },
+    { "text": "Směs vlij do formy a rovnoměrně ji rozprostři.", "minutes": 2 },
+    { "text": "Peč v předehřáté troubě na 180 °C, dokud koláč nezezlátne.", "minutes": 35 },
+    { "text": "Vyjmi z formy, až koláč vychladne, a podávej celý nebo nakrájený." }
+  ],
+  "modernNote": "Gentile uvádí suroviny pro jednu dávku bez počtu porcí (4,5 oz krupice, 1 quart mléka, 4,5 oz cukru, 3,5 oz mandlí se 3 hořkými, 4 vejce); dávka vychází na asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8). Odhady z běžné praxe: máslo 10 g (zdroj „small piece“, včetně másla na vymazání formy), strouhanka 5 g na vysypání formy, citron jen kůra asi z čtvrtky plodu, sůl špetka. Hořké mandle nahrazuje hořkomandlové aroma: 1 kapka (0,05 ml) na 1 g hořkých mandlí. Doba pečení 35 minut a čas chlazení jsou odhad (zdroj čas neuvádí; chlazení po vyjmutí není započteno). Sůl je špetka ze zdroje („a pinch“).",
+  "source": {
+    "book": "italian-1919",
+    "page": 143,
+    "titleOriginal": "FARINA TART (Torta di semolino)"
+  },
+  "verified": false
+}

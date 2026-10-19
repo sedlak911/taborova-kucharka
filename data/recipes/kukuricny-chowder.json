@@ -1,0 +1,36 @@
+{
+  "id": "kukuricny-chowder",
+  "title": "Kukuřičný chowder",
+  "titleOriginal": "Corn Chowder",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nasekaná nadrobno" },
+    { "ingredientId": "paprika-zelena", "amount": 9, "unit": "g", "note": "nasekaná nadrobno" },
+    { "ingredientId": "voda", "amount": 75, "unit": "ml", "note": "zůstává v polévce" },
+    { "ingredientId": "kukurice-konzervovana", "amount": 360, "unit": "g", "note": "smetanová (cream style)" },
+    { "ingredientId": "mleko-polotucne", "amount": 530, "unit": "ml" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Cibuli a zelenou papriku nasekej nadrobno.", "minutes": 5 },
+    { "text": "V hrnci přiveď vodu k varu.", "minutes": 3 },
+    { "text": "Přidej cibuli a zelenou papriku a vař asi 30 minut, dokud zelenina nezměkne.", "minutes": 30 },
+    { "text": "Mezitím v druhém hrnci smíchej kukuřici, mléko, sůl a pepř a zahřej do horka.", "minutes": 10, "parallel": true },
+    { "text": "Směs přidej k zelenině s vodou a nech na mírném ohni probublávat 40 minut.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj uvádí kukuřici Cream Style (3 konzervy No. 10 po 19 lb 14 oz) a čerstvé mléko (Milk, liquid 3½ gal); kukuřice je konzervovaná smetanová, mléko polotučné bez úpravy. Zdroj neuvádí slaninu, tuk ani brambory, proto v receptu nejsou. Voda z vaření zeleniny zůstává v polévce (linear). Sůl 4 oz (½ cup) dává přes třídu seasoning 7 g na 4 porce (1,75 g na porci); při chuti ubrat. Pepř (Pepper, 1 tsp) je brán jako černý mletý, zdroj typ neuvádí. Výtěžek 6 gal / porce 1 cup (≈ 96 porcí) je v toleranci 10 %, originalYield zůstává 100. Garnish z originálu (nasekaná petrželka nebo natvrdo uvařená vejce) není v receptu; lze přidat podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 245,
+    "titleOriginal": "Corn Chowder"
+  },
+  "verified": true
+}

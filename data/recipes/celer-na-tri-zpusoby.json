@@ -1,0 +1,100 @@
+{
+  "id": "celer-na-tri-zpusoby",
+  "title": "Celer s máslem a parmazánem",
+  "titleOriginal": "Dressing of Celery (Sedano per contorno)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 700,
+      "unit": "g",
+      "note": "očištěné řapíky bez listů, asi 175 g na porci; zdroj neuvádí množství"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "group": "Blanšírování",
+      "note": "do vody na blanšírování, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "group": "Blanšírování",
+      "note": "do vody, mírně osolené (2 g na 1 l); slije se"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na opečení celeru; zdroj říká jen „in butter“"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "masový vývar (zdroj odkazuje na č. 13); dolévá se a vaří do měkka, množství je odhad"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "note": "strouhaný, na posyp při podávání (asi 10 g na porci)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Velký hrnec mírně osolené vody přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Celer zbav vláken a nakrájej napříč na kusy dlouhé jako prst.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Celer ponoř do vody a vař nejvýše 5 minut.",
+      "minutes": 5
+    },
+    {
+      "text": "Sceď a osuš.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozehřej máslo a celer v něm opékej dozlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Podlij vývarem a dovař dozměkka, dokud se šťáva téměř nevstřebá.",
+      "minutes": 15
+    },
+    {
+      "text": "Podávej posypané strouhaným parmezánem."
+    }
+  ],
+  "modernNote": "Recept popisuje jen první ze tří způsobů, které zdroj uvádí; ten je také v názvu. Zdroj uvádí tři způsoby přípravy celeru jako přílohy nebo dochucení k masu, ale žádné množství ani počet porcí; vše kromě doby blanšírování (nejvýše 5 minut) je odhad z běžné praxe pro 4 porce: celer 700 g (asi 175 g na porci), máslo 20 g, masový vývar 250 ml (zdroj odkazuje na č. 13, jehož množství nepřebírám), parmezan 40 g, voda 1 l na blanšírování a sůl 2 g na 1 l (slévané, do jídla nejde). Doba dušení v zálivce (15 minut) je odhad. Hlavní způsob (1): celer opečený na másle, dovařený v masovém vývaru a podávaný s parmezánem. Způsob (2): celer dušený na másle s nasekanou cibulí a šunkou, zalitý vývarem, protlačenou šťávou se pepřem a podávaný se šťávou (sůl je už v šunce). Způsob (3): celer obalený v mouce a v těstíčku na smažení, usmažený v tuku nebo oleji, případně obalený v mouce, vejci a strouhance. Masový vývar je v hlavním způsobu, takže recept nemá tag bez-masa; bezmasou variantu lze získat náhradou za zeleninový vývar.",
+  "source": {
+    "book": "italian-1919",
+    "page": 81,
+    "titleOriginal": "DRESSING OF CELERY (Sedano per contorno)"
+  },
+  "verified": false,
+  "quote": "The following are three ways to prepare celery to be served as seasoning or seasoning for meat dishes."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "kukuricna-kremova-polevka",
+  "title": "Kukuřičná krémová polévka",
+  "titleOriginal": "Cream of Corn Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 150, "unit": "ml" },
+    { "ingredientId": "kukurice-konzervovana", "amount": 240, "unit": "g", "note": "smetanová (cream style), hmotnost včetně nálevu" },
+    { "ingredientId": "celer-rapikaty", "amount": 14, "unit": "g", "note": "nakrájený nadrobno" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "note": "rozpuštěné", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g", "note": "zdroj uvádí „pepper“ bez typu, předpoklad černý mletý" },
+    { "ingredientId": "mleko-polotucne", "amount": 530, "unit": "ml", "note": "horké" }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu k varu.", "minutes": 3 },
+    { "text": "Přidej kukuřici, celer a cibuli a nech asi 20 minut probublávat.", "minutes": 20 },
+    { "text": "Mezitím rozpusť máslo a vmíchej mouku do hladké jíšky.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej jíšku do vroucí směsi a za častého míchání vař, dokud lehce nezhoustne. Přidej pepř.", "minutes": 5 },
+    { "text": "Těsně před podáváním přidej sůl a vmíchej horké mléko.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (výtěžek 6 gal, porce 1 cup ≈ 8 oz), originalYield 100 sedí. Kukuřice „Corn, cream style“ (2 No. 10 cans, 13 lb 8 oz včetně nálevu) je kukurice-konzervovana. Voda ze zdroje zůstává v polévce, není to vývar, takže recept je bez masa. Tuk „Butter or other fat, melted“ je máslo, které se vmíchává do jíšky (linear). Sůl je ze zdroje 4 oz na 100 porcí, po přepočtu 7 g na 4 porce, což je vysoké; doporučuji ubrat na cca 5 g podle chuti. Pepř je ve zdroji bez typu, bral jsem černý mletý.",
+  "source": {
+    "book": "navy-1944",
+    "page": 240,
+    "titleOriginal": "CREAM OF CORN SOUP"
+  },
+  "verified": true
+}

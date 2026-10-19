@@ -1,0 +1,41 @@
+{
+  "id": "testovinovy-salat-navy",
+  "title": "Těstovinový salát",
+  "titleOriginal": "Macaroni or Spaghetti Salad",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "horcice", "lepek", "vejce"],
+  "ingredients": [
+    {"ingredientId": "testoviny", "amount": 80, "unit": "g", "note": "suché; ze zdroje 9½ lb uvařených makaronů, ÷ 2,2", "group": "Těstoviny"},
+    {"ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Těstoviny", "scaling": "vessel"},
+    {"ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se", "group": "Těstoviny", "scaling": "vessel"},
+    {"ingredientId": "celer-rapikaty", "amount": 145, "unit": "g", "note": "nakrájený nadrobno", "group": "Salát"},
+    {"ingredientId": "pimentka-konzervovana", "amount": 9, "unit": "g", "note": "nakrájená", "group": "Salát"},
+    {"ingredientId": "cibule", "amount": 5, "unit": "g", "note": "najemno nakrájená", "group": "Salát"},
+    {"ingredientId": "salat-ledovy", "amount": 35, "unit": "g", "note": "hrubě nakrájený", "group": "Salát"},
+    {"ingredientId": "vejce", "amount": 1.15, "unit": "ks", "note": "natvrdo uvařená, nakrájená", "group": "Salát"},
+    {"ingredientId": "sul", "amount": 4, "unit": "g", "group": "Salát"},
+    {"ingredientId": "majoneza", "amount": 45, "unit": "g", "note": "kupovaná; zdroj 2 lb 8 oz majonézy ze str. 204", "group": "Salát"}
+  ],
+  "steps": [
+    {"text": "Přiveď osolenou vodu k varu.", "minutes": 8},
+    {"text": "Mezitím nakrájej celer a cibuli nadrobno a salát hrubě.", "minutes": 8, "parallel": true},
+    {"text": "Uvař těstoviny doměkka a dobře je sceď.", "minutes": 10},
+    {"text": "Propláchni těstoviny studenou vodou a nech je vychladnout.", "minutes": 10},
+    {"text": "Mezitím uvař vejce natvrdo, ochlaď je studenou vodou a nakrájej nadrobno.", "minutes": 10, "parallel": true},
+    {"text": "Smíchej těstoviny, celer, pimentku, cibuli, salát a vejce a posyp solí.", "minutes": 3},
+    {"text": "Přidej majonézu a jemně promíchej, až je salát rovnoměrně obalený.", "minutes": 2}
+  ],
+  "modernNote": "Zdroj: 100 porcí, výtěžek ~5 gal, porce ¾ cup (~6 oz). Tabulka surovin dává na porci ~4,1 oz (≈117 g vařeného salátu), hlavička 6 oz; přepočet vychází z tabulky, rozdíl je ve zdroji. Nález bilance (95 g proti 170 g) je tím vysvětlen: suché těstoviny (80 g) místo vařených (172 g) váží na porci ~22 g méně; vařený salát má ~117 g na porci. Makarony: zdroj 9½ lb vařených, suché je vařené ÷ 2,2 (odhad poměru, proto verified false). Slévaná voda 1 l na 100 g suchých těstovin a sůl 2 g/l jsou domácí hodnoty, slijí se. Majonéza je kupovaná v množství ze zdroje (2 lb 8 oz); zdroj odkazuje na vlastní recept (str. 204, PDF 212), který si můžeš připravit doma, ale na 4 porce by vyšlo jen 0,15 vejce, proto není rozepsaný. Sůl do salátu (2 oz) je třída seasoning: 4 g na 4 porce (1 g na porci), dle chuti ubuj. Vejce ve zdroji 1 lb = 10 ks (45 g/ks), odhad. Zdroj nabízí místo vajec 3 lb vařeného hovězího, telecího nebo šunky; vynecháno. Okurky z shortlistu ve zdroji nejsou, nepřidány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 200,
+    "titleOriginal": "MACARONI OR SPAGHETTI SALAD"
+  },
+  "verified": false
+}

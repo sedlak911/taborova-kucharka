@@ -1,0 +1,87 @@
+{
+  "id": "bramborova-kase",
+  "title": "Bramborová kaše",
+  "titleOriginal": "Mashed Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé, oloupané, na kostky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na vaření brambor, slije se; domácí hodnota (zdroj 12½ lb), aby byly brambory ponořené",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "místo margarínu",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 13,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 55,
+      "unit": "ml",
+      "note": "čerstvé; zdroj rozmíchává sušené mléko s vodou",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 3,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "pepr-bily",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletý"
+    }
+  ],
+  "steps": [
+    { "text": "Brambory zalij osolenou vodou, přiveď k varu, sniž teplotu a vař 25 minut, dokud nejsou měkké. Dobře sceď.", "minutes": 30 },
+    { "text": "Brambory v míse na nízké rychlosti mixerem šlehej asi 1 minutu, dokud se rozpadnou na menší kusy.", "minutes": 1 },
+    { "text": "Přidej máslo a pepř a šlehej na vysoké rychlosti 3 až 5 minut, dokud kaše nebude hladká.", "minutes": 5 },
+    { "text": "Mléko zahřej téměř do varu, na nízké rychlosti je vmíchej do brambor a pak šlehej na vysoké rychlosti 2 minuty, dokud kaše nebude nadýchaná.", "minutes": 3 }
+  ],
+  "modernNote": "Porce odpovídá 1/2 šálku kaše ze zdroje (100 g brambor na osobu). Máslo nahrazuje margarín v poměru 1:1 podle hmotnosti. Zdroj rozmíchává sušené mléko (2⅔ oz) s 3 lb teplé vody, tedy poměr zhruba 1:18 a slabé mléko; zde je použito čerstvé polotučné mléko v objemu součtu (1 436 ml na 100 porcí, 55 ml na 4 porce). Voda na vaření (500 ml) a sůl do ní jsou domácí hodnoty místo zdrojových 12½ lb vody: brambory zalij tak, aby byly ponořené, a voda se slije. CCP věty o teplotě držení (140 °F) vynechány. Kaše vyjde spíš hustší (zdroj počítá jen ~14 ml mléka na porci), mléko klidně přidej víc.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1572,
+    "code": "Q 048 00",
+    "titleOriginal": "Mashed Potatoes"
+  },
+  "verified": true,
+  "quote": "Beat at high speed 3 to 5 minutes or until smooth."
+}

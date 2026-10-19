@@ -1,0 +1,45 @@
+{
+  "id": "masovy-bochanek",
+  "title": "Masový bochánek",
+  "titleOriginal": "Meat Omelette (Polpettone)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": ["tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "teleci-maso-libove", "amount": 450, "unit": "g", "group": "Bochánek", "note": "telecí bez kostí, zbavené blan a šlach; zdroj uvádí 1 libru" },
+    { "ingredientId": "sunka", "amount": 40, "unit": "g", "group": "Bochánek", "note": "plátek šunky, nasekat s masem" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "group": "Bochánek", "note": "celé vejce do masa" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "group": "Bochánek", "note": "střídmě; zdroj říká „moderately“" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "group": "Bochánek", "note": "štipka" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "group": "Bochánek", "note": "na obalení koule a půl lžíce do vody na zalití" },
+    { "ingredientId": "cibule", "amount": 60, "unit": "g", "group": "Zelenina a omáčka", "note": "2–3 plátky, ne více" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Zelenina a omáčka" },
+    { "ingredientId": "celer-rapikaty", "amount": 40, "unit": "g", "group": "Zelenina a omáčka", "note": "kousek" },
+    { "ingredientId": "mrkev", "amount": 50, "unit": "g", "group": "Zelenina a omáčka", "note": "kousek" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Zelenina a omáčka", "note": "kousek másla" },
+    { "ingredientId": "voda", "amount": 125, "unit": "ml", "group": "Zelenina a omáčka", "note": "půl sklenice" },
+    { "ingredientId": "citronova-stava", "amount": 15, "unit": "ml", "group": "Zelenina a omáčka", "note": "šťáva z půlky citronu, podávat" }
+  ],
+  "steps": [
+    { "text": "Telecí maso zbav blan a šlach a nasekej je nadrobno spolu s plátkem šunky.", "minutes": 10 },
+    { "text": "Posol střídmě, opepři, přidej vejce a vlhkýma rukama vytvaruj z masa kouli; posyp ji moukou.", "minutes": 5 },
+    { "text": "Nasekej cibuli, petržel, celer a mrkev.", "minutes": 8 },
+    { "text": "Na pánvi rozehřej máslo, osmahni na něm zeleninu a vlož do ní masovou kouli.", "minutes": 5 },
+    { "text": "Kouli ze všech stran dobře zarumeň.", "minutes": 10 },
+    { "text": "Rozmíchej mouku ve vodě, zalij jí maso, přikryj a duš na velmi mírném ohni, aby se nepřipálil.", "minutes": 40 },
+    { "text": "Maso nakrájej na plátky, polévej je šťávou z pánve a nad nimi vymačkej šťávu z půlky citronu.", "minutes": 5 },
+    { "text": "Podávej teplé." }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí 1 libru telecího masa bez kostí (454 g, zaokrouhleno na 450 g) a neuvádí počet porcí; 450 g je pro 4 porce asi 112 g na osobu, což je pod doporučenými 120–150 g; hodnota ze zdroje je ponechána, při větší porci lze zvýšit. Odhady z běžné praxe (zdroj nemá množství): šunka 40 g (plátek), sůl 5 g (střídmě), pepř 1 g, mouka 15 g (na obalení a půl lžíce do omáčky), cibule 60 g (2–3 plátky), petržel 10 g, celer 40 g a mrkev 50 g (kousky), máslo 20 g, voda 125 ml (půl sklenice), šťáva z půlky citronu 15 ml. Koření zdroj zmiňuje bez množství a druh neuvádí, proto nepřidáno. Vejce 1 ks celé. Volitelné natvrdo uvařené vejce do středu koule (zdroj na další straně) vynecháno. Doba dušení 40 minut je odhad, zdroj uvádí jen velmi mírný oheň.",
+  "source": {
+    "book": "italian-1919",
+    "page": 64,
+    "titleOriginal": "MEAT OMELETTE (Polpettone)"
+  },
+  "verified": false,
+  "quote": "Take one pound of veal, without bones, clean it well taking away all skins and tendons and then chop it together with a slice of ham."
+}

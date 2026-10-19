@@ -1,0 +1,96 @@
+{
+  "id": "smazene-kure",
+  "title": "Smažené kuře",
+  "titleOriginal": "Fried Chicken (Pollo fritto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1200,
+      "unit": "g",
+      "note": "mladé kuře, rozporcované v kloubech na kousky; s kostmi",
+      "group": "Kuře"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "na kousky a do vajec",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "na kousky a do vajec",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 60,
+      "unit": "g",
+      "note": "na obalení kousků",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "celá, rozšlehaná",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 100,
+      "unit": "g",
+      "note": "na obalení, podle potřeby dvakrát",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení v hrnci (asi 2 cm); zdroj: vroucí olej nebo tuk; část zůstane v hrnci",
+      "scaling": "vessel",
+      "group": "Smažení"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    { "text": "Mladé kuře opláchni a na minutu ponoř do vroucí vody.", "minutes": 2 },
+    { "text": "Kuře rozporcuj v kloubech na kousky.", "minutes": 10 },
+    { "text": "Kousky posyp solí a pepřem a obal v mouce.", "minutes": 4 },
+    { "text": "Kousky namoč do rozšlehaných vajec.", "minutes": 3 },
+    { "text": "Nech kousky půl hodiny odpočinout.", "minutes": 30 },
+    { "text": "Kousky obal ve strouhance. Podle potřeby postup s vejcem a strouhankou opakuj, nejvýš dvakrát.", "minutes": 6 },
+    { "text": "V hrnci rozehřej olej nebo tuk, až je vroucí.", "minutes": 5 },
+    { "text": "Kousky vkládej do oleje a smaž je na mírném ohni z obou stran dozlatova.", "minutes": 12 },
+    { "text": "Hotové kousky vyjmi a nech okapat na papírové utěrce.", "minutes": 3 },
+    { "text": "Podávej horké s citronem." }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce, jen „mladé kuře“ (jedno kuře). Pro 4 porce je kuře 1,2 kg s kostmi (asi 300 g na porci, stejně jako u receptu Kuře po lovecku), mouka 60 g, strouhanka 100 g, sůl 6 g a pepř 1 g jsou odhady z běžné praxe. Vejce (2 ks) a citron (na podávání) jsou ze zdroje. Olej 300 ml (asi 2 cm v hrnci) je odhad; zdroj uvádí olej nebo tuk, zvolen řepkový olej. Krátké ponoření do vroucí vody a 30 minut odpočinutí po obalení jsou ze zdroje; časy smažení a obalování jsou odhady. Smaží se na mírném ohni, aby kuře uvnitř prošlo.",
+  "source": {
+    "book": "italian-1919",
+    "page": 33,
+    "titleOriginal": "FRIED CHICKEN (Pollo fritto)"
+  },
+  "verified": false,
+  "quote": "Serve hot with lemon."
+}

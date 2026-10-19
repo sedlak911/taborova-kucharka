@@ -1,0 +1,139 @@
+{
+  "id": "holubky-plnene-zeli",
+  "title": "Holubky (plněné zelné listy)",
+  "titleOriginal": "Stuffed Cabbage Rolls",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 75,
+      "unit": "ml",
+      "note": "vývar z bujónu podle návodu na obalu",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 105,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 25,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 440,
+      "unit": "g",
+      "note": "hlávka; listy na závitky a zbytek nakrájet",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "do vody na blanšírování zelí; slije se (domácí hodnota)",
+      "scaling": "vessel",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na blanšírování zelí; slije se",
+      "scaling": "vessel",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 440,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 25,
+      "unit": "g",
+      "note": "dlouhozrnná; uvař předem jako dušenou rýži (suchá hmotnost dopočtena z 3 qt uvařené rýže: 12 cups / 75 cups × 8½ lb × 0,04; recept E 005 00, PDF str. 300)",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 65,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 18,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "worcester",
+      "amount": 16,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.23,
+      "unit": "g",
+      "group": "Náplň"
+    }
+  ],
+  "steps": [
+    { "text": "Připrav vývar podle návodu na obalu. Vmíchej rajčatový protlak, cukr a citronovou šťávu. Omáčku odlož stranou na zalití.", "minutes": 3 },
+    { "text": "Hlávku zelí vlož do vařící osolené vody, přikryj a vař 10 minut, dokud listy nezměknou.", "minutes": 10 },
+    { "text": "Sceď zelí dobře, odděl listy a odstraň z nich větší žebra. Listy odlož na plnění.", "minutes": 8 },
+    { "text": "Zbytek zelí nakrájej nahrubo a odlož stranou na podložení.", "minutes": 5, "parallel": true },
+    { "text": "Smíchej mleté maso, uvařenou rýži, cibuli, kečup, worcestrovou omáčku, sůl, pepř a česnek. Promíchej lehce, ale důkladně.", "minutes": 3, "parallel": true },
+    { "text": "Na každý list dej porci náplně, přehni boky listu přes náplň a pevně zatoč.", "minutes": 10 },
+    { "text": "Závitky ulož švem dolů do pekáče a rovnoměrně je přikryj nakrájeným zelím.", "minutes": 3 },
+    { "text": "Zalij závitky a zelí omáčkou z kroku 1.", "minutes": 2 },
+    { "text": "Peč 1 hodinu v troubě na horkovzduch při 165 °C, dokud zelí nezměkne a maso nebude hotové. Přebytečný tuk z povrchu sejmi.", "minutes": 60 }
+  ],
+  "modernNote": "Porce zdroje jsou 2 závitky (100 porcí = 200 závitků), zde 4 porce = 8 závitků. Vývar je kupovaný hovězí bujón. Pokyny CCP (teploty držení a vnitřní teplota masa) jsou z kroků vynechány. Rýže: zdroj uvádí 3 qt uvařené dušené rýže (E 005 00, PDF str. 300), zde přepočteno na 25 g suché rýže, uvař ji předem.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 721,
+    "code": "L 024 00",
+    "titleOriginal": "STUFFED CABBAGE ROLLS"
+  },
+  "verified": true
+}

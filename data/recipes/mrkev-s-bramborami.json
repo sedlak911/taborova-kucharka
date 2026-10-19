@@ -1,0 +1,93 @@
+{
+  "id": "mrkev-s-bramborami",
+  "title": "Mrkev s bramborami",
+  "titleOriginal": "Möhren (Mohrrüben) oder Kohlrüben und Kartoffeln",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 190,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "mrkev",
+      "amount": 800,
+      "unit": "g",
+      "note": "ve zdroji do 600 g na hlavu; místo mrkve lze dát tuřín (Kohlrüben, žlutá řepa)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "čerstvá, nakrájená (10 g na hlavu ve zdroji)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí (nebo vepřové); zdroj uvádí jen „Fleisch“ bez množství, odhad"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "odhad: zdroj říká jen „in kochendes Wasser geben“"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "čerstvé, oloupané a nakrájené (750 g na hlavu ve zdroji)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“; na konec dochuť"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj uvádí jen „Petersilie“ k dochucení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a trochu soli a vař asi 1¼ hodiny.",
+      "minutes": 75
+    },
+    {
+      "text": "Přidej očištěnou nakrájenou mrkev a vař asi 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Přidej cibuli a brambory a vař dohotova, asi dalších 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Dochuť solí a petrželkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 600 g mrkve, 750 g brambor na muže; zde 200 g mrkve a 200 g brambor na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj neuvádí množství masa, vody ani soli: 400 g hovězího (~100 g na porci), 1,5 l vody a 8 g soli jsou odhady, proto verified: false. Vepřové maso se podle zdroje vaří jen 30 minut místo 75. Sušená zelenina (30 g) a sušené brambory (75 g na osobu) se nepoužívají (v tom případě se vodou z namáčení nahradí část vody). Kochdauerwurst se dává do hotového jídla, krátce se prohřeje a nevaří se; Konservenfleisch se vmíchá až těsně před podáváním a jen se v jídle prohřeje. Zdroj říká jen „an Stelle von gemischtem Gemüse bis zu 600 g“, proto se postup a cibule přebírají z varianty 2 (smíšená zelenina). Místo mrkve lze použít tuřín (v katalogu `turin`).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 17,
+    "code": "3. (varianta, tišt. 31)",
+    "titleOriginal": "Möhren (Mohrrüben) oder Kohlrüben und Kartoffeln"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz und Petersilie."
+}

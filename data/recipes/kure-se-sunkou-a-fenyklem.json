@@ -1,0 +1,34 @@
+{
+  "id": "kure-se-sunkou-a-fenyklem",
+  "title": "Kuře se šunkou a fenyklem",
+  "titleOriginal": "Chicken with Ham (Pollo in porchetta)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["trouba"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1100, "unit": "g", "note": "mladé celé kuře, s kostmi; asi 275 g na porci" },
+    { "ingredientId": "sunka", "amount": 100, "unit": "g", "note": "v tenkých proužcích; zdroj nemá množství, odhad" },
+    { "ingredientId": "cesnek", "amount": 3, "unit": "ks", "note": "3 stroužky (zdroj „three cloves“)" },
+    { "ingredientId": "fenykl", "amount": 100, "unit": "g", "note": "2 malé svazečky nati, asi 50 g každý" },
+    { "ingredientId": "cely-pepr", "amount": 0.5, "unit": "g", "note": "několik zrnek dovnitř" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na potření kuřete" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "zvenku i do břicha; šunka je slaná" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "note": "zvenku, podle chuti" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Kuře opláchni, osuš a zvenku osol a opepři.", "minutes": 5 },
+    { "text": "Šunku nakrájej na tenké proužky, široké jako prst.", "minutes": 5 },
+    { "text": "Do břicha kuřete vtlač proužky šunky, stroužky česneku, fenykl a zrnka pepře.", "minutes": 5 },
+    { "text": "Kuře potři máslem a peč v troubě, dokud není propečené a zlatavé.", "minutes": 60 },
+    { "text": "Upečené kuře nech pět minut odpočinout a rozporcuj na porce.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Gentile č. 141, „Polio in porchetta“, v OCR „Polio“, ve skutečnosti „Pollo“) uvádí kuře, šunku v pásech, tři stroužky česneku, dva malé svazečky fenyklu a několik zrnek pepře; množství kromě kuřete a česneku nejsou udána. Odhady pro 4 porce: kuře 1 100 g s kostmi (asi 275 g na porci), šunka 100 g, fenykl 2 svazečky po asi 50 g (jedlá nať), máslo 20 g na potření, sůl 4 g a černý pepř 0,5 g zvenku a pár zrnek dovnitř (sůl ze zdroje jen „salt and pepper“). Zdroj preferuje pečení v troubě, proto je zvolena trouba; alternativou z pánve je máslo na pánvi a kuře otočit, jak zdroj popisuje. Doba pečení 60 minut je odhad pro kuře asi 1 kg při 200 °C, zdroj čas neuvádí. Klobásy rozpůlené podélně a bez kůže lze podle zdroje použít místo šunky. Zdroj nedává žádný čas ani teplotu.",
+  "source": { "book": "italian-1919", "page": 106, "titleOriginal": "CHICKEN WITH HAM (Pollo in porchetta)" },
+  "verified": false,
+  "quote": "Fill a chicken with thin strips of ham, about half an inch wide."
+}

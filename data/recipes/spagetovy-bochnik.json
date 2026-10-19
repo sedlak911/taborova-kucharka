@@ -1,0 +1,131 @@
+{
+  "id": "spagetovy-bochnik",
+  "title": "Špagetový bochník",
+  "titleOriginal": "Spaghetti Loaf",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cedar",
+      "amount": 125,
+      "unit": "g",
+      "note": "strouhaný",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 210,
+      "unit": "ml",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "do omáčky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 9,
+      "unit": "g",
+      "note": "nadrobno nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "rozšlehaná; zaokrouhleno z 1,02 ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 125,
+      "unit": "g",
+      "note": "špagety, suché",
+      "group": "Špagety"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "do vody na vaření, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "group": "Špagety",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "group": "Špagety",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 175 °C a vymaž bochníkové formy."
+    },
+    {
+      "text": "Sýr rozpusť v mléce nad vroucí vodou nebo v parním kotli.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej sůl, pepř a cibuli a promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Za silného míchání postupně vmíchej rozšlehaná vejce a sundej z ohně.",
+      "minutes": 3
+    },
+    {
+      "text": "V hrnci přiveď k varu osolenou vodu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vmíchej špagety a vař, dokud nejsou měkké. Dobře je sceď.",
+      "minutes": 22
+    },
+    {
+      "text": "Sceděné špagety smíchej se sýrovou omáčkou.",
+      "minutes": 2
+    },
+    {
+      "text": "Směs nalij do vymazaných forem.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč, dokud bochník nebude pevný a povrch nezezlátne.",
+      "minutes": 60
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 6 oz (zhruba 170 g). Pro 4 porce vychází 125 g sýra, 210 ml mléka, 125 g špaget suchých a 1 vejce (ze zdroje 1,02 ks zaokrouhleno). Slévaná voda ze zdroje (7 gal, tedy cca 26 l na 100 porcí) a sůl do ní (1½ oz) jsou nahrazeny domácí hodnotou 1 l na 100 g těstovin (1 500 ml) a 2 g soli na 1 l (3 g). Zdroj v poznámkách doporučuje volitelně přidat 10 oz (1½ pinty) nasekané petrželky do omáčky a ½ oz česneku uvařeného se špagetami; do receptu nepřidáno, lze doplnit. Pečení 1 hodina při 350 °F ze zdroje převedeno na 175 °C.",
+  "source": {
+    "book": "navy-1944",
+    "page": 38,
+    "titleOriginal": "SPAGHETTI LOAF"
+  },
+  "verified": true
+}

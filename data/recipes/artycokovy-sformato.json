@@ -1,0 +1,162 @@
+{
+  "id": "artycokovy-sformato",
+  "title": "Artyčokový sformato",
+  "titleOriginal": "Artichokes in Mold (Sformato di carciofi)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "artycok",
+      "amount": 320,
+      "unit": "g",
+      "note": "jedlá část (očištěná srdíčka a měkké části listů, asi 4 až 5 celých hlav), ne nákupní hmotnost; zdroj nepíše množství, odhad",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření artyčoků, slije se",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "zdroj odkazuje na „Balsamella (No. 54)“, v knize č. 59; úměrně"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "úměrně, 2 až 3 lžíce hotové omáčky ze zdroje"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 200,
+      "unit": "ml",
+      "group": "Bešamel",
+      "note": "úměrně"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "2–3 rozšlehaná vejce, zvoleny 3 pro 500 g pyré",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 20,
+      "unit": "g",
+      "note": "2–3 lžíce strouhaného sýra",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do směsi, podle chuti",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "„a taste of nutmeg“, odhad",
+      "group": "Sformato"
+    },
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 100,
+      "unit": "ml",
+      "group": "Podávání",
+      "note": "horký, na polití hotového sformata (zdroj „brown stock or meat gravy“)",
+      "original": {
+        "ingredientId": "hovezi-vyvar",
+        "amount": 100,
+        "unit": "ml"
+      }
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "na vymazání formy",
+      "group": "Sformato"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odstraň tvrdé vnější listy artyčoků a očisti stonky, ale neodřezávej je.",
+      "minutes": 10
+    },
+    {
+      "text": "Každý artyčok nakrájej na čtyři části a vař je v osolené vodě jen pět minut; déle by nasákly vodou a ztratily chuť.",
+      "minutes": 13
+    },
+    {
+      "text": "Mezitím na másle zpěň mouku, za stálého míchání přilévej mléko a vař, dokud bešamel nezhoustne.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Sceď, odkapej a rozmačkej nebo rozmixuj; přetlač přes síto.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím ohřej vodu do větší nádoby pro vodní lázeň a vymaž formu máslem.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Do pyré vmíchej bešamel, rozšlehaná vejce, strouhaný parmezán, sůl a muškátový oříšek; několikrát ochutnej a dochuť.",
+      "minutes": 3
+    },
+    {
+      "text": "Směs vlij do vymazané formy a postav ji do vodní lázně.",
+      "minutes": 2
+    },
+    {
+      "text": "Vař ve vodní lázni na mírném ohni asi 35 minut, dokud sformato neztuhne.",
+      "minutes": 35
+    },
+    {
+      "text": "Vyjmi z formy, polij horkým zeleninovým vývarem a podávej horké."
+    }
+  ],
+  "modernNote": "Gentile uvádí jen postup bez množství a bez počtu porcí, proto jsou všechna množství odhad z běžné praxe pro 4 porce: 320 g jedlé části artyčoků (očištěná srdíčka, asi 4 až 5 celých hlav; ediblePortion 0,4 znamená asi 0,8 kg celých), 3 vejce (zdroj říká dvě nebo tři), 20 g parmezánu (2–3 lžíce; zdroj neurčuje druh sýra, použit je parmezán), 3 g soli do směsi, 0,5 g muškátu, 5 g másla na vymazání formy. Zdroj uvádí „two or three tablespoonfuls of Balsamella (No. 54)“ ve směsi se sýrem (ověřeno na obrázku stránky); v knize je Balsamella č. 59, zde úměrně: 15 g másla, 15 g mouky a 200 ml mléka. Vodu na vaření (1 l, sůl 2 g) slijeme. Zdroj předepisuje vaření ve vodní lázni „s hnědým vývarem nebo masovou šťávou“; zde je vývar zeleninový (100 ml na polití), hovězí je v original, aby recept zůstal bez masa. Čas 35 minut ve vodní lázni je odhad, zdroj ho neuvádí. Tag tabor nepřiřazen: forma, vodní lázeň a protlačování přes síto.",
+  "source": {
+    "book": "italian-1919",
+    "page": 77,
+    "titleOriginal": "ARTICHOKES IN MOLD (Sformato di carciofi)"
+  },
+  "verified": false,
+  "quote": "Cut each artichoke into four parts and put them to boil in salt water for only five minutes."
+}

@@ -1,0 +1,57 @@
+{
+  "id": "pomazanka-z-arasidoveho-masla",
+  "title": "Pomazánka z arašídového másla",
+  "titleOriginal": "Peanut Butter Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko",
+    "arasidy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "arasidove-maslo",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "změkčené",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 40,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V míse smíchej arašídové máslo s máslem.",
+      "minutes": 3
+    },
+    {
+      "text": "Postupně přimíchávej odpařené mléko, dokud není směs hladká.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj: Peanut Butter Filling, s. 209 (PDF 217), náplň na sendviče, 100 porcí, porce cca 2 oz (57 g). Přepočet na 4 porce × 0,04 (linear), čísla odečtena z obrázku stránky. Výsledná náplň (238 g) odpovídá 4 porcím po 2 oz (227 g). Varianty ze stejné strany (s chilli omáčkou, slaninou, džemem, křenem, šunkou a sladkou okurkou) nejsou v receptu; jsou jen jako poznámka ve zdroji. Doporučení: máslo nech před mícháním změknout na pokojovou teplotu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 217,
+    "titleOriginal": "PEANUT BUTTER FILLING"
+  },
+  "verified": true,
+  "quote": "Mix together peanut butter, butter and milk until smooth."
+}

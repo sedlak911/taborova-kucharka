@@ -1,0 +1,64 @@
+{
+  "id": "omacka-z-cerstveho-ananasu",
+  "title": "Omáčka z čerstvého ananasu",
+  "titleOriginal": "Fresh Pineapple Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "ananas",
+      "amount": 75,
+      "unit": "g",
+      "note": "čerstvý, oloupaný a nadrobno nakrájený"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej cukr s vodou a zahřívej, dokud se cukr nerozpustí.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej ananas a zahřej k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech provařit, dokud ananas nezprůhlední a nezměkne; občas zamíchej.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej ihned."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, výtěžek asi 2 gal, porce ¼ cup (asi 2 oz). Ananas 8 lb je nákupní hmotnost (katalog ediblePortion 0,51); odpovídá asi ½ gal nakrájeného ovoce ze zdroje. V receptu je proto čistá dužina 4,08 lb (1 851 g na 100 porcí, 75 g na 4 porce), protože aplikace ediblePortion u ovoce nepoužívá a nutriční výpočet bere amount jako jedlou hmotnost. Rozpor: cukr 3 lb (1 361 g) ve sloupci Weights proti 1½ pintu v Amounts (asi 600 g); přednost má váha, cukr je podle sladkosti ovoce, proto ho uber nebo přidej. Sůl ve zdroji není. Zdroj doporučuje podávat k pečené šunce.",
+  "source": {
+    "book": "navy-1944",
+    "page": 189,
+    "titleOriginal": "FRESH PINEAPPLE SAUCE"
+  },
+  "verified": false,
+  "quote": "Let simmer until pineapple is clear and tender."
+}

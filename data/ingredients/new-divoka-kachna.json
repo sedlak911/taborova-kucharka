@@ -1,0 +1,29 @@
+[
+  {
+    "id": "kachna",
+    "name": "Kachna celá",
+    "aliases": [
+      "kachna",
+      "kachna celá s kostmi",
+      "duck",
+      "domácí kachna"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 135,
+      "protein": 18.28,
+      "carbs": 0.94,
+      "fat": 5.95,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.34,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172410 (Duck, domesticated, meat only, raw)",
+      "units": "bez převodu na kusy; množství v g včetně kostí",
+      "refuse": "USDA fdc:172410 refusePct 66 (kosti a kůže/tuk)"
+    }
+  }
+]

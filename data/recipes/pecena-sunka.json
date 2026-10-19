@@ -1,0 +1,48 @@
+{
+  "id": "pecena-sunka",
+  "title": "Pečená šunka",
+  "titleOriginal": "Baked Ham",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 120,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 760,
+      "unit": "g",
+      "note": "uzená šunka bez kosti (ekvivalent 60 lb s kostí ze zdroje podle poměru 42 : 60 ze str. 145)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 160 °C."
+    },
+    {
+      "text": "Šunku připrav k pečení a ořež přebytečnou kůži.",
+      "minutes": 5
+    },
+    {
+      "text": "Polož šunku tučnou stranou nahoru do pekáče bez vody; nepřeplňuj pekáč.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč bez přikrytí při 160 °C asi 1 hodinu 45 minut, dokud šunka není propečená.",
+      "minutes": 105
+    }
+  ],
+  "modernNote": "Zdroj (PDF 144) počítá 60 liber komerční šunky na 100 porcí po 4–5 oz a variantu bez kosti neuvádí. Na téže knize (PDF 145, 147) odpovídá 60 lb šunky s kostí 42 lb bez kosti, proto je v receptu šunka bez kosti (42 lb = 762 g, na 4 porce 760 g), protože katalogová surovina sunka je bez kosti; při nákupu šunky s kostí počítej asi 1,1 kg. Hmotnost 190 g syrové šunky na porci proti 4–5 oz (113–142 g) uvařené odpovídá úbytku při pečení; kcal na porci (311) jsou proto mírně nadsazené. Doba pečení je odhad pro kus o hmotnosti ~1 kg (zdrojový plán 3–5 h platí pro kusy 8–18 lb). Zdroj žádnou glazuru ani vodu nepředepisuje. Varianta „simmered and baked“ (vaření před pečením) na téže straně 144 zde není zpracována. Přepočet 60 → 42 lb je odvozen, ne přímo ze strany, proto verified false.",
+  "source": {
+    "book": "navy-1944",
+    "page": 144,
+    "titleOriginal": "BAKED HAM"
+  },
+  "verified": false,
+  "quote": "Roast, uncovered and without water, at constant temperature in slow oven."
+}

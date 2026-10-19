@@ -1,0 +1,99 @@
+{
+  "id": "falesna-holandska-omacka",
+  "title": "Falešná holandská omáčka",
+  "titleOriginal": "Mock Hollandaise Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 213,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 17,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 55,
+      "unit": "ml",
+      "note": "horké"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.35,
+      "unit": "ks",
+      "note": "rozšlehané; zhruba 1/3 vejce"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 7,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.97,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.24,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.23,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci rozpusť máslo, vmíchej mouku a rozmíchej do hladka.",
+      "minutes": 3
+    },
+    {
+      "text": "Za stálého míchání postupně přilij horké mléko.",
+      "minutes": 2
+    },
+    {
+      "text": "Za neustálého míchání postupně přidej rozšlehaná vejce a citronovou šťávu.",
+      "minutes": 3
+    },
+    {
+      "text": "Pomalu přiveď k varu, přidej sůl, pepř a papriku.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech 20 až 30 minut mírně probublávat a průběžně šlehej.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj: Mock Hollandaise Sauce (tištěná str. 179, PDF 187), výtěžek 1¼ gal (4 731 ml), porce 1½ tbsp (asi ¾ oz, objem ~22 ml). Zdroj je vnitřně nekonzistentní: 100 porcí po 22 ml by dalo jen ~2,2 l, kdežto suroviny ze sloupce 100 porcí dávají podle uvedeného výtěžku 1¼ gal. Proto originalYield = 4 731 ml / 22 ml = 213 porcí (ne 100) a suroviny na 4 porce jsou přepočteny faktorem 4/213; bilance pak sedí. Zdroj neodkazuje na Cream Sauce (p. 173), recept je úplný a použita jsou přímo uvedená množství. Nejde o pravou holandskou (emulze z žloutků a másla); je to bílá omáčka s vejci a citronem. Vejce: 18 ks na 100 porcí (1 lb = 10 ks, 45 g), tedy asi ⅓ vejce na 4 porce (0,35 ks); pro praktické vaření násobte recept. Pepř a paprika jsou převedeny přes katalogovou lžíci (pepř 6,9 g, paprika 6,8 g). Sůl (0,24 g na porci) je podle zdroje nízká, dochuť podle chuti. Sůl 1 oz ze sloupce Ounces odpovídá 2 lžícím ze sloupce Amounts (½ oz na lžíci). Vejce přidávej do mléka mimo prudký var, aby se nesrazila.",
+  "source": {
+    "book": "navy-1944",
+    "page": 187,
+    "titleOriginal": "MOCK HOLLANDAISE SAUCE"
+  },
+  "verified": true,
+  "quote": "Blend together fat and flour. Stir into milk."
+}

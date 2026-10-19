@@ -1,0 +1,68 @@
+{
+  "id": "ledvinka-s-ancovickovym-maslem",
+  "title": "Telecí ledvinka s ančovičkovým máslem",
+  "titleOriginal": "Veal Kidney with Anchovy (Rognone alle acciughe)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "gril"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-ledvina",
+      "amount": 400,
+      "unit": "g",
+      "note": "1 telecí ledvinka (zdroj), kupní hmotnost; odhad podle běžné velikosti"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "asi 20 g rozpuštěného na ledvinu a 20 g na ančovičkové máslo; odhad"
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 15,
+      "unit": "g",
+      "note": "2–3 ančovičky ze zdroje (3 kusy, asi 5 g filetu na kus); odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "střídmě; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti; odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Ledvinu rozřízni podél, odstraň z ní tuk a zalij ji vroucí vodou.", "minutes": 5 },
+    { "text": "Nech vodu vychladnout, ledvinu vyjmi a osuš ji čistou utěrkou.", "minutes": 20 },
+    { "text": "Ledvinu rozevři a připíchni čistými špejlemi, aby zůstala otevřená.", "minutes": 3 },
+    { "text": "Rozpusť polovinu másla, ledvinu osol, opepři a polij ji rozpuštěným máslem; nech ji hodinu až dvě odležet." },
+    { "text": "Zbylé máslo utři s nasekanými ančovičkami do kuličky.", "minutes": 3 },
+    { "text": "Ledvinu opeč na grilu, ne příliš dlouho, aby zůstala měkká.", "minutes": 8 },
+    { "text": "Opečenou ledvinu polož na talíř a potři ji kuličkou másla s ančovičkami.", "minutes": 2 },
+    { "text": "Podávej teplé." }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí jednu telecí ledvinku bez údaje o porcích; pro 4 porce počítáno s celou ledvinkou (asi 400 g kupní hmotnosti, asi 100 g na porci po odstranění tuku). Odhady z běžné praxe: máslo 40 g (polovina rozpuštěná na ledvinu, polovina na ančovičkové máslo), sůl 3 g, pepř 1 g. Ančovičky: zdroj říká „two or three anchovies“, použity 3 kusy, asi 15 g filetu v oleji (katalogová položka je filet, ne solená celá ryba). Marinování (1–2 hodiny podle zdroje) je v krocích bez minut a do timeMinutes se nepočítá. Grilování: zdroj předepisuje gril, doma stačí grilovací pánev. Ledvinka se nesmí přegrilovat, aby zůstala měkká.",
+  "source": {
+    "book": "italian-1919",
+    "page": 111,
+    "titleOriginal": "VEAL KIDNEY WITH ANCHOVY (Rognone alle acciughe)"
+  },
+  "verified": false,
+  "quote": "Cook the kidney on the grill, but not too much, in order to keep it tender."
+}

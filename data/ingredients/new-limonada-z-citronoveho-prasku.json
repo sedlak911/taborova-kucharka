@@ -1,0 +1,31 @@
+[
+  {
+    "id": "citronovy-prasek",
+    "name": "Citronový prášek (syntetický, nápojový)",
+    "aliases": [
+      "citronový nápojový prášek",
+      "lemon juice powder, synthetic",
+      "prášek na limonádu"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 376,
+      "protein": 0,
+      "carbs": 97.57,
+      "fat": 1.05,
+      "fiber": 0.4
+    },
+    "units": {
+      "lzice": 12,
+      "lzicka": 4
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA fdc:174858 (Beverages, Lemonade, powder)",
+      "refuse": "bez odpadu",
+      "units": "odhad: lžička ≈ 4 g práškového nápoje, lžíce ≈ 12 g"
+    }
+  }
+]

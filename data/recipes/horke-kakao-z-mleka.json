@@ -1,0 +1,79 @@
+{
+  "id": "horke-kakao-z-mleka",
+  "title": "Horké kakao z mléka",
+  "titleOriginal": "Hot Cocoa",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kakao",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.31,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 55,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 830,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ohřej mléko v horké vodní lázni nebo v hrnci těsně pod var. Nevař.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím smíchej kakao, cukr a sůl.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Postupně přilévej vodu a míchej, dokud nevznikne hladká pasta.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď pastu k varu.",
+      "minutes": 3
+    },
+    {
+      "text": "Vlij kakaovou pastu do mléka a důkladně vyšlehej metličkou.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj je pro armádní kuchyni (100 porcí, 1 šálek = cca 8 oz); pro 4 porce vychází asi 960 ml, tedy 4 šálky po ~240 ml. Zdroj používá čerstvé mléko (5½ galonu), ne sušené; mléko je polotučné, aby odpovídalo běžné ceně a chuti. Vodu zdroj uvádí 1½ kvarty a je v nápoji zachována. Sůl 1/6 unce (4,7 g na 100 porcí) je přepočtena jako dochucení. Oproti kakao.json (AFRS, sušené mléko, jiné poměry) jde o odlišnou recepturu. Nález soli 0,08 g na porci je u nápoje věcně správný: zdroj uvádí jen 1/6 unce soli na 100 porcí a nic se nevylévá.",
+  "source": {
+    "book": "navy-1944",
+    "page": 28,
+    "titleOriginal": "HOT COCOA"
+  },
+  "verified": true,
+  "quote": "Heat milk to boiling temperature over hot water or in steam-jacketed kettle. Do not boil."
+}

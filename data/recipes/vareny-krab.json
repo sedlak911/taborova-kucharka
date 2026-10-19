@@ -1,0 +1,61 @@
+{
+  "id": "vareny-krab",
+  "title": "Vařený krab",
+  "titleOriginal": "Boiled Hard Shell Crab",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 115,
+  "difficulty": 2,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "korysi"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "krab-cely",
+      "amount": 910,
+      "unit": "g",
+      "note": "živí krabi celí, 4 × cca 230 g (1 krab = 1 porce)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Vyber jen živé krabi." },
+    { "text": "Ponoř krabe hlavou napřed do prudce vroucí osolené vody.", "minutes": 2 },
+    { "text": "Přikryj, přiveď k varu a vař 20 až 60 minut.", "minutes": 68 },
+    { "text": "Sceď a ponoř do studené vody, aby úplně vychladly.", "minutes": 10 },
+    { "text": "Odlom klepeta a ocas nebo zadeček.", "minutes": 5 },
+    { "text": "Ostrým silným nožem zaklínuj u konce ocasu a rozevři skořápku.", "minutes": 8 },
+    { "text": "Odstraň houbovitou hmotu (žábry, žaludek a střeva) mezi horní skořápkou a tělem.", "minutes": 6 },
+    { "text": "Vyjmi maso a rozvlákni ho.", "minutes": 6 },
+    { "text": "Klepeta rozlam kleštěmi nebo malým kladivem a vyjmi z nich maso.", "minutes": 4 },
+    { "text": "Maso důkladně prohlédni, zda v něm nejsou drobné chrupavky nebo úlomky skořápky.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nemá tabulku na 100 porcí, ale postup na 1 krab (8 oz ≈ 230 g) = ½ šálku masa (4 oz). Krab se proto počítá jako porce: 4 živí krabi, 910 g. Vodu (zdroj ji nekvantifikuje) a sůl dávám jako domácí hodnoty: 2 l vody na 4 krabi, sůl 2 g/l (zdroj: 1 polévková lžíce na galon ≈ 3,7 g/l). Oboje se slije. Zdroj dává vaření 20–60 minut, použita horní mez; u krabu kolem 230 g obvykle stačí 15–20 minut, čas si zkrať. Odhad ediblePortion 0,5 je podle zdroje (maso ~4 oz z 8 oz); USDA záznam odpad 0 % se týká jen masa. Nález bilance (0,50) je záměrný: porce zdroje je celý krab (227 g), v jídle je jedlé maso (114 g). Zdroj doporučuje maso do salátů nebo zapékaných pokrmů. Varianta Steamed Crabs (pára z vody a octa) není zahrnuta.",
+  "source": {
+    "book": "navy-1944",
+    "page": 93,
+    "titleOriginal": "BOILED HARD SHELL CRAB"
+  },
+  "verified": true,
+  "quote": "Select only live crabs for cooking."
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "hrusky-v-konzerve",
+    "name": "Hrušky v konzervě (scezené)",
+    "aliases": [
+      "hrušky konzervované",
+      "konzervované hrušky",
+      "hrušky z konzervy",
+      "canned pears"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 74,
+      "protein": 0.24,
+      "carbs": 19.08,
+      "fat": 0.18,
+      "fiber": 2.7
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168182 (Pears, canned, heavy syrup, drained)",
+      "units": "bez porcí; váha scezeného ovoce podle AFRS (Weight)"
+    },
+    "units": {}
+  },
+  {
+    "id": "grapefruit-v-konzerve",
+    "name": "Grapefruit v konzervě (kousky)",
+    "aliases": [
+      "grapefruit z konzervy",
+      "konzervovaný grapefruit",
+      "canned grapefruit sections"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 33,
+      "protein": 0.69,
+      "carbs": 8.41,
+      "fat": 0.1,
+      "fiber": 1.1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "odhad podle čerstvého grapefruitu (USDA SR Legacy fdc:174676); USDA konzervovaný grapefruit v databázi nenalezen",
+      "units": "bez porcí"
+    },
+    "units": {}
+  }
+]

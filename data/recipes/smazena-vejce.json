@@ -1,0 +1,81 @@
+{
+  "id": "smazena-vejce",
+  "title": "Smažená vejce",
+  "titleOriginal": "Fried Eggs",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "na pánev; zdroj „bacon or other fat“, 1 lb ≈ 1 pint",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 8,
+      "unit": "ks",
+      "note": "2 vejce na porci (zdroj „Portion: 2 eggs“)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "podle chuti (zdroj „to taste“)"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "podle chuti (zdroj „to taste“)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej tuk na pánvi.",
+      "minutes": 3
+    },
+    {
+      "text": "Vejce po dvou rozbíjej do hrnku a vklouzni je na horký tuk.",
+      "minutes": 4
+    },
+    {
+      "text": "Smaž, dokud bílek nezbělá.",
+      "minutes": 4
+    },
+    {
+      "text": "Osol a opepři podle chuti."
+    },
+    {
+      "text": "Vejce vyndej z pánve na talíř.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí: 20 lb vajec (200 kusů, asi 45 g na kus) a 1 lb tuku „bacon or other fat“ (≈ 1 pint). Na 4 porce vychází 8 vajec (přesně 0,04 × 200; 2 vejce na porci podle zdroje) a 25 g tuku (třída fat, 1 lb × 0,0552); původní sádlo je v original, moderně máslo. Tuk při smažení vajec na pánvi zůstává z velké části na vejcích a v pánvi se nedá slít jako olej při hlubokém smažení, proto jeden řádek třídy fat, bez řádku nasáklého oleje. Sůl a pepř: zdroj jen „to taste“, proto spetka; check:recipe proto hlásí sůl 0,07 g na porci jako mimo rozsah, je to záměr a dochucuje se podle chuti (u 8 vajec běžně 1–2 g celkem). Kroky bez množství; výdej a skladování vynechány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 69,
+    "titleOriginal": "FRIED EGGS"
+  },
+  "verified": true,
+  "quote": "Cook until whites are done."
+}

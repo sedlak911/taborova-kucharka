@@ -1,0 +1,82 @@
+{
+  "id": "majoneza-navy",
+  "title": "Majonéza",
+  "titleOriginal": "Mayonnaise",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 126,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "vejce",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 0.1,
+      "unit": "ks",
+      "note": "celé vejce, na 4 porce asi desetina; viz modernNote"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 0.9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.38,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "tenkým proudem"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "5% (50 grain)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozšlehej vejce.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej sůl, cukr a sušenou hořčici a šlehej.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého šlehání přilévej olej tenkým proudem a postupně zrychluj, jak emulze houstne. Pokud se emulze začne rozpadat, přidej trochu octa.",
+      "minutes": 15
+    },
+    {
+      "text": "Zbylý ocet vmíchej po přidání všeho oleje a šlehej ještě minutu.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj má výtěžek ½ gal a porci 1 tablespoon (15 ml), takže dávka má 126 porcí, nikoli 100 (originalYield 126). Surovina `majoneza` v katalogu je kupovaná; tento recept je domácí, proto má vlastní id. Zdroj nemá kalorie. Rozpor ve zdroji: olej 1 lb 14 oz (850 g) vs ½ gal (1 893 ml, u oleje asi 1 740 g); použita váha, která sedí na počet vajec (asi 4 na 850 g oleje). Ocet ze zdroje je 50 grain (5 %); katalogový ocet je 8 %, ředit vodou na 5 %. Vejce: 6 oz (170 g) = asi 3,8 ks, na 4 porce vychází 0,1 ks, proto doma dělej dávku s celým vejcem (asi 250 ml oleje). Nálezy kontroly: cukr 0,9 g na 4 porce je přesný přepočet (1 oz na 126 porcí), v malé dávce zanedbatelný, lze přidat podle chuti; sůl 0,25 g na porci (1 tbsp) odpovídá asi 1,7 % soli v majonéze, je to správně. Časy kroků jsou z velké dávky zdroje, malá dávka se zvládne rychleji. Sůl a cukr doladit podle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 212,
+    "titleOriginal": "MAYONNAISE"
+  },
+  "verified": false,
+  "quote": "Beat eggs 2 minutes."
+}

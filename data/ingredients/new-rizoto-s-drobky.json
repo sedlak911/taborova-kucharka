@@ -1,0 +1,28 @@
+[
+  {
+    "id": "kureci-drobky",
+    "name": "Kuřecí drůbeží drobky",
+    "aliases": [
+      "drůbeží drobky",
+      "kuřecí drobky",
+      "kuřecí srdce a žaludky",
+      "chicken giblets"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 124,
+      "protein": 17.88,
+      "carbs": 1.8,
+      "fat": 4.47,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171057 (Chicken, broilers or fryers, giblets, raw)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

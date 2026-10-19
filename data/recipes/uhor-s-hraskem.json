@@ -1,0 +1,120 @@
+{
+  "id": "uhor-s-hraskem",
+  "title": "Úhoř s hráškem",
+  "titleOriginal": "Eels with Peas (Anguille coi piselli)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "losos",
+      "amount": 500,
+      "unit": "g",
+      "note": "místo úhoře (v řádku tučná ryba); kousky bez kůže a kostí",
+      "original": {
+        "ingredientId": "uhor",
+        "amount": 600,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 150,
+      "unit": "g",
+      "note": "1 velká, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "hrst, nasekaná"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "2 lžíce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 400,
+      "unit": "g",
+      "note": "jedlá část (vyloupaný), čerstvý nebo mražený"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 100,
+      "unit": "ml",
+      "note": "trochu, aby hrášek v omáčce nevyschl"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 100,
+      "unit": "g",
+      "note": "4 krajíce na topinky, krájené na kosočtverce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli a petrželovou nať nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "V hrnci rozehřej olej a osmahni na něm cibuli s petrželí dozlatova; osol a opepři.",
+      "minutes": 8
+    },
+    {
+      "text": "Rybu nakrájej na kousky, vlož je do cibulové omáčky a nech je chvíli nasáknout její chutí.",
+      "minutes": 5
+    },
+    {
+      "text": "Dovař rybu v omáčce, až bude hotová, a vyjmi ji z hrnce stranou.",
+      "minutes": 10
+    },
+    {
+      "text": "Do zbylé omáčky přidej hrášek, podlij trochou vody, aby nepřipálil, a přikryj.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím nakrájej chléb na kosočtverce a opeč je na suché pánvi dozlatova.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Vrať kousky ryby do omáčky a nech je prohřát.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej horké, obložené topinkami."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 119 „Eels with Peas“) uvádí jen postup, bez množství a počtu porcí. Úhoř je v běžném prodeji vzácný, proto je v řádku losos (tučná ryba, podobné složení: 208 kcal a 13 g tuku na 100 g oproti úhoři 184 kcal a 12 g tuku). Původní úhoř 600 g (celý, s kůží a kostmi, asi 540 g jedlé části) je v `original`; název podle knihy ponechán, v receptu je losos. Odhady z běžné praxe pro 4 porce: losos 500 g (125 g na porci), cibule 150 g, petrželová nať 10 g, olivový olej 30 ml (zdroj: „oil“), sůl 5 g a pepř 1 g podle chuti, hrášek 400 g jedlé části (asi 100 g na porci, hrášek se vaří v omáčce), chléb 100 g na topinky. Voda 100 ml je moje doplnění, aby hrášek v omáčce nevyschl; zdroj žádnou vodu nepřidává. Zdroj výslovně říká, že se k tomuto jídlu nepoužívá rajčatová omáčka (č. 12), tak ji nepřidáváme. Ryba se vaří v cibulové omáčce, vyjme se suchá, hrášek se dovaří v omáčce a ryba se do ní vrátí jen prohřát. Čas 45 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 92,
+    "titleOriginal": "EELS WITH PEAS (Anguille coi piselli)"
+  },
+  "verified": false,
+  "quote": "No tomato sauce is necessary here."
+}

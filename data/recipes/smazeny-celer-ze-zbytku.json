@@ -1,0 +1,102 @@
+{
+  "id": "smazeny-celer-ze-zbytku",
+  "title": "Smažený celer ze zbytků",
+  "titleOriginal": "Fried Celery (Sedani fritti)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 600,
+      "unit": "g",
+      "group": "Celer",
+      "note": "zbytky uvařeného celeru; odhad 150 g na porci"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "na těsto (frying paste) spolu s vejci; odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "na těsto (flour and egg)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 300,
+      "unit": "ml",
+      "group": "Smažení",
+      "note": "na smažení v pánvi (asi 2 cm); většina zůstane",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Smažení",
+      "note": "nasáklý při smažení (odhad)",
+      "scaling": "fat"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Podávání",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zbytky celeru nakrájej na kousky a co nejlépe otři od omáčky, ve které byl podávaný.",
+      "minutes": 5
+    },
+    {
+      "text": "Vejce rozšlehej s moukou na hladké těsto.",
+      "minutes": 3
+    },
+    {
+      "text": "V pánvi rozehřej olej, až je dostatečně horký na smažení.",
+      "minutes": 5
+    },
+    {
+      "text": "Kousky celeru obal v těstě a po jednom vkládej do horkého oleje; smaž z obou stran dozlatova po dávkách.",
+      "minutes": 8
+    },
+    {
+      "text": "Hotové kousky vyjmi a nech okapat na papírové utěrce.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej horké s citronem."
+    }
+  ],
+  "modernNote": "Gentile uvádí jen postup a nepíše množství ani počet porcí. Jde o zbytky už uvařeného celeru: 600 g jedlé části (asi 150 g na porci) je odhad z běžné praxe pro přílohu, skutečné množství záleží na tom, co zbylo. Těsto z mouky a vajec (zdroj: frying paste, flour and egg) má 100 g hladké mouky a 2 vejce (odhad). Citron 1 ks na podávání. Olej 300 ml na smažení v pánvi (asi 2 cm, nepočítá se do porce) a 30 ml nasáklého tuku v obalu (odhad) jsou z běžné praxe; zdroj neuvádí druh tuku, zvolen řepkový olej. Celer se před obalením otře od omáčky, jak zdroj radí. Čas 30 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 121,
+    "titleOriginal": "FRIED CELERY (Sedani fritti)"
+  },
+  "verified": false,
+  "quote": "This is a convenient way to prepare left-over celery that is still too good to be thrown away."
+}

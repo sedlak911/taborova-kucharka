@@ -1,0 +1,82 @@
+{
+  "id": "celerove-kroupy",
+  "title": "Celerové kroupy",
+  "titleOriginal": "Selleriegraupen",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kroupy",
+      "amount": 320,
+      "unit": "g",
+      "note": "ve zdroji 100 g na hlavu; namočené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1300,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "celer-bulvovy",
+      "amount": 100,
+      "unit": "g",
+      "note": "místo polévkové zeleniny; ve zdroji až 50 g čerstvého (nebo 5 g sušeného) na hlavu"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "zdroj: „einige Zwiebeln“ bez množství (odhad, asi 1 větší cibule)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočené kroupy zalij studenou vodou (vodou z namáčení) a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso, nakrájený celer, nakrájenou cibuli a sůl a vař do měkka asi 3 hodiny (vepřové jen asi 2 hodiny).",
+      "minutes": 180
+    },
+    {
+      "text": "Dochuť solí a kořením."
+    }
+  ],
+  "modernNote": "Řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (celeru) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Základ je kroupová polévka s masem (Grundgericht, s. 33), jen místo polévkové zeleniny je až 50 g celeru na hlavu a několik cibulí; množství cibule zdroj neuvádí, 100 g je odhad. Zdroj neuvádí množství masa ani vody ani soli: 400 g hovězího (100 g na porci), vodu a sůl jsme odhadli, proto verified: false. Kroupy je dobré namočit několik hodin předem (zdroj: Einweichwasser, doba neuvedena). Sušenou zeleninu, trvanlivou vařenou klobásu (do hotového jídla, krátce svařit) a konzervované maso (až těsně před podáváním) zdroj také připouští, zde jsou vynechány; vepřové maso se vaří jen asi 2 hodiny. Dochucení kvasničným extraktem, celerem, petrželí a saturejkou je bez množství, dávkuj po špetkách.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 19,
+    "code": "5. (varianta, tišt. 34)",
+    "titleOriginal": "Selleriegraupen"
+  },
+  "verified": false,
+  "quote": "Statt der Suppenkräuter sind bis zu 50 g frische oder 5 g getrocknete Sellerie und einige Zwiebeln im Gericht mitzukochen."
+}

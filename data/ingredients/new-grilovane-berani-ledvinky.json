@@ -1,0 +1,27 @@
+[
+  {
+    "id": "jehneci-ledvinky",
+    "name": "Jehněčí ledvinky",
+    "aliases": [
+      "jehněčí ledviny",
+      "ledviny jehněčí",
+      "lamb kidney"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 97,
+      "protein": 15.74,
+      "carbs": 0.82,
+      "fat": 2.95,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.97,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174354 (Lamb, variety meats and by-products, kidneys, raw)",
+      "refuse": "USDA odpad 3 % (pojivová tkáň, tuk, žilky) → ediblePortion 0.97"
+    }
+  }
+]

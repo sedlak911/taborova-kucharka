@@ -1,0 +1,110 @@
+{
+  "id": "kukuricne-susenky",
+  "title": "Kukuřičné sušenky",
+  "titleOriginal": "Corn Meal Cakes (Pasta di farina gialla)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukuricna-mouka",
+      "amount": 105,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "kukuřičná mouka (zdroj: 7½ oz)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "zdroj: 5½ oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "zdroj: 5½ oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "zdroj: 3½ oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "zdroj: 2 oz; část použij i na vymazání plechu",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "anyz-zrnka",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Těsto",
+      "note": "zdroj: „a pinch of anise seed“"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "zdroj: jedno vejce, přepočteno na půl; vejce rozšlehej, polovinu dej do těsta a zbytek použij na potření"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 25,
+      "unit": "ml",
+      "group": "Těsto",
+      "note": "odhad, zdroj množství neuvádí"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Posypání",
+      "note": "odhad, zdroj množství neuvádí"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Smíchej kukuřičnou mouku, hladkou mouku a anýz.", "minutes": 2 },
+    { "text": "S máslem, sádlem a vejcem vypracuj co nejvíc směsi do jednoho bochánku; zbytek zpracuj s vodou do druhého bochánku.", "minutes": 10 },
+    { "text": "Oba bochánky spoj a krátce prohněť, jen tak, aby těsto zůstalo měkké.", "minutes": 3 },
+    { "text": "Vyválej na tloušťku asi půl centimetru, posyp moukou a tenkými formičkami vykrajuj různé tvary.", "minutes": 10 },
+    { "text": "Plech vymaž sádlem a posyp moukou, vykrojené tvary na něj polož.", "minutes": 3 },
+    { "text": "Potři rozšlehaným vejcem.", "minutes": 1 },
+    { "text": "Peč dozlatova.", "minutes": 15 },
+    { "text": "Po upečení posyp moučkovým cukrem a nech vychladnout." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 190, s. 130) uvádí suroviny bez počtu porcí; dávka (7½ oz kukuřičné mouky, 5½ oz hladké mouky, 5½ oz cukru, 3½ oz másla, 2 oz sádla, 1 vejce) dá na tři plechy sušenek, tedy asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8). Jedno vejce ze zdroje je tedy půl vejce; zbytek rozšlehaného vejce stačí na potření. Voda 25 ml a moučkový cukr 5 g jsou odhady, zdroj je neuvádí. Teplota 180 °C a doba pečení 15 minut jsou odhad z praxe. Sádlo se používá jak v těstě, tak na vymazání plechu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 134,
+    "titleOriginal": "CORN MEAL CAKES (PASTA DI FARINA GIALLA)"
+  },
+  "verified": false,
+  "quote": "Mix together the corn meal, the flour and the anis seed and knead with the butter, the lard and the egg"
+}

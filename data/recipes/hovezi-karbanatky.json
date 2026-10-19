@@ -1,0 +1,108 @@
+{
+  "id": "hovezi-karbanatky",
+  "title": "Hovězí karbanátky",
+  "titleOriginal": "Beef Meat Balls",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 560,
+      "unit": "g",
+      "note": "hovězí maso bez kosti (zdroj: boneless 31 lb), nakrájené na kostky a semleté"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 110,
+      "unit": "g",
+      "note": "suchý chléb (váha před namočením), namočený a vymačkaný"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.4,
+      "unit": "ks",
+      "note": "lehce rozšlehané"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 40,
+      "unit": "ml",
+      "note": "na podlití plechu"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání plechu (odhad)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namoč chléb do vody, vymačkej ho a vodu vylij.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím nasekej cibuli nadrobno.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Maso nakrájej na malé kostky a semel ho.",
+      "minutes": 8
+    },
+    {
+      "text": "Smíchej chléb s mletým masem, cibulí, vejcem, solí a pepřem; mísi lehce, ale důkladně.",
+      "minutes": 3
+    },
+    {
+      "text": "Tvaruj kulaté karbanátky stejné velikosti.",
+      "minutes": 10
+    },
+    {
+      "text": "Plech vymaž olejem, polož na něj karbanátky a peč v horké troubě při 200 °C, dokud nezhnědnou ze všech stran.",
+      "minutes": 15
+    },
+    {
+      "text": "Přilij trochu vývaru, plech pevně přikryj a peč při 150 °C asi 30 minut.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj (Navy 1944, s. 113 tištěná) počítá na 100 porcí; porce = 4 karbanátky po 2 oz (asi 57 g), tedy 8 karbanátků na libru. Maso: zdroj uvádí buď bone-in 45 lb, nebo boneless 31 lb; použito boneless 31 lb. Voda na namočení chleba se vymačkává a vylévá, proto není v receptu. Vejce: 1 lb = 10 ks, pro 4 porce 0,4 ks. Vývar „Beef Stock (page 216)“ je 1 quart na 100 porcí, pro 4 porce 40 ml. Olej na vymazání plechu nemá ve zdroji množství; přidán jako odhad (5 ml, třída vessel). Sůl je podle zdroje (11 g pro 4 porce, asi 2,75 g na porci, což je nad doporučeným rozsahem 0,5–2,5 g); doporučuji ji snížit na 2 g na porci (8 g celkem) a dochutit podle chuti. Zdroj doporučuje podávat s hnědou omáčkou (s. 177) nebo rajčatovou omáčkou (s. 184); omáčka není součástí receptu. Varianta z téže strany: telecí karbanátky (veal) místo hovězího – nezpracováno.",
+  "source": {
+    "book": "navy-1944",
+    "page": 121,
+    "titleOriginal": "BEEF MEAT BALLS"
+  },
+  "verified": true,
+  "quote": "Mix bread and ground meat together with remaining ingredients lightly, but thoroughly."
+}

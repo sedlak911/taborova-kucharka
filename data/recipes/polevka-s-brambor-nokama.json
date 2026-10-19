@@ -1,0 +1,118 @@
+{
+  "id": "polevka-s-brambor-nokama",
+  "title": "Polévka s bramborovými noky",
+  "titleOriginal": "Gnocchi (soup)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 400,
+      "unit": "g",
+      "note": "vařené ve slupce, oloupané; moučnatá odrůda"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 160,
+      "unit": "g",
+      "note": "uvařená nebo pečená prsa, jemně umletá"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 40,
+      "unit": "g",
+      "note": "nastrouhaný; zdroj: Parmesan nebo Swiss sýr"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zdroj: dva nebo více žloutků; použit nejmenší počet"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti, do těsta"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "velmi malé množství"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g",
+      "note": "tolik, aby vzniklo tuhé těsto"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "na vaření noků a jako polévka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař doměkka ve slupce, oloupej a ještě horké rozmačkej.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím přiveď vývar k varu.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím prsa umel nebo nastrouhej co nejjemněji.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Rozmačkané brambory smíchej s masem, sýrem, žloutky, solí a muškátovým oříškem.",
+      "minutes": 3
+    },
+    {
+      "text": "Do směsi přidej tolik mouky, aby vzniklo tuhé těsto.",
+      "minutes": 3
+    },
+    {
+      "text": "Z těsta vyválej válečky silné jako malíček.",
+      "minutes": 5
+    },
+    {
+      "text": "Válečky nakrájej na kousky dlouhé asi 1,25 cm.",
+      "minutes": 3
+    },
+    {
+      "text": "Noky vař ve vroucím vývaru 5 až 6 minut, dokud nevyplavou.",
+      "minutes": 6
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Gentile uvádí suroviny bez množství a bez počtu porcí, všechna množství jsou odhad z běžné praxe pro 4 porce: brambory 400 g vařených (100 g na porci), maso 160 g uvařeného kuřete nebo krůty (40 g na porci; v noku je to přísada, ne hlavní složka, a víc masa by těsto nedrželo pohromadě), 120 g hladké mouky (podle těsta, zdroj říká „tolik, aby vzniklo tuhé těsto“, přidávej postupně), 2 žloutky (zdroj: dva nebo více), 40 g parmezánu, sůl 5 g, muškátový oříšek 0,5 g („small quantity“). Zdroj píše, že noky se vaří ve vroucí vodě; zde ve vývaru 1 200 ml (300 ml na porci), protože jde o polévku, a to je doporučení mimo zdroj. Doba 50 minut je odhad. Zdroj neuvádí, kolik vývaru podávat. Hmotnost porce 490 g je nad 450 g kvůli vývaru: vývar 300 ml + asi 190 g noků; vývar ani noky dál nezmenšuji, porce je jako polévka s vložkou odpovídající.",
+  "source": {
+    "book": "italian-1919",
+    "page": 11,
+    "titleOriginal": "GNOCCHI (SOUP)"
+  },
+  "verified": false,
+  "quote": "This is an excellent soup, but as it requires boiled or roast breast of chicken or turkey it is well to make it only when these ingredients are handy."
+}

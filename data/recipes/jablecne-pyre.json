@@ -1,0 +1,33 @@
+{
+  "id": "jablecne-pyre",
+  "title": "Jablečné pyré",
+  "titleOriginal": "Applesauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "bez-masa", "sladke"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "jablko", "amount": 870, "unit": "g", "note": "čerstvá jablka, na čtvrtky; zdroj: 48 lb jablek (A.P.)" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "jen tolik, aby se jablka nepřipálila; zdroj: „small amount“, odhad 1 l na 100 porcí" },
+    { "ingredientId": "cukr-krystal", "amount": 110, "unit": "g", "note": "přidej až po scezení" },
+    { "ingredientId": "citronova-stava", "amount": 9, "unit": "ml", "note": "zdroj: ¾ cupu (3 citrony)" }
+  ],
+  "steps": [
+    { "text": "Jablka omyj, vykrájej jádřince a nakrájej na čtvrtky.", "minutes": 8 },
+    { "text": "Vlož je do hrnce a zalij tolik vody, aby se nepřipálila.", "minutes": 2 },
+    { "text": "Vař 60 minut, nebo dokud jablka nezměknou.", "minutes": 60 },
+    { "text": "Protlač přes jemné síto.", "minutes": 5 },
+    { "text": "Vmíchej cukr a citronovou šťávu.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 až 5 oz (zhruba ⅔ hrnku). Jablka jsou v zdroji „A.P.“ (jako nakoupená, s jádřinci), zdroj dovoluje je před vařením oloupat. Voda je v zdroji jen „malé množství“, proto je 40 ml odhad (1 l na 100 porcí) a recept je `verified: false`. Hmotnostní bilance vychází asi 2× nad nominální porci zdroje (257 g vs. 4–5 oz), ale zdroj sám uvádí, že 6 No. 10 cans (4¾ gal ≈ 18 l) nahradí 48 lb jablek, tj. skutečný výtěžek je ≈ 180 g na porci; zbytek do 257 g jde na jádřince, slupky a odpar při 45–60 minutách vaření. Čísla zdroje proto zůstala. Varianta „Spiced Applesauce“ (skořice a hřebíček do horkého pyré) z téže strany není součástí tohoto receptu; lze ji přidat dochucením podle chuti. Citronová šťáva je z katalogu jako `aromatic`, cukr zůstává `linear` (sladidlo hlavní složky).",
+  "source": {
+    "book": "navy-1944",
+    "page": 76,
+    "titleOriginal": "APPLESAUCE"
+  },
+  "verified": false
+}

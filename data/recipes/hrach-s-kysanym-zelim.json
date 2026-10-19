@@ -1,0 +1,88 @@
+{
+  "id": "hrach-s-kysanym-zelim",
+  "title": "Hrách s kysaným zelím",
+  "titleOriginal": "Erbsen oder Bohnen oder Linsen mit Sauerkraut",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 170,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hrach-puleny",
+      "amount": 400,
+      "unit": "g",
+      "note": "ve zdroji 140 g na hlavu; suchý, namočený přes noc"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "uzene-maso",
+      "amount": 400,
+      "unit": "g",
+      "note": "zdroj dovoluje i čerstvé maso; množství masa zdroj neuvádí (doplněno, 100 g na porci)"
+    },
+    {
+      "ingredientId": "kysele-zeli",
+      "amount": 500,
+      "unit": "g",
+      "note": "nepropláchnuté (ungewässert), ve zdroji 125 g čerstvého na hlavu"
+    },
+    {
+      "ingredientId": "jalovec",
+      "amount": 5,
+      "unit": "ks",
+      "note": "odhad: zdroj říká jen „několik“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „dochutit solí“; zelí je už slané, ochutnej"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočený hrách i s vodou z namáčení dej do hrnce, doplň studenou vodou a přiveď k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Vař 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej maso, nepropláchnuté kysané zelí a několik jalovcových bobulí.",
+      "minutes": 5
+    },
+    {
+      "text": "Vař do měkka, asi 1 a půl hodiny.",
+      "minutes": 90
+    },
+    {
+      "text": "Dochuť solí."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 140 g hrachu na muže; zde 100 g hrachu na porci, řádky jsou praktické domácí množství pro 4 porce. Množství masa (100 g na porci), vody (1,2 l) a soli (2 g) jsou odhad, proto verified: false. Jalovcové bobule zdroj uvádí jen jako „několik“; 5 kusů (asi 1 g) je odhad, lze vynechat. Stejně funguje fazole nebo čočka (čočka se nenamáčí). Luštěniny namoč přes noc, vodu z namáčení použij k vaření.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 22,
+    "code": "4. (varianta, tišt. 41)",
+    "titleOriginal": "Erbsen oder Bohnen oder Linsen mit Sauerkraut"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pstruh-ve-vine-po-alpsku",
+  "title": "Pstruh po alpsku ve víně",
+  "titleOriginal": "Trout Alpine (Trota all'alpigiana)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "pstruh", "amount": 1200, "unit": "g", "group": "Ryby", "note": "4 pstruzi po asi 300 g, celí, s odpadem (asi 560 g jedlé části)" },
+    { "ingredientId": "sul", "amount": 8, "unit": "g", "group": "Ryby", "note": "na osolení ryb, asi 0,7 % hmotnosti" },
+    { "ingredientId": "bile-vino", "amount": 950, "unit": "ml", "group": "Vývar", "note": "1 quart (946 ml) suchého bílého vína" },
+    { "ingredientId": "cibule", "amount": 330, "unit": "g", "group": "Vývar", "note": "3 střední cibule, oloupané (asi 110 g každá)" },
+    { "ingredientId": "cesnek", "amount": 2, "unit": "ks", "group": "Vývar", "note": "2 stroužky, nakrájené" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.8, "unit": "g", "group": "Vývar", "note": "asi 4 celé hřebíčky, mletý ekvivalent" },
+    { "ingredientId": "tymian-cerstvy", "amount": 2, "unit": "g", "group": "Vývar", "note": "do svazku s bobkovým listem a bazalkou" },
+    { "ingredientId": "bazalka-cerstva", "amount": 3, "unit": "g", "group": "Vývar", "note": "zdroj dává bazalku nebo mátu" },
+    { "ingredientId": "bobkovy-list", "amount": 1, "unit": "ks", "group": "Vývar", "note": "1 list do svazku bylinek" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "group": "Omáčka", "note": "kousek velikosti vejce, obalený v mouce" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "group": "Omáčka", "note": "na obalení másla" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "group": "Podávání", "note": "nasekaná, na posypání" }
+  ],
+  "steps": [
+    { "text": "Pstruhy vykuchej, zbav šupin, opláchni a osuš.", "minutes": 10 },
+    { "text": "Pstruhy zevnitř i zvenku osol a nech asi hodinu odležet." },
+    { "text": "Do velkého hrnce nalij bílé víno a přidej půlené cibule, hřebíček, nakrájený česnek a svazek bylinek (tymián, bobkový list, bazalku).", "minutes": 3 },
+    { "text": "Přidej kousek másla velikosti vejce, obalený v mouce.", "minutes": 2 },
+    { "text": "Pstruhy vlož do hrnce a postav na silný oheň.", "minutes": 2 },
+    { "text": "Přiveď k varu; jakmile tekutina vře, jsou pstruzi hotoví.", "minutes": 8 },
+    { "text": "Mezitím nasekej petrželku nadrobno.", "minutes": 2, "parallel": true },
+    { "text": "Vyjmi cibuli a svazek bylinek.", "minutes": 2 },
+    { "text": "Podávej pstruhy s omáčkou, posypané petrželkou." }
+  ],
+  "modernNote": "Zdroj nedává žádná množství, jen postup pro celou rybu v rybím kotli. Odhady pro 4 porce: pstruzi 4 × asi 300 g celí (s hlavou a vnitřnostmi, asi 47 % jedlé části, tj. asi 140 g masa na porci). Bílé víno 1 quart (946 ml) ze zdroje, zaokrouhleno na 950 ml a bráno pro celé jídlo. Cibule 3 střední (asi 330 g), česnek 2 stroužky, hřebíček asi 4 celé kusy (0,8 g mletého), tymián 2 g, bazalka 3 g (zdroj dává bazalku nebo mátu), 1 bobkový list. Máslo velikosti vejce ~50 g a mouka 8 g na obalení jsou odhad z běžné praxe. Sůl 8 g (asi 0,7 % hmotnosti ryb, odhad). Petrželka 5 g na posypání je odhad. Zdroj používá rybí kotel (velký hrnec), proto plotna a tag tabor. Doba: osolení ryb (hodina ve zdroji) se do času nepočítá, Hotovo 27 min.",
+  "source": {
+    "book": "italian-1919",
+    "page": 124,
+    "titleOriginal": "Trout Alpine (Trota all'alpigiana)"
+  },
+  "verified": false,
+  "quote": "Often the trout is cooked in wine, but, of course, this part may be changed."
+}

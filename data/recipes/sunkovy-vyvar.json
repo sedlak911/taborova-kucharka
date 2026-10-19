@@ -1,0 +1,101 @@
+{
+  "id": "sunkovy-vyvar",
+  "title": "Šunkový vývar",
+  "titleOriginal": "Ham Stock",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 400,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunkova-kost",
+      "amount": 450,
+      "unit": "g",
+      "note": "šunkové kosti nebo odřezky; po vaření se vyhodí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1210,
+      "unit": "ml",
+      "note": "studená, aby kosti byly zcela ponořené"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nahrubo nakrájená"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nahrubo nakrájený"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 25,
+      "unit": "g",
+      "note": "nahrubo nakrájená"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.3,
+      "unit": "ks"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kosti opékej na suché pánvi po částech dozlatova.",
+      "minutes": 15
+    },
+    {
+      "text": "Cibuli, celer a mrkev nahrubo nakrájej.",
+      "minutes": 5
+    },
+    {
+      "text": "Do velkého hrnce nalij studenou vodu a vlož kosti, zeleninu, sůl, pepř a bobkový list.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu a na mírném ohni duš 6 hodin.",
+      "minutes": 370
+    },
+    {
+      "text": "Vývar přeceď přes sítko a nech ho mírně vychladnout.",
+      "minutes": 5
+    },
+    {
+      "text": "Vychladlý vývar dej přikrytý do lednice. Před použitím sejmi ztuhlou vrstvu tuku z hladiny."
+    }
+  ],
+  "modernNote": "Zdroj (Navy, Ham Stock, s. 226 PDF, tištěná 218) počítá 25 lb šunkových kostí, 8 gal vody a 6 hodin vaření na 100 porcí (výtěžek 6 gal, tedy ~227 ml na porci); pro 4 porce vychází ~900 ml vývaru. Kosti zdroj peče v troubě; tady se opékají na pánvi, protože jídlo se nepeče. Šunkové kosti jsou nová surovina `sunkova-kost` s makry ~0 kcal, protože se po vaření vyhodí a do vývaru přejde jen malá část tuku a bílkovin. Sůl 7 g (třída seasoning) je pro vývar poměrně silná, doporučuji ubrat na 4–5 g. Pepř 0,11 g podle zdroje (¾ čajové lžičky na 100 porcí) je spíš symbolický, dochuť podle chuti. Vychlazení v lednici trvá několik hodin, proto tag pripravit-predem; ztuhlý tuk ze zdroje lze použít na vaření. Bobkový list 0,3 ks je přepočtený ze zdroje (5 listů na 100 porcí). Šunkové kosti mají stejné ediblePortion 0,3 a makra 0 jako `hovezi-kosti` a `teleci-kosti`. Nízké kcal (5 na porci) a hmotnost porce 353 g vůči porci zdroje (1 cup, 237 ml, poměr 1,5) jsou očekávané: vývar je z velké části voda a kosti se vyhodí, takže nejde o chybu receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 226,
+    "titleOriginal": "HAM STOCK"
+  },
+  "verified": true,
+  "quote": "Use stock as base for soups, gravies and sauces."
+}

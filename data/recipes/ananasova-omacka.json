@@ -1,0 +1,52 @@
+{
+  "id": "ananasova-omacka",
+  "title": "Ananasová omáčka",
+  "titleOriginal": "Pineapple Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 40,
+      "unit": "g",
+      "note": "podle sladkosti ovoce"
+    },
+    {
+      "ingredientId": "ananas-konzervovany",
+      "amount": 180,
+      "unit": "g",
+      "note": "drcený, včetně šťávy"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej kukuřičný škrob s cukrem.", "minutes": 2 },
+    { "text": "Vmíchej směs do drceného ananasu.", "minutes": 2 },
+    { "text": "Vař, dokud omáčka nezprůhlední.", "minutes": 8 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 polévkových lžících (2 oz) a výtěžek 1½ gal; pro 4 porce vychází 228 g omáčky. Zdroj neuvádí konzervu, ale 10 lb drceného ananasu se šťávou odpovídá konzervovanému ananasu (USDA juice pack). Rozpor: 4½ cupu cukru (asi 900 g) proti 2 lb 4 oz (1 021 g) – přednost má váha, cukr je podle sladkosti ovoce, uber nebo přidej. Volitelně lze přidat zázvor (zdroj 1 polévková lžíce na 100 porcí, pro 4 porce asi špetka). Podává se k rýžovému nebo škrobovému pudinku, ovocným fritátům a k zbytkům koláče.",
+  "source": {
+    "book": "navy-1944",
+    "page": 66,
+    "titleOriginal": "PINEAPPLE SAUCE"
+  },
+  "verified": false,
+  "quote": "Cook until clear."
+}

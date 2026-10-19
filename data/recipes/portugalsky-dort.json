@@ -1,0 +1,108 @@
+{
+  "id": "portugalsky-dort",
+  "title": "Portugalský dort",
+  "titleOriginal": "Portuguese Cake (Focaccia alla Portoghese)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko",
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mandle",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "loupané, nasekané nadrobno (zdroj: oloupané mandle)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "bramborova-mouka",
+      "amount": 20,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "zdroj „potato meal“"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.5,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "žloutky a bílky se zpracují zvlášť; 1,5 vejce = rozšlehej 2 vejce a odlej čtvrtinu"
+    },
+    {
+      "ingredientId": "pomeranc",
+      "amount": 150,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "1 velký pomeranč (asi 150 g), nepůlí se; použije se šťáva a jemně nastrouhaná kůra (kůry stačí polovina)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "note": "na vymazání formy"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Poleva",
+      "note": "odhad, zdroj neuvádí množství"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Poleva",
+      "note": "bílek navíc, zdroj uvádí „white of eggs“ bez počtu"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 5,
+      "unit": "ml",
+      "group": "Poleva",
+      "note": "odhad, zdroj neuvádí množství"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Formu vymaž máslem a vylož pečicím papírem.", "minutes": 3 },
+    { "text": "Mandle nasekej nadrobno.", "minutes": 3 },
+    { "text": "Vejce rozděl na žloutky a bílky; žloutky vyšlehej s cukrem do husté pěny.", "minutes": 10 },
+    { "text": "Mezitím ušlehej bílky dotuha.", "minutes": 4, "parallel": true },
+    { "text": "Do žloutkové směsi vmíchej bramborovou mouku a nasekané mandle.", "minutes": 3 },
+    { "text": "Pomeranč vymačkej, šťávu přeceď sítkem a vmíchej do těsta spolu s trochou jemně nastrouhané kůry.", "minutes": 2 },
+    { "text": "Opatrně vmíchej ušlehané bílky.", "minutes": 3 },
+    { "text": "Těsto přelij do formy a peč, dokud nezezlátne a párátko nevyjde suché.", "minutes": 35 },
+    { "text": "Nech dort v formě vychladnout." },
+    { "text": "Prosej moučkový cukr, smíchej ho s bílkem a citronovou šťávou a vyšlehej do hladké polevy.", "minutes": 3 },
+    { "text": "Polevou potři vychladlý dort a nech ji zaschnout." }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí 5 oz mandlí, 5 oz cukru, 1½ oz bramborové mouky, 3 vejce a 1 velký pomeranč, bez počtu porcí; dávka vychází na asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8): 70 g mandlí a cukru, 20 g bramborové mouky, 1,5 vejce. Pomeranč se nepůlí. Mandle se kupují loupané (zdroj: oloupané, bez blanšírování). Odhady z běžné praxe: poleva 30 g moučkového cukru, 1 bílek navíc, 5 ml citronové šťávy a 5 g másla na formu; zdroj u polevy uvádí jen „powdered sugar, lemon juice and the white of eggs“. Poleva je ze syrového bílku; kdo se mu chce vyhnout, může polevu šlehat nad párou, nebo bílek nahradit lžící vody. Teplota 180 °C a doba pečení 35 minut jsou odhad pro „very moderately hot oven“. Papírová forma ze zdroje je nahrazena vymazanou a vyloženou formou; čas 65 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 140,
+    "titleOriginal": "PORTUGUESE CAKE (Focaccia alla Portoghese)"
+  },
+  "verified": false,
+  "quote": "Finally add to the mixture the whites of the eggs well beaten."
+}

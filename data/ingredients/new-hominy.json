@@ -1,0 +1,32 @@
+[
+  {
+    "id": "hominy",
+    "name": "Hominy (kukuřice nixtamal) z konzervy",
+    "aliases": [
+      "hominy",
+      "hominy canned",
+      "kukuřice hominy",
+      "nixtamalizovaná kukuřice",
+      "pozole corn"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 72,
+      "protein": 1.48,
+      "carbs": 14.26,
+      "fat": 0.88,
+      "fiber": 2.5
+    },
+    "units": {
+      "hrnek": 165
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169701 (Hominy, canned, white)",
+      "refuse": "bez odpadu (obsah konzervy)",
+      "units": "USDA fdc:169701 cup = 165 g"
+    }
+  }
+]

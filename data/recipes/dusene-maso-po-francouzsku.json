@@ -1,0 +1,45 @@
+{
+  "id": "dusene-maso-po-francouzsku",
+  "title": "Dušené maso po francouzsku",
+  "titleOriginal": "French Stew (Stufato alla francese)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 345,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["siricitany"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 600, "unit": "g", "note": "kus na dušení; zdroj neuvádí množství, 150 g na porci" },
+    { "ingredientId": "spek", "amount": 60, "unit": "g", "note": "malé kostičky na dno a proužky na naslanění masa; odhad" },
+    { "ingredientId": "sunka", "amount": 40, "unit": "g", "note": "tenké plátky na dno; odhad" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "note": "svazek, vyjme se před podáváním" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.4, "unit": "g", "note": "celé hřebíčky (asi 4 ks), nemleté; vyjmout před podáváním" },
+    { "ingredientId": "cibule", "amount": 50, "unit": "g", "note": "půl střední cibule, nakrájená na plátky" },
+    { "ingredientId": "jarni-cibulka", "amount": 4, "unit": "ks", "note": "několik mladých cibulek, celé" },
+    { "ingredientId": "mrkev", "amount": 2, "unit": "ks", "note": "nakrájená na malé kostky" },
+    { "ingredientId": "bobkovy-list", "amount": 1, "unit": "ks" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "podle chuti, do masa i do zeleniny" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "skorice-mleta", "amount": 0.5, "unit": "g", "note": "zdroj „a taste of cinnamon“, lehce" },
+    { "ingredientId": "hovezi-vyvar", "amount": 470, "unit": "ml", "note": "2 šálky (474 ml) hovězího vývaru" },
+    { "ingredientId": "bile-vino", "amount": 240, "unit": "ml", "note": "1 šálek (237 ml), podle zdroje lze vynechat" }
+  ],
+  "steps": [
+    { "text": "Na dno hrnce polož tenké plátky šunky a několik malých kostiček špeku.", "minutes": 5 },
+    { "text": "Doprostřed polož svazek petrželky a kolem něj hřebíčky, půlku cibule nakrájenou na plátky, mrkev na malé kostky a jarní cibulky. Přidej bobkový list, sůl a pepř.", "minutes": 10 },
+    { "text": "Maso naslaň proužky špeku, osol, opepři a lehce ochuť skořicí. Polož ho na zeleninové lože.", "minutes": 10 },
+    { "text": "Zalij vývarem a vínem, přikryj hrnec pevně víkem a pod něj vlož mastný papír. Duš na velmi mírném plameni asi pět hodin, dokud maso nezměkne.", "minutes": 300 },
+    { "text": "Vyjmi maso, petrželku a hřebíčky. Maso nakrájej na plátky, omáčku se zeleninou protlač sítem.", "minutes": 10 },
+    { "text": "Omáčku znovu zahřej a přelij přes maso.", "minutes": 5 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj uvádí jen tekutiny (2 šálky vývaru nebo vody a 1 šálek bílého vína), koření a dobu (asi pět hodin na velmi mírném plameni); množství masa, zeleniny a špeku, počet porcí a sůl/pepř dopočítány pro 4 porce: hovězí přední 600 g (150 g na porci), špek 60 g a šunka 40 g (odhad), půl střední cibule 50 g, 4 jarní cibulky, 2 mrkve, svazek petrželky 10 g, sůl 6 g, pepř 1 g, skořice 0,5 g, bobkový list 1 ks. Vývar je hovězí (zdroj ho v tomto receptu nazývá „soup stock“), voda je v knize jen možná náhrada. Víno lze podle zdroje vynechat. Hřebíčky zdroj neuvádí v počtu („some cloves“), odhad 4 celé kusy, v katalogu je jen mletý hřebíček (0,4 g). Zdroj omáčku podává studenou i horkou; zde horkou. Doba dušení je podle zdroje, časy kroků jsou odhad. Maso, petrželka a hřebíčky se z omáčky vyjímají a nejedí; makra jsou orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 123,
+    "titleOriginal": "FRENCH STEW (Stufato alla francese)"
+  },
+  "verified": false,
+  "quote": "Cover the saucepan hermetically and cook on a very low fire for five hours."
+}

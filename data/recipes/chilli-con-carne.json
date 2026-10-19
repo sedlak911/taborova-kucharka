@@ -1,0 +1,105 @@
+{
+  "id": "chilli-con-carne",
+  "title": "Chilli con carne",
+  "titleOriginal": "Chili Con Carne",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 250,
+      "unit": "g",
+      "note": "mleté, 90 % libové"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 16,
+      "unit": "g",
+      "note": "tmavé, mleté"
+    },
+    {
+      "ingredientId": "kmin-mlety",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.69,
+      "unit": "g",
+      "note": "cayenne"
+    },
+    {
+      "ingredientId": "fazole-cervene-v-konzerve",
+      "amount": 460,
+      "unit": "g",
+      "note": "červené kidney, scezené z konzervy"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horká voda; ze zdroje 2 gal dohromady s tekutinou z konzervy fazolí (asi 150 ml z konzervy, zbytek voda)"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 120,
+      "unit": "g",
+      "note": "krájená, scezená"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaná"
+    }
+  ],
+  "steps": [
+    { "text": "Maso dej do kotlíku nebo velkého hrnce a opékej ve vlastní šťávě, dokud nezblědne. Rozmačkávej ho.", "minutes": 8 },
+    { "text": "Slij nebo seber přebytečný tuk.", "minutes": 2 },
+    { "text": "Smíchej chilli, kmín, papriku, sůl, česnekový prášek a červený pepř a vmíchej do uvařeného masa.", "minutes": 2 },
+    { "text": "Fazole sceď a odlož. Tekutinu z konzervy smíchej s horkou vodou a odlož.", "minutes": 3 },
+    { "text": "Přidej fazole, rajčata, rajčatový protlak a cibuli k masu a dobře promíchej.", "minutes": 3 },
+    { "text": "Vlej odloženou tekutinu s vodou, zamíchej a přiveď k varu.", "minutes": 8 },
+    { "text": "Přikryj, sniž plamen a duš 1 hodinu. Nevař prudce, občas zamíchej.", "minutes": 60 }
+  ],
+  "modernNote": "Chilli a červený pepř ponechány ve zdrojovém množství; pro děti polovinu. Zdroj počítá na 100 porcí po 1 hrnku (237 ml); recept je přepočten na 4 porce. Fazole: zdroj uvádí 33 7/8 lb fazolí s tekutinou, z toho 8 1/3 lb je tekutina; scezené fazole jsou tedy 25 1/2 lb a tekutina z konzervy se přidává zpět spolu s vodou (celkem 2 gal). Maso je 250 g na 4 porce (asi 62 g na porci), což je pod běžným rozsahem; odpovídá poměru zdroje (14 lb na 100 porcí). Doporučení: pro sytější jídlo přidej další maso (např. dvojnásobek); podle potřeby dolij horkou vodu.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 732,
+    "code": "L 028 00",
+    "titleOriginal": "CHILI CON CARNE"
+  },
+  "verified": true
+}

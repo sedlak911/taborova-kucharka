@@ -1,0 +1,32 @@
+{
+  "id": "chlebova-polevka-panata",
+  "title": "Chlebová polévka (panáta)",
+  "titleOriginal": "Bread Soup (Panata)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko", "celer"],
+  "ingredients": [
+    { "ingredientId": "strouhanka", "amount": 80, "unit": "g", "note": "bez přesné gramáže ve zdroji" },
+    { "ingredientId": "chleb-bily", "amount": 160, "unit": "g", "note": "starý, nastrouhaný" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks" },
+    { "ingredientId": "parmezan", "amount": 40, "unit": "g", "note": "nastrouhaný" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "spetka", "note": "velmi malé množství" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "podle chuti, vývar je už slaný" },
+    { "ingredientId": "zeleninovy-vyvar", "amount": 1200, "unit": "ml", "note": "předem připravený, vlažný" }
+  ],
+  "steps": [
+    { "text": "Smíchej strouhanku, nastrouhaný starý chléb, vejce, nastrouhaný sýr, muškátový ořech a sůl.", "minutes": 3 },
+    { "text": "Zeleninový vývar ohřej, ale nepřiváděj k varu.", "minutes": 6 },
+    { "text": "Chlebovou směs vmíchej do vlažného vývaru.", "minutes": 2 },
+    { "text": "Polévku dej na mírný oheň a jemně míchej, dokud nezhoustne.", "minutes": 10 },
+    { "text": "Zbylou zeleninu, kterou máš po ruce, můžeš přidat." }
+  ],
+  "modernNote": "Gentile uvádí jen suroviny bez množství a bez počtu porcí, proto jsou všechna množství odhad z běžné praxe: asi 60 g starého chleba a strouhanky na porci, 300 ml vývaru na porci, 2 vejce a 40 g sýra na celý hrnec. Kniha mluví jen o 'broth' a o 'grated cheese'; vývar je zvolený zeleninový, aby byla polévka bez masa (s masovým vývarem by polévka už maso obsahovala), sýr je parmazán (doporučení). Celkový čas 25 minut je odhad, zdroj dobu neuvádí. Zbytková zelenina je volitelná a v množství není.",
+  "source": { "book": "italian-1919", "page": 11, "code": "č. 3 (s. 7)", "titleOriginal": "BREAD SOUP (Panata)" },
+  "verified": false,
+  "quote": "A godsend for using the stale bread that must never again be thrown away."
+}

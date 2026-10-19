@@ -1,0 +1,113 @@
+{
+  "id": "sekana-pecena",
+  "title": "Sekaná pečená",
+  "titleOriginal": "Meat Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 110,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 540,
+      "unit": "g",
+      "note": "90 % libové"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.61,
+      "unit": "g",
+      "note": "granulovaný česnek"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 55,
+      "unit": "ml",
+      "note": "ze zdroje sušené mléko rozmíchané s vodou; objem součtu",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 3,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.9,
+      "unit": "ks",
+      "note": "čerstvé, cca 50 g",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 45,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "rajcatove-pyre",
+      "amount": 55,
+      "unit": "ml",
+      "note": "passata místo rajčatové šťávy z konzervy"
+    }
+  ],
+  "steps": [
+    { "text": "Hovězí maso vlož do mísy, přidej strouhanku, sůl, pepř a česnek a dobře promíchej.", "minutes": 3 },
+    { "text": "Přidej mléko, celer, cibuli, papriku, vejce a rajčatovou passatu. Lehce, ale důkladně promíchej; nepřemíchávej.", "minutes": 5 },
+    { "text": "Směs rozlož do vymazané formy na chleba a peč v horkovzdušné troubě na 150 °C 75 minut.", "minutes": 75 },
+    { "text": "Během pečení odlij přebytečný tuk a tekutinu.", "parallel": true },
+    { "text": "Nech 20 minut odpočinout a pak nakrájej.", "minutes": 20 }
+  ],
+  "modernNote": "Upraveno pro 4 porce (zdroj 100 porcí po 6 oz). Sušené mléko s vodou nahrazeno polotučným mlékem (objem 55 ml je přepočet součtu vody 1 304 g a sušeného mléka 67 g ze zdroje). Mražená vejce nahrazena čerstvým vejcem. Rajčatová šťáva z konzervy nahrazena rajčatovou passatou, protože šťáva v katalogu není. Doporučení: vnitřní teplotu bochníku zkontroluj teploměrem (zdroj 155 °F, tj. cca 68 °C). Doporučení: zdroj peče velké bochníky (cca 2,6 kg) 75 minut; domácí bochník kolem 0,75 kg bude hotový dřív, proto zkontroluj teplotu už po 55–60 minutách. Zdroj peče v pekáčích; vymazaná forma na chleba je adaptace pro domácí množství. Čas 110 min je odhad: příprava cca 15 min, pečení 75 min, odpočinek 20 min.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 749,
+    "code": "L 035 00",
+    "titleOriginal": "MEAT LOAF"
+  },
+  "verified": true,
+  "quote": "Mix lightly but thoroughly. DO NOT OVERMIX."
+}

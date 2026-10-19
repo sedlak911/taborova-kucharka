@@ -1,0 +1,106 @@
+{
+  "id": "ratatouille",
+  "title": "Ratatouille (dušená zelenina)",
+  "titleOriginal": "Ratatouille",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "bez-masa",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "sušený granulovaný"
+    },
+    {
+      "ingredientId": "rajcata-drcena",
+      "amount": 240,
+      "unit": "g",
+      "note": "konzerva, drcená, i se šťávou"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bazalka-susena",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "drcená"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1.15,
+      "unit": "ks",
+      "note": "celý, suchý; vyjmout po dušení"
+    },
+    {
+      "ingredientId": "lilek",
+      "amount": 170,
+      "unit": "g",
+      "note": "nakrájený na kostky"
+    },
+    {
+      "ingredientId": "cuketa",
+      "amount": 130,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 45,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 30,
+      "unit": "g",
+      "note": "nakrájená"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci nebo velkém kotlíku smíchej rajčata, cukr, sůl, bazalku, tymián, česnekový prášek, pepř a bobkové listy. Dobře promíchej.", "minutes": 3 },
+    { "text": "Přidej lilek, cuketu, zelenou papriku a cibuli. Za stálého míchání přiveď k varu.", "minutes": 8 },
+    { "text": "Přikryj a duš 45 minut, nebo dokud lilek nezměkne. Občas zamíchej.", "minutes": 45 },
+    { "text": "Vyjmi bobkové listy." }
+  ],
+  "modernNote": "Zdroj je receptura pro 100 porcí z armádní kuchyně, přepočítaná na 4 porce mocninnou funkcí podle třídy surovin. Zelenina, rajčata z konzervy i koření jsou podle zdroje bez úprav. Doporučení: v sezóně lze drcená rajčata nahradit čerstvými (oloupanými a nakrájenými). Bobkový list: zdroj uvádí 3 ks na 100 porcí, u 4 porcí tak vychází 0,23 g, prakticky jeden malý list.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1513,
+    "code": "Q 022 00",
+    "titleOriginal": "RATATOUILLE"
+  },
+  "verified": true,
+  "quote": "Cover and simmer 45 minutes or until eggplant is tender."
+}

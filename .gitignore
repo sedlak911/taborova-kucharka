@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.venv/
+.DS_Store
+docs/
+extracted/
+userdata/
+vendor/
+*.log
+.superpowers/
+.idea/

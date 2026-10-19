@@ -1,0 +1,65 @@
+{
+  "id": "kava-s-mlekem-a-cukrem",
+  "title": "Káva s mlékem a cukrem",
+  "titleOriginal": "Coffee with Cream and Sugar",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kava-uvarena",
+      "amount": 910,
+      "unit": "ml",
+      "note": "horká, překapaná"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 75,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Odpařené mléko smíchej s vodou.",
+      "minutes": 1
+    },
+    {
+      "text": "V horké kávě rozpusť cukr.",
+      "minutes": 2
+    },
+    {
+      "text": "Směs mléka a vody nalij do kávy a důkladně promíchej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Odpařené mléko se dnes prodává běžně, proto zůstává bez modernizace. Zdroj v poznámce připouští náhradu sušeným odtučněným mlékem (1½ lb) a 1½ qt vody místo 3 konzerv odpařeného mléka a 1 qt vody; pro domácí kuchyni ji nedoporučuji. Kávu zdroj nepopisuje (jen „coffee brew, hot“ v množství 6 gal); uvař ji překapáváním podle příbuzného receptu Překapávaná káva (s. 25 PDF). Pro 4 porce vyjde kávy 910 ml, celkem asi 240 ml tekutiny na šálek. Zdroj uvádí výtěžek „approx. 6 gallons“, což je o něco méně, než kolik vychází z jednotlivých surovin.",
+  "source": {
+    "book": "navy-1944",
+    "page": 26,
+    "titleOriginal": "Prepared With Cream and Sugar"
+  },
+  "verified": true,
+  "quote": "Pour milk into coffee. Mix thoroughly."
+}

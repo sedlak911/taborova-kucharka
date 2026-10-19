@@ -1,0 +1,90 @@
+{
+  "id": "brambory-s-petrzeli",
+  "title": "Brambory s máslem a petrželkou",
+  "titleOriginal": "Parsley Buttered Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření brambor, slije se; domácí hodnota (zdroj: „to cover“, bez množství)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 640,
+      "unit": "g",
+      "note": "loupané, celé; z nákupní hmotnosti 800 g (44 lb A.P.)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 1,
+      "unit": "g",
+      "note": "jemně nasekaná"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do hrnce nalij vodu, přidej sůl a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím brambory oloupej a omyj.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Brambory vlož celé do vody a vař 40 minut, dokud nejsou měkké.",
+      "minutes": 40
+    },
+    {
+      "text": "Mezitím rozpusť máslo.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Brambory sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Brambory polij rozpuštěným máslem a posyp nasekanou petrželkou.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5 až 5½ oz (asi 150 g); přepočet na 4 porce dává 640 g loupaných brambor (z 800 g nákupní hmotnosti, 44 lb A.P. × ediblePortion 0,8). Vařicí voda (1 l, slije se) a sůl do ní (2 g) jsou domácí hodnoty, ne zdrojová 4 oz soli na 100 porcí. Zdroj uvádí 1 ¼ pintu rozpuštěného másla (1 lb 4 oz = 567 g na 100 porcí, 25 g na 4 porce). Petrželka 1 oz (28 g na 100 porcí) dává 1 g; zdroj ji uvádí i jako ⅓ cupu nasekané petrželky, což odpovídá. Zdroj dovoluje místo petrželky použít papriku (½ oz na 100 porcí, na 4 porce asi 0,2 g); v receptu zůstává petrželka. Zdroj doporučuje mladé brambory. Doba 55 minut platí pro celý postup (hotovo 52 min, vaření 30–40 min ze zdroje, horní mez 40). Recept s časem přes 45 minut nemá tag rychle. Vaření v hrnci bez trouby, tag tabor nepřidán.",
+  "source": {
+    "book": "navy-1944",
+    "page": 286,
+    "titleOriginal": "PARSLEY BUTTERED POTATOES"
+  },
+  "verified": true,
+  "quote": "Pour butter over potatoes. Sprinkle with crisp parsley."
+}

@@ -1,0 +1,85 @@
+{
+  "id": "zeli-se-solenym-hovezim",
+  "title": "Zelí se soleným hovězím",
+  "titleOriginal": "Corned Beef and Cabbage",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 640,
+      "unit": "g",
+      "note": "čerstvé zelí, jedlá část ze 44 lb nákupu (A.P. 798 g × ediblePortion katalogu 0,8); zdroj má sušené zelí 2 lb 12 oz, 1 lb sušeného = 16 lb A.P. (poznámka zdroje)",
+      "original": {
+        "ingredientId": "zeli-susene",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 110,
+      "unit": "g",
+      "note": "konzerva, už uvařené; rozdrobit na menší kousky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ve velkém hrnci přiveď k varu vodu se solí.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím zelí zbav svrchních listů, opláchni a nakrájej na klínky.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Zelí vlož do vroucí vody a vař pod pokličkou 10 až 15 minut, dokud není měkké.",
+      "minutes": 15
+    },
+    {
+      "text": "Zelí sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej rozdrobené solené hovězí a dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Zelí s masem znovu ohřej, dokud se nepropraví.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj: Corned Beef and Cabbage (PDF 269, tištěná 261) je varianta k Simmered Cabbage (dehydrované zelí, PDF 268, dole): „Soak and cook cabbage as for Simmered Cabbage, omitting bacon. Drain. Add 6 pounds canned corned beef, broken into small pieces. Mix well. Reheat.“ Sjednocený přístup obou variant Simmered Cabbage: sušené zelí zůstává v řádku jen u Dušeného zelí ze sušeného zelí; zde je jídlo, proto čerstvé bílé zelí (2 lb 12 oz sušeného × 16 = 44 lb A.P. = 798 g na 4 porce × ediblePortion 0,8 = 640 g), sušené zelí je v original (50 g). Slanina i pepř ze základu se vynechávají (zdroj je přidává v kroku, který varianta nahrazuje). Voda a sůl jsou domácí slévaná hodnota (1 l, 2 g na 1 l) místo 3 gal a 3 oz ze zdroje; solené hovězí je silně slané, sůl proto jen do vody. Solené hovězí je konzerva (6 lb na 100 porcí = 110 g na 4 porce), zdroj ho jen rozdrobí a ohřeje, proto není počítána ztráta varem. Zdroj uvádí porci 3½ oz uvařeného a scezeného zelí; bilance 1,9× (28 g masa na porci odpovídá poměru zdroje 6 lb na 100 porcí) vychází z rozdílu syrové a uvařené hmotnosti (zelí po varu a scezení ztrácí část hmotnosti). Jako hlavní jídlo doporučuji přidat víc masa (cca 120 až 150 g na porci) nebo brambory.",
+  "source": {
+    "book": "navy-1944",
+    "page": 269,
+    "titleOriginal": "Corned Beef and Cabbage"
+  },
+  "verified": true
+}

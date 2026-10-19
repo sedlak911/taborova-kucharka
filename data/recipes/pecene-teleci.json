@@ -1,0 +1,44 @@
+{
+  "id": "pecene-teleci",
+  "title": "Pečené telecí s hráškem",
+  "titleOriginal": "Roast Veal (Arrosto di vitella)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "teleci-maso-libove", "amount": 500, "unit": "g", "note": "kus mléčného telete (zdroj „milk veal“), libová kýta; zdroj „piece or pieces“" },
+    { "ingredientId": "hovezi-solene", "amount": 60, "unit": "g", "note": "najemno nasekané (zdroj „a hash of corned beef“), odhad" },
+    { "ingredientId": "cesnek", "amount": 10, "unit": "g", "note": "2 stroužky nakrájené na plátky, vpíchnout do masa" },
+    { "ingredientId": "rozmaryn-cerstvy", "amount": 4, "unit": "g", "note": "2 větvičky, jehličky vpíchnout do masa" },
+    { "ingredientId": "olivovy-olej", "amount": 30, "unit": "ml", "note": "2 lžíce; zdroj „both in small quantity“" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "kousek másla, zdroj „in small quantity“" },
+    { "ingredientId": "rajcatove-pyre", "amount": 200, "unit": "g", "note": "zdroj „tomato sauce“ (rajčatová omáčka č. 12 v množství úměrném jídlu)" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti, přidat až v polovině vaření" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "hrasek", "amount": 600, "unit": "g", "note": "čerstvý hrášek ve struku (asi 1,5 kg); uvedena jedlá část, vaří se ve šťávě" }
+  ],
+  "steps": [
+    { "text": "Do masa vpichni plátky česneku a jehličky rozmarýnu.", "minutes": 5 },
+    { "text": "V hrnci rozehřej olej a máslo.", "minutes": 3 },
+    { "text": "Maso opékej ze všech stran dozlatova.", "minutes": 10 },
+    { "text": "Přidej najemno nasekané hovězí solené a chvíli ho opékej spolu s masem.", "minutes": 3 },
+    { "text": "Přilij rajčatové pyré, přikryj pokličkou a maso duš, průběžně ho obracej.", "minutes": 30 },
+    { "text": "Když je maso z poloviny uvařené, osol ho a opepři.", "minutes": 1 },
+    { "text": "Maso duš dál, dokud není měkké a šťáva nezhoustne.", "minutes": 30 },
+    { "text": "Mezitím hrášek vyluskni z lusků.", "minutes": 15, "parallel": true },
+    { "text": "Hrášek přidej do šťávy a ještě chvíli duš, dokud není měkký.", "minutes": 15 },
+    { "text": "Maso nakrájej na plátky, polož na mísu a polij omáčkou z hrnce.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 129, s. 94) uvádí jen druh masa (mléčné tele), kus „piece or pieces“, máslo a olej „in small quantity“, hash z hovězího solené, sůl, pepř, rajčatovou omáčku a čerstvý hrášek ve šťávě, bez množství a počtu porcí. Množství jsou odhad pro 4 porce z běžné praxe: 500 g telecí kýty (125 g na porci), 60 g nasekaného hovězího solené, 2 stroužky česneku a 2 větvičky rozmarýnu (vpíchnuté), 30 ml oleje (2 lžíce), 20 g másla, 200 g rajčatového pyré (zdroj „tomato sauce“, odkazovaná omáčka č. 12 v množství úměrném jídlu). Hrášek zdroj nevyčíslil: 600 g jedlé části (asi 1,5 kg ve struku) je 150 g na porci podle pravidla pro zeleninu; mražený hrášek lze použít 1:1. Sůl přidána až v polovině vaření, jak zdroj radí. Zdroj nepřidává vodu ani vývar, omáčku tvoří šťáva z masa a pyré. Maso celkem asi 140 g na porci. Čas 105 minut je odhad (dušení masa 60 minut, hrášek 15 minut). Mléčné tele je v ČR těžko k sehnání, nahrazuje ho telecí kýta.",
+  "source": {
+    "book": "italian-1919",
+    "page": 98,
+    "titleOriginal": "ROAST VEAL (Arrosto di vitella)"
+  },
+  "verified": false,
+  "quote": "Choose for that milk veal that is to be found all the year round, although it is always better during the spring or summer."
+}

@@ -1,0 +1,98 @@
+{
+  "id": "zelne-zavitky-s-hovezim",
+  "title": "Zelné závitky s hovězím a rýží",
+  "titleOriginal": "Beef Stuffed Cabbage Rolls",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 115,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 360,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g",
+      "note": "zdroj 5 oz na 100 porcí; přes třídu seasoning (viz modernNote)",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nadrobno",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 55,
+      "unit": "g",
+      "note": "dlouhozrnná, neuvařená",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 240,
+      "unit": "g",
+      "note": "8 velkých listů; hmotnost listu odhad 30 g",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "do vody na spaření zelí; slije se (domácí hodnota)",
+      "scaling": "vessel",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na spaření zelí; slije se",
+      "scaling": "vessel",
+      "group": "Zelí"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 340,
+      "unit": "ml",
+      "note": "vývar z bujónu podle návodu na obalu",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu k varu, osol ji a spař v ní listy zelí, dokud lehce nezměknou.", "minutes": 8 },
+    { "text": "Mezitím smíchej mleté maso, sůl, pepř, cibuli a rýži důkladně a vytvaruj volné kuličky.", "minutes": 5, "parallel": true },
+    { "text": "Listy sceď.", "minutes": 2 },
+    { "text": "Každou kuličku pevně zabal do listu zelí.", "minutes": 10 },
+    { "text": "Závitky ulož do pekáče, zalij vývarem a přikryj.", "minutes": 3 },
+    { "text": "Peč 90 minut v troubě při 175 °C, dokud rýže nezměkne.", "minutes": 90 }
+  ],
+  "modernNote": "Zdroj: 100 porcí = 200 závitků (2 na porci), zde 4 porce = 8 závitků. Mleté hovězí 80/20 (20 lb). Rýže je neuvařená, proto se přepočítává jako suchá, bez přepočtu z vařené. Hovězí vývar (2¼ gal, odkaz na jinou stranu knihy, p. 216) je zde kupovaný hovězí bujón; zdroj připouští rajčatovou šťávu v jeho místě. Sůl 5 oz dává přes třídu seasoning 9 g na 4 porce (cca 2,3 g na porci); doporučení: ubrat na polovinu. Pepř: váha ½ oz (0,92 g) a objem 1¾ tbsp se mírně rozcházejí, použita váha. Listy zelí: 200 listů z obrázku; hmotnost listu je odhad 30 g (závitek 3 oz = plnění cca 57 g na 4 porce + list). Voda a sůl na spaření zelí jsou domácí hodnoty (1 l, 2 g soli), slévají se. Pokyny o teplotách a časech držení z karty vynechány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 125,
+    "titleOriginal": "BEEF STUFFED CABBAGE ROLLS"
+  },
+  "verified": false
+}

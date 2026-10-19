@@ -1,0 +1,41 @@
+{
+  "id": "pecene-kure-navy",
+  "title": "Pečené kuře",
+  "titleOriginal": "Roast Chicken or Turkey or Duck",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1810, "unit": "g", "note": "jedno kuře, nákupní hmotnost vykuchaného (zdroj: 100 lb full drawn na 100 porcí; alternativa 125 lb dressed)" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "do dutiny kuřete" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g", "note": "do dutiny kuřete" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "rozpuštěné, na potření kuřete", "original": { "ingredientId": "sadlo", "amount": 25, "unit": "g" } },
+    { "ingredientId": "chleb-bily", "amount": 210, "unit": "g", "note": "nádivka: starý chléb nakrájený na kostky" },
+    { "ingredientId": "tymian-susity", "amount": 0.1, "unit": "g", "note": "nádivka" },
+    { "ingredientId": "salvej", "amount": 1, "unit": "g", "note": "nádivka" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "nádivka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.54, "unit": "g", "note": "nádivka" },
+    { "ingredientId": "cibule", "amount": 11, "unit": "g", "note": "nádivka, nasekaná" },
+    { "ingredientId": "celer-rapikaty", "amount": 55, "unit": "g", "note": "nádivka, nakrájený i s listy" },
+    { "ingredientId": "maslo", "amount": 16, "unit": "g", "note": "nádivka, rozpuštěné", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 160 °C." },
+    { "text": "Nádivku připrav: chléb nakrájený na kostky smíchej s tymiánem, šalvějí, solí a pepřem.", "minutes": 5 },
+    { "text": "Na másle orestuj nasekanou cibuli a nakrájený celer, dokud nebudou průhledné.", "minutes": 8 },
+    { "text": "Cibuli s celerem vmíchej do chleba a jemně, ale důkladně promíchej.", "minutes": 3 },
+    { "text": "Kuře připrav a vnitřek důkladně potři solí a pepřem.", "minutes": 3 },
+    { "text": "Kuře nadívej nádivkou a svaž.", "minutes": 5 },
+    { "text": "Zevnějšek kuřete potři rozpuštěným máslem a polož do pekáče. Na dno pekáče nalij tolik vody, aby ho zakryla.", "minutes": 3 },
+    { "text": "Peč asi 120 minut, dokud je maso měkké. Hotové je, když se stehno v kloubu snadno pohne. Kuře občas otoč, aby se rovnoměrně zhnědlo, a případně ho znovu potři tukem.", "minutes": 120 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj má tři varianty: kuře (dressed 125 lb, nebo full drawn 100 lb), krůta (85 lb, 4–5 oz na porci) a kachna (100 lb, full drawn). Recept je pro kuře, zvolena varianta full drawn (nákupní hmotnost 1810 g pro 4 porce, tedy jedno kuře asi 1,8 kg, což odpovídá poměru zdroje 1 lb nádivky na 4 až 4½ lb kuře; varianta 125 lb dressed je stejná porce s vnitřnostmi, hlavou a nohama, které katalogová jedlá část 0,68 nepočítá). Nádivka (Bread Dressing, s. 164 tištěná, PDF 172) je zařazena úměrně: 14¾ lb nádivky na 100 porcí = 0,59 dávky podle s. 164 (yield 25 lb), suroviny z 0,59 násobku; tuk v nádivce je linear (16 g) jako v receptu Chlebová nádivka; součet surovin je asi o 12 % vyšší než 268 g hotové nádivky, což je rozdíl v údajích zdroje (ingredience 28,5 lb vs. yield 25 lb). Nádivka je v kuřeti; zdroj nabízí i pečení v pekáči zvlášť (1 h při 175 °C). Sůl je podle třídy seasoning kolem 11 g celkem pro 4 porce (2,8 g na porci), doporučuji ubrat na polovinu. Doba pečení je odhad pro jedno kuře 1,8 kg při 160 °C; zdroj uvádí 2½–3 h pro 100 porcí. Maso 308 g na porci (jedlé, katalog ediblePortion 0,68) je nad doporučeným rozsahem, zdroj ale uvádí ¾ lb kuřete na porci (340 g) a 100 lb vykuchaných na 100 porcí; hlavní jídlo s kostí, ponecháno podle zdroje. Petrželka (8 oz, volitelná) není v tabulce, nepřidána. Omáčka ke kuřeti (Chicken Gravy, s. 177) není součástí receptu. Voda na dno pekáče není v tabulce surovin (odpařuje se), do výpočtu nezahrnuta. Tuk na potření je máslo místo kuřecího tuku (zdroj: Chicken fat or other fat, 1 lb na 100 porcí, původní sadlo v original).",
+  "source": { "book": "navy-1944", "page": 171, "titleOriginal": "Roast Chicken or Turkey or Duck" },
+  "verified": true
+}

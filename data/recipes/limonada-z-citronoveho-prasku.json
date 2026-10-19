@@ -1,0 +1,33 @@
+{
+  "id": "limonada-z-citronoveho-prasku",
+  "title": "Limonáda z citronového prášku",
+  "titleOriginal": "Lemonade (Lemon Juice Powder, Synthetic)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "cukr-krystal", "amount": 90, "unit": "g", "note": "rozpuštěný v části vody" },
+    { "ingredientId": "voda", "amount": 910, "unit": "ml", "note": "celkem 6 gal studené vody ze zdroje" },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 55,
+      "unit": "ml",
+      "note": "čerstvá šťáva z citronů (1½ qt = 24 citronů z čerstvé varianty téže knihy)",
+      "scaling": "linear",
+      "original": { "ingredientId": "citronovy-prasek", "amount": 14, "unit": "g" }
+    }
+  ],
+  "steps": [
+    { "text": "Rozpusť cukr v části vody.", "minutes": 5 },
+    { "text": "Přidej citronovou šťávu a zbylou vodu. Dobře promíchej.", "minutes": 2 },
+    { "text": "Podávej." }
+  ],
+  "modernNote": "Zdroj (Navy 1944, s. 21) na 100 porcí: 12 oz syntetického citronového prášku, 5 lb cukru, 6 gal studené vody, výtěžek cca 6¼ gal, porce 1 cup (8 oz). Prášek nahrazen čerstvou citronovou šťávou 1½ qt (24 citronů) podle čerstvé varianty téže knihy (PDF s. 30, Lemonade using lemons). Cukr a voda ze zdroje, škálovány lineárně. Původní prášek je v original (4 porce 14 g). Nápoj je bez vaření, čas 10 minut je přípravný; chlazení ani led nejsou ve zdroji uvedeny, proto led ani tag pripravit-predem nejsou přidány.",
+  "source": { "book": "navy-1944", "page": 29, "titleOriginal": "LEMONADE (Using Lemon Juice Powder, Synthetic, with Vitamin C)" },
+  "verified": true
+}

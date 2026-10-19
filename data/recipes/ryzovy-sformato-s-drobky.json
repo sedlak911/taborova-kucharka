@@ -1,0 +1,162 @@
+{
+  "id": "ryzovy-sformato-s-drobky",
+  "title": "Rýžový sformato s drobky",
+  "titleOriginal": "Rice Pudding with Giblets (Sformato di riso con rigaglie)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 320,
+      "unit": "g",
+      "group": "Rýže",
+      "note": "dlouhozrnná; zdroj množství neuvádí, odhad 80 g na porci"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "group": "Rýže",
+      "note": "horká, osolená, na uvaření rýže; slije se (domácí odhad, zdroj neuvádí)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "group": "Rýže, šunka a forma",
+      "note": "na opečení rýže a šunky s drůbky a na vymazání formy"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Šunka a drůbky",
+      "note": "tenké plátky, zdroj: „thin slices of ham“"
+    },
+    {
+      "ingredientId": "kureci-drobky",
+      "amount": 200,
+      "unit": "g",
+      "group": "Šunka a drůbky",
+      "note": "drůbeží drobky (zdroj „chicken giblets“)"
+    },
+    {
+      "ingredientId": "zampiony",
+      "amount": 50,
+      "unit": "g",
+      "group": "Šunka a drůbky",
+      "note": "volitelné, zdroj: „a taste of mushrooms“"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 500,
+      "unit": "ml",
+      "group": "Vývar a omáčka",
+      "note": "hnědý vývar, část do rýže, zbytek na dušení drůbků a omáčku; zdroj „brown stock“"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 60,
+      "unit": "g",
+      "group": "Vazba",
+      "note": "nastrouhaný"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Vazba",
+      "note": "rozšlehaná"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Vazba",
+      "note": "na zahuštění omáčky z drůbků, zdroj „a pinch of flour“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Vazba",
+      "note": "dochucení podle chuti; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "group": "Vazba",
+      "note": "mírně, podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Připrav si teplý hovězí vývar a drž ho teplý."
+    },
+    {
+      "text": "Šunku nakrájej na tenké proužky, drůbky a žampiony nakrájej na kousky.",
+      "minutes": 8
+    },
+    {
+      "text": "Na části másla opeč šunku, drůbky a žampiony dozlatova, osol a opepři.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij vše částí vývaru a duš do měkka.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím rýži na másle opeč dozlatova.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Rýži zalij horkou osolenou vodou a vař do měkka, pak ji sceď.",
+      "minutes": 15
+    },
+    {
+      "text": "Scezenou rýži nech trochu vychladnout, pak ji smíchej s částí vývaru, strouhaným parmazánem a rozšlehanými vejci.",
+      "minutes": 5
+    },
+    {
+      "text": "Kulatou nebo oválnou hladkou formu vymaž máslem, dno vystři pergamenem, naplň ji rýží a zapékej v troubě předehřáté na 180 °C, dokud nezatuhne.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím z šťávy od drůbků a šunky udělej omáčku: lehce ji zahusť moukou a dochut.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Sformato nech chvíli odpočinout, vyklop ho z formy na mísu, polij omáčkou a kolem polož šunku s drůbky.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství, počet porcí ani čas, všechna množství jsou odhad z běžné praxe pro 4 porce: rýže 320 g (80 g na porci), hnědý hovězí vývar 500 ml (část do rýže, zbytek na dušení drůbků a omáčku), šunka 100 g, drůbky 200 g, máslo 60 g, parmezán 60 g, 2 vejce, žampiony 50 g (zdroj: „a taste of mushrooms“, volitelné), mouka 5 g („a pinch of flour“), sůl 5 g, pepř 1 g. Drůbky („chicken giblets“) jsou kuřecí drobky 200 g (katalogová položka kureci-drobky). Voda na uvaření rýže (1,5 l) se slévá, proto je slévaná (vessel), do jídla vsákne jen část. Vývar je hovězí (kniha „broth“ = masový), šunka a drůbky jsou masa. Teplota 180 °C a 30 minut pečení jsou odhad, zdroj neuvádí a forma je „smooth mold, round or oval“. Hnědý vývar se připravuje předem a jeho čas není započítán. Časy kroků jsou odhad, celkem asi 90 minut. Makra orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 70,
+    "titleOriginal": "RICE PUDDING WITH GIBLETS (Sformato di riso con rigaglie)"
+  },
+  "verified": false,
+  "quote": "A taste of mushrooms will be found useful."
+}

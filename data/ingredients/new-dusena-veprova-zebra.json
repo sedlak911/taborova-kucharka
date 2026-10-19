@@ -1,0 +1,28 @@
+[
+  {
+    "id": "veprova-zebra",
+    "name": "Vepřová žebra",
+    "aliases": [
+      "žebra",
+      "vepřová žebra na kosti",
+      "spareribs",
+      "vepřové spareribs"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 277,
+      "protein": 15.47,
+      "carbs": 0,
+      "fat": 23.4,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.6,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167853 (Pork, fresh, spareribs, separable lean and fat, raw)",
+      "refuse": "odhad: žebra s kostmi, asi 40 % kosti a tuku (ediblePortion 0,6); USDA fdc:167853 refusePct 30 (kost)"
+    }
+  }
+]

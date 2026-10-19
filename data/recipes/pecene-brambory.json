@@ -1,0 +1,30 @@
+{
+  "id": "pecene-brambory",
+  "title": "Pečené brambory ve slupce",
+  "titleOriginal": "Baked White or Sweet Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 800, "unit": "g", "note": "pečené ve slupce, celé brambory (4 ks po 200 g); nákupní (A.P.) hmotnost, slupka se jí nebo loupe" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Brambory vyber stejně velké a důkladně je omyj kartáčem.", "minutes": 3 },
+    { "text": "Ulož je na mělký plech a peč asi 50 až 60 minut, dokud nejsou měkké.", "minutes": 60 },
+    { "text": "Hotové brambory ihned vyndej a propíchni vidličkou slupku, aby unikla pára.", "minutes": 2 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj: 100 porcí, 44 lb brambor A.P. (100 kusů „medium“), porce 7 až 8 oz (1 brambor). Na 4 porce je to 4 brambory, celkem 800 g nákupní hmotnosti (convert: 19 958 g × 0,04 = 798 g, zaokrouhleno na 800 g). Zdroj peče v horké troubě 400 °F (200 °C) asi 1 až 1½ hodiny na mělkých plechách; pro 4 brambory stačí 50 až 60 minut, proto je čas odhadnut. Brambory se pečou ve slupce, slupka se jí nebo se loupe podle chuti; katalogová jedlá část 0,8 (odpad 20 %) je pro loupané brambory, proto zde použita nákupní hmotnost. Zdroj neuvádí sůl ani tuk, žádný se nepřidává. Varianta ze zdroje: nové bílé brambory se pečou stejně. Sladké brambory (batáty, katalog `batat`) se pečou stejně, zdroj je zahrnuje do nadpisu „White or Sweet“. Zdroj nepoužívá kotlík ani žhavé uhlí, jen troubu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 285,
+    "titleOriginal": "BAKED WHITE OR SWEET POTATOES"
+  },
+  "verified": true
+}

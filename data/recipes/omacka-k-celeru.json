@@ -1,0 +1,32 @@
+{
+  "id": "omacka-k-celeru",
+  "title": "Jíšková omáčka k celeru",
+  "titleOriginal": "Sauce for Celery au Jus (Salsa per sedani al sugo)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "kousek másla; zdroj množství neuvádí, odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 30, "unit": "g", "note": "stejná hmotnost jako máslo" },
+    { "ingredientId": "hovezi-vyvar", "amount": 350, "unit": "ml", "note": "hnědý (hovězí) vývar; nebo bujónová kostka rozpuštěná ve vodě" }
+  ],
+  "steps": [
+    { "text": "V hrnci rozpusť máslo a za stálého míchání v něm opékej hladkou mouku asi tři minuty, dokud nezhnědne.", "minutes": 5 },
+    { "text": "Postupně přilévej hovězí vývar a míchej, aby se netvořily hrudky.", "minutes": 2 },
+    { "text": "Omáčku za stálého míchání povař, až se zredukuje a zhoustne.", "minutes": 6 },
+    { "text": "Omáčku přetlač přes jemné síto.", "minutes": 2 },
+    { "text": "Horkou omáčku podávej k uvařenému celeru." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 167) popisuje jen postup: stejná hmotnost másla a hladké mouky, jíšku zředit hnědým vývarem nebo bujónovou kostkou, přetlačit sítem; množství a počet porcí neuvádí. Odhad pro 4 porce (asi 300 ml hotové omáčky k celeru): 30 g másla, 30 g hladké mouky a 350 ml hovězího vývaru. Bujónová kostka rozpuštěná ve vodě je zdrojová alternativa. Sůl a pepř zdroj u této omáčky neuvádí; dochuť podle chuti. Čas 15 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 120,
+    "titleOriginal": "Sauce for Celery au Jus (Salsa per sedani al sugo)"
+  },
+  "verified": false,
+  "quote": "Make a roux melting a piece of butter and browning an equal weight of flour."
+}

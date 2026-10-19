@@ -1,0 +1,103 @@
+{
+  "id": "citronova-omacka",
+  "title": "Citronová omáčka",
+  "titleOriginal": "Lemon Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 75,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj: sugar 4 lb 4 oz"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 9,
+      "unit": "g",
+      "note": "zdroj: cornstarch 8 oz"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.19,
+      "unit": "g",
+      "note": "zdroj: salt ½ teaspoon"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.07,
+      "unit": "g",
+      "note": "zdroj: nutmeg ½ teaspoon"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 170,
+      "unit": "ml",
+      "note": "zdroj: water, boiling 4½ quarts"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "zdroj: butter 8 oz"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 0.47,
+      "unit": "g",
+      "note": "zdroj: lemon rind, grated 1½ tablespoons"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 15,
+      "unit": "ml",
+      "note": "zdroj: lemon juice 1¼ cups"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej cukr, kukuřičný škrob, sůl a muškátový oříšek.",
+      "minutes": 2
+    },
+    {
+      "text": "Pomalu vmíchej směs do vroucí vody.",
+      "minutes": 2
+    },
+    {
+      "text": "Zahřej do varu a za stálého míchání vař asi 5 minut, dokud nezhoustne.",
+      "minutes": 7
+    },
+    {
+      "text": "Vmíchej máslo, citronovou kůru a citronovou šťávu.",
+      "minutes": 2
+    },
+    {
+      "text": "Znovu zahřej do varu.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí, výtěžek 1½ gal, porce 4 polévkové lžíce (2 oz). Na 4 porce vychází ~279 g hotové omáčky proti 4 × 57 g z porcí; rozdíl ~22 % je v celém zdroji stejný (vstup ~6,9 kg proti 100 × 57 g), takže jde o vlastnost zdroje, ne chybu přepočtu. Rozpor sloupců: cukr „4 lb 4 oz“ (1,93 kg) proti „½ gallon“ (~1,6 kg při hustotě 0,85 g/ml) a kukuřičný škrob „8 oz“ proti „¾ pint“ (~180 g); použita hmotnost (sloupec Weights), proto verified: false. Citronová kůra je nová surovina `citronova-kura` (1,5 lžíce ≈ 9 g, USDA fdc:167749). Máslo zůstává v omáčce, proto katalogová třída fat (jako u pomerančové omáčky). Citronová šťáva z katalogu, třída aromatic. Zdroj podává k horkému nebo studenému dušenému pudinku, pečeným jablkům, jablečnému koláči nebo k ovocným fritátům a zbytkům piškotu. Nález check:recipe „sůl 0,05 g na porci“: zdroj má ½ lžičky soli na 100 porcí, tedy ~0,03 g na porci; sladká omáčka je věrně nízko solená, sůl nepřidávám.",
+  "source": {
+    "book": "navy-1944",
+    "page": 65,
+    "titleOriginal": "LEMON SAUCE"
+  },
+  "verified": false,
+  "quote": "Combine sugar, cornstarch, salt and nutmeg."
+}

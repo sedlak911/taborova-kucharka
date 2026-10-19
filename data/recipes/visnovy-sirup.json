@@ -1,0 +1,65 @@
+{
+  "id": "visnovy-sirup",
+  "title": "Višňový sirup",
+  "titleOriginal": "Hard Black-Berry Syrup (Sciroppo di amarena)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 20,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "visne",
+      "amount": 200,
+      "unit": "g",
+      "note": "tvrdé, zralé, kyselé (tmavé); bez stopek; šťáva se lisuje přes plátno"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.4,
+      "unit": "g",
+      "note": "zdroj: kousek celé skořice (tyčinky), nechá se ve šťávě a pak se vyjme; katalog zná jen mletou, množství v g je stejné"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 175,
+      "unit": "g",
+      "note": "4 díly cukru na 3 díly šťávy",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kyselina-citronova",
+      "amount": 1,
+      "unit": "g",
+      "note": "2 unce na 28 liber šťávy a cukru ze zdroje, tedy asi 0,45 %",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Višně zbav stopek a dej je do velké nádoby ke kousku celé skořice.", "minutes": 10 },
+    { "text": "Nech je dva dny kvasit; když začnou vyplouvat, občas je promíchej." },
+    { "text": "Kvašené bobule po malých dávkách stiskni přes plátno, rukama nebo lisem, a šťávu sceď.", "minutes": 15 },
+    { "text": "Šťávu nech chvíli odstát a přeceď ji přes čisté plátno, dokud nebude úplně čirá.", "minutes": 15 },
+    { "text": "Šťávu s kouskem skořice zahřej téměř k varu.", "minutes": 8 },
+    { "text": "Přisyp cukr a kyselinu citronovou a za stálého míchání krátce povař, asi pět minut, dokud se cukr nerozpustí.", "minutes": 6 },
+    { "text": "Sirup sundej z ohně, vyjmi skořici a nalej ho do keramické mísy.", "minutes": 3 },
+    { "text": "Až sirup úplně vychladne, nalij ho do láhví a dobře je uzavři.", "minutes": 5 },
+    { "text": "Podávej: do sklenice ledové vody dej jen trochu sirupu." }
+  ],
+  "modernNote": "Gentile (č. 212, „Hard Black-Berry Syrup“, višně amarena) uvádí množství pro velkou dávku v librách (12 liber šťávy, 16 liber cukru, 2 unce kyseliny citronové) a porce neuvádí. Zachován poměr 3 díly šťávy : 4 díly cukru a poměr kyseliny ze zdroje. Základ pro přepočet je domácí várka 1 kg višní (šťáva asi 650 ml, asi 1 l sirupu, 20 porcí po 50 ml, originalYield 20); recept ukazuje 4 porce: 200 g višní, 175 g cukru a 1 g kyseliny citronové (asi 0,45 % hmotnosti šťávy a cukru). Skořice: zdroj používá kousek celé tyčinky; v katalogu je jen mletá, proto je zapsána jako 0,4 g, ale vkládá se celá a po vaření se vyjme. 1 porce = 50 ml sirupu na sklenici nápoje, 4 porce = asi 200 ml sirupu; na zásobu nastav 20 porcí. Fermentace 48 h je čekání, do času se nepočítá. Spontánní kvašení tvoří stopy alkoholu a nahoře nesmí růst plíseň; šťávu před vařením lze zahřát na asi 85 °C a kvašení přeskočit. Uchovávej v zavřené láhvi v chladu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 153,
+    "titleOriginal": "HARD BLACK-BERRY SYRUP (Sciroppo di amarena)"
+  },
+  "verified": false,
+  "quote": "Use hard but ripe black berries."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "zapekane-makarony-se-syrem",
+  "title": "Zapékané makarony se strouhankou",
+  "titleOriginal": "Macaroni \"au gratin\" (Maccheroni al gratin)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "testoviny", "amount": 400, "unit": "g", "note": "suché makarony", "group": "Těstoviny" },
+    { "ingredientId": "voda", "amount": 4000, "unit": "ml", "note": "na vaření, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Těstoviny", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 8, "unit": "g", "note": "do vody na vaření, slije se", "group": "Těstoviny", "scaling": "vessel" },
+    { "ingredientId": "parmezan", "amount": 100, "unit": "g", "note": "nastrouhaný; zdroj jen „some grated cheese“", "group": "Zapékání" },
+    { "ingredientId": "strouhanka", "amount": 60, "unit": "g", "note": "zdroj „grated bread“, použita strouhanka", "group": "Zapékání" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "na vymazání misy a na přelití, rozpuštěné", "group": "Zapékání" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C." },
+    { "text": "Ve velkém hrnci přiveď osolenou vodu k varu.", "minutes": 15 },
+    { "text": "Vhoď těstoviny a vař je do měkka, asi 12 až 15 minut podle obalu. Dobře sceď.", "minutes": 15 },
+    { "text": "Mezitím vymaž žáruvzdornou misu kouskem másla.", "minutes": 1, "parallel": true },
+    { "text": "Na dno misy nasyp vrstvu nastrouhaného parmezánu a strouhanky.", "minutes": 2 },
+    { "text": "Vrstvi těstoviny se sýrem a strouhankou. Nahoře musí být vrstva těstovin, posypaná sýrem a strouhankou.", "minutes": 3 },
+    { "text": "Rozpusť zbylé máslo a přelij jím celou misu.", "minutes": 2 },
+    { "text": "Přikryj misu a zapékej v troubě 10 minut.", "minutes": 10 },
+    { "text": "Odkryj a zapékej dalších 5 až 10 minut, dokud se povrch nezarumění.", "minutes": 10 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani počet porcí; vše dopočítáno z běžné praxe pro 4 porce: 400 g suchých makaronů (100 g na porci), 100 g parmezánu (zdroj jen „some grated cheese“, odhad), 60 g strouhanky (zdroj „grated bread“, moderní strouhanka místo strouhaného chleba), 40 g másla (zdroj „slightly“ a „some melted butter“, odhad). Voda 4 l (1 l na 100 g) a sůl 8 g jsou domácí hodnoty pro vaření těstovin, slévají se. Zdroj žádnou teplotu neuvádí, jen „low fire“ (mírný ohen): 175 °C je odhad pro domácí troubu. Zdroj nechá misu přikrytou v troubě, dokud povrch nezhnědne; kroky 8 a 9 to dělí na přikryté zapékání 10 minut a odkryté dalších 5 až 10 minut (zdroj: „ten minutes or more“, dokud nezhnědne). Doba je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 23,
+    "titleOriginal": "MACARONI \"AU GRATIN\" (Maccheroni al gratin)"
+  },
+  "verified": false,
+  "quote": "Boil the macaroni in salted water until tender and drain them."
+}

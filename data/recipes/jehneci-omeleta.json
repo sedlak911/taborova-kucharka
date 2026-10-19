@@ -1,0 +1,76 @@
+{
+  "id": "jehneci-omeleta",
+  "title": "Jehněčí omeleta",
+  "titleOriginal": "Lamb Omelet (Agnello in frittata)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 500,
+      "unit": "g",
+      "note": "hřbet, nakrájený na malé kousky; odhad z praxe (120–150 g na porci)"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na opečení masa; zdroj říká „malé množství“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "na maso a do vajec; podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "na maso a do vajec; podle chuti"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "celá, lehce rozšlehaná; zdroj uvádí 4–5 vajec"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nakrájej jehněčí hřbet na malé kousky.",
+      "minutes": 5
+    },
+    {
+      "text": "Rozehřej sádlo na pánvi a opékej maso. Když je napůl hotové, osol a opepři.",
+      "minutes": 15
+    },
+    {
+      "text": "Až je maso hotové, zalij je rozšlehanými vejci, osolenými a opepřenými.",
+      "minutes": 5
+    },
+    {
+      "text": "Míchej, aby se vejce nezatvrdila, a podávej."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí jen postup a počet vajec (4–5), nikoli množství masa ani porce. Odhady z běžné praxe pro 4 porce: jehněčí hřbet 500 g (asi 125 g na porci), sádlo 20 g (zdroj říká malé množství, hřbet je tučný), sůl 5 g a pepř 1 g podle chuti, 4 vejce (zdroj 4–5). Katalog má jen jehněčí maso s kostí; hřbet se do značné míry prodává bez kosti, takže hodnoty jsou orientační. Čas 30 minut je odhad. Jedna pánev, bez trouby; recept jako omeleta s masem je spíš tradiční pokrm než hotová frittata, proto se maso opéká jen do poloviny a vejce se přidají na konci.",
+  "source": {
+    "book": "italian-1919",
+    "page": 33,
+    "titleOriginal": "LAMB OMELET (Agnello in frittata)"
+  },
+  "verified": false,
+  "quote": "Cut in little pieces a loin of lamb, which is the part that lends itself best for this dish, and fry in lard."
+}

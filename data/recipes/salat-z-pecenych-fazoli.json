@@ -1,0 +1,39 @@
+{
+  "id": "salat-z-pecenych-fazoli",
+  "title": "Salát z pečených fazolí a vajec",
+  "titleOriginal": "Baked Bean and Egg Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "horcice", "vejce"],
+  "ingredients": [
+    { "ingredientId": "fazole-bile-v-konzerve", "amount": 220, "unit": "g", "note": "pečené fazole (baked beans)" },
+    { "ingredientId": "celer-rapikaty", "amount": 90, "unit": "g", "note": "nakrájený nadrobno" },
+    { "ingredientId": "relish-sladky-okurkovy", "amount": 45, "unit": "g", "note": "sladké okurky nakrájené nadrobno" },
+    { "ingredientId": "salat-ledovy", "amount": 110, "unit": "g", "note": "natrhaný na kousky; ve zdroji salát nebo čekanka" },
+    { "ingredientId": "jarni-cibulka", "amount": 25, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "vejce", "amount": 1.45, "unit": "ks", "note": "natvrdo uvařená, nasekaná; 36 ks na 100 porcí" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "majoneza", "amount": 35, "unit": "g", "note": "místo „boiled“ salad dressing (str. 202); odhad, zdroj uvádí „to moisten“" }
+  ],
+  "steps": [
+    { "text": "Uvař vejce natvrdo a ochlaď je studenou vodou.", "minutes": 20 },
+    { "text": "Mezitím nakrájej celer, jarní cibulku a salát na kousky.", "minutes": 10, "parallel": true },
+    { "text": "Vejce nasekej nadrobno.", "minutes": 3 },
+    { "text": "Ve velké míse smíchej fazole, celer, okurky, salát, jarní cibulku a vejce.", "minutes": 3 },
+    { "text": "Posyp solí.", "minutes": 1 },
+    { "text": "Přidej majonézu a opatrně promíchej velkou vidličkou, aby se suroviny nerozmačkaly.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj: Baked Bean and Egg Salad, 100 porcí (3/4 hrnku, cca 4 oz). Pečené fazole z konzervy → fazole-bile-v-konzerve. Lettuce or chicory → ledový salát (čekanka není v katalogu). Green onions → jarní cibulka. Pickles, sweet, diced → sladký okurkový relish (nakrájené sladké okurky). Zdroj používá „Boiled“ salad dressing (str. 202, varný dresink z mléka, mouky, vajec, octa a másla) – pro domácí přípravu nahrazen majonézou; množství „to moisten“ je odhad (cca 1 qt na 100 porcí). Vejce ve zdroji jsou uvedena jen jako uvařená natvrdo – krok vaření je doplněn. Sůl 3 oz (6 tbsp) na 100 porcí; pro domácí verzi ubrat dle chuti.",
+  "source": {
+    "book": "navy-1944",
+    "page": 194,
+    "titleOriginal": "BAKED BEAN AND EGG SALAD"
+  },
+  "verified": false,
+  "quote": "Use large fork for mixing salad in order to avoid mashing the ingredients."
+}

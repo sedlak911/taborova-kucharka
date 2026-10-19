@@ -1,0 +1,107 @@
+{
+  "id": "smazene-ledvinky",
+  "title": "Smažené ledvinky",
+  "titleOriginal": "Kidney Sauté (Rognoni saltati)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-ledvina",
+      "amount": 480,
+      "unit": "g",
+      "note": "2 větší telecí ledviny, podélně na tenké plátky; kupní hmotnost, asi 120 g na porci po odstranění tuku; odhad"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 500,
+      "unit": "ml",
+      "note": "vroucí na spaření ledvinek; slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "střídmě; odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "kousek na opečení a kousek na dokončení; odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 3,
+      "unit": "g",
+      "note": "špetka na posypání; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti; odhad"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "1 větvička, nasekaná; odhad"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 50,
+      "unit": "ml",
+      "note": "jen trochu, podle potřeby; odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Ledviny podélně nakrájej na tenké plátky a odstraň z nich veškerý tuk.",
+      "minutes": 10
+    },
+    {
+      "text": "Plátky osol, zalij tolik vroucí vody, aby byly ponořené, a nech ji úplně vychladnout.",
+      "minutes": 30
+    },
+    {
+      "text": "Vychladlou vodu slij a plátky dobře osuš čistou utěrkou.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej kousek másla, vlož do něj plátky a často je obracej.",
+      "minutes": 5
+    },
+    {
+      "text": "Po pěti minutách posyp plátky špetkou mouky, osol a opepři a nech na ohni, dokud nejsou úplně propečené.",
+      "minutes": 5
+    },
+    {
+      "text": "Před odstavením přidej kousek másla, nasekanou petrželku a případně trochu vývaru.",
+      "minutes": 2
+    },
+    {
+      "text": "Hned podávej; ledviny nesmí na ohni zůstat dlouho, jinak ztvrdnou."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí jen „jednu velkou ledvinu, nebo dvě až tři malé“ a nic o porcích; množství pro 4 porce je odhad z běžné praxe: 480 g kupní hmotnosti (stejně jako v receptu na omeletu s telecí ledvinou, asi 120 g na porci), 40 g másla (kousek na opečení a kousek na dokončení), špetka mouky (asi 3 g), sůl 4 g, pepř 1 g, jedna větvička petrželky (10 g), trochu vývaru 50 ml podle potřeby. Vroucí voda na spaření (500 ml) se slévá, proto je vessel. Vychladnutí vody (30 minut) je odhad; ve zdroji je jen „úplně vychladnout“. Celkový čas 55 minut přesahuje 45, proto tag rychle odpadl. Ledviny nesmí na ohni dlouho zůstat, jinak ztvrdnou (zdroj).",
+  "source": {
+    "book": "italian-1919",
+    "page": 60,
+    "titleOriginal": "KIDNEY SAUTE (Rognoni saltati)"
+  },
+  "verified": false,
+  "quote": "The kidney must not be kept too much on the fire, because in that case it hardens."
+}

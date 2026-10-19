@@ -1,0 +1,55 @@
+{
+  "id": "sunka-v-mleku",
+  "title": "Šunkové plátky vařené v mléce",
+  "titleOriginal": "Ham Slices Cooked in Milk",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 150,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 760,
+      "unit": "g",
+      "note": "plátky syrové uzené šunky, bez kosti"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 130,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 160 °C.", "minutes": 10 },
+    { "text": "Rozděl šunku na kýtu a hůl a nakrájej na plátky asi 1,5 cm silné.", "minutes": 8 },
+    { "text": "Smíchej hnědý cukr se sušenou hořčicí a vtři do obou stran plátků.", "minutes": 5 },
+    { "text": "Plátky ulož do zapékací pánve a zalij mlékem.", "minutes": 3 },
+    { "text": "Peč bez přikrytí asi 2 hodiny, dokud šunka nezměkne.", "minutes": 120 }
+  ],
+  "modernNote": "Zdroj (Navy 1944, tištěná str. 137, PDF 145) počítá na 100 porcí po 6 oz. Šunka: zdroj dává na výběr celou šunku s kostí (60 lb) nebo bez kosti (42 lb); zvolena varianta bez kosti (42 lb = 19 kg, na 4 porce 760 g). Zdroj mluví o „commercial“ šunce bez určení, zda je vařená; použita syrová uzená šunka, takže se peče do změknutí. Hořčice: 1 oz sušené hořčice jde přes třídu seasoning (katalog) na 2 g, lineárně by to bylo 1,1 g; podle chuti ubrat. Mléko: zdroj „Milk, liquid“ 3½ qt, proto mleko-polotucne (ne odpařené). Bilance: 947 g surovin proti 680 g porce zdroje (4 × 170 g) – šunka při pečení ztrácí vodu (~20 %) a část mléka zůstává v pánvi. Zdroj podává mléčnou omáčku k plátkům; doporučuji ji zahustit z části mléka, což není ve zdroji.",
+  "source": {
+    "book": "navy-1944",
+    "page": 145,
+    "titleOriginal": "HAM SLICES COOKED IN MILK"
+  },
+  "verified": true
+}

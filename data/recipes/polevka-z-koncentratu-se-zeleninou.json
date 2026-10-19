@@ -1,0 +1,104 @@
+{
+  "id": "polevka-z-koncentratu-se-zeleninou",
+  "title": "Polévka z koncentrátu se zeleninou",
+  "titleOriginal": "Wehrmachtsuppenkonserve mit Gemüse",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 195,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření masa a zeleniny; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „etwas Salz“; koncentrát je slaný, ochutnej"
+    },
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 400,
+      "unit": "g",
+      "note": "nakrájené; zdroj: Wirsing, Weißkohl, Möhren, gelbe Rüben nebo směs, celkem 600 g na hlavu (zde polovina zelí)"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 400,
+      "unit": "g",
+      "note": "nakrájená; druhá polovina zeleniny (zdroj: Möhren, gelbe Rüben)"
+    },
+    {
+      "ingredientId": "polevkovy-koncentrat-instantni",
+      "amount": 70,
+      "unit": "g",
+      "note": "ve zdroji 75 g vojenské konzervy na hlavu; rozmíchat v 400 ml studené vody (nezapočítáno do vody výše)"
+    },
+    {
+      "ingredientId": "majoranka",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti (zdroj odkazuje na Grundgericht: Salz und Majoran); odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej maso a sůl a vař asi 1 a půl hodiny (vepřové maso jen 45 minut).",
+      "minutes": 90
+    },
+    {
+      "text": "Přidej nakrájené zelí a mrkev a vař dalších asi 60 minut.",
+      "minutes": 60
+    },
+    {
+      "text": "Koncentrát rozdrť a rozmíchej ve studené vodě do hladka.",
+      "minutes": 5
+    },
+    {
+      "text": "Vlij koncentrát za stálého míchání do vroucí polévky a krátce provař.",
+      "minutes": 5
+    },
+    {
+      "text": "Stáhni z ohně a nech 20 minut dojít pod pokličkou, už nevař.",
+      "minutes": 20
+    },
+    {
+      "text": "Dochuť solí a majoránkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 300 g bílého zelí, 300 g mrkve na muže; zde 100 g bílého zelí a 100 g mrkve na porci, řádky jsou praktické domácí množství pro 4 porce. Koncentrát je snížen na asi 18 g na porci podle návodu moderních instantních polévek (zdroj počítá s 75 g vojenské konzervy na hlavu). Vojenská polévková konzerva (Wehrmachtsuppenkonserve, tvrdý lisovaný koncentrát) se dnes nevyrábí; nahrazena instantním polévkovým koncentrátem (sušený prášek/granulát, asi 18 g na porci). Jde o historickou kuriozitu. Zdroj neuvádí množství masa, vody ani soli: 400 g hovězího předního, 1,5 l vody a 8 g soli jsou odhady, proto verified: false. Rozdělení zeleniny na zelí a mrkev je volba, ne údaj ze zdroje. Hmotnost porce vychází z celé vody; při několikahodinovém varu se část odvaří, hotová porce je lehčí (voda je nutná, aby se mouka, kroupy či luštěniny nesvařily na kaši).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 23,
+    "code": "3. (varianta, tišt. s. 43)",
+    "titleOriginal": "Wehrmachtsuppenkonserve mit Gemüse"
+  },
+  "verified": false,
+  "quote": "weitere Behandlung siehe Grundgericht."
+}

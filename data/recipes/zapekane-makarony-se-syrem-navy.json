@@ -1,0 +1,90 @@
+{
+  "id": "zapekane-makarony-se-syrem-navy",
+  "title": "Zapečené makarony se sýrem",
+  "titleOriginal": "Baked Macaroni and Cheese",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "testoviny",
+      "amount": 180,
+      "unit": "g",
+      "note": "suché makarony"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "na vaření, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 145,
+      "unit": "g",
+      "note": "strouhaný"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "note": "na vymazání misy (odhad)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 175 °C a vymaž zapékací misu máslem."
+    },
+    {
+      "text": "Ve velkém hrnci přiveď osolenou vodu k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Vsyp makarony a vař je do měkka, asi 20 minut. Dobře sceď.",
+      "minutes": 20
+    },
+    {
+      "text": "Polovinu makaronů rozlož do vymazané misy a přikryj je polovinou sýra.",
+      "minutes": 2
+    },
+    {
+      "text": "Navrch rozlož zbylé makarony a posyp je zbylým sýrem.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč v troubě asi 25 minut, dokud se sýr úplně nerozpustí.",
+      "minutes": 25
+    }
+  ],
+  "modernNote": "Zdroj: Baked Macaroni and Cheese, s. 36 (100 porcí; porce 8 uncí, zhruba 1 hrnek). Makarony 10 lb a čedar 8 lb přepočteny na 4 porce (×0,04). Voda na vaření (10 galonů) a sůl do ní (5 oz) jsou nahrazeny domácí hodnotou 1 l na 100 g těstovin a 2 g soli na 1 l; obojí se slévá. Zdroj neuvádí tuk, jen „well greased“; máslo 5 g na vymazání misy je odhad. Teplota 175 °C odpovídá „moderate oven (350 °F)“. Nález bilance (81 g na porci vs. 227 g zdroje) není chyba přepočtu: součet surovin zdroje na 100 porcí dává po uvaření zhruba 150 g na porci, porce 8 uncí v knize je tedy nadhodnocená. Jako hlavní jídlo počítej 80–100 g suchých těstovin a 60–80 g sýra na osobu a suroviny úměrně zvyš.",
+  "source": {
+    "book": "navy-1944",
+    "page": 36,
+    "titleOriginal": "BAKED MACARONI AND CHEESE"
+  },
+  "verified": false,
+  "quote": "Place 1/2 the macaroni in well greased baking pans. Cover with 1/2 the cheese."
+}

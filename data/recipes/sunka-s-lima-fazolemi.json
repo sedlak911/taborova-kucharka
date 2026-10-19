@@ -1,0 +1,72 @@
+{
+  "id": "sunka-s-lima-fazolemi",
+  "title": "Zapečená šunka s lima fazolemi",
+  "titleOriginal": "Ham and Lima Bean Scallop",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 170,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 220,
+      "unit": "g",
+      "note": "lima (máslové) fazole, sušené; přes noc nebo 4 hodiny namočit"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na zakrytí fazolí; část se vsákne, zbytek se odpaří při pečení (odhad)"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 360,
+      "unit": "g",
+      "note": "vařená, nakrájená na kostky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání misky; ve zdroji jen „greased pans“, domácí hodnota",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Přeber fazole a omyj je." },
+    { "text": "Zalij fazole vodou a nech je namočit 4 hodiny." },
+    { "text": "Přiveď k varu a na mírném ohni vař asi hodinu, dokud fazole nejsou téměř měkké; dávej pozor, aby se nerozpadaly slupky.", "minutes": 65 },
+    { "text": "Předehřej troubu na 160 °C a vymaž zapékací misky." },
+    { "text": "Přidej nakostkovanou šunku, sůl a pepř a vše promíchej.", "minutes": 3 },
+    { "text": "Směs rozlož do vymazané zapékací misky.", "minutes": 2 },
+    { "text": "Peč 60 až 90 minut.", "minutes": 90 }
+  ],
+  "modernNote": "Fazole jsou lima (máslové) fazole sušené; v katalogu je nejblíž bílé sušené fazole (fazole-suche), původní název není založen. Šunka je vařená, z katalogu `sunka`. Zdroj počítá na 100 porcí: 12 lb fazolí, 20 lb šunky, 2 oz soli, 2 lžičky pepře; přepočet na 4 porce proběhl přes npm run convert. Voda „to cover“ není v zdroji vyčíslena, 300 ml je odhad (verified false). Vodu neslévej, zůstává v misce. Namáčení 4 hodiny je v tagu pripravit-predem. Volitelné přísady ze zdroje (1 quart melasy nebo hnědého cukru, ¾ lb cibule) vynechány, lze přidat dle chuti. Teplota: 325 °F = 160 °C.",
+  "source": {
+    "book": "navy-1944",
+    "page": 150,
+    "titleOriginal": "HAM AND LIMA BEAN SCALLOP"
+  },
+  "verified": false
+}

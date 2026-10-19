@@ -1,0 +1,125 @@
+{
+  "id": "mantovsky-kolac",
+  "title": "Mantovský koláč",
+  "titleOriginal": "Mantua Tart (Torta mantovana)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 85,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 85,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto",
+      "scaling": "linear",
+      "note": "rozpuštěné ve vodní lázni"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "celé vejce; půl vejce = rozšlehej vejce a použij polovinu"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "jen žloutky, bílky se nepoužijí"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "jemně strouhaná kůra (zest), odhad z „a taste of lemon peel“"
+    },
+    {
+      "ingredientId": "mandle",
+      "amount": 15,
+      "unit": "g",
+      "group": "Na vrch",
+      "note": "loupané, opařené, nakrájené na 8–10 kousků; rozdělení 2 oz mandlí a piniových oříšků je odhad"
+    },
+    {
+      "ingredientId": "piniove-orisky",
+      "amount": 13,
+      "unit": "g",
+      "group": "Na vrch",
+      "note": "přepůlené"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "scaling": "vessel",
+      "note": "na vymazání formy, odhad"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "scaling": "vessel",
+      "note": "na vysypání formy (zdroj: mouka nebo strouhanka), odhad"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 10,
+      "unit": "g",
+      "group": "Na posypání",
+      "note": "na posypání po vychladnutí, odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 170 °C." },
+    { "text": "Vymaž koláčovou formu máslem a vysyp ji strouhankou.", "minutes": 3 },
+    { "text": "Mandle opař v teplé vodě, oloupej a každou nakrájej na 8 až 10 kousků. Piniové oříšky přepůl.", "minutes": 10 },
+    { "text": "Máslo rozpusť ve vodní lázni a nech mírně vychladnout.", "minutes": 5 },
+    { "text": "Vejce se žloutky a cukrem dobře vymíchej dřevěnou vařečkou.", "minutes": 4 },
+    { "text": "Postupně zašlehej mouku a stále míchej.", "minutes": 3 },
+    { "text": "Vmíchej rozpuštěné máslo a citronovou kůru.", "minutes": 2 },
+    { "text": "Těsto nalij do formy, rovnoměrně rozetři a na vrch polož mandle s piniovými oříšky.", "minutes": 2 },
+    { "text": "Peč asi 40 minut, dokud povrch nezezlátne a koláč je suchý.", "minutes": 40 },
+    { "text": "Nech úplně vychladnout a vyjmi z formy." },
+    { "text": "Posyp moučkovým cukrem a podávej studené." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 187) neuvádí porce; celá dávka (6 oz mouky, 6 oz cukru, 5 oz másla, 2 oz mandlí a piniových oříšků, 1 celé vejce a 4 žloutky, těsto kolem 600 g) vychází na asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8). Odhady: rozdělení ořechů na mandle a piniové oříšky, 5 g másla a 5 g strouhanky na formu, 3 g citronové kůry (zdroj „a taste of lemon peel“), 10 g moučkového cukru na posypání. Teplota 170 °C a doba 40 minut jsou odhad: zdroj říká jen „ne příliš horká trouba“ a „ne tlustší než 1 palec (2,5 cm)“, aby koláč dobře proschl. Mandle se opaří a oloupou, jak zdroj předepisuje. Čas 70 minut je odhad včetně přípravy, bez chladnutí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 132,
+    "titleOriginal": "MANTUA TART (Torta mantovana)"
+  },
+  "verified": false,
+  "quote": "This tart must not be thicker than one inch, so that it can dry well in the oven, which must not be too hot."
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "okurky-sladke",
+    "name": "Okurky sladké",
+    "aliases": [
+      "sladké okurky",
+      "sweet pickles",
+      "sladké nakládané okurky"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 91,
+      "protein": 0.58,
+      "carbs": 21.15,
+      "fat": 0.41,
+      "fiber": 1
+    },
+    "units": {
+      "lzice": 15
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169378 (Pickles, cucumber, sweet)",
+      "refuse": "USDA fdc:169378 odpad 0 %",
+      "units": "USDA fdc:169378 cup chopped 160 g; lžíce odhad 15 ml × hustota 1,0"
+    }
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "id": "pecena-ryba",
+  "title": "Pečená ryba",
+  "titleOriginal": "Baked Fish",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 540,
+      "unit": "g",
+      "note": "filety bez kůže; původně kambala (platýs)",
+      "original": {
+        "ingredientId": "kambala",
+        "amount": 540,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 18,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "mletá"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 2,
+      "unit": "g",
+      "note": "čerstvá, nasekaná, na ozdobu"
+    }
+  ],
+  "steps": [
+    { "text": "Filety případně rozděl na porce po cca 127 g (4,5 unce) a polož je v jedné vrstvě do pekáče.", "minutes": 3 },
+    { "text": "Smíchej citronovou šťávu, rozpuštěné máslo, sůl a papriku a dobře promíchej. Směsí polij rybu.", "minutes": 3 },
+    { "text": "Peč v troubě s horkovzduchem při 165 °C asi 7 minut, dokud není ryba lehce zlatavá.", "minutes": 7 },
+    { "text": "Před podáváním posyp nasekanou petrželí." }
+  ],
+  "modernNote": "Původní recept je pro 100 porcí (4,5 unce ryby na porci), přepočteno na 4 porce. Původně margarín, nyní máslo. Původně kambala (platýs), v katalogu dostupná treska. Sprej na pečicí plech (cooking spray, 2 oz na 100 porcí) vynechán; pekáč doporučujeme lehce vymazat olejem. Původní pokyn 325 °F s horkovzdušnou troubou převeden na 165 °C. Doporučení: ryba je hotová, když se maso snadno rozpadá vidličkou (vnitřní teplota aspoň 63 °C, CCP věta ze zdroje vynechána).",
+  "source": {
+    "book": "afrs-2003",
+    "page": 901,
+    "code": "L 119 00",
+    "titleOriginal": "BAKED FISH"
+  },
+  "verified": true
+}

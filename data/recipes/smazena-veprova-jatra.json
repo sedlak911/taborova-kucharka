@@ -1,0 +1,87 @@
+{
+  "id": "smazena-veprova-jatra",
+  "title": "Smažená vepřová játra",
+  "titleOriginal": "Pork Liver Fried (Fegato di maiale fritto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jatra",
+      "amount": 500,
+      "unit": "g",
+      "note": "vepřová játra, nakrájená na tenké plátky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na obalení plátků"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "doplněno, zdroj sůl neuvádí"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 40,
+      "unit": "g",
+      "note": "dobré škvařené sádlo na smažení; zdroj říká „good lard“"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "šťáva na játra při smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Játra nakrájej na tenké plátky.",
+      "minutes": 5
+    },
+    {
+      "text": "Plátky lehce posyp hladkou moukou.",
+      "minutes": 2
+    },
+    {
+      "text": "Plátky osol."
+    },
+    {
+      "text": "Na pánvi rozehřej sádlo.",
+      "minutes": 3
+    },
+    {
+      "text": "Plátky smaž na sádle z obou stran dozlatova, asi 2 až 3 minuty z každé strany.",
+      "minutes": 8
+    },
+    {
+      "text": "Zatímco se játra smaží, vymačkej na ně citron.",
+      "parallel": true
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Gentile (tištěná s. 53, PDF 57) uvádí jen postup a nedává žádná množství ani počet porcí. Odhad pro 4 porce z běžné praxe: 500 g jater (125 g na porci), 20 g hladké mouky na obalení, 40 g sádla na smažení v pánvi, 1 citron na šťávu, 3 g soli. Doba smažení je odhad podle tloušťky plátků. Zdroj neuvádí sůl ani pepř; sůl 3 g je doplněna z běžné praxe. Zdroj říká, že se podává „se svou omáčkou“, ale recept na omáčku v knize (č. 66) není, takže omáčka chybí. Zdroj zmiňuje sádlo jako tuk; zůstává, lze nahradit řepkovým olejem.",
+  "source": {
+    "book": "italian-1919",
+    "page": 57,
+    "titleOriginal": "PORK LIVER FRIED (Fegato di maiale fritto)"
+  },
+  "verified": false,
+  "quote": "Cut into thin slices some pork liver, sprinkle with flour and fry in good lard."
+}

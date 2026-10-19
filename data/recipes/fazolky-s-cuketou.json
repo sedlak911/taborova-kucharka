@@ -1,0 +1,39 @@
+{
+  "id": "fazolky-s-cuketou",
+  "title": "Fazolky s cuketou na másle",
+  "titleOriginal": "String Beans and Squashes Sauté (Fagiolini e zucchini saute)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "celer"],
+  "ingredients": [
+    { "ingredientId": "zelene-fazolky", "amount": 500, "unit": "g", "note": "zdroj neuvádí množství; odhad 125 g na porci, konce a vlákna odstraněna" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na předvaření fazolek, slije se (domácí hodnota 1 l na 500 g zeleniny)", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na předvaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "cuketa", "amount": 300, "unit": "g", "note": "syrová, nakrájená na kostky; odhad 75 g na porci" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "na opečení a dochucení; zdroj „butter“ bez množství" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "mírně, na dochucení" },
+    { "ingredientId": "zeleninovy-vyvar", "amount": 100, "unit": "ml", "note": "zdroj uvádí „brown stock or good tomato sauce“; zvolen zeleninový vývar, bezmasá varianta", "original": { "ingredientId": "hovezi-vyvar", "amount": 100, "unit": "ml" } }
+  ],
+  "steps": [
+    { "text": "Fazolkám odřízni konce, odstraň vlákna a nakrájej je na kousky.", "minutes": 5 },
+    { "text": "Fazolky v hrnci s vroucí osolenou vodou napůl uvař.", "minutes": 10 },
+    { "text": "Mezitím nakrájej cuketu na kostky.", "minutes": 5, "parallel": true },
+    { "text": "Fazolky sceď.", "minutes": 2 },
+    { "text": "Na pánvi rozpusť máslo a fazolky na něm opékej dozlatova.", "minutes": 5 },
+    { "text": "Když máslo začne hnědnout, přidej kostky cukety a opékej je spolu s fazolkami.", "minutes": 8 },
+    { "text": "Přilij vývar, přikryj a na mírném ohni nech 5 minut podusit.", "minutes": 5 },
+    { "text": "Dochuť solí a podávej horké.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj (Gentile) neuvádí množství ani počet porcí. Odhady pro 4 porce z běžné praxe: 500 g zelených fazolek (125 g na porci), 300 g cukety (75 g na porci), 40 g másla na opékání i dochucení, 3 g soli na dochucení plus 2 g do vody na předvaření (slije se), 100 ml vývaru. Fazolky se podle zdroje předvaří ve vodě, proto je voda domácí hodnota s přepočtem 1 l na 500 g. Zdroj nabízí jako tekutinu buď hnědý vývar, nebo dobrou rajčatovou omáčku; zvolen zeleninový vývar, původní masový vývar je v `original`, aby recept zůstal bezmasý. Cuketa se přidává až ve chvíli, kdy máslo začíná hnědnout, jak zdroj předepisuje. Časy jsou odhady; celkem asi 40 minut. Doporučení: podávat jako přílohu k masu nebo rybě.",
+  "source": {
+    "book": "italian-1919",
+    "page": 74,
+    "titleOriginal": "STRING BEANS AND SQUASHES SAUTE' (Fagiolini e zucchini saute)"
+  },
+  "verified": false,
+  "quote": "Put the squashes in only when the butter is beginning to brown."
+}

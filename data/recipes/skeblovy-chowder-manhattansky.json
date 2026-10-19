@@ -1,0 +1,38 @@
+{
+  "id": "skeblovy-chowder-manhattansky",
+  "title": "Škeblový chowder manhattanský",
+  "titleOriginal": "Manhattan Clam Chowder",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mekkysi", "ryby"],
+  "ingredients": [
+    { "ingredientId": "treska", "amount": 55, "unit": "g", "note": "čerstvá, z tresky nebo jednoskvrnné" },
+    { "ingredientId": "voda", "amount": 490, "unit": "ml", "note": "voda na vaření ryby a nálev z mušlí (clam liquor); zůstává v polévce" },
+    { "ingredientId": "spek", "amount": 14, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "cibule", "amount": 14, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "celer-rapikaty", "amount": 14, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "brambory", "amount": 90, "unit": "g", "note": "nakrájené na kostky" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 230, "unit": "g" },
+    { "ingredientId": "skeble-konzervovane", "amount": 40, "unit": "g", "note": "nasekané, sceděný obsah konzervy (odhad hmotnosti)" },
+    { "ingredientId": "worcester", "amount": 7, "unit": "g" },
+    { "ingredientId": "sladka-paprika", "amount": 0.15, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "petrzel-nat", "amount": 6, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "tymian-susity", "amount": 0.06, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Rybu očisti, vlož do vody, přiveď k varu a vař 15 minut.", "minutes": 18 },
+    { "text": "Vyjmi rybu, rozvlákni ji vidličkou a vrať do vývaru.", "minutes": 3 },
+    { "text": "Mezitím na pánvi opékej špek dozlatova, přidej cibuli a osmahni dosvětla.", "minutes": 8, "parallel": true },
+    { "text": "Přidej osmahnutý špek s cibulí, celer, brambory, rybu a vývar a vař 15 minut.", "minutes": 15 },
+    { "text": "Přidej rajčata, mušle s nálevem a koření a ohřej.", "minutes": 5 }
+  ],
+  "modernNote": "Manhattan clam chowder ze zdroje (strana PDF 247, tištěná 239): 100 porcí, výtěžek 6 gal (≈ 22,7 l, tedy 227 ml na porci) odpovídá porci 1 cup (≈ 8 oz), proto originalYield 100. Ryba: zdroj uvádí treska nebo jednoskvrnná (cod or haddock), použita treska. Mušle: zdroj neuvádí hmotnost, jen „60 (½ gallon)“ chopped clams and liquor; hmotnost masa 1 000 g a nálev 893 ml jsou odhad (verified false). Nálev z mušlí je sloučen s vodou do jednoho řádku (voda linear). Sůl zdroj neuvádí. Rajčata zůstávají konzervovaná (zdroj 12 lb 12 oz). Tuk je jen z opečeného špeku, máslo s moukou na zahuštění (zdroj poznámka 2) nepoužito. Nález check:recipe „polévka 240 g na porci je mimo 250–450“ ponechán: porce 240 g odpovídá zdroji (1 cup ≈ 8 oz = 227 g); jako hlavní jídlo počítej 1,5 cupu. Doporučení: polévku mícháním těsně před podáváním udržíš, aby se mušle neusazovaly.",
+  "source": { "book": "navy-1944", "page": 247, "titleOriginal": "Manhattan Clam Chowder" },
+  "verified": false
+}

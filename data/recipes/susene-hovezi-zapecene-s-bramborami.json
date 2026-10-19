@@ -1,0 +1,84 @@
+{
+  "id": "susene-hovezi-zapecene-s-bramborami",
+  "title": "Sušené hovězí zapečené s bramborami",
+  "titleOriginal": "Sliced Dried Beef Scalloped with Potatoes",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "susene-hovezi",
+      "amount": 145,
+      "unit": "g",
+      "note": "zdroj „Beef, dried, sliced“ 8 lb na 100 porcí"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 700,
+      "unit": "g",
+      "note": "zdroj „Potatoes, A.P.“ 48 lb; čistá hmotnost (E.P. 80 %), brambory se loupou"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nadrobno nasekaná"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „Butter or other fat“ 1 lb 8 oz"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 380,
+      "unit": "ml",
+      "note": "zdroj „Milk, liquid“ 2½ gal na 100 porcí"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 190 °C." },
+    { "text": "Hovězí nakrájej na malé kousky a cibuli nasekej nadrobno.", "minutes": 5 },
+    { "text": "Brambory oloupej a nakrájej na tenké plátky.", "minutes": 10 },
+    { "text": "Ve zapékací míse střídavě vrstvi hovězí, brambory a cibuli.", "minutes": 5 },
+    { "text": "Smíchej mouku, sůl a pepř a posyp jimi směs.", "minutes": 2 },
+    { "text": "Polij hovězí rozpuštěným máslem a zalij mlékem.", "minutes": 2 },
+    { "text": "Peč asi 1 hodinu, dokud brambory nezměknou.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (porce 12 oz, přibl. 1½ šálku). Hovězí je sušené a slané: sůl (11 g na 4 porce, 2,75 g na porci) je vyšší, než by ostatní suroviny vyžadovaly; doporučuji ji ubrat nebo vynechat a dochutit až po upečení. Maso je 36 g na porci (8 lb na 100 porcí ze zdroje); jako hlavní jídlo počítej spíš 120–150 g sušeného hovězího na porci. Brambory jsou ve zdroji uvedeny jako A.P. (hmotnost před loupáním), proto je v receptu čistá hmotnost 80 % (48 lb × 0,8 × 0,04 = 697 g, v katalogu ediblePortion 1). Tuk „Butter or other fat“ je máslo, polévané přes hovězí, proto třída fat. Zdroj na této stránce neodkazuje na bílou omáčku (p. 173); mouka, máslo a mléko jsou uvedeny přímo v receptu, žádná omáčka se nepřidává. Teplota: zdroj 375 °F = 190 °C.",
+  "source": {
+    "book": "navy-1944",
+    "page": 126,
+    "titleOriginal": "SLICED DRIED BEEF SCALLOPED WITH POTATOES"
+  },
+  "verified": true,
+  "quote": "Bake in moderate oven (375°F.) about 1 hour or until potatoes are soft."
+}

@@ -1,0 +1,35 @@
+{
+  "id": "hraskova-kremova-polevka",
+  "title": "Hrášková krémová polévka",
+  "titleOriginal": "Cream of Green Pea Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-vyvar", "amount": 300, "unit": "ml", "note": "hovězí vývar (Beef Stock, s. 216)" },
+    { "ingredientId": "hrasek", "amount": 290, "unit": "g", "note": "čerstvý nebo mražený; zdroj dovoluje 3 konzervy No. 10 s nálevem místo něj" },
+    { "ingredientId": "mleko-polotucne", "amount": 380, "unit": "ml", "note": "kapalné mléko" },
+    { "ingredientId": "cibule", "amount": 11, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "scaling": "linear", "note": "na osmahnutí cibule, základ jíšky" },
+    { "ingredientId": "hladka-mouka", "amount": 18, "unit": "g", "note": "jíška" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.07, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Přiveď vývar k varu.", "minutes": 3 },
+    { "text": "Přidej hrách a vař 15–20 minut, dokud nezměkne.", "minutes": 20 },
+    { "text": "Protlač hrách s vývarem přes síto.", "minutes": 5 },
+    { "text": "Přidej mléko do hráškového pyré a nech 10 minut probublávat.", "minutes": 10 },
+    { "text": "Mezitím na tuku osmahni nasekanou cibuli dosvětla.", "minutes": 6, "parallel": true },
+    { "text": "Vmíchej mouku do cibule na tuku, přidej k hráškovému pyré s mlékem a dobře promíchej.", "minutes": 3 },
+    { "text": "Dochuť solí a pepřem a vař do mírného zhoustnutí.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj: Cream of Green Pea Soup, tištěná s. 234 (PDF 242), 100 porcí, výtěžek cca 6 gal, porce 1 cup (cca 8 oz), originalYield 100 (odchylka výtěžek/porce pod 10 %). Vývar: zdroj uvádí hovězí vývar (s. 216) nebo vodu; použit vývar, voda je alternativa. Hrách: čerstvý nebo mražený (16 lb), konzerva je v zdroji jen náhrada. Mléko je kapalné, bez úpravy. Máslo z „Butter or other fat“, jíška z mouky a tuku zůstává v polévce (linear). Sůl 2½ oz (5 tbsp) dává přes třídu seasoning 5 g na 4 porce; doporučení ubrat na polovinu a dochutit až na konci. Pepř: ½ tsp černého mletého, 1 tsp ≈ 2,3 g.",
+  "source": { "book": "navy-1944", "page": 242, "titleOriginal": "Cream of Green Pea Soup" },
+  "verified": true
+}

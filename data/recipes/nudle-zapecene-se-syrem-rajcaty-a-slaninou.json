@@ -1,0 +1,87 @@
+{
+  "id": "nudle-zapecene-se-syrem-rajcaty-a-slaninou",
+  "title": "Nudle zapečené se sýrem, rajčaty a slaninou",
+  "titleOriginal": "Noodles Scalloped with Cheese, Tomato and Bacon",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření nudlí, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 145,
+      "unit": "g",
+      "note": "nudle, suché"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 350,
+      "unit": "g",
+      "note": "krájená, s nálevem"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 75,
+      "unit": "g",
+      "note": "strouhaný"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 35,
+      "unit": "g",
+      "note": "plátky, nakrájené na proužky"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C." },
+    { "text": "Ve velkém hrnci přiveď vodu se solí k varu.", "minutes": 10 },
+    { "text": "Do vroucí vody vsyp nudle a vař, dokud nezměknou. Dobře je sceď.", "minutes": 20 },
+    { "text": "Mezitím rajčata ochuť solí a pepřem a zahřej je do varu.", "minutes": 5, "parallel": true },
+    { "text": "Vymaž pekáč a vrstvi do něj střídavě nudle, rajčata a sýr.", "minutes": 5 },
+    { "text": "Navrch polož proužky slaniny.", "minutes": 2 },
+    { "text": "Peč, dokud slanina nebude křupavá.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí: 8 lb nudlí, 19 lb 2 oz rajčat z konzerv (včetně nálevu), 4 lb 2 oz sýra a 2 lb slaniny. Voda na vaření je domácí: 1 l na 100 g nudlí (1,5 l pro 145 g), zdrojových 8 galonů se slévá; sůl do ní 2 g na litr, slije se. Sůl a pepř do rajčat jsou přepočtené z uvedené váhy (1 oz soli, 2 lžičky pepře). Porce 8 oz (cca 1 šálek) ze zdroje odpovídá spíše hotovému pokrmu po zapečení; hmotnost surovin na porci je nižší, proto je porce při 4 porcích lehčí. Pro hlavní jídlo počítej 1,5× množství. Tabulka neuvádí rozměr pekáče; pro 4 porce stačí menší zapékací mísa.",
+  "source": {
+    "book": "navy-1944",
+    "page": 40,
+    "titleOriginal": "NOODLES SCALLOPED WITH CHEESE, TOMATO AND BACON"
+  },
+  "verified": true
+}

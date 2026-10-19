@@ -1,0 +1,67 @@
+{
+  "id": "ovocne-zele-kostky",
+  "title": "Ovocné želé kostky",
+  "titleOriginal": "Assorted Fruit Gelatin Cubes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 195,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "zelatina",
+      "amount": 6,
+      "unit": "g",
+      "note": "odhad; zdroj má hotový ovocný dezert v prášku",
+      "original": {
+        "ingredientId": "zelatinovy-dezert-prasek",
+        "amount": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 50,
+      "unit": "g",
+      "note": "odhad, sladidlo místo sladkého prášku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 115,
+      "unit": "ml",
+      "note": "vroucí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jablecny-dzus",
+      "amount": 230,
+      "unit": "ml",
+      "note": "studený; zdroj „water or fruit juice, cold“",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "V míse smíchej želatinu s cukrem.", "minutes": 1 },
+    { "text": "Zalij vroucí vodou a míchej, dokud se želatina s cukrem úplně nerozpustí.", "minutes": 3 },
+    { "text": "Vmíchej studenou jablečnou šťávu.", "minutes": 1 },
+    { "text": "Nalij do mělké misky nebo formy a chlaď v lednici, dokud ztuhne.", "minutes": 180 },
+    { "text": "Nůž namoč do teplé vody a ztuhlou hmotu nakrájej na kostky asi 1,5 cm.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Navy 1944) připravuje tři ovocné želé dezerty v prášku (malinový, citrónový, limetkový) po 1 lb 2 oz (3 × 510 g), každý rozmíchá v 1 qt vroucí vody a ½ gal studené vody nebo ovocné šťávy, nalije do mělké misky, nechá ztuhnout a nakrájí. Modernizace: prášek nahrazen čistou želatinou a cukrem, studená voda ovocnou šťávou (jablečnou), jedna dávka místo tří příchutí. Pro barevné kostky rozdělit směs na tři části a každou ochutit jinou šťávou (pomerančová, citronová). Želatina (6 g) a cukr (50 g) jsou odhad pro 4 porce, zdroj je nemá; prášek v original (60 g) je přepočet z obrázku. Zdroj uvádí porci 4 oz (≈113 g), ale tekutiny a prášek dávají na 100 porcí jen ≈ 10 kg, tedy ≈ 100 g na porci; odchylku bilance proto nepovažuji za chybu receptu. Ztuhnutí: 3 h v lednici jako odhad pro mělkou misku. Podávej čisté nebo s vanilkovým pudinkem, ovocnou omáčkou nebo banány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 50,
+    "titleOriginal": "ASSORTED FRUIT GELATIN CUBES"
+  },
+  "verified": false,
+  "quote": "Chill until firm. Cut into ½ to ¾-inch cubes."
+}

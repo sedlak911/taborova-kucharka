@@ -1,0 +1,95 @@
+{
+  "id": "polevka-z-koncentratu-se-zelim",
+  "title": "Polévka z koncentrátu s kysaným zelím",
+  "titleOriginal": "Wehrmachtsuppenkonserve mit Sauerkraut",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 130,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kysele-zeli",
+      "amount": 600,
+      "unit": "g",
+      "note": "nepropláchnuté (ungewässert), se šťávou"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "odhad: zdroj říká jen „knapp mit Wasser bedecken“, zelí sotva zakrýt"
+    },
+    {
+      "ingredientId": "jalovec",
+      "amount": 8,
+      "unit": "ks",
+      "note": "zdroj: einige Wacholderbeeren (několik); odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „etwa Salz“; zelí je už slané, ochutnej"
+    },
+    {
+      "ingredientId": "polevkovy-koncentrat-instantni",
+      "amount": 70,
+      "unit": "g",
+      "note": "ve zdroji 75 g vojenské konzervy na hlavu; rozmíchat v 500 ml studené vody (nezapočítáno do vody výše)"
+    },
+    {
+      "ingredientId": "majoranka",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti (zdroj odkazuje na Grundgericht: Salz und Majoran); odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nepropláchnuté kysané zelí zalij vodou tak, aby bylo sotva zakryté, přidej jalovec a sůl a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Vař do měkka asi 1 a půl hodiny.",
+      "minutes": 90
+    },
+    {
+      "text": "Koncentrát rozdrť a rozmíchej ve studené vodě do hladka.",
+      "minutes": 5
+    },
+    {
+      "text": "Vlij koncentrát za stálého míchání do vroucího zelí a krátce provař.",
+      "minutes": 5
+    },
+    {
+      "text": "Stáhni z ohně a nech 20 minut dojít pod pokličkou, už nevař.",
+      "minutes": 20
+    },
+    {
+      "text": "Dochuť solí a majoránkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 225 g kysaného zelí na muže; zde 150 g kysaného zelí na porci, řádky jsou praktické domácí množství pro 4 porce. Koncentrát je snížen na asi 18 g na porci podle návodu moderních instantních polévek (zdroj počítá s 75 g vojenské konzervy na hlavu). Vojenská polévková konzerva (Wehrmachtsuppenkonserve, tvrdý lisovaný koncentrát) se dnes nevyrábí; nahrazena zeleninovým instantním polévkovým koncentrátem (bez masa a vývaru; sušený prášek/granulát, asi 18 g na porci). Jde o historickou kuriozitu. Tento recept ve zdroji vůbec neuvádí maso (jen zelí, jalovec, sůl); pro sytější polévku lze podle základního jídla přidat asi 400 g uzeného masa a vařit se zelím. Voda (1 l), počet jalovcových bobulí (8) a sůl jsou odhady, proto verified: false. Zelí je kyselé: dochucuj opatrně, případně špetku cukru.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 24,
+    "code": "4. (varianta, tišt. s. 44)",
+    "titleOriginal": "Wehrmachtsuppenkonserve mit Sauerkraut"
+  },
+  "verified": false,
+  "quote": "weitere Behandlung siehe Grundgericht."
+}

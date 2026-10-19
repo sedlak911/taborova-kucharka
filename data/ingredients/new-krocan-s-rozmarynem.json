@@ -1,0 +1,29 @@
+[
+  {
+    "id": "kruti-stehno",
+    "name": "Krůtí stehno bez kosti",
+    "aliases": [
+      "krůtí stehno",
+      "krůtí stehna",
+      "krůtí maso ze stehna",
+      "turkey thigh"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 108,
+      "protein": 21.28,
+      "carbs": 0.15,
+      "fat": 2.5,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171531 (Turkey, thigh, from whole bird, meat only, raw)",
+      "units": "bez převodu na kusy; množství v g (maso bez kosti)",
+      "refuse": "záznam je maso bez kosti a bez kůže; kosti a kůže se v receptu nepočítají"
+    }
+  }
+]

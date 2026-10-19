@@ -1,0 +1,103 @@
+{
+  "id": "zelena-omacka",
+  "title": "Zelená omáčka",
+  "titleOriginal": "Green Sauce (Salsa verde)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kapary",
+      "amount": 15,
+      "unit": "g",
+      "note": "v nálevu, scezené; zdroj „some capers“",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "ancovicky",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 ks (zdroj „one anchovy“); katalog má v oleji, solené opláchni a odkostěj",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 15,
+      "unit": "g",
+      "note": "malý plátek (zdroj „a small slice of onion“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 malý stroužek (zdroj „just a taste of garlic“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "snítka (zdroj „a sprig of parsley“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bazalka-cerstva",
+      "amount": 5,
+      "unit": "g",
+      "note": "několik lístků (zdroj „some leaves of basil“)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 60,
+      "unit": "ml",
+      "note": "„very good olive oil“, odhad",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 15,
+      "unit": "ml",
+      "note": "šťáva z 1 lžíce citronu, odhad",
+      "group": "Omáčka"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kapary, ančovičku, malý plátek cibule a kousek česneku nasekej dohromady nadrobno.",
+      "minutes": 6
+    },
+    {
+      "text": "Směs rozmačkej plochou stranou nože, až bude velmi jemná.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej snítku petrželové natě a lístky bazalky a nasekej je spolu s ostatním.",
+      "minutes": 2
+    },
+    {
+      "text": "Vše rozmíchej v kvalitním olivovém oleji se šťávou z citronu.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej studenou k vařenému kuřeti, studené vařené rybě nebo tvrdě vařeným vejcím."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 53) neuvádí množství ani výtěžek, jen suroviny ve větách. Množství jsou odhady pro 4 porce: kapary 15 g, ančovička 1 ks (≈ 5 g), cibule 15 g, česnek 1 malý stroužek (5 g), petrželová nať 10 g, bazalka 5 g, olivový olej 60 ml, citronová šťáva 15 ml (1 polévková lžíce). Zdroj nezmiňuje sůl ani pepř, proto je do receptu nepřidávám; dochuť podle chuti. Zelená paprika může nahradit kapary, je-li nedostupná (zdroj). Doba 15 minut je odhad. Omáčka se podává za studena; zdroj žádné chlazení neuvádí, proto bez tagu pripravit-predem. Kapitola zůstává jako u ančovičkové omáčky (omáčka k těstovinám), i když zdroj ji doporučuje k vařenému masu a rybě.",
+  "source": {
+    "book": "italian-1919",
+    "page": 47,
+    "titleOriginal": "GREEN SAUCE (Salsa verde)"
+  },
+  "verified": false,
+  "quote": "This sauce is excellent to season boiled chicken or cold boiled fish or hard boiled eggs."
+}

@@ -1,0 +1,133 @@
+{
+  "id": "kvetakovy-sformato",
+  "title": "Květákový sformato",
+  "titleOriginal": "Cauliflower in Mold (Sformato di cavolfiore)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kvetak",
+      "amount": 800,
+      "unit": "g",
+      "group": "Květák",
+      "note": "čistý bez stonku a listů; zdroj „a good sized cauliflower“, odhad 200 g na porci"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Květák",
+      "note": "na napůl uvaření květáku; slije se (domácí odhad, zdroj neuvádí)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Květák",
+      "note": "do vody na vaření, slije se (2 g/l)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 55,
+      "unit": "g",
+      "group": "Květák, bešamel a forma",
+      "note": "asi 20 g na opečení květáku, 25 g do bešamelu, 10 g na vymazání formy; odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Květák",
+      "note": "dochucení květáku při opékání; odhad"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 450,
+      "unit": "ml",
+      "group": "Mléko",
+      "note": "240 ml (zdroj „a cup of milk“) na dovaření květáku + 210 ml do bešamelu (poměr ze sourozeneckého receptu č. 94: ½ šálku mléka na 1 libru zeleniny, přepočteno na 800 g)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 6,
+      "unit": "g",
+      "group": "Bešamel",
+      "note": "poměr ze sourozeneckého receptu č. 94 je ½ čajové lžičky (3 g), zde 6 g, aby bešamel zhoustl"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Vazba",
+      "note": "rozšlehaná; zdroj „3 beaten eggs“"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 15,
+      "unit": "g",
+      "group": "Vazba",
+      "note": "nastrouhaný; zdroj „a tablespoonful of grated cheese“ (≈ 5 g), pro 4 porce 3 lžíce"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Květák zbav stonku a vnějších listů a napůl uvař v osolené vodě.",
+      "minutes": 10
+    },
+    {
+      "text": "Květák sceď, nakrájej na malé kousky, osol a opékej na části másla dozlatova.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij ho mlékem a duš do měkka.",
+      "minutes": 10
+    },
+    {
+      "text": "Dušený květák protlač sítem.",
+      "minutes": 5
+    },
+    {
+      "text": "Připrav bešamel: na části másla zpěň mouku, za stálého míchání přilej mléko a vař, dokud nezhoustne.",
+      "minutes": 8
+    },
+    {
+      "text": "Do bešamelu vmíchej protlačený květák, rozšlehaná vejce a strouhaný parmezán.",
+      "minutes": 3
+    },
+    {
+      "text": "Formu vymaž máslem, dno vystři pergamenem a naplň ji směsí.",
+      "minutes": 3
+    },
+    {
+      "text": "Formu postav do většího hrnce s horkou vodou (vodní lázeň) a vař na mírném ohni pod pokličkou, dokud směs nezatuhne.",
+      "minutes": 35
+    },
+    {
+      "text": "Sformato nech chvíli odpočinout, vyklop ho na mísu a podávej horké.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 95) neuvádí množství ani počet porcí; „a good sized cauliflower“ bereme jako 800 g čistého květáku (200 g na porci). Šálek mléka je 240 ml (zdroj 1 cup = 237 ml, zaokrouhleno). Bešamel podle č. 54 zdroj neudává množství, proto je přepočten ze sourozeneckého receptu č. 94 u fazolek (½ šálku mléka a ½ čajové lžičky mouky na 1 libru zeleniny, tj. 210 ml mléka a 3 g mouky na 800 g; mouka zvýšena na 6 g, aby bešamel zhoustl). Máslo 55 g a sůl 5 g (2 g do vody, 3 g na opékání) jsou odhad. Vejce 3 ks a parmezán 15 g odpovídají zdroji pro 4 porce. Zdroj říká jen „cook in a greased mold“; vaří se ve vodní lázni na plotně, jak zdroj předepisuje u sourozeneckého receptu s fazolkami (č. 94). Pečení v troubě není použito. Vařicí voda z květáku se slévá. Čas kroků je odhad, celkem asi 87 minut. Makra orientační. Tag tabor nepřiřazen: recept potřebuje tři hrnce (vaření, bešamel, vodní lázeň).",
+  "source": {
+    "book": "italian-1919",
+    "page": 76,
+    "titleOriginal": "CAULIFLOWER IN MOLD (Sformato di cavolfiore)"
+  },
+  "verified": false,
+  "quote": "Cook in a greased mold and serve hot."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "pomerancova-zmrzlina",
+  "title": "Pomerančová zmrzlina",
+  "titleOriginal": "Orange Ice (Gelato di aranci)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["bez-masa", "sladke", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "pomeranc", "amount": 4, "unit": "ks", "note": "velké pomeranče; použij šťávu" },
+    { "ingredientId": "citron", "amount": 1, "unit": "ks", "note": "velký; použij šťávu" },
+    { "ingredientId": "cukr-krystal", "amount": 340, "unit": "g" },
+    { "ingredientId": "voda", "amount": 470, "unit": "ml" }
+  ],
+  "steps": [
+    { "text": "Vymačkej pomeranče a citron a šťávu přeceď.", "minutes": 10 },
+    { "text": "V hrnci vař cukr s vodou deset minut bez pokličky.", "minutes": 10 },
+    { "text": "Nech sirup úplně vychladnout.", "minutes": 20 },
+    { "text": "Vmíchej šťávu do vychladlého sirupu, směs přeceď a nalij do nádoby.", "minutes": 3 },
+    { "text": "Dej do mrazáku a nech ztuhnout." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 219, s. 154) neuvádí počet porcí; množství bereme jako dávku pro 4 porce (asi 800 ml hotové směsi, tedy zhruba 200 ml na porci). Počty kusů jsou ze zdroje: 4 velké pomeranče a 1 velký citron, použije se jejich šťáva; kusy jsou počítány jako celé ovoce. Voda 1 pinta (473 ml) zaokrouhlena na 470 ml. Cukr 3/4 lb (340 g) je podle zdroje, výsledek je velmi sladký; pro méně sladkou verzi lze dát 250 g. Zdroj mrazí směs v ledu se solí; zde stačí mrazák nebo zmrzlinovač (u mrazáku ztuhne asi za 4 hodiny a déle, doporučeno ji jednou za čas prošlehat). Čas 45 minut je odhad bez mražení.",
+  "source": {
+    "book": "italian-1919",
+    "page": 158,
+    "titleOriginal": "ORANGE ICE (Gelato di aranci)"
+  },
+  "verified": false,
+  "quote": "Squeeze the oranges and the lemon and strain the juice."
+}

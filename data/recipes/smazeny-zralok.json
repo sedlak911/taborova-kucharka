@@ -1,0 +1,134 @@
+{
+  "id": "smazeny-zralok",
+  "title": "Smažená ryba (palombo)",
+  "titleOriginal": "FRIED DOG-FISH (Palombo fritto)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "ryby",
+    "vejce",
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 600,
+      "unit": "g",
+      "note": "čistá bílá ryba místo palomba (žraloka máčky, v ČR nedostupná); 150 g na porci",
+      "original": {
+        "ingredientId": "zralok",
+        "amount": 600,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná, lehce osolená; zdroj množství neuvádí, odhad"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 80,
+      "unit": "g",
+      "note": "obalení; zdroj množství neuvádí, odhad"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 30,
+      "unit": "g",
+      "note": "strouhaný sýr (zdroj „grated cheese“)"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 6,
+      "unit": "g",
+      "note": "zdroj: jeden stroužek na 1 lb (453 g) ryby; pro 600 g asi 1,3 stroužku"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "čerstvá, nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vejce a do strouhanky, odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "špetka pepře (zdroj „a pinch of pepper“)"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání, jako ve zdroji („serve with lemon“)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na smažení v hlubokém tuku; většina se slije, do jídla se počítá jen nasáklý podíl (viz další řádek)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý při smažení (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rybu nakrájej na plátky, ne moc tlusté, a polož je na talíř.",
+      "minutes": 10
+    },
+    {
+      "text": "Vejce rozšlehej se solí, plátky ryby jimi polij a nech je v chladu několik hodin.",
+      "minutes": 3
+    },
+    {
+      "text": "Česnek a petrželku nasekej nadrobno a smíchej je v míse se strouhankou, strouhaným sýrem, pepřem a solí.",
+      "minutes": 5
+    },
+    {
+      "text": "Těsně před smažením plátky vyndej z vejce a obal je ve směsi strouhanky a sýra.",
+      "minutes": 3
+    },
+    {
+      "text": "V hluboké pánvi zahřej hodně oleje, dokud v něm kousek strouhanky hned nezačne syčet.",
+      "minutes": 5
+    },
+    {
+      "text": "Plátky ryby smaž v oleji dozlatova a vyndej je na papírovou utěrku.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej horké, s kolečky citronu."
+    }
+  ],
+  "modernNote": "Palombo (malý žralok, máčka) v katalogu není, proto je v řádku treska (pevná bílá ryba) a původní surovina `zralok` je v `original` (600 g, stejné množství). Gentile neuvádí množství ani porce; všechna jsou odhad z běžné praxe pro 4 porce: 600 g ryby (150 g na porci) odpovídá zdrojovému poměru asi 1 stroužek česneku na 1 lb ryby. Počet vajec (2), strouhanka (80 g), sýr (30 g) a petrželka (10 g) jsou odhady. Ryba se podle zdroje nechá několik hodin ve vejci v chladu, proto krok bez minut a tag pripravit-predem; čas v timeMinutes ho nezahrnuje. Smažení v hlubokém tuku: 500 ml oleje se vylévá, do jídla se počítá 30 ml nasáklého tuku (odhad, samostatný řádek). Citron ve zdroji zmíněn je, přidán jako podávání. Makra katalogu jsou pro syrového žraloka (mixed species), treska je orientační.",
+  "source": {
+    "book": "italian-1919",
+    "page": 96,
+    "titleOriginal": "FRIED DOG-FISH (Palombo fritto)"
+  },
+  "verified": false,
+  "quote": "A clove of garlic is sufficient for one pound of fish."
+}

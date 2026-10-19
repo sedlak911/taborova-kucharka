@@ -1,0 +1,79 @@
+{
+  "id": "kdoulovy-syr",
+  "title": "Kdoulová pochoutka (cotognata)",
+  "titleOriginal": "QUINCE CAKE (Cotognata)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "kdoule",
+      "amount": 250,
+      "unit": "g",
+      "group": "Dužnina",
+      "note": "celé kdoule, nejlépe zralé; zdroj 6 lb na celou dávku, přepočteno ×0,5"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Dužnina",
+      "note": "na povaření kdoulí; slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 165,
+      "unit": "g",
+      "group": "Dužnina",
+      "note": "zdroj 4 lb cukru na 6 lb kdoulí"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 145,
+      "unit": "g",
+      "group": "Obal (volitelný)",
+      "note": "na křupavý povrch; zdroj 3½ lb",
+      "optional": true
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 15,
+      "unit": "ml",
+      "group": "Obal (volitelný)",
+      "note": "2 polévkové lžíce ze zdroje, nepůlí se (méně by cukr nerozpustilo)",
+      "optional": true
+    }
+  ],
+  "steps": [
+    { "text": "Kdoule omyj, vlož do hrnce a zalij vodou tak, aby byly zcela ponořené.", "minutes": 5 },
+    { "text": "Vař na mírném ohni, dokud kdoule nezačnou praskat a změknou.", "minutes": 35 },
+    { "text": "Vyndej kdoule z vody, oloupej je, vyjmi jádřince a dužninu přetlač přes síto.", "minutes": 10 },
+    { "text": "Dužninu s cukrem vař za stálého míchání, dokud se hmota při zvednutí naběračkou nezačne trhat na kusy.", "minutes": 8 },
+    { "text": "Hmotu rozetři na plech nebo prkénko do tenké vrstvy silné asi 3 mm a přikryj gázou proti mouchám.", "minutes": 5 },
+    { "text": "Nech na slunci několik dní vyschnout, dokud hmota nebude pevná." },
+    { "text": "Vyschlou hmotu nakrájej na tabulky jako čokoládu a každý kousek opatrně podlož nožem a odeber z plechu.", "minutes": 10 },
+    { "text": "Volitelně rozpusť cukr s vodou a vař, dokud nevznikne tuhá nit.", "minutes": 10 },
+    { "text": "Kousky z jedné strany obal sirupem, po zaschnutí je otoč a obal i druhou stranu.", "minutes": 15 },
+    { "text": "Podávej jako sladkost k čaji nebo kávě; uchovej v suchu a zakryté." }
+  ],
+  "modernNote": "Zdroj uvádí jen suroviny bez porcí: kdoule 6 lb, cukr 4 lb a obal 3½ lb cukru + 2 polévkové lžíce vody na celou dávku. Celá dávka dá asi 8 porcí konfektu, proto je přepočtena ×0,5 na 4 porce (originalYield 8): kdoule 250 g, cukr 165 g (poměr 4 : 6 lb zachován), obal 145 g (poměr ke kdoulím zachován; odhad). Voda 15 ml zůstala 2 lžíce ze zdroje, protože přepočtených 3 ml by na rozpuštění 145 g cukru nestačilo. Vaření kdoulí ve vodě (1 000 ml) je domácí hodnota a voda se slévá. Kniha uvádí sušení na slunci několik dní přikryté gázou; v domácích podmínkách lze dosušovat v troubě na nejnižší teplotu (asi 60 °C) s pootevřenými dvířky několik hodin, sušení je pak závislé na vlhkosti. Vrstva má být silná jako „silver dollar“ ze zdroje, tedy jen asi 2–3 mm; silnější vrstva by neuschla ani za několik dní. Obal je volitelný a kniha ho uvádí jako variantu pro křupavost; bez obalu je pochoutka měkká. Čas 100 minut zahrnuje vaření, přetlačení a krájení; sušení se nepočítá (čekání).",
+  "source": {
+    "book": "italian-1919",
+    "page": 139,
+    "titleOriginal": "QUINCE CAKE (Cotognata)"
+  },
+  "verified": false,
+  "quote": "It will be enough to boil for seven or eight minutes and remove when it begins to form pieces when lifted with the ladle."
+}

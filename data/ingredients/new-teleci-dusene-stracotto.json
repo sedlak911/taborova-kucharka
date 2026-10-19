@@ -1,0 +1,28 @@
+[
+  {
+    "id": "teleci-maso-s-kosti",
+    "name": "Telecí maso s kostí",
+    "aliases": [
+      "telecí maso",
+      "telecí kolínko s kostí",
+      "veal shank",
+      "veal shank bone-in"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 113,
+      "protein": 19.15,
+      "carbs": 0,
+      "fat": 3.48,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.71,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172568 (Veal, shank (fore and hind), separable lean and fat, raw)",
+      "refuse": "kupuje se s kostí; USDA odpad 29 % (kost) → ediblePortion 0.71"
+    }
+  }
+]

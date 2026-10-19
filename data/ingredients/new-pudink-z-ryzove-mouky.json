@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ryzova-mouka",
+    "name": "Rýžová mouka",
+    "aliases": [
+      "mouka rýžová",
+      "rýžová mouka bílá",
+      "rice flour"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 366,
+      "protein": 5.95,
+      "carbs": 80.13,
+      "fat": 1.42,
+      "fiber": 2.4
+    },
+    "units": {
+      "hrnek": 167
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169714 (Rice flour, white, unenriched)",
+      "units": "USDA fdc:169714 cup 158 g, přepočteno na metrický hrnek 250 ml (158 × 250 / 237)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

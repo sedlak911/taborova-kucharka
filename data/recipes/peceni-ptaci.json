@@ -1,0 +1,70 @@
+{
+  "id": "peceni-ptaci",
+  "title": "Pečené křepelky na způsob ptáčků",
+  "titleOriginal": "Birds (Arrosto di uccelli)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "krepelka",
+      "amount": 736,
+      "unit": "g",
+      "group": "Ptáci",
+      "note": "6 křepelek, asi 120 g celá každá (1½ na porci); hmotnost celých ptáků"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Ptáci",
+      "note": "lehce, jen jednou"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 100,
+      "unit": "g",
+      "group": "Obložení",
+      "note": "6 velmi tenkých plátků (asi 16 g), každou křepelku jím obalit"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 80,
+      "unit": "g",
+      "group": "Obložení",
+      "note": "6 malých kousků (asi 13 g), mezi ptáky na špejli"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 10,
+      "unit": "g",
+      "group": "Obložení",
+      "note": "štětcem, jen jednou"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Křepelky lehce osol.", "minutes": 2 },
+    { "text": "Každou křepelku obal tenkým plátkem slaniny a střídavě s kousky chleba nasaď na dřevěnou špejli.", "minutes": 8 },
+    { "text": "Špejle polož na plech vyložený pečicím papírem.", "minutes": 2 },
+    { "text": "Peč v troubě, dokud nezhnědnou, asi 15 minut.", "minutes": 15 },
+    { "text": "Jednou je štětcem potři olejem a peč dalších 5 minut, až budou měkké.", "minutes": 5 },
+    { "text": "Podávej hned, jak jsou upečené, jinak vyschnou." }
+  ],
+  "modernNote": "Zdroj (Gentile, s. 95) uvádí pečené ptáky na rožni bez počtu a množství: mezi ptáky kousek chleba, každý obalit tenkým plátkem slaniny, jednou potřít olejem, jednou lehce osolit, podávat hned. Drobní ptáci se dnes nejedí, proto je nahrazena křepelkami (katalog neměl, založena surovina krepelka). Rožeň nahrazen troubou a špejlemi. Odhad pro 4 porce: 6 křepelek (1½ na porci, asi 120 g celá křepelka, po odpadu 24 % asi 140 g masa na porci), 100 g slaniny (6 plátků), 80 g chleba, 10 g olivového oleje, 4 g soli. Teplota 200 °C a doba 20 minut jsou doporučení; zdroj počítá s rychlým pečením na dobrém ohni. Chybí v návodu: počet a velikost ptáků, teplota a čas.",
+  "source": {
+    "book": "italian-1919",
+    "page": 99,
+    "titleOriginal": "BIRDS (Arrosto di uccelli)"
+  },
+  "verified": false,
+  "quote": "The best way to cook birds, and that nearly always used by the Italians, is roasted at the spit."
+}

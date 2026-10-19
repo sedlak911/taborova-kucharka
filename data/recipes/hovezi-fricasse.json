@@ -1,0 +1,105 @@
+{
+  "id": "hovezi-fricasse",
+  "title": "Hovězí fricassé",
+  "titleOriginal": "Beef Fricassee",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 640,
+      "unit": "g",
+      "note": "bez kosti; zdroj: Beef, boneless 35 lb (varianta bone-in 50 lb)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 110,
+      "unit": "ml",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 100,
+        "unit": "g"
+      },
+      "note": "na opečení masa; zdroj Fat 4 lb (sádlo) = 100 g, moderně řepkový olej 100 g ÷ 0,92 g/ml"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g",
+      "note": "zdroj: 8 oz (váha); objemově 1 cup"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "nasekaná; zdroj 5 lb (3¾ qt)"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaný; zdroj 3 lb (¾ gal)"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená na kostky; zdroj 3 lb (¾ gal)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "note": "zdroj: Beef Stock (s. 216) nebo voda; vývar ponechán, ne voda"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso nakrájej na velké kusy, asi 5 cm. Cibuli nasekej nadrobno, celer a mrkev nakrájej na kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "Maso osol a opepři a opékej na tuku dozlatova ze všech stran.",
+      "minutes": 10
+    },
+    {
+      "text": "Přilij trochu vývaru nebo vody, přikryj a dej do trouby vyhřáté na 175 °C.",
+      "minutes": 5
+    },
+    {
+      "text": "Peč přikryté v troubě asi 2 hodiny 15 minut, podle potřeby přilévej vývar nebo vodu.",
+      "minutes": 135
+    },
+    {
+      "text": "Přidej nasekanou zeleninu a peč dalších 45 minut, dokud maso nezměkne.",
+      "minutes": 45
+    },
+    {
+      "text": "Hotové maso podávej."
+    }
+  ],
+  "modernNote": "Zdroj Navy 1944: Beef Fricassee, tištěná strana 107 (PDF 115). Výtěžek 100 porcí, porce zdroje 6 až 8 oz; pro 4 porce počítáno s horní mezí 8 oz. Maso bez kosti zvoleno z dvojice (bone-in 50 lb / boneless 35 lb). Sádlo ze zdroje nahrazeno řepkovým olejem (sádlo v originálu). Vývar ze zdroje (Beef Stock s. 216) zůstává, voda je jen alternativa podle zdroje. Sůl: 8 oz (váha) a 1 cup (objem) nejsou rozpor (1 cup soli je asi 8 oz); použita váha. Tuk na opečení zůstává v pokrmu, proto třída fat (100 g sádla = 110 ml oleje); doporučení: pro domácí přípravu stačí polovina. Mouka uvedená v zadání shortlistu ve zdroji není (ani v surovinách, ani v postupu), proto ji nepřidávám; zahuštění omáčky je až u Beef Goulash na s. 108. Sůl 3,75 g na porci je nad doporučením; odpovídá zdroji, doporučuji ji snížit na polovinu podle chuti. Doba pečení 3 hodiny je z postupu zdroje (zelenina 40 až 45 minut před koncem), ostatní časy odhad. Trouba 350 °F = 175 °C podle zdroje. Chybělo: velikost kusů v originále je „2-inch“ (převedeno na cm), množství vývaru nebo vody jen „malé množství“.",
+  "source": {
+    "book": "navy-1944",
+    "page": 115,
+    "titleOriginal": "BEEF FRICASSEE"
+  },
+  "verified": true,
+  "quote": "Bake in moderate oven (350°F.) approximately 3 hours."
+}

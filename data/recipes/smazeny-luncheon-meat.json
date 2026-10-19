@@ -1,0 +1,49 @@
+{
+  "id": "smazeny-luncheon-meat",
+  "title": "Smažený luncheon meat",
+  "titleOriginal": "Fried Luncheon Meat",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "luncheon-meat",
+      "amount": 640,
+      "unit": "g",
+      "note": "nakrájený na plátky silné asi 6 mm"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 55,
+      "unit": "ml",
+      "note": "na smažení, mělce; zdroj 2 lb sádla",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 50,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Luncheon meat nakrájej na plátky.", "minutes": 5 },
+    { "text": "Na pánvi rozehřej tuk.", "minutes": 2 },
+    { "text": "Plátky opékej na tuku z obou stran dozlatova.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj počítá 35 lb konzervy a 2 lb sádla na 100 porcí (porce 5–6 oz). Na 4 porce vychází 640 g masa, tedy asi 160 g na porci, což odpovídá zdrojové porci. Sádlo (50 g) jsme nahradili řepkovým olejem (55 ml, hmotnostně odpovídá 2 lb tuku). Luncheon meat je vepřová konzerva typu Spam; hovězí varianty nekupuj. Sůl ve zdroji není, konzerva je dostatečně slaná.",
+  "source": {
+    "book": "navy-1944",
+    "page": 166,
+    "titleOriginal": "FRIED LUNCHEON MEAT"
+  },
+  "verified": true,
+  "quote": "Cut meat into 1/4-inch thick slices. Pan-fry in fat until browned on both sides."
+}

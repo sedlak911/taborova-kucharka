@@ -1,0 +1,28 @@
+[
+  {
+    "id": "hovezi-filet",
+    "name": "Hovězí filet",
+    "aliases": [
+      "hovězí svíčková",
+      "svíčková hovězí",
+      "beef tenderloin",
+      "tenderloin"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 247,
+      "protein": 19.61,
+      "carbs": 0,
+      "fat": 18.16,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.98,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169542 (Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8\" fat, all grades, raw); filet, ne steak, USDA má jen steak/roast; hodnota pro syrový kus",
+      "refuse": "USDA fdc:169542 odpad 2 %"
+    }
+  }
+]

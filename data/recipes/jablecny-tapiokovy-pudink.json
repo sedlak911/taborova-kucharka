@@ -1,0 +1,124 @@
+{
+  "id": "jablecny-tapiokovy-pudink",
+  "title": "Jablečný tapiokový pudink",
+  "titleOriginal": "Apple Tapioca Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "pripravit-predem",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "tapioka",
+      "amount": 30,
+      "unit": "g",
+      "note": "perlová, namočená přes noc"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 230,
+      "unit": "ml",
+      "note": "horká, tapioka v ní vaří"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření tapioky"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 270,
+      "unit": "g",
+      "note": "tenké plátky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 125,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.68,
+      "unit": "g",
+      "note": "mletý, 1½ lžíce"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 0.51,
+      "unit": "g",
+      "note": "1 lžíce"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 12,
+      "unit": "ml",
+      "note": "1 šálek, ze 4 citronů"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 9,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tapioku namoč do studené vody na 6 až 8 hodin nebo přes noc a sceď."
+    },
+    {
+      "text": "Předehřej troubu na 175 °C a vymaž zapékací misku."
+    },
+    {
+      "text": "Přidej horkou vodu se solí a vař tapioku, až je průhledná, asi 20 minut.",
+      "minutes": 22
+    },
+    {
+      "text": "Zatímco se tapioka vaří, oloupej jablka a nakrájej je na tenké plátky.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Zatímco se tapioka vaří, smíchej cukr s muškátovým oříškem a skořicí.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Vrstvi do vymazané misky střídavě tapioku, jablka a směs cukru; nahoře nech vrstvu jablek se směsí cukru.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej citronovou šťávu a rozlož kousky másla.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč 35 až 45 minut, dokud nejsou jablka měkká.",
+      "minutes": 45
+    },
+    {
+      "text": "Podávej teplé nebo studené, nejlépe se smetanou."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (výtěžek 3¼ gal) a tapioku vaří 1½ až 2 hodiny; pro 4 porce je to v domácím hrnci zbytečně dlouhé, proto vaříš asi 20 minut, dokud tapioka není průhledná – podle toho posuď. Horká voda (1½ gal ze zdroje) zůstává v pudinku, tapioka ji nasává, takže je třída linear, ne vessel. Sůl (3 g) přidej do vody na vaření tapioky; katalogová třída seasoning. Pečení 35 až 45 minut platí pro velké pánve; v malé misce může být hotovo dřív, kontroluj měkkost jablek. Sůl: 1½ oz (42,5 g) odpovídá 3 lžícím při poměru 1 lžíce = ½ oz (shodně se zdrojem na straně 58), rozpor není; použita hmotnost. Omáčka Hard Sauce ze strany 57 není v receptu, jen doporučení k podávání. Zdroj neuvádí, kdy přidat sůl; zvolena voda na vaření.",
+  "source": {
+    "book": "navy-1944",
+    "page": 59,
+    "titleOriginal": "APPLE TAPIOCA PUDDING"
+  },
+  "verified": true
+}

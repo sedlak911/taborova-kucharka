@@ -1,0 +1,44 @@
+{
+  "id": "plnene-cibule",
+  "title": "Plněné cibule",
+  "titleOriginal": "Stuffed Onions (Cipolle ripiene)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cibule", "amount": 900, "unit": "g", "group": "Cibule", "note": "6 velkých cibulí ze zdroje, jedlá část (po oloupání a vyjmutí srdce asi 150 g každá); zdroj neuvádí porce, množství ponecháno" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "group": "Cibule", "note": "na vaření cibule; slije se (domácí odhad, zdroj neuvádí)", "scaling": "vessel" },
+    { "ingredientId": "sunka", "amount": 115, "unit": "g", "group": "Plnka", "note": "zdroj „¼ lb ham or tongue“, nasekaná; lze nahradit vařeným jazykem" },
+    { "ingredientId": "strouhanka", "amount": 70, "unit": "g", "group": "Plnka", "note": "mletá strouhanka: asi 50 g do plnky a asi 20 g na posypání; zdroj množství neuvádí, odhad" },
+    { "ingredientId": "mleko-plnotucne", "amount": 30, "unit": "ml", "group": "Plnka", "note": "2 polévkové lžíce" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g", "group": "Plnka", "note": "dvě špetky; odhad" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g", "group": "Plnka", "note": "jedna špetka; odhad" },
+    { "ingredientId": "maslo", "amount": 10, "unit": "g", "group": "Pekáč", "note": "na vymazání pekáče; odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 4, "unit": "g", "group": "Bešamel", "note": "½ polévkové lžíce; polovina samostatného bešamelu (zdroj č. 59)" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Bešamel", "note": "polovina kousku velikosti vejce; odhad" },
+    { "ingredientId": "mleko-plnotucne", "amount": 240, "unit": "ml", "group": "Bešamel", "note": "asi polovina pinty; na podávání" }
+  ],
+  "steps": [
+    { "text": "Šest velkých cibulí vař v hrnci s vodou asi hodinu.", "minutes": 60 },
+    { "text": "Cibule sceď, oloupej a špičkou nože vyjmi srdce.", "minutes": 10 },
+    { "text": "Šunku nasekej nadrobno a smíchej ji se strouhankou, mlékem, solí a pepřem.", "minutes": 5 },
+    { "text": "Dutiny cibulí naplň touto směsí místo srdce.", "minutes": 5 },
+    { "text": "Pekáč vymaž máslem, vlož do něj nadívané cibule a posyp je strouhankou.", "minutes": 3 },
+    { "text": "Vlož do středně horké trouby (180 °C) a peč, dokud cibule nezezlátnou.", "minutes": 25 },
+    { "text": "Mezitím na másle v rendlíku opraž hladkou mouku, dokud nezhnědne.", "minutes": 3, "parallel": true },
+    { "text": "Za stálého míchání přilévej mléko a vař, dokud omáčka nezhoustne jako smetana.", "minutes": 7, "parallel": true },
+    { "text": "Podávej horké, na talíř přidej trochu bešamelu." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 159, s. 112) popisuje šest velkých cibulí, vaření hodinu, plnku z ¼ lb šunky nebo jazyka, strouhanky, dvou polévkových lžic mléka, dvou špetek soli a jedné špetky pepře; pečení v ne příliš horké troubě a podávání s bešamelem (č. 54/59) nebo k pečenému či vařenému hovězímu. Počet porcí zdroj neuvádí; cibule ponechány 900 g jedlé části (6 cibulí). Odhady: vodu na vaření (1 l, slije se), množství strouhanky (asi 70 g celkem), máslo na pekáč (10 g), sůl a pepř (špetky), doba pečení 25 minut (zdroj neuvádí). Odkazovaný bešamel se přebírá v polovičním množství (4 g mouky, 20 g másla, 240 ml mléka), protože jde jen o přelití při podávání; postup podle samostatného receptu bechamelova-omacka. Sůl je jen dvě špetky ze zdroje (asi 0,25 g na porci), takže check:recipe hlásí nízkou sůl; podle chuti ji lze dochutit až na talíři, zdroj žádnou další nepředepisuje. Šunka je nejbližší položka katalogu; původní jazyk lze použít místo ní. Čas 110 minut je odhad (vaření 60, plnění 15, pečení 25, bešamel při pečení).",
+  "source": {
+    "book": "italian-1919",
+    "page": 116,
+    "titleOriginal": "STUFFED ONIONS (Cipolle ripiene)"
+  },
+  "verified": false,
+  "quote": "Stuffed onions are served as vegetables, or side-dish with roast-beef or boiled-beef."
+}

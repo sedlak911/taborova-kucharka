@@ -1,0 +1,52 @@
+{
+  "id": "slehana-poleva-z-odpareneho-mleka-ii",
+  "title": "Šlehaná poleva z odpařeného mléka (způsob II)",
+  "titleOriginal": "Whipped Evaporated Milk Topping (Method II)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 30,
+      "unit": "ml",
+      "note": "ledově vychlazené; zdroj 2 plechovky No. 1 tall (1 lb 13 oz)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 5,
+      "unit": "ml",
+      "note": "čerstvá, z citronu"
+    }
+  ],
+  "steps": [
+    { "text": "Odpařené mléko, mísu a metlu důkladně vychlaď." },
+    { "text": "Smíchej mléko s moučkovým cukrem a studenou metlou šlehej do nadýchané pěny.", "minutes": 3 },
+    { "text": "Přidej citronovou šťávu a šlehej dál, dokud nebude tuhé.", "minutes": 4 },
+    { "text": "Šlehané mléko ihned použij." }
+  ],
+  "modernNote": "Způsob II z kuchařky (strana 67; způsob I s želatinou a vanilkou nepřebírán). Portion ve zdroji je cca 1½ polévkové lžíce (~22 ml našlehaného), což na 4 porce dělá asi 90 ml hotové polevy. Odpařené mléko se našlehá jen dobře vychlazené (mísa, metla i mléko) a šlehá se rychle a v malém množství; ruční šlehání zvládneš, u malého množství je rychlejší elektrický mixér. Mléko při šlehání zhruba ztrojnásobí objem. Zdroj neuvádí dobu chlazení, proto recept nemá tag pripravit-predem a timeMinutes počítá jen šlehání. Citronová šťáva (1 citron na 100 porcí) je tu kyselina pro ztužení pěny; na 4 porce stačí asi 1 lžička. Nález bilance (0,51) je očekávaný: zdroj počítá hmotnost hotové polevy po ztrojnásobení objemu, kdežto check:recipe porovnává syrové suroviny. Nález 16 kcal na porci je věrný (topping je malé množství); zdroj kalorie neuvádí, kcal nezadávám.",
+  "source": {
+    "book": "navy-1944",
+    "page": 67,
+    "titleOriginal": "WHIPPED EVAPORATED MILK TOPPING (METHOD II)"
+  },
+  "verified": true,
+  "quote": "Evaporated milk, when whipped, triples in volume."
+}

@@ -1,0 +1,93 @@
+{
+  "id": "lusteniny-s-mrkvi",
+  "title": "Hrách s mrkví",
+  "titleOriginal": "Erbsen oder Bohnen oder Linsen mit Möhren (Mohrrüben) oder Gemischtem Gemüse",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hrach-puleny",
+      "amount": 400,
+      "unit": "g",
+      "note": "ve zdroji 90 g na hlavu; suchý, namočený přes noc"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "zdroj dovoluje i jiné čerstvé maso nebo uzené; množství masa zdroj neuvádí (doplněno, 100 g na porci)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 10 g čerstvé nebo 2,5 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 800,
+      "unit": "g",
+      "note": "čerstvá, ve zdroji 600 g na hlavu (nebo 30 g sušené zeleniny); nakrájená"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Salz nach Geschmack); odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočený hrách i s vodou z namáčení dej do hrnce, doplň studenou vodou a přiveď k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Vař 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Přidej maso, nakrájenou cibuli a sůl a vař dalších asi 60 minut.",
+      "minutes": 65
+    },
+    {
+      "text": "Mezitím oloupej mrkev a nakrájej ji na kousky.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Přidej mrkev a vař do měkka, asi 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Dochuť solí a majoránkou nebo petrželkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 600 g mrkve na muže; zde 100 g hrachu a 200 g mrkve na porci, řádky jsou praktické domácí množství pro 4 porce. Množství z obrázku stránky: 90 g luštěnin, 10 g čerstvé cibule a 600 g čerstvé mrkve (nebo 30 g sušené zeleniny) na hlavu. Množství masa (100 g na porci), vody (1,5 l) a soli jsou odhad, proto verified: false. Stejný postup funguje s fazolemi nebo čočkou místo hrachu (čočka se nenamáčí). Luštěniny namoč přes noc a použij i vodu z namáčení. Místo mrkve zdroj dovoluje směs zeleniny. Dochucení majoránkou nebo petrželkou je bez množství, dávkuj po špetkách.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 22,
+    "code": "2. (varianta, tišt. 40)",
+    "titleOriginal": "Erbsen oder Bohnen oder Linsen mit Möhren (Mohrrüben) oder Gemischtem Gemüse"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz und Majoran oder Petersilie."
+}

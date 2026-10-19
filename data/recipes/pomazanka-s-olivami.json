@@ -1,0 +1,55 @@
+{
+  "id": "pomazanka-s-olivami",
+  "title": "Pomazánka z krémového sýra a oliv",
+  "titleOriginal": "Cream Cheese and Olive Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 5,
+  "difficulty": 1,
+  "equipment": [],
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kremovy-syr",
+      "amount": 165,
+      "unit": "g",
+      "note": "změkčený"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "olivy-cerne",
+      "amount": 55,
+      "unit": "g",
+      "note": "plněné (zelené), nasekané nadrobno; zdroj barvu neuvádí"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smetanový sýr a odpařené mléko vyšlehej do hladka.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej nasekané olivy a vše dobře promíchej do hladké pasty.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj uvádí jen tři suroviny (sýr 9 lb, odpařené mléko 1 lb 13 oz, olivy 3 lb na 100 porcí po 2 oz); přepočet na 4 porce jde přes npm run convert. Krémový sýr dej před přípravou změknout na pokojovou teplotu, rychleji se rozmíchá. Olivy ve zdroji nejsou určeny barvou, plněné jsou obvykle zelené; katalog má černé, rozdíl je v chuti jen malý. Ke sýru lze podle zdroje přidat celer, zelenou papriku, nakládanou okurku, pimiento, ořechy, rozinky, vodnici, džem nebo jelly; volitelné, v receptu nejsou. Porce zdroje (2 oz ≈ 57 g) × 4 je 227 g, přepočtená směs 255 g, bilance 1,12 je v pořádku. Majonéza ani kečup v tomto receptu nejsou (patří k americké náplni na téže straně).",
+  "source": {
+    "book": "navy-1944",
+    "page": 215,
+    "titleOriginal": "CREAM CHEESE AND OLIVE FILLING"
+  },
+  "verified": true,
+  "quote": "Mix together all ingredients and blend to a smooth paste."
+}

@@ -1,0 +1,85 @@
+{
+  "id": "rajcatove-kroupy",
+  "title": "Rajčatové kroupy",
+  "titleOriginal": "Tomatengraupen",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kroupy",
+      "amount": 320,
+      "unit": "g",
+      "note": "ve zdroji 100 g na hlavu; namočené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1300,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "místo polévkové zeleniny (zdroj: „Statt der Suppenkräuter sind Zwiebeln zu verwenden“); množství neuvádí, odhad stejně jako u zeleniny (30 g na hlavu)"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 100,
+      "unit": "g",
+      "note": "ve zdroji až 50 g Tomatenmark na hlavu"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočené kroupy zalij studenou vodou (vodou z namáčení) a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso, nakrájenou cibuli a sůl a vař do měkka asi 3 hodiny (vepřové jen asi 2 hodiny).",
+      "minutes": 180
+    },
+    {
+      "text": "Hotové jídlo dochuť rajčatovým protlakem.",
+      "minutes": 3
+    },
+    {
+      "text": "Dochuť solí a kořením."
+    }
+  ],
+  "modernNote": "Řádky jsou praktické domácí množství pro 4 porce. Dochucovadla (rajčatového protlaku) jsou ve zdroji „bis zu 50 g“ na hlavu (horní mez); zde 25 g na porci. Cibuli zdroj nevyčísluje, 100 g je odhad. Zdroj neuvádí množství masa ani vody ani soli: 400 g hovězího (100 g na porci), vodu a sůl jsme odhadli, proto verified: false. Kroupy je dobré namočit několik hodin předem (zdroj: Einweichwasser, doba neuvedena). Sušenou zeleninu, trvanlivou vařenou klobásu (do hotového jídla, krátce svařit) a konzervované maso (až těsně před podáváním) zdroj také připouští, zde jsou vynechány; vepřové maso se vaří jen asi 2 hodiny. Dochucení kvasničným extraktem, celerem, petrželí a saturejkou je bez množství, dávkuj po špetkách.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 19,
+    "code": "2. (varianta, tišt. 34)",
+    "titleOriginal": "Tomatengraupen"
+  },
+  "verified": false,
+  "quote": "Das gare Gericht ist mit Tomatenmark bis zu 50 g abzuschmecken."
+}

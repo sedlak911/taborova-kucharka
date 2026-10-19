@@ -1,0 +1,80 @@
+{
+  "id": "dusena-pecene-s-rozmarynem",
+  "title": "Dušená pečeně s česnekem a rozmarýnem",
+  "titleOriginal": "POT ROAST WITH GARLIC AND ROSEMARY (Arrosto morto coll'odore dell'aglio e del ramerino)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 600,
+      "unit": "g",
+      "note": "telecí hřbet bez kosti, svinutý do rolády; zdroj „the best is milk veal“ (4 × 150 g)"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "„good olive oil“ v malém množství"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "„butter, both in small quantity“, odhad"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "1 stroužek, zdroj „a clove of garlic“"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 4,
+      "unit": "g",
+      "note": "asi 2 snítky, zdroj „one or two bunches of rosemary“"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti, solí se v polovině dušení"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 120,
+      "unit": "ml",
+      "note": "½ šálku vývaru ze zdroje (118,5 ml), zaokrouhleno"
+    }
+  ],
+  "steps": [
+    { "text": "Maso svaž provázkem do tvaru rolády.", "minutes": 5 },
+    { "text": "V hrnci rozehřej olivový olej a máslo.", "minutes": 2 },
+    { "text": "Vlož maso, stroužek česneku a snítky rozmarýnu a opékej ze všech stran dozlatova.", "minutes": 12 },
+    { "text": "Přikryj a duš na mírném ohni, dokud maso není z poloviny měkké.", "minutes": 30 },
+    { "text": "Maso posol, podlij vývarem a duš pod pokličkou, dokud je měkké a v hrnci zůstane jen málo šťávy.", "minutes": 60 },
+    { "text": "Maso vyndej, nech chvíli odpočinout a nakrájej na plátky.", "minutes": 5 },
+    { "text": "Šťávu přeceď přes sítko, netlač.", "minutes": 2 },
+    { "text": "Podávej maso se šťávou; hodí se k němu brambory nebo zelenina uvařené zvlášť." }
+  ],
+  "modernNote": "Zdroj (č. 131) říká „Cook the meat as above“, takže postup se bere z č. 130 (Pot Roast): hřbet svinutý a svázaný, na olivovém oleji a málu másla dozlatova, sůl v polovině vaření, dolití polovinou šálku vývaru. „Broth“ v Gentile je hovězí vývar, proto hovezi-vyvar, ne voda. Odhady (zdroj nemá váhu ani porce): maso 600 g (4 × 150 g), olej 1 lžíce, máslo 20 g, sůl 5 g, rozmarýn 4 g (asi 2 snítky). Česnek je 1 stroužek ze zdroje. Vynechány: volitelné rubené corned beef (č. 130) a rajčatová omáčka místo vývaru (jen když vývar chybí). Pepř zdroj u tohoto receptu nepředepisuje. Brambory nebo zelenina uvařené zvlášť jsou jen podání podle zdroje, bez množství. Zdrojová varianta s jehněčím stehnem v troubě nepoužita (trouba není potřeba). Doba dušení 90 minut (60 + 30) a celkový čas 120 minut jsou odhady, zdroj čas neuvádí. Šťáva se přeceďuje bez tlačení, aby zůstala řidší.",
+  "source": {
+    "book": "italian-1919",
+    "page": 99,
+    "titleOriginal": "POT ROAST WITH GARLIC AND ROSEMARY (Arrosto morto coll'odore dell'aglio e del ramerino)"
+  },
+  "verified": false,
+  "quote": "Cook the meat as above, but add a clove of garlic and one or two bunches of rosemary in the saucepan."
+}

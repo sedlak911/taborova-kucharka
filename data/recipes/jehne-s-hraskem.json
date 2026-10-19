@@ -1,0 +1,131 @@
+{
+  "id": "jehne-s-hraskem",
+  "title": "Jehněčí s hráškem",
+  "titleOriginal": "Lamb with Peas (Agnello ai piselli)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 700,
+      "unit": "g",
+      "note": "kus z kýty (zadní strana) s kostí, asi 540 g masa bez kosti; odhad z praxe"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 10,
+      "unit": "g",
+      "note": "2 stroužky, nakrájené na proužky (zdroj: 2 stroužky; 2 × 5 g)"
+    },
+    {
+      "ingredientId": "rozmaryn-cerstvy",
+      "amount": 3,
+      "unit": "g",
+      "note": "2–3 větvičky, zdroj říká „some sprigs“"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 30,
+      "unit": "g",
+      "note": "kousek sádla („a piece of lard“), nasekat nadrobno; odhad"
+    },
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 60,
+      "unit": "g",
+      "note": "plátek, nasekat nadrobno; odhad"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "malé množství oleje na opečení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "kousek, přidat do omáčky"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěný ve vodě nebo ve vývaru (zdroj: rajčatová omáčka nebo protlak); odhad"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 200,
+      "unit": "ml",
+      "note": "masový vývar, nebo voda; zdroj říká „soup stock“"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 300,
+      "unit": "g",
+      "note": "zrna z lusků (asi 800 g v lusku); odhad 75 g zrn na porci"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jehněčí kus propíchni nakrájenými stroužky česneku a větvičkami rozmarýnu.",
+      "minutes": 5
+    },
+    {
+      "text": "Sádlo a solené hovězí nasekej nadrobno.",
+      "minutes": 3
+    },
+    {
+      "text": "Maso vlož do pánve nebo hrnce k nasekané směsi, přilej trochu oleje, osol a opepři a opékej dozlatova.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej máslo, rajčatový protlak rozmíchaný ve vývaru (nebo ve vodě) a duš, dokud je maso měkké.",
+      "minutes": 50
+    },
+    {
+      "text": "Mezitím oloupej hrášek z lusků.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Maso vyndej, do omáčky vlož hrášek a nech ho chvíli probublat, dokud není měkký.",
+      "minutes": 15
+    },
+    {
+      "text": "Maso vrať zpět do omáčky, prohřej a podávej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí jen postup, bez množství a počtu porcí. Odhady pro 4 porce: jehněčí kus z kýty 700 g s kostí (asi 135 g masa na porci), sádlo 30 g (zdroj „lard“, ne slanina) a solené hovězí 60 g nasekané nadrobno, máslo 20 g, rajčatový protlak 30 g, masový vývar 200 ml (nebo voda), hrášek 300 g zrn (asi 75 g na porci), sůl 5 g a pepř 1 g podle chuti. Česnek 2 stroužky (zdroj) a rozmarýn 2–3 větvičky (zdroj říká „some sprigs“). Vývar je masový, ne zeleninový, protože kniha mluví o „soup stock“. Maso se dusí zhruba 50 minut až do měkka; doba je odhad, u tuhé kýty se prodlouží. Čas celkem 90 minut je odhad. Hrášek se v zdroji přidává až do omáčky po vyjmutí masa, proto je jeho příprava (loupání) souběžná.",
+  "source": {
+    "book": "italian-1919",
+    "page": 65,
+    "titleOriginal": "LAMB WITH PEAS (Agnello ai piselli)"
+  },
+  "verified": false,
+  "quote": "Take a piece of lamb from the hind side, lard it with two cloves of garlic cut in little strips and with some sprigs of rosemary."
+}

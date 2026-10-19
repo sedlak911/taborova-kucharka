@@ -1,0 +1,40 @@
+{
+  "id": "dusene-jehneci",
+  "title": "Dušené jehněčí",
+  "titleOriginal": "Braised Lamb",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 215,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 1090, "unit": "g", "note": "s kostí; zdroj: bone-in 60 lb (alternativa boneless 42 lb)" },
+    { "ingredientId": "repkovy-olej", "amount": 13, "unit": "g", "note": "na opečení masa", "original": { "ingredientId": "sadlo", "amount": 13, "unit": "g" } },
+    { "ingredientId": "sul", "amount": 11, "unit": "g", "note": "na maso" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g", "note": "na maso" },
+    { "ingredientId": "hovezi-vyvar", "amount": 40, "unit": "ml", "note": "malé množství na dušení; zdroj: Meat Stock (s. 216) nebo voda" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "nakrájená, ve zdroji volitelná" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "note": "na jíšku pro omáčku (s. 177)", "scaling": "linear", "original": { "ingredientId": "sadlo", "amount": 18, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 18, "unit": "g", "note": "na jíšku pro omáčku (s. 177)" },
+    { "ingredientId": "hovezi-vyvar", "amount": 300, "unit": "ml", "note": "na omáčku (s. 177)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do omáčky (s. 177)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g", "note": "do omáčky (s. 177)" }
+  ],
+  "steps": [
+    { "text": "Jehněčí rozděl na větší kusy.", "minutes": 10 },
+    { "text": "Maso ze všech stran opékej v tuku dozlatova, průběžně ho otáčej.", "minutes": 12 },
+    { "text": "Přidej sůl, pepř, trochu vývaru nebo vody a případně nakrájenou cibuli.", "minutes": 3 },
+    { "text": "Přikryj a duš v dobře uzavřeném hrnci 3 hodiny, dokud maso nezměkne. Několikrát ho obrať a podle potřeby přilévej malé množství vývaru nebo vody.", "minutes": 180 },
+    { "text": "Mezitím v jiném hrnci rozmíchej tuk s moukou a za stálého míchání opékej, dokud mouka nezhnědne.", "minutes": 8, "parallel": true },
+    { "text": "Mezitím postupně přilévej vývar k jíšce a za stálého míchání vař, dokud omáčka nezhoustne a nebude hladká.", "minutes": 10, "parallel": true },
+    { "text": "Omáčku dochuť solí a pepřem.", "minutes": 2 },
+    { "text": "Maso vyjmi z hrnce a nakrájej napříč vlákny na tenké plátky. Udrž je teplé.", "minutes": 5 },
+    { "text": "Podávej s omáčkou." }
+  ],
+  "modernNote": "Maso: zdroj uvádí bone-in 60 lb nebo boneless 42 lb (≈ 760 g); použit bone-in, protože katalog jehněčí má jen variantu s kostí (ediblePortion 0,77). Tuk na opečení: zdroj „lamb fat or other fat“ 8 oz → moderně řepkový olej, sádlo do original. Tekutina: zdroj Meat Stock (s. 216) nebo voda → vývar hovězí, ne voda; množství 1 qt (946 ml) je pro 100 porcí, pro 4 porce 40 ml – během dušení doplňuj podle potřeby, jak zdroj radí. Zdroj připouští zapékání v troubě (300 °F = 150 °C), zde je varianta na plotně v hrnci. Omáčka: zdroj odkazuje na Savory Brown Gravy (s. 177, PDF 185), suroviny jsou zahrnuty úměrně (1 lb tuku z pečeně → máslo, sádlo do original; 2 gal vývaru → 300 ml; 1 oz soli a 2 čajové lžičky pepře). Cibule je ve zdroji volitelná, zařazena. Sůl: 6 oz na maso a 1 oz do omáčky na 100 porcí dávají 3,25 g soli na porci (přes třídu seasoning); doporučení je solit podle chuti a ubrat přibližně třetinu. Bilance: 333 g na porci proti 128 g v porci zdroje (4–5 oz hotového masa); poměr 2,6 je dán tím, že zdroj počítá surové kosti a omáčku proti hotové porci (100 porcí ≈ 33 kg surovin na 12,8 kg hotového masa; check:recipe s porcí 4 oz místo 4,5 oz hlásí 2,9), není to chyba převodu.",
+  "source": { "book": "navy-1944", "page": 134, "titleOriginal": "Braised Lamb" },
+  "verified": true
+}

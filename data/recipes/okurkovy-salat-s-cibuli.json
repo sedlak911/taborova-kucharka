@@ -1,0 +1,32 @@
+{
+  "id": "okurkovy-salat-s-cibuli",
+  "title": "Okurkový salát s cibulí",
+  "titleOriginal": "Cucumber and Onion Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "okurka-salatova", "amount": 210, "unit": "g", "note": "loupaná, na plátky" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "cukr-krystal", "amount": 18, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "ocet", "amount": 55, "unit": "ml", "note": "destilovaný, do zálivky", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 18, "unit": "ml", "note": "do zálivky" }
+  ],
+  "steps": [
+    { "text": "Smíchej okurky a cibuli.", "minutes": 2 },
+    { "text": "V míse rozmíchej sůl, pepř, cukr, ocet a vodu.", "minutes": 2 },
+    { "text": "Zalij okurky a cibuli zálivkou a dobře promíchej.", "minutes": 2 },
+    { "text": "Přikryj a chlaď alespoň 1,5 hodiny. Udržuj v chladu až do podávání.", "minutes": 90 }
+  ],
+  "modernNote": "Zdrojová porce je 1/2 hrnku salátu. Ocet je ve zdroji destilovaný, v katalogu odpovídá ocet kvasný lihový (8 %). Vodu a ocet ponech v jídle: u tohoto salátu se nesliva, proto obě suroviny škálují lineárně (řádek ocet přepsán na linear; katalogová třída aromatic by dala 75 g místo 55 g).",
+  "source": { "book": "afrs-2003", "page": 1131, "code": "M 015 00", "titleOriginal": "CUCUMBER AND ONION SALAD" },
+  "verified": true,
+  "quote": "Cover and refrigerate for at least 1-1/2 hours."
+}

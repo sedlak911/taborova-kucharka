@@ -1,0 +1,57 @@
+{
+  "id": "malinovy-sirup",
+  "title": "Malinový sirup",
+  "titleOriginal": "Raspberry Syrup (Sciroppo di lampone)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 20,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "maliny",
+      "amount": 200,
+      "unit": "g",
+      "note": "čerstvé, přebrané; zdroj neuvádí množství, 200 g dává asi 100 ml šťávy (odhad)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 135,
+      "unit": "g",
+      "note": "4 díly cukru na 3 díly šťávy (zdroj: 8 lb cukru na 6 lb šťávy)"
+    },
+    {
+      "ingredientId": "kyselina-citronova",
+      "amount": 1,
+      "unit": "g",
+      "note": "1 unce na 8 lb cukru, přepočteno na 135 g cukru; koriguje přebytečnou sladkost"
+    }
+  ],
+  "steps": [
+    { "text": "Maliny dej do hliněné nádoby a polož na chladné místo.", "minutes": 3 },
+    { "text": "Když maliny začnou kvasit, dvakrát denně stírej hladinu a promíchej je vařečkou, dokud kvašení neustane." },
+    { "text": "Vymačkej šťávu přes plátno, po troškách, rukou nebo v lisu.", "minutes": 10 },
+    { "text": "Šťávu přefiltruj dvakrát nebo třikrát, dokud nebude čirá.", "minutes": 10 },
+    { "text": "Šťávu zahřej téměř k varu, pak přisyp cukr a kyselinu citronovou.", "minutes": 5 },
+    { "text": "Za stálého míchání krátce provař, aby se cukr rozpustil a vznikl sirup.", "minutes": 5 },
+    { "text": "Sundej z ohně a nech sirup vychladnout v hliněné nádobě." },
+    { "text": "Vychladlý sirup přelij do láhví, dobře je uzavři a skladuj v chladu.", "minutes": 3 },
+    { "text": "Podávej: do sklenice ledové vody dej jen trochu sirupu." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 210) uvádí jen postup a poměr: 6 lb šťávy, 8 lb cukru a 1 unci kyseliny citronové, tedy na 3 díly šťávy 4 díly cukru. Postup odkazuje na č. 209 (rybíz), takže kvašení, lisování, filtrace a vaření jsou převzaty odtud; malinám stačí kvasit kratší dobu. Základ pro přepočet je domácí várka 1 kg malin (asi 1 l sirupu, 20 porcí po 50 ml, originalYield 20); recept ukazuje 4 porce: 200 g malin, 135 g cukru a 1 g kyseliny citronové. 1 porce = 50 ml sirupu na sklenici nápoje, 4 porce = asi 200 ml sirupu; na zásobu nastav 20 porcí. Kyselinu citronovou lze nahradit citronovou šťávou (citronová šťáva má asi 5–6 % kyseliny): 1 g kyseliny je asi 1 lžíce šťávy, 5 g asi 6 lžic; chuť se ale změní. Čas 40 minut počítá jen aktivní práci a vaření, kvašení (několik dnů) je mimo něj, proto recept nese tag pripravit-predem. Spontánní kvašení tvoří stopy alkoholu a nahoře nesmí růst plíseň; šťávu před vařením lze zahřát na asi 85 °C a kvašení přeskočit.",
+  "source": {
+    "book": "italian-1919",
+    "page": 152,
+    "titleOriginal": "RASPBERRY SYRUP (Sciroppo di lampone)"
+  },
+  "verified": false,
+  "quote": "The period of fermentation will be briefer."
+}

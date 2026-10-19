@@ -1,0 +1,91 @@
+{
+  "id": "nudle-se-susenym-ovocem",
+  "title": "Nudle se sušeným ovocem",
+  "titleOriginal": "Nudeln mit Backobst",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "pripravit-predem",
+    "sladke",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 2500,
+      "unit": "ml",
+      "note": "vroucí, včetně vody z namáčení ovoce; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "zdroj: 10 g tuku na hlavu, když se jí bez masa"
+    },
+    {
+      "ingredientId": "susene-ovoce-smes",
+      "amount": 320,
+      "unit": "g",
+      "note": "sušená jablka, hrušky, švestky; ve zdroji 80 g na hlavu"
+    },
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 480,
+      "unit": "g",
+      "note": "suché; ve zdroji 120 g na hlavu"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 20,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „abschmecken mit Salz und Zucker“; podle chuti"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přiveď vodu s máslem a solí k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej sušené ovoce i s vodou z namáčení a vař asi čtvrt hodiny.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej nudle a na mírném ohni vař dohotova, asi 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Dochuť solí a cukrem."
+    }
+  ],
+  "modernNote": "Zdroj počítá s dávkou 80 g sušeného ovoce (Backobst) a 120 g nudlí na hlavu; zde 80 g ovoce a 120 g nudlí na porci, řádky jsou praktické domácí množství pro 4 porce. Ovoce je třeba několik hodin předem namočit. Bezmasá varianta podle poznámky ve zdroji: „Wird das Gericht ohne Fleisch gegessen, so sind 10 g Fett mitzukochen“ (35 g na 4 porce; zdroj tuk blíže neurčuje, vzali jsme máslo). Zdroj základně počítá s masem (vhodná je libová uzená slanina nebo trvanlivé maso), které se vaří asi 2 hodiny (vepřové jen 1 hodinu): do vroucí vody dej asi 400 g uzeného masa (odhad, ~100 g na porci, zdroj množství neuvádí), vař dvě hodiny, pak přidej ovoce a nudle jako ve receptu a tuk vynech. Sušené ovoce (Backobst) je směs jablek, hrušek a švestek; zdroj radí použít i vodu z namáčení, proto ovoce nech několik hodin předem namočené. Čas vaření ovoce je ve zdroji čtvrt hodiny (OCR čte půl hodiny, obrázek čtvrt). Cukr (20 g) a sůl (2 g) jsou odhad, proto verified: false.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 21,
+    "code": "4. (varianta, tišt. 37–38)",
+    "titleOriginal": "Nudeln mit Backobst"
+  },
+  "verified": false,
+  "quote": "Wird das Gericht ohne Fleisch gegessen, so sind 10 g Fett mitzukochen."
+}

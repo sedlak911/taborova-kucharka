@@ -1,0 +1,36 @@
+{
+  "id": "jablecny-crisp-z-cerstvych-jablek",
+  "title": "Jablečný crisp z čerstvých jablek",
+  "titleOriginal": "Apple Crisp",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "sladke", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "jablko", "amount": 360, "unit": "g", "note": "na plátky", "group": "Ovoce" },
+    { "ingredientId": "voda", "amount": 95, "unit": "ml", "note": "zalít jablka", "group": "Ovoce" },
+    { "ingredientId": "cukr-krystal", "amount": 145, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "hladka-mouka", "amount": 55, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "group": "Drobenka" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "studené, na kostky", "scaling": "linear", "group": "Drobenka" }
+  ],
+  "steps": [
+    { "text": "Smíchej cukr, mouku, skořici a máslo, dokud nevznikne drobenka.", "minutes": 3 },
+    { "text": "Pekáč vymaž tukem, rozlož do něj jablka a zalij je vodou.", "minutes": 3 },
+    { "text": "Drobenkou rovnoměrně posyp jablka.", "minutes": 2 },
+    { "text": "Peč v troubě na 190 °C, dokud jablka nezměknou, asi 20 minut.", "minutes": 20 },
+    { "text": "Podávej teplé." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí; přepočteno na 4 porce. Jablka jsou čerstvá, na plátky (Apples, sliced, 20 lb). Varianta se sušenými jablečnými nugety je na stejné stránce 45, ale jako samostatný recept se nezpracovává. Voda (2½ qt) zůstává v pekáči, proto třída linear. Máslo je máslo ze zdroje, nemodernizováno. Tuk na vymazání pekáče ve zdroji není vypsán, proto nezapočítán. Zdroj uvádí 15 minut pečení pro velkou dávku; pro malý pekáč dáváme 20 minut, kontroluj měkkost jablek. Zdroj uvádí porci 4 oz (½ šálku), ale výtěžek 38¼ lb na 100 porcí znamená zhruba 6 oz na porci, proto vychází hmotnost porce vyšší než porce zdroje. Podávej se šlehanou smetanou nebo vanilkovou omáčkou (doporučení zdroje).",
+  "source": {
+    "book": "navy-1944",
+    "page": 45,
+    "titleOriginal": "APPLE CRISP"
+  },
+  "verified": true,
+  "quote": "Mix together sugar, flour, cinnamon and butter until crumbly."
+}

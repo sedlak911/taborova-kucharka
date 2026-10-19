@@ -1,0 +1,39 @@
+{
+  "id": "salat-z-turinu-a-rerichy",
+  "title": "Salát z tuřínu a řeřichy",
+  "titleOriginal": "Yellow Turnip and Watercress Slaw",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 80,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "rychle"],
+  "equipment": [],
+  "allergens": ["horcice", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "bile-zeli", "amount": 270, "unit": "g", "note": "nakrájené na tenké proužky" },
+    { "ingredientId": "turin", "amount": 230, "unit": "g", "note": "žlutý tuřín, nakrájený na tenké proužky" },
+    { "ingredientId": "majoneza", "amount": 45, "unit": "g", "note": "kupovaná, do zálivky" },
+    { "ingredientId": "horcice-susena", "amount": 1, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do zálivky" },
+    { "ingredientId": "odparene-mleko", "amount": 12, "unit": "ml", "note": "do zálivky" },
+    { "ingredientId": "ocet", "amount": 12, "unit": "ml", "note": "do zálivky", "scaling": "linear" },
+    { "ingredientId": "rericha", "amount": 55, "unit": "g", "note": "nahrubo nasekaná" }
+  ],
+  "steps": [
+    { "text": "Zelí a tuřín nakrájej na tenké proužky.", "minutes": 8 },
+    { "text": "Zelí a tuřín smíchej.", "minutes": 2 },
+    { "text": "Do majonézy vmíchej hořčici, sůl, odpařené mléko a ocet a důkladně prošlehej.", "minutes": 3 },
+    { "text": "Řeřichu omyj, pečlivě vyber a nahrubo nasekej.", "minutes": 5 },
+    { "text": "Zelí s tuřínem smíchej se zálivkou.", "minutes": 2 },
+    { "text": "Přidej řeřichu, lehce promíchej a ihned podávej.", "minutes": 1 }
+  ],
+  "modernNote": "Zdroj: Yellow Turnip and Watercress Slaw (PDF 206, tištěná str. 198). Hlavička dává „100 PORTIONS“, ale yield approx. 5 gal a portion approx. 1 cup dávají 80 porcí (18,9 l / 237 ml = 80); odchylka 20 % přesahuje 10 %, proto je originalYield 80 a přepočet jde z 80 porcí. Tuřín je yellow turnip = `turin`; řeřicha = `rericha`. Majonéza: zdroj odkazuje na Mayonnaise (str. 204 = PDF 212), použita kupovaná majonéza v hmotnosti 2 lb ze zdroje, domácí recept se nerozepisuje. French dressing (PDF 211) se v tomto receptu nepoužívá. Hořčici (3 tbsp) přepočteno přes lžíci sušené hořčice (6,3 g), sůl 1 oz (= 2 tbsp v tabulce, shodné s ½ oz na lžíci). Odpařené mléko a ocet jsou z objemu 1 cup, bez hmotnosti ve zdroji. Ocet je linear, protože zálivka zůstává v salátu. Zdroj uvádí jako alternativu 10 lb mrkve a u ovocné varianty banány; neuplatněno. Odhad: hmotnost porce 157 g, bilance vůči zdrojové porci 1 cup v pořádku.",
+  "source": {
+    "book": "navy-1944",
+    "page": 206,
+    "titleOriginal": "YELLOW TURNIP AND WATERCRESS SLAW"
+  },
+  "verified": true,
+  "quote": "Stir mustard, salt, milk and vinegar into mayonnaise."
+}

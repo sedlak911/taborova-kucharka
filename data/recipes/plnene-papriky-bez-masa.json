@@ -1,0 +1,148 @@
+{
+  "id": "plnene-papriky-bez-masa",
+  "title": "Plněné papriky se zeleninou",
+  "titleOriginal": "Vegetable Stuffed Peppers",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 580,
+      "unit": "g",
+      "note": "podélně překrojená, zbavená jádřinců"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na blanšírování papriky (1 minutu), slije se; domácí odhad",
+      "group": "Papriky",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "ryze-bila",
+      "amount": 50,
+      "unit": "g",
+      "note": "uvař předem jako dušenou rýži (suchá hmotnost dopočtena z objemu uvařené rýže 1 gal 2 qts: 24 cups / 75 cups na 100 g × 8½ lb)"
+    },
+    {
+      "ingredientId": "rajcatove-pyre",
+      "amount": 530,
+      "unit": "ml",
+      "note": "hotová rajčatová omáčka (zdroj ji připravuje podle O 015 00)"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 35,
+      "unit": "g",
+      "note": "nakrájená na plátky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 50,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.61,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 8,
+      "unit": "g",
+      "note": "čerstvá, nasekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletá červená paprika (pálivá)"
+    },
+    {
+      "ingredientId": "kmin-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 6,
+      "unit": "g",
+      "note": "tmavý chilli prášek"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 80,
+      "unit": "g",
+      "note": "strouhaný"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 12,
+      "unit": "g",
+      "note": "rostlinný olej"
+    },
+    {
+      "ingredientId": "fazole-cervene-v-konzerve",
+      "amount": 150,
+      "unit": "g",
+      "note": "scezené"
+    },
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 160,
+      "unit": "g",
+      "note": "scezená"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 65,
+      "unit": "ml",
+      "note": "nalije se kolem papriky v pekáči",
+      "group": "Plnění"
+    }
+  ],
+  "steps": [
+    { "text": "Připrav rajčatovou omáčku, nebo použij hotovou." },
+    { "text": "Papriky podélně překroj a vyjmi jádřince.", "minutes": 5 },
+    { "text": "Papriky vhoď do vroucí vody, nech vřít 1 minutu a dobře je scedí.", "minutes": 4 },
+    { "text": "Kukuřici a fazole sceď.", "minutes": 2 },
+    { "text": "Smíchej kukuřici, fazole, uvařenou rýži, rajčata, cibuli, česnek, petrželku, sůl, pepř, kmín, chilli, olej a sýr. Lehce promíchej.", "minutes": 3 },
+    { "text": "Naplň každou půlku papriky 1/2 hrnku (cca 120 ml) zeleninovo-rýžové směsi a polož je do pekáčů.", "minutes": 4 },
+    { "text": "Do každého pekáče nalij kolem papriky 1/2 hrnku vody." },
+    { "text": "Papriky přelij rajčatovou omáčkou a přikryj." },
+    { "text": "Peč v troubě s horkým vzduchem na 165 °C 40 minut, nebo dokud se pokrm důkladně neohřeje.", "minutes": 40 }
+  ],
+  "modernNote": "Recept je pro 100 porcí z armádní kuchyně; porce ze zdroje jsou 2 půlky papriky (tj. 1 paprika). Horkovzdušná trouba 165 °C odpovídá konvekční troubě ze zdroje; v troubě bez horkého vzduchu peč při 180–190 °C. Alternativy ze zdroje: pinto nebo černé fazole v konzervě (12 lb na 100 porcí), mražená kukuřice (9⅛ lb), hnědá rýže (9 lb uvařené). Rýži uvař předem; zdroj odkazuje na recept E 005 05. Suchá hmotnost rýže je dopočtena z objemu uvařené rýže 1 gal 2 qts: 24 cups / 75 cups na 100 g × 8½ lb (3 856 g suché) × 0,04 ≈ 50 g. Voda na blanšírování je domácí odhad (zdroj 83⅝ lb vody na 100 porcí). Tag pripravit-predem nedostal, protože postup nevyžaduje namáčení ani chlazení přes 4 hodiny.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1029,
+    "code": "L 176 00",
+    "titleOriginal": "VEGETABLE STUFFED PEPPERS"
+  },
+  "verified": true
+}

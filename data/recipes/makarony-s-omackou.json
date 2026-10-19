@@ -1,0 +1,169 @@
+{
+  "id": "makarony-s-omackou",
+  "title": "Makarony s rajčatovou omáčkou",
+  "titleOriginal": "Macaroni with Sauce (Maccheroni al sugo)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "čtvrtina cibule",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 5,
+      "unit": "g",
+      "note": "1 stroužek",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 30,
+      "unit": "g",
+      "note": "kousek řapíku dlouhý jako prst",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks",
+      "note": "„a few bay leaves“, vyndat před podáním",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "„just enough parsley“",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 800,
+      "unit": "g",
+      "note": "7–8 rajčat, nakrájených",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 1,
+      "unit": "lzice",
+      "note": "„a little oil“",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 400,
+      "unit": "g",
+      "note": "makarony, suché (Mezzani)",
+      "group": "Makarony"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 4000,
+      "unit": "ml",
+      "note": "na vaření makaronů, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "group": "Makarony",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "group": "Makarony",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "parmezan",
+      "amount": 60,
+      "unit": "g",
+      "note": "strouhaný, navíc k podání",
+      "group": "Makarony"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "volitelně, zdroj: „some butter may be added“",
+      "group": "Makarony"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli, česnek, celer a petrželku nasekej nadrobno; bobkové listy přidej celé.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej olej, sůl, pepř a nakrájená rajčata a vše dej společně na oheň.",
+      "minutes": 3
+    },
+    {
+      "text": "Za občasného míchání vař, dokud šťáva nezhoustne na tenký krém, asi 30 minut.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím ve velkém hrnci přiveď k varu osolenou vodu.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Do vroucí vody vsyp makarony a vař 12 až 15 minut, dokud nejsou měkké; občas zamíchej, aby se nelepily ke dnu.",
+      "minutes": 14,
+      "parallel": true
+    },
+    {
+      "text": "Omáčku přetlač přes sítko a vyndej bobkové listy.",
+      "minutes": 3
+    },
+    {
+      "text": "Makarony dobře sceď.",
+      "minutes": 2
+    },
+    {
+      "text": "Vrať makarony do hrnce, přidej omáčku, nastrouhaný parmezán a podle chuti máslo a promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej horké; další sýr dej na stůl, ať si každý přidá sám."
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce. Recept je rozepsaný z odkazované omáčky č. 12 (Tomato Sauce, Salsa di Pomidoro), aby stál samostatně; zde jako skupina Omáčka. Masový vývar č. 13 zde nepoužit, recept je rajčatová varianta. Odhady pro 4 porce: makarony 400 g (100 g na porci), rajčata 800 g (7–8 středních kusů, stejně jako v samostatné rajčatové omáčce), čtvrt cibule ~40 g, stroužek česneku, kousek celeru ~30 g, petrželka 10 g, 1 lžíce oleje, sůl 4 g, pepř 0,5 g, parmezán 60 g (zdroj „grated cheese“). Máslo 20 g je volitelné (zdroj „some butter may be added“). Slévaná voda 1 l na 100 g a sůl do ní jsou domácí hodnoty. Zdroj nepíše dobu vaření omáčky; odhad 30 minut, dokud šťáva nezhoustne. Zdroj dovoluje konzervovaná rajčata se solí a bobkovým listem nebo koncentrovaný protlak zředěný vodou; recept počítá s čerstvými.",
+  "source": {
+    "book": "italian-1919",
+    "page": 22,
+    "titleOriginal": "MACARONI WITH SAUCE (Maccheroni al sugo)"
+  },
+  "verified": false,
+  "quote": "The most appreciated kind of macaroni are those seasoned with tomato sauce or with brown stock."
+}

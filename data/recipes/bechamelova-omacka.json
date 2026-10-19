@@ -1,0 +1,31 @@
+{
+  "id": "bechamelova-omacka",
+  "title": "Bešamelová omáčka",
+  "titleOriginal": "Balsamella Sauce (Salsa balsamella)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "1 polévková lžíce" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "kousek velikosti vejce; odhad" },
+    { "ingredientId": "mleko-plnotucne", "amount": 470, "unit": "ml", "note": "1 pinta (473 ml), zaokrouhleno" }
+  ],
+  "steps": [
+    { "text": "Do hrnce dej mouku a máslo a za stálého míchání zahřívej na mírném ohni, dokud mouka nezačne hnědnout.", "minutes": 5 },
+    { "text": "Za stálého míchání dřevěnou vařečkou pozvolna přilévej mléko a vař, dokud omáčka nezhoustne jako smetana.", "minutes": 10 },
+    { "text": "Je-li omáčka příliš hustá, přilej trochu mléka; je-li řídká, vrať ji na oheň s dalším kouskem másla obaleným v mouce." },
+    { "text": "Omáčku použij jako základ dalšího jídla." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 59) udává jen 1 polévkovou lžíci hladké mouky, kousek másla velikosti vejce a 1 pintu (473 ml) mléka; počet porcí neuvádí. Množství bereme jako 4 porce (asi 120 ml omáčky na porci) bez dalšího přepočtu. Mouka 8 g podle lžíce, máslo 40 g je odhad podle velikosti vejce (nejistota, proto verified false), mléko 473 ml zaokrouhleno na 470 ml. Zdroj nepřidává sůl ani koření; dochuť podle použití. Zdroj ji popisuje jako základ mnoha jídel (viz č. 12–14), samostatně se podává zřídka. Čas 15 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 50,
+    "titleOriginal": "BALSAMELLA SAUCE (Salsa balsamella)"
+  },
+  "verified": false,
+  "quote": "This sauce resembles the famous French Bechamel Sauce, but it is simpler in its composition."
+}

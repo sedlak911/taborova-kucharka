@@ -1,0 +1,81 @@
+{
+  "id": "dusene-veprove-kotlety",
+  "title": "Dušené vepřové kotlety",
+  "titleOriginal": "Braised Pork Chops or Steaks",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-krkovice",
+      "amount": 1090,
+      "unit": "g",
+      "note": "kotlety s kostí; zdroj 55–65 lb, počítáno 60 lb (střed)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 15,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 15,
+      "unit": "g",
+      "note": "na opečení kotlet; zdroj tuk nevypisuje (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 400,
+      "unit": "ml",
+      "note": "nebo voda; zdroj uvádí vývar (Meat Stock, tištěná str. 216) nebo vodu bez množství (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 160 °C."
+    },
+    {
+      "text": "Nakrájej maso na kotlety nebo steaky tlusté 2 cm.",
+      "minutes": 5
+    },
+    {
+      "text": "Posyp je solí a pepřem.",
+      "minutes": 2
+    },
+    {
+      "text": "Na rozpálené pánvi s tukem opékej kotlety z obou stran dozlatova, asi 10 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Kotlety postav kostí dolů do pekáče a zalij vývarem nebo vodou tak, aby zakryl dno.",
+      "minutes": 3
+    },
+    {
+      "text": "Pekáč pevně přikryj a peč v troubě 45 až 60 minut, dokud maso nezměkne.",
+      "minutes": 60
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 2 steaky (approx. 4 oz). Kotlety s kostí 55–65 lb, počítáno 60 lb (střed) = 1090 g na 4 porce (≈272 g s kostí na porci, ≈204 g masa bez kosti při ediblePortion 0,75). Varianta bez kosti (45 lb) dává asi 820 g. Zdroj tuk na opékání neuvádí, přidán řepkový olej 15 g jako odhad (pánev, třída fat). Tekutina: zdroj „Meat Stock (page 216) or water“ bez množství, použit vývar 400 ml pro 4 porce jako odhad (voda je alternativa; vývar ze zdroje nenahrazen). Sůl: 8 oz na 100 porcí = 15 g na 4 porce (3,7 g na porci), doporučuji ubrat na polovinu podle chuti. Pepř ¼ oz na 100 porcí = 0,46 g. Čas: pečení 45–60 min, použit horní konec (60); Hotovo 80 z timeMinutes 85. Zdroj: 325 °F = 160 °C. Podávání s hnědou omáčkou (page 177) není v receptu. Recept je verified: false kvůli odhadům tuku a tekutiny a rozsahu hmotnosti masa.",
+  "source": {
+    "book": "navy-1944",
+    "page": 140,
+    "titleOriginal": "BRAISED PORK CHOPS OR STEAKS"
+  },
+  "verified": false,
+  "quote": "Cover with stock or water. Cover pan tightly."
+}

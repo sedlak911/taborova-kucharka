@@ -1,0 +1,76 @@
+{
+  "id": "bananovy-zelatinovy-dezert",
+  "title": "Banánový želatinový dezert",
+  "titleOriginal": "Gelatin Banana Dessert",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 150,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vroucí",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "zelatina",
+      "amount": 6,
+      "unit": "g",
+      "note": "odhad; nahrazuje ovocný prášek",
+      "original": {
+        "ingredientId": "zelatinovy-dezert-prasek",
+        "amount": 85,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 75,
+      "unit": "g",
+      "note": "odhad; sladidlo, které v prášku bylo",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "pomerancova-stava",
+      "amount": 230,
+      "unit": "ml",
+      "note": "studená; místo studené vody (zdroj dovoluje šťávu z konzervovaného ovoce)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "banan",
+      "amount": 290,
+      "unit": "g",
+      "note": "zhruba 3 banány (zdroj 60 až 75 ks na 100 porcí)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Želatinu smíchej s cukrem v míse.", "minutes": 2 },
+    { "text": "Zalij vroucí vodou a míchej, dokud se želatina s cukrem úplně nerozpustí.", "minutes": 3 },
+    { "text": "Přilij studenou pomerančovou šťávu.", "minutes": 1 },
+    { "text": "Nalij směs do mělké vymazané misky a nech při pokojové teplotě mírně houstnout.", "minutes": 15 },
+    { "text": "Banány oloupej a ulož je celé do řad do mírně zhoustlé směsi.", "minutes": 5 },
+    { "text": "Chlaď do úplného ztuhnutí.", "minutes": 120 },
+    { "text": "Nakrájej na čtverce nebo plátky.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj používá hotový ovocný želatinový prášek (4 lb 11 oz na 100 porcí; na 4 porce 85 g). Tento prášek je hlavně cukr (USDA: sacharidy 90,5 %), proto je nahrazen zelatinou, cukrem a pomerančovou šťávou. Zelatina 6 g je odhad (zhruba 1 sáček 7 g na 0,5 l tekutiny, banány tuhnutí zpomalují); cukr 75 g je odhad podle obsahu sacharidů prášku. Studenou vodu zdroj dovoluje nahradit šťávou z konzervovaného ovoce. Banány: zdroj 16 lb na 100 porcí, na 4 porce ~290 g (zhruba 3 banány). Zdroj uvádí 16 lb na 60 až 75 kusů, tj. ≈ 100 až 120 g na kus, což odpovídá spíš hmotnosti očištěného banánu; ediblePortion banánu (0,64) se v aplikaci na ovoce neuplatňuje, proto je 290 g bráno jako jedlá část. Pokud by tabulka mířila na hmotnost se slupkou, jedlé by bylo jen ≈ 185 g (nejisté, verified zůstává false). Chlazení 2 hodiny je odhad pro mělkou vrstvu asi 2 cm; pokud ztuhne až za 4 hodiny, přidej tag pripravit-predem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 51,
+    "titleOriginal": "GELATIN BANANA DESSERT"
+  },
+  "verified": false,
+  "quote": "Stir boiling water into gelatin until gelatin is dissolved."
+}

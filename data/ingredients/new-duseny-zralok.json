@@ -1,0 +1,29 @@
+[
+  {
+    "id": "zralok",
+    "name": "Žralok",
+    "aliases": [
+      "máčka",
+      "palombo",
+      "dogfish"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 130,
+      "protein": 20.98,
+      "carbs": 0,
+      "fat": 4.51,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173697 (Fish, shark, mixed species, raw); náhrada za máčku (palombo)",
+      "refuse": "USDA fdc:173697 odpad 0 %"
+    }
+  }
+]

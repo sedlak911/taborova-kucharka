@@ -1,0 +1,30 @@
+[
+  {
+    "id": "platys",
+    "name": "Platýs velkoústý",
+    "aliases": [
+      "halibut",
+      "halibut steaks",
+      "platýs syrový",
+      "platýs velkoústý"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 91,
+      "protein": 18.56,
+      "carbs": 0,
+      "fat": 1.33,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174200 (Fish, halibut, Atlantic and Pacific, raw)",
+      "refuse": "USDA fdc:174200 odpad 0 %"
+    }
+  }
+]

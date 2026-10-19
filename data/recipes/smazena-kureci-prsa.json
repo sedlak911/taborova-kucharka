@@ -1,0 +1,94 @@
+{
+  "id": "smazena-kureci-prsa",
+  "title": "Smažená kuřecí prsa",
+  "titleOriginal": "Chicken Breasts Sautés (Petti di pollo alla sauté)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-prsa",
+      "amount": 600,
+      "unit": "g",
+      "note": "prsa mladého kuřete nebo slepice, bez kosti (z prsou s kostí je to asi 800 g); rozkrájet na tenké plátky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "rozšlehaná; zdroj počet nezmiňuje, odhad"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 80,
+      "unit": "g",
+      "note": "jemně umletá"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na opékání"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prsa případně vykosti, rozkrájej na velmi tenké plátky a z drobných zbytků slep jeden kus.",
+      "minutes": 10
+    },
+    {
+      "text": "Plátky osol, opepři a vlož do rozšlehaných vajec.",
+      "minutes": 3
+    },
+    {
+      "text": "Nech je několik hodin odpočinout ve vejcích v lednici."
+    },
+    {
+      "text": "Obal je v jemně umleté strouhance.",
+      "minutes": 3
+    },
+    {
+      "text": "Na rozpuštěném másle je opékej z obou stran dozlatova, po dávkách.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej horké s citronem."
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 45) uvádí jen postup, žádné množství ani počet porcí. Odhad pro 4 porce z běžné praxe: 600 g prsou bez kosti (asi 150 g na porci; z prsou s kostí je to asi 800 g), 2 vejce do rozšlehání, 80 g jemné strouhanky, 40 g másla na opékání, sůl 3 g, pepř 0,5 g a 1 citron na podávání. Zdroj nechává plátky ve vejcích „několik hodin“; v receptu je to krátký odpočinek bez započítaného času (proto není v timeMinutes). Druhý odstavec knihy popisuje elaborovanější omáčku z olivového oleje, hub, sýra a strouhanky; zde vynechán, aby recept zůstal u základního postupu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 41,
+    "titleOriginal": "CHICKEN BREASTS SAUTÉS (Petti di pollo alla sauté)"
+  },
+  "verified": false,
+  "quote": "Sprinkle with bread crumbs ground fine and saute in butter. Serve with lemon."
+}

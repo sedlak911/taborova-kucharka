@@ -1,0 +1,39 @@
+{
+  "id": "rajcatova-kremova-polevka",
+  "title": "Rajčatová krémová polévka",
+  "titleOriginal": "Cream of Tomato Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "rajcata-konzervovana", "amount": 460, "unit": "g", "note": "konzervovaná rajčata včetně nálevu (zdroj: 25 lb 8 oz, 4 No. 10 cans)" },
+    { "ingredientId": "celerova-nat", "amount": 9, "unit": "g", "note": "listy celeru (zdroj: celery tops)" },
+    { "ingredientId": "cibule", "amount": 9, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "novy-koreni", "amount": 0.25, "unit": "g", "note": "mixed spices, 2 tsp; katalog nemá směs, použito mleté nové koření" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cukr-krystal", "amount": 9, "unit": "g" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g", "note": "rozmíchat s vodou" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "studená, na rozmíchání mouky; zůstává v polévce" },
+    { "ingredientId": "maslo", "amount": 9, "unit": "g", "scaling": "linear", "note": "přidává se do hotové polévky; zdroj: Butter or other fat" },
+    { "ingredientId": "jedla-soda", "amount": 1, "unit": "g", "scaling": "linear", "note": "proti sražení mléka v kyselé rajčatové směsi" },
+    { "ingredientId": "mleko-polotucne", "amount": 450, "unit": "ml", "note": "horké, zdroj: Milk, liquid, hot (3 gal)" }
+  ],
+  "steps": [
+    { "text": "Smíchej rajčata, celerovou nať, cibuli, koření, sůl a cukr.", "minutes": 3 },
+    { "text": "Přiveď k varu a nech 10 minut probublávat.", "minutes": 15 },
+    { "text": "Přeceď přes sítko.", "minutes": 2 },
+    { "text": "Mouku rozmíchej s vodou dohladka.", "minutes": 3 },
+    { "text": "Rozmíchanou mouku vmíchej do přecezené směsi a nech ji mírně houstnout.", "minutes": 8 },
+    { "text": "Vmíchej máslo a jedlou sodu a dobře promíchej.", "minutes": 2 },
+    { "text": "Za stálého míchání přilij horké mléko a zahřej téměř do varu, nevař.", "minutes": 5 },
+    { "text": "Podávej ihned." }
+  ],
+  "modernNote": "Zdroj: Cream of Tomato Soup, PDF 244 (tištěná 236), 100 porcí, výtěžek ~6 gal, porce 1 cup (8 oz). 6 gal / 1 cup ≈ 96 porcí, v toleranci 10 %, proto originalYield 100. Rajčata: konzerva včetně nálevu (25 lb 8 oz). Směs koření (mixed spices, 2 tsp) katalog nemá; použito mleté nové koření (hlavní složka běžných směsí), zanedbatelné množství (0,25 g). Sůl: třída seasoning dává 7 g na 4 porce (~1,75 g na porci polévky), doporučení ubrat na 4–5 g podle chuti. Cukr a mouka linear (katalog). Máslo z „Butter or other fat“ je přidáváno do hotové polévky, proto linear místo fat, bez original. Jedlá soda (1 oz, 2 tbsp) proti sražení mléka v kyselé směsi, linear na řádku (katalog leavening), pění s kyselinou, přidává se až do zahuštěné směsi. Mléko je čerstvé (liquid), ne sušené. Voda 1 qt = 946 ml je pouze na rozmíchání mouky, zůstává v polévce, proto linear. Krok 4 je zdrojový postup, nová souběžnost není.",
+  "source": { "book": "navy-1944", "page": 244, "titleOriginal": "Cream of Tomato Soup" },
+  "verified": true
+}

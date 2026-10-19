@@ -1,0 +1,89 @@
+{
+  "id": "zelny-salat-s-pomeranci",
+  "title": "Zelný salát s pomeranči a řeřichou",
+  "titleOriginal": "Orange and Watercress Slaw",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 64,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "horcice",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 430,
+      "unit": "g",
+      "note": "nastrouhané (nakrájené)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "pomeranc",
+      "amount": 70,
+      "unit": "g",
+      "note": "jedlá dužina (sekce pomeranče, bez slupky a blan)"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 15,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "zůstává v salátu"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 55,
+      "unit": "g",
+      "note": "kupovaná"
+    },
+    {
+      "ingredientId": "rericha",
+      "amount": 65,
+      "unit": "g",
+      "note": "vybraná, nahrubo nasekaná"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej nakrájené zelí, cibuli a pomeranče.", "minutes": 3 },
+    { "text": "Do majonézy vmíchej hořčici, sůl, odpařené mléko a ocet.", "minutes": 3 },
+    { "text": "Řeřichu pečlivě omyj, vyber nejlepší lístky a nahrubo ji nasekej.", "minutes": 8 },
+    { "text": "Směs ze zelí, cibule a pomeranče smíchej se zálivkou a řeřichou.", "minutes": 3 },
+    { "text": "Lehce promíchej a ihned podávej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj uvádí výtěžek 4 galony a porci „approx. 1 cup“ (4 gal / 237 ml ≈ 64 porcí), v hlavičce je ale také „100 PORTIONS“. Přepočet je proto z 64 porcí: součet hmotností vychází na porci zhruba 175 g, což odpovídá 1 cupu; při 100 porcích by to bylo jen 107 g. Rozpor je v samotném zdroji, ověř. Pomeranče jsou uvedeny jako dužina (sekce), proto bez slupky a blan. Majonéza je kupovaná v množství ze zdroje (domácí recept na p. 204 nerozepisován). Zdroj nabízí přidání 25 zralých banánů; vynecháno, jde o volitelnou variantu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 206,
+    "titleOriginal": "ORANGE AND WATERCRESS SLAW"
+  },
+  "verified": false,
+  "quote": "Mix together cabbage, onion and oranges."
+}

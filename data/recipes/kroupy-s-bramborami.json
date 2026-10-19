@@ -1,0 +1,86 @@
+{
+  "id": "kroupy-s-bramborami",
+  "title": "Kroupy s bramborami",
+  "titleOriginal": "Graupen mit Kartoffeln",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kroupy",
+      "amount": 260,
+      "unit": "g",
+      "note": "ve zdroji 65 g na hlavu; namočené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1300,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (odhad)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (odhad, 100 g na porci)"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 800,
+      "unit": "g",
+      "note": "čerstvé, oloupané a nakrájené (zdroj: 750 g čerstvých nebo 75 g sušených na hlavu)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „Salz nach Geschmack“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Namočené kroupy, polévkovou zeleninu a sůl zalij studenou vodou (vodou z namáčení) a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso a vař asi 2,5 hodiny (vepřové jen asi 1 hodinu 15 minut).",
+      "minutes": 150
+    },
+    {
+      "text": "Přidej oloupané nakrájené brambory a vař dohotova, asi dalších 45 minut.",
+      "minutes": 45
+    },
+    {
+      "text": "Dochuť solí, petrželí a cibulí."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 65 g krup, 750 g brambor na muže; zde 65 g krup a 200 g brambor na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj neuvádí množství masa ani vody ani soli: 400 g hovězího (100 g na porci), vodu a sůl jsme odhadli, proto verified: false. Kroupy je dobré namočit několik hodin předem (zdroj: Einweichwasser, doba neuvedena). Sušenou zeleninu, trvanlivou vařenou klobásu (do hotového jídla, krátce svařit) a konzervované maso (až těsně před podáváním) zdroj také připouští, zde jsou vynechány; vepřové maso se vaří jen asi 1¼ hodiny. Dochucení petrželí a cibulí je bez množství, dávkuj po špetkách. Sušené brambory zdroj počítá 75 g na hlavu.",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 19,
+    "code": "6. (varianta, tišt. 35)",
+    "titleOriginal": "Graupen mit Kartoffeln"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz, Petersilie und Zwiebeln."
+}

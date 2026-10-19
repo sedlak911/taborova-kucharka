@@ -1,0 +1,66 @@
+{
+  "id": "listova-zelenina-na-masle",
+  "title": "Listová zelenina na másle",
+  "titleOriginal": "Buttered Greens",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "spenat",
+      "amount": 420,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "listová zelenina, hlavní varianta špenát; zdroj 32 lb A.P. na 100 porcí = 580 g A.P. × jedlá část 0,72 (katalog)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "posypat na listy, ne do vody"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "zdroj 1 tsp (≈ 2,3 g) na 100 porcí"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "rozpuštěné; zdroj „bacon fat or butter“ 1 lb 8 oz, použito máslo; přidá se těsně před podáváním"
+    }
+  ],
+  "steps": [
+    { "text": "Odstraň kořeny a tvrdší části stonků, listy nech vcelku nebo nahrubo nakrájej.", "minutes": 5 },
+    { "text": "Několikrát důkladně omyj ve studené vodě, vodu na listech nech ulpět.", "minutes": 5 },
+    { "text": "Vlož do hrnce, posyp solí a přikryj pokličkou.", "minutes": 2 },
+    { "text": "Vař 6 až 12 minut podle druhu zeleniny, dokud nezměkne.", "minutes": 12 },
+    { "text": "Sceď a vmíchej rozpuštěné máslo s pepřem.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: 32 lb listové zeleniny A.P. (as purchased) na 100 porcí, porce 4 až 5 oz (approx. ⅔ hrnku). Na 4 porce 580 g A.P. × jedlá část špenátu 0,72 = 418 g, v receptu 420 g (zaokrouhleno DO JSON). Zdroj uvádí „Greens“ obecně; hlavní varianta je špenát (doba vaření 6–12 minut z tabulky Cooking Time for Greens). Mangold (jedlá část 0,92) nebo kadeřávek (0,72) lze použít podle sezóny; kadeřávek potřebuje 20–30 minut a mangold/Swiss chard 15–25 minut, pak se zvedne timeMinutes. Zelenina se vaří jen ve vodě ulpělé na listech po oplachu (zdroj), proto v receptu není přidaná voda a není řádek vody ani vessel. Sůl (2 oz na 100 porcí) se posype na listy, nelije do vody, proto je třída seasoning, ne vessel: 4 g na 4 porce. Máslo: zdroj uvádí „bacon fat or butter“ (1 lb 8 oz, 680 g na 100 porcí), zvoleno máslo linear 25 g; sádlo by bylo věrnější (27 g do original), nepoužito. Odlitou tekutinu zdroj doporučuje ponechat (vitaminy, do polévek); v receptu se nepoužívá. Porce 4 až 5 oz: pro 4 porce počítám se 4½ oz (střed rozmezí), check:recipe přijímá jen jednoduchý formát.",
+  "source": {
+    "book": "navy-1944",
+    "page": 277,
+    "titleOriginal": "BUTTERED GREENS"
+  },
+  "verified": true,
+  "quote": "Drain. Add bacon fat or butter."
+}

@@ -1,0 +1,92 @@
+{
+  "id": "sultanske-susenky",
+  "title": "Sultánské sušenky s rozinkami",
+  "titleOriginal": "Biscuits Sultan (Biscotto alla sultana)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 170,
+      "unit": "g",
+      "note": "6 oz"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 115,
+      "unit": "g",
+      "note": "4 oz"
+    },
+    {
+      "ingredientId": "bramborova-mouka",
+      "amount": 55,
+      "unit": "g",
+      "note": "2 oz; sušená bramborová mouka (potato meal), ne škrob"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 85,
+      "unit": "g",
+      "note": "3 oz; zdroj 'currants' (korintky), moderně rozinky"
+    },
+    {
+      "ingredientId": "kandovane-ovoce",
+      "amount": 30,
+      "unit": "g",
+      "note": "1 oz, směs kandovaného ovoce"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 5,
+      "unit": "ks",
+      "note": "rozdělit na žloutky a bílky"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 3,
+      "unit": "g",
+      "note": "jen strouhaná žlutá kůra (odhad)"
+    },
+    {
+      "ingredientId": "konak",
+      "amount": 30,
+      "unit": "ml",
+      "note": "2 lžíce brandy, na zalití rozinek a ovoce"
+    }
+  ],
+  "steps": [
+    { "text": "Kandované ovoce nakrájej na malé kostičky.", "minutes": 5 },
+    { "text": "Rozinky a kandované ovoce zalij koňakem tak, aby byly zakryté, přiveď k varu, zapal koňak a nech ho vyhořet.", "minutes": 5 },
+    { "text": "Vyjmi rozinky a ovoce a nech je oschnout na složené utěrce.", "minutes": 10 },
+    { "text": "Mezitím vejce rozděl na žloutky a bílky.", "minutes": 2, "parallel": true },
+    { "text": "Žloutky vyšlehej s cukrem a citronovou kůrou asi 30 minut, dokud je směs hustá a světlá.", "minutes": 30 },
+    { "text": "Bílky ušlehej na tuhý sníh a jemně je vmíchej do žloutkové směsi.", "minutes": 5 },
+    { "text": "Prosej do těsta hladkou a bramborovou mouku a jemně zamíchej, dokud se vše spojí.", "minutes": 5 },
+    { "text": "Vmíchej rozinky a kandované ovoce.", "minutes": 2 },
+    { "text": "Formu vymaž máslem, vysyp moukou a nalij do ní těsto; hned ho dej do trouby, aby rozinky a ovoce neklesly ke dnu.", "minutes": 2 },
+    { "text": "Peč v předehřáté troubě na 180 °C asi 40 minut, dokud je povrch zlatavý a špejle čistá.", "minutes": 40 },
+    { "text": "Nech vychladnout a nakrájej na tenké plátky." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 185) neuvádí počet porcí ani teplotu pečení. Množství z receptu (6 oz cukru, 4 oz hladké mouky, 2 oz bramborové mouky, 3 oz rozinek, 1 oz kandovaného ovoce, 5 vajec, 2 lžíce koňaku) jsou ponechána 1:1 pro 4 porce, tedy zhruba 180 g hotového těsta na porci; pro menší dávku použij 3 vejce a asi 60 % ostatních surovin. Bramborová mouka (potato meal) je sušená mouka z brambor, ne škrob. Citronová kůra 3 g je odhad (asi polovina citronu, jen žlutá slupka). Koňak 2 lžíce jsou ze zdroje; na zalití rozinek a ovoce jde spotřebovat víc, většina alkoholu se při zapálení odpaří. Zdroj říká „tolik, aby byly zakryté“. Teplota 180 °C a 40 minut pečení jsou odhad z běžné praxe pro podobné piškotové těsto. Zdroj (č. 185) říká jen, že se těsto nalije do formy a hned se dá do trouby; krájení druhý den je z receptu č. 184 a zde se nepoužívá. Pečený výsledek je spíš dort ve formě (zdroj „mold or high round cake-dish“) než sušenky; název je z knihy (Biscotto). Čas nepočítá vychladnutí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 130,
+    "titleOriginal": "BISCUITS SULTAN (BISCOTTO ALLA SULTANA)"
+  },
+  "verified": false,
+  "quote": "Put first on the fire the currants and the candied fruits cut in very little cubes with as much brandy or cognac as is necessary to cover them."
+}

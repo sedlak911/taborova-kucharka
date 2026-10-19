@@ -1,0 +1,64 @@
+{
+  "id": "restovane-hominy",
+  "title": "Restované hominy",
+  "titleOriginal": "Fried (Sauteed) Hominy",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hominy",
+      "amount": 480,
+      "unit": "g",
+      "note": "sceděné"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájená nadrobno"
+    },
+    {
+      "ingredientId": "pimentka-konzervovana",
+      "amount": 17,
+      "unit": "g",
+      "note": "nakrájené, volitelné"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "na restování; zdroj „butter or bacon fat“, slaninový tuk (sádlo) je rovnocenná alternativa"
+    }
+  ],
+  "steps": [
+    { "text": "Hominy sceď a smíchej ho s nadrobno nakrájenou zelenou paprikou, pimentem a solí.", "minutes": 5 },
+    { "text": "Na pánvi rozpusť máslo a zahřej ho.", "minutes": 3 },
+    { "text": "Směs přidej na pánev a smaž do lehce zlatavé barvy, občas promíchej.", "minutes": 10 },
+    { "text": "Podávej ozdobené křupavými snítkami petrželky." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 oz (zhruba 2/3 hrnku); 4 No. 10 konzervy hominy jsou sceděné, do receptu jde sceděná hmotnost 26 lb 4 oz. Pimientos (sceděná konzervovaná červená paprika) = katalogová pimentka-konzervovana; zdroj je v poznámce 1 uvádí jako volitelné. Tuk „butter or bacon fat“ je v receptu jako máslo; slaninový tuk (sádlo) je rovnocenná alternativa stejné hmotnosti. Množství tuku je 1 lb 8 oz ze zdroje (poznámka 2 uvádí, že jde o minimální množství másla); 40 g je výsledek přes třídu fat (smažení, část tuku zůstane na pánvi). Sůl (9 g na 4 porce, přes třídu seasoning ~2,3 g na porci) je vyšší, dle chuti uber. Zdroj zmiňuje petrželku jako ozdobu bez množství, proto bez řádku suroviny. Hmotnost zelené papriky a pimenta je uvedena jako nakrájená, bez odečtu odpadu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 278,
+    "titleOriginal": "FRIED (SAUTEED) HOMINY"
+  },
+  "verified": true
+}

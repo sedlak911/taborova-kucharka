@@ -1,0 +1,137 @@
+{
+  "id": "kukuricny-relish",
+  "title": "Kukuřičný relish",
+  "titleOriginal": "Corn Relish",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [],
+  "allergens": [
+    "celer",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kukurice-konzervovana",
+      "amount": 240,
+      "unit": "g",
+      "note": "odkapaná (whole kernel, drained)"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená na kostičky"
+    },
+    {
+      "ingredientId": "pimentka-konzervovana",
+      "amount": 14,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 25,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 0.9,
+      "unit": "g",
+      "note": "šťáva z cibule (2 polévkové lžíce) do zálivky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 1,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.48,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.52,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 16,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "do zálivky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Připrav zálivku: smíchej sůl, cukr, sušenou hořčici a sladkou papriku.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej řepkový olej, ocet a cibulovou šťávu.",
+      "minutes": 2
+    },
+    {
+      "text": "Zálivku přelij do uzavíratelné nádoby, zavři ji a silně protřepej.",
+      "minutes": 2
+    },
+    {
+      "text": "Zelenou papriku, pimentku a celer nakrájej na kostičky, cibuli nasekej nadrobno.",
+      "minutes": 10
+    },
+    {
+      "text": "Kukuřici scedi.",
+      "minutes": 2
+    },
+    {
+      "text": "Ve větší míse smíchej kukuřici, papriku, pimentku, celer a cibuli.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej zálivku a důkladně promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Dej do lednice na 6 hodin, aby chutě splynuly."
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (výtěžek 4 gal, porce 2/3 cup = 96 porcí, odchylka do 10 % ignorována). French Dressing (strana 203, PDF 211) je sub-recept s výtěžkem 1/2 gal; relish použije 1 1/2 qt, tedy 0,75 dávky zálivky – zahrnuto v přepočtu. Pimiento je v katalogu jako pimentka-konzervovana (USDA fdc:168559, odkapaná hmotnost). Volitelné položky zdroje (potočnice, 4 lb = 24 svazečků; čerstvá kukuřice z klasu) v receptu nejsou, lze je přidat. Šťáva z cibule (2 polévkové lžíce pro 100 porcí) vychází na 0,9 g na 4 porce – správný přepočet, jen velmi malé množství. Sůl v zálivce vychází 0,25 g na porci, dochuť podle chuti. Bilance 92 g na porci vs. 2/3 cup (157 ml) je dána objemovou mírou zdroje u nakrájené zeleniny a odkapané kukuřice (zdroj sám má hustotu ~0,6 g/ml), ne chybou přepočtu. Podává se k pečenému masu nebo smažené rybě, nebo jako salát. Šťáva z cibule je nahrazena nasekanou cibulí a hustota sušené hořčice a papriky je odhad (proto verified false). Relish se nechá v lednici 6 hodin, proto tag pripravit-predem.",
+  "source": {
+    "book": "navy-1944",
+    "page": 209,
+    "titleOriginal": "CORN RELISH"
+  },
+  "verified": false,
+  "quote": "Let stand in refrigerator for 6 hours until flavor is blended."
+}

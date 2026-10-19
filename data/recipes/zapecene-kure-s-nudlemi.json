@@ -1,0 +1,180 @@
+{
+  "id": "zapecene-kure-s-nudlemi",
+  "title": "Zapečené kuře s nudlemi",
+  "titleOriginal": "Baked Chicken and Noodles",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 125,
+      "unit": "g",
+      "note": "suché; zdroj Noodles 7 lb",
+      "group": "Nudle"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření nudlí, slije se; domácí hodnota 1 l na 100 g nudlí (zdroj 5 gal)",
+      "group": "Nudle",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vody na vaření, slije se; 2 g na 1 l",
+      "group": "Nudle",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 180,
+      "unit": "g",
+      "note": "vařené, nakrájené na kostky (zdroj 10 lb)",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 35,
+      "unit": "g",
+      "note": "v jíšce (zdroj „Chicken or other fat“ 2 lb)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 35,
+        "unit": "g"
+      },
+      "group": "Bílá omáčka",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 35,
+      "unit": "g",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 380,
+      "unit": "ml",
+      "note": "kupovaný; zdroj Chicken Stock (page 216) 2½ gal, vařený",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "v omáčce (zdroj 4 oz)",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 0.4,
+      "unit": "ks",
+      "note": "zdroj 6 oz (asi 10 žloutků); lze vynechat (zdroj)",
+      "group": "Bílá omáčka"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání pekáče (zdroj bez množství)",
+      "group": "Pekáč",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 14,
+      "unit": "g",
+      "note": "suchá jemná (zdroj 12 oz)",
+      "group": "Posyp"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "note": "rozpuštěné, na posyp (zdroj 8 oz)",
+      "group": "Posyp"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 200 °C a vymaž zapékací pekáč olejem."
+    },
+    {
+      "text": "V hrnci přiveď osolenou vodu k varu.",
+      "minutes": 9
+    },
+    {
+      "text": "Vmíchej nudle a vař je asi 20 minut do měkka.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím ve větším hrnci rozpusť máslo, vmíchej mouku, sůl a pepř a utři na hladkou pastu.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím vývar ohřej k varu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Nudle slij.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej pastu do horkého vývaru a za stálého míchání vař do zhoustnutí.",
+      "minutes": 8
+    },
+    {
+      "text": "Do omáčky za stálého míchání vmíchej žloutky.",
+      "minutes": 2
+    },
+    {
+      "text": "Nudle přelij omáčkou a vmíchej nakrájené kuře.",
+      "minutes": 3
+    },
+    {
+      "text": "Směs rozlož do vymazaného zapékacího pekáče.",
+      "minutes": 2
+    },
+    {
+      "text": "Smíchej rozpuštěné máslo se strouhankou a posyp jím směs.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč v troubě 30 minut, dokud nezhnědne.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Přepočteno ze 100 porcí (zdroj Portion asi 6 oz, tj. cca 170 g) na 4 porce. Slévaná voda na nudle je domácí hodnota 1,5 l místo 5 gal; sůl do ní 2 g/l, slije se. Vývar je kupovaný kuřecí (zdroj Chicken Stock, page 216, 2½ gal; odkazovaný recept nebyl rozepisován, použit katalogový vývar). Zdrojový tuk „Chicken or other fat“ je v jíšce moderně máslo, původní sádlo v original. Mléko ve zdroji není, omáčka je z vývaru. Žloutky 6 oz (asi 10 ks) jsou 0,4 ks a lze je vynechat. Sůl 4 oz (7 g na porci) je vysoká; doporučení ubrat na asi 5 g. Pekáč vymaž olejem (zdroj bez množství). Zdroj podává s vařenou rýží, pokud chceš. Teplota 400 °F = 200 °C, 30 minut.",
+  "source": {
+    "book": "navy-1944",
+    "page": 177,
+    "titleOriginal": "BAKED CHICKEN AND NOODLES"
+  },
+  "verified": true
+}

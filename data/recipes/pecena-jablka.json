@@ -1,0 +1,32 @@
+{
+  "id": "pecena-jablka",
+  "title": "Pečená jablka",
+  "titleOriginal": "Baked Apples",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "sladke"],
+  "equipment": ["trouba"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "jablko", "amount": 510, "unit": "g", "note": "kuchyňská jablka, neloupat; asi 3–4 střední kusy" },
+    { "ingredientId": "cukr-krystal", "amount": 125, "unit": "g", "note": "do sirupu" },
+    { "ingredientId": "skorice-mleta", "amount": 0.23, "unit": "g", "note": "do sirupu" },
+    { "ingredientId": "sul", "amount": 0.46, "unit": "g", "note": "do sirupu" },
+    { "ingredientId": "voda", "amount": 95, "unit": "ml", "note": "ledová; do sirupu" },
+    { "ingredientId": "maslo", "amount": 6, "unit": "g", "note": "do sirupu; nebo margarín" }
+  ],
+  "steps": [
+    { "text": "Jablka jednou dokola zařízni kolem středu, aby při pečení nepraskla. Polož je na plech.", "minutes": 4 },
+    { "text": "V míse smíchej cukr, skořici a sůl.", "minutes": 2 },
+    { "text": "Přidej vodu a máslo, dobře promíchej a sirupem přelévej jablka.", "minutes": 3 },
+    { "text": "Peč v horkovzdušné troubě na 165 °C asi 30 minut, dokud jablka nezměknou. Několikrát je přelij sirupem.", "minutes": 30 },
+    { "text": "Každé jablko podávej se 2 lžícemi sirupu." }
+  ],
+  "modernNote": "Zdroj uvádí porci 1 jablko (AFRS Portion 1 Serving) a pečení v horkovzdušné troubě na 325 °F; recept je přepočten na 4 porce, tj. 4 jablka. Tuk je máslo, jak zdroj uvádí jako první volbu (alternativa margarín). Doporučení: na táboře lze péct zabalená v alobalu v žhavém popelu asi 30 minut. Doba 45 minut je součet přípravy a pečení.",
+  "source": { "book": "afrs-2003", "page": 594, "code": "J 003 00", "titleOriginal": "BAKED APPLES" },
+  "verified": true,
+  "quote": "Score apples once around middle to prevent bursting."
+}

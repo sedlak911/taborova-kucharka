@@ -1,0 +1,51 @@
+{
+  "id": "peceny-hash-ze-soleneho-hoveziho",
+  "title": "Pečený hash z corned beefu",
+  "titleOriginal": "Corned Beef Hash, Baked",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 455,
+      "unit": "g",
+      "note": "solené hovězí z konzervy, nadrobno nasekané; odhad poloviny hmotnosti hashe"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 455,
+      "unit": "g",
+      "note": "uvařené, nakrájené na kostičky (oloupané; odhad druhé poloviny hashe)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "note": "zdroj neuvádí množství, jen „tolik, aby zakryl dno pekáče“ – odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Smíchej nadrobno nasekané solené hovězí s uvařenými bramborami (nebo použij hotový hash z konzervy) a vlož do pekáčů." },
+    { "text": "Přilij vývar, aby zakryl dno pekáče, a přikryj.", "minutes": 2 },
+    { "text": "Zahřívej v troubě na 160 °C asi 30 minut.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj: konzerva corned beef hash, 50 lb na 100 porcí (227 g na porci, shodné s „portion 6 to 8 ounces“). Konzervovaný hash obsahuje kromě masa i brambory (a cibuli), proto je 50 lb rozdělena na hovezi-solene a brambory v poměru 1:1 (odhad, zdroj poměr neuvádí; ve skutečnosti bývá masa v konzervě méně, takže makra jsou spíš horní odhad); cibule je zanedbána. Původně byla celá hmotnost jen jako hovezi-solene (574 kcal na porci), což podíl masa výrazně přeceňovalo. Čas 35 minut počítá s hotovým hashem z konzervy nebo s již uvařenými bramborami; vaření brambor od nuly čas prodlouží. Vývar je odhad (zdroj uvádí jen „enough to cover bottom of pan“), na porci přidává asi 37 g, celkem asi 265 g na porci, tedy nad 6–8 oz; při podávání jako hlavního jídla počítej s menší porcí. Vejce (Corned Beef Hash with Eggs) patří k variantě a nejsou zde přebrána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 133,
+    "titleOriginal": "CORNED BEEF HASH, BAKED"
+  },
+  "verified": false,
+  "quote": "Place corned beef hash in roasting pans. Add enough stock to cover bottom of pan."
+}

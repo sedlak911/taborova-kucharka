@@ -1,0 +1,54 @@
+{
+  "id": "pecene-banany",
+  "title": "Pečené banány",
+  "titleOriginal": "Baked Bananas",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "banan",
+      "amount": 320,
+      "unit": "g",
+      "note": "jedlá část (nákup ~500 g se slupkou, 4 banány)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "odhad podle zdroje „as desired“"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 190 °C a vymaž zapékací misku." },
+    { "text": "Oloupej banány a polož je do misky.", "minutes": 5 },
+    { "text": "Potři je rozpuštěným máslem a lehce posyp solí.", "minutes": 2 },
+    { "text": "Peč do změknutí, 15 až 18 minut.", "minutes": 18 }
+  ],
+  "modernNote": "Zdroj uvádí 100 porcí po jednom banánu (1 celý nebo 2 půlky) a hmotnost 25 až 30 lb (nákupní, se slupkou), na 4 porce počítáno z průměrných 27,5 lb: 4 banány ≈ 500 g se slupkou. Katalogový banán má ediblePortion 0,64, aplikace ho u ovoce nepoužívá, proto je v řádku jedlá část 500 × 0,64 ≈ 320 g; přepočet je ručně, ne přes ediblePortion. Máslo 1 lb 4 oz ze zdroje = 30 g na 4 porce (nástroj 31,3 g, zaokrouhleno). Sůl „as desired“ je odhad 2 g (0,5 g na porci; 1 g by dal jen 0,25 g na porci a na lehké posypání je to málo). Čas 18 minut je horní mez zdroje 15 až 18 minut; předehřátí je bez času, běží během přípravy. Zdroj uvádí i variace (javorový sirup, želé, brusinky, cukr) a podávání k masu nebo jako dezert s vanilkovou nebo citronovou omáčkou; nejsou součástí receptu. Hmotnost ve zdroji není přesná (rozsah 25 až 30 lb), proto verified zůstává false.",
+  "source": {
+    "book": "navy-1944",
+    "page": 79,
+    "titleOriginal": "BAKED BANANAS"
+  },
+  "verified": false
+}

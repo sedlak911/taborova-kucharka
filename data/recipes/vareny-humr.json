@@ -1,0 +1,35 @@
+{
+  "id": "vareny-humr",
+  "title": "Vařený humr",
+  "titleOriginal": "Boiled Live Lobster",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["korysi"],
+  "ingredients": [
+    { "ingredientId": "humr", "amount": 1810, "unit": "g", "note": "živý, ve skořápce; 1 lb na porci" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření humrů, slije se; domácí hodnota (zdroj 1 quart), aby byli humři ponořeni", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Vyber živé humry určené k vaření." },
+    { "text": "V hrnci přiveď osolenou vodu k varu.", "minutes": 12 },
+    { "text": "Drž humra pevně těsně za klepety a ponoř ho hlavou napřed do vroucí vody.", "minutes": 2 },
+    { "text": "Znovu přiveď k varu a vař 25 až 30 minut, dokud humři nezčervenají.", "minutes": 35 },
+    { "text": "Sceď vodu a humry vyjmi.", "minutes": 2 },
+    { "text": "Odtáhni ocas od těla, ostrým nožem rozřízni spodní stranu krunýře a rozevři ho.", "minutes": 3 },
+    { "text": "Odstraň žaludek (zvaný „dáma“) a černou střevní žílu, která vede od hlavy k ocasu. Korál a zelenavá játra ponech.", "minutes": 2 },
+    { "text": "Klepety rozlom kladivem nebo praskačkou.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj nemá tabulku množství: porce je ¾ až 1 lb humr ve skořápce (jeden humr na porci); použit horní mez 1 lb, tj. 1810 g pro 4 porce. Voda a sůl jsou domácí hodnoty: zdroj dává 1 quart vody (asi 1 l) na jeden hrnec a 2 lžíce soli na quart (asi 28 g/l); pro čtyři humry 3 l vody, aby byli ponoření, a sůl 2 g/l podle pravidla pro slévanou vodu – slaná voda ze zdroje by byla výrazně slanější, dle chuti přisol. Hmotnost humra je v skořápce, ediblePortion 0,3 je odhad (USDA refuse 0 platí jen pro maso bez skořápky). Zdroj podává s rozpuštěným máslem nebo tatarskou omáčkou (s. 184); maso lze použít do krémových jídel nebo salátu. Varianta studený humr: ponořit hotové humry do studené vody a rozřezat až vychladnou, podávat s majonézou (s. 204).",
+  "source": {
+    "book": "navy-1944",
+    "page": 94,
+    "titleOriginal": "BOILED LIVE LOBSTER"
+  },
+  "verified": true
+}

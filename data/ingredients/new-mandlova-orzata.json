@@ -1,0 +1,32 @@
+[
+  {
+    "id": "pomerancova-kvetova-voda",
+    "name": "Pomerančová květová voda",
+    "aliases": [
+      "květová voda",
+      "květová voda pomerančová",
+      "orange flower water"
+    ],
+    "category": "koreni",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 0,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 15,
+      "lzicka": 5
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: makra zanedbatelná (destilát z květů pomeranče, aroma ve vodě); USDA nenalezen, nulová hodnota jako u hořkomandlové esence",
+      "units": "lžíce ≈ 15 ml, lžička ≈ 5 ml (běžné hodnoty)",
+      "refuse": "bez odpadu"
+    },
+    "densityGPerMl": 1
+  }
+]

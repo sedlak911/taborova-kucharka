@@ -1,0 +1,90 @@
+{
+  "id": "pomazanka-ze-soleneho-hoveziho",
+  "title": "Pomazánka ze soleného hovězího",
+  "titleOriginal": "Corned Beef Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-solene",
+      "amount": 110,
+      "unit": "g",
+      "note": "z konzervy, vařené, mleté"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.8,
+      "unit": "ks",
+      "note": "natvrdo uvařená, nasekaná nadrobno; zdroj je volitelný"
+    },
+    {
+      "ingredientId": "okurky-sladke",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekané nadrobno; zdroj uvádí i sladký nálev"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 80,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 25,
+      "unit": "ml",
+      "note": "zdroj: 1 pint (8 citronů); může být nahrazena sladkým nálevem z okurek"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vejce uvař natvrdo, ochlaď, oloupej a nasekej nadrobno.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím nasekej nadrobno sladké okurky.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Solené hovězí umel nebo nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej vejce, okurky, odpařené mléko, sůl, pepř a citronovou šťávu a vše důkladně promíchej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj (PDF 217, tištěná strana 209, Corned Beef Filling; stejná strana obsahuje i Peanut Butter Filling a Peanut Butter variace, ty nejsou součástí tohoto receptu) počítá na 100 porcí po 2 oz. Hovězí z konzervy je už vařené, takže ztráta varem se nepočítá; hmotnost surovin ve zdroji (16,5 lb ≈ 2,6 oz na porci) je o ~30 % nad porcí 2 oz, bilance 325 g / 227 g ≈ 1,43 je proto očekávaná. Vejce: zdroj 5 lb (= 50 ks podle 1 lb = 10 ks) a v sloupci Amounts 48 ks; počítáno z hmotnosti, výsledek 1,8 ks (zdroj uvádí vejce jako volitelné). Sůl 1 oz (2 tbsp) dává přes třídu seasoning 2 g na 4 porce; případně ubrat dle chuti. Rozpor: pepř je ve sloupci Ounces ¼ oz (7 g), ve sloupci Amounts ¾ tablespoon (cca 5 g); použita hmotnost, verified false. Citronová šťáva (1 pint) nemá hmotnost; sladký nálev z okurek ji může nahradit (zdroj). Odkaz na majonézu, cibuli ani hořčici: ve zdroji nejsou, do receptu nepřidány. Kroky vaření vajec a nakrájení okurek nejsou ve zdroji popsány, doplněny jako příprava pro „hard-cooked, chopped fine“.",
+  "source": {
+    "book": "navy-1944",
+    "page": 217,
+    "titleOriginal": "CORNED BEEF FILLING"
+  },
+  "verified": false,
+  "quote": "Combine all ingredients and mix thoroughly."
+}

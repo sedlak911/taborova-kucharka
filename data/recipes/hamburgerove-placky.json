@@ -1,0 +1,26 @@
+{
+  "id": "hamburgerove-placky",
+  "title": "Hamburgerové placky (grilované)",
+  "titleOriginal": "Grilled Hamburger Steak",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 680, "unit": "g", "note": "90 % libové; 170 g na placku" },
+    { "ingredientId": "repkovy-olej", "amount": 8, "unit": "g", "note": "na potření pánve (zdroj: nepřilnavý sprej, 2 oz na 100 porcí)", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Z masa tvaruj placky asi 2,5 cm silné a 10 cm široké, každou o hmotnosti 170 g.", "minutes": 4 },
+    { "text": "Pánev lehce potři olejem a rozehřej na střední oheň.", "minutes": 3 },
+    { "text": "Opékej placky 9 minut z každé strany, dokud nejsou dobře propečené.", "minutes": 18 }
+  ],
+  "modernNote": "Nepřilnavý sprej nahrazen řepkovým olejem v hodnotě ze zdroje (2 oz na 100 porcí, přepočteno na 4 porce a škálováno jako tuk na pánvi). Zdroj uvádí pánev/gril na 175 °C (350 °F); doma na plotně se řídí střední ohní. Zdroj předepisuje vnitřní teplotu 68 °C (155 °F) po dobu 15 s a držení na 60 °C (140 °F); tyto CCP pokyny jsou vynechány, ale doporučujeme je dodržet. Kontrola propečení u dětí (doporučení): před podáním placku prořízni a zkontroluj, že uvnitř není růžová. Zdrojová porce 4,5 oz odpovídá propečené placce; syrová placka váží 170 g (6 oz).",
+  "source": { "book": "afrs-2003", "page": 755, "code": "L 037 02", "titleOriginal": "GRILLED HAMBURGER STEAK" },
+  "verified": true,
+  "quote": "Shape into steaks about 1 inch thick by 4 inches weighing 6 ounces each."
+}

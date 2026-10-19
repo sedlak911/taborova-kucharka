@@ -1,0 +1,86 @@
+{
+  "id": "nudle-s-kysanym-zelim",
+  "title": "Nudle s kysaným zelím a masem",
+  "titleOriginal": "Nudeln mit Sauerkraut",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 110,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kysele-zeli",
+      "amount": 600,
+      "unit": "g",
+      "note": "nepropláchnuté (ungewässert), se šťávou"
+    },
+    {
+      "ingredientId": "jalovec",
+      "amount": 5,
+      "unit": "ks",
+      "note": "odhad: zdroj říká jen „několik“"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 700,
+      "unit": "ml",
+      "note": "odhad: zdroj říká jen „zelí sotva zakrýt vodou“"
+    },
+    {
+      "ingredientId": "veprova-plec",
+      "amount": 400,
+      "unit": "g",
+      "note": "odhad, zdroj množství masa neuvádí; zdroj dovoluje i hovězí"
+    },
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 480,
+      "unit": "g",
+      "note": "suché"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "odhad: zdroj říká jen „dochutit solí“; zelí je už slané, ochutnej"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Nepropláchnuté kysané zelí zalij vodou tak, aby bylo sotva zakryté, přidej několik jalovcových bobulí a přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej maso a vař asi 1 a půl hodiny.",
+      "minutes": 90
+    },
+    {
+      "text": "Vmíchej nudle do zelí a na mírném ohni vař dohotova, asi dalších 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Dochuť solí, a když je zelí příliš kyselé, i trochou cukru."
+    }
+  ],
+  "modernNote": "Zdroj počítá s dávkou 150 g kysaného zelí a 120 g nudlí na hlavu; zde 150 g zelí a 120 g nudlí na porci, řádky jsou praktické domácí množství pro 4 porce. Množství masa zdroj neuvádí (30 g v základním receptu patří polévkové zelenině); 400 g (~100 g na porci) je odhad. Maso, voda (700 ml) a sůl (2 g) jsou odhady, proto verified: false. Doporučení: při vaření nudlí podle potřeby dolévej vodu. Jalovcové bobule zdroj uvádí jen jako „několik“; 5 kusů (asi 1 g) je odhad, lze vynechat. Cukr jen podle chuti, pokud je zelí příliš kyselé (není v seznamu).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 20,
+    "code": "(varianta 3, tišt. 37)",
+    "titleOriginal": "Nudeln mit Sauerkraut"
+  },
+  "verified": false,
+  "quote": "Abschmecken mit Salz, wenn zu sauer auch mit etwas Zucker."
+}

@@ -1,0 +1,69 @@
+{
+  "id": "smazena-jatra-na-panvi",
+  "title": "Smažená játra na pánvi",
+  "titleOriginal": "Fried Liver (Fegato al tegame)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "1 malá, nakrájená na plátky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na osmažení cibule a jater; zdroj říká jen „butter“, množství odhad"
+    },
+    {
+      "ingredientId": "jatra",
+      "amount": 500,
+      "unit": "g",
+      "note": "telecí játra (zdroj druh neuvádí, sousední č. 161 je telecí), nakrájená na plátky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na obalení plátků"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "podle chuti, až těsně před podáváním"
+    }
+  ],
+  "steps": [
+    { "text": "Malou cibuli nakrájej na tenké plátky.", "minutes": 3 },
+    { "text": "Na másle osmahni cibuli dozlatova.", "minutes": 5 },
+    { "text": "Mezitím játra očisti, zbav blan a nakrájej na plátky silné asi jeden centimetr.", "minutes": 4, "parallel": true },
+    { "text": "Plátky jater obal v hladké mouce.", "minutes": 2 },
+    { "text": "Obalené plátky hned vlož na pánev k cibuli a opékej je z obou stran.", "minutes": 6 },
+    { "text": "Osol těsně před podáváním." },
+    { "text": "Podávej hned, dokud jsou horká." }
+  ],
+  "modernNote": "Zdroj (Gentile, tištěná s. 113, PDF 117) neuvádí žádná množství ani počet porcí; všechna čísla jsou odhad z běžné praxe pro 4 porce: játra 500 g (125 g na porci), 1 malá cibule asi 100 g, máslo 30 g na osmažení cibule i jater (zdroj jen „butter“), hladká mouka 20 g na obalení a sůl 4 g. Zdroj říká „liver“ bez upřesnění; zvoleno telecí podle sousední č. 161, pro vepřová játra je samostatný recept č. 66. Doby jsou odhad, zdroj je neuvádí. Játra se smaží rychle, aby zůstala měkká, zdroj varuje, že přepečená ztvrdnou.",
+  "source": {
+    "book": "italian-1919",
+    "page": 117,
+    "titleOriginal": "FRIED LIVER (Fegato al tegame)"
+  },
+  "verified": false,
+  "quote": "Salt just before serving."
+}

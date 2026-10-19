@@ -1,0 +1,47 @@
+{
+  "id": "makarony-au-gratin",
+  "title": "Makarony au gratin",
+  "titleOriginal": "Macaroni au Gratin",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 420, "unit": "ml", "note": "2¾ galonu ze zdroje; hmotnost chybí, převod z objemu", "group": "Omáčka" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "v omáčce (zdroj „butter or other fat“)", "group": "Omáčka" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g", "note": "1 čajová lžička", "group": "Omáčka" },
+    { "ingredientId": "testoviny", "amount": 165, "unit": "g", "note": "suché makarony", "group": "Makarony" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "na vaření, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Makarony", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "do vody na vaření, slije se; 2 g na 1 l", "group": "Makarony", "scaling": "vessel" },
+    { "ingredientId": "cedar", "amount": 145, "unit": "g", "note": "strouhaný", "group": "Zapékání" },
+    { "ingredientId": "strouhanka", "amount": 25, "unit": "g", "group": "Zapékání" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpuštěné", "group": "Zapékání" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C a vymaž zapékací misy." },
+    { "text": "Do velkého hrnce s osolenou vodou přiveď vodu k varu.", "minutes": 9 },
+    { "text": "Vsyp makarony a vař je do měkka, asi 20 minut. Dobře sceď.", "minutes": 20 },
+    { "text": "Mezitím v jiném hrnci zahřej mléko téměř k varu.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím v míse smíchej máslo, mouku, sůl a pepř na hladkou pastu.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej pastu do horkého mléka a za stálého míchání vař, dokud omáčka nezhoustne.", "minutes": 5 },
+    { "text": "Makarony vlož do vymazaných misek a přikryj je sýrem.", "minutes": 3 },
+    { "text": "Makarony i sýr zalij omáčkou.", "minutes": 1 },
+    { "text": "Rozpusť máslo, smíchej ho se strouhankou a posyp jím makarony.", "minutes": 2 },
+    { "text": "Peč v troubě, dokud strouhanka nezhnědne.", "minutes": 25 },
+    { "text": "Podávej ihned." }
+  ],
+  "modernNote": "Zdroj: Macaroni au Gratin, s. 31 (PDF 39), 100 porcí, porce 8 uncí (cca 1 šálek). Hmotnost mléka ve zdroji chybí, proto 2¾ galonu převedeno z objemu (1 ml ≈ 1 g). Slévaná voda na makarony (9 galonů) a sůl do ní (4 oz) nahrazeny domácí hodnotou 1 l na 100 g těstovin a 2 g soli na 1 l; obojí se slévá. „Butter or other fat“ modernizováno na máslo. Teplota 175 °C odpovídá „moderate oven (350 °F)“. Zdroj má na cca 10 kg mléka jen 8 uncí mouky (poměr asi 1 : 46), omáčka bude řidší; pro hustší omáčku zvyš mouku na 15–20 g. Varianta Buttered Macaroni vynechána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 39,
+    "titleOriginal": "MACARONI AU GRATIN"
+  },
+  "verified": true,
+  "quote": "Blend together fat, flour, salt and pepper to a smooth paste."
+}

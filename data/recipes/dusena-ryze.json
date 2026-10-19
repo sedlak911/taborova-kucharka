@@ -1,0 +1,28 @@
+{
+  "id": "dusena-ryze",
+  "title": "Dušená rýže",
+  "titleOriginal": "Steamed Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 155, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "voda", "amount": 420, "unit": "ml", "note": "studená; drž poměr 2,7 : 1 k rýži" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "repkovy-olej", "amount": 2, "unit": "g", "note": "rostlinný" }
+  ],
+  "steps": [
+    { "text": "Rýži, studenou vodu, sůl a olej dej do hrnce a přiveď k varu. Občas zamíchej.", "minutes": 5 },
+    { "text": "Hrnec pevně přikryj a na mírném ohni duš 20–25 minut. Nemíchej.", "minutes": 25 },
+    { "text": "Sundej z ohně." }
+  ],
+  "modernNote": "Porce odpovídá armádní příloze 3/4 hrnku vařené rýže (39 g suché rýže na osobu). Jako hlavní jídlo počítej 60–90 g suché rýže na osobu. Pokyn zdroje pro výdej do mělkých misek vynechán.",
+  "source": { "book": "afrs-2003", "page": 300, "code": "E 005 00", "titleOriginal": "STEAMED RICE" },
+  "verified": true,
+  "quote": "Cover tightly; simmer 20 to 25 minutes. DO NOT STIR."
+}

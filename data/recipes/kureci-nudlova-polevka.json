@@ -1,0 +1,32 @@
+{
+  "id": "kureci-nudlova-polevka",
+  "title": "Kuřecí nudlová polévka",
+  "titleOriginal": "Chicken Noodle Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 1140, "unit": "ml", "note": "připravený podle návodu" },
+    { "ingredientId": "kureci-maso-vareno", "amount": 25, "unit": "g", "note": "nakrájené na kostičky" },
+    { "ingredientId": "mrkev", "amount": 18, "unit": "g", "note": "nakrájená na kolečka" },
+    { "ingredientId": "celer-rapikaty", "amount": 14, "unit": "g", "note": "nakrájený" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "bobkovy-list", "amount": 1.15, "unit": "ks", "note": "1 list" },
+    { "ingredientId": "testoviny", "amount": 18, "unit": "g", "note": "špagety, vaří se přímo v polévce" }
+  ],
+  "steps": [
+    { "text": "Připrav vývar podle návodu." },
+    { "text": "Vývar, kuře, mrkev, celer, cibuli, pepř a bobkový list dej do hrnce, přikryj a přiveď k varu.", "minutes": 8 },
+    { "text": "Přidej nudle, zamíchej, přikryj a znovu přiveď k varu. Sniž teplotu a vař 15–20 minut, občas zamíchej, dokud kuře není hotové a nudle i zelenina měkké.", "minutes": 25 },
+    { "text": "Vyjmi bobkový list." }
+  ],
+  "modernNote": "Mražená mrkev a mražená cibule jsou nahrazeny čerstvými. Kuře je v originálu uvedeno jako vařené (1,5 lb), v katalogu proto použito nové vařené kuřecí maso (USDA fdc:171054). Zdroj počítá s velmi malým množstvím kuřete (1,5 lb na 100 porcí), ponecháno podle zdroje; polévka je hlavně vývar. Špagety se v originálu vaří přímo v polévce a nejsou slévány. Recept je pro 4 porce, celkem asi 1,2 l, tj. přibližně 300 ml na porci.",
+  "source": { "book": "afrs-2003", "page": 1392, "code": "P 002 01", "titleOriginal": "CHICKEN NOODLE SOUP" },
+  "verified": true
+}

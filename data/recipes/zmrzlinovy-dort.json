@@ -1,0 +1,72 @@
+{
+  "id": "zmrzlinovy-dort",
+  "title": "Zmrzlinový dort",
+  "titleOriginal": "Biscuit (Pezzo in gelo)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 7.5,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 80,
+      "unit": "ml",
+      "note": "zdroj 5 uncí (asi 148 ml) pro 7–8 porcí"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj 2 unce pro 7–8 porcí"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zdroj 4 žloutky pro 7–8 porcí"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "zdroj „a taste of vanilla“"
+    },
+    {
+      "ingredientId": "smetana-ke-slehani",
+      "amount": 80,
+      "unit": "ml",
+      "note": "tekutá smetana, ušlehá se do husté pěny; zdroj 5 uncí šlehačky (asi 148 ml) pro 7–8 porcí"
+    }
+  ],
+  "steps": [
+    { "text": "V hrnci smíchej vodu, cukr, žloutky a vanilku.", "minutes": 3 },
+    { "text": "Hrnec postav na mírný oheň a stále míchej, dokud směs nezačne lpět na naběračce.", "minutes": 8 },
+    { "text": "Hrnec sundej z ohně a šlehej do pevné pěny, dokud krém nevychladne.", "minutes": 5 },
+    { "text": "Mezitím ušlehej smetanu do husté pěny.", "minutes": 3, "parallel": true },
+    { "text": "Ušlehanou smetanu jemně vmíchej do vychladlého krému.", "minutes": 2 },
+    { "text": "Směs nalij do dortové formy nebo misky s víkem a zakryj ji.", "minutes": 1 },
+    { "text": "Nech dort v mrazáku ztuhnout, nejméně čtyři hodiny." },
+    { "text": "Před podáváním na pár minut vyndej z mrazáku." }
+  ],
+  "modernNote": "Gentile neuvádí čas ani postup pro dávku, jen suroviny a počet porcí: zdroj je na 7–8 osob (5 uncí vody, 2 unce cukru, 4 žloutky, 5 uncí šlehačky), proto je přepočet 4/7,5 (koeficient 0,533) na 4 porce (originalYield 7,5): voda 80 ml, cukr 30 g, 2 žloutky, smetana 80 ml. Porce jsou podle zdroje malé (asi 56 g, 124 kcal). Uncový objem vody a smetany je přepočten jako tekuté unce (29,6 ml), hmotnost cukru jako avoirdupois unce. Vanilka „a taste“ je 1 špetka. Zmrzlina se v knize mrazí v nádobě obložené solí a ledem asi tři hodiny; v mrazáku domácnosti je to bez soli a ledu, ale krém potřebuje obvykle aspoň čtyři hodiny, proto tag pripravit-predem. Žloutky se mají zahřívat jen na mírném ohni a neustále mírně míchat, aby se nesrazily. Čas 20 minut je odhad aktivní přípravy (bez mrazení).",
+  "source": {
+    "book": "italian-1919",
+    "page": 157,
+    "titleOriginal": "BISCUIT (Pezzo in gelo)"
+  },
+  "verified": false,
+  "quote": "This dose will be sufficient for seven or eight persons."
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pecena-cela-ryba",
+  "title": "Pečená celá ryba",
+  "titleOriginal": "Baked Whole Fish",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "pstruh",
+      "amount": 1020,
+      "unit": "g",
+      "note": "celý, před úpravou vykuchaný; 4 pstruzi po asi 250 g (zdroj: celá ryba 56 lb na 100 porcí)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 50,
+      "unit": "g",
+      "note": "rozpuštěné; zdroj „butter or other fat, melted“"
+    }
+  ],
+  "steps": [
+    { "text": "Troubu vyhřej na 190 °C." },
+    { "text": "Ryby rozřízni podél na půl, vyčisti, důkladně opláchni a osuš čistou utěrkou.", "minutes": 10 },
+    { "text": "Ryby polož kůží dolů na mělký vymazaný pekáč.", "minutes": 2 },
+    { "text": "V misce smíchej sůl, papriku a rozpuštěný tuk.", "minutes": 3 },
+    { "text": "Směsí potři ryby.", "minutes": 2 },
+    { "text": "Peč 30 až 40 minut, dokud ryba nezhnědne a maso se neoddělí od kosti.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj (Navy 1944, s. 81) počítá na 100 porcí 56 lb celé ryby A.P. (16 kusů po asi 3,5 lb) a porci 5–6 oz (jedlá část). Pro 4 porce je to 1020 g celé ryby A.P.: použity 4 menší pstruzi po asi 250 g, protože zdrojová ryba 3,5 lb na kus je pro 4 porce příliš velká. Jedlá část pstruha je v katalogu 47 %, takže vychází ~120 g jedlého masa na porci, tedy méně než 5–6 oz ve zdroji; pro plnější porci vezmi větší pstruhy (asi 300–350 g). Zdroj uvádí jako alternativy i jiné ryby (např. makrela, sleď, treska, platýs), libovolná ryba vhodná k pečení celá. Sůl a paprika mají třídu seasoning (zdroj 5 oz a 1¼ oz na 100 porcí), tuk 2 lb rozpuštěného másla třídu fat (zdroj „butter or other fat“, použito máslo). Mazání pekáče není ve zdroji vyčísleno, kryje ho potírací tuk. Zdroj uvádí 375 °F, převedeno na 190 °C. Pečení 40 minut je horní mez zdroje (30–40 minut). Stuffing for Baked Whole Fish (Navy 1944, s. 90) je samostatný recept, v tomto postupu se nepoužívá, proto není mezi surovinami. Chceš-li rybu plnit, přidej nádivku podle receptu nadivka-do-ryby, přibližně úměrně objemu ryby.",
+  "source": {
+    "book": "navy-1944",
+    "page": 89,
+    "titleOriginal": "BAKED WHOLE FISH"
+  },
+  "verified": true,
+  "quote": "Bake in hot oven (375°F.) 30 to 40 minutes until fish is browned and flaked from bone."
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "hovezi-jazyk-syrovy",
+    "name": "Hovězí jazyk syrový",
+    "aliases": [
+      "syrový hovězí jazyk",
+      "hovězí jazyk syrový",
+      "beef tongue, raw"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 224,
+      "protein": 14.9,
+      "carbs": 3.68,
+      "fat": 16.09,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.84,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170196 (Beef, variety meats and by-products, tongue, raw)",
+      "refuse": "USDA fdc:170196 odpad 16 % (kůže a chrupavka) → ediblePortion 0.84"
+    }
+  }
+]

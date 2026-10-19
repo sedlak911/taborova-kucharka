@@ -1,0 +1,34 @@
+{
+  "id": "kukurice-restovana-s-paprikou",
+  "title": "Kukuřice restovaná s paprikou",
+  "titleOriginal": "SAUTEED CORN",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "kukurice-konzervovana", "amount": 480, "unit": "g", "note": "scezená" },
+    { "ingredientId": "spek", "amount": 35, "unit": "g", "note": "nakrájený; syrová hmotnost" },
+    { "ingredientId": "pimentka-konzervovana", "amount": 8, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "paprika-zelena", "amount": 25, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Kukuřici scedi.", "minutes": 2 },
+    { "text": "Nakrájenou slaninu osmahni asi 5 minut do lehce zhnědlé barvy.", "minutes": 5 },
+    { "text": "Přidej kukuřici, pimentku, nakrájenou zelenou papriku, sůl a pepř.", "minutes": 2 },
+    { "text": "Za občasného míchání prohřej.", "minutes": 4 }
+  ],
+  "modernNote": "Zdroj uvádí 100 porcí po 3–4 oz (zhruba 2/3 hrnku); přepočteno na 4 porce. Kukuřice je scezená ze 4 konzerv No. 10 (26 lb 8 oz); zdroj neuvádí, zda váha je scezená, bereme ji jako hmotnost scezené kukuřice. Slanina je syrová hmotnost (2 lb); tuk, který se z ní vytopí, zůstává na pánvi, zdroj žádný další tuk neuvádí, proto nepřidáván. Sůl je ze zdroje (2 oz na 100 porcí), přepočet dává 4 g na 4 porce, což je spíše horní mez – dle chuti ubrat. Pimentka a zelená paprika jsou nakrájené podle zdroje (zdroj uvádí jen hmotnost nakrájeného).",
+  "source": {
+    "book": "navy-1944",
+    "page": 274,
+    "titleOriginal": "SAUTEED CORN"
+  },
+  "verified": true
+}

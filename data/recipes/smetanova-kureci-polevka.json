@@ -1,0 +1,33 @@
+{
+  "id": "smetanova-kureci-polevka",
+  "title": "Smetanová kuřecí polévka",
+  "titleOriginal": "Cream of Chicken Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 450, "unit": "ml", "note": "kupovaný, zdroj: Chicken Stock (s. 216 PDF 224) 3 gal" },
+    { "ingredientId": "maslo", "amount": 14, "unit": "g", "scaling": "linear", "note": "rozpuštěné", "original": { "ingredientId": "sadlo", "amount": 14, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 14, "unit": "g" },
+    { "ingredientId": "mleko-polotucne", "amount": 450, "unit": "ml", "note": "horké" }
+  ],
+  "steps": [
+    { "text": "Vývar zahřej k varu.", "minutes": 4 },
+    { "text": "Máslo smíchej s moukou do hladké jíšky a vmíchej do vývaru.", "minutes": 3 },
+    { "text": "Vař na mírném ohni za častého míchání.", "minutes": 10 },
+    { "text": "Přilij horké mléko a vař ještě 10 minut za častého míchání.", "minutes": 10 },
+    { "text": "Podávej horkou, případně posypanou nasekanou petrželí nebo pažitkou." }
+  ],
+  "modernNote": "Zdroj: Cream of Chicken Soup, s. 230 tištěná (PDF 238). Výtěžek approx. 6 gal, porce 1 cup (approx. 8 oz): 6 gal / 1 cup ≈ 96 porcí, odchylka 4 % je v toleranci, proto originalYield 100. Vývar: zdroj uvádí Chicken Stock (s. 216, PDF 224) 3 gal, „well seasoned“; modernizace: kupovaný kuřecí vývar (kureci-vyvar), bez vlastní soli. Tuk: zdroj „chicken fat or butter, melted“ 12 oz; do original jde kuřecí sádlo (sadlo), moderně máslo. Mouka 12 oz; mléko 3 gal (čerstvé, bez sušeného). Bilance: 928 g na 4 porce (232 g na porci) odpovídá porci zdroje 1 cup ≈ 8 oz (227 g). Recept nemá vařené kuřecí maso, zdroj ho neuvádí, proto ho nepřidávám. Nález „mimo rozsah 250–450 g“ u polévky je očekávaný (232 g na porci odpovídá porci zdroje 1 cup). Tuk do jíšky je třídy linear. Nepovinná přísada ze zdroje (4½ oz nasekané petrželky nebo pažitky) je v kroku jako volitelné posypání bez množství.",
+  "source": {
+    "book": "navy-1944",
+    "page": 238,
+    "titleOriginal": "Cream of Chicken Soup"
+  },
+  "verified": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "polevka-z-bilych-fazoli",
+  "title": "Polévka z bílých fazolí",
+  "titleOriginal": "Navy Bean Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "fazole-suche", "amount": 100, "unit": "g", "note": "bílé sušené; přebrat, opláchnout a namočit do vody, která je zakryje, na 2–3 hodiny" },
+    { "ingredientId": "vyvar-sunkovy", "amount": 760, "unit": "ml", "note": "šunkový vývar (Ham Stock, s. 218), viz recept sunkovy-vyvar" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "sunkova-kost", "amount": 80, "unit": "g", "note": "šunkové kosti; odhad 8 kusů × cca 250 g, po vaření se vyjmou" },
+    { "ingredientId": "hrebicek-cely", "amount": 0.15, "unit": "g", "note": "celý, asi 2 kusy" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g", "note": "na zahuštění" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "studená, na rozmíchání mouky" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, opláchni a namoč do studené vody, která je zakryje, na 2 až 3 hodiny. Pak slij." },
+    { "text": "Přidej vývar, cibuli, šunkové kosti a hřebíček. Přiveď k varu.", "minutes": 8 },
+    { "text": "Mezitím rozmíchej mouku s vodou na hladkou kaši.", "minutes": 2, "parallel": true },
+    { "text": "Vař na mírném ohni 2 až 3 hodiny, dokud fazole nezměknou. Vyjmi kosti.", "minutes": 180 },
+    { "text": "Vmíchej kaši, dochuť pepřem a solí podle chuti a znovu přiveď k varu.", "minutes": 8 },
+    { "text": "Před podáváním polévku promíchej, fazole se usazují na dně." }
+  ],
+  "modernNote": "Porce 1 šálek (237 ml) z karty; 4 porce vyjdou cca 1 l polévky. Šunkový vývar (Ham Stock, s. 218 = PDF 226, 5 gal) je katalogový `vyvar-sunkovy` (kupovaný nebo podle receptu sunkovy-vyvar); zůstává v polévce. Šunkové kosti: zdroj uvádí jen číslo 8 bez hmotnosti; odhad 8 kusů × cca 250 g, tedy 80 g na 4 porce (jako u polévky ze žlutého hrachu), po vaření se vyjmou; zdroj je v poznámce připouští vynechat. Namáčecí voda se slévá (doplněk, zdroj uvádí jen „to cover“). Namáčení 2–3 hodiny není v timeMinutes. Sůl „if needed“ (4 oz = ½ cup) dává 7 g na 4 porce, tj. cca 7–8 g/l; doporučení ubrat podle chuti. Nález „mimo 250–450 g“ u polévky je ponechán: 241 g na porci odpovídá kartě (8 oz = 227 g).",
+  "source": { "book": "navy-1944", "page": 233, "titleOriginal": "NAVY BEAN SOUP" },
+  "verified": false
+}

@@ -1,0 +1,44 @@
+{
+  "id": "pomazanka-z-pecenych-fazoli",
+  "title": "Sendvičová pomazánka z pečených fazolí",
+  "titleOriginal": "Baked Bean Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-bile-v-konzerve",
+      "amount": 220,
+      "unit": "g",
+      "note": "pečené fazole (baked beans) z konzervy"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 35,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    { "text": "Fazole rozmačkej vidličkou nebo kráječem na brambory.", "minutes": 5 },
+    { "text": "Vmíchej odpařené mléko a důkladně promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: Baked Bean Filling, 100 porcí, porce cca 2 oz (náplň na jeden sendvič). Pečené fazole z konzervy → fazole-bile-v-konzerve. Odpařené mléko 2 konzervy po 14½ oz (1 lb 13 oz) → 35 g na 4 porce; zdroj uvádí objem 1½ pinty, přepočteno z hmotnosti. Zdroj pomazánku uvádí jako hotovou směs bez majonézy, cibule, okurek a kečupu, proto je nepřidávám. Pomazánku lze podávat teplou i studenou (zdroj). Varianta z téže strany „Baked Beans with Bologna“ (na 9 lb fazolí přidej 3 lb bologny nadrobno) není v receptu; pro masovou verzi přidej bolognu podle tohoto poměru.",
+  "source": {
+    "book": "navy-1944",
+    "page": 221,
+    "titleOriginal": "BAKED BEAN FILLING"
+  },
+  "verified": true
+}

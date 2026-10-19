@@ -1,0 +1,39 @@
+{
+  "id": "chlebova-nadivka",
+  "title": "Chlebová nádivka",
+  "titleOriginal": "Bread Dressing or Stuffing",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "chleb-bily", "amount": 360, "unit": "g", "note": "starší, nakrájený na kostky" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "rozpuštěné; část na orestování zeleniny, zbytek na potření formy", "scaling": "linear" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "celer-rapikaty", "amount": 90, "unit": "g", "note": "nasekaný i s listy" },
+    { "ingredientId": "tymian-susity", "amount": 0.18, "unit": "g" },
+    { "ingredientId": "salvej", "amount": 2, "unit": "g" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 175 °C." },
+    { "text": "Ve velké míse smíchej kostky chleba s tymiánem, šalvějí, solí a pepřem.", "minutes": 3 },
+    { "text": "Na tuku orestuj cibuli a celer dosklovita.", "minutes": 8 },
+    { "text": "Přidej k chlebu a lehce, ale důkladně promíchej.", "minutes": 3 },
+    { "text": "Vlož do vymazané zapékací mísy a potři zbylým tukem.", "minutes": 2 },
+    { "text": "Peč asi 1 hodinu.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 4 oz (zhruba 113 g), přepočteno na 4 porce. Zdroj neuvádí žádnou tekutinu, nádivka je proto suchá; pro vlhčí verzi lze přidat trochu vývaru, ve zdroji to není. Sůl (4 g) vychází ze zdroje (2 oz na 100 porcí) přes třídu seasoning; doporučuji ubrat podle chuti. Šalvěj: 1 oz ve sloupci hmotnosti odpovídá ½ cup sušené šalvěje, není to rozpor. Tuk: ve zdroji 1 lb 8 oz dohromady na restování zeleniny i na potření formy, rozdělen na dvě části. Ostatní suroviny (chléb, cibule, celer, koření) odpovídají zdroji. Volitelné přídavky ze zdroje (houby, ořechy, ústřice, ovoce, 8 oz petrželi) do receptu nepřidány.",
+  "source": {
+    "book": "navy-1944",
+    "page": 172,
+    "titleOriginal": "BREAD DRESSING OR STUFFING"
+  },
+  "verified": true,
+  "quote": "Bake in moderate oven (350°F.) 1 hour."
+}

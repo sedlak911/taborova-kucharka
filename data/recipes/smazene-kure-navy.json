@@ -1,0 +1,109 @@
+{
+  "id": "smazene-kure-navy",
+  "title": "Smažené kuře",
+  "titleOriginal": "Fried Chicken",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1810,
+      "unit": "g",
+      "note": "nákupní hmotnost vykuchaných kuřat (100 lb full drawn; zdroj uvádí alternativně 125 lb dressed), půlky nebo čtvrtky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 75,
+      "unit": "g",
+      "note": "na obalení",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g",
+      "note": "do obalovací směsi"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.89,
+      "unit": "g",
+      "note": "do obalovací směsi"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 125,
+      "unit": "g",
+      "note": "na opékání na pánvi, nasáklý (odhad, část zůstane na pánvi)",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 125,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na dno zapékací mísy, odhad; zdroj jen „to cover bottom of pan“"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 175 °C."
+    },
+    {
+      "text": "Kuře rozpůl podélně, u větších kusů na čtvrtky.",
+      "minutes": 10
+    },
+    {
+      "text": "V misce smíchej mouku, sůl a pepř.",
+      "minutes": 2
+    },
+    {
+      "text": "Kousky kuřete obal v mouce a přebytek mouky otřes.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej tuk.",
+      "minutes": 3
+    },
+    {
+      "text": "Kuře opékej na tuku dozlatova ze všech stran.",
+      "minutes": 12
+    },
+    {
+      "text": "Kousky vlož do zapékací mísy v jedné vrstvě.",
+      "minutes": 2
+    },
+    {
+      "text": "Přilij vývar tak, aby zakryl dno mísy, a přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč přikryté asi 75 minut, dokud maso nezměkne.",
+      "minutes": 75
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí, kuře je nákupní hmotnost vykuchaných kuřat (100 lb full drawn, shodně s Braised Poultry; alternativa zdroje 125 lb dressed je stejná porce s vnitřnostmi, hlavou a nohama, které katalogová jedlá část 0,68 nepočítá; bez kostí se počítá ediblePortion). Tuk: zdroj má 5 lb rozpuštěného tuku (2½ qt) na opékání na pánvi; pro 4 porce 125 g, moderně řepkový olej (třída fat). Hodnota 125 g je na opékání vysoká, většina zůstane na pánvi, ubrat na 3–4 lžíce stačí. Vývar: zdroj odkazuje na kuřecí vývar na straně 216, v zadání jen „to cover bottom of pan“, množství 150 ml je odhad (verified false); vývar nenahrazen vodou. Doba pečení: zdroj 1½–2½ hodiny pro 100 porcí, pro 4 porce zkráceno na 75 minut, zkontroluj měkkost. Zdroj dovoluje nahradit polovinu mouky sušenou strouhankou. Porce 1 lb vykuchaného kuřete s kostmi dává cca 308 g masa s kůží (check:recipe hlásí maso mimo 80–250 g, sedí s kartou 100 lb × 0,04); pro hlavní jídlo je to velká porce, doporučení: počítat 200–250 g masa na porci. Podávat lze s krémovou omáčkou (strana 177 zdroje), v receptu není.",
+  "source": {
+    "book": "navy-1944",
+    "page": 169,
+    "titleOriginal": "FRIED CHICKEN"
+  },
+  "verified": false,
+  "quote": "Cook chicken in fat until browned on all sides."
+}

@@ -1,0 +1,87 @@
+{
+  "id": "vanilkova-omacka",
+  "title": "Vanilková omáčka",
+  "titleOriginal": "Vanilla Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "rychle",
+    "tabor",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 40,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 5,
+      "unit": "g",
+      "note": "kukuřičný škrob"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.19,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 190,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 6,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci smíchej cukr, kukuřičný škrob a sůl.",
+      "minutes": 2
+    },
+    {
+      "text": "Postupně vmíchej vodu, dokud není směs hladká.",
+      "minutes": 3
+    },
+    {
+      "text": "Přiveď k varu a vař 3–4 minuty, dokud nezhoustne.",
+      "minutes": 6
+    },
+    {
+      "text": "Sundej z ohně a vmíchej máslo a vanilku.",
+      "minutes": 2
+    },
+    {
+      "text": "Nech omáčku vychladnout.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (hlavička Portion: 4 polévkové lžíce, asi 2 unce); na 4 porce vychází 4 porce omáčky, tedy zhruba 240 ml. Zdroj uvádí vodu jako „boiling“, ale postup ji mísí se suchou směsí až do hladka a teprve pak vaří – použij vodu z kohoutku, vlažnou nebo vařící, výsledek je stejný. Máslo je přidáno na konci jako v předloze; tuk zůstává v omáčce, proto katalogová třída fat (1 lb = 25 g na 4 porce). Vanilkový extrakt je z 3 unců převeden přes hustotu 0,88 g/ml (asi 97 ml) a upraven na 4 porce. Sůl je pod 1 g (0,19 g, ½ čajové lžičky na 100 porcí), v praxi ji lze přidat dle chuti. Nález checku na sůl (0,05 g na porci mimo 0,5–2,5 g) je očekávaný: rozsah platí pro slaná jídla, u sladké omáčky je sůl jen na podtržení cukru, takže hodnotu ponechávám. Cukr a škrob jsou v amounts uvedeny jako 4½ šálku a ¾ šálku: váha (2 lb 4 oz, 4 oz) je přesnější a je použita; rozdíl kolem 15 % odpovídá zhutnění v šálku. Doba chlazení není ve zdroji (jen „Chill“), odhad 20 minut při pokojové teplotě. Zdroj doporučuje podávat s pudinky a krémy.",
+  "source": {
+    "book": "navy-1944",
+    "page": 68,
+    "titleOriginal": "VANILLA SAUCE"
+  },
+  "verified": true
+}

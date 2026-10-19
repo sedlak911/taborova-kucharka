@@ -1,0 +1,79 @@
+{
+  "id": "pomazanka-z-bologni-a-syra",
+  "title": "Pomazánka ze salámu a sýra",
+  "titleOriginal": "Bologna and Cheese Filling",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [
+    "horcice",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bologna",
+      "amount": 75,
+      "unit": "g",
+      "note": "mletý salám (zdroj „Bologna, ground“)"
+    },
+    {
+      "ingredientId": "cedar",
+      "amount": 75,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredientId": "odparene-mleko",
+      "amount": 50,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "okurky-sladke",
+      "amount": 18,
+      "unit": "g",
+      "note": "nasekané nadrobno"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.07,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Salám a sýr umelej na jemno.",
+      "minutes": 8
+    },
+    {
+      "text": "Okurky nasekej nadrobno.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej odpařené mléko, hořčici, sůl a pepř a vše důkladně promíchej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj je „Bologna and Cheese Filling“ (náplň na sendvič, porce přibližně 2 oz, 100 porcí); z jednoho receptu na stránce 222 zpracován jen tento. Salám je gothajský salám (katalog `bologna`, nový záznam; nejbližší USDA ekvivalent „Bologna, beef and pork“, fdc:172013). Sýr je čedar (`cedar`). Zdroj nemá majonézu, takže `majoneza` v receptu není. Odpařené mléko je podle hmotnosti zdroje 2 lb 12 oz (3 plechovky po 14½ oz). Hořčice je sušená (prášek). Sůl ½ oz (≈ 1 polévková lžíce) ze zdroje dává na porci jen 0,23 g, což je pod běžným rozsahem 0,5–2,5 g; ponechávám podle zdroje, salám je slaný sám, takže dochuť podle chuti. Náplň se podává vychlazená, bez zvláštního chlazení v receptu (není `pripravit-predem`). Obsahuje maso (salám), proto bez tagu `bez-masa`.",
+  "source": {
+    "book": "navy-1944",
+    "page": 222,
+    "titleOriginal": "BOLOGNA AND CHEESE FILLING"
+  },
+  "verified": true
+}

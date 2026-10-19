@@ -1,0 +1,74 @@
+{
+  "id": "smazene-jehneci-kotlety",
+  "title": "Smažené jehněčí kotlety",
+  "titleOriginal": "Fried Lamb Chops",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "rychle",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "jehneci-maso",
+      "amount": 1180,
+      "unit": "g",
+      "note": "kotlety s kostí, hmotnost před odkostěním; zdroj: Lamb, bone-in"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 55,
+      "unit": "ml",
+      "note": "na smažení v mělké pánvi; zdroj: lamb or other fat",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 50,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso nakrájej na kotlety silné asi 1,3–1,9 cm.",
+      "minutes": 8
+    },
+    {
+      "text": "Kotlety osol a opepři."
+    },
+    {
+      "text": "Na pánvi rozehřej olej.",
+      "minutes": 3
+    },
+    {
+      "text": "Smaž kotlety do světle hnědé, průběžně je otoč, aby se propekly rovnoměrně.",
+      "minutes": 12
+    },
+    {
+      "text": "Podávej hned, horké."
+    }
+  ],
+  "modernNote": "Zdroj: 65 lb jehněčího s kostí na 100 porcí, porce 2 kotlety (4 oz); přepočet přes katalogový podíl masa 0,77 odpovídá poměru 50 lb čistého masa ku 65 lb. Tuk „Lamb or other fat“ (2 lb) je v řádku řepkový olej 55 ml (třída fat), původně sádlo 50 g v original. Sůl 6 oz dává 11 g na 4 porce, tj. 2,75 g soli na porci (check:recipe hlásí mimo 0,5–2,5 g); je to přepočet podle zdroje (seasoning), doporučuji ubrat na asi 6 g pro 4 porce. Pepř ½ oz (0,92 g). Zdroj doporučuje podávat s hnědou omáčkou (Brown Gravy, s. 177, PDF 185); omáčka není součástí tohoto receptu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 135,
+    "titleOriginal": "FRIED LAMB CHOPS"
+  },
+  "verified": true
+}

@@ -1,0 +1,112 @@
+{
+  "id": "rybi-placky",
+  "title": "Rybí placky s bramborem",
+  "titleOriginal": "Fish Cakes",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 85,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "ryby",
+    "vejce",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "treska",
+      "amount": 360,
+      "unit": "g",
+      "note": "uvařená, rozvločkovaná; zdroj „any cooked fish“, lze použít jinou bílou rybu"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 360,
+      "unit": "g",
+      "note": "uvařené a rozmačkané, bez koření"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "lehce rozšlehané"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 50,
+      "unit": "g",
+      "note": "suchá, jemná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.22,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.04,
+      "unit": "g",
+      "note": "kajenský pepř; 3/8 čajové lžičky",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 500,
+      "unit": "ml",
+      "note": "na hluboké smažení; domácí hodnota, po smažení se slije",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý v placičkách (odhad)",
+      "scaling": "fat"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření brambor, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření brambor, slije se",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Ve velké míse smíchej rybu, brambory, rozšlehaná vejce, strouhanku, sůl, pepř a kajenský pepř dohladka.", "minutes": 3 },
+    { "text": "Vychlaď hmotu v lednici.", "minutes": 60 },
+    { "text": "Mezitím v hrnci zahřej olej na 190 °C.", "minutes": 10, "parallel": true },
+    { "text": "Z hmoty vytvaruj placičky o průměru asi 7–8 cm a tloušťce asi 2,5 cm.", "minutes": 10 },
+    { "text": "Smaž placičky po dávkách v horkém oleji asi 2–3 minuty do zlatova.", "minutes": 6 },
+    { "text": "Vyjmi je a osuš na papírové utěrce.", "minutes": 2 },
+    { "text": "Podávej s rajčatovou omáčkou." }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 2 placičky (průměr 3 palce, tloušťka 1 palec, asi 3 oz = 85 g každá), tedy porce asi 170 g. Ryba: zdroj píše „any cooked fish“, použita treska a syrová ryba ≈ stejná hmotnost jako vařená ze zdroje. Vejce: váha 1 lb 4 oz přepočtena na ks při 45 g/ks (zdroj uvádí 16 ks, což by znamenalo 35 g/ks; rozhodla váha). Smažení: zdroj říká jen „hot, deep fat at 375 °F“ bez množství; 500 ml oleje je domácí hodnota, 30 ml nasáklé je odhad. Brambory: zdroj má pyré, voda na jejich vaření 1 l na zhruba 360 g, sůl 2 g na 1 l, slévá se. Chlazení zdroj nepíše čas; odhad 60 minut. Zdroj u podávání odkazuje na rajčatovou omáčku (s. 184); není to součást receptu, nepřidána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 90,
+    "titleOriginal": "FISH CAKES"
+  },
+  "verified": false,
+  "quote": "Any cooked fish may be used."
+}

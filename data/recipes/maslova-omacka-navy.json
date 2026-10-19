@@ -1,0 +1,83 @@
+{
+  "id": "maslova-omacka-navy",
+  "title": "Máslová omáčka (tekutá)",
+  "titleOriginal": "Drawn Butter Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 18,
+      "unit": "g",
+      "note": "rozpuštěné, část na začátku a zbytek na konci",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 9,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "vroucí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.15,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci přiveď vodu k varu.",
+      "minutes": 3
+    },
+    {
+      "text": "Mezitím v jiném hrnci rozpusť část másla, vmíchej mouku a rozmíchej na hladkou pastu.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Pastu přidej do vroucí vody za stálého míchání.",
+      "minutes": 1
+    },
+    {
+      "text": "Vař za stálého míchání, dokud omáčka nezhoustne.",
+      "minutes": 6
+    },
+    {
+      "text": "Dochuť solí a pepřem, vmíchej zbylé máslo a dobře promíchej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: Drawn Butter Sauce (tištěná str. 179, PDF 187; na stránce je i Mock Hollandaise, ten není v tomto receptu). Sloupec 100 porcí, výtěžek ~1 gal, porce 2 tbsp (~1 oz). Přepočet na 4 porce: 18 g másla (zdroj 1 lb), 9 g hladké mouky (zdroj 8 oz), 150 ml vody (zdroj 1 gal), 1 g soli (zdroj 3/4 oz, 1½ tbsp; přesně 1,4 g, zaokrouhleno dolů jako u ostatních) a 0,15 g černého pepře (zdroj 1 tsp). Máslo je jedna surovina, část se rozpouští na začátku a zbytek se vmíchá na konci, proto je jeden řádek. Bilance: 4 porce po 2 tbsp = 120 ml proti 177 g surovin, tj. 1,5×; u hustých omáček v pořádku. Sůl 1 g na 4 porce (0,25 g na porci) je podle zdroje nízká; dochuť podle chuti. Energie 41 kcal na porci (2 lžíce) odpovídá zdroji, který počítá 1 lb másla na 100 porcí; pro bohatší omáčku zvyš máslo a mouku úměrně. Zdroj doporučuje ke chřestu, brokolici, bramborám vařeným i pečeným a pečeným nebo grilovaným rybám.",
+  "source": {
+    "book": "navy-1944",
+    "page": 187,
+    "titleOriginal": "DRAWN BUTTER SAUCE"
+  },
+  "verified": true,
+  "quote": "Melt about 2/3 of the butter. Stir in flour and blend to a smooth paste."
+}

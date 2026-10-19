@@ -1,0 +1,33 @@
+{
+  "id": "vejce-pecena-ve-smetane",
+  "title": "Vejce pečená ve smetaně",
+  "titleOriginal": "Shirred Eggs",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "celá" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "rozpuštěné; polévá vejce" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.15, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 175 °C a vymaž zapékací nebo muffinové formy.", "minutes": 10 },
+    { "text": "Mezitím rozbij vejce celá do forem.", "minutes": 3, "parallel": true },
+    { "text": "Polej rozpuštěným tukem a posyp solí a pepřem.", "minutes": 2 },
+    { "text": "Peč asi 10 minut, dokud bílky nejsou pevné.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 2 vejcích (200 ks = 20 lb, tedy 45,36 g na vejce). Pro 4 porce proto vychází 8 vajec; přepočet přes obvyklých 50 g na vejce by dal 7,3 ks, což neodpovídá dvěma vejcím na porci. Tuk se nevymazává zvlášť, polévá se přes vejce (1 lb na 100 porcí = 25 g). Varianta Shirred Eggs with Bacon: na dno forem dej nakrájenou a opečenou slaninu, než vejce rozbiješ. Teplota 350 °F = 175 °C.",
+  "source": {
+    "book": "navy-1944",
+    "page": 70,
+    "titleOriginal": "SHIRRED EGGS"
+  },
+  "verified": true,
+  "quote": "Break eggs whole and place in greased baking or muffin pans."
+}

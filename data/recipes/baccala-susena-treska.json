@@ -1,0 +1,96 @@
+{
+  "id": "baccala-susena-treska",
+  "title": "Solená treska (baccalà) na česneku a rajčatech",
+  "titleOriginal": "Codfish (Baccalà)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "ryby"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "susena-treska",
+      "amount": 400,
+      "unit": "g",
+      "note": "sušená solená; před přípravou namočená"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 50,
+      "unit": "g",
+      "note": "na obalení"
+    },
+    {
+      "ingredientId": "olivovy-olej",
+      "amount": 60,
+      "unit": "g",
+      "note": "hodně oleje (zdroj: „plenty of oil“), aby se ryba opékala a neprilnula"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 3,
+      "unit": "ks",
+      "note": "stroužky, celé, jen lehce rozmáčknuté"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "podle chuti"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 40,
+      "unit": "g",
+      "note": "místo rajčatové omáčky; rozředěný vodou"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 150,
+      "unit": "ml",
+      "note": "na rozředění protlaku"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tresku namáčej ve studené vodě a vodu dvakrát až třikrát vyměň. Lepší je nechat ji delší dobu pod tekoucí studenou vodou."
+    },
+    {
+      "text": "Namočenou tresku nakrájej na kusy velké jako dlaň a důkladně je obal v mouce.",
+      "minutes": 8
+    },
+    {
+      "text": "Do pánve nalej hodně oleje, přidej česnek a zahřej.",
+      "minutes": 3
+    },
+    {
+      "text": "Když česnek začne hnědnout, vlož tresku a opékej ji z obou stran. Často obracej, aby se nepřipálila.",
+      "minutes": 10
+    },
+    {
+      "text": "Dochuť pepřem. Sůl většinou nepotřebuje, případně jen trochu po ochutnání."
+    },
+    {
+      "text": "Zalij rajčatovým protlakem rozředěným vodou, ještě chvíli povař a podávej.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce, proto jsou množství odhad z běžné praxe (jen česnek, 2–3 stroužky, je ze zdroje): 400 g sušené solené tresky dá po namočení asi 700 g ryby, tedy 175 g na porci. Namáčení trvá obvykle 24-48 hodin v chladu (doporučení, zdroj dobu neuvádí). Rajčatová omáčka (č. 12) se nahrazuje protlakem rozředěným vodou, jak zdroj sám připouští. Sušená solená treska se v ČR sehnat obtížně; zkus specializované obchody nebo jihoevropské potraviny. Sůl se nepřidává, ryba je slaná i po namočení. Kalorie počítají sušenou tresku v nenamočeném stavu, olej se spotřebuje jen zčásti.",
+  "source": {
+    "book": "italian-1919",
+    "page": 94,
+    "titleOriginal": "CODFISH (Baccalà) I"
+  },
+  "verified": false,
+  "quote": "Salt is not necessary, or at least only a little after tasting, but a little pepper will not be amiss."
+}

@@ -1,0 +1,55 @@
+{
+  "id": "michana-vejce",
+  "title": "Míchaná vejce",
+  "titleOriginal": "Scrambled Eggs",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 7.25,
+      "unit": "ks",
+      "note": "čerstvá, velká",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 360,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 16,
+      "unit": "g",
+      "note": "na vymazání pánve",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Vejce důkladně rozšlehej.", "minutes": 2 },
+    { "text": "Pánev lehce vymaž olejem a zahřej na mírném ohni.", "minutes": 2 },
+    { "text": "Vejce nalij na pánev a pomalu míchej, dokud nejsou pevná a nezůstane na nich tekuté vejce.", "minutes": 5 }
+  ],
+  "modernNote": "Mražená vejce nahrazena čerstvými (asi 7¼ vejce ≈ 363 g). Zdroj uvádí i pečení v konvektomatu při 350 °F (175 °C), 18–25 minut – vynecháno, recept je pro pánev na plotně. Olej na vymazání pánve má třídu vessel (16 g místo lineárních 4,4 g), protože se na pánev nedávkuje podle počtu porcí. Hodnota 144 kcal ze zdroje se mírně liší kvůli čerstvým vejcím a oleji na pánvi.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 351,
+    "code": "F 010 00",
+    "titleOriginal": "SCRAMBLED EGGS"
+  },
+  "verified": true
+}

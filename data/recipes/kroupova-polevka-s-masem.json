@@ -1,0 +1,78 @@
+{
+  "id": "kroupova-polevka-s-masem",
+  "title": "Kroupová polévka s masem",
+  "titleOriginal": "Graupen und frisches Rind- oder Schweinefleisch oder Dauerfleisch",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 1,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kroupy",
+      "amount": 320,
+      "unit": "g",
+      "note": "ve zdroji 100 g na hlavu; namočené"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1300,
+      "unit": "ml",
+      "note": "studená, včetně vody z namáčení; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 400,
+      "unit": "g",
+      "note": "čerstvé hovězí; množství zdroj neuvádí (doplněno, 120 g na porci)"
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 95,
+      "unit": "g",
+      "note": "čerstvá (zdroj: 30 g čerstvé nebo 2,5–3 g sušené na hlavu)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti (zdroj: Salz nach Geschmack); orientačně 1,5–2 g na porci"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kroupy zalij studenou vodou (vodou z namáčení) a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej maso, polévkovou zeleninu a sůl."
+    },
+    {
+      "text": "Vař do měkka asi 3 hodiny (vepřové maso jen asi 2 hodiny).",
+      "minutes": 180
+    },
+    {
+      "text": "Dochuť solí, kvasničným extraktem, celerem, petrželí a saturejkou."
+    }
+  ],
+  "modernNote": "Zdroj počítá s vojenskou denní dávkou 100 g krup na muže; zde 80 g krup na porci, řádky jsou praktické domácí množství pro 4 porce. Zdroj uvádí jen kroupy (100 g na hlavu) a polévkovou zeleninu (30 g čerstvé nebo 2,5–3 g sušené na hlavu); množství masa i vody chybí. Maso (100 g na porci) a vodu (1,3 l, kroupy hodně nasáknou) jsme doplnili jako odhad. Kroupy zdroj doporučuje namáčet, doba není uvedena; doporučení: namoč je několik hodin předem. Dochucení kvasničným extraktem, celerem, petrželí a saturejkou je bez množství, dávkuj po špetkách. Varianty s trvanlivou vařenou klobásou (do hotového jídla, krátce svařit) nebo konzervovaným masem (až těsně před podáváním, jen prohřát) jsou vynechány. Hmotnost porce vychází z celé vody; při několikahodinovém varu se část odvaří, hotová porce je lehčí (voda je nutná, aby se mouka, kroupy či luštěniny nesvařily na kaši).",
+  "source": {
+    "book": "feldkochbuch-1940",
+    "page": 18,
+    "code": "Grundgericht (tišt. s. 33)",
+    "titleOriginal": "Graupen und frisches Rind- oder Schweinefleisch oder Dauerfleisch"
+  },
+  "verified": false
+}

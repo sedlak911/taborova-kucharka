@@ -1,0 +1,56 @@
+{
+  "id": "rybizovy-sirup",
+  "title": "Rybízový nebo angreštový sirup",
+  "titleOriginal": "Red Currant or Gooseberry Syrup (Sciroppo di ribes)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 20,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "rybiz-cerveny",
+      "amount": 200,
+      "unit": "g",
+      "note": "bez stopek; zdroj říká angrešt (gooseberry), lze použít stejně; z 200 g vyjde asi 120 ml šťávy (odhad, zdroj nemá)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 160,
+      "unit": "g",
+      "note": "poměr šťáva : cukr 3 : 4 podle hmotnosti (zdroj: 6 lb šťávy na 8 lb cukru)"
+    },
+    {
+      "ingredientId": "kyselina-citronova",
+      "amount": 1,
+      "unit": "g",
+      "note": "zdroj: 1 unce na 8 lb cukru; dosyp podle chuti"
+    }
+  ],
+  "steps": [
+    { "text": "Odstraň stopky z hroznů rybízu a bobule vlož do hliněné nádoby.", "minutes": 15 },
+    { "text": "Nádobu zakryj a nech ji na chladném místě kvasit tři až čtyři dny." },
+    { "text": "Když kvašení začne, dvakrát denně stáhni plovoucí slupky a zamíchej naběračkou, dokud kvašení neustane." },
+    { "text": "Hmotu vlož do plátna a šťávu vytlač rukama nebo lisem.", "minutes": 20 },
+    { "text": "Šťávu přeceď přes filtr dvakrát nebo třikrát, dokud není čirá.", "minutes": 20 },
+    { "text": "Šťávu dej na plotnu, přiveď k varu a přisyp cukr.", "minutes": 10 },
+    { "text": "Míchej naběračkou, aby se cukr nepřipálil, a ochutnej; podle chuti dosyp kyselinu citronovou.", "minutes": 10 },
+    { "text": "Nech vychladnout, nalij do čistých láhví a uzavři.", "minutes": 10 },
+    { "text": "Podávej: na dno sklenice nalij jen trochu sirupu a dolij ledovou vodu." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 209) je velká dávka: 6 lb (2,7 kg) šťávy, 8 lb (3,6 kg) cukru a 1 unce (28 g) kyseliny citronové. Základ pro přepočet je domácí várka 1 kg rybízu (asi 1 l sirupu, tedy 20 porcí po 50 ml, originalYield 20), z níž recept ukazuje 4 porce: 200 g rybízu, 160 g cukru a 1 g kyseliny (poměr šťáva : cukr 3 : 4 a poměr kyseliny ze zdroje zachován). 1 porce = 50 ml sirupu na sklenici nápoje, 4 porce = asi 200 ml sirupu; na zásobu nastav 20 porcí. Sirup se při podávání jen ředí ledovou vodou (zdroj: méně než půl palce sirupu na sklenici). Fermentace 3–4 dny je čekání bez minut, proto je recept označen pripravit-predem. Spontánní kvašení tvoří stopy alkoholu a nahoře nesmí růst plíseň; šťávu před vařením lze zahřát na asi 85 °C a kvašení přeskočit. Zdroj uvádí rybíz i angrešt; angrešt je v katalogu samostatná surovina (angrest), záměnou se mění jen chuť. Sirup uchovej v zavřené láhvi v chladu.",
+  "source": {
+    "book": "italian-1919",
+    "page": 150,
+    "titleOriginal": "RED CURRANT OR GOOSEBERRY SYRUP (Sciroppo di ribes)"
+  },
+  "verified": false
+}

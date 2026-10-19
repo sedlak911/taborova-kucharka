@@ -1,0 +1,40 @@
+{
+  "id": "mulligatawny",
+  "title": "Mulligatawny (kari polévka)",
+  "titleOriginal": "Mulligatawny Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cibule", "amount": 14, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "mrkev", "amount": 18, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "celer-rapikaty", "amount": 18, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "paprika-zelena", "amount": 25, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "jablko", "amount": 25, "unit": "g", "note": "nakrájené na plátky" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "scaling": "linear", "note": "tuk na restování zeleniny a do jíšky (zdroj: Butter or other fat)" },
+    { "ingredientId": "hladka-mouka", "amount": 14, "unit": "g", "note": "do jíšky" },
+    { "ingredientId": "kureci-vyvar", "amount": 870, "unit": "ml", "note": "zdroj: Chicken Stock, tištěná s. 216 = PDF 224, 5¾ gal" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 115, "unit": "g", "note": "z konzervy, včetně nálevu" },
+    { "ingredientId": "kari-koreni", "amount": 2, "unit": "g" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.14, "unit": "g" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.3, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Cibuli, mrkev, celer a papriku nakrájej na kostičky, jablka na plátky.", "minutes": 8 },
+    { "text": "V hrnci rozehřej tuk a osmaž na něm zeleninu a jablka lehce dozlatova.", "minutes": 8 },
+    { "text": "Zeleninu s jablky vyjmi z tuku a odlož stranou.", "minutes": 2 },
+    { "text": "Do tuku vmíchej mouku a rozmíchej ji na hladkou jíšku.", "minutes": 3 },
+    { "text": "Za stálého míchání postupně přilévej kuřecí vývar a jíšku v něm rozmíchej bez hrudek.", "minutes": 5 },
+    { "text": "Přidej osmaženou zeleninu s jablky, rajčata a koření.", "minutes": 2 },
+    { "text": "Přiveď k varu a vař na mírném ohni asi 1 hodinu.", "minutes": 68 }
+  ],
+  "modernNote": "Kuřecí vývar je kupovaný (zdroj: Chicken Stock, tištěná s. 216 = PDF 224; domácí přípravu nerozepisuji). Tuk zdroj nespecifikuje (Butter or other fat) – moderně máslo. Rajčata jsou z konzervy No. 10 (zdroj uvádí jen hmotnost 6 lb 6 oz, včetně nálevu). Rozpor u kari: sloupec Ounces dává 1 oz (≈ 28 g), Amounts 1½ tbsp (≈ 9,5 g); podle pravidla má přednost Weight (1 oz = 28,4 g × 0,0648 = 1,84 g, zaokrouhleno na 2 g na 4 porce; 1 oz na 22 l polévky je i chuťově přiměřené), verified false kvůli rozporu. Sůl 1 oz (2 tbsp) je v souladu s poměrem zdroje. Pepř je černý mletý (zdroj uvádí jen „Pepper“, 2 tsp). Hodnota 100 porcí zůstává: 6 gal / 1 cup (236 ml) = 96 porcí, odchylka do 10 %. Jablka: hmotnost ze zdroje, jedlá dužina není zvlášť zjištěna.",
+  "source": { "book": "navy-1944", "page": 230, "titleOriginal": "Mulligatawny Soup" },
+  "verified": false
+}

@@ -1,0 +1,57 @@
+{
+  "id": "kukurice-v-klasech",
+  "title": "Vařená kukuřice v klasech",
+  "titleOriginal": "Corn on the Cob",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "kukurice-klas",
+      "amount": 4,
+      "unit": "ks",
+      "note": "1 klas na porci; jedlá zrna, ze zdroje 50 lb (100 klasů) A.P."
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "note": "na vaření, slije se; domácí hodnota, klasy zakryté vodou",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "note": "do vody na vaření, slije se (2 g/l)",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Do velkého hrnce nalij vodu, přidej sůl a přiveď k varu.", "minutes": 10 },
+    { "text": "Mezitím oloupej kukuřici z listů a zbav ji hedvábí.", "minutes": 5, "parallel": true },
+    { "text": "Ponoř kukuřici do vroucí vody a vař 8 až 15 minut, dokud nezměkne.", "minutes": 15 },
+    { "text": "Scedni kukuřici.", "minutes": 2 },
+    { "text": "Podávej velmi horkou." }
+  ],
+  "modernNote": "Zdroj počítá 100 klasů (1 klas = porce, zdroj „approx. 7-ounce ear“). Na 4 porce jsou 4 klasy, jedlá zrna počítána z hmotnosti 50 lb A.P. (227 g na klas) × 0,36 (USDA odpad 64 %), tj. ~82 g zrn na klas; porce je tedy menší než nákupní 7 oz klas, proto bilance vůči hlavičce nesedí. Voda a sůl jsou domácí hodnoty pro 4 klasy (2 l, 2 g soli na litr), slévají se. Čerstvou kukuřici vař co nejdřív po koupi; pokud není čerstvá nebo mladá, přidej do vody trochu cukru (poznámka zdroje). Zdroj máslo neuvádí, proto není v receptu; moderně se klasy podávají potřené máslem (asi 10 g na klas).",
+  "source": {
+    "book": "navy-1944",
+    "page": 272,
+    "titleOriginal": "CORN ON THE COB"
+  },
+  "verified": true,
+  "quote": "Husk corn. Add salt to water. Heat to boiling temperature."
+}

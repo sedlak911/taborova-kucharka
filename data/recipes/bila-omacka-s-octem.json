@@ -1,0 +1,72 @@
+{
+  "id": "bila-omacka-s-octem",
+  "title": "Bílá omáčka s octem (salsa bianca)",
+  "titleOriginal": "White Sauce (Salsa bianca)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko", "siricitany"],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 115,
+      "unit": "g",
+      "note": "ze zdroje ¼ lb; polovina na začátku, zbytek po částech při přilévání"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "note": "1 polévková lžíce"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 250,
+      "unit": "ml",
+      "note": "zdroj: „broth or water in sufficient quantity“; odhad množství, lze nahradit vodou"
+    },
+    {
+      "ingredientId": "vinny-ocet",
+      "amount": 15,
+      "unit": "ml",
+      "note": "1 polévková lžíce"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "žloutek z jednoho vejce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "odhad podle chuti; vývar bývá slaný"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "odhad, podle chuti"
+    }
+  ],
+  "steps": [
+    { "text": "Na mírném ohni rozpusť v rendlíku polovinu másla a vmíchej mouku.", "minutes": 2 },
+    { "text": "Mouku s máslem míchej dřevěnou vařečkou, dokud nezačne zlátnout.", "minutes": 4 },
+    { "text": "Za stálého míchání dřevěnou vařečkou postupně přilévej vývar, ať se příliš nevaří.", "minutes": 5 },
+    { "text": "Přidávej zbylé máslo po kouscích a vmíchej ocet.", "minutes": 5 },
+    { "text": "Sundej z ohně, vmíchej žloutek a dochuť solí a pepřem.", "minutes": 2 },
+    { "text": "Podávej teplou k uvařenému chřestu nebo květáku." }
+  ],
+  "modernNote": "Gentile (č. 54, s. 43) uvádí ¼ lb másla (OCR čte „!/ lb“, ověřeno obrázkem), 1 polévkovou lžíci mouky, 1 polévkovou lžíci octa, 1 žloutek, sůl, pepř a vývar nebo vodu „v dostatečném množství“, bez počtu porcí. Množství bereme jako na 4 porce (přepočet --yield 4): máslo 115 g, mouka 8 g, ocet 15 ml. Odhady, které zdroj nedává: vývar 250 ml, sůl 2 g, pepř 0,5 g. Vývar je masový (hovezi-vyvar, dle definice knihy); vařením ve vodě je omáčka bez masa. Sůl a pepř jsou přidány na závěr, zdroj je v postupu neuvádí. Chřest nebo květák jsou jen podávací doporučení, nejsou v surovinách. Čas 20 minut je odhad, zdroj ho neuvádí. Poznámka k zdroji: jiné recepty v knize (č. 12, 13, 14) odkazují na „Balsamella (No. 54)“, ale balsamella je až č. 59 (jiná omáčka, mouka s máslem a mlékem); zde ponechán původní název č. 54.",
+  "source": {
+    "book": "italian-1919",
+    "page": 47,
+    "titleOriginal": "WHITE SAUCE (Salsa bianca)"
+  },
+  "verified": false,
+  "quote": "This sauce can be served with boiled asparagus or with cauliflower."
+}

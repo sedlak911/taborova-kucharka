@@ -1,0 +1,111 @@
+{
+  "id": "smazene-artycoky",
+  "title": "Smažené artyčoky",
+  "titleOriginal": "Fried Artichoke (Carciofi fritti)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "artycok",
+      "amount": 320,
+      "unit": "g",
+      "note": "čerstvé, 4 středně velké (jedlá část; nákupní váha asi 800 g)",
+      "group": "Artyčoky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 60,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "bílek a žloutek",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do vajíčka",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na smažení v pánvi (asi 2 cm); zdroj: vroucí tuk, máslo nebo olivový olej; část zůstane v pánvi",
+      "scaling": "vessel",
+      "group": "Smažení"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na podávání",
+      "group": "Podávání"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Artyčoky zbav tvrdých listů a stonků, rozpůl je a nakrájej na plátky tak, aby z každého artyčoku bylo 8 až 10 kousků. Plátky hned vhazuj do studené vody.",
+      "minutes": 10
+    },
+    {
+      "text": "Plátky dobře omyj a osuš jen lehce, aby na nich zůstala vlhkost.",
+      "minutes": 3
+    },
+    {
+      "text": "Plátky ihned obal v hladké mouce, aby na nich mouka zůstala.",
+      "minutes": 3
+    },
+    {
+      "text": "Bílek vajíčka lehce prošlehej, ne do pěny, smíchej ho se žloutkem a solí.",
+      "minutes": 2
+    },
+    {
+      "text": "Plátky oklepej od přebytečné mouky a namoč do vajíčka; nech je chvíli, aby vejce přilnulo.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej olej, až je vroucí.",
+      "minutes": 5
+    },
+    {
+      "text": "Plátky po jednom vhazuj do vroucího tuku a smaž je dozlatova po dávkách.",
+      "minutes": 8
+    },
+    {
+      "text": "Hotové artyčoky vyjmi a nech okapat na papírové utěrce.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej horké s citronem."
+    }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce. Zdroj jsou 2 artyčoky, pro 4 porce jsou 4 středně velké artyčoky (nákupní váha asi 800 g; v receptu je jedlá část 320 g, protože aplikace počítá gramy zeleniny jako jedlou část). Mouka 60 g, 2 vejce (1 vejce na 2 artyčoky), sůl 3 g a olej 300 ml (smažení v pánvi asi 2 cm) jsou odhady z běžné praxe. Zdroj nabízí vroucí tuk, máslo nebo olivový olej; zvolen řepkový olej (levnější, vhodný na smažení). Kniha doporučuje pro bílé artyčoky smažit v oleji a do vody, kde se artyčoky změkčují, vymačkat půl citronu; zde se citron podává jako příloha. Čas 40 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 29,
+    "titleOriginal": "FRIED ARTICHOKE (Carciofi fritti)"
+  },
+  "verified": false,
+  "quote": "Throw the pieces one by one into the pan where there is boiling fat, butter or olive oil."
+}

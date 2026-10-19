@@ -1,0 +1,72 @@
+{
+  "id": "kureci-salat",
+  "title": "Kuřecí salát",
+  "titleOriginal": "Chicken Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["rychle", "tabor"],
+  "equipment": [],
+  "allergens": ["celer", "horcice", "vejce"],
+  "ingredients": [
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 270,
+      "unit": "g",
+      "note": "vařené vykostěné kuře"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 110,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "salat-listovy",
+      "amount": 55,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "majoneza",
+      "amount": 55,
+      "unit": "g",
+      "note": "kupovaná; zdroj 3 lb (1½ qt) majonézy ze str. 204"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vařené kuře vykostí a nakrájej na kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "Celer nakrájej na drobné kostičky.",
+      "minutes": 5
+    },
+    {
+      "text": "Salát nahrubo nakrájej.",
+      "minutes": 3
+    },
+    {
+      "text": "Kuře, celer a salát dej do mísy a dochuť solí.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej majonézu a promíchej, až je salát rovnoměrně obalený.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí po ¾ cupu (cca 5 oz), výtěžek cca 5 galonů. Kuře je vařená drůbež z odkazu na stranu 166 (PDF 174, Chicken Stew); v receptu je použité hotové vařené maso (15 lb vykostěného masa, E.P.), vařit ho nemusíš, koupené vařené kuře stačí. Majonéza je kupovaná v množství ze zdroje (3 lb, 1½ qt). Zdroj odkazuje na vlastní recept (str. 204, PDF 212: vejce, olej, ocet, hořčice, sůl, cukr), který si můžeš připravit doma; na 4 porce by ale vyšlo jen 0,15 vejce, proto není rozepsaný. Sůl (7 g na 4 porce, třída seasoning) je vyšší, dle chuti ubuj.",
+  "source": {
+    "book": "navy-1944",
+    "page": 197,
+    "titleOriginal": "CHICKEN SALAD"
+  },
+  "verified": true,
+  "quote": "Combine chicken, celery and lettuce."
+}

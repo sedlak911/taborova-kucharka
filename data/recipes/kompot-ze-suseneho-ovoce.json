@@ -1,0 +1,68 @@
+{
+  "id": "kompot-ze-suseneho-ovoce",
+  "title": "Kompot ze sušených švestek",
+  "titleOriginal": "Directions for Cooking Dried Fruits (prunes)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "susene-svestky",
+      "amount": 200,
+      "unit": "g",
+      "note": "sušené švestky bez pecek; zdroj 11 lb sušených švestek na 100 porcí"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "na zakrytí švestek; část vody švestky nasají (odhad, zdroj „to cover“ bez množství)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "note": "volitelně; zdroj 2 oz na libru sušených švestek, přidat v posledních 5 minutách"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Švestky propláchni a vodu slij."
+    },
+    {
+      "text": "Švestky zalij vodou, aby byly zakryté, a přiveď k varu.",
+      "minutes": 6
+    },
+    {
+      "text": "Vař pod pokličkou do měkka.",
+      "minutes": 45
+    },
+    {
+      "text": "Vmíchej cukr a ještě 5 minut vař.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej teplé nebo vychlazené."
+    }
+  ],
+  "modernNote": "Zdroj je tabulka pro 100 porcí (3 oz) a obsahuje víc druhů ovoce: jablka 9 lb, meruňky 9 lb, fíky 9 lb, broskve 9 lb, hrušky 8 lb, sušené švestky 11 lb; všechny se vaří zakryté ve vodě do varu, pak 20–60 minut podle druhu (jablka 40, meruňky 30–40, fíky 20–30, broskve 35–45, hrušky 25–35, švestky 45–60). Sušené švestky jsou vybrány jako hlavní recept. Cukr je volitelný (zdroj 2 oz na libru švestek, u jablek a broskví 1 oz na libru), ve zdroji se přidává až v posledních 5 minutách vaření. Voda „to cover“ je odhad 300 ml pro 200 g sušeného ovoce, část se nasákne. Pro jiné druhy použij stejný postup a upravený čas vaření.",
+  "source": {
+    "book": "navy-1944",
+    "page": 76,
+    "titleOriginal": "DIRECTIONS FOR COOKING DRIED FRUITS"
+  },
+  "verified": false,
+  "quote": "Rinse fruit. Drain before adding cooking water. Cook in covered vessel."
+}

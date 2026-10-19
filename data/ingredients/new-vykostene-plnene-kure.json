@@ -1,0 +1,53 @@
+[
+  {
+    "id": "teleci-mlete",
+    "name": "Telecí maso mleté",
+    "aliases": [
+      "telecí mleté",
+      "mleté telecí",
+      "veal, ground, raw"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 197,
+      "protein": 18.58,
+      "carbs": 0,
+      "fat": 13.06,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175290 (Veal, ground, raw)",
+      "refuse": "USDA fdc:175290 refusePct 0"
+    }
+  },
+  {
+    "id": "hovezi-jazyk-vareny",
+    "name": "Hovězí jazyk vařený",
+    "aliases": [
+      "jazyk",
+      "hovězí jazyk",
+      "vařený jazyk",
+      "beef tongue, cooked"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 284,
+      "protein": 19.29,
+      "carbs": 0,
+      "fat": 22.3,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 0.84,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170598 (Beef, variety meats and by-products, tongue, cooked, simmered)",
+      "refuse": "USDA fdc:170598 refusePct 16 (kůže a chrupavka)"
+    }
+  }
+]

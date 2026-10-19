@@ -1,0 +1,30 @@
+[
+  {
+    "id": "krepelka",
+    "name": "Křepelka",
+    "aliases": [
+      "křepelky",
+      "křepelčí maso",
+      "quail"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 134,
+      "protein": 21.76,
+      "carbs": 0,
+      "fat": 4.53,
+      "fiber": 0
+    },
+    "units": {
+      "ks": 120
+    },
+    "ediblePortion": 0.76,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172419 (Quail, meat only, raw)",
+      "units": "celá křepelka ≈ 120 g (nákupní hmotnost s kostí; USDA „quail 92 g“ u položky meat only je pravděpodobně hmotnost jedlé části)",
+      "refuse": "USDA fdc:172419 odpad 24 % (10 % kost, 14 % kůže)"
+    }
+  }
+]

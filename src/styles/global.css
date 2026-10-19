@@ -1,0 +1,12 @@
+/* písma (self-hosted přes @fontsource) */
+:root {
+  --font-body: 'EB Garamond', Georgia, 'Times New Roman', serif;
+  --font-table: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  --font-typewriter: 'Special Elite', 'Courier New', monospace;
+  --font-hand: 'Caveat', 'Comic Sans MS', cursive;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html, body, #root { margin: 0; height: 100%; }
+html, body { overscroll-behavior-x: none; }  /* vodorovný scroll listuje knihou, ne historií prohlížeče */
+body { background: radial-gradient(ellipse at 50% 40%, #4a3b30 0%, #2b2420 75%) #2b2420; font-family: var(--font-body); color: #2a2118; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

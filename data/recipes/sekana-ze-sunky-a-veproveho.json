@@ -1,0 +1,93 @@
+{
+  "id": "sekana-ze-sunky-a-veproveho",
+  "title": "Sekaná z šunky a vepřového",
+  "titleOriginal": "Ham and Pork Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "veprove-mlete",
+      "amount": 330,
+      "unit": "g",
+      "note": "zdroj 18 lb libového vepřového"
+    },
+    {
+      "ingredientId": "sunka",
+      "amount": 220,
+      "unit": "g",
+      "note": "mletá (uzená); zdroj 12 lb"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 75,
+      "unit": "g",
+      "note": "suchá; zdroj 4 lb na 1¼ gal (asi 0,38 g/ml)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "note": "lehce rozšlehané; zdroj 3 lb = 30 ks (1 lb = 10 ks)"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 75,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vymazání pekáče (odhad)"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 160 °C a vymaž pekáč olejem." },
+    { "text": "Nasekej cibuli nadrobno.", "minutes": 5 },
+    { "text": "Do mísy dej mleté vepřové maso, mletou šunku a cibuli a dobře promíchej.", "minutes": 3 },
+    { "text": "Přidej strouhanku, sůl, pepř, vejce a mléko a důkladně promíchej.", "minutes": 3 },
+    { "text": "Směs tvaruj do dvou bochánků a polož je do vymazaného pekáče.", "minutes": 5 },
+    { "text": "Peč nepřikryté, bez přidání vody, asi 75 minut, dokud není uprostřed propečeno.", "minutes": 75 },
+    { "text": "Podávej nakrájené, případně s krémovou omáčkou." }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí po 5 oz (asi 140 g); všechna čísla z obrázku stránky (PDF 149, tištěná 141). Bread crumbs bez přívlastku jsme vzali jako suchou strouhanku: 4 lb na 1¼ gal dává asi 0,38 g/ml, což odpovídá suché, ne čerstvé strouhance. Šunka je mletá a uzená, vepřové libové mleté. Sůl 7 g na 4 porce je podle zdroje (4 oz, asi ½ cupu); šunka je sama slaná, proto ji dle chuti ubrat. Vejce: 30 ks na 100 porcí (1,2 ks na 4 porce, přesně na 0,05). Pečení 75 minut při 160 °C je odhad pro dvě bochánky (celkem asi 800 g směsi) z 2–2½ hodin při 325 °F pro 100 porcí; ověř, že je uprostřed propečeno. Olej 5 ml na vymazání pekáče je odhad (zdroj neuvádí), proto verified false. Zdroj doporučuje podávat s krémovou omáčkou (Cream Gravy, str. 177), v receptu jen jako volitelná příloha.",
+  "source": {
+    "book": "navy-1944",
+    "page": 149,
+    "titleOriginal": "HAM AND PORK LOAF"
+  },
+  "verified": false,
+  "quote": "Combine pork, ham and onions."
+}

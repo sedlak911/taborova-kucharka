@@ -1,0 +1,167 @@
+{
+  "id": "odpalovane-testo-vetrniky",
+  "title": "Větrníky a eklery",
+  "titleOriginal": "Cream Puffs and Eclairs",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 105,
+  "difficulty": 3,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "do těsta; ve zdroji ztužený tuk (shortening)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      },
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 55,
+      "unit": "ml",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "note": "celá, čerstvá (ve zdroji 3 lb 4 oz ≈ 1 474 g)",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 100,
+      "unit": "ml",
+      "note": "do krému (ze zdroje Milk, liquid 1 gal + 1¾ pt, 1 lb 12 oz)",
+      "group": "Krém"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 9,
+      "unit": "g",
+      "group": "Krém"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.4,
+      "unit": "ks",
+      "note": "do krému",
+      "group": "Krém"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 3,
+      "unit": "g",
+      "note": "do krému, ze zdroje máslo",
+      "group": "Krém"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 0.49,
+      "unit": "ml",
+      "group": "Krém"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.32,
+      "unit": "g",
+      "note": "do krému",
+      "group": "Krém"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozehřej troubu na 200 °C a lehce vymaž plechy na pečení."
+    },
+    {
+      "text": "Přidej tuk do vody a přiveď k silnému varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Vmíchej mouku do vroucí vody a za stálého míchání vař, dokud se těsto neodlepí od stěn hrnce a nevznikne hladká hmota.",
+      "minutes": 3
+    },
+    {
+      "text": "Nech těsto zchladnout na asi 70 °C.",
+      "minutes": 10
+    },
+    {
+      "text": "Postupně přidávej vejce, po každém zamíchej, dokud se těsto dobře nespojí.",
+      "minutes": 5
+    },
+    {
+      "text": "Z cukrářského sáčku nebo lžící vytvaruj na plechu hromádky velikosti vlašského ořechu a mezi nimi nech místo.",
+      "minutes": 5
+    },
+    {
+      "text": "Peč 20–30 minut, dokud nezezlátnou.",
+      "minutes": 30
+    },
+    {
+      "text": "Nech větrníky vychladnout.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím v hrnci zahřej mléko, cukr a sůl k varu.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Pomalu vmíchej škrob smíchaný s vejcem do vroucího mléka a vař za stálého míchání 1–2 minuty.",
+      "minutes": 2
+    },
+    {
+      "text": "Odstav krém z ohně, vmíchej máslo a vanilku a nech vychladnout.",
+      "minutes": 15
+    },
+    {
+      "text": "Vychladlé větrníky naplň krémem.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí, porce = 1 větrník (1½ oz těsta na kus); pro 4 porce jsou 4 větrníky. Ve zdroji je tuk ztužený tuk (shortening) – v těstě nahrazen máslem, původní je v original. Voda, mouka, vejce a sůl v těstě zůstávají. Náplň: strana 49 odkazuje na Vanilla Cream (tištěná strana 385, PDF 393, „Cream Pie“ filling); zařadil jsem ji celou, v poměrech zdroje. Zdroj množství náplně na kus neuvádí – odhad 40 g krému na větrník (160 g pro 4 větrníky), suroviny krému odvozeny z tabulky 100 porcí (celková hmotnost směsi cca 21,2 kg). Proto je verified false. Nález bilance (86 g na porci vs. 43 g těsta na kus ve zdroji) je tím způsobem vysvětlen: těsto na porci je cca 46 g, náplň cca 40 g. Alternativní náplně zdroje: Chocolate Cream a Butterscotch Cream (tištěná strana 386). Sůl: 2 g do těsta, 0,3 g do krému.",
+  "source": {
+    "book": "navy-1944",
+    "page": 49,
+    "titleOriginal": "CREAM PUFFS AND ECLAIRS"
+  },
+  "verified": false,
+  "quote": "Add shortening to water. Heat to a vigorous boil."
+}

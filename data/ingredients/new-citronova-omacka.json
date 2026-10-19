@@ -1,0 +1,31 @@
+[
+  {
+    "id": "citronova-kura",
+    "name": "Citronová kůra (strouhaná)",
+    "aliases": [
+      "citronová kůra",
+      "strouhaná citronová kůra",
+      "lemon rind",
+      "lemon peel"
+    ],
+    "category": "ovoce",
+    "scaling": "aromatic",
+    "nutritionPer100g": {
+      "kcal": 47,
+      "protein": 1.5,
+      "carbs": 16,
+      "fat": 0.3,
+      "fiber": 10.6
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167749 (Lemon peel, raw)",
+      "refuse": "bez odpadu"
+    },
+    "units": {
+      "lzice": 6,
+      "lzicka": 2
+    }
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "id": "smazeny-lilek",
+  "title": "Smažený lilek",
+  "titleOriginal": "Fried Egg-Plants (Melanzane fritte)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "lilek",
+      "amount": 600,
+      "unit": "g",
+      "note": "bez slupky, asi 2 střední lilky",
+      "group": "Lilek"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "na vysolení; většina odejde se šťávou (vessel)",
+      "group": "Lilek",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g",
+      "note": "na obalení",
+      "group": "Obalení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 150,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na smažení, část zůstane v pánvi",
+      "group": "Smažení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "group": "Smažení",
+      "note": "nasáklý při smažení (odhad)",
+      "scaling": "fat"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Lilek zbav slupky a nakrájej na kostky.",
+      "minutes": 10
+    },
+    {
+      "text": "Kostky posol solí, polož je na talíř a nech několik hodin odstát, aby pustily šťávu."
+    },
+    {
+      "text": "Kostky osuš papírovou utěrkou, aby odešla šťáva.",
+      "minutes": 5
+    },
+    {
+      "text": "Kostky obal v hladké mouce.",
+      "minutes": 3
+    },
+    {
+      "text": "Na pánvi rozehřej olej a smaž kostky po dávkách dozlatova z obou stran.",
+      "minutes": 12
+    },
+    {
+      "text": "Vyndej je na papírovou utěrku, nech okapat a podávej."
+    }
+  ],
+  "modernNote": "Gentile neuvádí žádná množství, dávka je odhad pro 4 porce jako přílohu (150 g lilku na porci, bez slupky, asi 2 střední lilky). Mouka 40 g na obalení a olej 150 ml na smažení jsou odhady; část oleje zůstane v pánvi a na papíru. Sůl 5 g na vysolení, většina odejde se šťávou (vessel). Olej se slévá (vessel); nasáklý podíl asi 30 ml je zapsán zvlášť jako tuk v jídle (odhad). Solení a odstání kostek trvá několik hodin a není v timeMinutes. Zdroj říká „small or middle-sized“ lilky; velké mohou být hořké, proto doporučuji střední.",
+  "source": {
+    "book": "italian-1919",
+    "page": 79,
+    "titleOriginal": "Fried Egg-Plants (Melanzane fritte)"
+  },
+  "quote": "Small or middle-sized egg-plants are to be preferred, as the big ones have sometimes a slightly bitter taste.",
+  "verified": false
+}

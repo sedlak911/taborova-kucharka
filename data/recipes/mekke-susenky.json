@@ -1,0 +1,132 @@
+{
+  "id": "mekke-susenky",
+  "title": "Měkké sušenky s kandovaným ovocem",
+  "titleOriginal": "Soft Biscuits (Biscotti teneri)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 140,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "orechy",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "note": "zdroj 2 oz; část použij na zašlehání žloutků, zbytek do těsta"
+    },
+    {
+      "ingredientId": "bramborova-mouka",
+      "amount": 50,
+      "unit": "g",
+      "note": "zdroj „potato meal, a little less“ (méně než 2 oz); sušená bramborová mouka, ne škrob"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 115,
+      "unit": "g",
+      "note": "zdroj 4 oz (¼ lb)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "zdroj 3 vejce; žloutky a bílky zvlášť"
+    },
+    {
+      "ingredientId": "mandle-blansovane",
+      "amount": 45,
+      "unit": "g",
+      "note": "zdroj 1½ oz; loupané, podélně půlené"
+    },
+    {
+      "ingredientId": "kandovane-ovoce",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj 1 oz; kandovaný pomeranč nebo angelika, nakrájené na kostičky"
+    },
+    {
+      "ingredientId": "dzem",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj „fruit preserve“ 1 oz; nakrájený na kostičky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "na vymazání formy (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mandle rozpůl podélně a nech je na vzduchu nebo u tepla trochu vyschnout.",
+      "minutes": 10
+    },
+    {
+      "text": "Kandované ovoce a džem nakrájej na malé kostičky.",
+      "minutes": 5
+    },
+    {
+      "text": "Rozděl vejce na žloutky a bílky.",
+      "minutes": 2
+    },
+    {
+      "text": "Žloutky s cukrem a trochou mouky dlouho míchej, asi 30 minut, dokud je směs hladká.",
+      "minutes": 30
+    },
+    {
+      "text": "Bílky dobře vyšlehej a vmíchej do žloutkové směsi.",
+      "minutes": 5
+    },
+    {
+      "text": "Postupně přesej zbylou mouku a bramborovou mouku a zvolna vmíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej mandle, kandované ovoce a džem.",
+      "minutes": 2
+    },
+    {
+      "text": "Formu vymaž máslem a vysyp moukou, pak do ní nalij těsto.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč v troubě při 180 °C asi 30 minut, dokud není povrch světle zlatý.",
+      "minutes": 30
+    },
+    {
+      "text": "Nech vychladnout.",
+      "minutes": 30
+    },
+    {
+      "text": "Druhý den nakrájej na plátky silné asi 1,5 cm.",
+      "minutes": 10
+    },
+    {
+      "text": "Plátky můžeš z obou stran krátce opéct dozlatova, pokud chceš křupavější sušenky.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 184) uvádí jednu dávku: 2 oz mouky, o trochu méně bramborové mouky (potato meal), 4 oz cukru, 1½ oz mandlí, 1 oz kandovaného pomeranče nebo angeliky, 1 oz džemu a 3 vejce. Množství bereme jako dávku na 4 porce (celé těsto asi 450 g, tedy asi 110 g na porci, 2–3 malé sušenky). Odhady: bramborová mouka 50 g (zdroj „a little less“ než 2 oz), máslo 5 g na vymazání formy, teplota 180 °C (zdroj ji neuvádí). Zdroj mandle loupe a suší na slunci nebo u ohně; kupují se blanšírované, proto stačí je rozpůlit a vysušit. Kypřidlo zdroj neuvádí, nadýchání zajišťuje sníh z bílků, proto je do těsta nepřidáváme. Sušenky se pečou, po vychladnutí se nechají přes noc a krájí se až druhý den (zdroj), proto je tag pripravit-predem; čas přes noc se do timeMinutes nepočítá. Opékání plátků z obou stran je ze zdroje volitelné. Odhadovaných timeMinutes 140 zahrnuje 30minutové míchání, pečení a chladnutí. Kandované ovoce použito z katalogu (kandované ovoce, sdílená surovina).",
+  "source": {
+    "book": "italian-1919",
+    "page": 129,
+    "titleOriginal": "Soft Biscuits (Biscotti teneri)"
+  },
+  "verified": false,
+  "quote": "Pastry cooks usually leave them with the skin but it is much preferable to skin them."
+}

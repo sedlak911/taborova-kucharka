@@ -1,0 +1,92 @@
+{
+  "id": "sunka-dusena-s-hrebickem",
+  "title": "Šunka dušená s hřebíčkem",
+  "titleOriginal": "Ham Slices, Smothered (Overseas)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 760,
+      "unit": "g",
+      "note": "zámořská (overseas) šunka nahrazena šunkou bez kosti (60 lb s kostí ≈ 42 lb bez kosti), nakrájená na plátky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na trojí předvaření šunky, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "celý hřebíček (¼ oz ze zdroje, asi 7 kusů)"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 18,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 90,
+      "unit": "g",
+      "note": "suchá strouhanka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Plátky šunky ulož do pekáče, zalij vodou, přiveď k varu a sceď.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij studenou vodou, přiveď k varu a sceď.",
+      "minutes": 8
+    },
+    {
+      "text": "Zalij horkou vodou a 35–45 minut nech pomalu probublávat, pak sceď.",
+      "minutes": 45
+    },
+    {
+      "text": "Plátky polož do pekáče, posyp hřebíčkem, cukrem, cibulí a strouhankou a zalij mlékem.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč v troubě vyhřáté na 175 °C asi 45 minut, dokud povrch nezhnědne a nebude křupavý.",
+      "minutes": 45
+    }
+  ],
+  "modernNote": "Zdroj (PDF 148, tištěná 140) počítá 60 liber zámořské šunky na 100 porcí po 4–5 oz a variantu bez kosti neuvádí; číslo je z obrázku správně. Podle poměru 42 : 60 z PDF 145 a 147 je v receptu šunka bez kosti (42 lb = 762 g, na 4 porce 760 g), která odpovídá katalogové surovině sunka (původně 1090 g dávalo bilanci 3×). Zámořská šunka je silně solená, proto se třikrát vaří v čerstvé vodě a scedí (voda je domácí hodnota, slije se); u běžné méně solené šunky stačí jedno až dvě vaření a nesol. Hřebíček je celý (¼ oz = 0,46 g na 4 porce; Amounts 1½ tbsp ≈ 9–10 g, přednost má hmotnost); před podáváním ho vyjmi. Bilance ~1,9× proti porci 4–5 oz odpovídá úbytku šunky při trojím vaření a pečení. Pečení 300–350 °F, zvoleno 175 °C. Přepočet 60 → 42 lb je odvozen, proto verified false.",
+  "source": {
+    "book": "navy-1944",
+    "page": 148,
+    "titleOriginal": "HAM SLICES, SMOTHERED (Overseas)"
+  },
+  "verified": false,
+  "quote": "Place cloves, sugar, onions and bread crumbs over ham slices. Add milk."
+}

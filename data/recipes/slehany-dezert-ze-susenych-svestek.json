@@ -1,0 +1,77 @@
+{
+  "id": "slehany-dezert-ze-susenych-svestek",
+  "title": "Šlehaný dezert ze sušených švestek",
+  "titleOriginal": "Prune Whip",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "susene-svestky",
+      "amount": 50,
+      "unit": "g",
+      "note": "suché, bez pecek; zdroj uvařené švestky (Prunes, cooked, 125 g), sušené ≈ 0,4 uvařené hmotnosti (odhad)"
+    },
+    {
+      "ingredientId": "zelatinovy-dezert-prasek",
+      "amount": 50,
+      "unit": "g",
+      "note": "pomerančový ochucený prášek (Gelatin dessert, orange)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 35,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 210,
+      "unit": "ml",
+      "note": "vroucí na rozpuštění dezertu a studená; zdroj ¾ gal + 2½ qt, sloučeno do jednoho řádku"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Švestky zalij vodou a povař do měkka.",
+      "minutes": 20
+    },
+    {
+      "text": "Odstraň pecky a švestky nasekej nadrobno.",
+      "minutes": 5
+    },
+    {
+      "text": "Mezitím rozpusť želatinový dezert ve vroucí vodě, přidej cukr a míchej, dokud se nerozpustí.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Přidej studenou vodu a švestky a vychlaď, dokud nezačne houstnout.",
+      "minutes": 20
+    },
+    {
+      "text": "Vyšlehej v míse mixéru do husté a pěnivé hmoty.",
+      "minutes": 5
+    },
+    {
+      "text": "Vychlaď do ztuhnutí, nejméně 4 hodiny."
+    }
+  ],
+  "modernNote": "Zdroj používá uvařené švestky (6 lb 14 oz, pecky vyjmuty). Místo nich jsou sušené švestky bez pecek (≈ 0,4 hmotnosti uvařených, odhad podle běžné rehydratace); vaření v kroku 1 je modernizace. Voda z obou řádků zdroje (vroucí ¾ gal a studená 2½ qt) je sloučena do jednoho řádku, ať nevzniká 2× voda. Dezert je ochucený želatinový prášek (Jell-O typ), proto je zvlášť cukr 35 g. Časy kroků 4 a 6 jsou odhad: vychlazení do zhoustnutí 20 min, ztuhnutí alespoň 4 h (podle návodu na balení) je čekání mimo timeMinutes; tag pripravit-predem. Zdroj nepoužívá vejce. Podávání s odpařeným mlékem (str. 59) nebo vanilkovou omáčkou (str. 60) jsem nepřebral. Zdroj také dovoluje místo švestek 2½ lb (5 cups) sušených meruněk nebo ekvivalent ovocné šťávy místo vody.",
+  "source": {
+    "book": "navy-1944",
+    "page": 52,
+    "titleOriginal": "PRUNE WHIP"
+  },
+  "verified": false
+}

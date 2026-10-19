@@ -1,0 +1,116 @@
+{
+  "id": "teleci-fricasse",
+  "title": "Telecí fricassé",
+  "titleOriginal": "Veal Fricassee",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 165,
+  "difficulty": 1,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "teleci-maso-libove",
+      "amount": 640,
+      "unit": "g",
+      "note": "bez kosti; zdroj: Veal, boneless 35 lb (varianta bone-in 50 lb)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 45,
+      "unit": "ml",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 40,
+        "unit": "g"
+      },
+      "note": "na opečení masa; zdroj Bacon fat or other fat 3 lb, polovina (Add ½ the fat); 40 g sádla ÷ 0,92 g/ml ≈ 43 ml, zaokrouhleno na 45 ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "original": {
+        "ingredientId": "sadlo",
+        "amount": 25,
+        "unit": "g"
+      },
+      "note": "do jíšky; zbylá polovina tuku z 3 lb; moderně máslo",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 45,
+      "unit": "g",
+      "note": "zdroj: Flour 2 lb 8 oz (2½ qt)"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 450,
+      "unit": "ml",
+      "note": "zdroj: Meat Stock (page 216) = hovězí vývar, 3 gal; ponechán, ne voda"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 11,
+      "unit": "g",
+      "note": "zdroj: 6 oz (¾ cup); seasoning třída"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "zdroj: ½ oz (1¾ tbsp)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso nakrájej na kusy asi 4 až 5 cm.",
+      "minutes": 10
+    },
+    {
+      "text": "Na pánvi rozehřej tuk na opečení, přidej maso a opékej na plotně nebo v troubě vyhřáté na 200 °C asi 20 minut, dokud dobře nezhnědne.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím zbylý tuk rozetři s moukou na hladkou pastu.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Vývar přiveď k varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Pastu vmíchej do vývaru a za stálého míchání vař, dokud nezhoustne. Dochuť solí a pepřem.",
+      "minutes": 5
+    },
+    {
+      "text": "Omáčku nalij na maso a pánev pevně přikryj.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč přikryté v troubě na 150 °C 2 hodiny, dokud maso nezměkne.",
+      "minutes": 120
+    },
+    {
+      "text": "Hotové fricassé podávej s vařenou rýží nebo nudlemi."
+    }
+  ],
+  "modernNote": "Zdroj Navy 1944: Veal Fricassee, tištěná strana 151 (PDF 159). Výtěžek 100 porcí, porce zdroje cca 8 oz; pro 4 porce počítáno z 8 oz. Telecí maso bez kosti zvoleno z dvojice (bone-in 50 lb / boneless 35 lb). Tuk ze zdroje (3 lb) je podle postupu rozdělen: polovina na opečení (třída fat, sádlo nahrazeno řepkovým olejem), zbytek do jíšky (třída linear, máslo). Vývar ze zdroje (Meat Stock, s. 216 = hovězí vývar) zůstává, voda je jen alternativa. Sůl 6 oz (¾ cup) dává přes třídu seasoning 11 g na 4 porce (2,75 g/porci); doporučení ubrat na polovinu podle chuti. Teploty: 300 °F = 150 °C, 400 °F = 200 °C. Pečení 1½ až 2 hodiny, v receptu horní mez 2 hodiny. Podávání s rýží nebo nudlemi (strany 25 a 26) je jen doporučení ze zdroje, jejich suroviny do receptu nepřidávám. Varianta Pork Fricassee na stejné straně není zahrnuta. Chybělo: časy kroků na plotně a v troubě (u opékání je ve zdroji „about 20 minutes“, u pečení 1½ až 2 hodiny), jinak jsou minuty v krocích odhad; vývar je uveden jen v galonech.",
+  "source": {
+    "book": "navy-1944",
+    "page": 159,
+    "titleOriginal": "VEAL FRICASSEE"
+  },
+  "verified": true,
+  "quote": "Bake in slow oven (300°F.) 1½ to 2 hours or until tender."
+}

@@ -1,0 +1,100 @@
+{
+  "id": "parky-v-teste",
+  "title": "Párky v těstě",
+  "titleOriginal": "Frankfurters in Blankets",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "trouba",
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 90,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 12,
+      "unit": "g",
+      "note": "do těsta",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 12,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 90,
+      "unit": "ml",
+      "note": "část do těsta, zbytek do vaječné směsi",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "rozšlehaná, do vaječné směsi"
+    },
+    {
+      "ingredientId": "parky",
+      "amount": 8,
+      "unit": "ks",
+      "note": "2 ks na porci"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "na vymazání plechu",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    { "text": "Rozehřej troubu na 200 °C." },
+    { "text": "Prosej mouku s práškem do pečiva a solí.", "minutes": 3 },
+    { "text": "Vpracuj máslo do mouky na jemné drobenky.", "minutes": 4 },
+    { "text": "Přidej většinu mléka a zamíchej do měkkého těsta, zbytek mléka nech na vaječnou směs.", "minutes": 2 },
+    { "text": "Těsto rozválej na pomoučené ploše na tloušťku asi 6 mm a nakrájej na kusy, každý dost velký na jeden párek.", "minutes": 5 },
+    { "text": "Párky na rozpálené pánvi krátce opékej, dokud lehce nezhnědnou.", "minutes": 5 },
+    { "text": "Každý párek zabal do kusu těsta a navlhčené okraje dobře přitiskni k sobě.", "minutes": 3 },
+    { "text": "Vejce smíchej s mlékem.", "minutes": 1 },
+    { "text": "Plech vymaž olejem, polož na něj rolky a potři je vaječnou směsí.", "minutes": 2 },
+    { "text": "Peč asi 20 minut, dokud nezezlátnou.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj: Frankfurters in Blankets (tištěná str. 156, PDF 164). Těsto je z odkazu Biscuit Dough (tištěná str. 342, PDF 350), přepočteno úměrně: 10 lb těsta na 100 porcí. Podle zdroje se těsto dělá s poloviční dávkou tuku („½ as much fat“), proto je základ 14 lb mouky, 9 oz kypřidla, 2½ oz soli, 1 lb 12 oz tuku a 11 lb mléka (celkem asi 27,5 lb). Ztužený tuk je nahrazen máslem, původní hodnota je v original. Mléko ze zdroje (1⅔ cupu) je sloučeno s mlékem do těsta do jednoho řádku (90 ml). Párky 25 lb na 100 porcí dávají 8 ks na 4 porce (asi 57 g na kus, katalog má 50 g). Vejce 8 oz na 100 porcí = 0,2 ks na 4 porce (1 lb = 10 ks podle zdroje). Sůl je třídy seasoning, v těstě ji lze ubrat. Kroky přípravy těsta (prosít, vpracovat tuk, zamíchat s mlékem) jsou z odkazovaného receptu Biscuit Dough. Doporučená omáčka Tomato Sauce (tištěná str. 184) ani varianta s konzervovaným masem nejsou zahrnuty.",
+  "source": {
+    "book": "navy-1944",
+    "page": 164,
+    "titleOriginal": "FRANKFURTERS IN BLANKETS"
+  },
+  "verified": true,
+  "quote": "Roll 1 frankfurter in each piece of dough (blanket)."
+}

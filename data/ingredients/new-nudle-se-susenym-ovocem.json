@@ -1,0 +1,30 @@
+[
+  {
+    "id": "susene-ovoce-smes",
+    "name": "Sušené ovoce (směs jablek, hrušek a švestek)",
+    "aliases": [
+      "sušené ovoce",
+      "ovoce sušené",
+      "Backobst",
+      "mixed dried fruit"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 248,
+      "protein": 1.66,
+      "carbs": 66.49,
+      "fat": 0.44,
+      "fiber": 7.77
+    },
+    "units": {
+      "hrnek": 155
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "průměr tří USDA SR Legacy záznamů: fdc:171691 (Apples, dried, sulfured, uncooked), fdc:169121 (Pears, dried, sulfured, uncooked), fdc:168162 (Plums, dried (prunes), uncooked); směs 1:1:1, náhrada: Backobst = sušená jablka, hrušky a švestky",
+      "refuse": "bez odpadu (švestky bez pecek)"
+    }
+  }
+]

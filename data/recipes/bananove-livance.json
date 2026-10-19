@@ -1,0 +1,38 @@
+{
+  "id": "bananove-livance",
+  "title": "Banánové lívance",
+  "titleOriginal": "Banana Fritters",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 95, "unit": "g", "note": "včetně mouky na obalování banánů (ze zdroje 4 lb 4 oz + 1 lb)" },
+    { "ingredientId": "prasek-do-peciva", "amount": 5, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "cukr-krystal", "amount": 30, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "note": "ze zdroje 1 lb 4 oz; 1 lb = 10 ks, tedy 12,5 ks na 100 porcí" },
+    { "ingredientId": "mleko-polotucne", "amount": 65, "unit": "ml", "note": "ze zdroje 1¾ quartu (bez váhy)", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 7, "unit": "g", "note": "rozpuštěné", "scaling": "linear", "original": { "ingredientId": "ztuzeny-tuk", "amount": 7, "unit": "g" } },
+    { "ingredientId": "banan", "amount": 200, "unit": "g", "note": "jedlá část; z 17,5 lb nákupní váhy (střed rozsahu 15 až 20 lb) × 0,64" },
+    { "ingredientId": "repkovy-olej", "amount": 500, "unit": "ml", "note": "na hluboké smažení; odhad, zdroj uvádí jen „deep fat“", "scaling": "vessel" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý do lívanců (odhad)", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "V hlubokém hrnci rozehřej olej na 190 °C.", "minutes": 8 },
+    { "text": "Mezitím smíchej mouku, prášek do pečiva, sůl a cukr.", "minutes": 2, "parallel": true },
+    { "text": "Mezitím oloupej banány a nakrájej každý na 3 nebo 4 šikmé kusy.", "minutes": 5, "parallel": true },
+    { "text": "V jiné míse smíchej vejce, mléko a rozpuštěné máslo, pak vmíchej do suchých surovin, dokud těsto není hladké.", "minutes": 3 },
+    { "text": "Kousky banánu obal v mouce a pak je ponoř do těsta, aby byly celé obalené.", "minutes": 4 },
+    { "text": "Smaž po dávkách v horkém oleji 4 až 6 minut a často obracej, aby se rovnoměrně zhnědly.", "minutes": 10 },
+    { "text": "Vyjmi na papírovou utěrku a nech 1 až 2 minuty okapat.", "minutes": 2 },
+    { "text": "Podávej hned, nejlépe horké, se cukrem, skořicí nebo sirupem." }
+  ],
+  "modernNote": "Zdroj má 100 porcí (200 lívanců, 2 na porci). Banány: zdroj udává 15 až 20 lb a 50 až 65 ks, použit střed 17,5 lb nákupní váhy × 0,64 jedlé části (ediblePortion banánu), tj. 11,2 lb jedlých. Mouka zahrnuje i 1 lb mouky na obalování. Ztužený tuk (shortening) nahrazen rozpuštěným máslem, zdroj zůstává v original. Mléko je ze zdroje 1¾ quartu bez váhy (1 qt ≈ 946 ml). Vejce: 1 lb = 10 ks, na 4 porce 0,5 ks. Olej na smažení (500 ml) a nasáklý olej (30 ml) jsou odhady, zdroj uvádí jen „deep fat“ bez druhu. Sůl dána třídou seasoning podle pravidel, ve sladkém těstě ji lze snížit. Podávání se sirupem nebo citronovou omáčkou (strana 57) je jen návrh ze zdroje, odkazovaný recept nebyl zahrnut.",
+  "source": { "book": "navy-1944", "page": 80, "titleOriginal": "Banana Fritters" },
+  "verified": false
+}

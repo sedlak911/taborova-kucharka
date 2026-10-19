@@ -1,0 +1,33 @@
+{
+  "id": "posirovana-vejce",
+  "title": "Pošírovaná vejce",
+  "titleOriginal": "Poached Eggs",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "do hrnce na pošírování, slije se" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se (2 g na 1 l)" },
+    { "ingredientId": "ocet", "amount": 15, "unit": "ml", "scaling": "vessel", "note": "do vody na vaření, slije se (1 polévková lžíce na 1 l)" },
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "čerstvá, 2 vejce na porci (zdroj množství neuvádí)" }
+  ],
+  "steps": [
+    { "text": "V hrnci přiveď vodu k varu.", "minutes": 8 },
+    { "text": "Přidej sůl a ocet." },
+    { "text": "Vejce po jednom rozbij do šálku a opatrně je vklouzni do vody. Do vody vkládej jen tolik, aby volně plavala.", "minutes": 4 },
+    { "text": "Přikryj a nech vejce pomalu probublávat 3–5 minut, dokud bílek neztuhne a žloutek nebude zakrytý bílou blánou.", "minutes": 5 },
+    { "text": "Vyjmi děrovanou lžící a podávej hned." }
+  ],
+  "modernNote": "Zdroj (Navy 1944, s. 61 tištěná) pošírování dělá na pánvi s vroucí vodou, do které se přidá 1 čajová lžička soli a 1 polévková lžíce octa na quart vody; to je přesně postup v hrnci. Zdroj neuvádí množství vody ani vajec, proto je voda 1 l (domácí hodnota, slévá se), sůl 2 g na 1 l a ocet 15 ml na 1 l. Vajec je 8 (2 na porci, jako u smažených a zapékaných vajec na téže stránce); to je odhad. Zdroj pánev vymazává tukem; v hrnci s vodou je to zbytečné, proto vynecháno. Zdroj uvádí podávání na toastu, na špenátu nebo na hash; to je ponecháno jako doporučení.",
+  "source": {
+    "book": "navy-1944",
+    "page": 69,
+    "titleOriginal": "POACHED EGGS"
+  },
+  "verified": false,
+  "quote": "Break eggs, carefully, into a cup. Slip into water."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kure-saute",
+  "title": "Smažené kuře na másle",
+  "titleOriginal": "Chicken Sauté (Pollo saltato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1100, "unit": "g", "note": "mladé kuře, naporcované na šest kusů; s kostmi", "group": "Kuře" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "na obalení kousků", "group": "Obalení" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "na kousky a do vajec", "group": "Obalení" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "na kousky a do vajec", "group": "Obalení" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "note": "celé, rozšlehané s vodou", "group": "Obalení" },
+    { "ingredientId": "voda", "amount": 5, "unit": "ml", "note": "1 lžička, do vajec", "group": "Obalení" },
+    { "ingredientId": "strouhanka", "amount": 60, "unit": "g", "note": "na obalení kousků", "group": "Smažení" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "kus másla na smažení; část zůstane v pánvi", "group": "Smažení" },
+    { "ingredientId": "citron", "amount": 1, "unit": "ks", "note": "na podávání", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Mladé kuře rozporcuj na šest kusů: odstraň krk, zastřihni křidélka, odděl stehna a vyber část kostí.", "minutes": 10 },
+    { "text": "Kousky osol, opepři a obal v mouce.", "minutes": 3 },
+    { "text": "Vejce rozšlehej s troškou vody a vlož do něj kousky kuřete. Nech je v něm, dokud nepřijde čas na smažení.", "minutes": 3 },
+    { "text": "Kousky jeden po druhém vyjmi z vejce a obal ve strouhance.", "minutes": 5 },
+    { "text": "Na silném ohni rozpusť máslo na pánvi. Až začne hnědnout, vlož kousky kůží dolů.", "minutes": 3 },
+    { "text": "Až kousky zhnědnou z kožní strany, otoč je na druhou stranu a opékej asi deset minut celkem, dokud nejsou hotové.", "minutes": 10 },
+    { "text": "Podávej horké s citronem; dobré jsou i studené." }
+  ],
+  "modernNote": "Gentile neuvádí množství ani porce; jedno mladé kuře (naporcované na šest kusů) pokládám za 4 porce. Kuře 1 100 g s kostmi (asi 275 g na porci) je odhad z běžné praxe. Ze zdroje jsou: jedno vejce, jedna lžička vody, citron na podávání a máslo („a good piece of butter“). Odhady: mouka 40 g, strouhanka 60 g, sůl 5 g, pepř 1 g, máslo 50 g (část zůstane v pánvi). Smaží se na pánvi, ne v hlubokém tuku, proto je nasáklý tuk nízký; máslo hnědne rychle, takže pracuj na středně silném až silném ohni a hlídej, aby nepřipálilo. Čas 40 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 106,
+    "titleOriginal": "CHICKEN SAUTE' (Pollo saltato)"
+  },
+  "verified": false,
+  "quote": "The chicken prepared in this way is good also when cold."
+}

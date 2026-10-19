@@ -1,0 +1,96 @@
+{
+  "id": "liskooreskovy-pudink",
+  "title": "Lískooříškový pudink",
+  "titleOriginal": "PUDDING OF HAZELNUTS (Budino di nocciuole)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "orechy",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "liskove-orechy",
+      "amount": 115,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "oloupaná jádra; zdroj ½ lb pro 8 osob, nejspíš před loupáním, ale počítáno jako jádra"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 95,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "zdroj: o něco méně než ořechů"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 470,
+      "unit": "ml",
+      "group": "Pudink"
+    },
+    {
+      "ingredientId": "piskoty",
+      "amount": 150,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "zdroj: piškoty (lady fingers) nebo makronky, rozdrobené"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "group": "Pudink",
+      "note": "kousek do mléka a na vymazání formy (odhad)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Pudink",
+      "note": "rozdělit na žloutky a bílky"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 10,
+      "unit": "g",
+      "group": "Forma",
+      "note": "jemná, na vysypání formy"
+    }
+  ],
+  "steps": [
+    { "text": "Lískové ořechy zalij teplou vodou, oloupej je a dobře je osuš na slunci nebo u ohně.", "minutes": 10 },
+    { "text": "Oloupané ořechy s cukrem jemně umel.", "minutes": 5 },
+    { "text": "V hrnci zahřej mléko do varu.", "minutes": 5 },
+    { "text": "Vmíchej rozdrobené piškoty a kousek másla a nech je v mléce krátce provařit.", "minutes": 5 },
+    { "text": "Směs prolisuj sítem zpět do hrnce, přidej ořechy s cukrem a zahřívej, dokud se cukr nerozpustí.", "minutes": 5 },
+    { "text": "Nech krém vychladnout.", "minutes": 15 },
+    { "text": "Mezitím vymaž formu máslem a vysyp ji jemnou strouhankou.", "minutes": 3, "parallel": true },
+    { "text": "Postupně vmíchej žloutky a nakonec našlehané bílky.", "minutes": 5 },
+    { "text": "Směs nalij do formy, nesmí být plná až po okraj.", "minutes": 2 },
+    { "text": "Peč v troubě předehřáté na 180 °C, dokud pudink nezpevní.", "minutes": 40 },
+    { "text": "Vychladni úplně a před podáváním nech pudink v lednici alespoň čtyři hodiny." },
+    { "text": "Podávej studený." }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 182) udává dávku pro osm až deset osob; přepočteno na 8 osob, tedy 4 porce = polovina. Z ½ lb ořechů 115 g jader, z 1 quartu mléka 470 ml, z ⅔ lb piškotů 150 g, ze 6 vajec 3 ks (celá vejce, žloutky a bílky se oddělí). Cukr: zdroj ho uvádí jako „o něco méně než ořechů“, odhad 95 g. Máslo 15 g je odhad (kousek do mléka i na vymazání formy). Zdroj neuvádí čas ani teplotu pečení; 180 °C a 40 minut jsou odhad, pečení pozná propíchnutí. Zdroj říká podávat studený; čtyři hodiny v lednici jsou doplněné odhadem (proto tag pripravit-predem). Váha ořechů: zdroj říká „shell“, není jasné, zda ½ lb je s lupinami; počítáno jako jádra.",
+  "source": {
+    "book": "italian-1919",
+    "page": 128,
+    "titleOriginal": "PUDDING OF HAZELNUTS (Budino di nocciuole)"
+  },
+  "verified": false,
+  "quote": "Bake in the oven and serve cold."
+}

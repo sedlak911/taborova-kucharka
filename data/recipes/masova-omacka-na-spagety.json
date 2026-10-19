@@ -1,0 +1,45 @@
+{
+  "id": "masova-omacka-na-spagety",
+  "title": "Masová omáčka na špagety",
+  "titleOriginal": "Meat Sauce for Spaghetti",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "sadlo", "amount": 6, "unit": "g", "note": "slaninový tuk (bacon drippings), na osmahnutí" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 25, "unit": "g", "note": "nakrájený na kostičky" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "rozmačkaný" },
+    { "ingredientId": "hovezi-mlete", "amount": 360, "unit": "g" },
+    { "ingredientId": "zampiony", "amount": 25, "unit": "g", "note": "nakrájené na plátky" },
+    { "ingredientId": "petrzel-nat", "amount": 4, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "sul", "amount": 11, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 2, "unit": "g" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 350, "unit": "g", "note": "krájená, s nálevem" },
+    { "ingredientId": "rajcatova-stava", "amount": 110, "unit": "g" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 130, "unit": "g" },
+    { "ingredientId": "hovezi-vyvar", "amount": 75, "unit": "ml" }
+  ],
+  "steps": [
+    { "text": "Na sádle pomalu osmahni cibuli, celer a česnek dozlatova.", "minutes": 15 },
+    { "text": "Mezitím nakrájej houby na plátky a v jiné pánvi opékej mleté maso, dokud nezhnědne.", "minutes": 10, "parallel": true },
+    { "text": "Smíchej maso s cibulovou směsí ve velkém hrnci.", "minutes": 2 },
+    { "text": "Vmíchej petrželku, sůl, pepř a houby.", "minutes": 2 },
+    { "text": "Přidej rajčata, rajčatovou šťávu, protlak a vývar a dobře promíchej.", "minutes": 3 },
+    { "text": "Přiveď k varu.", "minutes": 8 },
+    { "text": "Nech na mírném ohni probublávat 3 hodiny za častého míchání.", "minutes": 180 }
+  ],
+  "modernNote": "Recept je jen omáčka; špagety jsou samostatný recept a zdroj je podává zvlášť (Combine with hot cooked spaghetti). Porce ze zdroje: ¾ až 1 šálek omáčky, pro 4 porce tedy 3–4 šálky. Slaninový tuk (bacon drippings) je nahrazen sádlem, které má stejnou funkci a koupí se. Odkaz na vývar (Beef Stock, page 216) je v tabulce přeškrtnutý, ale v postupu se používá: ½ galonu (1,9 l) na 100 porcí = 75 ml kupovaného hovězího vývaru pro 4 porce. Petrželka: ve zdroji ½ unce (14 g) proti 1 šálku nasekané (≈ 60 g); použit objem, který odpovídá běžnému poměru. Sůl je ve zdroji 6 unce na 100 porcí, tj. 11 g na 4 porce = 2,75 g soli na porci (nad doporučených 2,5 g). Hodnota odpovídá kartě, proto je ponechána; doporučení: ubrat na cca 8 g podle chuti. Česnek lze nahradit česnekovou solí (sůl pak ubrat, zdroj v poznámce 2). Vaření 3 hodiny je z parního kotle pro velké množství; na 4 porce omáčka zhoustne už po 1–1,5 hodině, ochutnej a podle hustoty ukonči. Rajčata v konzervě lze podle poznámky 1 zdroje nahradit další konzervou protlaku.",
+  "source": {
+    "book": "navy-1944",
+    "page": 122,
+    "titleOriginal": "MEAT SAUCE FOR SPAGHETTI"
+  },
+  "verified": false,
+  "quote": "Mix ingredients thoroughly."
+}

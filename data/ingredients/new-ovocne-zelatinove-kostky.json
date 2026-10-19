@@ -1,0 +1,32 @@
+[
+  {
+    "id": "zelatinovy-dezert-prasek",
+    "name": "Zelatinový dezert (prášek)",
+    "aliases": [
+      "želatinový dezert",
+      "ovocný želé prášek",
+      "gelatin dessert",
+      "jell-o",
+      "gelatin desserts, dry mix"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 381,
+      "protein": 7.8,
+      "carbs": 90.5,
+      "fat": 0,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 9
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:168775 (Gelatin desserts, dry mix)",
+      "units": "USDA tbsp = 9 g (fdc:169692 jako nejbližší hodnota)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

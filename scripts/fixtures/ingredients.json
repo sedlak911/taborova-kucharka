@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mouka", "name": "Mouka", "aliases": [], "category": "trvanlive", "scaling": "linear",
+    "nutritionPer100g": { "kcal": 360, "protein": 10, "carbs": 76, "fat": 1, "fiber": 3 },
+    "densityGPerMl": 0.55, "units": { "hrnek": 130, "lzice": 10 }, "ediblePortion": 1, "allergens": ["lepek"],
+    "sources": { "nutrition": "USDA" }
+  },
+  {
+    "id": "veprove", "name": "Vepřové maso", "aliases": [], "category": "maso", "scaling": "linear",
+    "nutritionPer100g": { "kcal": 240, "protein": 20, "carbs": 0, "fat": 17, "fiber": 0 },
+    "units": {}, "ediblePortion": 1, "allergens": [], "sources": { "nutrition": "USDA" }
+  },
+  {
+    "id": "vejce", "name": "Vejce", "aliases": [], "category": "mlecne-a-vejce", "scaling": "linear",
+    "nutritionPer100g": { "kcal": 143, "protein": 13, "carbs": 1, "fat": 10, "fiber": 0 },
+    "units": { "ks": 55 }, "ediblePortion": 0.88, "allergens": ["vejce"], "sources": { "nutrition": "USDA" }
+  },
+  {
+    "id": "sul", "name": "Sůl", "aliases": [], "category": "koreni", "scaling": "seasoning",
+    "nutritionPer100g": { "kcal": 0, "protein": 0, "carbs": 0, "fat": 0, "fiber": 0 },
+    "units": {}, "ediblePortion": 1, "allergens": [], "sources": { "nutrition": "USDA" }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": "jehneci-maso-vareno",
+    "name": "Jehněčí maso vařené",
+    "aliases": [
+      "jehněčí vařené",
+      "vařené jehněčí",
+      "uvařené jehněčí",
+      "lamb cooked"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 294,
+      "protein": 24.52,
+      "carbs": 0,
+      "fat": 20.94,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172480 (Lamb, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/4\" fat, choice, cooked)",
+      "refuse": "vařené maso bez kostí a tuku navíc (zdroj: cooked, cubed) → ediblePortion 1; USDA odpad 25 % (kost) se netýká vykostěného masa"
+    }
+  }
+]

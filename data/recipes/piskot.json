@@ -1,0 +1,104 @@
+{
+  "id": "piskot",
+  "title": "Piškot",
+  "titleOriginal": "Biscuit (Biscotto)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 8,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "rozdělit na žloutky a bílky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 130,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "9 oz (255 g) ze zdroje, přepočteno ×0,5",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "4 oz (113 g) ze zdroje, přepočteno ×0,5; předem usušená",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "bramborova-mouka",
+      "amount": 30,
+      "unit": "g",
+      "group": "Těsto",
+      "note": "potato meal, 2 oz (57 g) ze zdroje, přepočteno ×0,5; zdroj: předem osušená na slunci nebo na plotně",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Těsto",
+      "note": "jen strouhaná kůra; zdroj říká „taste of lemon peel“, množství odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "note": "studené máslo na vymazání formy; odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "note": "smíchaná s moučkovým cukrem na vysypání formy; odhad"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 5,
+      "unit": "g",
+      "group": "Forma",
+      "note": "smíchaný s moukou na vysypání formy; odhad"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 170 °C. Formu vymaž máslem a vysyp směsí mouky a moučkového cukru.", "minutes": 5 },
+    { "text": "Osuš mouku a bramborovou mouku na slunci nebo na suché pánvi na plotně.", "minutes": 5 },
+    { "text": "Vejce rozděl na žloutky a bílky. Žloutky s cukrem a strouhanou citronovou kůrou míchej dřevěnou lžící nejméně půl hodiny; přidej jen lžíci mouky a bramborové mouky.", "minutes": 30 },
+    { "text": "Mezitím ušlehej bílky do pevného sněhu.", "minutes": 8, "parallel": true },
+    { "text": "Bílky opatrně vmíchej do žloutkové směsi.", "minutes": 3 },
+    { "text": "Zbylou mouku s bramborovou moukou prosej přes síto na těsto a jemně vmíchej.", "minutes": 3 },
+    { "text": "Těsto nalij do formy zhruba do výšky čtyř centimetrů.", "minutes": 2 },
+    { "text": "Peč v troubě, dokud je povrch zlatavý a špejle vychází suchá.", "minutes": 35 },
+    { "text": "Vychladlý piškot vyklop z formy a nech ho úplně vychladnout." }
+  ],
+  "modernNote": "Zdroj uvádí suroviny pro jeden celý recept bez počtu porcí: 6 vajec, 9 oz (255 g) cukru, 4 oz (113 g) mouky, 2 oz (57 g) bramborové mouky. Dávka vychází na asi 8 porcí, proto je přepočtena ×0,5 na 4 porce (originalYield 8): 3 vejce, 130 g cukru, 55 g mouky, 30 g bramborové mouky. Odhady doplněné z praxe: strouhaná kůra asi z čtvrtiny citronu, 5 g másla, 5 g mouky a 5 g moučkového cukru na formu. Zdroj neuvádí teplotu ani dobu pečení (odhad: 170 °C a 35 minut, do zlatova a suché špejle) ani průměr formy (odhad: těsto zhruba čtyři centimetry vysoké). Míchání žloutků s cukrem je záměrně dlouhé (nejméně půl hodiny), jak zdroj předepisuje. Obě mouky se podle zdroje suší předem, proto je sušení před mícháním žloutků. Chladnutí se do času nepočítá. Doba 85 minut odpovídá nejdelší cestě bez chladnutí.",
+  "source": {
+    "book": "italian-1919",
+    "page": 135,
+    "titleOriginal": "BISCUIT (Biscotto)"
+  },
+  "verified": false,
+  "quote": "Stir for at least half an hour the yolks of the eggs with the sugar and a tablespoonful only of the flour and meal, using a ladle."
+}

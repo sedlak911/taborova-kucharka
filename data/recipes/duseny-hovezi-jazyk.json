@@ -1,0 +1,47 @@
+{
+  "id": "duseny-hovezi-jazyk",
+  "title": "Dušený hovězí jazyk",
+  "titleOriginal": "Stewed Beef Tongue (Lingua di bue in stufato)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 285,
+  "difficulty": 1,
+  "tags": ["pripravit-predem", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-jazyk-syrovy", "amount": 600, "unit": "g", "note": "celý, čerstvý; zdroj neuvádí váhu", "group": "Jazyk" },
+    { "ingredientId": "sul", "amount": 8, "unit": "g", "note": "suché solení na den; část se při blanšírování opláchne", "group": "Jazyk" },
+    { "ingredientId": "spek", "amount": 110, "unit": "g", "note": "zdroj 1/2 lb pro celý jazyk, zde úměrně; tenké plátky a proužky na našpikování", "group": "Základ" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "note": "zdroj 1/4 lb pro celý jazyk, zde úměrně", "group": "Základ" },
+    { "ingredientId": "sunka", "amount": 30, "unit": "g", "note": "1 tenký plátek", "group": "Základ" },
+    { "ingredientId": "cibule", "amount": 2, "unit": "ks", "note": "2 střední, na plátky", "group": "Základ" },
+    { "ingredientId": "hovezi-mlete", "amount": 100, "unit": "g", "note": "zdroj „chopped meat“ bez množství a druhu; odhad", "group": "Základ" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "note": "na poprášení jazyka", "group": "Základ" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1250, "unit": "ml", "note": "5 hrnků", "group": "Omáčka" },
+    { "ingredientId": "voda", "amount": 250, "unit": "ml", "note": "1 hrnek", "group": "Omáčka" },
+    { "ingredientId": "celer-rapikaty", "amount": 40, "unit": "g", "note": "ze svazku zeleniny", "group": "Omáčka" },
+    { "ingredientId": "mrkev", "amount": 40, "unit": "g", "note": "ze svazku zeleniny", "group": "Omáčka" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "note": "ze svazku zeleniny", "group": "Omáčka" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.3, "unit": "g", "note": "2–3 celé hřebíčky", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "spetka", "group": "Omáčka" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "spetka", "group": "Omáčka" }
+  ],
+  "steps": [
+    { "text": "Jazyk dobře osol a odlož do lednice na celý den." },
+    { "text": "Jazyk opař vroucí vodou, stáhni z něj kůži a našpikuj ho proužky slaniny.", "minutes": 15 },
+    { "text": "Na dno hrnce dej tenké plátky slaniny, máslo, plátek šunky a nakrájenou cibuli.", "minutes": 3 },
+    { "text": "Jazyk posyp moukou, obklaď ho mletým masem a polož na mírný oheň. Opékej, dokud jazyk nezačne hnědnout.", "minutes": 10 },
+    { "text": "Zalij vývarem a vodou, přidej svazek zeleniny, hřebíček, sůl, špetku pepře a špetku skořice.", "minutes": 5 },
+    { "text": "Přikryj hrnec a vař zvolna čtyři hodiny, dokud jazyk úplně nezměkne.", "minutes": 240 },
+    { "text": "Omáčku protlač sítem, jazyk nakrájej na plátky a podávej obojí horké.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj (Gentile, č. 156, tištěná s. 109) nepíše váhu jazyka ani počet porcí; suroviny jsou jen ve větách. Jazyk 600 g syrového (asi 150 g na porci, po odstranění kůže a chrupavky asi 500 g masa) je odhad z běžné praxe. Zdroj uvádí tuk na celý (velký) jazyk, proto je zde úměrně: slanina 110 g (zdroj 1/2 lb) a máslo 55 g (zdroj 1/4 lb); vývar 5 hrnků (1250 ml) a voda 1 hrnek (250 ml) jsou ze zdroje. Šunka 30 g (1 plátek; zdroj 1–2 plátky), cibule 2 ks (zdroj 2 střední), mouka 10 g (zdroj „poprášit moukou“, bez množství) a sůl 8 g (suché solení na den, část se opláchne) jsou odhady. Svazek zeleniny (celer, mrkev, petržel) je odhad 40 + 40 + 10 g. Zdroj říká „surround it with chopped meat“ bez určení druhu, zde je použito mleté hovězí 100 g jako odhad. Solení na 24 hodin je čekání bez času v timeMinutes (tag pripravit-predem). Doba dušení 4 hodiny je podle zdroje; timeMinutes 285 odpovídá dušení a krátkým krokům. Hřebíček a koření jsou jako špetky podle zdroje („a pinch“).",
+  "source": {
+    "book": "italian-1919",
+    "page": 113,
+    "titleOriginal": "STEWED BEEF TONGUE (Lingua di bue in stufato)"
+  },
+  "verified": false,
+  "quote": "The tongue begins to brown, pour five or six cups of soup stock and one cup of water."
+}

@@ -1,0 +1,82 @@
+{
+  "id": "bila-omacka-navy",
+  "title": "Bílá omáčka (smetanová)",
+  "titleOriginal": "Medium Cream or White Sauce",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 50,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "rozpuštěné",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 300,
+      "unit": "ml",
+      "note": "horké"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.4,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci ohřej mléko téměř do varu.",
+      "minutes": 5
+    },
+    {
+      "text": "Mezitím v jiném hrnci rozpusť máslo a vmíchej mouku do hladké jíšky.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Za rychlého míchání vmíchej jíšku do horkého mléka.",
+      "minutes": 2
+    },
+    {
+      "text": "Za stálého míchání vař, dokud omáčka nezhoustne.",
+      "minutes": 8
+    },
+    {
+      "text": "Dochuť solí a pepřem."
+    }
+  ],
+  "modernNote": "Zdroj: střední hustota (Medium Cream or White Sauce, pro zeleninu) z sloupce 1 gallon = 50 porcí, porce 1/4 cup (cca 2 oz). Přepočet z 1 gal (3,785 l) mléka na 4 porce: 300 ml mléka, 14 g mouky, 25 g másla, 3 g soli a 0,4 g pepře. Tuk ze zdroje „butter or other fat“ je máslo bez `original`. Bilance: 4 porce = 300 ml, tj. asi 75 ml na porci proti 60 ml ze zdroje, u hustých omáček v pořádku. Ostatní hustoty na 1 l mléka (tuk : mouka): řídká 60 g : 30 g, střední tlustší 120 g : 60 g, hustá 180 g : 90 g. Sloupec 5 gal dává tuk 10,8 oz na gal místo 12 oz (asi 10 % rozdíl), použit je sloupec 1 gal. Sůl 3 g na 4 porce je podle tabulky; na chuť ji lze ubrat.",
+  "source": {
+    "book": "navy-1944",
+    "page": 181,
+    "titleOriginal": "MEDIUM CREAM OR WHITE SAUCE"
+  },
+  "verified": true,
+  "quote": "Blend fat and flour to a smooth paste."
+}

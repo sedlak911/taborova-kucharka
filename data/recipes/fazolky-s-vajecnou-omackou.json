@@ -1,0 +1,111 @@
+{
+  "id": "fazolky-s-vajecnou-omackou",
+  "title": "Fazolky s vaječnou omáčkou",
+  "titleOriginal": "String Beans with Egg Sauce (Fagiuolini in salsa d'uovo)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "zelene-fazolky",
+      "amount": 450,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "zdroj „méně než libra“ před zastřižením konců a odstraněním nití"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "group": "Fazolky",
+      "note": "na částečné vaření fazolek, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "do vody na vaření, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "na opečení; zdroj uvádí jen „butter“, množství odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "na dochucení; odhad"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Fazolky",
+      "note": "na dochucení; odhad"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka",
+      "note": "1 lžička"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 12,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "šťáva z poloviny malého citronu"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 120,
+      "unit": "ml",
+      "group": "Omáčka",
+      "note": "půl šálku vychladlého vývaru zbaveného tuku"
+    }
+  ],
+  "steps": [
+    { "text": "Odřízni konce fazolek a odstraň nitě.", "minutes": 5 },
+    { "text": "Ve větším hrnci přiveď k varu mírně osolenou vodu a fazolky v ní částečně uvař.", "minutes": 13 },
+    { "text": "Fazolky vyjmi, sceď a osuš.", "minutes": 2 },
+    { "text": "Na pánvi rozpusť máslo, fazolky na něm opeč a dochuť solí a pepřem.", "minutes": 5 },
+    { "text": "Mezitím žloutek rozmíchej s moukou a šťávou z citronu.", "minutes": 2, "parallel": true },
+    { "text": "Přilij vychladlý vývar zbavený tuku a za stálého míchání zahřívej v malém hrnci, dokud omáčka nezhoustne jako krém.", "minutes": 5 },
+    { "text": "Omáčku nalij na fazolky a ještě krátce je drž na plotně, aby se prohřály a obalily.", "minutes": 3 },
+    { "text": "Podávej k vařenému hovězímu." }
+  ],
+  "modernNote": "Zdroj (Gentile) uvádí „méně než libru“ fazolek (450 g je zaokrouhleno z 1 libry, před zastřižením konců), jeden žloutek, lžičku mouky, šťávu z poloviny malého citronu (odhad 12 ml) a půl šálku vychladlého masového vývaru zbaveného tuku. Porce zdroj neuvádí; 450 g je pro 4 porce spíše méně (asi 110 g na porci), jako příloha k vařenému hovězímu stačí, pro větší porce navyšte na 600 g. Máslo 20 g a sůl 3 g (na dochucení) jsou odhady z běžné praxe, zdroj neuvádí množství. Vodu na částečné vaření (1 l, slévá se) a sůl do ní uvádíme jako domácí hodnoty. Vývar je masový, proto recept není bez masa; pro bezmasou variantu použijte zeleninový vývar. Vajíčko: stačí jen žloutek (1 ks). Čas 35 minut je odhad.",
+  "source": {
+    "book": "italian-1919",
+    "page": 75,
+    "titleOriginal": "STRING BEANS WITH EGG SAUCE (Fagiuolini in salsa d'uovo)"
+  },
+  "verified": false,
+  "quote": "The string beans so prepared can be served with boiled beef."
+}

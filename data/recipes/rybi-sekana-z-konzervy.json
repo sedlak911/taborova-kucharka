@@ -1,0 +1,114 @@
+{
+  "id": "rybi-sekana-z-konzervy",
+  "title": "Rybí sekaná z konzervy",
+  "titleOriginal": "Salmon or Tuna Loaf",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "ryby",
+    "mleko",
+    "vejce",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "losos-v-konzerve",
+      "amount": 220,
+      "unit": "g",
+      "note": "losos nebo tuňák z konzervy; hmotnost obsahu konzervy před scezením (12 lb = 12 plechovek)"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 30,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 19,
+      "unit": "ml",
+      "note": "tekutina z konzervy ze zdroje (1 pinta na 100 porcí)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 0.3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-omacka",
+      "amount": 1,
+      "unit": "g",
+      "note": "typ Tabasco"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 3,
+      "unit": "g",
+      "note": "nasekaná nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "rozpuštěné; ve zdroji máslo nebo jiný tuk"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 25,
+      "unit": "g",
+      "note": "měkké kostky"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 1,
+      "unit": "g",
+      "note": "nastrouhaná kůra"
+    },
+    {
+      "ingredientId": "citronova-stava",
+      "amount": 12,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 9,
+      "unit": "g",
+      "note": "rozšlehaný"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 12,
+      "unit": "g",
+      "note": "vyšlehaný na tuhý sníh"
+    }
+  ],
+  "steps": [
+    { "text": "Rybu sceď a tekutinu uschovej. Odstraň kosti a kůži a rybu rozmělni vidličkou.", "minutes": 5 },
+    { "text": "Mléko, uschovanou tekutinu z ryby, sůl, papriku, pálivou omáčku, cibuli a rozpuštěné máslo smíchej a přiveď k varu.", "minutes": 5 },
+    { "text": "Horkou směs nalij na chlebové kostky a dobře promíchej.", "minutes": 2 },
+    { "text": "Vmíchej rozmělněnou rybu, citronovou kůru, citronovou šťávu a žloutky.", "minutes": 3 },
+    { "text": "Zlehka vmíchej sníh z bílků a nalij do vymazané pečicí formy.", "minutes": 3 },
+    { "text": "Peč v troubě předehřáté na 165 °C 30 minut, nebo dokud směs neztuhne.", "minutes": 30 }
+  ],
+  "modernNote": "Množství jsou přepočtená z receptu na 100 porcí a vycházejí malá: asi 90 g hotové sekané na porci proti armádním 5 oz (140 g), protože míry ve zdroji jsou přibližné. Na hlavní jídlo počítej spíš dvojnásobek. Ze zdroje: případná další tekutina z ryby nahradí stejné množství rozpuštěného tuku. Zdrojová varianta Salmon Croquettes (smažené krokety) je vynechána.",
+  "source": {
+    "book": "navy-1944",
+    "page": 92,
+    "titleOriginal": "SALMON OR TUNA LOAF"
+  },
+  "verified": true
+}

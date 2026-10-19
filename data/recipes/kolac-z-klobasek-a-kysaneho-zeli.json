@@ -1,0 +1,129 @@
+{
+  "id": "kolac-z-klobasek-a-kysaneho-zeli",
+  "title": "Koláč z klobásek a kysaného zelí",
+  "titleOriginal": "Pork Sausage Links and Sauerkraut Pie",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-klobasa-syrova",
+      "amount": 454,
+      "unit": "g",
+      "note": "celé klobásky"
+    },
+    {
+      "ingredientId": "kysele-zeli",
+      "amount": 907,
+      "unit": "g",
+      "note": "konzervované kysané zelí, bez úpravy"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 76,
+      "unit": "ml",
+      "note": "horká, zalije zelí"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "note": "na lehké posypání zelí (odhad, zdroj bez váhy)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 52,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.94,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 13,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do těsta, studené; zdroj ztužený tuk (shortening)",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 13,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 41,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "do těsta"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 200 °C."
+    },
+    {
+      "text": "Klobásky opékej na rozpálené pánvi 12 minut, průběžně je otáčej, aby zhnědly rovnoměrně.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím přiveď kysané zelí k varu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím připrav těsto: suché suroviny prosej, vpracuj do nich máslo na jemné drobení, přidej mléko a lehce vypracuj do měkkého těsta.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Rozprostři první vrstvu zelí na dno zapékací mísy a lehce ji posyp moukou. Přidej druhou vrstvu zelí a také ji lehce posyp moukou.",
+      "minutes": 3
+    },
+    {
+      "text": "Na zelí polož horké klobásky a zalij je horkou vodou.",
+      "minutes": 2
+    },
+    {
+      "text": "Rozválej těsto na tloušťku asi 6 mm a přikryj jím náplň.",
+      "minutes": 10
+    },
+    {
+      "text": "Peč v troubě 30 minut, dokud těsto nezhnědne.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí. Klobásy 25 lb a kysané zelí 50 lb (8 konzerv No. 10) jsou z vážení a přepočteny nástrojem. Porce zdroje je „approx. 6 ounces“, ale součet vážení (75 lb plnění na 100 porcí = asi 12 oz na porci) je s ní v rozporu zhruba 2×; použita vážení, takže 4 porce vycházejí asi 390 g místo 170 g. Pokud chceš porci 170 g, zmenši všechna množství na polovinu. Těsto: zdroj odkazuje na „Biscuit Dough (page 342)“ (PDF 350), kde je 14 lb mouky, 9 oz prášku, 2½ oz soli, 3½ lb ztuženého tuku a 11 lb mléka na 29¼ lb těsta; zdroj váhu těsta pro tento koláč neuvádí, proto odhad 6 lb na 100 porcí (víčko asi 6 mm přes plochu pekáčů s 75 lb plnění) a suroviny podle poměru z téže karty (str. 342 = PDF 350, čísla z obrázku; váha těsta 6 lb je jediný odhad, zdroj ji neuvádí). Ztužený tuk je v original, modernizace máslo. Mouka na posypání (1 lb na 100 porcí) je odhad, zdroj uvádí jen „lightly“. Zelí je kyselé a solené, proto sůl do plnění nepřidáván; sůl je jen v těstě. Zdroj doporučuje podávat s batáty nebo nudlemi (odkazovaný recept nebyl zahrnut).",
+  "source": {
+    "book": "navy-1944",
+    "page": 154,
+    "titleOriginal": "PORK SAUSAGE LINKS AND SAUERKRAUT PIE"
+  },
+  "verified": false,
+  "quote": "Place hot sausage links on top of sauerkraut."
+}

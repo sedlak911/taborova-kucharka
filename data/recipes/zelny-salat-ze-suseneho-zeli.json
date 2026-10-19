@@ -1,0 +1,94 @@
+{
+  "id": "zelny-salat-ze-suseneho-zeli",
+  "title": "Zelný salát ze sušeného zelí",
+  "titleOriginal": "Cole Slaw (dehydrated)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 225,
+      "unit": "g",
+      "note": "čerstvé, nakrájené nadrobno (jedlá hmotnost ≈ 5× sušené zelí)",
+      "original": {
+        "ingredientId": "zeli-susene",
+        "amount": 45,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "čerstvá, nakrájená nadrobno (≈ 5× sušená cibule)",
+      "original": {
+        "ingredientId": "cibule-susena",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "do zálivky"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 95,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "do zálivky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nakrájej nadrobno.",
+      "minutes": 3
+    },
+    {
+      "text": "V míse smíchej cibuli, sůl, pepř a ocet.",
+      "minutes": 2
+    },
+    {
+      "text": "Nech stát 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím zelí nakrájej nadrobno.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Zelí přidej k cibulové zálivce a dobře promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej studené."
+    }
+  ],
+  "modernNote": "Zdroj používá sušené zelí (2 lb 8 oz na 100 porcí) a sušenou cibuli (1 lb), které se před použitím rehydratují ve vodě (2¼ gal na zelí, ½ gal na cibuli); voda se slévá, proto ji v modernizaci nepočítám (stejně jako u sušených jablek). Poměr ×5 není ze zdroje, ale odhad (proto verified false). Moderně použito čerstvé zelí a cibule v hmotnosti ×5 sušené hodnoty, rehydratace odpadá. Sušené zelí (zeli-susene) a sušená cibule (cibule-susena) jsou v `original`; makra sušeného zelí jsou odhad z čerstvého zelí × 5 (USDA dehydrated cabbage v indexu chybí). Porce zdroje je 4 oz (cca ⅔ cupu, čteno z obrázku). Sůl 7½ oz na 100 porcí dává přes třídu seasoning 14 g na 4 porce (3,5 g na porci) – doporučení ubrat sůl na polovinu. Zálivka: ocet 2½ qt (odměřeno objemem, hmotnost nebyla uvedena; zálivka zůstává v salátu, proto třída linear), sůl, pepř a cibule podle zdroje. Nález 28 kcal na porci (pod 50) je u zeleninové přílohy očekávaný, nejde o chybu.",
+  "source": {
+    "book": "navy-1944",
+    "page": 197,
+    "titleOriginal": "COLE SLAW (Using dehydrated cabbage)"
+  },
+  "verified": false
+}

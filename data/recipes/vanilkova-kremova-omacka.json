@@ -1,0 +1,71 @@
+{
+  "id": "vanilkova-kremova-omacka",
+  "title": "Vanilková krémová omáčka",
+  "titleOriginal": "Custard Sauce",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "sladke",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 230,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.55,
+      "unit": "ks",
+      "note": "lehce rozšlehaná; zdroj 1 lb 8 oz, na 4 porce 0,55 ks"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    { "text": "Přiveď mléko v hrnci k varu.", "minutes": 5 },
+    { "text": "Mezitím v misce důkladně smíchej škrob, cukr a sůl.", "minutes": 2, "parallel": true },
+    { "text": "Suchou směs za stálého míchání vmíchej do horkého mléka a vař 10 minut, často míchej.", "minutes": 10 },
+    { "text": "Rychle vmíchej rozšlehaná vejce a vař ještě 1 minutu.", "minutes": 1 },
+    { "text": "Sundej z ohně, nech zchladnout na 70 °C a vmíchej vanilku.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj počítá na 100 porcí (1½ gal mléka, vaření 30 minut v parním kotli). Na 4 porce vychází 230 ml mléka; vaření zkrácen na 10 minut za častého míchání (odhad podle zhoustnutí malého množství, zdrojových 30 minut neber doslova). Porce zdroje je 4 polévkové lžíce (2 oz), tedy 4 porce = 4 porce omáčky. Zdroj uvádí 15 vajec na 100 porcí a 1 lb 8 oz; použita hmotnost, 0,55 ks (počet kusů 15 odpovídá asi 45 g vejce). Vejce vmíchej rychle a neustále míchej, aby se nesrazila. Omáčku podávej teplou nebo studenou k pudinku, zmrzlině nebo rýži. Sůl 0,12 g na porci je u sladké omáčky záměrně nízká (zdroj ¼ oz na 100 porcí); check:recipe ji hlásí jako mimo rozsah, ponechávám jako doporučení.",
+  "source": {
+    "book": "navy-1944",
+    "page": 64,
+    "titleOriginal": "CUSTARD SAUCE"
+  },
+  "verified": true,
+  "quote": "Stir in eggs rapidly. Cook 1 minute longer."
+}
