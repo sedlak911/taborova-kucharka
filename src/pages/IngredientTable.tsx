@@ -1,4 +1,5 @@
 import type { ReactNode } from 'react'
+import { BOOK_META } from '@/content/books'
 import { effectiveLine, onePersonScale, persons, recipeScale, type Portions } from '@/domain/portions'
 import { scaleLine } from '@/domain/scaling'
 import type { Ingredient, IngredientLine, Recipe } from '@/domain/types'
@@ -73,7 +74,7 @@ export function IngredientTable({ recipe, ingredients, portions, historical, per
       <table className="ingredient-table">
         <thead>
           <tr>
-            <th scope="col">Surovina</th>
+            <th scope="col">{BOOK_META[recipe.source.book].headings?.ingredient ?? 'Surovina'}</th>
             <th scope="col">{`Pro ${peopleLabel(portions.people.adults + portions.people.children)}${multiplier > 1 ? ` ×${multiplier}` : ''}`}</th>
             {perPerson && <th scope="col" className="ingredient-per-person">{perPersonLabel}</th>}
           </tr>

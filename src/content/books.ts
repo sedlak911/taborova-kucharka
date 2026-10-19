@@ -9,6 +9,8 @@ export interface BookMeta {
   era: string
   shortTitle: string
   description: string
+  /** Názvy oddílů receptu, jak je používá kniha (výchozí „Postup“ a „Surovina“). */
+  headings?: { steps?: string; ingredient?: string }
 }
 
 export const BOOK_META: Record<Book, BookMeta> = {
@@ -80,6 +82,7 @@ export const BOOK_META: Record<Book, BookMeta> = {
     year: 1983,
     era: 'receptury-1983',
     shortTitle: 'Receptury 1983',
+    headings: { steps: 'Výrobní postup', ingredient: 'Druh potravin' },
     description: 'Závazný soubor receptur pro restaurace a závodní jídelny, který vydalo ministerstvo obchodu ČSR (4. vydání, 1983). Každá receptura má číslo, výtěžek pro 10 porcí, hmotnosti surovin hrubé, odpad a čisté v gramech a popis, jak má hotový pokrm vypadat a chutnat.',
   },
   vlastni: {

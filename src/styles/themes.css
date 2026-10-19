@@ -159,27 +159,58 @@
 .era--army-baker-1945 hr,
 .era--army-baker-1945 .rule { border: 0; border-top: var(--rule); }
 
-/* ---------- Receptury 1983: státní normativ – nažloutlý papír, červená a žlutá, groteska ---------- */
+/* ---------- Receptury 1983: státní normativ Merkuru – šedavý recyklovaný papír s vlákny, černý tisk,
+   timesovka, groteskové záhlaví „11002 — NÁZEV“, tabulka jen z linek, fialové razítko jídelny ---------- */
 .era--receptury-1983 {
-  --paper: #f6eecb;
-  --paper-dark: #ebdfa8;
-  --ink: #1f1a17;
-  --ink-soft: #4d443b;
-  --accent: #b3261e;
-  --swatch: #b3261e;
+  --paper: #e6e1cf;
+  --paper-dark: #d6d0b9;
+  --ink: #1d1c1a;
+  --ink-soft: #46443e;
+  --accent: #9b1c1c;
+  --swatch: #9b1c1c;
+  --stamp: #4a3f8f;
   --rule: 1px solid var(--ink);
-  font-family: 'Archivo Narrow', var(--font-table);
+  font-family: 'Tinos', 'Times New Roman', serif;
+}
+/* levný recyklovaný papír: zesvětlená CC0 textura (vlákna, skvrny) násobená přes --paper, okraje zešedlé.
+   Zdroj textury viz src/assets/paper/CREDITS.md. */
+.page.era--receptury-1983 {
+  background-image:
+    radial-gradient(ellipse at center, transparent 60%, rgba(70, 66, 50, 0.16) 100%),
+    url('../assets/paper/recyklat-1983.webp');
+  background-size: auto, 512px 512px;
+  background-blend-mode: normal, multiply;
 }
 .era--receptury-1983 h1,
 .era--receptury-1983 h2,
-.era--receptury-1983 h3 { font-family: 'Archivo Black', var(--font-table); font-weight: 400; text-transform: uppercase; letter-spacing: 0.03em; }
-/* titul jako hlavička receptury: červený nápis, žlutý proužek s číslem normy po levé straně */
-.era--receptury-1983 .recipe-head h2 { color: var(--accent); border-left: 0.45em solid #f2c230; padding-left: 0.35em; }
-.era--receptury-1983 .recipe-head { border-bottom: 3px solid var(--accent); padding-bottom: 0.3em; }
-.era--receptury-1983 table { border-collapse: collapse; width: 100%; border-top: 3px solid var(--accent); border-bottom: var(--rule); }
-.era--receptury-1983 th { background: #f2c230; color: var(--ink); }
+.era--receptury-1983 h3 { font-family: 'Libre Franklin', var(--font-table); font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+/* záhlaví receptury jako v knize: silná linka nad, číslo normy před názvem */
+.era--receptury-1983 .recipe-head { border-top: 2px solid var(--ink); border-bottom: 1px solid var(--ink); padding: 0.35em 0 0.25em; }
+.era--receptury-1983 .recipe-head h2 { font-size: 1.3rem; font-weight: 800; letter-spacing: 0.02em; }
+.era--receptury-1983 .recipe-head h2[data-code]::before { content: attr(data-code) ' — '; color: var(--accent); }
+.era--receptury-1983 .recipe-head::before { content: 'Receptury teplých pokrmů · 4. vydání'; display: block; margin-bottom: 0.3em; font-family: 'Libre Franklin', var(--font-table); font-size: 0.62rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--ink-soft); }
+/* „Výrobní postup:“ jako v knize – tučná groteska malým písmem, ne velké záhlaví */
+.era--receptury-1983 .recipe-page h3 { font-size: 0.95rem; text-transform: none; letter-spacing: 0; }
+.era--receptury-1983 .recipe-page h3::after { content: ':'; }
+.era--receptury-1983 table { border-collapse: collapse; width: 100%; font-family: 'Tinos', 'Times New Roman', serif; border-top: 1px solid var(--ink); border-bottom: 1px solid var(--ink); }
+.era--receptury-1983 thead th { font-family: 'Libre Franklin', var(--font-table); font-size: 0.8em; font-weight: 700; border-bottom: 1px solid var(--ink); }
+.era--receptury-1983 tbody th { font-weight: 700; font-style: normal; padding-top: 0.5em; }
 .era--receptury-1983 td,
-.era--receptury-1983 th { padding: 0.2em 0.4em; text-align: left; border-bottom: 1px solid rgba(31, 26, 23, 0.25); }
+.era--receptury-1983 th { padding: 0.15em 0.4em; text-align: left; background: none; }
+.era--receptury-1983 hr,
+.era--receptury-1983 .rule { border: 0; border-top: var(--rule); }
+/* razítko závodní jídelny pod postupem: fialová razítková barva, dvojitý rámeček, mírně natočené a otřelé */
+.era--receptury-1983 .source::after {
+  content: 'ODZKOUŠENO\A ZÁVODNÍ JÍDELNA\A ———\A Kontroloval: ……………';
+  display: block; width: max-content; margin: 1.2em 0.6em 0.4em auto; padding: 0.35em 0.8em;
+  white-space: pre; text-align: center; line-height: 1.25;
+  font-family: 'Libre Franklin', var(--font-table); font-weight: 700; font-size: 0.72rem; font-style: normal; letter-spacing: 0.1em;
+  color: var(--stamp); border: 2px solid var(--stamp); outline: 1px solid var(--stamp); outline-offset: 2px; border-radius: 3px;
+  transform: rotate(-6deg); opacity: 0.78; mix-blend-mode: multiply;
+  /* otřelý otisk: maska ze šumu ubere barvu na náhodných místech */
+  -webkit-mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='m'><feTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='2' seed='3'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.6 2.2'/></filter><rect width='100%' height='100%' filter='url(%23m)'/></svg>");
+  mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='120' height='120'><filter id='m'><feTurbulence type='fractalNoise' baseFrequency='0.7' numOctaves='2' seed='3'/><feColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.6 2.2'/></filter><rect width='100%' height='100%' filter='url(%23m)'/></svg>");
+}
 
 /* ---------- AFRS 2003 ---------- */
 .era--afrs-2003 {

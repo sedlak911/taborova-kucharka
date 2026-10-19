@@ -348,3 +348,20 @@ describe('Stopky nad postupem (R3)', () => {
     expect(screen.queryByRole('group', { name: 'Stopky' })).toBeNull()
   })
 })
+
+describe('názvy oddílů podle knihy', () => {
+  const svickova = recipes.find((r) => r.id === 'svickova-na-smetane')!
+
+  it('Receptury 1983: „Výrobní postup“, „Druh potravin“ a číslo receptury u názvu', () => {
+    setupSingle({ recipe: svickova })
+    expect(screen.getByRole('heading', { name: 'Výrobní postup' })).toBeInTheDocument()
+    expect(screen.getByRole('columnheader', { name: 'Druh potravin' })).toBeInTheDocument()
+    expect(screen.getByRole('heading', { name: 'Svíčková na smetaně', level: 2 })).toHaveAttribute('data-code', '11002')
+  })
+
+  it('ostatní knihy: výchozí „Postup“ a „Surovina“', () => {
+    setupSingle()
+    expect(screen.getByRole('heading', { name: 'Postup' })).toBeInTheDocument()
+    expect(screen.getByRole('columnheader', { name: 'Surovina' })).toBeInTheDocument()
+  })
+})

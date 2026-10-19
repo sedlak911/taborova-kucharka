@@ -40,7 +40,8 @@ function RecipeInfo({ recipe, ingredients, portions, historical, onEdit, onDelet
   return (
     <>
       <header className="recipe-head">
-        <h2>{recipe.title}</h2>
+        {/* číslo receptury ze zdroje: epocha ho může ukázat před názvem (Receptury 1983: „11002 — …“) */}
+        <h2 data-code={recipe.source.code}>{recipe.title}</h2>
       </header>
       {original && <small className="recipe-original-title">{original}</small>}
       {(onEdit || onDelete) && (
@@ -90,7 +91,7 @@ function RecipeMethod({ recipe, runningHead }: { recipe: Recipe; runningHead: bo
   return (
     <>
       {runningHead && <h2 className="recipe-running-head">{recipe.title}</h2>}
-      <h3>Postup</h3>
+      <h3>{BOOK_META[recipe.source.book].headings?.steps ?? 'Postup'}</h3>
       {timed && (
         <StepStopwatch
           elapsedSeconds={stopwatch.elapsedSeconds}
