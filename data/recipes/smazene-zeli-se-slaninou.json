@@ -1,0 +1,84 @@
+{
+  "id": "smazene-zeli-se-slaninou",
+  "title": "Smažené zelí se slaninou",
+  "titleOriginal": "Fried Cabbage with Bacon",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 360,
+      "unit": "g",
+      "note": "nakrájené na nudličky; Weight zdroje je jedlá část, katalogový ediblePortion se nepoužije"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 35,
+      "unit": "g",
+      "note": "syrová slanina (BACON,RAW 2 lb); opečená, scezená a rozdrobená"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "zdroj 12 oz máslo, margarín nebo olej; zůstává v jídle"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "dosolit podle chuti"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "čerstvě mletý"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slaninu opékej na pánvi dokřupava. Vyjmi ji, scedi tuk a rozdrob.",
+      "minutes": 10
+    },
+    {
+      "text": "Zelí rozděl na dvě stejné části.",
+      "minutes": 2
+    },
+    {
+      "text": "Na pánvi rozehřej polovinu másla, přidej první část zelí a za častého míchání restuj 10 minut, dokud nezměkne. Dej pozor, aby nepřipálilo.",
+      "minutes": 12
+    },
+    {
+      "text": "Přidej polovinu slaniny, osol a opepři.",
+      "minutes": 2
+    },
+    {
+      "text": "Stejným způsobem zpracuj druhou část zelí se zbylým máslem a slaninou. Osol a opepři.",
+      "minutes": 12
+    }
+  ],
+  "modernNote": "Karta smaží na plotně 325 °F (cca 165 °C) po dávkách; doma stačí pánev na středním ohni. Zelí 20 lb je ve zdroji už jedlá hmotnost (shredded, Weight), proto bez ediblePortion. Slanina 2 lb je syrová hmotnost; tuk vyškvařený a slitý v kroku 1 se v gramáži neodečítá. Máslo 12 oz zůstává v jídle. Kalorie vycházejí 91 proti 61 na kartě: karta zjevně počítá slaninu po vyškvaření a slití tuku, zatímco katalog počítá syrovou. Gramáž je přesně ze zdroje, proto verified. Sůl 5/8 oz dává jen 1 g na 4 porce; jako příloha dosol podle chuti. Zdroj dělí zelí na dvě dávky po 10 lb, doma také na dvě půlky.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1500,
+    "code": "Q 012 02",
+    "titleOriginal": "FRIED CABBAGE WITH BACON"
+  },
+  "verified": true,
+  "quote": "Cook bacon until crisp; drain; crumble bacon."
+}

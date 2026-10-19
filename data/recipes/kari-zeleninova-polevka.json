@@ -1,0 +1,39 @@
+{
+  "id": "kari-zeleninova-polevka",
+  "title": "Kari zeleninová polévka",
+  "titleOriginal": "Curried Vegetable Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "zeleninovy-vyvar", "amount": 610, "unit": "ml", "note": "ze 4 galonů zeleninového vývaru; z bujónu podle návodu na obalu" },
+    { "ingredientId": "voda", "amount": 190, "unit": "ml", "note": "zůstává v polévce" },
+    { "ingredientId": "cibule", "amount": 110, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "brambory", "amount": 55, "unit": "g", "note": "oloupané, na kostičky" },
+    { "ingredientId": "celer-rapikaty", "amount": 25, "unit": "g", "note": "nakrájený na plátky" },
+    { "ingredientId": "ryze-hneda", "amount": 25, "unit": "g", "note": "dlouhozrnná, předvařená (parboiled)" },
+    { "ingredientId": "kari-koreni", "amount": 2, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "petrzel-susena", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "tymian-susity", "amount": 0.11, "unit": "g", "note": "zdroj uvádí jen „méně než 1/16 oz“ (horní mez 1,8 g na 100 porcí)" },
+    { "ingredientId": "hrasek-mrkev-mrazena", "amount": 70, "unit": "g", "note": "mražené, přidat na konci" },
+    { "ingredientId": "kvetak", "amount": 35, "unit": "g", "note": "mražený; v katalogu čerstvý, makra shodná" }
+  ],
+  "steps": [
+    { "text": "Připrav zeleninový vývar podle návodu na obalu bujónu a dej ho do hrnce.", "minutes": 5 },
+    { "text": "Mezitím nakrájej cibuli, brambory a celer na kostičky a plátky.", "minutes": 5, "parallel": true },
+    { "text": "Do vývaru přidej vodu, cibuli, brambory, celer, kari, česnekový prášek, petrželku, pepř a tymián. Zamíchej a přiveď k varu.", "minutes": 8 },
+    { "text": "Přidej rýži, zamíchej, sniž teplotu a vař 30 až 35 minut, dokud rýže nezměkne.", "minutes": 35 },
+    { "text": "Přidej hrášek s mrkví a květák, přiveď k varu a 5 minut povař.", "minutes": 5 }
+  ],
+  "modernNote": "Porce 1 hrnek (cca 250 ml) odpovídá 4 porcím zhruba 280 ml hotové polévky. Vývar z bujónu nahrazuje velkokuchyňský vývar; zeleninová směs a květák jsou z mrazáku, jak je v kartě. Koření (kari, pepř, tymián) dochuť podle chuti, zdroj neuvádí sůl.",
+  "source": { "book": "afrs-2003", "page": 1452, "code": "P 028 00", "titleOriginal": "CURRIED VEGETABLE SOUP" },
+  "verified": true,
+  "quote": "Add peas, carrots and cauliflower, bring to a boil; simmer 5 minutes."
+}

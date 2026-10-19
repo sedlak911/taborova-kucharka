@@ -1,0 +1,38 @@
+{
+  "id": "spagety-s-mletym-masem-a-zeleninou",
+  "title": "Špagety s mletým masem a zeleninou",
+  "titleOriginal": "Hamburger Yakisoba (Ground Beef)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja"],
+  "ingredients": [
+    { "ingredientId": "testoviny", "amount": 110, "unit": "g", "note": "špagety, suché", "group": "Špagety" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření špaget, slije se; domácí hodnota 1 l na 100 g těstovin", "group": "Špagety", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se", "group": "Špagety", "scaling": "vessel" },
+    { "ingredientId": "hovezi-mlete-90", "amount": 540, "unit": "g", "note": "90 % libové, syrové", "group": "Omáčka" },
+    { "ingredientId": "paprika-zelena", "amount": 95, "unit": "g", "note": "nakrájená na proužky", "group": "Omáčka" },
+    { "ingredientId": "cibule", "amount": 75, "unit": "g", "note": "nakrájená na kostičky", "group": "Omáčka" },
+    { "ingredientId": "sojova-omacka", "amount": 35, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cesnek-prasek", "amount": 1, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "zazvor-mlety", "amount": 1, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.61, "unit": "g", "group": "Omáčka" },
+    { "ingredientId": "voda", "amount": 75, "unit": "ml", "note": "do omáčky", "group": "Omáčka" },
+    { "ingredientId": "jarni-cibulka", "amount": 14, "unit": "g", "note": "nakrájená na plátky", "group": "Omáčka" }
+  ],
+  "steps": [
+    { "text": "Papriku nakrájej na tenké proužky, cibuli na kostičky a jarní cibulku na plátky.", "minutes": 8 },
+    { "text": "Ve velkém hrnci přiveď osolenou vodu k varu, vhoď špagety a vař 10 až 12 minut dozměkka. Scedi je.", "minutes": 20 },
+    { "text": "Mezitím maso opékej na pánvi nebo v hrnci za stálého míchání, dokud nezmizí růžová barva. Přebytečný tuk slij.", "minutes": 10, "parallel": true },
+    { "text": "Přidej papriku, cibuli, sojovou omáčku, sůl, česnek, zázvor a pepř. Duš asi 10 minut, dokud cibule nezměkne.", "minutes": 10 },
+    { "text": "Přidej vodu, jarní cibulku a scezené špagety. Dobře promíchej a ohřej na podávací teplotu.", "minutes": 5 }
+  ],
+  "modernNote": "Porce odpovídá 1 šálku hotového pokrmu ze zdroje. Vodu na vaření špaget (zdroj 33½ lb) a sůl do ní (zdroj 1¼ oz) nahrazuje domácí hodnota 1 l na 100 g těstovin a 2 g soli na 1 l; obojí se slije. Zelenina je jen zelená paprika, cibule a jarní cibulka. Česnek a zázvor jsou sušené mleté, proto standardní třída koření.",
+  "source": { "book": "afrs-2003", "page": 801, "code": "L 062 01", "titleOriginal": "HAMBURGER YAKISOBA (GROUND BEEF)" },
+  "verified": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "stroganov-z-mleteho-masa",
+  "title": "Stroganov z mletého masa",
+  "titleOriginal": "Hamburger Stroganoff",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 540, "unit": "g", "note": "90 % libové, syrové" },
+    { "ingredientId": "cibule", "amount": 65, "unit": "g", "note": "nakrájená" },
+    {
+      "ingredientId": "zampiony",
+      "amount": 19,
+      "unit": "g",
+      "note": "čerstvé, nakrájené; místo konzervovaných hub (55 g vč. nálevu)",
+      "original": { "ingredientId": "houby-konzervovane", "amount": 55, "unit": "g" }
+    },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "místo nálevu z konzervovaných hub, na rozmíchání mouky" },
+    { "ingredientId": "hovezi-vyvar", "amount": 190, "unit": "ml" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g" },
+    { "ingredientId": "zakysana-smetana", "amount": 75, "unit": "g", "note": "nízkotučná" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 95,
+      "unit": "ml",
+      "note": "z 90 ml teplé vody a 3 g sušeného mléka",
+      "original": { "ingredientId": "mleko-susene", "amount": 3, "unit": "g" }
+    },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "sladka-paprika", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.61, "unit": "g", "note": "česnek sušený mletý (garlic powder)" }
+  ],
+  "steps": [
+    { "text": "Mleté maso ve velkém hrnci nebo na pánvi za stálého míchání opékej, dokud se rozpadne a zešedne. Přidej nakrájenou cibuli a opékej ještě 5 minut, dokud nezměkne.", "minutes": 15 },
+    { "text": "Nakrájené houby odlož. Odměř 40 ml vody místo nálevu z hub.", "minutes": 2 },
+    { "text": "Přilij vývar, dobře promíchej, přiveď k varu a sniž teplotu na mírný var.", "minutes": 4 },
+    { "text": "Mouku rozmíchej s vodou (40 ml) do hladké kaše. Za stálého míchání ji vlij do vývaru. Přiveď k varu, přikryj a na mírném ohni vař 10 minut za častého míchání, dokud omáčka nezhoustne.", "minutes": 10 },
+    { "text": "Přidej mléko (95 ml), sůl, sladkou papriku, pepř a česnek a dobře promíchej. Přiveď k varu, přikryj a na mírném ohni vař 2 minuty.", "minutes": 4 },
+    { "text": "Vmíchej nakrájené houby a na mírném ohni zahřej do horka. Sundej z ohně.", "minutes": 3 },
+    { "text": "Zakysanou smetanu rozmíchej s asi 40 ml horké omáčky, vlij zpět do hrnce a dobře promíchej.", "minutes": 2 },
+    { "text": "Podávej s vařenými nudlemi nebo rýží." }
+  ],
+  "modernNote": "Zdroj je pro 100 porcí ve velkém kotli. Konzervované žampiony (3⅛ lb včetně nálevu) jsou nahrazeny čerstvými: pevná část 19 g (55 g mínus 1 qt nálevu ≈ 38 g) a nálev, který zdroj používá na rozmíchání mouky, je nahrazen 40 ml vody. Sušené mléko s teplou vodou je nahrazeno polotučným mlékem. Zdroj nevaří cibuli zvlášť, ale ve 3. kroku mluví o „cooked onions“, proto se cibule opéká s masem (5 minut je odhad). Houby jsou ve zdroji odložené pro krok 7, ale v kroku 6 se míchají do omáčky; použito podle kroku 6. Zdroj v kroku 7 mísí smetanu s 1 qt omáčky (≈ 40 ml na 4 porce). Hmotnost porce vychází na 264 g místo 170 g (6 oz): přepočtené suroviny dávají stejných 262 g na porci i na kartě (součet surovin 26 kg na 100 porcí), část vody se při vaření odpaří. Doporučení: 1 porce ≈ 1 šálek omáčky s přílohou. Kroky s CCP jsou vynechány, příloha (vařené nudle nebo rýže) je ze zdroje.",
+  "source": { "book": "afrs-2003", "page": 786, "code": "L 053 02", "titleOriginal": "HAMBURGER STROGANOFF" },
+  "verified": true
+}

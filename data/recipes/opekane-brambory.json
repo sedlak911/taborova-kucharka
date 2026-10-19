@@ -1,0 +1,62 @@
+{
+  "id": "opekane-brambory",
+  "title": "Opékané brambory",
+  "titleOriginal": "Home Fried Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 640,
+      "unit": "g",
+      "note": "oloupané, nakrájené na plátky; zdroj 35 lb už oloupaných plátků (jedlá hmotnost, bez přepočtu na AP)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 45,
+      "unit": "g",
+      "note": "na vymazání pánve a opékání; zůstává v jídle (zdroj 1⅞ lb)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "posolit po opečení"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletý, opepřit po opečení"
+    }
+  ],
+  "steps": [
+    { "text": "Brambory oloupej a nakrájej na plátky.", "minutes": 10 },
+    { "text": "Těžkou pánev dobře vymaž olejem a rozehřej na středním ohni.", "minutes": 3 },
+    { "text": "Plátky brambor rozlož na pánev v souvislé vrstvě.", "minutes": 2 },
+    { "text": "Opékej asi 25 minut při středním ohni, občas obrať, aby se rovnoměrně zarumenaly.", "minutes": 25 },
+    { "text": "Opečené brambory osol a opepři." }
+  ],
+  "modernNote": "Zdroj počítá opékání na plechu nebo velkém grilu při 400 °F (200 °C) asi 25 minut; doma stačí těžká pánev na plotně. Brambory jsou ve zdroji už oloupané a nakrájené (POTATOES,FRESH,PEELED,SLICED), proto je hmotnost jedlá a nepřepočítává se přes odpad. Olej (1⅞ lb na 100 porcí) je použit celý: z pánve se nevylévá, v jídle zůstává, a odpovídá kaloriím karty (214 kcal na porci). Hlavní variabilita je v rozpálení pánve. CCP věta o držení při 140 °F vynechána.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1571,
+    "code": "Q 047 00",
+    "titleOriginal": "HOME FRIED POTATOES"
+  },
+  "verified": true,
+  "quote": "Cook on 400 F. griddle for about 25 minutes, turning occasionally to ensure even browning."
+}

@@ -1,0 +1,125 @@
+{
+  "id": "bile-chili-s-kuretem",
+  "title": "Bílé fazolové chili s kuřetem",
+  "titleOriginal": "White Bean Chicken Chili",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "kotlik",
+    "tabor"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-bile-v-konzerve",
+      "amount": 600,
+      "unit": "g",
+      "note": "scezené a opláchnuté (zdroj 33⅛ lb fazolí cannellini)"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 6,
+      "unit": "g",
+      "note": "na vymazání hrnce; zdroj cooking spray 1½ oz",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 110,
+      "unit": "g",
+      "note": "nakrájená nadrobno (zdroj 6 lb nakrájené, tj. už jedlá hmotnost)"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 90,
+      "unit": "g",
+      "note": "nakrájená na kostičky (zdroj 4⅞ lb nakrájené, tj. už jedlá hmotnost)"
+    },
+    {
+      "ingredientId": "paprika-cervena",
+      "amount": 90,
+      "unit": "g",
+      "note": "nakrájená na kostičky (zdroj 4⅞ lb nakrájené)"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 8,
+      "unit": "g",
+      "note": "koření Santa Fe (Sante Fe seasoning, zdroj 4⅝ oz); chilli prášek jako náhrada"
+    },
+    {
+      "ingredientId": "kureci-vyvar",
+      "amount": 340,
+      "unit": "g",
+      "note": "zdroj kuřecí vývar 19 lb"
+    },
+    {
+      "ingredientId": "kureci-maso-vareno",
+      "amount": 330,
+      "unit": "g",
+      "note": "vařené, nakrájené na kostky (zdroj 18 lb)"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 185,
+      "unit": "g",
+      "note": "krájená, i se šťávou"
+    },
+    {
+      "ingredientId": "oregano",
+      "amount": 2,
+      "unit": "g",
+      "note": "drcený (zdroj 1¼ oz)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 18,
+      "unit": "g",
+      "note": "na zahuštění, rozmíchat ve vodě"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 40,
+      "unit": "ml",
+      "note": "studená, na rozmíchání mouky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazole opláchni v studené vodě a dobře scedi. Cibuli a papriky nakrájej nadrobno.",
+      "minutes": 6
+    },
+    {
+      "text": "Hrnec lehce vymaž olejem. Cibuli a papriky na něm za stálého míchání opékej 10 minut do měkka. Pak přidej koření Santa Fe a ještě minutu míchej, aby se uvolnily silice.",
+      "minutes": 11
+    },
+    {
+      "text": "Přidej fazole, vývar, nakrájené kuře, rajčata a oregano. Přiveď k varu, přikryj, sniž teplotu a duš 15 minut.",
+      "minutes": 20
+    },
+    {
+      "text": "Mouku smíchej se studenou vodou na hladkou kaši. Vmíchej ji do chili, znovu přiveď k varu, přikryj, sniž teplotu a duš 10 minut do zhoustnutí. Průběžně míchej, aby se nepřichytilo.",
+      "minutes": 12
+    },
+    {
+      "text": "Podávej horké."
+    }
+  ],
+  "modernNote": "Zdroj je pro 100 porcí v kuchyňském kotli. Kuřecí vývar je kupovaný bujón (zdroj 19 lb). Cooking spray je nahrazen lžičkou oleje na vymazání hrnce (katalog nemá sprej). Cibuli a papriky, které zdroj dodává nakrájené, krájíš doma. Koření Santa Fe je směs (chilli, kmín, česnek, oregano, často i sůl); v katalogu je nahrazeno chilli práškem, sůl dochuť podle chuti. Cibule a papriky mají ve zdroji hmotnost už po nakrájení (nákupní hmotnost 6⅔ a 6 lb se nepoužívá). Kalorie vycházejí asi o 10 % výš než karta (385 vs 350 kcal). Jako hlavní jídlo počítej 120–150 g kuřecího masa na osobu (zdroj 60–65 g na porci). Fazole jsou z konzervy: zdroj uvádí již scezenou hmotnost.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1069,
+    "code": "L 212 00",
+    "titleOriginal": "WHITE BEAN CHICKEN CHILI (COOKED DICED)"
+  },
+  "verified": true
+}

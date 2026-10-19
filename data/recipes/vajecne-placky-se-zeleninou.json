@@ -1,0 +1,47 @@
+{
+  "id": "vajecne-placky-se-zeleninou",
+  "title": "Vaječné placky se zeleninou",
+  "titleOriginal": "Egg Foo Young",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja", "vejce"],
+  "ingredients": [
+    { "ingredientId": "repkovy-olej", "amount": 9, "unit": "g", "note": "do zásmažky; lineárně, karta sedí na kcal jen takto", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "note": "do zásmažky" },
+    { "ingredientId": "kureci-vyvar", "amount": 150, "unit": "ml", "note": "připravený podle návodu na obalu" },
+    { "ingredientId": "sojova-omacka", "amount": 11, "unit": "g", "note": "do omáčky; lineárně, je to tekutá složka omáčky", "scaling": "linear" },
+    { "ingredientId": "melasa", "amount": 2, "unit": "g", "note": "do omáčky" },
+    { "ingredientId": "cibule", "amount": 25, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "paprika-zelena", "amount": 9, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "repkovy-olej", "amount": 2, "unit": "g", "note": "na restování zeleniny; lineárně", "scaling": "linear" },
+    { "ingredientId": "kureci-maso-vareno", "amount": 75, "unit": "g", "note": "uvařené, nakrájené na kostičky" },
+    { "ingredientId": "klicky-mungo", "amount": 35, "unit": "g", "note": "z konzervy, scezené" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    {
+      "ingredientId": "vejce",
+      "amount": 2.2,
+      "unit": "ks",
+      "note": "čerstvá, místo mražených; 1 ks ≈ 50 g",
+      "original": { "ingredientId": "vejce-mrazena", "amount": 110, "unit": "g" }
+    },
+    { "ingredientId": "repkovy-olej", "amount": 18, "unit": "g", "note": "na smažení placek; vsákne se do jídla; lineárně", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Na hrnci rozmíchej řepkový olej s moukou dohladka.", "minutes": 2 },
+    { "text": "Přidej vývar, za stálého míchání přiveď k varu, zmenši plamen a vař 10 minut, dokud omáčka nezhoustne.", "minutes": 13 },
+    { "text": "Přidej sójovou omáčku a melasu a 5 minut povař.", "minutes": 5 },
+    { "text": "Mezitím na pánvi rozehřej olej a restuj cibuli a papriku dosklovata.", "minutes": 5, "parallel": true },
+    { "text": "Smíchej restovanou zeleninu s kuřecím masem, klíčky a pepřem.", "minutes": 2 },
+    { "text": "Přimíchej vejce a dobře promíchej.", "minutes": 2 },
+    { "text": "Na dobře vymaštěnou pánev (asi 190 °C) nalij směs pro jednu placku (asi 80 ml) a smaž asi 3 minuty z každé strany, dokud není uvnitř propečená.", "minutes": 12 },
+    { "text": "Každou placku pokapej omáčkou (asi 2 polévkové lžíce) a podávej hned." }
+  ],
+  "modernNote": "Mražená vejce nahrazena čerstvými (2,2 ks ≈ 110 g, původní v original). Kuřecí maso a vývar ponechány: maso dnes jde koupit a bez něj by se jídlo změnilo, proto kapitola maso-a-ryby a bez tagu bez-masa. Olej na smažení (18 g) ponechán ze zdroje: karta uvádí 12 g tuku na porci, takže se olej vsákl do placek. Oleje počítány lineárně (třída fat by dala o 6 g oleje víc; s lineárním přepočtem sedí kcal s kartou 157, s fat 183). Porce je jedna placka; čtyři placky tvoří 4 porce. Maso 19 g na porci je málo na hlavní jídlo: jako hlavní jídlo počítej 80–100 g kuřete nebo přidej víc zeleniny.",
+  "source": { "book": "afrs-2003", "page": 337, "code": "F 006 00", "titleOriginal": "EGG FOO YOUNG" },
+  "verified": true
+}

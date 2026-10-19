@@ -1,0 +1,27 @@
+{
+  "id": "zebra-s-kysanym-zelim",
+  "title": "Žebra s kysaným zelím",
+  "titleOriginal": "Spareribs and Sauerkraut",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 155,
+  "difficulty": 1,
+  "tags": ["levne"],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "veprova-zebra", "amount": 1360, "unit": "g", "note": "vepřová žebra na kosti; ve zdroji mražená, použij čerstvá nebo rozmražená" },
+    { "ingredientId": "kysele-zeli", "amount": 450, "unit": "g", "note": "scezené" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Žebra nakrájej na porce po 2 až 4 žebrech a polož v jedné vrstvě do pekáče tukem nahoru. Peč při 200 °C 30 minut, dokud nezezlátnou.", "minutes": 30 },
+    { "text": "Odlij přebytečný tuk. Žebra posyp černým pepřem a navrch rozlož kysané zelí.", "minutes": 3 },
+    { "text": "Pekáč přikryj a peč při 165 °C 2 hodiny, dokud je maso měkké.", "minutes": 120 },
+    { "text": "Hotová žebra podávej horká s kysaným zelím." }
+  ],
+  "modernNote": "Karta počítá porci 7 oz (≈ 200 g) hotového pokrmu. Hmotnost žeber ze zdroje je nákupní (s kostmi a tukem), proto je na talíři méně, než kolik se nakoupí. Kalorie vycházejí 587 proti 548 na kartě (rozdíl 7 %), protože katalog počítá žebra jako maso s tukem. Kysané zelí je podle zdroje scezené. Kapitola maso-a-ryby: jídlo je pečené maso na plechu, ne dušený pokrm.",
+  "source": { "book": "afrs-2003", "page": 860, "code": "L 093 01", "titleOriginal": "SPARERIBS AND SAUERKRAUT" },
+  "verified": true
+}

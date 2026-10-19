@@ -1,0 +1,38 @@
+{
+  "id": "pikantni-fazolova-polevka",
+  "title": "Pikantní fazolová polévka",
+  "titleOriginal": "Zesty Bean Soup (Dry Beans)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 315,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "fazole-cervene", "amount": 35, "unit": "g", "note": "sušené červené ledvinkové; přebrat a propláchnout" },
+    { "ingredientId": "fazole-suche", "amount": 35, "unit": "g", "note": "sušené bílé; přebrat a propláchnout" },
+    { "ingredientId": "fazole-pinto-suche", "amount": 35, "unit": "g", "note": "sušené pinto; přebrat a propláchnout" },
+    { "ingredientId": "voda", "amount": 300, "unit": "ml", "note": "studená, na zalití fazolí; vsákne se do fazolí a polévky" },
+    { "ingredientId": "hovezi-vyvar", "amount": 570, "unit": "ml", "note": "připravený podle návodu na balení" },
+    { "ingredientId": "bobkovy-list", "amount": 2.3, "unit": "ks" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 250, "unit": "g", "note": "drcená, s nálevem" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "celer-rapikaty", "amount": 35, "unit": "g", "note": "nakrájený" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "sladka-paprika", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "tymian-susity", "amount": 0.46, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, vyřaď zbarvená zrna a nečistoty a důkladně propláchni ve studené vodě.", "minutes": 5 },
+    { "text": "Zalij studenou vodou, přiveď k varu a vař 2 minuty. Vypni plotnu, přikryj a nech stát 1 hodinu.", "minutes": 67 },
+    { "text": "Připrav hovězí vývar podle návodu na balení, přidej bobkový list a přiveď k varu. Přikryj a vař 3 hodiny, dokud fazole nezměknou. Občas zamíchej.", "minutes": 188 },
+    { "text": "Přidej rajčata, cibuli, celer, pepř, papriku a tymián a dobře zamíchej.", "minutes": 3 },
+    { "text": "Přiveď k varu, sniž plamen, přikryj a vař 45 minut, dokud zelenina nezměkne. Vyjmi bobkový list.", "minutes": 50 }
+  ],
+  "modernNote": "Porce 1 šálek (237 ml) z AFRS; 4 porce vyjdou cca 1,3 l polévky. Voda 2 gal (16,75 lb) ze zdroje slouží k zalití fazolí v kroku 1 a podle zdroje se nescezuje, zůstává v polévce (300 ml). Vývar je připravený z kostky nebo koncentrátu podle návodu na balení; pro bezmasou variantu použij zeleninový vývar. Bobkový list: zdroj uvádí 1/4 oz (hmotnost) i 6 listů (počet) na 100 porcí; použita hmotnost, tj. 2–3 listy na 4 porce. Sůl zdroj neuvádí, dochuť podle chuti. Doporučení: fazole namoč přes noc ve studené vodě (zdroj uvádí jen 1 hodinu horkého namáčení); pak odpadne hodinové stání po zalití. Doba 315 minut počítá 1hodinové namáčení a 3hodinové vaření fazolí. Kroky s teplotou držení (CCP) vynechány.",
+  "source": { "book": "afrs-2003", "page": 1438, "code": "P 021 01", "titleOriginal": "ZESTY BEAN SOUP (DRY BEANS)" },
+  "verified": true,
+  "quote": "Bring to a boil; cover; simmer 3 hours or until beans are tender."
+}

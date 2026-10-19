@@ -1,0 +1,28 @@
+[
+  {
+    "id": "houby-konzervovane",
+    "name": "Houby konzervované, plátky a kousky",
+    "aliases": [
+      "konzervované žampiony",
+      "žampiony z konzervy",
+      "houby z konzervy",
+      "mushrooms, canned, stems & pieces"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 25,
+      "protein": 1.87,
+      "carbs": 5.09,
+      "fat": 0.29,
+      "fiber": 2.4
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169254 (Mushrooms, canned, drained solids); makra na sušinu bez nálevu",
+      "refuse": "USDA fdc:169254 odpad 0 %"
+    }
+  }
+]

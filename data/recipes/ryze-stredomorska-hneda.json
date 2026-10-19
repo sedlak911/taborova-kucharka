@@ -1,0 +1,35 @@
+{
+  "id": "ryze-stredomorska-hneda",
+  "title": "Středomořská hnědá rýže",
+  "titleOriginal": "Mediterranean Brown Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "repkovy-olej", "amount": 12, "unit": "g", "note": "na restování cibule" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "ryze-hneda", "amount": 145, "unit": "g", "note": "dlouhozrnná, parboiled (předvařená)" },
+    { "ingredientId": "kureci-vyvar", "amount": 400, "unit": "ml", "note": "připravený podle návodu na obalu" },
+    { "ingredientId": "rozinky", "amount": 35, "unit": "g", "note": "zlaté" },
+    { "ingredientId": "skorice-mleta", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "novy-koreni", "amount": 0.46, "unit": "g", "note": "mleté (allspice)" },
+    { "ingredientId": "kardamom", "amount": 0.46, "unit": "g", "note": "mletý" },
+    { "ingredientId": "koriandr-cerstvy", "amount": 0.46, "unit": "g", "note": "sušený list (CILANTRO, DRY), přimíchej na konci" }
+  ],
+  "steps": [
+    { "text": "Rozehřej řepkový olej v kotlíku nebo širokém hrnci, přidej nakrájenou cibuli a duš 5 minut, dokud nezměkne. Občas zamíchej.", "minutes": 7 },
+    { "text": "Přidej rýži a obal ji v oleji. Opékej 5 minut, dokud lehce nezhnědne. Míchej.", "minutes": 5 },
+    { "text": "Připrav vývar podle návodu na obalu. Přidej vývar, rozinky, skořici, nové koření a kardamom k rýži. Přiveď k varu a zamíchej.", "minutes": 5 },
+    { "text": "Sniž teplotu, pevně přikryj a duš 25 minut, dokud většina vody nevsákne. Přimíchej sušený koriandr.", "minutes": 25 },
+    { "text": "Sundej z ohně." }
+  ],
+  "modernNote": "Jde o přílohu (porce 3/4 cup), proto kuřecí vývar ze zdroje zůstává; pro bezmasou variantu ho nahraď zeleninovým. Rýže je hnědá parboiled, rozinky zlaté. Koriandr je ve zdroji sušený (CILANTRO, DRY); v katalogu je čerstvý koriandr, proto je u suroviny poznámka. Porce 3/4 cup odpovídá příloze.",
+  "source": { "book": "afrs-2003", "page": 321, "code": "E 017 00", "titleOriginal": "MEDITERRANEAN BROWN RICE" },
+  "verified": true,
+  "quote": "Simmer 25 minutes or until most of the water is absorbed."
+}
