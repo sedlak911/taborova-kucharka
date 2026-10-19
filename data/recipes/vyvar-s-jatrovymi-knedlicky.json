@@ -1,0 +1,152 @@
+{
+  "id": "vyvar-s-jatrovymi-knedlicky",
+  "title": "Vývar s játrovými knedlíčky",
+  "titleOriginal": "Polívka s jaternými knedlíčkami",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 1100,
+      "unit": "ml",
+      "note": "dobrý hovězí vývar; množství zdroj neuvádí, odhad pro 4 porce"
+    },
+    {
+      "ingredientId": "jatra",
+      "amount": 280,
+      "unit": "g",
+      "group": "Knedlíčky",
+      "note": "půl libry telecích nebo hovězích jater (1 libra = 560 g), bez žilek a blan"
+    },
+    {
+      "ingredientId": "hovezi-loj",
+      "amount": 70,
+      "unit": "g",
+      "group": "Knedlíčky",
+      "note": "4 loty hovězího tuku (1 lot = 17,5 g); měkký, utřený na misce; lze nahradit máslem"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Knedlíčky",
+      "scaling": "linear",
+      "note": "dvě celá vejce"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Knedlíčky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 100,
+      "unit": "g",
+      "group": "Knedlíčky",
+      "scaling": "linear",
+      "note": "strouhaná žemle „tolik, aby to nebylo ani řídké ani příliš tuhé“; odhad",
+      "original": {
+        "ingredientId": "zemle-bila",
+        "amount": 130,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 2,
+      "unit": "ks",
+      "group": "Knedlíčky",
+      "note": "stroužky rozetřené se solí"
+    },
+    {
+      "ingredientId": "citron",
+      "amount": 0.25,
+      "unit": "ks",
+      "group": "Knedlíčky",
+      "scaling": "linear",
+      "note": "jen nadrobno nasekaná kůra („trochu“, odhad); neostříkaný citron"
+    },
+    {
+      "ingredientId": "majoranka",
+      "amount": 0.6,
+      "unit": "g",
+      "group": "Knedlíčky",
+      "note": "„trochu“, odhad (asi 1 lžička)"
+    },
+    {
+      "ingredientId": "pepr-bily",
+      "amount": 0.5,
+      "unit": "g",
+      "group": "Knedlíčky",
+      "note": "„trošinku“, odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Knedlíčky",
+      "note": "„osol patřičně“, odhad; vč. soli rozetřené s česnekem"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 10,
+      "unit": "g",
+      "note": "zelená, usekaná; do mísy pod vývar"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Z jater vyber všechny žilky a blány. Játra nasekej nadrobno nebo nastrouhej.",
+      "minutes": 10
+    },
+    {
+      "text": "Na míse utři měkký tuk.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej játra, majoránku, nadrobno nasekanou citronovou kůru, rozetřený česnek, pepř, vejce a žloutky. Osol a dobře promíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Vmíchej strouhanku, aby hmota nebyla ani řídká, ani příliš tuhá.",
+      "minutes": 3
+    },
+    {
+      "text": "Vývar přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Lžičkou zavařuj do vývaru knedlíčky a vař je asi 10 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Vývar s knedlíčky nalej do mísy na nasekanou petrželku. Podávej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Kniha neuvádí počet osob ani množství vývaru, strouhané žemle, soli ani koření („trochu“, „tolik, aby“); půl libry jater (280 g) a 4 loty tuku (70 g) jsou ze zdroje, zbytek je odhad pro 4 porce, proto verified: false. Strouhaná žemle je nahrazena strouhankou (130 g strouhané žemle ≈ 100 g strouhanky). Hmotu zkus nejdřív zavařit jedním knedlíčkem: když se rozpadá, přidej strouhanku. Dávka je vydatná (asi 160 g knedlíčků na porci); jako předkrm před hlavním jídlem stačí poloviční. Vývar je masový, recept není bez masa.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 15,
+    "titleOriginal": "Polívka s jaternými knedlíčkami"
+  },
+  "verified": false,
+  "quote": "Usekej nebo ustrouhej půl libry telecích aneb hovězích jater, vyber z nich všecky žilky a mázdry."
+}

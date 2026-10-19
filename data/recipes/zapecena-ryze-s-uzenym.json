@@ -1,0 +1,35 @@
+{
+  "id": "zapecena-ryze-s-uzenym",
+  "title": "Zapečená rýže s uzeným masem",
+  "titleOriginal": "Rejže s uzeným masem",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 280, "unit": "g", "note": "půl libry (560 g) ze zdroje; zdroj počet porcí neuvádí, počítám ji na 4 porce" },
+    { "ingredientId": "smetana-na-vareni", "amount": 600, "unit": "ml", "note": "na uvaření rýže; zdroj píše jen 've smetaně', množství je odhad (cca 2 × rýže)" },
+    { "ingredientId": "zloutek", "amount": 6, "unit": "ks", "note": "ze zdroje" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "'trochu osol'; odhad" },
+    { "ingredientId": "uzene-maso", "amount": 280, "unit": "g", "note": "vařené, drobně nakrájené; půl libry vařené uzeniny ze zdroje" },
+    { "ingredientId": "houby-susene", "amount": 10, "unit": "g", "note": "sušené hříbky, namočené a nasekané; zdroj uvádí čerstvé hříbky (dusit na másle) nebo sušené, množství neuvádí, odhad", "optional": true },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "note": "'trochu květu' (muškátový květ), nahrazuji muškátovým oříškem; odhad" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "note": "na vymazání formy; množství je odhad" }
+  ],
+  "steps": [
+    { "text": "Rýži propláchni, zalij smetanou a za občasného míchání vař doměkka.", "minutes": 25 },
+    { "text": "Rýži nech vystydnout.", "minutes": 20 },
+    { "text": "Sušené hříbky zalij horkou vodou, nech změknout, scezené je nasekej.", "minutes": 20, "parallel": true },
+    { "text": "Do vychladlé rýže vmíchej žloutky a osol.", "minutes": 3 },
+    { "text": "Uzené maso nakrájej nadrobno a smíchej s hříbky a muškátem.", "minutes": 5 },
+    { "text": "Zapékací misku vymaž máslem a vrstvi do ní rýži a uzeninu; začni a skonči rýží.", "minutes": 5 },
+    { "text": "Zapékej v troubě při 160 °C za mírného žáru 1 hodinu.", "minutes": 60 }
+  ],
+  "modernNote": "Porce: zdroj počet porcí neuvádí; půl libry rýže (280 g) a půl libry uzeniny (280 g) beru jako dávku pro 4 porce. Staré míry: libra 560 g. Odhady (kniha je neuvádí): množství smetany (600 ml), sůl, muškát, máslo na formu, sušené hříbky; proto verified: false. Místo 'květu' (muškátového květu) použit muškátový oříšek. Sušené hříbky se v knize vaří v hovězí polévce, zde stačí namočit ve vodě; čerstvé hříbky lze orestovat na másle. Teplota trouby není uvedena (kniha: 'zlehounka pect'), 160 °C je odhad. Rýže se podle knihy vyplachuje; jako uzeninu použij vařený uzený krk nebo uzené koleno. Jako hlavní jídlo počítej 120–150 g uzeniny na osobu, zde je jen 70 g (půl libry na 4 porce); chceš-li sytější jídlo, přidej uzeniny.",
+  "source": { "book": "rettigova-1868", "page": 194, "titleOriginal": "Rejže s uzeným masem" },
+  "verified": false,
+  "quote": "Nyní vymaž kuthánek máslem, dej do něj vrstvu rejže, pak vrstvu uzeniny, na to zase rejži a zase uzeninu."
+}

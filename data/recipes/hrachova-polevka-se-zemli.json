@@ -1,0 +1,39 @@
+{
+  "id": "hrachova-polevka-se-zemli",
+  "title": "Hrachová polévka s opraženou žemlí",
+  "titleOriginal": "Hrachová polívka",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik", "pripravit-predem", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hrach-puleny", "amount": 150, "unit": "g", "note": "půlený; zdroj bez množství, doplněno podle č. 53 (půl žejdlíku hrachu ≈ 175 ml ≈ 145 g)" },
+    { "ingredientId": "voda", "amount": 1300, "unit": "ml", "note": "'petruželová voda'; odhad, zdroj bez množství" },
+    { "ingredientId": "petrzel-koren", "amount": 60, "unit": "g", "note": "na vývar z vody; zdroj píše jen 'petruželová voda', odhad" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "odhad" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na jíšku; zdroj 'jistička', odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "na jíšku; odhad" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "drobně nakrájená; odhad" },
+    { "ingredientId": "cesnek", "amount": 2, "unit": "g", "note": "asi dva stroužky ze zdroje, 'dobře rozetřené'; zde 1 g/stroužek (malé)" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.35, "unit": "g", "note": "květ (muškátový květ, mace), mletý; 'trochu', odhad" },
+    { "ingredientId": "majoranka", "amount": 0.5, "unit": "g", "note": "sušená, volitelná; zdroj 'chceš-li'" },
+    { "ingredientId": "zemle-bila", "amount": 100, "unit": "g", "note": "asi 2 žemle na kostky; zdroj 'smažená žemlička', odhad" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na osmažení žemle; zdroj neuvádí tuk, odhad" }
+  ],
+  "steps": [
+    { "text": "Hrách propláchni, zalij studenou vodou a nech přes noc namočit. Poté ho scedi." },
+    { "text": "Hrách dej do hrnce s 1,3 l vody, petrželovým kořenem a solí. Přiveď k varu a vař doměkka.", "minutes": 60 },
+    { "text": "Mezitím nakrájej žemli na kostky a osmaž ji na másle dozlatova. Dej ji do mísy.", "minutes": 8, "parallel": true },
+    { "text": "Petrželový kořen vyndej. Hrách rozmíchej tyčovým mixérem nebo ho rozmačkej a protři přes sítko.", "minutes": 8 },
+    { "text": "Na másle osmahni drobně nakrájenou cibuli do světle žluté barvy. Přisyp mouku a chvíli míchej, ať se udělá přižloutlá jíška.", "minutes": 8 },
+    { "text": "Jíškou zahusti rozmíchaný hrách a nech ještě chvíli povařit. Přidej rozetřený česnek, květ a podle chuti majoránku.", "minutes": 10 },
+    { "text": "Polévku nalej na osmaženou žemli. Podávej." }
+  ],
+  "modernNote": "Zdroj nezmiňuje počet porcí ani žádné množství. Hrách (150 g) odvozen z č. 53 na s. 32 (půl žejdlíku hrachu, žejdlík ≈ 0,35 l, půlený hrách ≈ 0,83 g/ml); voda, kořen petržele, sůl, jíška, cibule, česnek, květ, majoránka, žemle a tuk na její osmažení jsou odhady pro 4 porce. Tuk na jíšku a smažení: kniha jmenuje 'jističku' a 'smaženou žemličku' bez tuku, doplněno máslo. Tato varianta je bez masa (voda s petrželovým kořenem místo hovězí polévky); masitý variant (č. 53) používá hovězí vývar a přidává strouhané brambory. Žemle ze zdroje = dnes houska nebo rohlík. Zdroj hrách po uvaření jen rozmíchá a polévku procedí; tyčový mixér to zjednodušuje. Namáčení přes noc kniha neuvádí (zde pro klasický sušený půlený hrách volitelné, krátí vaření).",
+  "source": { "book": "rettigova-1868", "page": 291, "titleOriginal": "Hrachová polívka" },
+  "verified": false,
+  "quote": "Uvař měkce hrách, rozmíchej ho, nalej na něj petruželové vody a nech to ještě trochu povařit; pak polívku proceď a zapraž ji přižloutlou jističkou."
+}

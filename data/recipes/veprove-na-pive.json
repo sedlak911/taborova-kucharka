@@ -1,0 +1,38 @@
+{
+  "id": "veprove-na-pive",
+  "title": "Vepřové na pivě",
+  "titleOriginal": "Vepřové maso na pivě",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 6,
+  "timeMinutes": 70,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "veprova-plec", "amount": 750, "unit": "g", "note": "mladé vepřové maso bez kostí; dvě libry (1120 g) ze zdroje přepočtené z odhadu 6 osob na 4 porce (× 4/6)" },
+    { "ingredientId": "sul", "amount": 8, "unit": "g", "note": "odhad, zdroj píše jen „osol“" },
+    { "ingredientId": "hladka-mouka", "amount": 3, "unit": "g", "note": "jedna kávová lžička ze zdroje (odhad 5 g) × 4/6" },
+    { "ingredientId": "cesnek", "amount": 4, "unit": "g", "note": "dva stroužky ze zdroje (6 g) × 4/6, rozetřené se solí" },
+    { "ingredientId": "pivo", "amount": 470, "unit": "ml", "note": "dva žejdlíky ze zdroje (700 ml; 1 žejdlík ≈ 0,35 l) × 4/6; světlé", "scaling": "linear" },
+    { "ingredientId": "chleb-bily", "amount": 30, "unit": "g", "note": "střída strouhaná nahrubo, na zahuštění; zdroj „tolik, aby se udělala přihoustlá omáčka“, odhad", "scaling": "linear" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.3, "unit": "g", "note": "květ (muškátový květ, mace) ze zdroje „trochu květu“; odhad" },
+    { "ingredientId": "citronova-kura", "amount": 2, "unit": "g", "note": "strouhaná; zdroj „trochu citronové kůry“, odhad" }
+  ],
+  "steps": [
+    { "text": "Vepřové maso nakrájej na kousky. Česnek rozetři se solí.", "minutes": 10 },
+    { "text": "Maso dej do hrnce, osol ho a posyp moukou. Přidej česnek, zalij pivem a přikryté vař asi do poloviny měkkosti.", "minutes": 35 },
+    { "text": "Zasyp střídou z chleba, aby omáčka mírně zhoustla. Přidej květ a citronovou kůru a promíchej.", "minutes": 3 },
+    { "text": "Dovař, ale maso nepřevař, aby nebylo rozvařené.", "minutes": 20 },
+    { "text": "Maso dej na mísu a polej omáčkou. Kdyby byla příliš hustá, přilej trochu piva nebo vody." }
+  ],
+  "modernNote": "Zdroj nezná počet osob. Dvě libry masa (1120 g) by na 4 porce dávaly 280 g masa na porci, proto je dávka brána jako pro 6 osob (originalYield 6, odhad; kniha počítá asi 2–3 porce na libru) a přepočtena na 4 porce: 750 g masa (asi 190 g na porci), 470 ml piva. Je to odhad, recept je verified: false; chceš-li dávku pro 6 jedlíků, násob 1,5. Časy kroků zdroj neuvádí, jsou odhad. Kniha dodává, že se takto dá připravit i klobása. Zdroj píše „kuthánek“ (pánev nebo mělký hrnec), vaří se v hrnci s víkem. Sůl a množství střídy, květu a citronové kůry zdroj neuvádí, jsou domácí odhad. „Přilejt trochu piva nebo polívky“ je v kroku zjednodušeno na pivo nebo vodu.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 133,
+    "titleOriginal": "Vepřové maso na pivě"
+  },
+  "verified": false,
+  "quote": "Nalej na to dva žejdlíky piva a nech to přikryté vařit."
+}

@@ -1,0 +1,111 @@
+{
+  "id": "pivni-polevka-s-chlebem",
+  "title": "Pivní polévka s chlebem",
+  "titleOriginal": "Pivní polívka s chlebem (tak nazvaná gramatyka)",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "siricitany",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb",
+      "amount": 200,
+      "unit": "g",
+      "note": "nakrájený na kostky; zdroj: „něco přes polovic“ hrnku, odhad"
+    },
+    {
+      "ingredientId": "pivo",
+      "amount": 800,
+      "unit": "ml",
+      "note": "studené; zdroj množství neuvádí, odhad"
+    },
+    {
+      "ingredientId": "kmin-cely",
+      "amount": 1,
+      "unit": "g",
+      "note": "„trochu kmínu“, odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "„osol to“, odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3,
+      "unit": "ks",
+      "note": "celá"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 55,
+      "unit": "g",
+      "note": "3 loty ≈ 52,5 g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 35,
+      "unit": "g",
+      "note": "2 loty"
+    },
+    {
+      "ingredientId": "zakysana-smetana",
+      "amount": 175,
+      "unit": "g",
+      "note": "půl žejdlíku (≈ 175 ml) husté kyselé smetany (1 žejdlík ≈ 0,35 l)"
+    },
+    {
+      "ingredientId": "vinny-ocet",
+      "amount": 15,
+      "unit": "ml",
+      "note": "volitelně, pro nakyslou chuť („několik lžic“ ve zdroji, odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Chléb nakrájej na kostky a dej do hrnce.",
+      "minutes": 5
+    },
+    {
+      "text": "Zalij ho studeným pivem, přidej kmín a sůl. Vař, dokud se chléb nerozvaří.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím v misce rozmíchej vejce s máslem, cukrem a zakysanou smetanou.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Směs vlej do polévky a za stálého míchání ještě chvilku povař.",
+      "minutes": 3
+    },
+    {
+      "text": "Chceš-li polévku nakyslou, přimíchej ocet a případně přisyp cukr."
+    }
+  ],
+  "modernNote": "Zdroj nezná porce ani množství piva, chleba, kmínu a soli: pivo (800 ml), chléb (200 g), kmín a sůl jsou odhady pro 4 porce, proto verified: false. Máslo, cukr, vejce a smetana jsou ze zdroje bez přepočtu (3 loty = 52,5 g, 2 loty = 35 g, ½ žejdlíku ≈ 175 ml, zapsáno v g). Chléb se v kuchařce rozváří na hustou kaši. Kniha zmiňuje i „žebráckou“ polévku: místo piva voda, místo kyselé smetany sladká a bez cukru. Pivo se vařením zbaví alkoholu jen částečně. Chuť je sladkokyselá, pro slanější verzi cukr vynech.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 292,
+    "titleOriginal": "Pivní polívka s chlebem (tak nazvaná gramatyka)"
+  },
+  "verified": false,
+  "quote": "Rozkrájej chleba do hrnku, aby ho bylo něco přes polovic, pak na něj nalej studeného piva, přidej trochu kmínu, osol to a nech to vařit, až se chléb rozvaří."
+}

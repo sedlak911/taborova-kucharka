@@ -1,0 +1,93 @@
+{
+  "id": "hrachova-kase",
+  "title": "Hrachová kaše s cibulkou",
+  "titleOriginal": "Hrách promačkaný",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "pripravit-predem",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hrach-puleny",
+      "amount": 400,
+      "unit": "g",
+      "note": "suchý, namočený přes noc; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1200,
+      "unit": "ml",
+      "note": "na vaření hrachu; množství zdroj neuvádí (doplněno, 3 díly na 1 díl hrachu)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "nakrájená nadrobno; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 40,
+      "unit": "g",
+      "note": "20 g na osmahnutí cibule, 20 g na pokapání kaše; nebo máslo; množství zdroj neuvádí (doplněno)"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 10,
+      "unit": "g",
+      "note": "strouhaná žemlička, asi 1 lžíce"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "podle chuti"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hrách přeber, propláchni a nech ho přes noc namočený ve vodě."
+    },
+    {
+      "text": "Hrách zalij 1,2 l čerstvé vody a vař doměkka. Čas od času promíchej, aby se nepřipálil.",
+      "minutes": 60
+    },
+    {
+      "text": "Cibuli nakrájej nadrobno.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Na pánvi rozehřej polovinu sádla a cibuli na něm nech zpěnit.",
+      "minutes": 8
+    },
+    {
+      "text": "Uvařený hrách protlač přes cedník do cibulky. Přisol a vmíchej strouhanku.",
+      "minutes": 10
+    },
+    {
+      "text": "Kaši dej do mísy a pokapej zbylým rozehřátým sádlem. Podávej."
+    }
+  ],
+  "modernNote": "Množství zdroj neuvádí: 400 g hrachu na 4 porce, cibule, tuk, sůl i vodu jsme doplnili jako běžnou domácí hodnotu, proto verified false. Kniha podává kaši obloženou uzenkami nebo smaženými kotletkami (čís. 27); recept je tak vedený bez masa, uzeniny si přidej podle chuti. Hrách se v knize vaří do měkka bez udání doby, 60 minut je odhad pro půlený hrách namočený přes noc. Namáčení přes noc se do timeMinutes nepočítá.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 101,
+    "titleOriginal": "Hrách promačkaný"
+  },
+  "verified": false,
+  "quote": "Uvař hrách do měkká. Nech na kastrolu spěnit na sádle cibulku a hrách do ni skrze cedník promačkej"
+}

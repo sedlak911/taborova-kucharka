@@ -1,0 +1,41 @@
+{
+  "id": "kminove-rohlicky",
+  "title": "Kmínové rohlíčky k pivu",
+  "titleOriginal": "Kmínem sypané rohlíčky k pivu",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": ["bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "scaling": "linear", "note": "čtyři žejdlíky pěkné mouky ze zdroje (4 × 125 g, objemová míra, odhad)" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "scaling": "linear", "note": "čtyři loty nového másla ze zdroje (1 lot = 17,5 g)" },
+    { "ingredientId": "smetana-na-vareni", "amount": 300, "unit": "ml", "note": "vlažná; dva velké žejdlíky ze zdroje by byly 0,7–0,8 l, což je na 500 g mouky příliš tekuté, odhad" },
+    { "ingredientId": "drozdi-cerstve", "amount": 20, "unit": "g", "scaling": "linear", "note": "tři lžíce hustých kvasnic ze zdroje; kniha jinde uvádí, že 3 lžíce obyčejných kvasnic odpovídají lotu lisovaných (cca 17 g)" },
+    { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "note": "kůra z půl citronu, drobně nakrájená" },
+    { "ingredientId": "cukr-krystal", "amount": 9, "unit": "g", "scaling": "linear", "note": "půl lotu tlučeného cukru ze zdroje, rozetřít v hmoždíři nebo použít moučkový" },
+    { "ingredientId": "zazvor-mlety", "amount": 1, "unit": "g", "note": "trochu tlučeného zázvoru, odhad" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "scaling": "linear", "note": "do těsta; zdroj jen 'těsto osol', množství doplněno (odhad)" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "note": "na potření rohlíčků" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g", "note": "na posypání; odhad" },
+    { "ingredientId": "kmin-cely", "amount": 4, "unit": "g", "note": "na posypání; odhad" }
+  ],
+  "steps": [
+    { "text": "Máslo rozkrájej na kousky a vpracuj ho do mouky.", "minutes": 5 },
+    { "text": "Droždí rozmíchej ve vlažné smetaně.", "minutes": 3 },
+    { "text": "Smetanu s droždím nalij do mouky, přidej nadrobno nakrájenou citronovou kůru, cukr a zázvor a zadělej těsto.", "minutes": 7 },
+    { "text": "Těsto přikryj a nech trochu vykynout.", "minutes": 30 },
+    { "text": "Těsto osol a prohněť ho. Je-li spěch, osol ho a tvaruj hned.", "minutes": 3 },
+    { "text": "Těsto vyklop na moukou posypaný vál a tvaruj z něj rohlíčky nebo malé housky.", "minutes": 15 },
+    { "text": "Rohlíčky polož na plech vyložený pomazaným papírem.", "minutes": 2 },
+    { "text": "Rozehřej troubu na 200 °C.", "parallel": true },
+    { "text": "Rohlíčky potři rozšlehaným vejcem a posyp solí a kmínem.", "minutes": 3 },
+    { "text": "Rohlíčky peč do zlatova, asi 20 minut.", "minutes": 20 }
+  ],
+  "modernNote": "Dávka z knihy dá asi 20–22 rohlíčků po cca 40 g, což je svačina k pivu pro 4 lidi. Kniha neuvádí počet kusů ani porcí, proto verified: false. Staré míry: žejdlík ≈ 0,35 l, lot 17,5 g; 4 žejdlíky mouky jsem vzal jako 500 g (125 g na žejdlík, stejně jako u vánočky), smetanu zmenšil na 300 ml, aby těsto šlo válet; množství soli v těstě, soli a kmínu na posyp jsou odhad. Doba kynutí (kniha: 'trochu skynout'), teplota (200 °C) a čas pečení ('do zlatova') jsou odhad. Kvasnice nahrazuje čerstvé droždí. Sousední č. 35–36 (Spěšné rohlíčky, Rohlíčky ku kávě) jsou jiná těsta a odkaz na ně recept neobsahuje.",
+  "source": { "book": "rettigova-1868", "page": 363, "titleOriginal": "Kmínem sypané rohlíčky k pivu" },
+  "verified": false,
+  "quote": "Do čtyr žejdlíků pěkné mouky rozkrájej 4 loty nového másla, zadělej těsto se dvěma velkýma žejdlíkama vlažné smetany a se 3 lžícemi hustých kvasnic"
+}

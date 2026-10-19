@@ -1,0 +1,31 @@
+[
+  {
+    "id": "pazitka",
+    "name": "Pažitka",
+    "aliases": [
+      "pažitka čerstvá",
+      "pažitková nať",
+      "chives"
+    ],
+    "category": "zelenina",
+    "scaling": "seasoning",
+    "nutritionPer100g": {
+      "kcal": 30,
+      "protein": 3.27,
+      "carbs": 4.35,
+      "fat": 0.73,
+      "fiber": 2.5
+    },
+    "units": {
+      "lzice": 3,
+      "lzicka": 1
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169994 (Chives, raw)",
+      "units": "USDA fdc:169994: tbsp nasekané 3 g, tsp 1 g",
+      "refuse": "USDA fdc:169994 odpad 0 %"
+    }
+  }
+]

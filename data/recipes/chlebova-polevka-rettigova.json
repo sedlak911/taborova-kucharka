@@ -1,0 +1,120 @@
+{
+  "id": "chlebova-polevka-rettigova",
+  "title": "Chlebová polévka s vejcem",
+  "titleOriginal": "Polívka chlebová",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "chleb",
+      "amount": 120,
+      "unit": "g",
+      "note": "tvrdý, starý; odhad 30 g na osobu"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "přepuštěné; odhad"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "nakrájená na nudličky; odhad"
+    },
+    {
+      "ingredientId": "pazitka",
+      "amount": 8,
+      "unit": "g",
+      "note": "čerstvá, nakrájená; odhad"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 8,
+      "unit": "g",
+      "note": "nasekaná; odhad"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "chutný; odhad 250 ml na osobu"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 4,
+      "unit": "ks",
+      "note": "jedno na osobu („tolik, kolik jest osob u stolu“)"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.4,
+      "unit": "g",
+      "note": "květ (muškátový květ, mace), mletý; odhad"
+    },
+    {
+      "ingredientId": "zazvor-mlety",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Chléb nakrájej na tenké plátky. Cibuli nakrájej na nudličky. Pažitku a petržel nasekej.",
+      "minutes": 8
+    },
+    {
+      "text": "Chléb opeč na přepuštěném másle dohněda.",
+      "minutes": 8
+    },
+    {
+      "text": "Na zbylém másle osmahni cibuli do hněda, ať se nespálí.",
+      "minutes": 6
+    },
+    {
+      "text": "Chléb a cibuli dej do polévkové mísy. Posyp je pažitkou a petrželí.",
+      "minutes": 1
+    },
+    {
+      "text": "Přiveď hovězí vývar k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Do vařícího vývaru rozklepni vejce a vař je jen tak na měkko, jako sázená. Vejce vyndej.",
+      "minutes": 4
+    },
+    {
+      "text": "Vývar okořeň muškátovým květem a zázvorem. Nalej ho na chléb v míse.",
+      "minutes": 2
+    },
+    {
+      "text": "Vejce opatrně vlož do polévky. Podávej."
+    }
+  ],
+  "modernNote": "Zdroj neuvádí žádné množství kromě vajec („celých vajec tolik, kolik jest osob u stolu“), proto 4 vejce na 4 porce. Chléb, máslo, cibule, pažitka, petržel, vývar i koření jsou domácí odhady pro 4 porce, recept je verified: false. Vývar je kupovaný nebo domácí hovězí (hovezi-vyvar), proto recept není bez masa. Květ je muškátový květ (mace); v katalogu je jako muskatovy-orisek. Zdroj nabízí druhou podobu: vejce na talíři okolo mísy s věnečkem ze smažené cibulky a pažitkou (bez cibulky a pažitky v polévce), nebo místo vajec pečené klobásy; zde je přepsána první varianta. Vejce se vaří přímo ve vývaru, zdroj má malé množství vývaru v kuthánku zvlášť; pro 4 vejce stačí hrnec s vývarem. Polévku nesol bez ochutnání, zdroj sůl nezmiňuje (vývar bývá slaný).",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 19,
+    "titleOriginal": "Polívka chlebová"
+  },
+  "verified": false,
+  "quote": "Nakrájej tvrdý chlebíček na tenké řízky a vysmaž ho v propouštěném másle do hnědá."
+}

@@ -1,0 +1,143 @@
+{
+  "id": "vanocka",
+  "title": "Vánočka",
+  "titleOriginal": "Vánočka",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 270,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "orechy",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 500,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "4 žejdlíky, měřeno objemově (≈ 125 g na žejdlík); odhad, na vál navíc trochu mouky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 175,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "10 lotů, měkké"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 105,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "6 lotů tlučeného cukru"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 6,
+      "unit": "g",
+      "note": "z jednoho citronu, drobně nakrájená nebo nastrouhaná"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "2 loty lisovaných kvasnic"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "„trochu soli“, odhad"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 200,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "„dobré mléko“ na hodně tuhé těsto, odhad; vlažné"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 140,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "čtvrt libry sultánek bez pecek"
+    },
+    {
+      "ingredientId": "mandle-blansovane",
+      "amount": 140,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "čtvrt libry sladkých mandlí, oloupaných, nakrájených"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "na potření, rozšlehané; počet zdroj neuvádí (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Máslo rozetři s moukou mezi prsty. Přidej cukr, citronovou kůru a sůl.",
+      "minutes": 10
+    },
+    {
+      "text": "Droždí rozmíchej v troše vlažného mléka a přidej k mouce. Přilévej mléko a zadělej hodně tuhé těsto.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto přikryj a nech na teplém místě řádně vykynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím přebírej a omyj rozinky. Mandle spař, oloupej a nakrájej.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Těsto vyklop na pomoučený vál, přidej rozinky a mandle. Důkladně prohněť, aby se rozložily rovnoměrně.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto rozděl na devět kousků a zakulať je. Čtyři největší rozválej na dlouhé prameny a upleť z nich spodní pletenku. Polož ji na dobře vymaštěný papír na plechu.",
+      "minutes": 15
+    },
+    {
+      "text": "Ze tří kousků rozválej prameny, upleť druhou pletenku a polož ji na první. Z posledních dvou kousků stoč prameny, zkrouť je a polož navrch. Konce po obou stranách dole pevně přimáčkni.",
+      "minutes": 10
+    },
+    {
+      "text": "Vánočku potři rozšlehaným vejcem. Nech ji kynout nejméně hodinu a půl.",
+      "minutes": 90
+    },
+    {
+      "text": "Troubu předehřej na 170 °C."
+    },
+    {
+      "text": "Peč vánočku zvolna nejméně hodinu, dokud není zlatavá a propečená.",
+      "minutes": 60
+    }
+  ],
+  "modernNote": "Dávka dá jednu velkou vánočku (porce = čtvrtina). Zdroj počet osob neuvádí, proto originalYield chybí. Množství mouky (4 žejdlíky ≈ 500 g), mléka (≈ 200 ml), soli a vajec na potření jsou odhady, zdroj je neuvádí (mouka objemově, mléko „dobré“, sůl „trochu“, vejce „rozkloktaná“). Lot ≈ 17,5 g, čtvrt libry ≈ 140 g; 2 loty droždí = 35 g čerstvého. Zdroj píše pečení v troubě „nejméně hodinu zvolna“ bez teploty (170 °C je doplněno) a sám radí rozdělit těsto na dvě menší vánočky, pokud se peče v troubě; menší vánočky peč kratší dobu (asi 40 minut). Čas kynutí první fáze zdroj neuvádí („náležitě“), 60 minut je odhad.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 356,
+    "titleOriginal": "Vánočka"
+  },
+  "verified": false,
+  "quote": "Ve čtyřech žejdlíkách mouky rozemni deset lotů másla, přidej k tomu šest lotů tlučeného cukru…"
+}
