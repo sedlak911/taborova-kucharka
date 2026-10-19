@@ -12,7 +12,7 @@
     "bez-masa",
     "sladke"
   ],
-  "equipment": [],
+  "equipment": ["lednice"],
   "allergens": [
     "mleko"
   ],

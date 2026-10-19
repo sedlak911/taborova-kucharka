@@ -57,3 +57,10 @@ test('import: kroky jako řetězce (starší export) se převedou na objekty', (
   const legacy = { ...customRecipe(), steps: customRecipe().steps.map((s) => s.text) }
   expect(parseCustomRecipesFile(JSON.stringify([legacy]), ctx)).toEqual({ recipes: [customRecipe()], skipped: [] })
 })
+
+test('import: starší vybavení „kotlík“ se převede na štítek', () => {
+  const legacy = { ...customRecipe(), equipment: ['kotlik'] }
+  const [r] = parseCustomRecipesFile(JSON.stringify([legacy]), ctx).recipes
+  expect(r.equipment).toEqual([])
+  expect(r.tags).toContain('kotlik')
+})

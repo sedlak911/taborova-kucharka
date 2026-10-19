@@ -8,7 +8,7 @@
   "timeMinutes": 30,
   "difficulty": 1,
   "tags": ["bez-masa", "rychle", "sladke", "pripravit-predem"],
-  "equipment": ["plotna"],
+  "equipment": ["plotna", "lednice"],
   "allergens": ["mleko"],
   "ingredients": [
     { "ingredientId": "zelatina", "amount": 3, "unit": "g", "note": "bez příchuti" },

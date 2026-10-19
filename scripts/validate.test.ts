@@ -154,6 +154,12 @@ describe('validateContent', () => {
     expect(r.warnings.some((w) => w.includes('rychle'))).toBe(false)
   })
 
+  it('tag tabor u receptu s vybavením lednice je varování', () => {
+    const r = validateContent(ings, rec({ ...valid, tags: ['bez-masa', 'sladke', 'tabor'], equipment: ['plotna', 'lednice'] }))
+    expect(r.errors).toEqual([])
+    expect(r.warnings.some((w) => w.includes('palacinky') && w.includes('lednice'))).toBe(true)
+  })
+
   const book = (steps: unknown[], extra: object = {}) => ({ ...valid, source: { book: 'afrs-2003' }, steps, ...extra })
   const timingWarnings = (data: { id: string }) => validateContent(ings, rec(data)).warnings.filter((w) => /minut|minutes|parallel/.test(w))
 

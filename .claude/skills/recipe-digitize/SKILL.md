@@ -72,7 +72,7 @@ Jeden recept ze skenu → `data/recipes/<id>.json` pro **4 porce**, g/ml, česky
 | `quote` | volitelně jedna zajímavá věta z originálu v původním jazyce |
 | `chapter` | `polevky` · `z-jednoho-hrnce` (guláše, eintopfy, rizota jako hlavní jídlo) · `maso-a-ryby` · `bezmasa` (hlavní jídlo bez masa) · `prilohy-a-zelenina` · `testoviny-a-ryze` · `snidane-a-pecivo` · `sladke` · `napoje`. Kapitolu určuje jídlo; `bezmasa` s masovým vývarem → vývar modernizuj na `zeleninovy-vyvar` (masový do `original`), jinak kapitola zůstane a tag `bez-masa` nesmí být |
 | `tags` | `levne` (hlavní suroviny brambory, luštěniny, rýže, mouka, těstoviny, zelí, levné maso) · `tabor` (bez trouby a speciálního vybavení, nejvýš dva hrnce) · `kotlik` (vaření/dušení, které zvládne kotlík nad ohněm) · `rychle` (`timeMinutes` ≤ 45) · `bez-masa` (žádná surovina z kategorií maso/ryby/uzeniny ani s `containsMeat`; validátor hlídá) · `sladke` · `pripravit-predem` (namáčení, marinování, chlazení ≥ 4 h) |
-| `equipment` | jen z pevné sady `plotna` · `trouba` · `kotlik` · `gril`. `trouba` jen když se **jídlo samo** peče; vedlejší technika z odkazované karty (slanina v troubě) se dělá na pánvi = `plotna`. `kotlik` jen když zdroj kotlík nad ohněm předepisuje (AFRS „steam-jacketed kettle“ je parní kotel = `plotna`) |
+| `equipment` | jen z pevné sady `plotna` · `trouba` · `gril` · `lednice`. `trouba` jen když se **jídlo samo** peče; vedlejší technika z odkazované karty (slanina v troubě) se dělá na pánvi = `plotna`. `gril` jen když je gril/rošt hlavní technika (ne „na pánvi nebo grilu“). `lednice` jen když recept bez ní nejde: tuhne (želatina, krokety), mrazí se, syrové maso leží hodiny v chladu, majonéza; „podávej vychlazené“ nestačí. `lednice` a tag `tabor` se vylučují (validátor varuje). Kotlík je jen tag (AFRS „steam-jacketed kettle“ je parní kotel = `plotna`) |
 | `allergens` | sjednocení pole `allergens` všech použitých surovin včetně `original` (`grep -A12 '"id": "testoviny"' data/ingredients.json`; validátor: chybějící = chyba, navíc = varování) |
 | `timeMinutes` | nejdelší souběžná cesta pro 4 porce (ne součet paralelních činností), bez namáčení přes noc; karta bez časů → odhad z kroků, zaokrouhli na 5. Hotovo (součet `minutes` nesouběžných kroků) leží mezi polovinou a celým `timeMinutes` |
 | `difficulty` | 1 jeden hrnec (+ pánev na opečení) a pár kroků · 2 dvě části s vlastním postupem (omáčka + těstoviny, hrnec + trouba) · 3 těsto, přesné časování, více nádobí |
@@ -98,7 +98,7 @@ Jeden recept ze skenu → `data/recipes/<id>.json` pro **4 porce**, g/ml, česky
 | Vejce v g, bobkový list v g | obojí v `ks` přesně na 0,05 (`convert … :ks=50`, `:ks=0.2`); mražená vejce do `original` |
 | Vařené maso ve zdroji mapované na syrové | `hovezi-vareno`, `kureci-maso-vareno`; vařená rýže → suchá ≈ 1/3 |
 | Uvařená rýže/těstoviny v náplni přepočtené jako suché 1:1 | suché ≈ 1/3 hmotnosti uvařené |
-| `kotlik` v `equipment` u receptu na plotnu | tag `kotlik`, `equipment: ["plotna"]` |
+| `kotlik` v `equipment` (není ve schématu) | tag `kotlik`, `equipment: ["plotna"]` |
 | `original` nezaokrouhlený nebo pro 100 porcí | `original` je pro 4 porce, zaokrouhlený stejně jako řádek |
 | Sušené mléko + voda jako dva řádky | jeden řádek `mleko-polotucne` = součet objemů, sušené do `original` |
 | Upřesnění jako nová surovina („rýže dlouhozrnná“) | existující id + `note` |

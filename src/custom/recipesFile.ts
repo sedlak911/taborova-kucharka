@@ -1,5 +1,5 @@
 import { customRecipeProblem } from '@/content/customRecipes'
-import { RecipeSchema } from '@/domain/schema'
+import { RecipeSchema, upgradeLegacyRecipe } from '@/domain/schema'
 import type { Ingredient, Recipe } from '@/domain/types'
 
 /** `vlastni-recepty-YYYY-MM-DD.json` podle místního data. */
@@ -42,7 +42,7 @@ export function parseCustomRecipesFile(
   const skipped: ImportSkip[] = []
   items.forEach((item, i) => {
     const label = itemLabel(item, i)
-    const parsed = RecipeSchema.safeParse(item)
+    const parsed = RecipeSchema.safeParse(upgradeLegacyRecipe(item))
     if (!parsed.success) {
       skipped.push({ label, reason: 'neodpovídá schématu receptu' })
       return

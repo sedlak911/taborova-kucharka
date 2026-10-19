@@ -12,7 +12,7 @@
     "rychle",
     "bez-masa"
   ],
-  "equipment": [],
+  "equipment": ["lednice"],
   "allergens": [
     "mleko"
   ],

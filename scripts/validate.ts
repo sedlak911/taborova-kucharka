@@ -79,6 +79,9 @@ export function validateContent(ingredients: unknown[], recipes: { file: string;
     if (r.tags.includes('rychle') && !isQuick(r)) {
       warnings.push(`recept ${r.id}: ruční tag rychle neodpovídá času ${r.timeMinutes} min (rychle = nejvýš ${QUICK_MAX_MINUTES} min a odvozuje se z timeMinutes)`)
     }
+    if (r.tags.includes('tabor') && r.equipment.includes('lednice')) {
+      warnings.push(`recept ${r.id}: tag tabor odporuje vybavení lednice (táborový recept se obejde bez chlazení)`)
+    }
     for (const w of stepTimingWarnings(r)) warnings.push(`recept ${r.id}: ${w}`)
     const errorsBefore = errors.length
     let hasMeat = false

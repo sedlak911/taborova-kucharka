@@ -1,4 +1,4 @@
-import { IngredientSchema, IngredientLineSchema, RecipeSchema } from './schema'
+import { IngredientSchema, IngredientLineSchema, RecipeSchema, upgradeLegacyRecipe } from './schema'
 
 const ingredient = {
   id: 'vejce', name: 'Vejce', aliases: ['vajíčko'], category: 'mlecne-a-vejce', scaling: 'linear',
@@ -75,3 +75,13 @@ test.each([
   ['neznámý klíč', { text: 'x', seconds: 30 }],
   ['prázdný řetězec', ''],
 ])('krok s %s neprojde', (_, step) => expect(RecipeSchema.safeParse({ ...recipe, steps: [step] }).success).toBe(false))
+test('vybavení kotlík už neexistuje (je to štítek)', () => expect(RecipeSchema.safeParse({ ...recipe, equipment: ['kotlik'] }).success).toBe(false))
+test('lednice je vybavení', () => expect(RecipeSchema.safeParse({ ...recipe, equipment: ['plotna', 'lednice'] }).success).toBe(true))
+test('starší recept s vybavením kotlík: vybavení se převede na štítek', () => {
+  const parsed = RecipeSchema.parse(upgradeLegacyRecipe({ ...recipe, equipment: ['kotlik', 'plotna'] }))
+  expect(parsed.equipment).toEqual(['plotna'])
+  expect(parsed.tags).toEqual(['rychle', 'levne', 'kotlik'])
+  // štítek se nezdvojí a recept bez kotlíku zůstane stejný objekt
+  expect((upgradeLegacyRecipe({ ...recipe, tags: ['kotlik'], equipment: ['kotlik'] }) as { tags: string[] }).tags).toEqual(['kotlik'])
+  expect(upgradeLegacyRecipe(recipe)).toBe(recipe)
+})

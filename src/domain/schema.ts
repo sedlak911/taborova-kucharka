@@ -3,7 +3,8 @@ import { z } from 'zod'
 export const UNITS = ['g', 'ml', 'ks', 'lzice', 'lzicka', 'hrnek', 'spetka'] as const
 export const SCALING_CLASSES = ['linear', 'seasoning', 'aromatic', 'leavening', 'fat', 'vessel'] as const
 export const TAGS = ['levne', 'tabor', 'kotlik', 'rychle', 'bez-masa', 'sladke', 'pripravit-predem'] as const
-export const EQUIPMENT = ['trouba', 'plotna', 'kotlik', 'gril'] as const
+/** `lednice` = recept bez ní nejde (tuhne, mrazí se, leží syrové hodiny v chladu). Kotlík je štítek, ne vybavení. */
+export const EQUIPMENT = ['trouba', 'plotna', 'gril', 'lednice'] as const
 export const CHAPTERS = ['polevky', 'z-jednoho-hrnce', 'maso-a-ryby', 'bezmasa', 'prilohy-a-zelenina', 'testoviny-a-ryze', 'snidane-a-pecivo', 'sladke', 'napoje'] as const
 export const CATEGORIES = ['pecivo', 'mlecne-a-vejce', 'maso', 'ryby', 'uzeniny', 'zelenina', 'ovoce', 'lusteniny-a-obiloviny', 'testoviny-a-ryze', 'koreni', 'tuky-a-oleje', 'konzervy', 'trvanlive', 'napoje', 'mrazene', 'ostatni'] as const
 export const ALLERGENS = ['lepek', 'korysi', 'vejce', 'ryby', 'arasidy', 'soja', 'mleko', 'orechy', 'celer', 'horcice', 'sezam', 'siricitany', 'vlci-bob', 'mekkysi'] as const
@@ -78,6 +79,16 @@ export const StepsSchema = z
 
 /** Nejvyšší počet porcí, pro který smí být napsaný vlastní recept (formulář „pro kolik porcí je recept napsaný“). */
 export const CUSTOM_SERVINGS_MAX = 50
+
+/**
+ * Starší vlastní recept (úložiště, soubor exportu) mohl mít vybavení `kotlik`, které je dnes štítek:
+ * vybavení se převede na štítek, aby se recept při načtení nezahodil. Jiné hodnoty projdou beze změny.
+ */
+export function upgradeLegacyRecipe(raw: unknown): unknown {
+  if (typeof raw !== 'object' || raw === null || !('equipment' in raw) || !Array.isArray(raw.equipment) || !raw.equipment.includes('kotlik')) return raw
+  const tags = 'tags' in raw && Array.isArray(raw.tags) ? raw.tags : []
+  return { ...raw, equipment: raw.equipment.filter((e) => e !== 'kotlik'), tags: tags.includes('kotlik') ? tags : [...tags, 'kotlik'] }
+}
 
 export const RecipeSchema = z.object({
   id: kebab,

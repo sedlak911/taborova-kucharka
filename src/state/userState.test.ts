@@ -242,6 +242,12 @@ describe('vlastní recepty', () => {
     expect(validCustomRecipes([legacy])).toEqual([customRecipe()]);
   });
 
+  it('vlastní recept s vybavením „kotlík“ (dřívější sada) se načte, kotlík je štítek', () => {
+    const [r] = validCustomRecipes([{ ...customRecipe(), equipment: ['kotlik', 'plotna'] }]);
+    expect(r.equipment).toEqual(['plotna']);
+    expect(r.tags).toContain('kotlik');
+  });
+
   const storageWith = (value: unknown) => ({ getItem: () => JSON.stringify(value) });
 
   it('platné se načtou, neplatné, cizí a duplicitní se zahodí s varováním', () => {

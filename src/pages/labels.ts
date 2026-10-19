@@ -16,8 +16,8 @@ export const TAG_LABEL: Record<Tag, string> = {
 export const EQUIPMENT_LABEL: Record<Equipment, string> = {
   trouba: 'trouba',
   plotna: 'plotna',
-  kotlik: 'kotlík',
   gril: 'gril',
+  lednice: 'lednice',
 }
 
 export const ALLERGEN_LABEL: Record<Allergen, string> = {

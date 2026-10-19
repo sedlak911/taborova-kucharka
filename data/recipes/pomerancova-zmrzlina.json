@@ -7,7 +7,7 @@
   "timeMinutes": 45,
   "difficulty": 1,
   "tags": ["bez-masa", "sladke", "pripravit-predem"],
-  "equipment": ["plotna"],
+  "equipment": ["plotna", "lednice"],
   "allergens": [],
   "ingredients": [
     { "ingredientId": "pomeranc", "amount": 4, "unit": "ks", "note": "velké pomeranče; použij šťávu" },

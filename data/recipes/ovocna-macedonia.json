@@ -7,7 +7,7 @@
   "timeMinutes": 180,
   "difficulty": 2,
   "tags": ["sladke", "bez-masa"],
-  "equipment": [],
+  "equipment": ["lednice"],
   "allergens": [],
   "ingredients": [
     { "ingredientId": "jahody", "amount": 120, "unit": "g", "note": "čerstvé, zralé" },

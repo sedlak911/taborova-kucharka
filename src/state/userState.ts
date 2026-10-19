@@ -1,7 +1,7 @@
 import { z } from 'zod';
 import { DAY_FACTOR_MAX, DAY_FACTOR_MIN, DAY_FACTOR_STEP, type People } from '../domain/portions';
 import { DEFAULT_CHILD_COEF } from '../domain/scaling';
-import { RecipeSchema } from '../domain/schema';
+import { RecipeSchema, upgradeLegacyRecipe } from '../domain/schema';
 import type { Recipe } from '../domain/types';
 
 /** Klíč v localStorage; verze v klíči umožní pozdější migraci. */
@@ -63,7 +63,7 @@ type ParsedUserState = z.infer<typeof userStateSchema>;
 export function validCustomRecipes(raw: readonly unknown[]): Recipe[] {
   const out: Recipe[] = [];
   raw.forEach((item, i) => {
-    const parsed = RecipeSchema.safeParse(item);
+    const parsed = RecipeSchema.safeParse(upgradeLegacyRecipe(item));
     if (!parsed.success) {
       console.warn(`Vlastní recept č. ${i + 1} neodpovídá schématu a byl zahozen.`, parsed.error.issues);
       return;

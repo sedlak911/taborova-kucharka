@@ -16,7 +16,7 @@ export const FILTER_TAG_LABEL: Record<FilterTag, string> = {
   rychle: 'rychlé',
   historicke: 'historické',
   tabor: 'táborové',
-  kotlik: 'do kotlíku', // odlišné od vybavení „kotlík“
+  kotlik: 'do kotlíku',
   'pripravit-predem': 'připravit předem',
 }
 

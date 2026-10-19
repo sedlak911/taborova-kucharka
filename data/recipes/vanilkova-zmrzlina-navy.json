@@ -13,7 +13,7 @@
     "pripravit-predem",
     "bez-masa"
   ],
-  "equipment": [],
+  "equipment": ["lednice"],
   "allergens": [
     "mleko"
   ],

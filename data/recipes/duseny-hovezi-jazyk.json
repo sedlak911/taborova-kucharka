@@ -6,8 +6,8 @@
   "baseServings": 4,
   "timeMinutes": 285,
   "difficulty": 1,
-  "tags": ["pripravit-predem", "tabor", "kotlik"],
-  "equipment": ["plotna"],
+  "tags": ["pripravit-predem", "kotlik"],
+  "equipment": ["plotna", "lednice"],
   "allergens": ["celer", "lepek", "mleko"],
   "ingredients": [
     { "ingredientId": "hovezi-jazyk-syrovy", "amount": 600, "unit": "g", "note": "celý, čerstvý; zdroj neuvádí váhu", "group": "Jazyk" },

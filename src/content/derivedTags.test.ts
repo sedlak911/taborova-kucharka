@@ -40,8 +40,8 @@ test('historické = kniha vydaná před rokem 1950', () => {
 test('sada štítků filtru: bez bez-masa a sladké, s popisky', () => {
   expect(FILTER_TAGS).toEqual(['levne', 'rychle', 'historicke', 'tabor', 'kotlik', 'pripravit-predem'])
   for (const t of FILTER_TAGS) expect(FILTER_TAG_LABEL[t]).toBeTruthy()
-  // pilulka štítku se nesmí jmenovat stejně jako pilulka vybavení „kotlík“
-  expect(FILTER_TAG_LABEL.kotlik).not.toBe(EQUIPMENT_LABEL.kotlik)
+  // pilulka štítku se nesmí jmenovat stejně jako pilulka vybavení
+  for (const t of FILTER_TAGS) expect(Object.values(EQUIPMENT_LABEL)).not.toContain(FILTER_TAG_LABEL[t])
 })
 
 test('ruční štítky se čtou z dat', () => {

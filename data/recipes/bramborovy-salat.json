@@ -8,7 +8,7 @@
   "timeMinutes": 90,
   "difficulty": 1,
   "tags": ["levne", "bez-masa"],
-  "equipment": ["plotna"],
+  "equipment": ["plotna", "lednice"],
   "allergens": ["vejce", "celer", "horcice"],
   "ingredients": [
     { "ingredientId": "brambory", "amount": 330, "unit": "g", "note": "vařené, nakrájené na kostky" },
