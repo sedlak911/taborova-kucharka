@@ -7,6 +7,9 @@ import { OWN_ID, customRecipe } from '@/test/customRecipe'
 import { seedUserState } from '@/test/seedState'
 import { DEFAULT_USER_STATE, STORAGE_KEY, type UserState } from '@/state/userState'
 
+// celá kniha má v jsdom ~11 000 uzlů a dotazy podle role ji procházejí; v prohlížeči tytéž kroky trvají milisekundy
+vi.setConfig({ testTimeout: 60_000 })
+
 beforeEach(() => {
   // stav se ukládá i při odmontování a nesmí prosakovat mezi testy (Node 25 podstrkuje rozbitý globální localStorage)
   try { window.localStorage.clear() } catch { /* úložiště nedostupné = nic neprosakuje */ }

@@ -142,7 +142,8 @@ test('naměřené výšky: žádná stránka nepřeteče a každá je zaplněná
 
 test('kapitoly navazují na téže stránce a nadpis kapitoly nezůstane sám na konci', () => {
   const pages = paginateTocRows(allRows, desktop)
-  expect(pages.some((p) => p.filter((r) => r.kind === 'chapter').length >= 2)).toBe(true)
+  // kapitola nezačíná novou stránkou: aspoň jeden nadpis kapitoly stojí pod recepty předchozí kapitoly
+  expect(pages.some((p) => p.slice(1).some((r) => r.kind === 'chapter'))).toBe(true)
   for (const p of pages) if (p.length) expect(p.at(-1)?.kind).toBe('recipe')
 })
 

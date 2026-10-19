@@ -18,9 +18,10 @@ test('úvod polévek obsahuje název, citát, zdroj, úvod a názvy všech recep
   expect(screen.getByText(meta.quoteSource)).toBeInTheDocument()
   expect(screen.getByText(meta.intro)).toBeInTheDocument()
   for (const r of list) {
-    const link = screen.getByRole('link', { name: r.title })
-    expect(link).toHaveAttribute('href', `#/recept/${encodeURIComponent(r.id)}`)
-    expect(link.closest('li')).toHaveTextContent(String(pageOf(r.id)))
+    // stejný název může mít recept z víc knih (Zeleninová polévka z Navy i AFRS), odkaz se proto hledá podle cíle
+    const link = screen.getAllByRole('link', { name: r.title }).find((a) => a.getAttribute('href') === `#/recept/${encodeURIComponent(r.id)}`)
+    expect(link).toBeDefined()
+    expect(link!.closest('li')).toHaveTextContent(String(pageOf(r.id)))
   }
 })
 

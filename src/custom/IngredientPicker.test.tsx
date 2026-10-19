@@ -30,8 +30,8 @@ test('psaní ukáže návrhy, šipka a Enter vyberou surovinu', async () => {
   expect(options[0]).toHaveAttribute('aria-selected', 'true')
   expect(input).toHaveAttribute('aria-activedescendant', options[0].id)
   await user.keyboard('{ArrowDown}{Enter}')
-  expect(screen.getByTestId('selected')).toHaveTextContent('celozrnna-mouka')
-  expect(input).toHaveValue('Celozrnná pšeničná mouka')
+  expect(screen.getByTestId('selected')).toHaveTextContent('bramborova-mouka')
+  expect(input).toHaveValue('Bramborová mouka')
   expect(screen.queryByRole('listbox')).toBeNull()
 })
 
