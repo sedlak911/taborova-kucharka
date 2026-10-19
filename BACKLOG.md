@@ -23,6 +23,14 @@ Databáze: validate 0 CHYBA (varování jen kcal < 50 u zálivek/salátů/vývar
 6. ~~Podněty do skillu `recipe-digitize`~~ – zapracováno 2026-10-19 (SKILL.md id/originalYield/časy, scaling-rules, ingredients, batch); agentní test Haiku baseline → po úpravě: 6 mezer vyřešeno.
 7. **Proklik mezi recepty**: když se recept odkazuje na jiný recept (např. apple pie → Pie Pastry, AFRS „See Recipe No. …“), aplikace by měla nabídnout odkaz na ten recept. Vyžaduje pole ve schématu (např. `ingredients[].recipeId` nebo `relatedRecipes`), úpravu `src/domain/schema.ts`, `scripts/validate.ts` (cíl musí existovat) a UI. Po zavedení pročistit recepty, kde je odkazovaná karta zatím vložená přímo (nyní `jablecny-kolac-apple-pie` s těstem; cíl `testo-na-pie`, N45-6).
 
+8. **Nové knihy (přidané 2026-10-19)** – z každé hotových 5 receptů (Haiku, 2026-10-19; bez Sonnet/Opus ověřovatele čísel – u `verified: true` z PDF knih ověřit proti obrázku; Army: `zitny-chleb-army` a `celozrnny-chleb-army` nahradily slad medem, `kasarensky-chleb` založil `slad-sladovy` – sjednotit). Připravené (text v `extracted/`, analýza a výběr důležitých receptů v `analysis/<book>.md`, kniha v `BOOKS`, `books.ts`, `themes.css`, zvláštnosti v `reference/books.md`), zatím bez receptů. Na stránce Zdroje a ve filtru obsahu se kniha objeví s prvním receptem. Uživatel má málo tokenů → digitalizovat **jen výběr** z analýz, nejdřív Receptury 1983 (přesné gramy) a Rettigová:
+   - `receptury-1983` – Receptury teplých pokrmů 1983, `analysis/receptury-1983.md` (P1/P2; nejdřív Vývar B 10101), nadpisy `analysis/receptury-1983_titles.tsv`
+   - `rettigova-1868` – Domácí kuchařka, `analysis/rettigova-1868.md`, nadpisy `analysis/rettigova-1868_titles.tsv`
+   - `glasse-1747` – The Art of Cookery, `analysis/glasse-1747.md`
+   - `hauptmann-1877` – Bread and Cake Baking, `analysis/hauptmann-1877.md`
+   - `wells-1890` – Bread and Biscuit Baker's Assistant, `analysis/wells-1890.md`
+   - `army-baker-1945` – TM 10-410 The Army Baker, `analysis/army-baker-1945.md`
+
 ## Navy – zbývající řádky shortlistu (N36–N49)
 
 Úplné řádky (strana PDF, kapitola, tagy, poznámky) jsou v `data/recipes/SHORTLIST.md`.

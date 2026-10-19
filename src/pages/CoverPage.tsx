@@ -6,8 +6,10 @@ interface CoverPageProps {
   title?: string
 }
 
-const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni')
+// chronologicky – s deseti knihami se seznam jinak špatně čte
+const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni').sort((a, b) => BOOK_META[a].year - BOOK_META[b].year)
 
+// cover-page__sources - visually hidden, zatim schvalne kvuli designu
 export function CoverPage({ title = COOKBOOK_TITLE }: CoverPageProps) {
   return (
     <article className="cover-page">
@@ -15,9 +17,9 @@ export function CoverPage({ title = COOKBOOK_TITLE }: CoverPageProps) {
       <div className="cover-page__inner">
         <h1 className="cover-page__title">{title}</h1>
         <p className="cover-page__subtitle">
-          Sbírka receptů ze čtyř historických kuchařek z let {SOURCE_BOOKS.map((b) => BOOK_META[b].year).sort().join(', ')}
+          Sbírka receptů z historických kuchařek z let {SOURCE_BOOKS.map((b) => BOOK_META[b].year).join(', ')}
         </p>
-        <ul className="cover-page__sources">
+        <ul className="cover-page__sources, visually-hidden">
           {SOURCE_BOOKS.map((b) => (
             <li key={b}>
               {BOOK_META[b].title} ({BOOK_META[b].year})

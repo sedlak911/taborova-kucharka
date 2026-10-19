@@ -1,7 +1,90 @@
-/* styly epoch – jen CSS, žádné obrázky */
+/* Epochy: každá kniha má vlastní papír, inkoust a písmo podle doby a místa vydání.
+   Třída `era--<book>` je na `.page` (papír a barva textu celé stránky), na `.recipe-page`
+   a na položce seznamu zdrojů (`.about-source`, tam jen písmo a barevný proužek `--swatch`).
+   Proměnné: --paper / --paper-dark (podklad), --ink / --ink-soft (text), --accent (nadpis receptu),
+   --swatch (poznávací barva knihy), --rule (linky). Kontrast textu ≥ 7:1, akcentu ≥ 4,5:1. */
 
+.about-source { border-left: 4px solid var(--swatch, var(--ink-soft)); padding-left: 0.7em; }
+
+/* ---------- Glasse 1747: georgiánský tisk, Caslon, titulní strana v červené a černé ---------- */
+.era--glasse-1747 {
+  --paper: #efe3c6;
+  --paper-dark: #e2d2ab;
+  --ink: #2a1d12;
+  --ink-soft: #5e4a35;
+  --accent: #962216;
+  --swatch: #962216;
+  --rule: 1px solid var(--ink);
+  font-family: 'Libre Caslon Text', var(--font-body);
+}
+.era--glasse-1747 h1,
+.era--glasse-1747 h2,
+.era--glasse-1747 h3 { font-family: 'Libre Caslon Display', 'Libre Caslon Text', serif; font-weight: 400; }
+.era--glasse-1747 .recipe-head h2 { color: var(--accent); text-transform: uppercase; letter-spacing: 0.12em; font-size: 1.5rem; }
+.era--glasse-1747 .recipe-head { border-bottom: 3px double var(--ink); padding-bottom: 0.4em; }
+.era--glasse-1747 hr,
+.era--glasse-1747 .rule { border: 0; border-top: var(--rule); }
+
+/* ---------- Rettigová 1868: české obrození, moderní antikva, lahvově zelené ornamenty ---------- */
+.era--rettigova-1868 {
+  --paper: #f4ead2;
+  --paper-dark: #e7d8b6;
+  --ink: #2b2316;
+  --ink-soft: #5b4d38;
+  --accent: #2e4b3c;
+  --swatch: #2e4b3c;
+  --rule: 4px double var(--accent);
+  font-family: 'Old Standard TT', var(--font-body);
+}
+.era--rettigova-1868 h1,
+.era--rettigova-1868 h2,
+.era--rettigova-1868 h3 { font-family: 'Old Standard TT', serif; font-weight: 400; font-style: italic; }
+.era--rettigova-1868 .recipe-head { text-align: center; border-top: var(--rule); border-bottom: var(--rule); padding: 0.5em 0 0.4em; }
+.era--rettigova-1868 .recipe-head h2 { color: var(--accent); font-size: 1.6rem; }
+.era--rettigova-1868 hr,
+.era--rettigova-1868 .rule { border: 0; border-top: var(--rule); }
+
+/* ---------- Hauptmann 1877: americký plakát z dřevěného písma, slabé patky, cihlová ---------- */
+.era--hauptmann-1877 {
+  --paper: #efe2c3;
+  --paper-dark: #e0cfa6;
+  --ink: #2a1f14;
+  --ink-soft: #5c4a36;
+  --accent: #8a3320;
+  --swatch: #8a3320;
+  --rule: 2px solid var(--ink);
+}
+.era--hauptmann-1877 h1,
+.era--hauptmann-1877 h2,
+.era--hauptmann-1877 h3 { font-family: 'Alfa Slab One', serif; font-weight: 400; letter-spacing: 0.02em; }
+.era--hauptmann-1877 .recipe-head h2 { color: var(--accent); text-transform: uppercase; font-size: 1.55rem; }
+/* tučná a tenká linka pod titulem jako na plakátech */
+.era--hauptmann-1877 .recipe-head { border-bottom: 4px solid var(--ink); box-shadow: 0 3px 0 var(--paper), 0 4px 0 var(--ink); padding-bottom: 0.3em; margin-bottom: 0.6em; }
+.era--hauptmann-1877 hr,
+.era--hauptmann-1877 .rule { border: 0; border-top: var(--rule); }
+
+/* ---------- Wells 1890: viktoriánská příručka londýnského nakladatele, Didot, volská krev ---------- */
+.era--wells-1890 {
+  --paper: #ece4d0;
+  --paper-dark: #ddd2b8;
+  --ink: #23201c;
+  --ink-soft: #57503f;
+  --accent: #6e1f2b;
+  --swatch: #6e1f2b;
+  --rule: 3px double var(--accent);
+}
+.era--wells-1890 h1,
+.era--wells-1890 h2,
+.era--wells-1890 h3 { font-family: 'Playfair Display', serif; font-weight: 700; }
+.era--wells-1890 .recipe-head h2 { color: var(--accent); font-variant: small-caps; letter-spacing: 0.05em; font-size: 1.6rem; }
+.era--wells-1890 .recipe-head { border-bottom: var(--rule); padding-bottom: 0.3em; }
+.era--wells-1890 hr,
+.era--wells-1890 .rule { border: 0; border-top: var(--rule); }
+
+/* ---------- Gentile 1919 ---------- */
 .era--italian-1919 {
   --paper: #f6ecd4;
+  --swatch: #7a5a2e;
   --rule: 3px double var(--ink-soft);
 }
 .era--italian-1919 h1,
@@ -10,8 +93,10 @@
 .era--italian-1919 hr,
 .era--italian-1919 .rule { border: 0; border-top: var(--rule); }
 
+/* ---------- Feldkochbuch 1940 ---------- */
 .era--feldkochbuch-1940 {
   --paper: #ece4cf;
+  --swatch: #3d3a33;
   --rule: 2px solid var(--ink);
 }
 .era--feldkochbuch-1940 h1,
@@ -20,20 +105,86 @@
 .era--feldkochbuch-1940 hr,
 .era--feldkochbuch-1940 .rule { border: 0; border-top: var(--rule); }
 
+/* ---------- Navy 1944: námořní modř, bílý text, signální zlatá, gothic z vládních tiskovin ---------- */
 .era--navy-1944 {
-  --paper: #e9e6d6;
-  --rule: 1px solid var(--ink-soft);
+  --paper: #1c2c4a;
+  --paper-dark: #142139;
+  --ink: #f1ede2;
+  --ink-soft: #bfc8d8;
+  --accent: #e8c15a;
+  --swatch: #1c2c4a;
+  --rule: 1px solid rgba(241, 237, 226, 0.35);
+}
+/* tmavý papír: bez zažloutlé vinětace, jen jemné zrno */
+.page.era--navy-1944 {
+  background-image:
+    radial-gradient(ellipse at center, transparent 60%, rgba(0, 0, 0, 0.28) 100%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.05 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
 }
 .era--navy-1944 h1,
 .era--navy-1944 h2,
-.era--navy-1944 h3 { font-family: var(--font-table); text-transform: uppercase; letter-spacing: 0.06em; }
-/* tabulka surovin jako linkovaný formulář */
+.era--navy-1944 h3 { font-family: 'Libre Franklin', var(--font-table); font-weight: 800; text-transform: uppercase; letter-spacing: 0.06em; }
+.era--navy-1944 .recipe-head h2 { color: var(--accent); }
 .era--navy-1944 table { border-collapse: collapse; width: 100%; font-family: var(--font-table); }
 .era--navy-1944 td,
 .era--navy-1944 th { border-bottom: var(--rule); padding: 0.25em 0.4em; text-align: left; }
+.page.era--navy-1944 .recipe-steps li.is-current { background: rgba(232, 193, 90, 0.16); }
+.page.era--navy-1944 .page-more { color: var(--ink); }
+/* v seznamu zdrojů je papír světlý: tmavá paleta platí jen na stránce receptu */
+.about-source.era--navy-1944 { --ink: #2a2118; --ink-soft: #3d4a63; }
 
+/* ---------- Army Baker 1945: khaki papír, olivová, šablonové písmo jako na bednách ---------- */
+.era--army-baker-1945 {
+  --paper: #ddd3ad;
+  --paper-dark: #cdc293;
+  --ink: #23260f;
+  --ink-soft: #4a4f2b;
+  --accent: #4b5320;
+  --swatch: #4b5320;
+  --rule: 1px solid var(--ink-soft);
+  font-family: 'Libre Franklin', var(--font-table);
+}
+.era--army-baker-1945 h1,
+.era--army-baker-1945 h2,
+.era--army-baker-1945 h3 { font-family: 'Libre Franklin', var(--font-table); font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; }
+/* titul receptu = šablonový nápis na olivovém pruhu */
+.era--army-baker-1945 .recipe-head h2 {
+  display: inline-block; padding: 0.15em 0.45em 0.05em;
+  font-family: 'Big Shoulders Stencil Display', 'Libre Franklin', sans-serif; font-weight: 800; font-size: 1.9rem; letter-spacing: 0.06em;
+  color: #ece4c4; background: var(--accent);
+}
+.era--army-baker-1945 table { border-collapse: collapse; width: 100%; }
+.era--army-baker-1945 td,
+.era--army-baker-1945 th { border-bottom: var(--rule); padding: 0.25em 0.4em; text-align: left; }
+.era--army-baker-1945 hr,
+.era--army-baker-1945 .rule { border: 0; border-top: var(--rule); }
+
+/* ---------- Receptury 1983: státní normativ – nažloutlý papír, červená a žlutá, groteska ---------- */
+.era--receptury-1983 {
+  --paper: #f6eecb;
+  --paper-dark: #ebdfa8;
+  --ink: #1f1a17;
+  --ink-soft: #4d443b;
+  --accent: #b3261e;
+  --swatch: #b3261e;
+  --rule: 1px solid var(--ink);
+  font-family: 'Archivo Narrow', var(--font-table);
+}
+.era--receptury-1983 h1,
+.era--receptury-1983 h2,
+.era--receptury-1983 h3 { font-family: 'Archivo Black', var(--font-table); font-weight: 400; text-transform: uppercase; letter-spacing: 0.03em; }
+/* titul jako hlavička receptury: červený nápis, žlutý proužek s číslem normy po levé straně */
+.era--receptury-1983 .recipe-head h2 { color: var(--accent); border-left: 0.45em solid #f2c230; padding-left: 0.35em; }
+.era--receptury-1983 .recipe-head { border-bottom: 3px solid var(--accent); padding-bottom: 0.3em; }
+.era--receptury-1983 table { border-collapse: collapse; width: 100%; border-top: 3px solid var(--accent); border-bottom: var(--rule); }
+.era--receptury-1983 th { background: #f2c230; color: var(--ink); }
+.era--receptury-1983 td,
+.era--receptury-1983 th { padding: 0.2em 0.4em; text-align: left; border-bottom: 1px solid rgba(31, 26, 23, 0.25); }
+
+/* ---------- AFRS 2003 ---------- */
 .era--afrs-2003 {
   --paper: #f4f1e8;
+  --swatch: #556070;
   --rule: 1px solid var(--ink-soft);
 }
 .era--afrs-2003 h1,
@@ -64,9 +215,15 @@
 .recipe-page.era--vlastni .source { font-family: var(--font-hand); }
 
 /* Běžící hlavička pravé strany receptu si drží jednotný vzhled napříč epochami. */
+.era--glasse-1747 h2.recipe-running-head,
+.era--rettigova-1868 h2.recipe-running-head,
+.era--hauptmann-1877 h2.recipe-running-head,
+.era--wells-1890 h2.recipe-running-head,
 .era--italian-1919 h2.recipe-running-head,
 .era--feldkochbuch-1940 h2.recipe-running-head,
 .era--navy-1944 h2.recipe-running-head,
+.era--army-baker-1945 h2.recipe-running-head,
+.era--receptury-1983 h2.recipe-running-head,
 .era--afrs-2003 h2.recipe-running-head {
   font-family: var(--font-body);
   font-style: italic;
@@ -74,3 +231,17 @@
   text-transform: none;
   letter-spacing: 0.04em;
 }
+
+/* tisk: bez barevných podkladů (papír je v tisku bílý, viz print.css) */
+@media print {
+  .era--army-baker-1945 .recipe-head h2 { color: #000; background: none; padding: 0; }
+  .era--navy-1944 { --ink: #000; --ink-soft: #444; --rule: 1px solid #999; }
+  .era--navy-1944 .recipe-head h2 { color: #000; }
+  .era--receptury-1983 th { background: none; }
+}
+
+/* knihy z 18.–19. století: tabulka surovin v písmu knihy, ne v moderní grotesce */
+.era--glasse-1747 table,
+.era--rettigova-1868 table,
+.era--hauptmann-1877 table,
+.era--wells-1890 table { font-family: inherit; }

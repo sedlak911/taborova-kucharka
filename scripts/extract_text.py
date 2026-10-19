@@ -8,9 +8,11 @@ Output per book:
 Methods:
   textlayer  - `pdftotext -layout` page by page (embedded text layer)
   tesseract  - rasterize with PyMuPDF and OCR with tesseract (subprocess)
+  html       - Project Gutenberg HTML; pages split at the printed page markers
+               (`<span class="pagenum">[12]</span>`), so N in `=== PAGE N ===` is the printed page
 
 Requirements: .venv with pymupdf (+ pillow), tesseract binary (brew install tesseract),
-traineddata in .venv/tessdata (eng, frak2021 from UB Mannheim).
+traineddata in .venv/tessdata (eng, ces, frak2021 from UB Mannheim).
 
 Usage:  .venv/bin/python scripts/extract_text.py [book_name ...] [--jobs N]
 """
@@ -41,7 +43,7 @@ TESSERACT = shutil.which("tesseract") or "/opt/homebrew/bin/tesseract"
 class Book:
     name: str
     pdf: str
-    method: str  # "textlayer" | "tesseract"
+    method: str  # "textlayer" | "tesseract" | "html"
     lang: str = "eng"
     dpi: int = 300
     psm: int = 4
@@ -50,6 +52,7 @@ class Book:
     crop_bottom: float = 0.0
     drop_patterns: list[str] = field(default_factory=list)
     normalize_fraktur: bool = False
+    normalize_long_s: bool = False  # 18th-century print: OCR reads long s as f ("publifhed")
     strip_leaders: bool = False
     vision_lang: str | None = None  # macOS Vision (ocrmac) fallback for pages tesseract leaves empty
 
@@ -74,6 +77,16 @@ BOOKS = [
     Book("us-navy-cookbook-1944", "TheCookBookOfTheUnitedStatesNavy1944.pdf", "tesseract",
          lang="eng", psm=4, crop_left=0.035, drop_patterns=HATHI_NOISE, strip_leaders=True,
          vision_lang="en-US"),
+    # MKP e-book (Word -> PDF) of the 1868 edition: clean embedded text
+    Book("rettigova-domaci-kucharka", "domaci_kucharka 1820.pdf", "textlayer"),
+    # 1983 scan without a text layer; a few PDF pages are two-page spreads
+    Book("army-baker-1945", "army baker 1945.pdf", "textlayer"),  # TM 10-410, ABBYY text layer
+    Book("wells-bread-biscuit-baker-1890", "The Bread and Biscuit Baker's.html", "html"),
+    Book("hauptmann-bread-cake-baking-1877", "bread-and-cake-baking/pg78839-images.html", "html"),
+    # Internet Archive scan (Google), undated Wangford edition; poor text layer
+    Book("glasse-art-of-cookery", "The_Art_of_Cookery_text.pdf", "textlayer", normalize_long_s=True),
+    Book("receptury-teplych-pokrmu-1983", "Receptury teplých pokrmů.pdf", "tesseract",
+         lang="ces", psm=4, split_spread=True),
 ]
 
 # ---------------------------------------------------------------- cleanup helpers
@@ -101,6 +114,43 @@ def strip_leader_garbage(line: str) -> str:
     return out.rstrip()
 
 
+_WORDS: set[str] | None = None
+
+
+def _known(word: str) -> bool:
+    global _WORDS
+    if _WORDS is None:
+        dict_path = Path("/usr/share/dict/words")
+        _WORDS = {w.strip().lower() for w in dict_path.read_text().splitlines()} if dict_path.exists() else set()
+    w = word.lower()
+    if w in _WORDS:
+        return True
+    for suf, rep in (("ies", "y"), ("es", ""), ("s", ""), ("ed", ""), ("ed", "e"), ("ing", ""), ("ing", "e"),
+                     ("ly", ""), ("er", ""), ("est", ""), ("'d", ""), ("'d", "e")):
+        if w.endswith(suf) and w[: -len(suf)] + rep in _WORDS:
+            return True
+    return False
+
+
+def fix_long_s(text: str) -> str:
+    """Replace OCR 'f' (long s) by 's' where the f-word is unknown and an s-variant is a word."""
+    def repl(m: re.Match) -> str:
+        w = m.group(0)
+        if _known(w):
+            return w
+        idx = [i for i, c in enumerate(w) if c == "f"]
+        for mask in range(1, 1 << min(len(idx), 4)):
+            cand = list(w)
+            for b, i in enumerate(idx[:4]):
+                if mask >> b & 1:
+                    cand[i] = "s"
+            cand = "".join(cand)
+            if _known(cand):
+                return cand
+        return w
+    return re.sub(r"[A-Za-z']*f[A-Za-z']*", repl, text)
+
+
 def clean_text(text: str, book: Book) -> str:
     drop = [re.compile(p, re.I) for p in book.drop_patterns]
     lines = []
@@ -111,6 +161,8 @@ def clean_text(text: str, book: Book) -> str:
             line = line.replace("ſ", "s").replace("⸗", "-")
         if book.strip_leaders:
             line = strip_leader_garbage(line)
+        if book.normalize_long_s:
+            line = fix_long_s(line)
         lines.append(line.rstrip())
     text = "\n".join(lines)
     text = re.sub(r"\n{3,}", "\n\n", text)  # collapse runs of blank lines
@@ -239,21 +291,49 @@ def ocr_pages(pdf: Path, book: Book, jobs: int) -> list[str]:
     return out
 
 
+def html_pages(path: Path) -> tuple[list[str], list[str]]:
+    """(labels, texts): text before the first page marker is dropped (Gutenberg header)."""
+    import html as htmlmod
+
+    src = path.read_text(encoding="utf-8")
+    src = re.sub(r"<(script|style)\b.*?</\1>", "", src, flags=re.S | re.I)
+    src = src.split("*** END OF THE PROJECT GUTENBERG", 1)[0]
+    # two Gutenberg styles: <span class="pagenum"><a id="Page_12">[12]</a></span>
+    # and <span class="pagenum" id="Page_12">[Pg 12]</span>
+    marks = list(re.finditer(r'<span class="pagenum"(?: id="Page_([^"]+)")?>(?:<a id="Page_([^"]+)">)?[^<]*(?:</a>)?</span>', src))
+    labels, texts = [], []
+    for m, nxt in zip(marks, marks[1:] + [None]):
+        label = m.group(1) or m.group(2)
+        chunk = src[m.end():nxt.start() if nxt else len(src)]
+        chunk = re.sub(r"<br\s*/?>|</(p|div|h\d|tr|li)>", "\n", chunk, flags=re.I)
+        chunk = re.sub(r"</t[dh]>", "  ", chunk, flags=re.I)
+        text = htmlmod.unescape(re.sub(r"<[^>]+>", "", chunk))
+        text = "\n".join(re.sub(r"[ \t]+", " ", l).strip() for l in text.splitlines())
+        labels.append(label)
+        texts.append(re.sub(r"\n{3,}", "\n\n", text).strip())
+    return labels, texts
+
+
 # ---------------------------------------------------------------- main
 
 def process(book: Book, jobs: int) -> None:
     pdf = DOCS / book.pdf
     print(f"==> {book.name} ({book.method}) from {pdf.name}", flush=True)
-    raw = textlayer_pages(pdf) if book.method == "textlayer" else ocr_pages(pdf, book, jobs)
+    if book.method == "html":
+        labels, raw = html_pages(pdf)
+    else:
+        raw = textlayer_pages(pdf) if book.method == "textlayer" else ocr_pages(pdf, book, jobs)
+        labels = [str(i) for i in range(1, len(raw) + 1)]
     pages = [clean_text(t, book) for t in raw]
 
     page_dir = OUT / book.name
     if page_dir.exists():
         shutil.rmtree(page_dir)
     page_dir.mkdir(parents=True)
-    for i, t in enumerate(pages, 1):
-        (page_dir / f"page_{i:04d}.txt").write_text(t, encoding="utf-8")
-    merged = "".join(f"\n\n=== PAGE {i} ===\n\n{t}" for i, t in enumerate(pages, 1))
+    for label, t in zip(labels, pages):
+        name = f"page_{int(label):04d}" if label.isdigit() else f"page_{label}"
+        (page_dir / f"{name}.txt").write_text(t, encoding="utf-8")
+    merged = "".join(f"\n\n=== PAGE {label} ===\n\n{t}" for label, t in zip(labels, pages))
     (OUT / f"{book.name}.txt").write_text(merged.lstrip("\n"), encoding="utf-8")
     empty = sum(1 for t in pages if not t.strip())
     print(f"    {len(pages)} pages, {sum(len(t) for t in pages):,} chars, {empty} empty pages", flush=True)

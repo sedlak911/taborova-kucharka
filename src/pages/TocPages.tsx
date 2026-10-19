@@ -14,7 +14,7 @@ import { HeartIcon, PenIcon } from './icons'
 import { EQUIPMENT_LABEL } from './labels'
 import { RecipeMarks } from './RecipeMarks'
 
-const FILTER_BOOKS: Book[] = ['italian-1919', 'feldkochbuch-1940', 'navy-1944', 'afrs-2003']
+const FILTER_BOOKS: Book[] = ['glasse-1747', 'rettigova-1868', 'hauptmann-1877', 'wells-1890', 'italian-1919', 'feldkochbuch-1940', 'navy-1944', 'army-baker-1945', 'receptury-1983', 'afrs-2003']
 
 function toggle<T>(list: T[], value: T): T[] {
   return list.includes(value) ? list.filter((v) => v !== value) : [...list, value]
@@ -61,7 +61,8 @@ function FilterPanel({ recipes, filter, onFilterChange, onNewRecipe }: HeadProps
   // jen vybavení, které některý recept opravdu uvádí (pilulka bez receptů by vždy vrátila „Nic nenalezeno“)
   const equipment = EQUIPMENT.filter((e) => recipes.some((r) => r.equipment.includes(e)))
   // „Vlastní“ jen když nějaký vlastní recept existuje (pilulka bez receptů by vždy vrátila „Nic nenalezeno“)
-  const books: Book[] = recipes.some(isCustomRecipe) ? [...FILTER_BOOKS, 'vlastni'] : FILTER_BOOKS
+  const sourceBooks = FILTER_BOOKS.filter((b) => recipes.some((r) => r.source.book === b))
+  const books: Book[] = recipes.some(isCustomRecipe) ? [...sourceBooks, 'vlastni'] : sourceBooks
   return (
     <div className="toc-filters">
       <fieldset>

@@ -52,10 +52,10 @@ test('rychlé je odvozené z času, ne z ručního tagu', () => {
   expect(quick.length).toBeGreaterThan(recipes.filter((r) => r.tags.includes('rychle')).length)
 })
 
-test('historické = všechny knihy kromě AFRS 2003', () => {
+test('historické = knihy vydané před rokem 1950 (ne AFRS 2003 ani Receptury 1983)', () => {
   const hist = ids({ tags: ['historicke'] })
   expect(hist.length).toBeGreaterThan(0)
-  expect(hist).toHaveLength(recipes.filter((r) => r.source.book !== 'afrs-2003' && r.source.book !== 'vlastni').length)
+  expect(hist).toHaveLength(recipes.filter((r) => !['afrs-2003', 'receptury-1983', 'vlastni'].includes(r.source.book)).length)
 })
 
 const units = (rows: TocRow[]) => rows.reduce((s, r) => s + tocRowUnits(r), 0)

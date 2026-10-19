@@ -18,6 +18,6 @@ test('každá kniha má metadata', () => {
     expect(m.title.length).toBeGreaterThan(0)
     expect(m.shortTitle.length).toBeGreaterThan(0)
     expect(m.description.length).toBeGreaterThan(0)
-    expect(m.year).toBeGreaterThan(1900)
+    expect(m.year).toBeGreaterThan(1700)
   }
 })

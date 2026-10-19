@@ -4,7 +4,7 @@ Jeden recept = jeden soubor `data/recipes/<id>.json`, kde `<id>` je kebab-case b
 
 ## Stav
 
-Hotovo 78 receptů ze 4 knih: AFRS 2003 (57), Navy 1944 (11), Gentile 1919 (7), Feldkochbuch 1940 (3).
+Hotovo 78 receptů ze 4 knih: AFRS 2003 (57), Navy 1944 (11), Gentile 1919 (7), Feldkochbuch 1940 (3). Připravené k digitalizaci (zatím bez receptů): Glasse 1747 (`glasse-1747`), Rettigová 1868 (`rettigova-1868`), Hauptmann 1877 (`hauptmann-1877`), Wells 1890 (`wells-1890`), Army Baker 1945 (`army-baker-1945`), Receptury teplých pokrmů 1983 (`receptury-1983`); zvláštnosti v `.claude/skills/recipe-digitize/reference/books.md`.
 
 Nové suroviny z digitalizace jdou do `data/ingredients/new-<id-receptu>.json` a po review se konsolidují do `data/ingredients/cz.json` (soubory `new-*` se pak smažou).
 

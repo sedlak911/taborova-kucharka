@@ -41,7 +41,7 @@ export function SettingsPage({ settings, onChange, children }: Props) {
         </label>
       </div>
       {children}
-      <footer className="settings-colophon">Kuchařka pro tábory · osobní sbírka receptů ze čtyř historických kuchařek · výživové údaje USDA SR Legacy (CC0).</footer>
+      <footer className="settings-colophon">Kuchařka pro tábory · osobní sbírka receptů z historických kuchařek · výživové údaje USDA SR Legacy (CC0).</footer>
     </article>
   )
 }

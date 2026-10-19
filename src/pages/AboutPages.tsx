@@ -4,7 +4,8 @@ import type { Recipe } from '@/domain/types'
 import type { Route } from '@/app/route'
 import { Divider, Vignette } from './ornaments'
 
-const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni')
+// od nejnovější knihy po nejstarší
+const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni').sort((a, b) => BOOK_META[b].year - BOOK_META[a].year)
 
 export function AboutLeft({ onNavigate }: { onNavigate: (route: Route) => void }) {
   return (
@@ -12,8 +13,9 @@ export function AboutLeft({ onNavigate }: { onNavigate: (route: Route) => void }
       <h2>O této knize</h2>
       <Vignette />
       <p>
-        Tahle kuchařka sbírá jednoduché, vydatné a levné recepty z historických polních a domácích kuchařek.
-        Jsou přeložené, převedené na moderní jednotky a zmenšené na čtyři porce, aby se daly uvařit na táboře,
+        Tahle kuchařka sbírá jednoduché, vydatné a levné recepty ze starých kuchařek: od anglické klasiky
+        z roku 1747 a české Rettigové přes pekařské příručky a polní kuchařky armád druhé světové války
+        až po československé receptury pro jídelny a americkou armádní sbírku. Jsou přeložené, převedené na moderní jednotky a zmenšené na čtyři porce, aby se daly uvařit na táboře,
         na výletě i v hubených měsících.
       </p>
       <p>
@@ -32,10 +34,10 @@ export function AboutLeft({ onNavigate }: { onNavigate: (route: Route) => void }
 export function AboutRight({ recipes }: { recipes: Recipe[] }) {
   return (
     <article className="about-page">
-      <h2>Čtyři zdroje</h2>
+      <h2>Zdroje</h2>
       <Divider />
       <ul className="about-sources">
-        {SOURCE_BOOKS.map((b) => {
+        {SOURCE_BOOKS.filter((b) => recipes.some((r) => r.source.book === b)).map((b) => {
           const meta = BOOK_META[b]
           const quote = recipes.find((r) => r.source.book === b && r.quote)?.quote
           return (

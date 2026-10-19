@@ -114,6 +114,13 @@ test('pilulky vybavení nabízejí jen vybavení, které některý recept uvád�
   expect(pills.length).toBeGreaterThan(0)
 })
 
+test('pilulky zdroje nabízejí jen knihy, ze kterých je nějaký recept', () => {
+  const used = new Set(recipes.map((r) => r.source.book))
+  setup()
+  const fieldset = screen.getByText('Zdroj').closest('fieldset')!
+  expect(fieldset.querySelectorAll('button').length).toBe(used.size)
+})
+
 test('bez receptů s daným vybavením se pilulka nezobrazí', () => {
   setup({ recipes: recipes.map((r) => ({ ...r, equipment: r.equipment.filter((e) => e !== 'trouba') })) })
   expect(screen.queryByRole('button', { name: 'trouba' })).toBeNull()

@@ -6,13 +6,25 @@ import { AboutLeft, AboutRight } from './AboutPages'
 
 const { recipes } = loadContent()
 
-test('pravá strana obsahuje všechny čtyři knihy s rokem a popisem', () => {
+test('pravá strana obsahuje knihy s recepty s rokem a popisem', () => {
   render(<AboutRight recipes={recipes} />)
   for (const b of ['afrs-2003', 'navy-1944', 'italian-1919', 'feldkochbuch-1940'] as const) {
     const meta = BOOK_META[b]
     expect(screen.getByRole('heading', { level: 3, name: new RegExp(`${meta.title}.*${meta.year}`) })).toBeInTheDocument()
     expect(screen.getByText(meta.description)).toBeInTheDocument()
   }
+})
+
+test('zdroje jsou seřazené od nejnovější knihy po nejstarší', () => {
+  render(<AboutRight recipes={recipes} />)
+  const years = screen.getAllByRole('heading', { level: 3 }).map((h) => Number(h.textContent!.match(/\((\d{4})\)/)![1]))
+  expect(years).toEqual([...years].sort((a, b) => b - a))
+})
+
+test('kniha bez receptu se mezi zdroji neukáže', () => {
+  render(<AboutRight recipes={recipes.filter((r) => r.source.book === 'navy-1944')} />)
+  expect(screen.getByRole('heading', { level: 3, name: new RegExp(BOOK_META['navy-1944'].title) })).toBeInTheDocument()
+  expect(screen.queryByRole('heading', { level: 3, name: new RegExp(BOOK_META['afrs-2003'].title) })).toBeNull()
 })
 
 test('citát se zobrazí, jen když ho recept dané knihy má', () => {
