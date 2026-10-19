@@ -67,6 +67,37 @@ PORT=9000 HOST=127.0.0.1 npm run serve
 
 Server nemá autentizaci; nevystavujte ho do veřejné sítě. Rozhraní: `GET /api/health`, `GET`/`PUT /api/state`. Nevalidní soubor se stavem se před přepsáním zazálohuje. Bez serveru (např. dev režim nebo statický hosting) aplikace ukládá do `localStorage` a v tiráži (nastavení) jde stav exportovat a importovat jako zálohu.
 
+### Web na GitHub Pages
+
+Veřejná verze běží na <https://sedlak911.github.io/taborova-kucharka/>. Každý push do `main` na GitHubu spustí workflow [`.github/workflows/pages.yml`](.github/workflows/pages.yml), které udělá `npm ci` a `npm run build` a nasadí `dist/` na Pages.
+
+Build pro Pages nastavuje dvě proměnné:
+
+| Proměnná | Hodnota | Význam |
+|---|---|---|
+| `VITE_BASE` | `/taborova-kucharka/` | cesta, ze které se web servíruje (lokálně `/`) |
+| `VITE_STATIC` | `1` | aplikace nehledá domácí server; stav je jen v `localStorage` |
+
+Uživatelský stav (oblíbené, košík, vlastní recepty, nastavení) je v `localStorage` pod klíčem `kucharka.userState.v1`, tedy jen v daném prohlížeči a zařízení. Mezi zařízeními se přenáší exportem a importem zálohy.
+
+#### Větve a historie
+
+Na GitHubu je historie projektu zkrácená: celý vývoj do zveřejnění je squashnutý do jednoho úvodního commitu. Lokálně se proto používají dvě větve s nesouvisejícími historiemi:
+
+| Větev | Remote | Účel |
+|---|---|---|
+| `github-main` | `github/main` | veřejná větev; sem patří veškerá další práce, `git push` ji nasadí |
+| `digitize-all` | – | archiv původní plné historie (260 commitů), na GitHub se nepushuje |
+
+```bash
+git remote add github https://github.com/sedlak911/taborova-kucharka.git   # jen při novém klonu
+git checkout github-main
+# … změny, commit …
+git push                       # → github/main → automatické nasazení na Pages
+```
+
+Commit vzniklý omylem na `digitize-all` se přenese přes `git cherry-pick <sha>` na `github-main`. Větve nejde mergovat ani pushovat přímo, protože nemají společného předka.
+
 ## Testy a kontroly
 
 ```bash
