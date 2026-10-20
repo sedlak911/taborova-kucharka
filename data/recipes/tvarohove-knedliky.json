@@ -1,0 +1,138 @@
+{
+  "id": "tvarohove-knedliky",
+  "title": "Tvarohové knedlíky",
+  "titleOriginal": "Tvarohové knedlíky",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko",
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "tvaroh",
+      "amount": 400,
+      "unit": "g",
+      "note": "měkký"
+    },
+    {
+      "ingredientId": "zemle-bila",
+      "amount": 280,
+      "unit": "g",
+      "note": "veka; zdroj 700 g hrubé, oloupáním kůrky ubude asi 5 %"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 80,
+      "unit": "ml",
+      "note": "na zvlhčení žemle"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g",
+      "note": "do těsta; zdroj 20 g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.6,
+      "unit": "ks",
+      "note": "zdroj 4 ks na 10 porcí"
+    },
+    {
+      "ingredientId": "hruba-mouka",
+      "amount": 100,
+      "unit": "g",
+      "note": "prosátá"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 3000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření knedlíků, slije se (domácí hodnota)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 140,
+      "unit": "g",
+      "note": "strouhaná houska, na sucho osmahnutá"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 120,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na posypání"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 130,
+      "unit": "g",
+      "note": "rozpuštěné, na přelití"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tvaroh prolisuj hrubším sítem nebo pečlivě rozmačkej.",
+      "minutes": 3
+    },
+    {
+      "text": "Žemli oloupej, nakrájej na drobné kostičky a zvlhči mlékem.",
+      "minutes": 5
+    },
+    {
+      "text": "K tvarohu přidej sůl, vejce a prosátou mouku, pečlivě promíchej a nakonec zamíchej připravenou žemli.",
+      "minutes": 5
+    },
+    {
+      "text": "Z hmoty tvaruj menší kulaté knedlíky, asi 6 na porci, tedy asi 24.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím přiveď k varu velký hrnec lehce osolené vody.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Knedlíky vlož do vařící vody a vař zvolna 15 minut. Krátce po zavaření je opatrně zamíchej, aby se nepřichytily ke dnu.",
+      "minutes": 15
+    },
+    {
+      "text": "Mezitím strouhanku na sucho osmahni na pánvi dozlatova.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Okapané knedlíky posyp osmaženou strouhankou a moučkovým cukrem a přelij rozpuštěným máslem.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Kniha čas vaření neuvádí; 15 minut je odhad z praxe (knedlíky vyplavou a jsou dovařené). Hrubá mouka je ve zdroji i v katalogu; hladká také poslouží. Sůl 20 g ze zdroje jde podle postupu do těsta; vodu na vaření zdroj jen „mírně osolí“, 6 g na 3 l je domácí hodnota. Zdroj počítá porci 280 g (6 knedlíků) včetně sypání a maštění; podle receptury vychází po uvaření výtěžek 2800 g z 3245 g surovin. Vodu na vaření (3 l) a sůl do ní jsou domácí hodnoty. Moučkový cukr na posypání je přepočten lineárně, máslo na přelití jako tuk (třída fat). Porce vychází kolem 900 kcal, hlavně z másla, strouhanky a cukru podle receptury (300 g másla na 10 porcí); kdo chce lehčí jídlo, sniž máslo na přelití a cukr na polovinu.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 559,
+    "code": "19624",
+    "titleOriginal": "TVAROHOVÉ KNEDLÍKY"
+  },
+  "verified": true
+}

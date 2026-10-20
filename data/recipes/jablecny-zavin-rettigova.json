@@ -1,0 +1,40 @@
+{
+  "id": "jablecny-zavin-rettigova",
+  "title": "Válená štrúdl s jablky",
+  "titleOriginal": "Válená štrudle s jablkami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 185, "unit": "g", "note": "1 žejdlík (z 1½ žejdlíku celkem)", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 95, "unit": "g", "note": "½ žejdlíku na vyválení", "group": "Těsto" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "note": "4 loty, nakrájené do mouky", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 2.65, "unit": "ks", "note": "2 celá vejce a 2 žloutky", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g", "note": "trochu", "group": "Těsto" },
+    { "ingredientId": "jablko", "amount": 600, "unit": "g", "note": "kyselejší, oloupaná, na kostky (odhad)", "group": "Náplň" },
+    { "ingredientId": "rozinky", "amount": 50, "unit": "g", "note": "malé (odhad)", "group": "Náplň" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "group": "Náplň" },
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "note": "asi 60 g do náplně a 15 g navrch (odhad)", "scaling": "linear", "group": "Náplň" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpuštěné: na potření těsta, pokapání náplně, vymazání a potření štrúdlu (odhad)", "group": "Pečení" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 200, "unit": "ml", "note": "podlít asi do poloviny výšky štrúdlu (odhad)", "group": "Pečení" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Mouku dej na vál, přidej máslo a promíchej. Udělej důlek, vraz do něj vejce a žloutky, osol a zadělej nožem. Vypracuj těsto jako na nudle.", "minutes": 15 },
+    { "text": "Jablka oloupej, vykrájej jádřince a nakrájej na kostky.", "minutes": 10 },
+    { "text": "Těsto rozválej na pomoučeném vále tence jako na nudle.", "minutes": 15 },
+    { "text": "Těsto potři třetinou rozpuštěného másla.", "minutes": 3 },
+    { "text": "Posyp ho jablky, rozinkami, skořicí a 60 g cukru, pokapej další třetinou másla a zaviň jako jinou štrúdli.", "minutes": 7 },
+    { "text": "Pekáč vymaž máslem, vlož štrúdl, podlej ho smetanou asi do poloviny výšky, potři zbylým máslem a posyp zbylým cukrem.", "minutes": 5 },
+    { "text": "Peč ve vyhřáté troubě asi 40 minut do zlatova.", "minutes": 40 },
+    { "text": "Podávej teplé." }
+  ],
+  "modernNote": "Rettigová množství neuvádí u jablek, hrozinek, skořice, cukru, smetany ani u másla na potírání – jsou odhadnuta pro 4 porce, proto verified: false. Ostatní míry přepočteny ze starých: žejdlík ≈ 0,35 l, 1½ žejdlíku mouky ≈ 0,525 l ≈ 277 g, lot = 17,5 g (4 loty ≈ 70 g másla do těsta), žloutek počítán jako ⅓ vejce. Kniha neuvádí dobu ani teplotu pečení, 200 °C a 40 minut jsou moderní odhad. Sůl: zdroj říká jen „trochu“, 1 g je odhad (nález check:recipe na 0,25 g soli na porci je tím vysvětlen, těsto je sladké). Míšeňská jablka nahraď kyselejšími (Idared, Jonagold). Zdroj dává jeden štrúdl (1 žejdlík mouky do těsta); recept ho počítá na 4 porce jako sladké hlavní jídlo (kolem 800 kcal na porci), jako moučník vystačí na 8 kousků. Smetanu a máslo na potírání jsem odhadl spíš střídmě; mouka na vyválení se do těsta zapracuje jen zčásti. Kuthánek = pekáč nebo zapékací mísa; těsto se tence vytahuje jako na nudle, rozvalované je pevnější než tažené.",
+  "source": { "book": "rettigova-1868", "page": 188, "titleOriginal": "Válená štrudle s jablkami" },
+  "verified": false,
+  "quote": "podlej ji smetanou, aby se asi přes polovic zatopila"
+}

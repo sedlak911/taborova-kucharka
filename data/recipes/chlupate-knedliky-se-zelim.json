@@ -1,0 +1,40 @@
+{
+  "id": "chlupate-knedliky-se-zelim",
+  "title": "Chlupaté knedlíky se zelím",
+  "titleOriginal": "Chlupaté knedlíky se zelím",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 830, "unit": "g", "note": "syrové, oškrabané; z 2 600 g hrubé × 0,4 × 0,8 (katalog)" },
+    { "ingredientId": "brambory", "amount": 80, "unit": "g", "note": "vařené ve slupce, oloupané; zdroj 200 g" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks; rozšlehej 1 vejce a použij asi dvě pětiny" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "do těsta; zdroj 30 g na 10 porcí" },
+    { "ingredientId": "hruba-mouka", "amount": 240, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "scaling": "vessel", "note": "na vaření knedlíků, slije se" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "kysele-zeli", "amount": 320, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "z 200 g hrubé × 0,9" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené; část na cibuli, část na přelití" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Oškrabané brambory opláchni, nastrouhej na jemném struhadle, nech ustát a vodu odlij.", "minutes": 15 },
+    { "text": "Vařené, oloupané brambory nastrouhej a přidej k syrovým. Přidej vejce, sůl a prosátou hrubou mouku a dobře promíchej.", "minutes": 8 },
+    { "text": "Kysané zelí zalij vodou, přiveď k varu a vař do měkka.", "minutes": 40 },
+    { "text": "Mezitím přiveď k varu osolenou vodu na knedlíky ve velkém hrnci.", "minutes": 10, "parallel": true },
+    { "text": "Z těsta vykrajuj polévkovou lžící noky, zavařuj je do vařící osolené vody a zvolna vař 10 až 12 minut do měkka.", "minutes": 25, "parallel": true },
+    { "text": "Mezitím osmahni nakrájenou cibuli na části sádla.", "minutes": 8, "parallel": true },
+    { "text": "Měkké zelí zahusti osmaženou cibulí zaprášenou prosátou hladkou moukou, podus a dochuť cukrem.", "minutes": 10 },
+    { "text": "Vařené knedlíky promíchej s upraveným zelím a při podávání přelij rozehřátým sádlem.", "minutes": 3 }
+  ],
+  "modernNote": "Kniha počítá s 10 porcemi po 300 g (z toho 200 g knedlíků); recept je přepočten na 4 porce. Brambory jsou zapsány jako jedlá hmotnost (hrubá × 0,4 × 0,8 podle katalogu; kniha počítá odpad 40 %), k nim patří 80 g vařených oloupaných brambor (zvláštní řádek), které předem uvař ve slupce. Vejce: zdroj 1 ks na 10 porcí. Voda ze zelí není ve zdroji vyčíslena, jen „zalijeme vodou“ – lej tak, aby zelí bylo sotva ponořené. Voda na vaření knedlíků a sůl do ní jsou domácí hodnoty. Sůl: 30 g ze zdroje (14 g na 4 porce) jde podle postupu celá do těsta; sůl do vody na vaření (6 g na 3 l, slije se) je domácí hodnota. Sůl v těstě je 3,5 g na porci (check:recipe hlásí nad 2,5 g), věrná receptuře; pro dnešní chuť začni polovinou. Cukr 20 g je ze zdroje (zelí se jím dochucuje). Jako hlavní jídlo je porce 300 g skromná, počítej raději 400 g.",
+  "source": { "book": "receptury-1983", "page": 495, "code": "19411", "titleOriginal": "CHLUPATÉ KNEDLÍKY SE ZELÍM" },
+  "verified": true
+}

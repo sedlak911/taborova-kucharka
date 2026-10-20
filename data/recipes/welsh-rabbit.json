@@ -1,0 +1,27 @@
+{
+  "id": "welsh-rabbit",
+  "title": "Opečený chléb se sýrem (Welsh rabbit)",
+  "titleOriginal": "To make a Welch Rabbit",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["horcice", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "chleb-bily", "amount": 160, "unit": "g", "note": "4 krajíce" },
+    { "ingredientId": "cedar", "amount": 200, "unit": "g", "note": "plátky; ve zdroji obecně „cheese“" },
+    { "ingredientId": "horcice", "amount": 12, "unit": "g", "note": "volitelně, ve zdroji „you may rub it over with mustard“" }
+  ],
+  "steps": [
+    { "text": "Krajíce chleba opeč z obou stran na suché pánvi dozlatova.", "minutes": 6 },
+    { "text": "Plátky sýra opeč z jedné strany.", "minutes": 4 },
+    { "text": "Opečený sýr polož na toast a zatím nepečenou stranu zapeč pod pokličkou nebo pod grilem do zhnědnutí.", "minutes": 4 },
+    { "text": "Chceš-li, potři hořčicí. Podávej horké." }
+  ],
+  "modernNote": "Zdroj nemá žádná množství ani počet porcí; množství jsou odhad pro 4 porce (1 krajíc chleba a asi 50 g sýra na osobu), proto verified: false. „Cheese“ je ve zdroji nespecifikovaný sýr (jinde v knize Cheshire); jako náhrada je čedar. Původně se sýr opékal u ohně a zhnědl rozžhaveným železem (cheese-iron), dnes stačí pánev s pokličkou nebo gril. Hořčice je ve zdroji volitelná. Existuje i novější verze v receptu Grilovaný toast se sýrem.",
+  "source": { "book": "glasse-1747", "page": 176, "titleOriginal": "To make a Welch Rabbit" },
+  "verified": false,
+  "quote": "Toast the bread on both sides, then toast the cheese on one side, lay it on the toast, and with a hot iron brown the other side."
+}

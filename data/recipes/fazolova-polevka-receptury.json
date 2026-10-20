@@ -1,0 +1,129 @@
+{
+  "id": "fazolova-polevka-receptury",
+  "title": "Fazolová polévka",
+  "titleOriginal": "Polévka fazolová",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "kotlik",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "soja"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 120,
+      "unit": "g",
+      "note": "bílé, přebrané, přes noc namočené"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "na zásmažku",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 45,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "z 100 g hrubé × 0,9"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 70,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "vlažný"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 6,
+      "unit": "g",
+      "note": "z 15 g hrubé × 0,87"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "tekute-koreni",
+      "amount": 9,
+      "unit": "g",
+      "note": "polévkové koření typu Maggi"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 4,
+      "unit": "g",
+      "note": "z 10 g hrubé × 0,95"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Fazole několikrát pečlivě propláchni, zalij vodou a nech přes noc nabobtnat.",
+      "minutes": 5
+    },
+    {
+      "text": "Nabobtnalé fazole vař v téže vodě téměř do měkka (nemají se rozvařit). Podle potřeby dolévej vařící vodu.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím na másle osmahni do růžova jemně nakrájenou cibuli, zasyp ji moukou a připrav světlou zásmažku.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Zásmažku za stálého šlehání metlou zalij vlažným vývarem a odvarem z fazolí, přiveď k varu a zvolna vař nejméně půl hodiny. Občas prošlehej.",
+      "minutes": 38
+    },
+    {
+      "text": "Přidej česnek utřený se solí a mletý pepř, krátce povař a polévku procedi hustým cedníkem.",
+      "minutes": 5
+    },
+    {
+      "text": "Do procezené polévky vlož uvařené fazole a znovu krátce povař.",
+      "minutes": 5
+    },
+    {
+      "text": "Dochuť polévkovým kořením."
+    },
+    {
+      "text": "Do talířů nebo na stůl přidej propláchnutou, jemně nakrájenou petrželovou nať."
+    }
+  ],
+  "modernNote": "Porce 0,33 l; recept pro 10 porcí = 3,4 l hotové polévky, na 4 porce vychází asi 1,4 l. Zdroj uvádí 300 g suchých fazolí, které vařením nabobtnají na 750 g; vodu na namočení a uvaření uvádí jen „podle potřeby“, proto není v surovinách (zalij fazole, aby byly ponořené). Zdroj nedává dobu vaření fazolí, 60 minut je odhad (podle stáří fazolí i déle); ostatní časy jsou ze zdroje. Hrubá hmotnost cibule, česneku a petržele je přepočtena na jedlou (hrubá × 0,4 × jedlý podíl). Margarín ze zdroje nahrazuje máslo. Jako hlavní jídlo počítej 0,5 l polévky na osobu a přidej uzené maso.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 28,
+    "code": "10116",
+    "titleOriginal": "POLÉVKA FAZOLOVÁ"
+  },
+  "verified": true
+}

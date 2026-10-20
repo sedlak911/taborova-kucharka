@@ -1,0 +1,209 @@
+{
+  "id": "plnene-papriky-v-rajske",
+  "title": "Plněné papriky v rajské omáčce",
+  "titleOriginal": "Plněný paprikový lusk",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 135,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 80,
+      "unit": "g",
+      "note": "přední bez kosti nebo ořez; zdroj 200 g"
+    },
+    {
+      "ingredientId": "veprova-kyta",
+      "amount": 120,
+      "unit": "g",
+      "note": "výřez; zdroj 300 g"
+    },
+    {
+      "ingredientId": "zemle-bila",
+      "amount": 80,
+      "unit": "g",
+      "note": "žemle, veka; zdroj 200 g"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "zdroj 30 g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.4,
+      "unit": "ks",
+      "note": "zdroj 1 ks (40 g); rozšlehej 1 vejce a použij asi dvě pětiny"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "zdroj 1 g"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 20,
+      "unit": "g",
+      "note": "strouhaná houska; zdroj 50 g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "polovina do masové směsi, polovina do základu; z 40 g hrubé × 0,9"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 330,
+      "unit": "g",
+      "note": "asi 4 papriky; z 400 g hrubé (zdroj 10 ks, 1000 g) × 0,82"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 65,
+      "unit": "g",
+      "note": "tuk na osmahnutí základu; zdroj 150 g margarínu",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 65,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "polevkova-zelenina",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kořenová zelenina na plátky (mrkev, petržel, celer); z 40 g hrubé × 0,89"
+    },
+    {
+      "ingredientId": "cely-pepr",
+      "amount": 0.35,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "zdroj: divoké koření 2 g (celý pepř, nové koření, bobkový list); rozdělení na třetiny je odhad"
+    },
+    {
+      "ingredientId": "novy-koreni",
+      "amount": 0.35,
+      "unit": "g",
+      "scaling": "seasoning",
+      "note": "z divokého koření, odhad rozdělení"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 1,
+      "unit": "ks",
+      "scaling": "seasoning",
+      "note": "z divokého koření, odhad rozdělení"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 20,
+      "unit": "ml",
+      "note": "zdroj 50 g"
+    },
+    {
+      "ingredientId": "rajce",
+      "amount": 180,
+      "unit": "g",
+      "note": "čerstvá rajčata; z 200 g hrubé × 0,91"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "část do základu, zbytek do omáčky; zdroj 1 000 g (voda na máčení žemle se vymačká, není v řádku)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g",
+      "note": "do zásmažky; zdroj 100 g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 12,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na přisladění omáčky; zdroj 30 g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Žemli namoč do studené vody (asi 60 ml) a pečlivě vymačkej.",
+      "minutes": 5
+    },
+    {
+      "text": "Hovězí a vepřové maso nakrájej a jemně semelj spolu s vymačkanou žemlí (nebo kup mleté maso a žemli rozmělni).",
+      "minutes": 10
+    },
+    {
+      "text": "Maso mírně osol, přidej vejce, mletý pepř, strouhanku a polovinu nastrouhané cibule. Důkladně promíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Papriky očisti: vykroj stopky, otvorem vyjmi semena a vnitřek, propláchni.",
+      "minutes": 8
+    },
+    {
+      "text": "Papriky naplň připravenou masovou směsí.",
+      "minutes": 8
+    },
+    {
+      "text": "Do horkého tuku dej kořenovou zeleninu nakrájenou na plátky a zbylou cibuli. Mírně osmahni, přidej koření (celý pepř, nové koření, bobkový list), zastříkni octem.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej nakrájená rajčata, zalij částí vody, přiveď k varu a krátce povař.",
+      "minutes": 12
+    },
+    {
+      "text": "Naplněné papriky naskládej do základu, přikryj poklicí a zvolna duš nejméně půl hodiny.",
+      "minutes": 30
+    },
+    {
+      "text": "Papriky ze základu vyjmi.",
+      "minutes": 2
+    },
+    {
+      "text": "Základ vysmahni na tuku, zaprášej moukou a připrav světlou zásmažku. Zalij zbylou vodou, pečlivě rozšlehej metlou, přiveď k varu a vař nejméně půl hodiny za občasného prošlehání.",
+      "minutes": 35
+    },
+    {
+      "text": "Omáčku podle potřeby přislad cukrem a přisol, procedi hustým cedníkem.",
+      "minutes": 3
+    },
+    {
+      "text": "Procezenou omáčku vlej na papriky a v ní je krátce podus.",
+      "minutes": 5
+    },
+    {
+      "text": "Podávej s brambory nebo rýží."
+    }
+  ],
+  "modernNote": "Čísla z obrázku stránky (PDF 295, tištěná 316); zdroj počítá na 10 porcí po 220 g (120 g papriky s náplní a 100 g omáčky). Zelenina (papriky, cibule, kořenová zelenina, rajčata) je přepočtená z hrubé hmotnosti × ediblePortion, protože aplikace odpad neodečítá. Margarín ze zdroje (65 g na 4 porce) nahrazuje máslo; originál je v přepínači historických surovin. Žemle (veka) zůstává, housku strouhanou nahrazuje strouhanka. Voda na máčení žemle (150 g) se vymačká, proto není v řádku; zdroj neříká, kolik vody jde do základu a kolik do omáčky, rozděl ji zhruba na třetinu a dvě třetiny. Divoké koření (2 g celkem na 10 porcí, 0,9 g na 4) je rozdělené na celý pepř, nové koření a bobkový list podle odhadu; zdroj množství jednotlivých položek neuvádí, proto recept není označen jako ověřený. Jídelní norma masa je jen asi 50 g směsi na porci; jako hlavní jídlo počítej 120–150 g masa na osobu. Zdroj nabízí postup „vysmahnutí základu na tuk“ nebo zásmažku z druhé poloviny tuku; zde je první varianta. Alternativu zdroje (osmahnout zeleninu jen na polovině tuku a zásmažku udělat z druhé poloviny) můžeš použít také. Dušení i vaření omáčky zdroj udává „nejméně 1/2 hodiny“, proto 30 minut. Odchylky check:recipe: sůl 14 g (3,5 g na porci) je ze zdroje (30 g na 10 porcí) zvětšená třídou seasoning, pro doma ji klidně sniž na polovinu a dosol podle chuti; bilance 363 g na porci proti 220 g ve zdroji není chyba přepočtu: suroviny na 4 porce (asi 1 450 g) odpovídají čisté hmotnosti zdroje × 0,4 (3 668 g → 1 467 g, bez vymačkané vody na žemli); zdroj sám odečítá ztráty 1 468 g (odpar vody z 1 l omáčky, zelenina a slupky rajčat zachycené v cedníku, úbytek masa dušením), hotový výrobek 2 200 g ze 4 003 g potravin. V receptu není rýže ani jiná vařená příloha.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 295,
+    "code": "15402",
+    "titleOriginal": "PLNĚNÝ PAPRIKOVÝ LUSK"
+  },
+  "verified": false
+}

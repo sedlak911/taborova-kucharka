@@ -1,0 +1,121 @@
+{
+  "id": "svacinovy-kolac-s-rozinkami",
+  "title": "Svačinový koláč s rozinkami",
+  "titleOriginal": "Halfpenny Lunch Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 230,
+      "unit": "g",
+      "note": "zdroj 2 lb"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 30,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "v těstě; zdroj 4 oz"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "v těstě; zdroj 8 oz"
+    },
+    {
+      "ingredientId": "korintky",
+      "amount": 55,
+      "unit": "g",
+      "note": "sušené korintky (menší tmavé rozinky); zdroj 8 oz currants"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kypří těsto; zdroj 1 oz"
+    },
+    {
+      "ingredientId": "vinny-kamen",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kypří těsto; zdroj 1 oz cream of tartar"
+    },
+    {
+      "ingredientId": "podmasli",
+      "amount": 140,
+      "unit": "ml",
+      "note": "zdroj „churned milk“, množství neuvedeno (odhad)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.5,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "na potření; zdroj bez množství (odhad)"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na posypání; zdroj „castor sugar“ bez množství (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 200 °C. Čtvercovou formu asi 20 × 20 cm (nebo několik menších) vymaž sádlem."
+    },
+    {
+      "text": "Mouku prosej do mísy a vetři do ní sádlo, aby vznikly drobty.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej cukr, korintky, sodu a vinný kámen a promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Uprostřed udělej důlek, vlij podmáslí a zaveď těsto. Má být spíš řidší, aby šlo nabírat lžící.",
+      "minutes": 3
+    },
+    {
+      "text": "Lžící naplň vymazanou formu do tří čtvrtin.",
+      "minutes": 5
+    },
+    {
+      "text": "Povrch potři rozšlehaným vejcem a poprášej moučkovým cukrem.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč v dobře vyhřáté troubě do zlatova, až špejle zapíchnutá do středu vyjde čistá.",
+      "minutes": 35
+    }
+  ],
+  "modernNote": "Zdroj uvádí pekárenskou dávku na 2 lb (907 g) mouky bez počtu porcí; kniha ji peče v plechových formách na prodej po „halfpenny“ kouscích. Zde je dávka zmenšená na 230 g mouky (faktor 0,248) na jednu čtvercovou formu asi 20 × 20 cm, tedy 4 svačinové kousky kolem 400 kcal; vše lineárně včetně sody a vinného kamene, protože jde o chemii těsta. Množství podmáslí, vejce na potření a moučkového cukru zdroj neuvádí, jsou odhadnuta, proto verified: false. „Churned milk“ je podmáslí z výroby másla; dnes koupené podmáslí. Zdroj dává asi 3 % sody a 3 % vinného kamene z hmotnosti mouky, tedy hodně víc než dnešní kypřicí prášek (asi 1 lžička na 230 g mouky). Doporučení: pro dnešní chuť stačí poloviční dávka obou (3–4 g + 3–4 g); zdrojovou dávku ponechávám věrnou knize. „Currants“ jsou sušené korintky. „Sound oven“ = dobře vyhřátá trouba, teplota a doba pečení nejsou ve zdroji uvedeny (200 °C a 35 minut je odhad; v menších formičkách stačí 20–25 minut).",
+  "source": {
+    "book": "wells-1890",
+    "page": 70,
+    "titleOriginal": "Halfpenny Lunch Cake"
+  },
+  "verified": false,
+  "quote": "Have some square sponge cake tins ready greased, take a spoon and three-parts fill them."
+}

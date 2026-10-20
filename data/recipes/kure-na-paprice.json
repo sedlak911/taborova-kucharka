@@ -1,0 +1,128 @@
+{
+  "id": "kure-na-paprice",
+  "title": "Kuře na paprice",
+  "titleOriginal": "Kuře na paprice",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1000,
+      "unit": "g",
+      "note": "očištěné kuře s kostí, zdroj 2 500 g na 10 porcí"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 70,
+      "unit": "g",
+      "note": "z 200 g hrubé × 0,4 × 0,9"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 65,
+      "unit": "g",
+      "note": "polovina na cibuli, polovina na zásmažku",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 65,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 7,
+      "unit": "g",
+      "note": "mletá"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 360,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 80,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "smetana-na-vareni",
+      "amount": 40,
+      "unit": "g",
+      "note": "12 %"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kuře opláchni, rozčtvrť, nařízni v kloubech a osol.",
+      "minutes": 10
+    },
+    {
+      "text": "Cibuli oloupej a jemně nakrájej.",
+      "minutes": 5
+    },
+    {
+      "text": "Na polovině másla osmahni cibuli do růžova.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej papriku, krátce osmahni, zalij částí vody a přiveď k varu.",
+      "minutes": 7
+    },
+    {
+      "text": "Do vařícího základu vlož kuře a duš pod poklicí téměř do měkka.",
+      "minutes": 30
+    },
+    {
+      "text": "Kuře ze základu vyjmi.",
+      "minutes": 2
+    },
+    {
+      "text": "Z druhé poloviny másla a mouky připrav světlou zásmažku, přidej ji do základu, rozřeď zbytkem vody a pečlivě rozšlehej.",
+      "minutes": 5
+    },
+    {
+      "text": "Omáčku za občasného míchání vař nejméně půl hodiny.",
+      "minutes": 30
+    },
+    {
+      "text": "Přidej mléko a smetanu, krátce povař a podle potřeby přisol.",
+      "minutes": 5
+    },
+    {
+      "text": "Omáčku procedi hustým cedníkem na porce kuřete, vše společně znovu krátce povař.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Margarín z receptury nahrazuje máslo (původní margarín v přepínači historických surovin). Kuře je počítané jako očištěné celé kuře s kostí (2 500 g na 10 porcí); aplikace odečte odpad. Zdroj neuvádí dobu dušení kuřete, 30 minut je odhad. Sůl 14 g (3,5 g na porci) je věrná hodnota receptury, dnes je to hodně: začni polovinou a dosol podle chuti. Porce 300 g = 150 g kuřete a 150 g omáčky; jako hlavní jídlo počítej 120–150 g masa na osobu. Podávej s rýží, těstovinami nebo bramborami. Varianta receptury 17017 má jiné poměry (240 g porce, bez smetany).",
+  "source": {
+    "book": "receptury-1983",
+    "page": 346,
+    "code": "17003",
+    "titleOriginal": "KUŘE NA PAPRICE"
+  },
+  "verified": true
+}
