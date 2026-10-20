@@ -1,0 +1,115 @@
+{
+  "id": "houbova-polevka-ze-susenych-hub",
+  "title": "Polévka ze sušených hub s kroupami",
+  "titleOriginal": "Polívka ze suchých hub",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "houby-susene",
+      "amount": 25,
+      "unit": "g",
+      "note": "půl žejdlíku (≈ 175 ml) sušených hub, odhad 25 g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 250,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na namáčení hub, slije se"
+    },
+    {
+      "ingredientId": "kroupy",
+      "amount": 150,
+      "unit": "g",
+      "note": "půl žejdlíku trhaných krupek (≈ 175 ml)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "„kousek másla“ do krupek, odhad"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 5,
+      "unit": "g",
+      "note": "zelená, nadrobno usekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1400,
+      "unit": "ml",
+      "note": "na vaření krupek, hub a doplnění polévky (odhad)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "do bílé jíšky, odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "note": "do bílé jíšky, odhad (vrchovatá lžíce)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené houby zalij studenou vodou a nech je změknout.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím kroupy přeber a propláchni. Dej je do hrnce s kouskem másla a větší částí vody a vař.",
+      "minutes": 40,
+      "parallel": true
+    },
+    {
+      "text": "Houby přeber, namáčecí vodu slij a houby ještě jednou propláchni.",
+      "minutes": 5
+    },
+    {
+      "text": "Houby zalij trochou čisté vody, přidej nasekanou petržel a sůl a nech je vařit.",
+      "minutes": 20
+    },
+    {
+      "text": "Vodu z hub slij ke krupkám. Houby nadrobno nasekej a přidej je ke krupkám.",
+      "minutes": 5
+    },
+    {
+      "text": "Dolij zbylou vodu, aby polévka nebyla ani řídká, ani příliš hustá.",
+      "minutes": 2
+    },
+    {
+      "text": "Z másla a mouky připrav bílou řídkou jíšku, zaprav jí polévku a nech ji ještě povařit.",
+      "minutes": 10
+    }
+  ],
+  "modernNote": "Zdroj neuvádí počet porcí ani přesná množství; zde odhad pro 4 porce (zdroj: půl žejdlíku ≈ 175 ml sušených hub a stejný objem trhaných krupek; sušené houby ≈ 25 g, kroupy ≈ 150 g podle hustoty v katalogu). Množství vody (celkem asi 1,4 l v polévce), másla do krupek (kousek ≈ 20 g) a bílé jíšky (15 g másla a 15 g mouky) jsou odhady, proto verified: false. Namáčecí voda hub se slévá (zdroj: „černou vodu slej“). Moderní tip: houby stačí namáčet 30 minut ve vlažné vodě, kroupy lze předem přes noc namočit, vaří se pak kratší dobu; doby ve zdroji nejsou udány a zde jsou odhadnuty z praxe.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 294,
+    "titleOriginal": "Polívka ze suchých hub"
+  },
+  "verified": false,
+  "quote": "Půl žejdlíka sušených hub nech ve vodě močit"
+}

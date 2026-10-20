@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hovezi-predni-tucne",
+    "name": "Hovězí přední s tukem",
+    "aliases": ["hovězí pot roast", "hovězí předek s tukem", "beef pot roast"],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": { "kcal": 244, "protein": 19.23, "carbs": 0, "fat": 17.98, "fiber": 0 },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:169491 (Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, raw); hodnota pro syrový kus s tukem, na rozdíl od hovezi-predni (libové, fdc:174051)",
+      "refuse": "AFRS Weight je jedlá hmotnost (EP) → 1; odpad kosti v USDA (21 %) se nepočítá"
+    }
+  }
+]

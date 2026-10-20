@@ -1,0 +1,39 @@
+{
+  "id": "kapustova-polevka",
+  "title": "Kapustová polévka",
+  "titleOriginal": "Polévka kapustová",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "kapusta", "amount": 160, "unit": "g", "note": "z 500 g hrubé na 10 porcí × 0,4 × 0,8; hlávková" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1200, "unit": "ml", "note": "vlažný (Vývar B, receptura 10101)" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "z 20 g hrubé na 10 porcí × 0,4 × 0,87; utřený se solí" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé na 10 porcí × 0,4 × 0,9" },
+    { "ingredientId": "spek", "amount": 20, "unit": "g", "note": "slanina bez kůže" },
+    { "ingredientId": "majoranka", "amount": 0.46, "unit": "g", "note": "sušená" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření na dochucení" }
+  ],
+  "steps": [
+    { "text": "Kapustu očisti, opláchni, jemně nakrájej, krátce spař vařící vodou a slij.", "minutes": 8 },
+    { "text": "Cibuli jemně nakrájej a slaninu nakrájej nadrobno.", "minutes": 5 },
+    { "text": "Ze sádla a prosáté mouky připrav světlou zásmažku.", "minutes": 5 },
+    { "text": "Zásmažku za stálého šlehání metlou zalij vlažným vývarem, uveď do varu a za občasného prošlehání vař půl hodiny. Ke konci varu přidej česnek utřený se solí a mletý pepř.", "minutes": 38 },
+    { "text": "Mezitím osmahni cibuli do růžova na částečně roztavené slanině a zalij ji trochou vývaru.", "minutes": 8, "parallel": true },
+    { "text": "Do tohoto základu vlož spařenou kapustu a podus ji téměř do měkka.", "minutes": 20, "parallel": true },
+    { "text": "Podušenou kapustu přidej do provařené polévky, přidej rozdrcenou majoránku a velmi krátce povař.", "minutes": 3 },
+    { "text": "Dochuť polévkovým kořením." }
+  ],
+  "modernNote": "Kniha uvádí 10 porcí po 0,33 l (3,3 l hotové polévky); recept je přepočten na 4 porce (1,3 l). Hrubá kapusta a cibule jsou přepočteny na jedlou část podle katalogu (kapusta 0,8, cibule 0,9, česnek 0,87). Kapusta je hlávková (savojská). Do zásmažky jde 1 000 ml vývaru (zdroj 2,5 l ze 3 l), zbylých 200 ml na podlití cibule a podušení kapusty. Podušenou kapustu s cibulí a slaninou si můžeš chystat souběžně se zásmažkou. Slanina, sádlo a masový vývar zůstávají podle zdroje. Jídelní polévka je lehká; jako hlavní jídlo počítej dvojnásobnou porci a přidej chleba.",
+  "source": { "book": "receptury-1983", "page": 43, "code": "10143/A", "titleOriginal": "POLÉVKA KAPUSTOVÁ" },
+  "verified": true
+}

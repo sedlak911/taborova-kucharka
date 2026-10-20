@@ -1,0 +1,37 @@
+{
+  "id": "spenatova-polevka",
+  "title": "Špenátová polévka",
+  "titleOriginal": "Polévka špenátová",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko", "soja", "vejce"],
+  "ingredients": [
+    { "ingredientId": "spenat", "amount": 170, "unit": "g", "note": "zmražený; kniha uvádí i 500 g čerstvého na 10 porcí, pro 4 porce asi 200 g čerstvého" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "original": { "ingredientId": "margarin", "amount": 45, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 80, "unit": "g" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1080, "unit": "ml", "note": "vlažný" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.09, "unit": "g", "note": "mletý květ (muškátový květ)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "z 20 g hrubé × 0,87; utřený se solí" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g" },
+    { "ingredientId": "mleko-polotucne", "amount": 120, "unit": "ml" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks na 10 porcí; rozšlehej 1 vejce a použij asi 2/5" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření typu Maggi" }
+  ],
+  "steps": [
+    { "text": "V hrnci rozehřej tuk, zasyp moukou a připrav světlou zásmažku. Přidej mletý květ.", "minutes": 5 },
+    { "text": "Zásmažku za neustálého prošlehávání zalij vlažným vývarem, přiveď k varu a zvolna vař za občasného prošlehání aspoň 3/4 hodiny.", "minutes": 53 },
+    { "text": "Ke konci varu přidej pepř, česnek utřený se solí a mléko, krátce povař a polévku procedi hustším cedníkem.", "minutes": 8 },
+    { "text": "Do procezené polévky zamíchej špenát a krátce povař.", "minutes": 5 },
+    { "text": "Přilij rozmíchané vejce, promíchej a nech je srazit.", "minutes": 3 },
+    { "text": "Hotovou polévku dochuť polévkovým kořením." }
+  ],
+  "modernNote": "Kniha počítá s 10 porcemi po 0,33 l (3,4 l hotové polévky); recept je přepočten na 4 porce (asi 1,36 l). Zmražený špenát se dává do polévky tak, jak je (v knize bez rozmrazení); čerstvý špenát je v knize uveden jen v závorce jako ekvivalent. Margarín jsem nahradil máslem. Vývar B = hovězí vývar. Polévkové koření = tekuté koření typu Maggi. Vejce vychází na 0,4 ks, použij 1 rozšlehané vejce a vlij zhruba 2/5. Doba vaření zásmažky (nejméně 3/4 hodiny) je ze zdroje, proto tag rychle nemá. Jako hlavní jídlo počítej asi 0,5 l polévky na osobu.",
+  "source": { "book": "receptury-1983", "page": 27, "code": "10114", "titleOriginal": "POLÉVKA ŠPENÁTOVÁ" },
+  "verified": true
+}

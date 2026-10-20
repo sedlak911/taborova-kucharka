@@ -1,0 +1,51 @@
+{
+  "id": "rybi-polevka",
+  "title": "Rybí polévka",
+  "titleOriginal": "Polévka rybí",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 115,
+  "difficulty": 2,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["ryby", "mleko", "lepek", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "kapri-hlavy", "amount": 240, "unit": "g", "note": "očištěné a opláchnuté; zdroj 600 g na 10 porcí; jí se jen maso z hlav" },
+    { "ingredientId": "kapr", "amount": 80, "unit": "g", "note": "kapří vnitřnosti (mlíčí, jikry, játra), očištěné; zdroj 200 g na 10 porcí" },
+    { "ingredientId": "voda", "amount": 480, "unit": "ml", "note": "na vaření hlav a vnitřností, zůstává v polévce" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "celer-bulvovy", "amount": 17, "unit": "g", "note": "z 50 g hrubého × 0,86; na nudličky" },
+    { "ingredientId": "mrkev", "amount": 18, "unit": "g", "note": "z 50 g hrubé × 0,89; na nudličky" },
+    { "ingredientId": "petrzel-koren", "amount": 7, "unit": "g", "note": "z 20 g hrubé × 0,85; na nudličky" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "na zásmažku", "original": { "ingredientId": "margarin", "amount": 45, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 80, "unit": "g" },
+    { "ingredientId": "hovezi-vyvar", "amount": 600, "unit": "ml", "note": "zdroj vývar B (receptura 10101); trochu na zeleninu, zbytek vlažný do zásmažky" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.23, "unit": "g", "note": "zdroj „květ mletý“ (muškátový květ)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g", "note": "mletý" },
+    { "ingredientId": "mleko-polotucne", "amount": 200, "unit": "ml" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi)" },
+    { "ingredientId": "petrzel-nat", "amount": 4, "unit": "g", "note": "z 10 g hrubé × 0,95; jemně nakrájená" },
+    { "ingredientId": "zemle-bila", "amount": 40, "unit": "g", "note": "na drobné kostičky, osmažená do růžova" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na osmažení žemle" }
+  ],
+  "steps": [
+    { "text": "Očištěné a opláchnuté kapří hlavy a vnitřnosti uvař každé zvlášť v mírně osolené vodě (vodu rozděl do dvou hrnců).", "minutes": 40 },
+    { "text": "Mezitím očištěnou a opláchnutou kořenovou zeleninu nakrájej na nudličky, zalij trochou vývaru a uvař.", "minutes": 20, "parallel": true },
+    { "text": "Maso z hlav i vnitřnosti nakrájej na drobnější kousky.", "minutes": 10 },
+    { "text": "Z másla a mouky připrav světlou zásmažku.", "minutes": 8 },
+    { "text": "Zásmažku zalij za stálého prošlehávání metlou vlažným vývarem z hlav a vnitřností, zeleniny a zbylým vývarem. Přidej muškátový květ, přiveď k varu a zvolna vař nejméně půl hodiny za občasného prošlehání.", "minutes": 40 },
+    { "text": "Mezitím nakrájenou žemli osmaž na másle dorůžova.", "minutes": 8, "parallel": true },
+    { "text": "Ke konci varu přidej mletý pepř, přilij mléko, krátce povař a polévku procedi hustým cedníkem.", "minutes": 8 },
+    { "text": "Do procezené polévky přidej připravené maso z hlav a vnitřností a kořenovou zeleninu, krátce povař a dochuť polévkovým kořením, případně dosol.", "minutes": 5 },
+    { "text": "Podávej s jemně nakrájenou petrželovou natí a osmaženou žemlí." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3 450 g hotové polévky, porce 0,33 l a vložka) na 4 porce, faktor 0,4. Kapří hlavy (zdroj 600 g) mají vlastní surovinu s jedlým podílem 0,3 (jí se jen maso z hlav), vnitřnosti (200 g) jsou počítány jako kapr; hlavy a vnitřnosti seženeš u rybáře, vánoční dobou je kapr i s nimi dostupný. Zelenina: z hrubé hmotnosti × 0,4 × jedlá část z katalogu (podle čistého sloupce zdroje by bylo celeru 16 g, mrkve 16 g, petržele 6 g). Zdroj má „vývar B“ (hovězí, receptura 10101), zůstává hovězí vývar; moderně lze použít rybí nebo zeleninový. Margarín nahrazuje máslo (původně 45 g). Sůl i polévkové koření (tekuté, typ Maggi) jsou počítány jako koření, sůl zdroj uvádí do vody na vaření, v receptu je celá v jídle. Doby vaření hlav, vnitřností a zeleniny zdroj neuvádí (odhad), zásmažka se vaří nejméně 1/2 hodiny. Check:recipe počítá 422 g surovin na porci (u hlav jen jedlý podíl); hotové polévky zdroj uvádí 3 450 g na 10 porcí (345 g), rozdíl jsou ztráty varem a procezením. Doporučení: jako hlavní jídlo počítej porci 0,5 l a víc rybího masa.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 37,
+    "code": "10133",
+    "titleOriginal": "POLÉVKA RYBÍ"
+  },
+  "verified": true
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "kapri-hlavy",
+    "name": "Kapří hlavy",
+    "aliases": ["kapří hlava", "hlavy z kapra", "carp heads"],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": { "kcal": 127, "protein": 17.83, "carbs": 0, "fat": 5.6, "fiber": 0 },
+    "units": {},
+    "ediblePortion": 0.3,
+    "allergens": ["ryby"],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171952 (Fish, carp, raw), shodně s kapr; platí pro jedlé maso z hlavy",
+      "refuse": "odhad: hlava se vyvaří a vyjme, jí se jen maso z líček a týla (~30 %), kosti, žábry a kůže odpad (70 %)"
+    }
+  }
+]

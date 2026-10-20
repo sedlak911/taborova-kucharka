@@ -1,0 +1,43 @@
+{
+  "id": "cockova-polevka-s-parkem",
+  "title": "Čočková polévka s párkem",
+  "titleOriginal": "Polévka čočková s párkem",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "cocka", "amount": 120, "unit": "g", "note": "přebraná, propláchnutá; zdroj 300 g na 10 porcí, uvařená 750 g" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené, na osmahnutí cibule" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "jemně nakrájená; z 100 g hrubé × 0,4 × 0,9 (katalog)" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "sladka-paprika", "amount": 5, "unit": "g", "note": "mletá" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1000, "unit": "ml", "note": "vlažný; zdroj vývar B (receptura 10101)" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "utřený se solí; z 20 g hrubého × 0,4 × 0,87 (katalog)" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g", "note": "mletý" },
+    { "ingredientId": "parky", "amount": 80, "unit": "g", "note": "jemné, nakrájené na tenké plátky" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi)" }
+  ],
+  "steps": [
+    { "text": "Čočku několikrát pečlivě propláchni, zalij dostatečným množstvím vlažné vody a přiveď k varu.", "minutes": 10 },
+    { "text": "Čočku zvolna vař téměř do měkka (nesmí se rozvařit) a podle potřeby dolévej horkou vodu.", "minutes": 45 },
+    { "text": "Mezitím na sádle osmahni do růžova jemně nakrájenou cibuli.", "minutes": 8, "parallel": true },
+    { "text": "Cibuli zasyp prosátou moukou, připrav světlou zásmažku a zamíchej do ní papriku.", "minutes": 4, "parallel": true },
+    { "text": "Zásmažku za stálého prošlehávání zalij vlažným vývarem, přiveď k varu a zvolna vař za občasného promíchání nejméně 30 minut.", "minutes": 40, "parallel": true },
+    { "text": "Ke konci varu přidej česnek utřený se solí, mletý pepř, uvařenou čočku a párky nakrájené na jemné plátky.", "minutes": 5 },
+    { "text": "Polévku ještě krátce povař, dochuť polévkovým kořením a případně dosol.", "minutes": 5 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,48 l hotové polévky včetně párků, porce 0,33 l včetně 20 g párku) na 4 porce, faktor 0,4 (k = 4/10). Čočka: zdroj 300 g suché, po uvaření 750 g. Voda na uvaření čočky je ve zdroji bez množství (podle potřeby), proto bez řádku; doba vaření čočky není uvedena (odhad 45 minut podle druhu čočky). Cibule: zdroj 100 g hrubé, odpad 15 g; řádek je 100 × 0,4 × 0,9 = 36 g, zaokrouhleno na 35 g. Česnek: 20 g hrubého × 0,4 × 0,87 = 7 g. Sádlo je přepočteno třídou fat (45 g). Sůl, pepř a polévkové koření jsou přepočteny jako koření (třída seasoning), polévkové koření dosaď podle chuti. Hovězí vývar (zdroj vývar B, receptura 10101) zůstává, lze ho nahradit zeleninovým (pak ale není vhodná pro bezmasé jídlo kvůli párkům). Jídelní norma počítá jen 20 g párku na porci; jako hlavní jídlo počítej porci 0,5 l a 120–150 g párků na osobu.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 40,
+    "code": "10138",
+    "titleOriginal": "POLÉVKA ČOČKOVÁ S PÁRKEM"
+  },
+  "verified": true
+}

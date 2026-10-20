@@ -1,0 +1,35 @@
+{
+  "id": "bramborova-polevka-postni",
+  "title": "Postní bramborová polévka",
+  "titleOriginal": "Zemčatová polívka",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 650, "unit": "g", "note": "4 velké, oloupané (z asi 800 g hrubé × 0,8)" },
+    { "ingredientId": "celer-bulvovy", "amount": 3, "unit": "g", "note": "kávová lžička ustrouhaného" },
+    { "ingredientId": "petrzel-koren", "amount": 3, "unit": "g", "note": "kávová lžička ustrouhané" },
+    { "ingredientId": "celerova-nat", "amount": 2, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "petrzel-nat", "amount": 2, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "aby brambory byly přikryté; odhad" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "na bledou jíšku (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 25, "unit": "g", "note": "na bledou jíšku (odhad)" }
+  ],
+  "steps": [
+    { "text": "Oloupej brambory, nakrájej je na kousky a propláchni.", "minutes": 8 },
+    { "text": "Brambory dej do hrnce, přidej vodu, nastrouhaný celer a petržel, nasekanou nať celeru a petržele a sůl. Přiveď k varu a vař do měkka.", "minutes": 25 },
+    { "text": "Vodu z brambor slij do misky a brambory nech v hrnci.", "minutes": 2 },
+    { "text": "Z másla a mouky udělej bledou jíšku, zalij ji slitou vodou a rozmíchej.", "minutes": 6 },
+    { "text": "Brambory v hrnci vařečkou rozmačkej.", "minutes": 3 },
+    { "text": "Zalij je zapraženou vodou a ještě povař.", "minutes": 10 }
+  ],
+  "modernNote": "Rettigová nedává množství ani počet porcí, takže jsou odhadnuté (čtyři velké brambory, voda „dostatečně“ ≈ 1 l, jíška z 25 g másla a mouky; 4 porce po asi 0,3 l), proto verified: false. Doby vaření zdroj neuvádí, jsou odhad z praxe. Na konci zdroje je ještě vylepšená varianta: na másle podusit nadrobno nakrájenou mrkev, petržel a celer, přidat usmažené kostky brambor a vejce, vše v hmoždíři utlouct na kaši, vmíchat do polévky, přecedit na usmaženou žemli; zde se nepřepisuje. Moderní tip: brambory stačí vařit asi 15–20 minut a polévku lze rozmixovat tyčovým mixérem.",
+  "source": { "book": "rettigova-1868", "page": 293, "titleOriginal": "Zemčatová polívka" },
+  "verified": false,
+  "quote": "zemčata pak vařečkou v hrnku rozmačkej, nalej na ně opět tu zapraženou vodu, nech to ještě povařit – a polívka je hotová."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "polevka-z-fazolovych-lusku",
+  "title": "Polévka z fazolových lusků nakyselo",
+  "titleOriginal": "Polévka z fazolových lusků nakyselo",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "zelene-fazolky-v-konzerve", "amount": 400, "unit": "g", "note": "sterilované lusky i s nálevem; nálev jde do polévky" },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "na zásmažku",
+      "original": { "ingredientId": "margarin", "amount": 45, "unit": "g" }
+    },
+    { "ingredientId": "hladka-mouka", "amount": 50, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "hovezi-vyvar", "amount": 680, "unit": "ml", "note": "vlažný; ve zdroji vývar B, receptura č. 10101" },
+    { "ingredientId": "mleko-polotucne", "amount": 200, "unit": "ml" },
+    { "ingredientId": "brambory", "amount": 150, "unit": "g", "note": "z 467 g hrubé na 10 porcí × 0,4 × 0,8" },
+    { "ingredientId": "voda", "amount": 80, "unit": "ml", "note": "na uvaření brambor" },
+    { "ingredientId": "kopr-cerstvy", "amount": 5, "unit": "g", "note": "z 20 g hrubé × 0,4 × 0,59" },
+    { "ingredientId": "ocet", "amount": 17, "unit": "ml", "note": "zdroj 40 g" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Lusky sceď a nálev si nech stranou. V hrnci rozehřej máslo, zasyp prosátou moukou a připrav světlou zásmažku.", "minutes": 5 },
+    { "text": "Zásmažku za stálého šlehání metlou zalij vlažným vývarem a nálevem z lusků, přiveď k varu a zvolna vař nejméně půl hodiny. Občas prošlehej.", "minutes": 35 },
+    { "text": "Mezitím oloupej brambory, nakrájej je na kostičky a uvař v mírně osolené vodě (nemají se rozvařit).", "minutes": 20, "parallel": true },
+    { "text": "Ke konci varu přidej mléko a krátce povař.", "minutes": 3 },
+    { "text": "Do provařené polévky vlož uvařené brambory a lusky nakrájené na kratší kousky a krátce povař.", "minutes": 5 },
+    { "text": "Polévku dochuť opláchnutým, jemně nakrájeným koprem a octem, podle chuti dosol.", "minutes": 3 }
+  ],
+  "modernNote": "Porce 0,33 l včetně vložky; recept pro 10 porcí = 3,4 l hotové polévky, na 4 porce vychází asi 1,4 l. Sterilované fazolové lusky (se zdrojovou hmotností včetně nálevu) nahrazuje konzerva zelených fazolek, nálev z ní jde do polévky. Margarín ze zdroje nahrazuje máslo. Hrubá hmotnost brambor a kopru je přepočtena na jedlou (hrubá × 0,4 × jedlý podíl). Voda na brambory je ve zdroji 200 g na 10 porcí a nevyplývá z něj, že se slévá, proto zůstává v polévce. Sůl (20 g) zdroj dává celkem; mírně osol vodu na brambory a zbytek dej podle chuti na konci. Čas 55 minut vychází ze zdroje (půl hodiny vaření zásmažky) a odhadu času na brambory a dochucení. Jako hlavní jídlo počítej 0,5 l polévky na osobu.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 45,
+    "code": "10146",
+    "titleOriginal": "POLÉVKA Z FAZOLOVÝCH LUSKŮ NAKYSELO"
+  },
+  "verified": true
+}

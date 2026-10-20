@@ -1,0 +1,145 @@
+{
+  "id": "sauerbraten",
+  "title": "Hovězí na octě (Sauerbraten)",
+  "titleOriginal": "Sauerbraten",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 290,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni-tucne",
+      "amount": 730,
+      "unit": "g",
+      "note": "pot roast (přední) s tukem, syrové"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 280,
+      "unit": "ml",
+      "note": "tekutina na dušení, zůstává v omáčce"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 170,
+      "unit": "ml",
+      "note": "lihový ocet 8 %, tekutina na dušení",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 25,
+      "unit": "g",
+      "note": "packed",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 7,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.61,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.61,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 3.45,
+      "unit": "ks",
+      "note": "3/8 oz ze zdroje"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "nakrájená"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená na plátky"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 45,
+      "unit": "g",
+      "note": "nakrájený"
+    },
+    {
+      "ingredientId": "pernik",
+      "amount": 35,
+      "unit": "g",
+      "note": "rozdrcené zázvorové sušenky (gingersnaps) ze zdroje; náhrada perníkem"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí maso vlož do velkého hrnce."
+    },
+    {
+      "text": "Smíchej vodu, ocet, hnědý cukr, sůl, hořčici, hřebíček, černý pepř, česnek v prášku, bobkové listy, cibuli, mrkev a celer. Zalij jimi maso.",
+      "minutes": 5
+    },
+    {
+      "text": "Přiveď k varu a přikryj.",
+      "minutes": 8
+    },
+    {
+      "text": "Duš 3,5 až 4 hodiny; maso každou hodinu obrať.",
+      "minutes": 240
+    },
+    {
+      "text": "Maso a bobkové listy vyjmi a nech maso 20 minut odpočinout.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím tekutinu s cibulí, mrkví a celerem přelij do menšího hrnce a přiveď k varu.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Do vřící tekutiny vmíchej drcený perník a za stálého míchání vař, dokud se nerozpustí a omáčka nezhoustne.",
+      "minutes": 8
+    },
+    {
+      "text": "Maso nakrájej na plátky asi 3 mm, polož na talíře a polij omáčkou.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Karta je pro velkokuchyni (100 porcí, parní kotel); pro 4 porce 730 g syrové přední pečeně s tukem (AFRS pot roast 40 lb). Porce ~100 g hotových plátků (karta 3-1/2 oz) a omáčka z tekutiny po dušení (~120 ml na porci). Výstup karty „RESERVED LIQUID“ (27-1/8 lb = 3-1/4 gal marinády) je tekutina po dušení, ne surovina, proto není v seznamu. Check:recipe počítá syrové maso a tekutinu, proto bilance 358 g na porci proti 99 g z karty: karta Portion je jen plátek uvařeného masa (40 lb syrového → 100 × 3,5 oz, výtěžnost asi 55 %), omáčka je navíc (6½ qt na 50 porcí ≈ 120 ml na porci) a zbytek je odpar za 4 hodiny dušení. Kalorie 541 proti 467 z karty: použit syrový kus s tukem (USDA 244 kcal/100 g), protože makra karty (36 g bílkovin, 27 g tuku na porci) odpovídají tučnému kusu, ne libovému předku (ten by dal 7 g tuku); při dušení část tuku odejde do omáčky a sebere se. Zázvorové sušenky jsou nahrazeny perníkem (lepek). Karta nemá nakládání; moderní tip: maso zamarinuj 2 až 3 dny v chladu v octové zálivce s cibulí, mrkví a celerem (karta nemarinuje, proto recept nemá tag pripravit-predem). Bobkový list podle karty (3/8 oz) dává dle třídy seasoning asi 3 kusy na 4 porce.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 809,
+    "code": "L 066 00",
+    "titleOriginal": "SAUERBRATEN"
+  },
+  "verified": true,
+  "quote": "Simmer 3-1/2 to 4 hours or until tender; turn roasts every hour."
+}
