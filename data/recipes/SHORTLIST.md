@@ -1215,7 +1215,7 @@ Zadání: „vyber dalších 50–100“ → schválený seznam 81 receptů (45 
 | 80 | nakladane-kysane-zeli | Domácí kysané zelí | rettigova-1868 |  | 475 | prilohy-a-zelenina | levne, pripravit-predem | č. 10 (Dodatek); kvašení týdny |
 | 81 | sladke-buchty-hauptmann | Sladké kynuté buchty | hauptmann-1877 |  | 15 | snidane-a-pecivo |  | Buns |
 
-## Výběr 2026-10-20 c (doplnění knih na 50 receptů, dávky Z1–Z14)
+## Výběr 2026-10-20 c (doplnění knih na 50 receptů, dávky Z1–Z14) – HOTOVO 2026-10-21
 
 Zadání: „tam, kde není aspoň 50 receptů per kniha, doplň (podle doporučení/důležitosti)“. Stav před výběrem: Glasse 10, Rettigová 44, Hauptmann 7, Wells 8, Feldkochbuch 36, Army Baker 5. **Feldkochbuch má jen 36 pokrmů (vše hotové)**, **Army Baker jen ~15 formulí chleba** – vybráno 6 skutečně odlišných. Pořadí v rámci knihy = doporučení (výběrové soubory agentů). Kapitola a tagy jsou návrh.
 

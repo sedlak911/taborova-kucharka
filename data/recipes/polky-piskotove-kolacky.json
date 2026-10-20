@@ -1,0 +1,33 @@
+{
+  "id": "polky-piskotove-kolacky",
+  "title": "Polky – piškotové kapky s rozinkami",
+  "titleOriginal": "Polkas or Halfpenny Sponges",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 140, "unit": "g", "scaling": "linear", "note": "zdroj 2½ lb (1134 g), přepočteno ×0,125" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "scaling": "linear", "note": "zdroj 8 vajec (v tisku „S“), přepočteno ×0,125" },
+    { "ingredientId": "cukr-krystal", "amount": 85, "unit": "g", "scaling": "linear", "note": "zdroj 1½ lb moučkového cukru (castor sugar, 680 g), přepočteno ×0,125" },
+    { "ingredientId": "prasek-do-peciva", "amount": 4, "unit": "g", "scaling": "linear", "note": "náhrada za uhličitan amonný „voil“ (zdroj 1 oz = 28 g), stejná hmotnost ×0,125" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml", "scaling": "linear", "note": "odhad, zdroj „a little churned milk“ bez množství" },
+    { "ingredientId": "citronove-aroma", "amount": 0.08, "unit": "ml", "note": "zdroj 12 kapek esence z citronu, ×0,125 (asi 1½ kapky)" },
+    { "ingredientId": "korintky", "amount": 40, "unit": "g", "scaling": "linear", "note": "odhad, zdroj „6 or 8 currants“ na každý kousek (asi 16 kousků); dobře jdou nahradit rozinkami" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C. Plechy vymaž tukem." },
+    { "text": "Vejce, cukr a prášek do pečiva šlehej v míse rukou nebo metlou 12 až 15 minut, dokud nejsou pěnivé.", "minutes": 15 },
+    { "text": "Přidej trochu mléka, vsyp mouku, přidej kapku citronové esence a vše dobře prošlehej.", "minutes": 5 },
+    { "text": "Do poloviny naplněnou lžící dávkuj těsto na plechy, kousky asi 5 cm od sebe.", "minutes": 8 },
+    { "text": "Na každý kousek polož 6 až 8 korintek.", "minutes": 4 },
+    { "text": "Peč v horké troubě do zlatova.", "minutes": 12 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, č. 179, s. 70) uvádí pekařskou dávku: 2½ lb mouky, 1½ lb moučkového cukru, „S eggs“, 1 oz „voil“ (volatile salts, uhličitan amonný), 12 kapek citronové esence, trochu „churned milk“ a 6 až 8 korintek na kousek; počet vajec je v tisku i ve zdrojovém HTML psán „S“ (obrázek strany k dispozici není). Čteme jako 8 (tvarem by šlo i o 5): 8 vajec (asi 400 g) na 2½ lb mouky a 1½ lb cukru je levná obdoba piškotu, kde kniha jinak dává mnohem víc vajec (Sponge Biscuits č. 122: 12 vajec na 15 oz mouky; Penny Queen Cakes č. 30: 15 vajec na 3 lb mouky; i tvrdé Cracknels č. 96 mají 13 vajec na 3½ lb). S 5 vejci by se 1½ lb cukru nedalo 12–15 minut ušlehat do pěny a těsto s „trochou mléka“ by bylo příliš tuhé na dávkování lžící; 8 vajec dá spolu s trochou mléka měkké kapkové těsto. Nejistota zůstává. Dávka je zmenšena ×0,125 (140 g mouky, 1 vejce, asi 320 g těsta), což dá zhruba 16 kousků po 20 g; na porci 4 kousky, kolem 260 kcal. Amonium je nahrazeno kypřicím práškem ve stejné hmotnosti; pro křupavější výsledek lze dát až 2× víc prášku. Množství mléka (zdroj „a little“) a korintek je odhad, proto verified false. Teplotu a dobu pečení zdroj neuvádí („hot oven“), bereme 200 °C a 12 minut. Šlehání rukou 12 až 15 minut zdroj žádá kvůli kypření amoniem; šlehačem stačí kratší dobu, ale čas ze zdroje je ponechán. Na rozdíl od piškotů savoy (`piskoty-savoy`, č. 114) nejde o šlehanou pěnu, ale o kypřené těsto bez másla, dávkované lžící na plech.",
+  "source": { "book": "wells-1890", "page": 70, "titleOriginal": "Polkas or Halfpenny Sponges" },
+  "verified": false,
+  "quote": "put about 6 or 8 currants on each and bake in a hot oven."
+}

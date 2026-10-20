@@ -1,0 +1,31 @@
+{
+  "id": "parkinove-susenky",
+  "title": "Ovesné perníkové sušenky (parkins)",
+  "titleOriginal": "Parkings",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "ovesne-vlocky", "amount": 175, "unit": "g", "note": "jemné ovesné vločky (zdroj: oatmeal)" },
+    { "ingredientId": "hladka-mouka", "amount": 50, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "hnedy-cukr", "amount": 25, "unit": "g", "scaling": "linear", "note": "zdroj: moist sugar (vlhký hnědý cukr)" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "zlaty-sirup", "amount": 150, "unit": "g", "note": "zdroj: syrup „sufficient“, množství odhad" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C." },
+    { "text": "Ovesné vločky smíchej s moukou, cukrem a práškem do pečiva. Přidej máslo a rozetři.", "minutes": 10 },
+    { "text": "Přidej zlatý sirup a vypracuj středně tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto rozděl na 4 kusy po asi 113 g, každý vytvaruj do kulatého koláčku a polož na plech s dostatečným odstupem.", "minutes": 10 },
+    { "text": "Peč ve vlažné troubě při 150 °C asi 25 minut, dokud sušenky nejsou pevné.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj: dávka 3½ lb ovesné mouky, 1 lb mouky, 1 lb másla, 8 oz vlhkého cukru a ½ oz prášku do pečiva se sirupem „sufficient“ (dost na středně tuhé těsto); kusy se váží po 4 oz (113 g) „for a penny“. Počet kusů zdroj nepíše: odhad 36 kusů, tedy 4 porce = 4 kusy (faktor 4/36; kniha výtěžek neuvádí, proto originalYield chybí). Množství sirupu je odhad (zdroj ho neudává): dopočteno tak, aby 36 kusů vážilo po 113 g, tedy asi 2,9 lb. Sirup (syrup) je převeden na zlatý sirup; jde o jiný recept než Parkin (č. 53, koláč z plechu s melasou), proto jsou sušenky světlejší a sladší. Oatmeal je převedena na jemné ovesné vločky. Postup zapracování másla zdroj neuvádí, proto se rozetře do suchých surovin. Teplota 150 °C a doba 25 minut jsou odhad, zdroj udává jen „cool oven“. Sušenky jsou vlhké a měkké; po vychladnutí ztuhnou.",
+  "source": { "book": "wells-1890", "page": 36, "titleOriginal": "Parkings" },
+  "verified": false,
+  "quote": "weigh off at 4 ozs. for a penny, mould up round, and place on tins 2½ inches apart."
+}

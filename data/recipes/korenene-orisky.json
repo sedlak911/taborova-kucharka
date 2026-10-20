@@ -1,0 +1,31 @@
+{
+  "id": "korenene-orisky",
+  "title": "Kořeněné perníkové oříšky",
+  "titleOriginal": "Spice Nuts (Another Way)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 150, "unit": "g", "note": "zdroj 3 lb" },
+    { "ingredientId": "cukr-krystal", "amount": 100, "unit": "g", "scaling": "linear", "note": "zdroj 2 lb" },
+    { "ingredientId": "melasa", "amount": 100, "unit": "g", "scaling": "linear", "note": "tmavá melasa (zdroj: treacle), 2 lb" },
+    { "ingredientId": "zazvor-mlety", "amount": 6, "unit": "g", "scaling": "linear", "note": "zdroj 2 oz" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "note": "náhrada za sodu a kyselinu vinnou (zdroj ¼ oz sody + 2 drs. kyseliny vinné), 3 díly prášku na 1 díl sody" }
+  ],
+  "steps": [
+    { "text": "Smíchej mouku s cukrem, zázvorem a kypřicím práškem.", "minutes": 3 },
+    { "text": "Přidej melasu a vypracuj tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto přikryj a nech přes noc odležet." },
+    { "text": "Předehřej troubu na 170 °C a vyložej plech pečicím papírem." },
+    { "text": "Těsto rozválej v dlouhé pásy a prsty z něj odlamuj kousky velikosti malého kuličkového oříšku (asi 1,5 cm); rozlož je v řadách na plech.", "minutes": 15 },
+    { "text": "Peč v mírně vyhřáté troubě, dokud nejsou pevné.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, s. 34, č. 45 „Another Way“ k č. 44 Spice Nuts) je pekařská dávka 3 lb mouky, 2 lb cukru a 2 lb melasy (asi 5 lb těsta) a neuvádí počet porcí ani postup kromě „Mix the day before baking“ (těsto se mísí den předem, viz též poznámka u č. 49: „nearly all mixtures made in this way are best made the day before“). Dávka je zmenšena na 150 g mouky (faktor 0,11, tj. asi 1/9 zdroje) odhadem na 100 kuliček o ~3,5 g, tedy 4 porce po ~25 oříšcích a ~300 kcal. Treacle je v katalogu tmavá melasa, „sugar“ krystalový cukr. Kypřidla: ¼ oz uhličitanu sodného (jedlá soda) a 2 drams (asi 3,5 g) kyseliny vinné jsou nahrazena kypřicím práškem podle pravidla 1 díl sody ≈ 3 díly prášku (soda po zmenšení 0,78 g → 2 g prášku; stejně jako u Albertova koláče č. 174); melasa je sama mírně kyselá, takže by šlo použít i čistou jedlou sodu (asi 0,8 g). Tvar (kousky velikosti malého kuličkového oříšku, v řadách na plechu) je převzat z č. 50 Hunting Nuts, kde zdroj plech lehce potírá máslem; zde je použit pečicí papír. Zdroj neuvádí teplotu ani dobu pečení: 170 °C a 15 minut jsou odhad (č. 50 Hunting Nuts říká „moderate oven“). Zdroj tuk nepřidává, takže oříšky jsou tvrdé, suché a výrazně sladké jako tvrdší perníčky; po upečení je dobré je nechat vychladnout a uložit v dóze. Čas přes noc není v timeMinutes. Množství jsou ze zdroje, jen pečení je odhad.",
+  "source": { "book": "wells-1890", "page": 34, "titleOriginal": "Spice Nuts (Another Way)" },
+  "verified": true,
+  "quote": "Mix the day before baking."
+}

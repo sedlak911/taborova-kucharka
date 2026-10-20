@@ -1,0 +1,33 @@
+{
+  "id": "janovsky-kolac",
+  "title": "Janovský koláč s mandlemi",
+  "titleOriginal": "Genoa Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce", "orechy"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "z 1 libry, měkké, ne rozpuštěné" },
+    { "ingredientId": "cukr-krystal", "amount": 55, "unit": "g", "scaling": "linear", "note": "z 1 libry" },
+    { "ingredientId": "vejce", "amount": 1.05, "unit": "ks", "note": "z 1 libry vajec na váhu (asi 9 vajec)" },
+    { "ingredientId": "hladka-mouka", "amount": 65, "unit": "g", "note": "z 1¼ libry" },
+    { "ingredientId": "korintky", "amount": 135, "unit": "g", "note": "z 2½ liber, omyté a přebrané" },
+    { "ingredientId": "citronat", "amount": 80, "unit": "g", "note": "z 1½ libry pomerančové kandované kůry („orange peel“), nakrájené na malé kostičky" },
+    { "ingredientId": "mandle-blansovane", "amount": 20, "unit": "g", "scaling": "linear", "note": "nasekané, na povrch; množství ve zdroji chybí, odhad („dost hustě“)" }
+  ],
+  "steps": [
+    { "text": "Měkké máslo zpracuj s cukrem do krémova. Nepřehřej ho, ať se nerozpustí.", "minutes": 15 },
+    { "text": "Přidávej vejce po jednom až dvou a vždy dobře prošlehej.", "minutes": 10 },
+    { "text": "Jakmile se směs v míse zvedá, přisyp mouku a prošlehej ji.", "minutes": 5 },
+    { "text": "Vmíchej omyté a přebrané korintky a kandovanou pomerančovou kůru nakrájenou na kostičky.", "minutes": 5 },
+    { "text": "Těsto dej do malé formy s rovnými okraji, uhlaď a husto posyp povrch blanšírovanými nasekanými mandlemi.", "minutes": 5 },
+    { "text": "Peč ve středně teplé troubě do zlatova.", "minutes": 55 }
+  ],
+  "modernNote": "Zdroj (č. 154, tištěná s. 64) dává jen suroviny: 1 lb másla, 1 lb cukru, 1¼ lb mouky, 1 lb vajec (na váhu), 2½ lb korintek a 1½ lb pomerančové kůry; dále pokyn upéct v malé čtvercové formě s rovnými okraji, posypat nasekanými blanšírovanými mandlemi a péct ve středně teplé troubě; zbytek je „Proceed as before directed“. Postup „creamed“ je z receptu č. 136 (s. 60): máslo se pracuje na studené desce a pak v teplé hliněné míse, cukr se zapracuje rukou, vejce se přidávají po jednom až dvou a když směs v míse nabývá, přijde mouka; během šlehání se směs 2–3× lehce zahřeje, hlavně v zimě. Stejně postupují Dundee a madeirský koláč z téže knihy. Množství ze zdroje jsou zachována; kandovaná kůra je velmi hojná (stejně jako 2½ lb korintek, dohromady asi 40 % hmotnosti dávky), takže koláč je spíš ovocný chlebíček než těsto. Chceš-li jemnější chuť, dej kůry jen asi polovinu (40 g). Pomerančová kandovaná kůra („orange peel“) je v katalogu nahrazena citronátem, chuť i makra jsou blízké. Zdroj nemá výtěžek, kypřidlo, teplotu ani dobu pečení; těsto kyne vzduchem a vejci. Britská libra 454 g, vejce na váhu 1 lb ≈ 9 vajec po 50 g. Dávka dává odhadem 34 kousků po asi 115 g (celkem asi 14 300 kcal); na 4 porce jsou to 4 z 34 kousků (faktor 4/34 ≈ 0,118), každý asi 420 kcal. Množství mandlí zdroj neuvádí („dost hustě“), odhad 20 g. Dnes peč v troubě vyhřáté na 160 °C asi 55 minut v malé čtvercové formě 15 cm (špejle musí vyjít suchá), doba je odhad. Zdroj zrání neuvádí; koláč s tolika ovocem je dobré dát den odležet, ale není to nutné. Odhad množství mandlí ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 64, "titleOriginal": "Genoa Cake" },
+  "verified": false,
+  "quote": "strew them rather thickly on the top, and bake in a moderate oven."
+}

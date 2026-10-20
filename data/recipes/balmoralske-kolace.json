@@ -1,0 +1,34 @@
+{
+  "id": "balmoralske-kolace",
+  "title": "Balmoralské kmínové koláče",
+  "titleOriginal": "Balmoral Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["rychle", "bez-masa", "sladke"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "zdroj 3½ lb" },
+    { "ingredientId": "prasek-do-peciva", "amount": 11, "unit": "g", "note": "místo sody a kyseliny vinné (zdroj 1½ oz směsi 1 : ¾), 3 díly prášku na 1 díl sody", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "note": "zdroj 1 lb", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 70, "unit": "g", "note": "zdroj 1 lb", "scaling": "linear" },
+    { "ingredientId": "kmin-cely", "amount": 1, "unit": "g", "note": "zdroj „a few caraway seeds“ bez množství, odhad" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 5 ks", "scaling": "linear" },
+    { "ingredientId": "mleko-polotucne", "amount": 180, "unit": "ml", "note": "zdroj „nearly 1 quart“", "scaling": "linear" },
+    { "ingredientId": "cukr-moucka", "amount": 5, "unit": "g", "note": "na posypání (zdroj „castor sugar“ bez množství, odhad)", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Mouku důkladně smíchej s kypřicím práškem.", "minutes": 3 },
+    { "text": "Do mouky vetři máslo a cukr. Uprostřed udělej důlek a dej do něj kmín.", "minutes": 5 },
+    { "text": "Vejce rozšlehej s mlékem, vlij do důlku a vypracuj těsto.", "minutes": 3 },
+    { "text": "Těsto rozděl do 4 vymazaných malých forem, posyp moučkovým cukrem.", "minutes": 5 },
+    { "text": "Peč v mírně vyhřáté troubě, dokud koláče nejsou propečené a zlatavé.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka na 3½ lb (1 588 g) mouky; dávka je zmenšena na 250 g mouky (faktor 0,1575), 1 porce = 1 koláček (cca 465 kcal). Kniha dává dávku na desítky koláčů. Kypřidla zdroje: 1½ oz směsi sody a kyseliny vinné v poměru 1 oz sody ku ¾ oz kyseliny (zdroj nepíše jasně, jestli je 1½ oz směs celkem, nebo soda; počítáno jako směs, tedy asi 0,86 oz sody). Kyselina vinná je silnější než vinný kámen, takže kypřicí síla odpovídá sodě: podle pravidla 1 díl sody ≈ 3 díly prášku vychází po zmenšení 3,8 g sody → 11 g kypřicího prášku (asi 4,5 % mouky, stejně jako u německých housek č. 27). Mléko: zdroj „nearly 1 quart“ = téměř 1 136 ml (britský quart), přepočteno 180 ml; těsto je řidší, spíš hustá hmota než válené těsto. Kmín („a few seeds“) a moučkový cukr na posypání nemají ve zdroji množství, odhady 1 g a 5 g. Teplota ani doba pečení ve zdroji nejsou („moderate oven“, tj. mírně vyhřátá trouba); 180 °C a 25 minut jsou odhad pro malé formy. Strana: tištěná 29. Odhad množství kmínu a cukru ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 29, "titleOriginal": "Balmoral Cakes" },
+  "verified": false,
+  "quote": "Mix the soda and acid well with the flour, then rub in the butter and sugar; make a bay with the flour, add the seeds, beat up the eggs with the milk, and make all into a dough."
+}
