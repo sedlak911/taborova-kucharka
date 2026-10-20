@@ -20,6 +20,16 @@ export function isDragStartAllowed(target: EventTarget | null): FlipDirection | 
   return null
 }
 
+/** Šířka úchytu `.page-edge` (výchozí `--edge-zone`); během animace list úchyt zakrývá, tak se pozná podle polohy. */
+export const EDGE_ZONE_PX = 56
+
+/** Úchyt podle polohy ukazatele u vnějšího okraje knihy (pro tah zahájený během animace otočení). */
+export function edgeFromPoint(clientX: number, rect: { left: number; right: number }): FlipDirection | null {
+  if (clientX >= rect.right - EDGE_ZONE_PX && clientX <= rect.right) return 'next'
+  if (clientX <= rect.left + EDGE_ZONE_PX && clientX >= rect.left) return 'prev'
+  return null
+}
+
 /** Prst se musí posunout aspoň o tolik px, než se rozhodne, zda jde o švih (listování), nebo o scroll. */
 export const SWIPE_SLOP_PX = 10
 /** Švih je vodorovný, když |dx| ≥ 1,2 × |dy|; jinak patří svislému scrollu stránky. */
@@ -73,10 +83,13 @@ export function useFlipDrag({ pageWidth, canNext, canPrev, onComplete }: Options
   // do kdy se spolkne klik po švihu (Infinity = švih právě běží)
   const clickGuardUntil = useRef(0)
   const raf = useRef<number | null>(null)
+  // dokončení běžící animace (jen když vede k otočení stránky); nový švih ho provede okamžitě
+  const pendingCommit = useRef<(() => void) | null>(null)
 
   const cancelAnimation = useCallback(() => {
     if (raf.current !== null) cancelAnimationFrame(raf.current)
     raf.current = null
+    pendingCommit.current = null
   }, [])
 
   // při odmontování zrušíme běžící animaci
@@ -85,6 +98,7 @@ export function useFlipDrag({ pageWidth, canNext, canPrev, onComplete }: Options
   const animateTo = useCallback(
     (from: number, to: number, direction: FlipDirection, done: () => void) => {
       if (reducedMotion()) { done(); return }
+      pendingCommit.current = to === 1 ? done : null
       const start = performance.now()
       const tick = (now: number) => {
         const t = Math.min(1, (now - start) / DURATION_MS)
@@ -94,6 +108,7 @@ export function useFlipDrag({ pageWidth, canNext, canPrev, onComplete }: Options
           raf.current = requestAnimationFrame(tick)
         } else {
           raf.current = null
+          pendingCommit.current = null
           done()
         }
       }
@@ -102,10 +117,15 @@ export function useFlipDrag({ pageWidth, canNext, canPrev, onComplete }: Options
     [],
   )
 
-  /** Začne tažení listu; nový drag ruší dobíhající animaci (její onComplete se nezavolá). */
+  /**
+   * Začne tažení listu. Dobíhající animace se zastaví; když vedla k otočení, stránka se otočí hned
+   * (rychlé švihy za sebou listují dál, předchozí otočení se neztratí), návrat listu se jen zahodí.
+   */
   const beginDrag = useCallback(
     (e: React.PointerEvent, startX: number, direction: FlipDirection) => {
+      const commit = pendingCommit.current
       cancelAnimation()
+      commit?.()
       drag.current = { pointerId: e.pointerId, startX, lastX: e.clientX, lastT: performance.now(), velocity: 0, direction }
       ;(e.currentTarget as Element).setPointerCapture?.(e.pointerId)
       setFlip({ direction, progress: progressFromPointer(startX, e.clientX, pageWidth, direction), dragging: true })
@@ -116,14 +136,16 @@ export function useFlipDrag({ pageWidth, canNext, canPrev, onComplete }: Options
   const onPointerDown = useCallback<React.PointerEventHandler>(
     (e) => {
       if (drag.current || pending.current) return
+      // během animace otočení jsou stránky inert a cílem je samotná kniha – i tak smí začít další tah (rychlé listování)
+      const animating = raf.current !== null
       if (isTouch(e)) {
         // dotyk: úchyt na okraji displeje koliduje se systémovým gestem zpět – švih kdekoli na stránce, směr určí pohyb (R14)
-        if (isSwipeStartAllowed(e.target, e.currentTarget as Element)) {
+        if (isSwipeStartAllowed(e.target, e.currentTarget as Element) || animating) {
           pending.current = { pointerId: e.pointerId, startX: e.clientX, startY: e.clientY }
         }
         return
       }
-      const direction = isDragStartAllowed(e.target)
+      const direction = isDragStartAllowed(e.target) ?? (animating ? edgeFromPoint(e.clientX, (e.currentTarget as Element).getBoundingClientRect()) : null)
       if (!direction) return
       if (direction === 'next' && !canNext) return
       if (direction === 'prev' && !canPrev) return

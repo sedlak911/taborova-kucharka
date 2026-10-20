@@ -13,10 +13,12 @@ interface Props {
   onPeopleChange: (patch: Partial<People>) => void
   onDayFactorChange: (value: number) => void
   onOpenCart: () => void
+  /** Skok na stránku nastavení na konci knihy. */
+  onOpenSettings?: () => void
 }
 
 /** Papírová stužka vyčnívající z knihy (vlevo nahoře, vždy viditelná): osoby, náročnost dne, počet receptů, skok do košíku. */
-export function Bookmark({ people, dayFactor, cartCount, onPeopleChange, onDayFactorChange, onOpenCart }: Props) {
+export function Bookmark({ people, dayFactor, cartCount, onPeopleChange, onDayFactorChange, onOpenCart, onOpenSettings }: Props) {
   const [open, setOpen] = useState(false)
   const rootRef = useRef<HTMLDivElement>(null)
   const tabRef = useRef<HTMLButtonElement>(null)
@@ -56,15 +58,25 @@ export function Bookmark({ people, dayFactor, cartCount, onPeopleChange, onDayFa
       >
         <CartIcon filled={cartCount > 0} />
         <span className="bookmark__count">{cartCount}</span>
-        <span className="bookmark__people">{`${peopleCount} os.`}</span>
+        <span className="bookmark__sep" aria-hidden="true" />
+        <svg className="bookmark__people-icon" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="9" cy="8" r="3.2" />
+          <path d="M3.5 19.5c0-3.2 2.5-5.5 5.5-5.5s5.5 2.3 5.5 5.5" />
+          <circle cx="17" cy="9" r="2.4" />
+          <path d="M16.2 14.2c2.6 0 4.6 2 4.6 4.8" />
+        </svg>
+        <span className="bookmark__people">{peopleCount}</span>
       </button>
       {open && (
         <div className="bookmark__panel" id={panelId} role="group" aria-label="Počet osob a košík">
-          <NumberField label="Dospělí" value={people.adults} min={0} max={PEOPLE_MAX} onCommit={(adults) => onPeopleChange({ adults })} />
-          <NumberField label="Děti" value={people.children} min={0} max={PEOPLE_MAX} onCommit={(children) => onPeopleChange({ children })} />
+          <p className="bookmark__title">Kolik nás vaří</p>
+          <NumberField stepper label="Dospělí" value={people.adults} min={0} max={PEOPLE_MAX} onCommit={(adults) => onPeopleChange({ adults })} />
+          <NumberField stepper label="Děti" value={people.children} min={0} max={PEOPLE_MAX} onCommit={(children) => onPeopleChange({ children })} />
           <label className="bookmark__range">
             <span>Náročnost dne</span>
+            <output>×{formatDecimal(dayFactor, 2)}</output>
             <input
+              aria-label="Náročnost dne"
               type="range"
               min={DAY_FACTOR_MIN}
               max={DAY_FACTOR_MAX}
@@ -72,7 +84,10 @@ export function Bookmark({ people, dayFactor, cartCount, onPeopleChange, onDayFa
               value={dayFactor}
               onChange={(e) => onDayFactorChange(Number(e.currentTarget.value))}
             />
-            <output>{formatDecimal(dayFactor, 2)}</output>
+            <span className="bookmark__scale" aria-hidden="true">
+              <span>odpočinek</span>
+              <span>celodenní túra</span>
+            </span>
           </label>
           <button
             type="button"
@@ -82,8 +97,21 @@ export function Bookmark({ people, dayFactor, cartCount, onPeopleChange, onDayFa
               onOpenCart()
             }}
           >
+            <CartIcon filled={cartCount > 0} />
             Otevřít košík ({recipesText})
           </button>
+          {onOpenSettings && (
+            <button
+              type="button"
+              className="bookmark__settings"
+              onClick={() => {
+                setOpen(false)
+                onOpenSettings()
+              }}
+            >
+              Nastavení knihy →
+            </button>
+          )}
         </div>
       )}
     </div>

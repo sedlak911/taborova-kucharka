@@ -101,3 +101,21 @@ test('indexToRoute: prázdná strana před kapitolou ukazuje na kapitolu (dvoust
   expect(indexToRoute(5, withBlank)).toEqual({ kind: 'chapter', id: 'sladke' })
   expect(indexToRoute(4, withBlank)).toEqual({ kind: 'recipe', id: 'kulajda' })
 })
+
+test('strana obsahu je v adrese (zpět z receptu vrátí na stranu, ze které se odešlo)', () => {
+  const toc3: LayoutLike = {
+    entries: [{ kind: 'cover' }, { kind: 'toc', tocPage: 0 }, { kind: 'toc', tocPage: 1 }, { kind: 'toc', tocPage: 2 }, { kind: 'chapter', chapter: 'polevky' }],
+    recipeIndex: new Map(), chapterIndex: new Map([['polevky', 4]]), tocIndex: 1, listIndex: 5, settingsIndex: 6, cartIndex: 7,
+  }
+  expect(indexToRoute(1, toc3)).toEqual({ kind: 'toc' })
+  expect(indexToRoute(3, toc3)).toEqual({ kind: 'toc', page: 2 })
+  expect(routeToHash({ kind: 'toc', page: 2 })).toBe('#/obsah/3')
+  expect(routeToHash({ kind: 'toc', page: 0 })).toBe('#/obsah')
+  expect(parseRoute('#/obsah/3')).toEqual({ kind: 'toc', page: 2 })
+  expect(parseRoute('#/obsah/1')).toEqual({ kind: 'toc' })
+  expect(parseRoute('#/obsah/0')).toBeNull()
+  expect(parseRoute('#/obsah/x')).toBeNull()
+  expect(routeToIndex({ kind: 'toc', page: 2 }, toc3)).toBe(3)
+  // strana za koncem obsahu (jiný režim má kratší obsah) → poslední strana obsahu
+  expect(routeToIndex({ kind: 'toc', page: 9 }, toc3)).toBe(3)
+})

@@ -30,7 +30,7 @@ describe('serializeBackup + parseBackup', () => {
 describe('backupSummary', () => {
   it('shrne obsah zálohy', () => {
     const s = toggleCart(toggleFavorite(toggleFavorite(DEFAULT_USER_STATE, 'a'), 'b'), 'c');
-    expect(backupSummary(s)).toBe('oblíbené: 2 · v košíku: 1 · dospělí: 2 · děti: 0 · vlastní recepty: 0');
+    expect(backupSummary(s)).toBe('oblíbené: 2 · v košíku: 1 · dospělí: 4 · děti: 0 · vlastní recepty: 0');
   });
 
   it('uvádí počet vlastních receptů, aby import zálohy nepřepsal recepty mlčky', () => {

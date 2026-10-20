@@ -9,9 +9,11 @@ interface ChapterPageProps {
   recipes: Recipe[]
   /** Číslo strany receptu (mini-obsah). */
   pageNumberOf: (recipeId: string) => number | undefined
+  /** Naposledy otevřený recept: zvýrazněný jako v obsahu. */
+  lastRecipeId?: string | null
 }
 
-export function ChapterPage({ chapter, recipes, pageNumberOf }: ChapterPageProps) {
+export function ChapterPage({ chapter, recipes, pageNumberOf, lastRecipeId }: ChapterPageProps) {
   const meta = CHAPTER_META[chapter]
   return (
     <article className="chapter-page" style={{ textAlign: 'center' }}>
@@ -34,7 +36,8 @@ export function ChapterPage({ chapter, recipes, pageNumberOf }: ChapterPageProps
             return (
               <li key={r.id} style={{ display: 'flex', gap: '0.5em' }}>
                 <a href={routeToHash({ kind: 'recipe', id: r.id })} style={{ flex: 1, color: 'inherit' }}>
-                  {r.title}
+                  {r.id === lastRecipeId ? <span className="last-recipe-mark">{r.title}</span> : r.title}
+                  {r.id === lastRecipeId && <span className="visually-hidden"> (naposledy otevřený)</span>}
                 </a>
                 {page !== undefined && <span>{page}</span>}
               </li>

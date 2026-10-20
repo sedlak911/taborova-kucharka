@@ -39,6 +39,8 @@ interface TocPagesProps {
   onNewRecipe?: () => void
   /** Naměřené výšky (TocProbe); bez nich platí odhad v jednotkách. */
   metrics?: TocMetrics | null
+  /** Naposledy otevřený recept: v obsahu je zvýrazněný, aby šlo navázat, kde čtenář skončil. */
+  lastRecipeId?: string | null
 }
 
 function Pill({ label, pressed, onClick, icon }: { label: string; pressed: boolean; onClick: () => void; icon?: ReactNode }) {
@@ -111,13 +113,15 @@ interface ListItemProps {
   pageNumber: number | undefined
   favorite: boolean
   inCart: boolean
+  /** Naposledy otevřený recept (zvýraznění bez vlivu na výšku řádku – obsah se stránkuje podle měření). */
+  last?: boolean
   onNavigate: (route: Route) => void
   onToggleFavorite: (id: string) => void
   onToggleCart: (id: string) => void
 }
 
 /** Jeden řádek obsahu (nadpis kapitoly nebo recept); `data-toc-key` slouží k měření výšky (TocProbe). */
-export function TocListItem({ row, pageNumber, favorite, inCart, onNavigate, onToggleFavorite, onToggleCart }: ListItemProps) {
+export function TocListItem({ row, pageNumber, favorite, inCart, last, onNavigate, onToggleFavorite, onToggleCart }: ListItemProps) {
   if (row.kind === 'chapter') {
     return (
       <li className="toc-chapter" data-toc-key={tocRowKey(row)}>
@@ -127,7 +131,7 @@ export function TocListItem({ row, pageNumber, favorite, inCart, onNavigate, onT
   }
   const { recipe } = row
   return (
-    <li className="toc-recipe" data-toc-key={tocRowKey(row)}>
+    <li className={`toc-recipe${last ? ' toc-recipe--last' : ''}`} data-toc-key={tocRowKey(row)}>
       {/* značky uvnitř obsahové plochy: mimo úchyt pro otáčení na vnějším okraji stránky */}
       <RecipeMarks
         compact
@@ -141,6 +145,7 @@ export function TocListItem({ row, pageNumber, favorite, inCart, onNavigate, onT
         {/* tečky jsou v toku textu hned za posledním řádkem názvu; přesah ořízne .toc-row-text před číslem */}
         <span className="toc-row-text">
           <span className="toc-row-title">{recipe.title}</span>
+          {last && <span className="visually-hidden"> (naposledy otevřený)</span>}
           {isCustomRecipe(recipe) && (
             <>
               {/* mezera mezi názvem a skrytým textem pro přístupné jméno tlačítka */}
@@ -165,7 +170,7 @@ function emptyText(filter: Filter, favorites: Set<string>): string {
 }
 
 /** Obsah rozdělený na stránky; komponenta vykreslí jednu stránku (`page`). Stav filtru drží rodič. */
-export function TocPages({ recipes, ingredients, filter, onFilterChange, favorites, pageNumbers, page, onNavigate, onToggleFavorite, inCart, onToggleCart, onNewRecipe, metrics }: TocPagesProps) {
+export function TocPages({ recipes, ingredients, filter, onFilterChange, favorites, pageNumbers, page, onNavigate, onToggleFavorite, inCart, onToggleCart, onNewRecipe, metrics, lastRecipeId }: TocPagesProps) {
   const total = tocPageCount(recipes, metrics)
   const filtered = filterRecipes(recipes, ingredients, filter, { favorites })
   const rows = tocRowsForPage(paginateTocRows(buildTocRows(filtered), metrics), page, total)
@@ -183,6 +188,7 @@ export function TocPages({ recipes, ingredients, filter, onFilterChange, favorit
             pageNumber={row.kind === 'recipe' ? pageNumbers.get(row.recipe.id) : undefined}
             favorite={row.kind === 'recipe' && favorites.has(row.recipe.id)}
             inCart={row.kind === 'recipe' && inCart.has(row.recipe.id)}
+            last={row.kind === 'recipe' && row.recipe.id === lastRecipeId}
             onNavigate={onNavigate}
             onToggleFavorite={onToggleFavorite}
             onToggleCart={onToggleCart}

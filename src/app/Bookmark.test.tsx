@@ -53,3 +53,17 @@ test('Escape vrátí fokus na záložku, klik mimo panel ho zavře, klik dovnit�
   fireEvent.pointerDown(document.body)
   expect(tab()).toHaveAttribute('aria-expanded', 'false')
 })
+
+test('krokovač − / + mění počet osob v mezích a odkaz vede na nastavení', () => {
+  const onOpenSettings = vi.fn()
+  const { props } = setup({ onOpenSettings, people: { adults: 4, children: 0 } })
+  fireEvent.click(tab())
+  fireEvent.click(screen.getByRole('button', { name: 'Dospělí: o 1 více' }))
+  expect(props.onPeopleChange).toHaveBeenCalledWith({ adults: 5 })
+  fireEvent.click(screen.getByRole('button', { name: 'Dospělí: o 1 méně' }))
+  expect(props.onPeopleChange).toHaveBeenCalledWith({ adults: 3 })
+  expect(screen.getByRole('button', { name: 'Děti: o 1 méně' })).toBeDisabled()
+  fireEvent.click(screen.getByRole('button', { name: /Nastavení knihy/ }))
+  expect(onOpenSettings).toHaveBeenCalledTimes(1)
+  expect(tab()).toHaveAttribute('aria-expanded', 'false')
+})

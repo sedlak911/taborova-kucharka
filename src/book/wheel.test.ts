@@ -61,3 +61,33 @@ test('inHorizontalScroller: jen prvek s overflow-x auto/scroll a skutečným př
   expect(inHorizontalScroller(null, boundary)).toBe(false)
   boundary.remove()
 })
+
+/** Průběh jednoho tahu trackpadu: rozjezd, vrchol a dlouhý doběh setrvačnosti bez pauzy, od času t0, události po 16 ms. */
+function swipe(t0: number, sign = 1): [number, number, number][] {
+  const deltas = [2, 6, 14, 28, 45, 60, 58, 50, 42, 35, 28, 22, 17, 13, 10, 8, 6, 5, 4, 3, 3, 2, 2, 1, 1, 1]
+  return deltas.map((d, i) => [sign * d, 0, t0 + i * 16])
+}
+
+test('doběh setrvačnosti (bez pauzy, klesající delty) neotočí podruhé', () => {
+  expect(run(swipe(0))).toEqual(['next'])
+})
+
+test('rozjezd s chvěním delt před vrcholem otočí jen jednou', () => {
+  expect(run([[10, 0, 0], [35, 0, 16], [33, 0, 32], [50, 0, 48], [48, 0, 64], [62, 0, 80]])).toEqual(['next'])
+})
+
+test('nový tah uprostřed doběhu (delta znovu naroste) otočí hned, bez čekání na konec setrvačnosti', () => {
+  const first = swipe(0).slice(0, 16) // doběh zrovna klesl na 8 px
+  const second = swipe(16 * 16)
+  expect(run([...first, ...second])).toEqual(['next', 'next'])
+})
+
+test('nový tah opačným směrem uprostřed doběhu otočí zpět', () => {
+  const first = swipe(0).slice(0, 18)
+  const second = swipe(18 * 16, -1)
+  expect(run([...first, ...second])).toEqual(['next', 'prev'])
+})
+
+test('šum na konci doběhu (1–4 px) nové gesto nezačne', () => {
+  expect(run([...swipe(0), [3, 0, 420], [1, 0, 436], [4, 0, 452], [2, 0, 468]])).toEqual(['next'])
+})

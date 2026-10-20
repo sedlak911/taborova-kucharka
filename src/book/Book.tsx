@@ -97,6 +97,19 @@ export function Book({ pages, initialIndex = 0, index: controlledIndex, onIndexC
   const goNext = useCallback(() => { if (!flipRef.current) start('next') }, [start])
   const goPrev = useCallback(() => { if (!flipRef.current) start('prev') }, [start])
 
+  // gesto kolečka/trackpadu během otáčení se neztratí: počká (nejvýš jedno) a otočí hned po dokončení
+  const queuedWheel = useRef<FlipDirection | null>(null)
+  const wheelFlip = useCallback((dir: FlipDirection) => {
+    if (flipRef.current) queuedWheel.current = dir
+    else start(dir)
+  }, [start])
+  useEffect(() => {
+    if (flip || !queuedWheel.current) return
+    const dir = queuedWheel.current
+    queuedWheel.current = null
+    start(dir)
+  }, [flip, start])
+
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
       if (e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return
@@ -122,12 +135,11 @@ export function Book({ pages, initialIndex = 0, index: controlledIndex, onIndexC
       })
       wheelGesture.current = gesture
       if (horizontal) e.preventDefault() // jinak Chrome na macOS přejde zpět/vpřed v historii
-      if (fire === 'next') goNext()
-      if (fire === 'prev') goPrev()
+      if (fire) wheelFlip(fire)
     }
     root.addEventListener('wheel', onWheel, { passive: false })
     return () => root.removeEventListener('wheel', onWheel)
-  }, [goNext, goPrev])
+  }, [wheelFlip])
 
   const current = visiblePages(index, count, mode)
   // cílová dvoustrana (kam otáčení vede)

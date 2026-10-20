@@ -54,6 +54,10 @@ function Library() {
   const probeNumber = probeNumberFor(layout.entries.length)
   const tocProbe = useMemo(() => <TocProbe recipes={recipes} pageNumber={probeNumber} onMeasure={onTocMeasure} />, [recipes, probeNumber, onTocMeasure])
   const { index, setIndex, jumpTo } = useHashRoute(layout)
+  // naposledy otevřený recept (jen v tomto sezení) se zvýrazní v obsahu a v úvodu kapitoly (úprava stavu při renderu)
+  const [lastRecipeId, setLastRecipeId] = useState<string | null>(null)
+  const currentRoute = indexToRoute(index, layout)
+  if (currentRoute.kind === 'recipe' && currentRoute.id !== lastRecipeId) setLastRecipeId(currentRoute.id)
   // Ctrl+P tiskne podle aktuální stránky (spec §4); index je zároveň klíč, který zapomene nedokončený tisk tlačítkem
   const currentPrintJob = useCallback(() => printJobForRoute(indexToRoute(index, layout)), [index, layout])
   const { job: printJob, print } = usePrintJob(currentPrintJob, index)
@@ -212,6 +216,7 @@ function Library() {
                 onToggleCart={toggleCart}
                 onNewRecipe={() => openEditor({ kind: 'new-recipe' })}
                 metrics={tocMetrics}
+                lastRecipeId={lastRecipeId}
               />
             ),
           }
@@ -223,6 +228,7 @@ function Library() {
                 chapter={entry.chapter!}
                 recipes={shownRecipes.filter((r) => r.chapter === entry.chapter)}
                 pageNumberOf={(id) => layout.recipeIndex.get(id)}
+                lastRecipeId={lastRecipeId}
               />
             ),
           }
@@ -305,7 +311,7 @@ function Library() {
       }
     }
     return layout.entries.map(renderEntry)
-  }, [layout, recipes, shownRecipes, ingredients, recipeById, filter, tocMetrics, favorites, inCart, portions, historical, navigate, openEditor, removeCustomRecipe, toggleFavorite, toggleCart, state, updateSettings, setPeople, setCartMultiplier, removeFromCart, shoppingList, print, storageMode, retryServer, replaceState, staticIds, importRecipes, importMessage])
+  }, [layout, recipes, shownRecipes, ingredients, recipeById, filter, tocMetrics, lastRecipeId, favorites, inCart, portions, historical, navigate, openEditor, removeCustomRecipe, toggleFavorite, toggleCart, state, updateSettings, setPeople, setCartMultiplier, removeFromCart, shoppingList, print, storageMode, retryServer, replaceState, staticIds, importRecipes, importMessage])
 
   const last = layout.entries.length - 1
   const announcement = describePage(layout.entries[index], index, last, recipeById)
@@ -321,6 +327,7 @@ function Library() {
           onPeopleChange={setPeople}
           onDayFactorChange={setDayFactor}
           onOpenCart={() => navigate({ kind: 'cart' })}
+          onOpenSettings={() => navigate({ kind: 'settings' })}
         />
         <BookControls
           onHome={() => navigate({ kind: 'toc' })}

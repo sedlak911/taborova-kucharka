@@ -291,7 +291,7 @@ test('tištěný nákupní seznam má hlavičku s počtem osob a datem', () => {
   history.replaceState(null, '', '#/seznam')
   const { container } = render(<App />)
   printEvent('beforeprint')
-  expect(container.querySelector('.print-root .shopping-people')!.textContent).toMatch(/^Pro 2 osoby · \d{1,2}\. \d{1,2}\. \d{4}$/)
+  expect(container.querySelector('.print-root .shopping-people')!.textContent).toMatch(/^Pro 4 osoby · \d{1,2}\. \d{1,2}\. \d{4}$/)
   printEvent('afterprint')
 })
 

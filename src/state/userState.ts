@@ -20,7 +20,7 @@ export interface UserState {
 
 export const DEFAULT_USER_STATE: UserState = {
   version: 1,
-  people: { adults: 2, children: 0 },
+  people: { adults: 4, children: 0 },
   dayFactor: 1,
   cart: [],
   favorites: [],

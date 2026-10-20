@@ -13,14 +13,22 @@ export function AboutLeft({ onNavigate }: { onNavigate: (route: Route) => void }
       <h2>O této knize</h2>
       <Vignette />
       <p>
-        Tahle kuchařka sbírá jednoduché, vydatné a levné recepty ze starých kuchařek: od anglické klasiky
-        z roku 1747 a české Rettigové přes pekařské příručky a polní kuchařky armád druhé světové války
-        až po československé receptury pro jídelny a americkou armádní sbírku. Jsou přeložené, převedené na moderní jednotky a zmenšené na čtyři porce, aby se daly uvařit na táboře,
-        na výletě i v hubených měsících.
+        Tahle kuchařka sbírá jednoduché, vydatné a levné recepty ze starých kuchařek – skoro devět stovek jídel
+        z deseti knih: od anglické klasiky z roku 1747 a Domácí kuchařky M. D. Rettigové přes viktoriánské pekařské
+        příručky a italskou kuchařku pro americké domácnosti až po vojenské kuchařky druhé světové války,
+        československé receptury pro jídelny a sbírku americké armády. Všechny jsou přeložené, převedené na gramy
+        a mililitry a zmenšené na čtyři porce.
       </p>
       <p>
-        Počet osob a „denní faktor“ (kolik kdo sní) nastavíš u receptu a množství surovin se přepočítá.
-        Recepty můžeš přidávat do nákupního košíku a z něj sestavit společný nákupní seznam.
+        Knihy jsou vybrané tak, aby se na ně (snad) nevztahovala autorská práva: staré knihy už jsou volné,
+        americké vojenské kuchařky jsou díla federální vlády USA a recept jako takový (seznam surovin a postup)
+        chráněný není – texty jsou navíc přepsané vlastními slovy. Nečekej proto moderní kuchyni, ale poctivá
+        jídla na tábor, na výlet a na levné vaření.
+      </p>
+      <p>
+        U receptu nastavíš počet strávníků a množství se přepočítá; kroky mají stopky. V obsahu můžeš filtrovat
+        podle štítků, vybavení a knihy, oblíbené si označíš srdíčkem. Recepty přidáváš do košíku, ze kterého
+        vznikne společný nákupní seznam – a do knihy můžeš dopsat i vlastní recepty.
       </p>
       <p>
         <button type="button" className="about-page__link" onClick={() => onNavigate({ kind: 'toc' })}>

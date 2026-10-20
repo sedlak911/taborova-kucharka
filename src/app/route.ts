@@ -5,7 +5,8 @@ export type Route =
   | { kind: 'cover' }
   | { kind: 'recipe'; id: string }
   | { kind: 'chapter'; id: Chapter }
-  | { kind: 'toc' }
+  /** `page` = strana obsahu od 0 (chybí = první); návrat zpět z receptu tak vede na stranu, ze které se odešlo. */
+  | { kind: 'toc'; page?: number }
   | { kind: 'list' }
   | { kind: 'settings' }
   | { kind: 'cart' }
@@ -17,7 +18,7 @@ export type EditorRoute = Extract<Route, { kind: 'new-recipe' | 'edit-recipe' }>
 
 /** Minimální strukturální podoba BookLayout (kompatibilní s content/buildPages). */
 export interface LayoutLike {
-  entries: { kind: string; recipeId?: string; chapter?: Chapter }[]
+  entries: { kind: string; recipeId?: string; chapter?: Chapter; tocPage?: number }[]
   recipeIndex: Map<string, number>
   chapterIndex: Map<Chapter, number>
   tocIndex: number
@@ -45,7 +46,12 @@ export function parseRoute(hash: string): Route | null {
   } catch {
     return null
   }
-  if (head === 'obsah') return { kind: 'toc' }
+  if (head === 'obsah') {
+    if (arg === undefined) return { kind: 'toc' }
+    // v adrese je strana od 1 (#/obsah/3), v routě od 0
+    const n = Number(arg)
+    return Number.isInteger(n) && n >= 1 ? (n === 1 ? { kind: 'toc' } : { kind: 'toc', page: n - 1 }) : null
+  }
   if (head === 'seznam') return { kind: 'list' }
   if (head === 'nastaveni') return { kind: 'settings' }
   if (head === 'kosik') return { kind: 'cart' }
@@ -57,7 +63,7 @@ export function routeToHash(route: Route): string {
   switch (route.kind) {
     case 'recipe': return `#/recept/${encodeURIComponent(route.id)}`
     case 'chapter': return `#/kapitola/${route.id}`
-    case 'toc': return '#/obsah'
+    case 'toc': return route.page ? `#/obsah/${route.page + 1}` : '#/obsah'
     case 'list': return '#/seznam'
     case 'settings': return '#/nastaveni'
     case 'cart': return '#/kosik'
@@ -73,7 +79,11 @@ export function routeToIndex(route: Route, layout: LayoutLike): number | null {
     case 'cover': return 0
     case 'recipe': return layout.recipeIndex.get(route.id) ?? null
     case 'chapter': return layout.chapterIndex.get(route.id) ?? null
-    case 'toc': return layout.tocIndex
+    case 'toc': {
+      // strana obsahu mimo rozsah (jiný režim nebo kratší obsah) → poslední strana obsahu
+      const pages = layout.entries.filter((e) => e.kind === 'toc').length
+      return layout.tocIndex + Math.min(route.page ?? 0, Math.max(0, pages - 1))
+    }
     case 'list': return layout.listIndex
     case 'settings': return layout.settingsIndex
     case 'cart': return layout.cartIndex
@@ -92,7 +102,7 @@ export function indexToRoute(index: number, layout: LayoutLike): Route {
     const e = layout.entries[i]
     if (e.kind === 'recipe' && e.recipeId) return { kind: 'recipe', id: e.recipeId }
     if (e.kind === 'chapter' && e.chapter) return { kind: 'chapter', id: e.chapter }
-    if (e.kind === 'toc') return { kind: 'toc' }
+    if (e.kind === 'toc') return e.tocPage ? { kind: 'toc', page: e.tocPage } : { kind: 'toc' }
     if (e.kind === 'cart') return { kind: 'cart' }
     if (e.kind === 'list') return { kind: 'list' }
     if (e.kind === 'settings') return { kind: 'settings' }
