@@ -1,0 +1,43 @@
+{
+  "id": "kurata-s-knedlicky",
+  "title": "Kuřata s knedlíčky",
+  "titleOriginal": "Kuřata s knedlíčkami",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1000, "unit": "g", "note": "mladé kuře, dnes celé kuře; množství ve zdroji chybí (odhad)" },
+    { "ingredientId": "hovezi-vyvar", "amount": 750, "unit": "ml", "note": "hovězí polévka ze zdroje" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "do bílé jíšky" },
+    { "ingredientId": "hladka-mouka", "amount": 30, "unit": "g", "note": "do bílé jíšky" },
+    { "ingredientId": "teleci-maso-libove", "amount": 280, "unit": "g", "note": "půl libry, bez žilek, na knedlíčky" },
+    { "ingredientId": "hovezi-loj", "amount": 70, "unit": "g", "note": "4 loty hovězího tuku (morku)" },
+    { "ingredientId": "zemle-bila", "amount": 50, "unit": "g", "note": "1 žemlička, ostrouhaná, namočená a vymačkaná" },
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "note": "rozmíchaná" },
+    { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "note": "nadrobno nakrájená" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "note": "ze zdroje „květ“ (muškátový květ); oříšek je dostupnější náhrada" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do knedlíčkové hmoty" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření knedlíčků, slije se" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "sekaná, na posypání" }
+  ],
+  "steps": [
+    { "text": "Kuře očisti, omyj a svaž (zdroj: zašpejluj), aby drželo tvar.", "minutes": 5 },
+    { "text": "Kuře dej do hrnce s hovězím vývarem, přiveď k varu a vař doměkka.", "minutes": 50 },
+    { "text": "Mezitím nasekej telecí maso nadrobno, vyber žilky. Přidej hovězí tuk, vymačkanou žemli, rozmíchaná vejce, citronovou kůru, muškátový oříšek a sůl. Vše znovu dobře nasekej a umíchej.", "minutes": 15, "parallel": true },
+    { "text": "Mokrýma rukama tvaruj z hmoty malé knedlíčky a klaď je na prkénko.", "minutes": 10, "parallel": true },
+    { "text": "Měkká kuřata vyndej, vývar z hrnce proceď do hrnku.", "minutes": 3 },
+    { "text": "V čistém hrnci rozpuštěné máslo smíchej s moukou a udělej bílou jíšku. Zalij procezeným vývarem a vař do husté omáčky.", "minutes": 10 },
+    { "text": "Kuřata vlož do omáčky a nech ještě povařit.", "minutes": 10 },
+    { "text": "Zatímco se kuřata povaří, přiveď k varu osolenou vodu. Vhoď do ní knedlíčky a vař je, dokud nejsou měkké (jeden ochutnej).", "minutes": 12, "parallel": true },
+    { "text": "Kuřata urovnej doprostřed mísy, knedlíčky dej kolem a polej vše omáčkou. Posyp sekanou petrželí.", "minutes": 3 }
+  ],
+  "modernNote": "Rettigová neuvádí množství kuřat ani vývaru ani výtěžek. Odhad pro 4 porce: kuře 1 kg (ve zdroji „kuřátka“, mladá kuřata, dnes jedno menší kuře), vývar 750 ml, jíška 30 g másla a 30 g mouky (ve zdroji „bílá jíška“ bez množství). Knedlíčky: půl libry telecího masa = 280 g a 4 loty tuku = 70 g (libra 560 g, lot 17,5 g), 1 žemle a 3 vejce ze zdroje beze změny. Doba vaření kuřat (50 minut) a knedlíčků (10–12 minut) ve zdroji chybí, je odhad. Zdroj nabízí i dušení kuřat na másle; zde je zvolena první varianta, vaření ve vývaru. „Zašpejlovaná“ = sepnutá špejlemi; kuře se vaří celé a celé se klade doprostřed mísy. Voda a sůl na knedlíčky jsou domácí hodnota. Jako hlavní jídlo vychází na porci zhruba 250 g kuřete s kostí a 3–4 knedlíčky.",
+  "source": { "book": "rettigova-1868", "page": 102, "titleOriginal": "Kuřata s knedlíčkami" },
+  "verified": false,
+  "quote": "urovnej kuřátka do prostřed mísy, knedlíčky dej okolo a polej vše omáčkou"
+}

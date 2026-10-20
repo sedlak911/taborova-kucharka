@@ -1,0 +1,45 @@
+{
+  "id": "hovezi-polevka-s-krupicovymi-noky",
+  "title": "Hovězí polévka s krupicovými noky",
+  "titleOriginal": "POLÉVKA HOVĚZÍ S KRUPICOVÝMI NOKY",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "soja", "celer", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hovezi-vyvar", "amount": 1200, "unit": "ml", "note": "zdroj vývar A (receptura 10201)" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi)" },
+    { "ingredientId": "mleko-polotucne", "amount": 80, "unit": "ml", "note": "konzumní; na noky" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "do mléka na noky" },
+    { "ingredientId": "maslo", "amount": 11, "unit": "g", "note": "do mléka na noky", "original": { "ingredientId": "margarin", "amount": 11, "unit": "g" } },
+    { "ingredientId": "krupice-psenicna", "amount": 40, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks (80 g) na 10 porcí; rozšlehej 1 vejce a použij asi čtyři pětiny" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.23, "unit": "g", "note": "květ mletý (muškátový květ)" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na uvaření a propláchnutí noků, slije se (domácí hodnota; zdroj: dle potřeby)" },
+    { "ingredientId": "pazitka", "amount": 4, "unit": "g", "note": "jemně nakrájená; z 10 g hrubé × 0,4 × 1 (katalog)" }
+  ],
+  "steps": [
+    { "text": "Vývar dochuť polévkovým kořením a nech ho v hrnci stranou.", "minutes": 2 },
+    { "text": "Mléko osol, přidej tuk a přiveď k varu.", "minutes": 5 },
+    { "text": "Do vařícího mléka za stálého míchání zasyp prosátou krupici a míchej, dokud se těsto nepřestane lepit na vařečku.", "minutes": 5 },
+    { "text": "Těsto nech vychladnout.", "minutes": 20 },
+    { "text": "Mezitím přiveď k varu hrnec s vodou na noky a mírně ji osol.", "minutes": 10, "parallel": true },
+    { "text": "Do vychladlého těsta zamíchej rozšlehané vejce a mletý květ.", "minutes": 3 },
+    { "text": "Navlhčenou kávovou lžičkou vykrajuj z těsta noky (asi 12, tj. 3 na porci) a vkládej je do vařící mírně osolené vody.", "minutes": 8 },
+    { "text": "Noky vař 3–4 minuty.", "minutes": 4 },
+    { "text": "Uvařené noky vyjmi, propláchni studenou vodou a okapané zalij trochou vývaru.", "minutes": 3 },
+    { "text": "Vývar zahřej, vlož do něj noky s trochou vývaru a posyp propláchnutou, jemně nakrájenou pažitkou.", "minutes": 5 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,32 l hotové polévky včetně noků, porce 0,33 l včetně 42 g noků, tj. 3 kusů) na 4 porce, faktor 0,4 (k = 4/10); porce je tedy asi 330 ml. Vejce: zdroj 2 ks = 80 g po 40 g/ks, na 4 porce 0,8 ks (nejlépe rozšlehat celé a odebrat podíl). Margarín ze zdroje nahrazen máslem (margarín v originálu). Voda na noky je ve zdroji bez množství (dle potřeby), proto je domácí hodnota 1 l, slévá se; sůl ze zdroje je počítána do mléka na noky, vodu na noky jen mírně osol. Pažitka: zdroj 10 g hrubé, odpad 2,5 g; řádek je 10 × 0,4 × 1 = 4 g (katalog jedlý podíl 1). Doby ohřevu a chladnutí těsta zdroj neuvádí (odhad); vaření noků 3–4 minuty je ze zdroje. Jídelní norma počítá 0,33 l porci; jako hlavní jídlo počítej porci 0,5 l.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 51,
+    "code": "10205",
+    "titleOriginal": "POLÉVKA HOVĚZÍ S KRUPICOVÝMI NOKY"
+  },
+  "verified": true
+}

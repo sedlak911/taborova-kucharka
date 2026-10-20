@@ -1,0 +1,40 @@
+{
+  "id": "znojemsky-gulas",
+  "title": "Znojemský guláš",
+  "titleOriginal": "Znojemský guláš",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 160,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 400, "unit": "g", "note": "kližka (přední maso bez kosti) nebo ořez" },
+    { "ingredientId": "sadlo", "amount": 65, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "z 100 g hrubé (zdroj 250 g na 10 porcí) × 0,9" },
+    { "ingredientId": "sladka-paprika", "amount": 9, "unit": "g" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "voda", "amount": 480, "unit": "ml", "note": "teplá, do zásmažky; trochu navíc na podlití" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g" },
+    { "ingredientId": "okurky-kysele", "amount": 60, "unit": "g", "note": "bez nálevu; z 150 g hrubé × 0,4 × 1 (katalog)" }
+  ],
+  "steps": [
+    { "text": "Maso opláchni a nakrájej na kostky po asi 25 g (4 kousky na porci).", "minutes": 10 },
+    { "text": "Cibuli oloupej, nakrájej nadrobno a na sádle osmahni do růžova. Přidej mletou papriku a krátce ji zpěň.", "minutes": 10 },
+    { "text": "Přidej maso, osmahni ho v základu, osol, opepři a okmínuj.", "minutes": 10 },
+    { "text": "Po krátkém podušení maso podlij trochou vody, přikryj poklicí a duš do poloměkka.", "minutes": 45 },
+    { "text": "Mezitím nakrájej kyselé okurky na nudličky a odlož je k podávání.", "minutes": 5, "parallel": true },
+    { "text": "Šťávu vydus na tuk.", "minutes": 10 },
+    { "text": "Posyp moukou, zasmaž, zalij teplou vodou, rozmíchej a vař za občasného promíchání, až maso změkne.", "minutes": 50 },
+    { "text": "Měkké maso přendej do jiného hrnce a omáčku na ně přecedi přes husté sítko.", "minutes": 5 },
+    { "text": "Maso s omáčkou zvolna povař na kraji sporáku, až tuk vystoupí na povrch.", "minutes": 10 },
+    { "text": "Podávej s nudličkami kyselých okurek na každé porci." }
+  ],
+  "modernNote": "Kniha uvádí 63 g masa (4 kousky) na porci jako jídelní normu; jako hlavní jídlo počítej 120–150 g masa na osobu (tj. 500–600 g na 4 porce, ostatní suroviny nech). Sádla (65 g) a soli (14 g, tj. 3,5 g na porci; nález check:recipe ponechán jako ve zdroji) je podle zdroje hodně; chceš-li jemnější, začni polovinou a dochutíš. Cibule: kniha 250 g hrubé na 10 porcí, zde přepočteno na jedlou hmotnost. Kniha dobu dušení neuvádí (\"do poloměkka\", \"až maso změkne\"); minuty jsou odhad pro hovězí kližku (celkem asi 2,5 hodiny), tuhé maso může chtít déle. Přílohy: vařené brambory, houskové knedlíky nebo těstoviny.",
+  "source": { "book": "receptury-1983", "page": 94, "code": "11103", "titleOriginal": "ZNOJEMSKÝ GULÁŠ" },
+  "verified": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "veprove-v-kapuste",
+  "title": "Vepřové dušené v kapustě",
+  "titleOriginal": "Vepřové dušené v kapustě",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "bucek-veprovy", "amount": 400, "unit": "g", "note": "s kůží, na kostky" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "z 80 g hrubé × 0,9" },
+    { "ingredientId": "sadlo", "amount": 55, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "note": "na podlévání a na zásmažku" },
+    { "ingredientId": "kapusta", "amount": 380, "unit": "g", "note": "z 480 g hrubé × 0,8" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g" },
+    { "ingredientId": "cesnek", "amount": 5, "unit": "g", "note": "z 6 g hrubé (zdroj 15 g na 10 porcí) × 0,87; utřený" }
+  ],
+  "steps": [
+    { "text": "Opláchnutý bůček nakrájej na kostky, asi 3 kousky na porci.", "minutes": 8 },
+    { "text": "Cibuli oloupej, nakrájej nadrobno a na sádle osmahni do růžova.", "minutes": 8 },
+    { "text": "Přidej maso, osmahni je, osol, opepři, podlej vodou, přikryj poklicí a duš, až je ze tří čtvrtin měkké. Během dušení maso míchej a podle potřeby dolévej horkou vodu.", "minutes": 45 },
+    { "text": "Mezitím kapustu očisti, zbav zvadlých listů a košťálu, opláchni ji, nakrájej na větší kostky a spař ve vařící vodě.", "minutes": 10, "parallel": true },
+    { "text": "Poloměkké maso vydus na tuk, zaprášni moukou, zasmaž, zalij vodou a dobře rozmíchej.", "minutes": 8 },
+    { "text": "K masu přidej spařenou kapustu a utřený česnek a zvolna za občasného promíchání společně dodus do měkka.", "minutes": 30 },
+    { "text": "Podávej s vařenými bramborami." }
+  ],
+  "modernNote": "Kniha počítá 3 kousky masa (65 g včetně kůže a kostí) na porci; 4 porce ze zdroje dávají 400 g bůčku, tedy 100 g na osobu. Jako hlavní jídlo můžeš maso navýšit na 120–150 g na osobu. Doba dušení masa ve zdroji chybí (jen „ze tří čtvrtin měkké“); 45 minut je odhad, doba dodušení kapusty také. Cibule, kapusta a česnek jsou přepočteny jako hrubá × 0,4 × jedlý podíl katalogu, ne podle čisté hmotnosti z knihy. Sůl ze zdroje (30 g na 10 porcí, tj. 3,5 g na porci) je podle dnešních zvyklostí hodně, dávej opatrně a dochuť až na konci. Vodu zdroj uvádí jednou (podlévání i zásmažka dohromady).",
+  "source": { "book": "receptury-1983", "page": 203, "code": "13106", "titleOriginal": "VEPŘOVÉ DUŠENÉ V KAPUSTĚ" },
+  "verified": true
+}

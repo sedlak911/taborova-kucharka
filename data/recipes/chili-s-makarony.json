@@ -1,0 +1,139 @@
+{
+  "id": "chili-s-makarony",
+  "title": "Chili s makarony",
+  "titleOriginal": "Chili Macaroni",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 250,
+      "unit": "g",
+      "note": "90 % libové, syrové",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 16,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "kmin-mlety",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 4,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 2,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.69,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcata-konzervovana",
+      "amount": 230,
+      "unit": "g",
+      "note": "krájená, scezená (bez nálevu)",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 75,
+      "unit": "g",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 300,
+      "unit": "ml",
+      "note": "do omáčky",
+      "group": "Omáčka"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 165,
+      "unit": "g",
+      "note": "makarony suché (vařené zvlášť)",
+      "group": "Makarony"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "note": "na vaření makaronů, slije se; domácí hodnota 1 l na 100 g těstovin",
+      "group": "Makarony",
+      "scaling": "vessel"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí maso dej do hrnce bez tuku a duš ve vlastní šťávě za rozmíchávání, dokud neztratí růžovou barvu. Přebytečný tuk slij.",
+      "minutes": 10
+    },
+    {
+      "text": "Vmíchej chilli, kmín, papriku, sůl, česnek a pálivou papriku.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej scezená rajčata, rajčatový protlak, cibuli a vodu. Přiveď k mírnému varu, přikryj a duš 30 minut. Občas zamíchej, nevař silně.",
+      "minutes": 35
+    },
+    {
+      "text": "Mezitím, zatímco se omáčka dusí, uvař makarony v 1,5 l vody do měkka a sceď.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Uvařené makarony přimíchej do omáčky a dobře promíchej.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Porce odpovídá 1¼ cupu ze zdroje; kniha dává 100 porcí, přepočet je 0,04. Makarony ze zdroje jsou suché (9 lb na 100 porcí = 165 g na 4), vaří se zvlášť a do omáčky jdou uvařené. Voda na vaření (75¼ lb ze zdroje) je nahrazena domácí hodnotou 1 l na 100 g těstovin (1,5 l), slije se a do jídla se nepočítá. Voda do omáčky (16¾ lb = 300 ml) je ze zdroje. Sůl je celá v omáčce, zdroj ji do vody na vaření nedává. Rajčata jsou scezená podle zdroje (DRAINED). Pro děti lze chilli a pálivou papriku omezit nebo vynechat.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 733,
+    "code": "L 028 02",
+    "titleOriginal": "CHILI MACARONI"
+  },
+  "verified": true
+}

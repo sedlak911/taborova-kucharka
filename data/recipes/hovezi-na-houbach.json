@@ -1,0 +1,37 @@
+{
+  "id": "hovezi-na-houbach",
+  "title": "Hovězí dušené na houbách",
+  "titleOriginal": "Hovězí dušené na houbách",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 130,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 400, "unit": "g", "note": "přední hovězí nebo ořez" },
+    { "ingredientId": "maslo", "amount": 65, "unit": "g", "original": { "ingredientId": "margarin", "amount": 65, "unit": "g" } },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "z 80 g hrubé × 0,9" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "voda", "amount": 480, "unit": "ml", "note": "teplá" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g" },
+    { "ingredientId": "houby-susene", "amount": 6, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Maso opláchni a nakrájej na kostky po asi 25 g (4 kousky na porci).", "minutes": 5 },
+    { "text": "Cibuli oloupej, nakrájej nadrobno a na tuku osmahni do růžova.", "minutes": 8 },
+    { "text": "Přidej maso a krátce osmahni. Okořeň kmínem a pepřem, osol, mírně podlij vodou, přikryj poklicí a duš do poloměkka.", "minutes": 50 },
+    { "text": "Mezitím sušené houby dobře umyj ve vlažné vodě a uvař v malé dávce vody do měkka. Vývar z hub si uschovej, houby nadrobno rozsekej.", "minutes": 30, "parallel": true },
+    { "text": "Šťávu pod masem vydus na tuk, poprášej hladkou moukou a za stálého míchání zasmaž.", "minutes": 10 },
+    { "text": "Zalij teplou vodou, přidej vývar z hub a maso duš do měkka.", "minutes": 40 },
+    { "text": "Měkké maso přendej do jiného hrnce a omáčku na ně proceď přes hustý cedník.", "minutes": 5 },
+    { "text": "Do hotové omáčky přidej rozsekané vařené houby a krátce ji znovu povař.", "minutes": 8 }
+  ],
+  "modernNote": "Kniha počítá 10 porcí po 180 g (z toho 63 g masa, tj. 4 kousky) a počítá 868 g ztrát vařením; dávka pro 4 porce vychází na asi 720 g hotového pokrmu. Margarín jsem nahradil máslem (původní surovina v přepínači historických surovin). Jídelní norma masa je 63 g na porci; jako hlavní jídlo počítej 120–150 g masa na osobu (dávku masa pak úměrně zvyš, mouku a vodu jen mírně). Sůl (30 g na 10 porcí, tj. 14 g na 4 porce a 3,5 g na porci) je podle knihy odměřena vysoko, protože se v kolektivním stravování část odnese s vývarem a omáčka se nakonec zahušťuje; doma začni polovinou (asi 7 g) a dosol podle chuti. Kniha dušení časy neuvádí, doby kroků jsou odhad pro 4 porce. Pasáž o sušených houbách je u zdroje v závorce na konci; v receptu je zařazena jako souběžný krok, protože vývar z hub je potřeba při zalévání omáčky.",
+  "source": { "book": "receptury-1983", "page": 94, "code": "11104", "titleOriginal": "HOVĚZÍ DUŠENÉ NA HOUBÁCH" },
+  "verified": true
+}

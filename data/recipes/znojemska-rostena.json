@@ -1,0 +1,116 @@
+{
+  "id": "znojemska-rostena",
+  "title": "Znojemská roštěná",
+  "titleOriginal": "Znojemská roštěná",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 165,
+  "difficulty": 2,
+  "tags": [
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-zadni",
+      "amount": 400,
+      "unit": "g",
+      "note": "hovězí roštěnec, kuchyňsky upravený"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 65,
+      "unit": "g",
+      "note": "asi 1/3 na opečení masa, 2/3 na cibuli, trochu stranou na podušení okurek"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 90,
+      "unit": "g",
+      "note": "z 100 g hrubé × 0,9"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 480,
+      "unit": "ml",
+      "note": "část na podlévání při dušení, zbytek do omáčky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "okurky-kysele",
+      "amount": 60,
+      "unit": "g",
+      "note": "bez nálevu, z 60 g hrubé × 1"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Roštěnec opláchni a nakrájej přes vlákno na plátky. Plátky mírně naklepej paličkou, na okraji nařízni, osol a opepři.",
+      "minutes": 10
+    },
+    {
+      "text": "Na třetině sádla opeč plátky zprudka po obou stranách.",
+      "minutes": 10
+    },
+    {
+      "text": "Oloupanou cibuli nakrájej nadrobno a na dvou třetinách zbylého sádla osmaž do růžova. Trochu sádla dej stranou na podušení okurek.",
+      "minutes": 6
+    },
+    {
+      "text": "K cibuli vlej trochu vody, přidej opečené plátky, přikryj poklicí a duš do měkka. Během dušení plátky obracej a podle potřeby podlévej teplou vodou.",
+      "minutes": 60
+    },
+    {
+      "text": "Měkké plátky přendej do jiného hrnce. Šťávu vyduš na tuk.",
+      "minutes": 5
+    },
+    {
+      "text": "Do tuku vsyp mouku, zasmaž ji, zalij vlažnou vodou a dobře rozšlehej.",
+      "minutes": 4
+    },
+    {
+      "text": "Omáčku za občasného promíchání vař nejméně 1 hodinu.",
+      "minutes": 60
+    },
+    {
+      "text": "Mezitím nakrájej okurky na kostičky a podus je na troše odloženého sádla.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Uvařenou omáčku procedi přes hustý cedník na plátky, přidej okurky a společně povař.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej s houskovým knedlíkem, vařenými bramborami, dušenou rýží nebo těstovinami."
+    }
+  ],
+  "modernNote": "Kniha počítá 10 porcí po 183 g, z toho 63 g masa (jídelní norma); počítáno na 400 g syrového masa (100 g na porci). Jako hlavní jídlo počítej 120–150 g masa na osobu. Doba dušení masa „do měkka“ ve zdroji chybí, 60 minut je odhad z praxe pro plátky roštěnce; omáčka se vaří „nejméně 1 hodinu“ podle zdroje. Sůl (30 g na 10 porcí, tj. 14 g na 4 porce) je ze zdroje, check:recipe ji hlásí nad 2,5 g na porci (3,5 g); doporuč solit zdrženlivěji (asi polovinu) a dochutit na konci, kyselé okurky solí navíc. Okurky: 150 g hrubé z knihy × 0,4 × 1 = 60 g. Sádlo se dělí 1/3 na maso, 2/3 na cibuli a trochu stranou na okurky (zdroj množství nedělí).",
+  "source": {
+    "book": "receptury-1983",
+    "page": 102,
+    "code": "11111/A",
+    "titleOriginal": "ZNOJEMSKÁ ROŠTĚNÁ"
+  },
+  "verified": true
+}
