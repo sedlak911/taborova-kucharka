@@ -1,0 +1,152 @@
+{
+  "id": "kynuty-jablecny-kolac",
+  "title": "Kynutý jablečný koláč se smetanovou zálivkou",
+  "titleOriginal": "Apple Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 260,
+  "difficulty": 3,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 70,
+      "unit": "g",
+      "note": "do kvásku (sponge), množství odhad"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 3,
+      "unit": "g",
+      "note": "ve zdroji kvasnicový předkvas (ferment), množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 70,
+      "unit": "ml",
+      "note": "vlažná, do kvásku; množství odhad (zdroj: spíše hustá kaše, „rather stiff batter“)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "do těsta; zdroj 2 vejce na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 24,
+      "unit": "g",
+      "note": "do těsta; zdroj ½ lb bílého cukru na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 48,
+      "unit": "ml",
+      "note": "vlažné, do těsta; zdroj 1 pinta mléka nebo vody na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 11,
+      "unit": "g",
+      "note": "měkké, do těsta; zdroj ¼ lb másla nebo sádla na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "do těsta; zdroj: „a pinch of salt“ (špetka na celou pekařskou dávku), zde rozumná špetka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 125,
+      "unit": "g",
+      "note": "dále na měkké těsto, množství odhad"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 300,
+      "unit": "g",
+      "note": "2 menší jablka, z toho po oloupání asi 270 g; nakrájená na plátky"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "do zálivky („a few eggs“), množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "zakysana-smetana",
+      "amount": 80,
+      "unit": "g",
+      "note": "do zálivky („some sour cream“), množství odhad"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 20,
+      "unit": "g",
+      "note": "do zálivky („sweeten with sugar“), množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 1,
+      "unit": "g",
+      "note": "do zálivky, množství odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prvních 70 g mouky vymíchej s droždím a vlažnou vodou do husté kaše (kvásek). Zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Kvásek dej do mísy. Přidej vejce, cukr do těsta, vlažné mléko, měkké máslo a špetku soli.",
+      "minutes": 5
+    },
+    {
+      "text": "Přisypávej zbylou mouku, dokud nevznikne měkké těsto. Dobře ho propracuj. Těsto zakryj a nech v teple dobře vykynout.",
+      "minutes": 75
+    },
+    {
+      "text": "Těsto vyválej na plech, aby tvořilo plochý koláč. Hned ho nenech příliš vykynout.",
+      "minutes": 10
+    },
+    {
+      "text": "Jablka oloupej, nakrájej na plátky a pevně vedle sebe je poskládej na těsto. Nech koláč krátce dokynout.",
+      "minutes": 30
+    },
+    {
+      "text": "Rozšlehej vejce, přidej kysanou smetanu, oslaď cukrem a dochuť skořicí. Zálivku nalij na koláč.",
+      "minutes": 5
+    },
+    {
+      "text": "Předehřej troubu na 180 °C. Koláč peč ve střední troubě do zlatova, asi 35 minut.",
+      "minutes": 35
+    }
+  ],
+  "modernNote": "Zdroj je jen odstavec pod receptem na skořicový koláč: koláč z těsta na buchty (Buns), na něm plátky jablek, a až když dokyne, zálivka z několika rozšlehaných vajec, kysané smetany, cukru a skořice, nebo krém z krémového koláče. Těsto je převzato z hotového receptu Sladké kynuté buchty (stejný kvásek a poměry) a zmenšeno asi na 0,6násobek, aby vyšly 4 kousky koláče (každý asi 350 kcal), ne celý plech; kniha dává podle dávky těsta (5½ lb pro skořicový koláč) mnohem větší plech. Množství jablek a zálivky zdroj neuvádí, je odhad, proto verified false. Zdroj neudává teplotu ani dobu pečení („moderate oven“); 180 °C a asi 35 minut je odhad. Zdroj také neuvádí tloušťku těsta ani velikost plechu. Podle zálivky si přizpůsob sladkost: kolem 20 g cukru vychází spíše jemně sladká. Sůl drží hodnotu ze zdroje (špetka na celou pekařskou dávku); kontrola hlásí málo soli (0,25 g na porci), což je vlastnost historického receptu, ne chyba. Dnešnímu vkusu odpovídá asi 2 g soli do těsta, můžeš přidat.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 17,
+    "titleOriginal": "Apple Cake"
+  },
+  "verified": false,
+  "quote": "Set slices of apples right close together on the cake."
+}

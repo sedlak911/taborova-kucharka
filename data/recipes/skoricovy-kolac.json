@@ -1,0 +1,158 @@
+{
+  "id": "skoricovy-kolac",
+  "title": "Skořicový koláč s cukrovou posypkou",
+  "titleOriginal": "Cinnamon Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 270,
+  "difficulty": 3,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g",
+      "note": "do kvásku (těsto jako u sladkých kynutých buchet), množství odhad"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 5,
+      "unit": "g",
+      "note": "do kvásku; množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná, do kvásku; množství odhad (zdroj: spíše hustá kaše, „rather stiff batter“)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.35,
+      "unit": "ks",
+      "note": "do těsta; v praxi půl vejce",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 40,
+      "unit": "g",
+      "note": "do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 80,
+      "unit": "ml",
+      "note": "vlažné, do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "měkké, do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "špetka do těsta"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 210,
+      "unit": "g",
+      "note": "na měkké těsto; množství odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 15,
+      "unit": "g",
+      "note": "„a handful of flour“ do těsta a na podsypání; množství odhad"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 20,
+      "unit": "ml",
+      "note": "teplé, na potření; množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "rozšlehané, na potření; množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 25,
+      "unit": "g",
+      "note": "hrubý bílý cukr na posypání; množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "na kousky navrch; množství odhad",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prvních 120 g mouky vymíchej s droždím a vlažnou vodou do husté kaše (kvásek). Zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Kvásek dej do mísy. Přidej vejce, cukr, vlažné mléko, měkké máslo a špetku soli.",
+      "minutes": 5
+    },
+    {
+      "text": "Přisypávej mouku, dokud nevznikne měkké těsto. Dobře ho propracuj.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto zakryj a nech v teple dobře vykynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Do těsta zapracuj hrst mouky a vytvaruj z něj téměř čtverec, o něco delší než široký. Polož na pomoučený vál a nech asi 15 minut odpočinout.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto vyválej na velikost plechu, lehce poprášené moukou přelož, polož na plech a zase rozlož.",
+      "minutes": 10
+    },
+    {
+      "text": "Potři štětcem teplým mlékem rozšlehaným s vejcem. Husté posyp cukrem a navrch rozlož malé kousky másla. Nech v teple dobře vykynout.",
+      "minutes": 50
+    },
+    {
+      "text": "Předehřej troubu na 190 °C. Koláč peč asi 25 minut do zlatova. Nakrájej na 4 kusy.",
+      "minutes": 25
+    }
+  ],
+  "modernNote": "Zdroj: 5½ lb (asi 2,5 kg) téhož těsta jako na buchty („Buns“, viz Sladké kynuté buchty), na velký plech. Zde je těsto zmenšeno na stejnou domácí dávku (asi 630 g těsta, tj. na malý plech); 4 porce = 4 kusy po asi 460 kcal. Množství mouky, kvásku, mléka a vejce na potření, cukru a másla navrch ani teplotu a dobu pečení zdroj neuvádí; odhad, proto verified false. Zdroj peče koláč po vyndání chleba z trouby; teplotu a čas nezná. Sůl: špetka jako u buchet; kontrola hlásí málo soli, což je vlastnost historického receptu. Místo mléka a vejce lze potřít vodou s vejcem (zdroj to dovoluje). Dnes se ke koláči přidává i mletá skořice (název ji slibuje, zdroj ji nezmiňuje).",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 16,
+    "titleOriginal": "Cinnamon Cake"
+  },
+  "verified": false,
+  "quote": "Sprinkle thick with granulated or coarse white sugar, and put little pieces of butter on the top, let it raise well and bake after the bread is taken out."
+}

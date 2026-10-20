@@ -1,0 +1,33 @@
+{
+  "id": "mlecny-krem-peceny",
+  "title": "Pečený mléčný krém s muškátem",
+  "titleOriginal": "To make plain Custards",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 470, "unit": "ml", "note": "čerstvé mléko" },
+    { "ingredientId": "cukr-krystal", "amount": 45, "unit": "g", "scaling": "linear", "note": "„podle chuti“ (odhad)" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "note": "čerstvě nastrouhaný (odhad)" },
+    { "ingredientId": "zloutek", "amount": 4, "unit": "ks", "scaling": "linear", "note": "zdroj 8 vajec, z toho půlka bílků vynechána" },
+    { "ingredientId": "bilek", "amount": 2, "unit": "ks", "scaling": "linear", "note": "zdroj 8 vajec, půlka bílků vynechána" },
+    { "ingredientId": "voda", "amount": 750, "unit": "ml", "scaling": "vessel", "note": "horká vodní lázeň, nesmí vřít do hrnků (odhad)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 160 °C. Ve varné konvici přiveď k varu vodu na lázeň.", "minutes": 7 },
+    { "text": "Mléko oslaď podle chuti a nastrouhej do něj trochu muškátového oříšku.", "minutes": 3 },
+    { "text": "Žloutky s bílky rozšlehej dohladka.", "minutes": 3 },
+    { "text": "Rozšlehaná vejce vmíchej do mléka.", "minutes": 2 },
+    { "text": "Směs nalij do čtyř hrnků nebo do jedné hluboké misky.", "minutes": 2 },
+    { "text": "Hrnky postav do hlubokého pekáče a nalej horkou vodu tak, aby sahala výš než do poloviny hrnků. Voda nesmí vřít příliš prudce, aby se nedostala do krému.", "minutes": 3 },
+    { "text": "Peč, až krém ztuhne.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj dává 1 quart (asi 946 ml) čerstvého mléka a 8 vajec, z toho půlku bílků vynechat; na 4 porce beru polovinu (odhad zhruba 8 porcí zdroje, jeden hrnek nebo miska na porci): 470 ml mléka, 4 žloutky a 2 bílky. Zdroj neuvádí množství cukru (pouze „podle chuti“), ani dobu a teplotu pečení: 45 g cukru, 160 °C a asi 40 minut jsou odhad, krém je hotový, když se po zatřesení hrnkem už nevlní. Do vody lázně dej opravdu horkou vodu z konvice. Zdroj dodává „you may add a little rose water“, proto volitelně pár kapek růžové vody. Krém se hodí podávat vlažný i vychlazený. Porce asi 165 g (asi 170 kcal). Strana: PDF 245 (tištěná 215). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 245, "titleOriginal": "To make plain Custards" },
+  "verified": false,
+  "quote": "Take a quart of new milk, sweeten it to your taste, grate in a little nutmeg, beat up eight eggs, leave out half the whites."
+}

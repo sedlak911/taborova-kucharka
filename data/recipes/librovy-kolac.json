@@ -1,0 +1,32 @@
+{
+  "id": "librovy-kolac",
+  "title": "Librový koláč",
+  "titleOriginal": "Pound Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "z 1 libry; ve zdroji „coarse pulverized“, tedy jemný krystal" },
+    { "ingredientId": "maslo", "amount": 85, "unit": "g", "scaling": "linear", "note": "z ¾ libry, měkké, ne rozpuštěné" },
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "note": "z 1 tuctu" },
+    { "ingredientId": "hladka-mouka", "amount": 115, "unit": "g", "note": "z 1 libry" },
+    { "ingredientId": "citronove-aroma", "amount": 0.3, "unit": "ml", "note": "„a few drops oil of lemon“, odhad (asi 6 kapek na celou dávku)" }
+  ],
+  "steps": [
+    { "text": "Cukr a měkké máslo šlehej, dokud nejsou bílé a nadýchané.", "minutes": 30 },
+    { "text": "Zašlehej první dvě vejce, seškrábni těsto ze stěn mísy a zašlehej další dvě. Takto pokračuj, dokud nejsou všechna vejce uvnitř.", "minutes": 10 },
+    { "text": "Přidej citronovou esenci, dobře promíchej a seškrábni těsto ze stěn.", "minutes": 2 },
+    { "text": "Vmíchej mouku, jakmile je zapracovaná, přestaň míchat.", "minutes": 3 },
+    { "text": "Těsto nalij do formy vyložené dvěma vrstvami hnědého papíru, uhlaď ho a uprostřed lehce prohloub.", "minutes": 3 },
+    { "text": "Peč v mírně vyhřáté troubě do zlatova.", "minutes": 45 },
+    { "text": "Koláč nech ve formě vychladnout, nejlépe přes noc." }
+  ],
+  "modernNote": "Zdroj nemá výtěžek ani teplotu a dobu pečení. Kniha dává 1 lb cukru, ¾ lb másla, 1 tucet vajec a 1 lb mouky, což je velký koláč, který pekař peče v jedné formě (odhad asi 16 kousků). Na 4 porce je to čtvrtina dávky, 4 kousky po zhruba 115 g, asi 420 kcal. Teplotu a dobu pečení zdroj neuvádí (peče se po chlebu v doznívající troubě, tedy mírně vyhřáté); dnes peč v troubě vyhřáté na 170 °C asi 45 minut (špejle musí vyjít suchá), doba je odhad pro malou dávku v bochánkové formě 15–18 cm. Šlehání 20–30 minut je podle zdroje ruční: robot nebo ruční šlehač stačí na 8–10 minut. Zdroj nemá kypřidlo, těsto kyne vzduchem a vejci. Množství citronové esence je odhad („few drops oil of lemon“). Doporučení zdroje: používat dobré balené máslo a slané před použitím propláchnout studenou vodou, hnědým papírem vyložit formu, nechat vychladnout ve formě přes noc. Strana: tištěná 21. Odhady (esence, doba pečení) ⇒ verified false.",
+  "source": { "book": "hauptmann-1877", "page": 21, "titleOriginal": "Pound Cake" },
+  "verified": false,
+  "quote": "Stir the sugar and butter together until white and light"
+}

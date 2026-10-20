@@ -1,0 +1,35 @@
+{
+  "id": "zazvorove-susenky",
+  "title": "Zázvorové sušenky (ginger snaps)",
+  "titleOriginal": "Ginger Snaps",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "množství doplněno: zdroj mouku neuvádí, ze sousedního receptu Ginger S's asi 5 lb" },
+    { "ingredientId": "hnedy-cukr", "amount": 40, "unit": "g", "note": "ze zdroje 1 lb", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "ze zdroje 1 lb másla nebo sádla", "scaling": "linear" },
+    { "ingredientId": "melasa", "amount": 120, "unit": "g", "note": "tmavá melasa (N. O.), ze zdroje 1 quart", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "ze zdroje 1 pint", "scaling": "linear" },
+    { "ingredientId": "jedla-soda", "amount": 5, "unit": "g", "note": "ze zdroje 2 oz", "scaling": "linear" },
+    { "ingredientId": "zazvor-mlety", "amount": 10, "unit": "g", "note": "ze zdroje 4 oz, mletý", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C." },
+    { "text": "Máslo s cukrem prošlehej, přidej melasu a vodu.", "minutes": 3 },
+    { "text": "Vmíchej sodu a zázvor.", "minutes": 2 },
+    { "text": "Zapracuj mouku, aby vzniklo těsto, které jde vyválet a krájet.", "minutes": 5 },
+    { "text": "Těsto rozválej na válečky o tloušťce asi jako násada koštěte a nakrájej na malé kousky.", "minutes": 10 },
+    { "text": "Kousky vyválej mezi dlaněmi do kuliček.", "minutes": 10 },
+    { "text": "Kuličky rozlož na lehce vymazané plechy s dostatečným odstupem, aby se při pečení nespojily, a každou zploštěj dlaní.", "minutes": 5 },
+    { "text": "Peč v mírné troubě, dokud sušenky nejsou pevné.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 37) je pekárenská dávka s 1 lb hnědého cukru, 1 lb másla nebo sádla, 1 quartem melasy, 1 pintem vody, 2 oz sody a 4 oz zázvoru; množství mouky chybí. Doplněno ze sousedního receptu Ginger S's (s. 38) se stejným podílem cukru, tuku a melasy, ale polovinou sody a vody a 3 oz zázvoru: asi 5 lb mouky. Přepočet 5 lb → 200 g mouky (faktor 0,088), tj. 4 porce po asi 10 malých sušenkách (kolem 380 kcal na porci); zdroj počet kusů neuvádí. Množství mouky je odhad, proto verified: false; tuhost těsta uprav moukou. Tuk: máslo místo másla nebo sádla. Melasa v g (hustota 1,42 g/ml), US quart 946 ml, pint 473 ml. Teplota ani doba pečení ve zdroji nejsou („moderate oven“): 175 °C a asi 20 minut na dva plechy je odhad. Zdroj dále nabízí pro ostřejší chuť trochu kajenského pepře.",
+  "source": { "book": "hauptmann-1877", "page": 37, "titleOriginal": "Ginger Snaps" },
+  "verified": false,
+  "quote": "Set on pans far enough apart so they will not run together, and flatten each one with the palm of the hand."
+}

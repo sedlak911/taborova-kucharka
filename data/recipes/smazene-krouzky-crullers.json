@@ -1,0 +1,122 @@
+{
+  "id": "smazene-krouzky-crullers",
+  "title": "Smažené kroužky (crullers)",
+  "titleOriginal": "Crullers",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 220,
+      "unit": "g",
+      "note": "zdroj 4¾ lb (2 155 g)"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 80,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj 1¾ lb bílého cukru"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 11,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj ¼ lb; změklé"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zdroj 10 vajec"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 85,
+      "unit": "ml",
+      "note": "zdroj 1¾ pint sladkého mléka, „good measure“ (štědrá odměrka)"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "náhrada za 1 tsp sody a 2 tsp vinného kamene (≈ 3 tsp prášku do pečiva na celou dávku); vinný kámen zdroj sype na mouku",
+      "original": {
+        "ingredientId": "jedla-soda",
+        "amount": 0.46,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 0.5,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "odhad: zdroj „a little oil of lemon“ bez množství; strouhaná kůra"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 30,
+      "unit": "g",
+      "scaling": "fat",
+      "note": "nasáklý (odhad)"
+    },
+    {
+      "ingredientId": "sadlo",
+      "amount": 470,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "na smažení, „plenty of lard“; většina zůstane v pánvi"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Změklé máslo, cukr, vejce a citronovou kůru dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Vmíchej mléko s kypřicím práškem.",
+      "minutes": 2
+    },
+    {
+      "text": "Přidej mouku a zamíchej na těsto.",
+      "minutes": 3
+    },
+    {
+      "text": "Těsto vyválej asi na ¼ palce (6 mm) a vykrajuj malé úzké kroužky.",
+      "minutes": 15
+    },
+    {
+      "text": "Kroužky polož na suché utěrky na prkně nebo na lehce pomoučené prkno.",
+      "minutes": 2
+    },
+    {
+      "text": "Sádlo rozehřej v hrnci nebo hluboké pánvi. Kroužky smaž v horkém sádle co nejdřív po vykrojení. Obracej je tyčinkou.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 38): pekařská dávka na 4¾ lb (2 155 g) mouky a 10 vajec, US míry (pint 473 ml). Zde dělena 10× (4 porce, asi 15–20 kroužků; porce 3–5 kroužků vyjde asi na 400 kcal). Soda s vinným kamenem (1 tsp sody rozpuštěné v mléce a 2 tsp vinného kamene posypaného na mouku) nahrazena kypřicím práškem: 1 díl sody + 2 díly vinného kamene ≈ 3 díly prášku, tj. 3 lžičky prášku (asi 14 g) na celou dávku, na desetinu 1 g (původně 0,46 g sody a 0,6 g vinného kamene). Zdroj kypří velmi slabě; pro nadýchanější kroužky případně přidej až 3 g. „Oil of lemon“ je bez množství, nahrazen strouhanou kůrou (odhad). Zdroj neuvádí teplotu tuku: sádlo zahřej asi na 180 °C. Smaží se v „plenty of lard“; asi 30 g se vsákne, zbytek v hrnci slouží k dalšímu smažení (zdroj ho po smažení odkládá na chladné místo a před dalším použitím ho čistí a doplňuje čerstvým). Moderně lze sádlo nahradit řepkovým olejem.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 38,
+    "titleOriginal": "Crullers"
+  },
+  "verified": false,
+  "quote": "Have plenty of lard to fry them in. Turn them over with a stick."
+}

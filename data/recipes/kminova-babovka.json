@@ -1,0 +1,141 @@
+{
+  "id": "kminova-babovka",
+  "title": "Kmínová bábovka z kynutého těsta",
+  "titleOriginal": "To make a fine Seed or Saffron Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 185,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "ze „čtvrtky pecku“ jemné mouky (odhad asi 1,1 kg na celou dávku)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 115,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z 1½ libry"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 190,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "z 1 quartu, vaří se spolu s máslem"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 75,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z 1 libry"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "ze 6 vajec, dobře rozšlehané"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 15,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "místo 1½ pintu pivního kvasu (odhad)"
+    },
+    {
+      "ingredientId": "kmin-cely",
+      "amount": 14,
+      "unit": "g",
+      "note": "ze 3 uncí „carraway seeds“, ve zdroji volitelný"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.59,
+      "unit": "g",
+      "note": "z ¼ unce hřebíčku a muškátového květu dohromady (odhad poloviny)"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.59,
+      "unit": "g",
+      "note": "místo „mace“ (muškátový květ), z ¼ unce spolu s hřebíčkem (odhad poloviny)"
+    },
+    {
+      "ingredientId": "skorice-mleta",
+      "amount": 1,
+      "unit": "g",
+      "note": "z „a pennyworth of cinnamon“ (odhad)"
+    },
+    {
+      "ingredientId": "safran",
+      "amount": 0.05,
+      "unit": "g",
+      "note": "tinktura ze šafránu za penny, ve zdroji volitelná (odhad)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "na vymazání formy (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mléko s máslem přiveď k varu, pak máslo z mléka seber.",
+      "minutes": 8
+    },
+    {
+      "text": "Máslo smíchej s moukou a trochou mléka.",
+      "minutes": 3
+    },
+    {
+      "text": "Droždí rozmíchej ve zbytku mléka, přeceď ho a vmíchej do mouky.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej kmín, hřebíček, muškát, skořici, šafrán, cukr a vejce.",
+      "minutes": 3
+    },
+    {
+      "text": "Vše rukama lehce, ale dobře vyšlehej.",
+      "minutes": 5
+    },
+    {
+      "text": "Formu dobře vymaž máslem a těsto do ní dej.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč hodinu a půl v rozehřáté troubě.",
+      "minutes": 90
+    }
+  ],
+  "modernNote": "Zdroj nemá počet porcí; celá dávka (čtvrtka pecku mouky, 1½ libry másla, libra cukru, 6 vajec, kvas a quart mléka) je kolem 2,5 kg těsta, tedy asi 24 kousků. Na 4 porce je to šestina: 4 kousky po zhruba 150 g, asi 510 kcal. Čtvrtka pecku (asi 2,3 l) mouky je odhad kolem 1,1 kg. Zdroj kvas po pintech (1½ pintu pivního kvasu) nahrazuje 15 g čerstvého droždí Mléko po svaření nech zchladnout na vlažné, než v něm rozmícháš droždí. Kynutí zdroj nezmiňuje: dnes těsto po zadělání nech v teple asi hodinu a půl kynout, než ho dáš do formy (kynutí není v čase receptu), a pečení pak hlídej, šestinová dávka může být hotová dřív než za 90 minut (doba ze zdroje je pro celou dávku). Teplotu zdroj neuvádí, „quick oven“ je rozehřátá trouba, dnes zhruba 180 °C. Růžovou vodu (za penny) jsem vynechal, v katalogu není a množství je zanedbatelné; hřebíček a „mace“ jsou rozdělené napůl a „mace“ (muškátový květ) je nahrazen muškátovým oříškem. Zdroj dodává, že bez kmínu je podle autorky bábovka lepší: kmín i šafrán lze vynechat (hotová librová bábovka má kmínu jen „a few“). Doby jsou ze zdroje. Strana: PDF 239 (tištěná 209). Všechna množství jsou odhad, verified false.",
+  "source": {
+    "book": "glasse-1747",
+    "page": 239,
+    "titleOriginal": "To make a fine Seed or Saffron Cake"
+  },
+  "verified": false,
+  "quote": "You may leave out the seed, if you chuse it, and I think it rather better without it"
+}

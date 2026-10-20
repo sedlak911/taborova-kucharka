@@ -1,0 +1,141 @@
+{
+  "id": "horsky-kokosovy-dort",
+  "title": "Horský dort s kokosem",
+  "titleOriginal": "Mountain Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 90,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do těsta, z 1 libry; ve zdroji „pulverized“, tedy jemný krystal"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z ¾ libry, měkké"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.6,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "do těsta, z 8 vajec; rozšlehej 2 vejce a použij 4/5"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 25,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "z 1 gillu (118 ml)"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "g",
+      "note": "náhrada za „scant ½ teaspoon“ sody a 1 lžičku vinného kamene (≈ 1,2 lžičky prášku na celou dávku)",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "jedla-soda",
+        "amount": 0.37,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 110,
+      "unit": "g",
+      "note": "z 1 libry 3 uncí"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 0.44,
+      "unit": "ml",
+      "note": "„a little extract of vanilla“, odhad (½ lžičky na celou dávku)"
+    },
+    {
+      "ingredientId": "kokos-strouhany",
+      "amount": 40,
+      "unit": "g",
+      "note": "do náplně; množství zdroj neuvádí, odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.5,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "do náplně, jen bílek (asi 1 bílek); množství zdroj neuvádí, odhad"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 30,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do náplně; množství zdroj neuvádí, odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukr a měkké máslo šlehej, dokud nejsou bílé a nadýchané.",
+      "minutes": 10
+    },
+    {
+      "text": "Zašlehej vejce po dvou a po každém přidání dobře promíchej. Těsto nepotřebuje šlehat tak dlouho jako na librový koláč.",
+      "minutes": 8
+    },
+    {
+      "text": "Přilij mléko a vanilku a promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Mouku smíchej s kypřicím práškem a hned ji vmíchej do těsta. Míchej jen lehce.",
+      "minutes": 3
+    },
+    {
+      "text": "Těsto rozděl na tři stejné díly. Každý díl rozetři do kruhu asi 1 cm silného na papír a dej na plech.",
+      "minutes": 10
+    },
+    {
+      "text": "Peč v mírně vyhřáté troubě. Pozor, aby korpusy ani trochu nezhnědly a příliš nevyschly.",
+      "minutes": 15
+    },
+    {
+      "text": "Korpusy nech vychladnout a opatrně z nich strhni papír.",
+      "minutes": 30
+    },
+    {
+      "text": "Bílek ušlehej s moučkovým cukrem, vmíchej strouhaný kokos do husté pasty a vanilku dochuť podle potřeby.",
+      "minutes": 8
+    },
+    {
+      "text": "Korpusy prolož tlustou vrstvou kokosové náplně, slož na sebe a ořízni dort ostrým nožem do kulata.",
+      "minutes": 9
+    }
+  ],
+  "modernNote": "Zdroj nemá výtěžek, teplotu ani dobu pečení. Celá dávka (1 lb cukru, ¾ lb másla, 8 vajec, 1 lb 3 oz mouky, tři korpusy a vrstvy kokosu s polevou) je velký pekařský dort, odhad asi 20 kousků. Na 4 porce je to pětina dávky, 4 kousky po zhruba 120 g, asi 450 kcal. Doba pečení je odhad; dnes peč korpusy v troubě vyhřáté na 175 °C asi 12–15 minut do světle zlaté. Kypřidlo: zdroj rozpouští necelou půl lžičky sody v mléce a lžičku vinného kamene přidá těsně před moukou; to odpovídá asi 1,2 lžičky prášku do pečiva na celou dávku (1 díl sody + 2 díly vinného kamene ≈ 3 díly prášku), na pětinu 1 g (původně 0,37 g sody a 0,6 g vinného kamene). Těsto kyne slabě, korpusy jsou tenké. Kokosová náplň: zdroj říká jen, že se kokos smíchá s polevou z bílků a cukru do hustší pasty (příliš řídká necháváš korpusy klouzat), množství jsou odhad. Vynecháno: vnější poleva z 15 bílků a 1½ libry cukru, zdobení sáčkem a pečení polevy dozlatova; podle zdroje se dort má sníst do dvou až tří dnů a kokos má být čerstvý. Strana: tištěná 23 (pokračuje na 24–25). Odhady (náplň, vanilka, soda, doba pečení) ⇒ verified false.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 23,
+    "titleOriginal": "Mountain Cake"
+  },
+  "verified": false,
+  "quote": "The reason it is named Mountain Cake is, I suppose, because it is nice for pic-nics “on the mountain.”"
+}
