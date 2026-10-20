@@ -1,0 +1,40 @@
+{
+  "id": "melasove-susenky-rough-and-ready",
+  "title": "Melasové sušenky obalené v cukru (rough and readys)",
+  "titleOriginal": "Rough and Readys",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 160, "unit": "g", "note": "ze zdroje asi 2 až 2¼ lb, aby šlo těsto pěkně vyválet", "scaling": "linear" },
+    { "ingredientId": "hnedy-cukr", "amount": 40, "unit": "g", "note": "ze zdroje ½ lb", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "ze zdroje ½ lb másla nebo sádla", "scaling": "linear" },
+    { "ingredientId": "melasa", "amount": 85, "unit": "g", "note": "ze zdroje ¾ pintu", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 20, "unit": "ml", "note": "ze zdroje ¼ pintu mléka nebo vody", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 0.65, "unit": "ks", "note": "do těsta, ze zdroje 4 vejce", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 0.35, "unit": "ks", "note": "na potření (žloutek), odhad: zdroj uvádí jen „několik žloutků“", "scaling": "linear" },
+    { "ingredientId": "jedla-soda", "amount": 2, "unit": "g", "note": "ze zdroje „light ½ oz“", "scaling": "linear" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "note": "ze zdroje 1 lžíce" },
+    { "ingredientId": "novy-koreni", "amount": 0.41, "unit": "g", "note": "ze zdroje 1 lžička, mleté" },
+    { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "note": "na obalení, množství odhad (zdroj: „dry granulated sugar“)", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C." },
+    { "text": "Máslo s hnědým cukrem prošlehej do krému.", "minutes": 3 },
+    { "text": "Zašlehej vejce, melasu a vodu.", "minutes": 3 },
+    { "text": "Vmíchej sodu, skořici a nové koření.", "minutes": 2 },
+    { "text": "Zapracuj tolik mouky, aby vzniklo těsto, které jde pěkně vyválet.", "minutes": 5 },
+    { "text": "Těsto rozválej na lehce pomoučeném vále asi na 6 mm a vykrájej podlouhlé sušenky.", "minutes": 12 },
+    { "text": "Sušenky rozlož těsně vedle sebe na válu. Žloutek rozmíchej s trochou vody a potři jím vždy dvě až tři desítky sušenek.", "minutes": 5 },
+    { "text": "Potřené sušenky obal v krystalovém cukru a rozlož je na lehce vymazané plechy.", "minutes": 5 },
+    { "text": "Peč v mírné troubě.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 37) je pekárenská dávka: ½ lb hnědého cukru, ½ lb másla nebo sádla, ¾ pintu melasy, ¼ pintu mléka nebo vody, light ½ oz sody, 1 lžíce skořice, 1 lžička nového koření, 4 vejce a asi 2 až 2¼ lb mouky. Přepočet faktorem 1/6 (2,125 lb mouky → 160 g) dá asi 20 podlouhlých sušenek po 18 g, tj. 4 porce po 5 kusech (kolem 350 kcal na porci); zdroj počet kusů neuvádí, jen potírání „2 nebo 3 tuctů“ sušenek najednou. Tuk: máslo místo másla nebo sádla; mléko nebo voda: voda. Melasa v g (hustota 1,42 g/ml), US pint 473 ml. Kypřidlem je soda, kterou okyselí melasa, proto zůstala jedlá soda (jako u zázvorových sušenek). Množství vajec na potření a cukru na obalení zdroj neurčuje (odhad), proto verified: false. Teplota ani doba pečení nejsou ve zdroji („moderate oven“): 175 °C a asi 15 minut je odhad. Zdroj dále dovoluje vzít o ½ lb mouky méně a nahradit ji ½ lb zbytků sušenek.",
+  "source": { "book": "hauptmann-1877", "page": 37, "titleOriginal": "Rough and Readys" },
+  "verified": false,
+  "quote": "Throw them over on dry granulated sugar, and set on slightly greased pans; bake in a moderate oven."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "skoricove-susenky-z-hnedeho-cukru",
+  "title": "Skořicové sušenky z hnědého cukru",
+  "titleOriginal": "Brown Scotch Cake, No. 1",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 130, "unit": "g", "note": "zdroj 2¼ lb (1 020 g)" },
+    { "ingredientId": "hnedy-cukr", "amount": 115, "unit": "g", "note": "zdroj 2 lb" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "note": "zdroj 4 vejce; rozšlehej 1 vejce a použij polovinu" },
+    { "ingredientId": "skorice-mleta", "amount": 4, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „flavor strong“ bez množství" },
+    { "ingredientId": "prasek-do-peciva", "amount": 0.87, "unit": "g", "scaling": "linear", "note": "náhrada za jedlou sodu (zdroj ½ lžičky)" },
+    { "ingredientId": "voda", "amount": 7, "unit": "ml", "note": "zdroj „very little water, about ½ gill“" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Máslo s hnědým cukrem utři do hladka.", "minutes": 5 },
+    { "text": "Přidej rozšlehané vejce, skořici a vodu a zamíchej.", "minutes": 3 },
+    { "text": "Vmíchej mouku smíchanou s kypřicím práškem a zpracuj těsto.", "minutes": 3 },
+    { "text": "Těsto vyválej a vykrajuj hranatou vykrajovačkou poměrně tenké sušenky. Vyvaluj vždy jen malé množství těsta, je křehké a špatně se vykrajuje.", "minutes": 15 },
+    { "text": "Sušenky skládej na lehce vymazané plechy, ne příliš blízko k sobě.", "minutes": 4 },
+    { "text": "Peč v mírně vyhřáté troubě dohněda, po dávkách podle plechů.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 31): pekařská dávka na 2¼ lb (1 020 g) mouky, zde zmenšeno na 1/8 (4 porce, asi 12 tenkých čtvercových sušenek, po 3 na porci; zdroj počet kusů neuvádí). Jedlá soda (½ lžičky ≈ 2,3 g ve zdroji, zde 0,29 g) nahrazena kypřicím práškem: 1 díl sody + 2 díly vinného kamene ≈ 3 díly prášku (0,87 g). Voda (½ gill ≈ 59 ml ve zdroji) vychází na 7 ml, těsto je tuhé a křehké. Skořice je ve zdroji bez množství („flavor strong“), 4 g je odhad (asi 1½ lžičky). Zdroj uvádí jen „moderate oven“ bez času a teploty: 180 °C a doba pečení jsou odhad. Kypřidla je jen 0,87 g, protože zdroj dává jen ½ lžičky sody na 1 kg mouky (nález check:recipe „pod 1 g“ je tedy záměr). Tip: při dvojnásobné dávce vyjde celé vejce.",
+  "source": { "book": "hauptmann-1877", "page": 31, "titleOriginal": "Brown Scotch Cake, No. 1" },
+  "verified": false,
+  "quote": "Don't roll out much of the mixture at a time, as it is short and rather hard to cut out."
+}

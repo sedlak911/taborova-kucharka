@@ -1,0 +1,123 @@
+{
+  "id": "prelozene-housky",
+  "title": "Přeložené máslové housky",
+  "titleOriginal": "Rolls",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 220,
+  "difficulty": 3,
+  "tags": [
+    "bez-masa",
+    "levne"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g",
+      "note": "do kvásku (sponge), množství odhad"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 5,
+      "unit": "g",
+      "note": "ve zdroji kvasnicový předkvas (sponge), množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná, do kvásku; množství odhad (zdroj: spíše hustá kaše, „rather stiff batter“)"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 60,
+      "unit": "ml",
+      "note": "vlažné; zdroj „a little warm milk or water“, množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 15,
+      "unit": "g",
+      "note": "měkké; zdroj „a little soft butter or lard“, množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 8,
+      "unit": "g",
+      "note": "zdroj „a very little white sugar“, množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "zdroj: „a pinch of salt“, zde rozumná špetka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 190,
+      "unit": "g",
+      "note": "dále na dost tuhé těsto („a rather stiff dough“), množství odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 6,
+      "unit": "g",
+      "note": "rozpuštěné, na potření housek před přeložením",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Mouku do kvásku vymíchej s droždím a vlažnou vodou do husté kaše (kvásek). Zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Kvásek dej do mísy. Přidej vlažné mléko, měkké máslo, cukr a špetku soli.",
+      "minutes": 5
+    },
+    {
+      "text": "Přisypávej zbylou mouku a vypracuj dost tuhé těsto. Dobře ho propracuj.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto přikryj utěrkou a nech dobře vykynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Těsto přelož na pracovní plochu a zpracuj dohromady. Rozděl na 8 dílů a z každého vytvaruj malou kulatou housku. Housky polož na pomoučenou plochu tak, aby se nedotýkaly.",
+      "minutes": 10
+    },
+    {
+      "text": "Housky přikryj utěrkou a nech asi 15 minut odpočinout.",
+      "minutes": 15
+    },
+    {
+      "text": "Každou housku uprostřed stlač dřívkem nebo hranou dlaně a potři uprostřed rozpuštěným máslem. Pak jednu stranu přelož přes druhou a lehce přitlač rukou.",
+      "minutes": 5
+    },
+    {
+      "text": "Předehřej troubu na 200 °C. Housky polož na plech a peč asi 20 minut do zlatova.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Zdroj neuvádí žádná množství, dobu kynutí ani pečení, teplotu ani počet kusů; vše je odhad podle receptu Buns (sladke-buchty-hauptmann), proto verified false. Kvásek (sponge) je stejný jako u buchet (120 g mouky, 120 ml vody, 5 g čerstvého droždí místo kvasnicového předkvasu); zdroj ho bere „před zředěním“ jako u buchet. Tuhé těsto („rather stiff dough“, tužší než buchty s 65 %) má asi 58 % tekutin z mouky. Doby kynutí (90 a 60 minut) jsou převzaté z buchet. Zdroj končí tvarováním a přeložením, pečení (200 °C, asi 20 minut) je doplněné. Dávka vychází na 8 malých housek po asi 65 g těsta, 2 na porci (asi 340 kcal na porci); zdroj počet kusů neuvádí. Sůl: zdroj dává jen špetku, recept drží 1 g; případný nález kontroly na málo soli je vlastnost historického receptu, dnešnímu vkusu odpovídá asi 3 g. Po upečení lze housky potřít lesklou polevou z cukru, melasy a vody (zdroj: „Wash to impart a gloss, to Buns, Rolls“), nebo rozpuštěným máslem.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 16,
+    "titleOriginal": "Rolls"
+  },
+  "verified": false,
+  "quote": "Cover with a cloth and allow them to set about fifteen minutes, then with a stick or the edge of the hand press down in the middle of each roll."
+}

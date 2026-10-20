@@ -1,0 +1,40 @@
+{
+  "id": "taylorovy-dorticky",
+  "title": "Zázvorové melasové dortíčky (Taylor cake)",
+  "titleOriginal": "Taylor Cake, No. 1",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hnedy-cukr", "amount": 30, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "scaling": "linear", "note": "zdroj ¾ lb" },
+    { "ingredientId": "zazvor-mlety", "amount": 2, "unit": "g", "note": "zdroj asi ½ oz" },
+    { "ingredientId": "novy-koreni", "amount": 1, "unit": "g", "note": "mleté; zdroj ¼ oz" },
+    { "ingredientId": "melasa", "amount": 120, "unit": "ml", "scaling": "linear", "note": "zdroj 1 quart New Orleans molasses" },
+    { "ingredientId": "voda", "amount": 55, "unit": "ml", "note": "zdroj „scant pint“ (odhad 450 ml)" },
+    { "ingredientId": "jedla-soda", "amount": 7, "unit": "g", "scaling": "linear", "note": "zdroj 2 oz" },
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "scaling": "linear", "note": "zdroj 3½ lb" },
+    { "ingredientId": "vejce", "amount": 0.75, "unit": "ks", "scaling": "linear", "note": "zdroj 6 vajec; buď 1 malé vejce, nebo 1 vejce a o něco víc mouky" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Cukr s máslem na několik okamžiků utři dohladka.", "minutes": 3 },
+    { "text": "Přidej zázvor, nové koření, melasu, vodu a sodu a dobře promíchej.", "minutes": 4 },
+    { "text": "Zamíchej mouku, až je těsto hladké.", "minutes": 3 },
+    { "text": "Přidej vejce a těsto pořádně vymíchej. Občas setři těsto ze stěn mísy stěrkou.", "minutes": 5 },
+    { "text": "Těsto dávkuj lžící na lehce vymazaný plech nebo do papírových košíčků.", "minutes": 8 },
+    { "text": "Peč v mírně vyhřáté troubě, ať jsou dortíčky světlé. Dno se snadno připálí.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 34): pekařská dávka na 3½ lb (1 588 g) mouky, US míry (pint 473 ml, quart 946 ml). Zde 1/8 dávky, asi 200 g mouky; těsto váží zhruba 550 g a dá asi 8 dortíčků po 70 g, na porci tedy 2 kusy (asi 430 kcal). Kniha dává dávku na desítky kusů. Zdroj neuvádí teplotu ani dobu: „moderate oven“ bere jako 180 °C, 20 minut je odhad; hlídej, ať dno nezhnědne. Soda je jediné kypřidlo a reaguje s kyselou melasou; množství ze zdroje (2 oz na 3½ lb mouky) je velké, proto těsto ochutnej a případně sodu sniž. Vejce vychází na 0,75 ks. Zdroj má i „No. 2“: stejné množství, ale 8 vajec místo 6, vejce se přidávají po částech k utřenému cukru s máslem a mouka se zamíchá až nakonec.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 34,
+    "titleOriginal": "Taylor Cake, No. 1"
+  },
+  "verified": false,
+  "quote": "Bake light, as they are easily burnt at the bottom."
+}

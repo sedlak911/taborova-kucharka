@@ -1,0 +1,43 @@
+{
+  "id": "ovocny-kolac-fruit-cake",
+  "title": "Ovocný koláč s rozinkami a citronádou",
+  "titleOriginal": "Fruit Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hnedy-cukr", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "vejce", "amount": 1.5, "unit": "ks", "note": "zdroj 12 vajec" },
+    { "ingredientId": "hladka-mouka", "amount": 70, "unit": "g", "note": "zdroj 1¼ lb" },
+    { "ingredientId": "rozinky", "amount": 85, "unit": "g", "note": "bezsemenné; zdroj 1½ lb" },
+    { "ingredientId": "korintky", "amount": 85, "unit": "g", "note": "zdroj 1½ lb currants" },
+    { "ingredientId": "kandovane-ovoce", "amount": 55, "unit": "g", "note": "zdroj 1 lb citronu (kandovaná citronová kůra), nakrájené na malé kousky" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "zdroj 1 polévková lžíce" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "zdroj mace (muškátový květ), 1 polévková lžíce" },
+    { "ingredientId": "novy-koreni", "amount": 1, "unit": "g", "note": "mleté; zdroj 1 polévková lžíce" },
+    { "ingredientId": "hrebicek-mlety", "amount": 1, "unit": "g", "note": "zdroj 1 polévková lžíce" },
+    { "ingredientId": "konak", "amount": 15, "unit": "ml", "scaling": "linear", "note": "brandy; zdroj 1 gill (118 ml)" },
+    { "ingredientId": "sadlo", "amount": 5, "unit": "g", "scaling": "vessel", "note": "na vymazání formy; odhad, zdroj množství neuvádí" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C." },
+    { "text": "Formu (asi 16 cm nebo zhruba 1 l) vymaž rozehřátým sádlem, aby vrstva byla tlustá.", "minutes": 3 },
+    { "text": "Cukr s máslem několik minut šlehej.", "minutes": 5 },
+    { "text": "Vejce přidávej po částech, po každé trochu promíchej, dokud nejsou všechna v těstě.", "minutes": 5 },
+    { "text": "Vmíchej koření a koňak a trochu promíchej, aby se spojilo.", "minutes": 2 },
+    { "text": "V jiné míse důkladně promíchej rozinky, korintky a kandované ovoce, pak je vmíchej do těsta.", "minutes": 5 },
+    { "text": "Přisyp mouku a míchej, až se dobře spojí.", "minutes": 3 },
+    { "text": "Těsto dej do formy a uhlaď ho nožem.", "minutes": 3 },
+    { "text": "Peč v mírné troubě asi 70 minut.", "minutes": 70 },
+    { "text": "Koláč nech ve formě úplně vychladnout, teplý se snadno láme." }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 23): pekařská dávka 1 lb cukru, 1 lb másla, 12 vajec, 1¼ lb mouky, 1½ lb rozinek, 1½ lb korintek a 1 lb citronu (kandované citronové kůry), tedy asi 4,3 kg těsta. Zde je dávka zmenšená na 1/8 (asi 480 g těsta, po upečení kolem 440 g, 4 kousky po zhruba 110–120 g a asi 410 kcal); původní dávka by dala kolem 30 takových kousků. Odhad počtu porcí je můj, kniha porce neuvádí. Hnědý cukr je ze zdroje. Vejce: 12 vajec / 8 = 1,5 ks, přidávej je po částech (zdroj po dvou). Brandy: 1 gill (asi 118 ml), po zmenšení 15 ml koňaku; bez alkoholu ho lze vynechat. „Citron“ ve zdroji je kandovaná citronová kůra (citronát), proto kandované ovoce. „Mace“ je muškátový květ, v katalogu pod muškátovým oříškem. Kypřidlo recept nemá. Zdroj neuvádí dobu ani teplotu, jen „cool oven“ (mírná trouba, jako na pound cake), proto 150 °C a 70 minut jsou můj odhad; hotovost ověř špejlí. Sádlo na formu je ze zdroje, množství je odhad. Koláč vydrží měsíce, nejlepší je po dvou až třech měsících, uchovej ho zabalený na chladném místě.",
+  "source": { "book": "hauptmann-1877", "page": 23, "titleOriginal": "Fruit Cake" },
+  "verified": false,
+  "quote": "This cake will keep a long time, and is best when two or three months old."
+}

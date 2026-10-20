@@ -1,0 +1,113 @@
+{
+  "id": "pletenka-hauptmann",
+  "title": "Máslová pletenka",
+  "titleOriginal": "Twist",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 345,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 130,
+      "unit": "g",
+      "note": "prosátá, do kvásku (sponge), množství odhad"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 5,
+      "unit": "g",
+      "note": "ve zdroji kvasnicový předkvas (ferment) z brambor a mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 230,
+      "unit": "ml",
+      "note": "vlažná; 130 ml do kvásku (spíše hustá kaše jako u buchet) a 100 ml na jeho zředění (zdroj: asi ¾ vody kvásku); množství odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "do zřeďovací vody; moderní dávka 2 % z mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "měkké, do těsta; zdroj ¼ lb na ½ galonu zředěného kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 270,
+      "unit": "g",
+      "note": "dále na těsto o něco tužší než na chleba, množství odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "rozpuštěné, na potření upečené pletenky; množství odhad",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prosátou mouku do kvásku vymíchej s droždím a větší částí vlažné vody do husté kaše. Zakryj a nech v teple kynout, dokud nevystoupí téměř k okraji mísy a pak o něco neklesne.",
+      "minutes": 120
+    },
+    {
+      "text": "Sůl rozpusť ve zbylé vlažné vodě a zřeď tím kvásek.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej měkké máslo. Postupně zapracuj zbylou mouku, aby vzniklo těsto o něco tužší než na chleba. Dobře ho propracuj.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Těsto rozděl na 3 stejné díly a zformuj z nich koule. Polož je na pracovní plochu posypanou moukou a nech asi 15 minut odpočinout.",
+      "minutes": 20
+    },
+    {
+      "text": "Každou kouli vyválej do délky, ke koncům tenčí, a spleť z nich pletenku.",
+      "minutes": 10
+    },
+    {
+      "text": "Pletenku polož na plech a nech v teple dobře vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Předehřej troubu na 190 °C. Pletenku peč asi 35 minut dozlatova.",
+      "minutes": 35
+    },
+    {
+      "text": "Hned po vytažení z trouby potři pletenku štětcem namočeným do rozpuštěného másla."
+    }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: ½ galonu (asi 1,9 l) zředěného kvásku (po přidání vody a soli), asi ¼ lb měkkého másla a mouka na těsto o něco tužší než na chleba; kusy po asi 1 lb se dělí na tři díly, nechají 15 minut odpočinout, vyválí a zkroutí. Dávka je zmenšena na jednu pletenku asi 660 g těsta (4 porce po 165 g, asi 420 kcal): ze zdrojové proporce másla na zředěný kvásek vychází 20 g (kvásek ze 130 g mouky a 130 ml vody jako „rather stiff batter“, stejně jako u sladkých buchet, zředěný 100 ml vody, tj. asi ¾ vody kvásku podle zdroje; celkem asi 0,17násobek zdrojové dávky; těsto má asi 58 % vody z mouky, tužší než chleba). Zdroj neuvádí množství mouky, droždí (používá předkvas z mouky a brambor, nahrazen čerstvým droždím), dobu kynutí kvásku ani těsta (u chleba v téže knize je „půl hodiny až hodina a půl“, vzata horní mez), teplotu ani dobu pečení, proto verified false. Sůl: zdroj dává ½ lb na 3 galony vody, tedy jen asi 20 g na litr; recept stejně jako ostatní chleby z knihy drží 2 % z mouky. Zdroj peče pletenky před chlebem. Při větší dávce zdroj radí přidat trochu spařené bílé kukuřičné mouky, aby byly pletenky bělejší; zde vynecháno. Množství másla na potření je odhad. Dnes lze kvásek nechat přes noc v lednici a dobu kynutí zkrátit.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 15,
+    "titleOriginal": "Twist"
+  },
+  "verified": false,
+  "quote": "Grease over with a brush dipped in melted butter, when taken out of the oven."
+}
