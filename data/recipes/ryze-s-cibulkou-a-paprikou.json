@@ -1,0 +1,42 @@
+{
+  "id": "ryze-s-cibulkou-a-paprikou",
+  "title": "Rýže s restovanou cibulkou a paprikou",
+  "titleOriginal": "Lyonnaise Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 155, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "voda", "amount": 420, "unit": "ml", "note": "studená; drž poměr 2,7 : 1 k rýži" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "repkovy-olej", "amount": 2, "unit": "g", "note": "do vody s rýží" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "nakrájená na kostičky" },
+    { "ingredientId": "repkovy-olej", "amount": 6, "unit": "g", "note": "na osmažení cibule" },
+    {
+      "ingredientId": "paprika-cervena",
+      "amount": 15,
+      "unit": "g",
+      "note": "pečená a oloupaná, nakrájená na kostičky",
+      "original": {
+        "ingredientId": "pimentka-konzervovana",
+        "amount": 15,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    { "text": "Rýži, studenou vodu, sůl a olej dej do hrnce a přiveď k varu. Občas zamíchej.", "minutes": 5 },
+    { "text": "Hrnec pevně přikryj a duš 20–25 minut. Nemíchej. Sundej z ohně.", "minutes": 25 },
+    { "text": "Cibuli osmahni na oleji do měkka.", "minutes": 8 },
+    { "text": "Osmaženou cibuli a papriku přidej k rýži a dobře promíchej.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj: Lyonnaise Rice, E 005 01 (AFRS, PDF strana 301), 100 porcí, porce 3/4 cupu. Rýže, voda, sůl a olej na rýži jsou přepočteny stejně jako Dušená rýže (E 005 00). Cibule 3-1/8 lb (Weight, jedlá část) přepočtena na 55 g; olej na osmažení 3-7/8 oz na 6 g. Konzervovaná pimiento (scezená, 13-1/2 oz) je nahrazena pečenou červenou paprikou (15 g), protože ji dnes lze koupit čerstvou; původní pimentka je v `original`. Kalorie: karta 164 kcal na porci, přepočet ~166 kcal. Zdroj při výdeji drží horké (CCP) a pokyn vynechán. Kroky zdroje (přiveď k varu, duš 20–25 minut, osmahni cibuli, přidej do rýže) zachovány; cibule se osmahne až po rýži, jak je v kartě.",
+  "source": { "book": "afrs-2003", "page": 301, "code": "E 005 01", "titleOriginal": "LYONNAISE RICE" },
+  "verified": true,
+  "quote": "Saute onions in oil until tender."
+}

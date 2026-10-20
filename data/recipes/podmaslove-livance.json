@@ -1,0 +1,103 @@
+{
+  "id": "podmaslove-livance",
+  "title": "Podmáslové lívance se sodou",
+  "titleOriginal": "Buttermilk Pancakes (Dry Buttermilk)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 180,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 4,
+      "unit": "g",
+      "note": "lineárně (kypřidlo v těstě); zdroj 3-7/8 oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 1,
+      "unit": "g",
+      "note": "lineárně (kyselinu dodává podmáslí); zdroj 1 oz",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 14,
+      "unit": "g",
+      "note": "cukr v těstě; lineárně",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.95,
+      "unit": "ks",
+      "note": "čerstvé; 1 ks ≈ 50 g",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 50,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "podmasli",
+      "amount": 280,
+      "unit": "ml",
+      "note": "čerstvé podmáslí = voda z karty 236 ml + sušené podmáslí 43 g (součet objemů, zaokrouhleno na 10 ml)",
+      "original": {
+        "ingredientId": "podmasli-susene",
+        "amount": 43,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 18,
+      "unit": "g",
+      "note": "do těsta; lineárně (tuk v těstě)",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    { "text": "Do mísy prosej mouku, prášek do pečiva, cukr, sůl a jedlou sodu.", "minutes": 2 },
+    { "text": "Přidej podmáslí a vejce a na nízké rychlosti míchej asi 1 minutu, dokud se těsto nespojí.", "minutes": 1 },
+    { "text": "Přimíchej olej asi 1 minutu.", "minutes": 1 },
+    { "text": "Pánev lehce potři olejem a dobře ji rozehřej.", "minutes": 2 },
+    { "text": "Na horkou pánev nalij 1/4 hrnku (asi 60 ml) těsta na jeden lívanec. Peč 1,5–2 minuty, dokud se na povrchu neobjeví bubliny a spodek nezezlátne.", "minutes": 2 },
+    { "text": "Otoč a peč dalších 1,5–2 minuty.", "minutes": 2 },
+    { "text": "Pečení opakuj s dalším těstem, dokud není spotřebované (asi 8 lívanců, na pánvi se vejdou 3–4 najednou).", "minutes": 4 }
+  ],
+  "modernNote": "Porce 2 lívance (AFRS Portion 2 Cakes); recept je pro 4 porce, tj. 8 lívanců. Sušené podmáslí (2-3/8 lb = 1 077 g, na 4 porce 43 g) a voda z karty (13 lb, na 4 porce 236 ml) jsou nahrazeny čerstvým podmáslím 280 ml (součet objemů). Pro 4 porce je to přesně součet 236 ml + 43 g = 279 ml, zaokrouhleno na 10 ml; hodnota tedy nese i původní vodu z karty, která v receptu jinak samostatně není. Sušené podmáslí (43 g) je v `original`. Mražená vejce nahrazena čerstvými (0,95 ks; mražené 50 g do `original`). Jedlá soda (1 oz) reaguje s kyselinou z podmáslí a prášek do pečiva (3-7/8 oz) kyprí obě složky; oba jsou v těstě lineárně, protože kypření se řídí množstvím mouky. Sprej na pánev ze zdroje (2 oz na 100 porcí) je vynechán, pánev stačí lehce potřít olejem. Olej do těsta je lineárně (18 g). Doba 15 minut předpokládá pečení po 3–4 lívancích najednou na jedné pánvi.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 177,
+    "code": "D 025 01",
+    "titleOriginal": "BUTTERMILK PANCAKES (DRY BUTTERMILK)"
+  },
+  "verified": true
+}

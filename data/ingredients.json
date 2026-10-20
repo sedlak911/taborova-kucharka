@@ -2714,6 +2714,36 @@
     }
   },
   {
+    "id": "fazole-cerne-v-konzerve",
+    "name": "Fazole černé v konzervě (scezené)",
+    "aliases": [
+      "černé fazole z konzervy",
+      "černé fazole konzerva",
+      "black beans canned",
+      "canned black beans",
+      "black turtle beans canned"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 91,
+      "protein": 6.03,
+      "carbs": 16.55,
+      "fat": 0.29,
+      "fiber": 6.9
+    },
+    "units": {
+      "hrnek": 253
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175238 (Beans, black, mature seeds, canned, low sodium); náhrada za scezené (nálev není v makrech)",
+      "units": "USDA fdc:175238 cup = 240 g; přepočet na metrický hrnek 250 ml: 240 × 250/237 = 253 g",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "fazole-cernooke",
     "name": "Fazole černooké sušené (black-eyed peas)",
     "aliases": [
@@ -8907,6 +8937,34 @@
     }
   },
   {
+    "id": "podmasli-susene",
+    "name": "Podmáslí sušené",
+    "aliases": [
+      "sušené podmáslí",
+      "podmáslí v prášku",
+      "buttermilk powder",
+      "dry buttermilk"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 387,
+      "protein": 34.3,
+      "carbs": 49,
+      "fat": 5.78,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171274 (Milk, buttermilk, dried)",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "pohanka",
     "name": "Pohanka",
     "aliases": [
@@ -10399,6 +10457,36 @@
     }
   },
   {
+    "id": "salsa-omacka",
+    "name": "Salsa omáčka (hotová)",
+    "aliases": [
+      "salsa",
+      "salsa omáčka",
+      "salsa sauce",
+      "mexická salsa"
+    ],
+    "category": "ostatni",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 29,
+      "protein": 1.52,
+      "carbs": 6.64,
+      "fat": 0.17,
+      "fiber": 1.9
+    },
+    "units": {
+      "lzice": 18,
+      "hrnek": 273
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:174524 (Sauce, salsa, ready-to-serve)",
+      "units": "USDA fdc:174524 2 tbsp = 36 g (1 lžíce 18 g); cup = 259 g → metrický hrnek 250 ml: 259 × 250/237 = 273 g",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "salvej",
     "name": "Šalvěj sušená",
     "aliases": [
@@ -11811,6 +11899,67 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:169236",
       "refuse": "USDA SR Legacy fdc:169236 refuse 31%"
+    }
+  },
+  {
+    "id": "tortilla-kukuricna",
+    "name": "Tortilla kukuřičná",
+    "aliases": [
+      "kukuřičná tortilla",
+      "kukuřičné tortilly",
+      "corn tortilla",
+      "corn tortillas"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 218,
+      "protein": 5.7,
+      "carbs": 44.64,
+      "fat": 2.85,
+      "fiber": 6.3
+    },
+    "units": {
+      "ks": 26
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175036 (Tortillas, ready-to-bake or -fry, corn)",
+      "units": "USDA SR Legacy fdc:173241: tortilla, medium (approx 6\" dia) = 26 g",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
+    "id": "tortilly-psenicne",
+    "name": "Tortilly pšeničné 6 palců",
+    "aliases": [
+      "pšeničné tortilly",
+      "pšeničné tortily",
+      "mexické placky",
+      "flour tortillas",
+      "wheat tortillas 6 inch"
+    ],
+    "category": "pecivo",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 297,
+      "protein": 8.01,
+      "carbs": 49.27,
+      "fat": 7.58,
+      "fiber": 2.4
+    },
+    "units": {
+      "ks": 32
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "lepek"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167535 (Tortillas, ready-to-bake or -fry, flour, shelf stable); náhrada nejbližším záznamem",
+      "units": "AFRS L 507 00: 200 ks = 14-1/8 lb (6 407 g) → 32 g na kus (6palcová)",
+      "refuse": "bez odpadu"
     }
   },
   {

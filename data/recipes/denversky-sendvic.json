@@ -1,0 +1,106 @@
+{
+  "id": "denversky-sendvic",
+  "title": "Denverský sendvič s omeletou se šunkou",
+  "titleOriginal": "Western Sandwich (Denver)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "sunka",
+      "amount": 135,
+      "unit": "g",
+      "note": "nakrájená na kostičky",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2.7,
+      "unit": "ks",
+      "note": "čerstvá (zdroj mražená celá vejce)",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 135,
+        "unit": "g"
+      },
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 9,
+      "unit": "g",
+      "note": "nakrájená",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "ml",
+      "note": "1 lžička na vymazání pánve místo cooking spray",
+      "scaling": "vessel",
+      "group": "Omeleta"
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 200,
+      "unit": "g",
+      "note": "8 plátků (zdroj 200 plátků na 100 porcí, ≈ 25 g na plátek)",
+      "group": "Sendvič"
+    },
+    {
+      "ingredientId": "salat-ledovy",
+      "amount": 75,
+      "unit": "g",
+      "note": "hlávkový, nakrájený na proužky",
+      "group": "Sendvič"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Šunku, vejce, cibuli a papriku dej do mísy a dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Pánev lehce vymaž olejem. Nalij na ni 1/3 hrnku směsi a opékej, dokud obě strany lehce nezhnědnou. Postup opakuj, dokud nejsou hotové 4 omelety.",
+      "minutes": 10
+    },
+    {
+      "text": "Každou omeletu polož na plátek chleba, navrch dej salát a druhý plátek chleba.",
+      "minutes": 3
+    },
+    {
+      "text": "Každý sendvič přepůl a podávej teplý.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Přepočteno z velkokuchyňské dávky (100 porcí, 1 sendvič na porci) na 4 sendviče. Mražená celá vejce nahrazena čerstvými, rozmrazování odpadá. Sprej na pánev nahrazen 1 lžičkou řepkového oleje. Chléb uveden v gramech (katalog nemá plátky); zdroj 200 plátků na 100 porcí = 8 plátků pro 4 sendviče. Karta uvádí 245 kcal na sendvič. CCP pokyny (vnitřní teplota 145 °F, držení 140 °F) vynechány; doporučení: omeletu nech v pánvi, dokud střed není pevný.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1267,
+    "code": "N 018 00",
+    "titleOriginal": "WESTERN SANDWICH (DENVER)"
+  },
+  "verified": true,
+  "quote": "Pour 1/3 cup mixture on lightly sprayed griddle."
+}

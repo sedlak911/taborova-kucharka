@@ -1,0 +1,65 @@
+{
+  "id": "kava-varena-v-kotli",
+  "title": "Káva vařená v kotli (sáček v ruční urně)",
+  "titleOriginal": "Coffee (Manual Urn)",
+  "chapter": "napoje",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1020,
+      "unit": "ml",
+      "note": "vaří se v kotli; 6¾ gal na 100 porcí, z toho asi 0,5 gal zůstane v kávovině"
+    },
+    {
+      "ingredientId": "kava-mleta",
+      "amount": 35,
+      "unit": "g",
+      "note": "pražená mletá káva, 1⅞ lb na 100 porcí"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu v kotli zahřej do varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím mletou kávu rovnoměrně nasyp do plátěného sáčku nebo papírového filtru a zavěs ji nad kotel.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Jakmile voda bouřlivě vře, vroucí vodu přelévej přes kávu 3 až 4 minuty.",
+      "minutes": 4
+    },
+    {
+      "text": "Sáček nebo filtr s kávou vyjmi a vyhoď."
+    },
+    {
+      "text": "Třetinu kávy přelij zpět do kotle.",
+      "minutes": 1
+    }
+  ],
+  "modernNote": "Zdroj: Coffee (Manual Urn), AFRS C 005 01, 100 porcí po 1 šálku (8 oz). Urna s ručním sáčkem nahrazena kotlem a plátěným sáčkem nebo filtrem; v kotli nejde ovládat sprcha vody, proto vroucí voda přelévá ručně. Kolem 0,5 gal vody zůstane v kávovině, takže z 1020 ml vody vznikne asi 950 ml nápoje (4 šálky). Poměr je slabší než u překapávané kávy (`prekapavana-kava`, 55 g na 950 ml), protože karta počítá s 1⅞ lb kávy na 6¾ gal vody. Vynechány: pokyn doplňovat vodu po 1 gal podle ukazatele (u kotle se naplní celé množství hned), oplachování sáčku a uložení ve studené vodě. Karta uvádí 9 kcal a 2 g sacharidů na porci; přepočet dává prakticky 0 kcal, protože káva je bez cukru a mléka a surovina nemá sacharidy. Validátor proto hlásí 0 kcal jako mimo rozsah; stejně je to u `prekapavana-kava`, nápoj z kávy a vody je bez energie. Nevařit kávu znovu, jinak hořkne. NÁLEZ / NEJISTOTA: karta v sloupci Weight uvádí 13¾ oz kávy, ale poznámka pod kartou říká 1⅞ lb a sloupec Measure 2 qt 1 cup (≈ 2¼ qt) je s touto hodnotou v souladu. Při 13¾ oz by vyšlo jen 1,4 g kávy na 100 ml, což je nereálně slabé, proto je použita hodnota z poznámky. Doporučuji ověřit proti tisku karty.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 100,
+    "code": "C 005 01",
+    "titleOriginal": "COFFEE (MANUAL URN)"
+  },
+  "verified": true
+}

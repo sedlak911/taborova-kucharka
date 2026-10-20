@@ -1,0 +1,31 @@
+{
+  "id": "varena-vejce",
+  "title": "Vařená vejce natvrdo a naměkko",
+  "titleOriginal": "Cooked Eggs",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "celá, čerstvá; 2 ks na porci" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření vajec, aby byla ponořená; slije se; domácí hodnota (zdroj neuvádí množství vody)", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Do hrnce nalij horkou vodu, vejce vlož do sítka nebo košíku a zalij je tak, aby byla ponořená.", "minutes": 2 },
+    { "text": "Přiveď k varu, zmenši plamen a vař natvrdo 15 minut. Vejce nesmí prudce vřít.", "minutes": 23 },
+    { "text": "Vejce vyndej z vody a podávej hned. Na saláty je ihned ponoř do studené tekoucí vody, případně přidej led, aby vychladla." }
+  ],
+  "modernNote": "Přepočteno ze 100 porcí (22 lb = 200 vajec) na 4 porce = 8 vajec, tj. 2 na porci (zdroj Portion 2 Each). Karta má dvě varianty téhož postupu: natvrdo (simmer 10 to 15 minutes; použita horní mez 15) a naměkko (Cook individual portions, simmer 4 minutes). Recept je psán na natvrdo; na naměkko ho uvař stejně (stejných 8 vajec, stejná voda), jen po přivedení k varu vař 4 minuty místo 15 (celkem asi 14 minut). Vejce natvrdo a naměkko se nevaří ze stejných vajec, takže chceš-li obojí, přidej vejce navíc a druhý hrnec. Zdrojová sekce bez času u přípravy, timeMinutes 25 odpovídá variantě natvrdo. Vejce vyndej z lednice 30 minut před vařením (poznámka 1 zdroje). Pro saláty ihned zchlaď studenou tekoucí vodou (poznámka 3). Kroky CCP (155 °F, chlazení na 41 °F) a vaření v parním kotli vynechány.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 335,
+    "code": "F 004 00",
+    "titleOriginal": "COOKED EGGS"
+  },
+  "verified": true,
+  "quote": "Bring to a boil; reduce heat; simmer 10 to 15 minutes. DO NOT BOIL."
+}

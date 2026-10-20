@@ -1,0 +1,35 @@
+{
+  "id": "nemecky-zelny-salat-s-octem",
+  "title": "Zelný salát s octem a olejem po německu",
+  "titleOriginal": "German Cole Slaw",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": [],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "bile-zeli", "amount": 220, "unit": "g", "note": "nakrájené na tenké proužky" },
+    { "ingredientId": "cibule", "amount": 14, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "paprika-zelena", "amount": 14, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 14, "unit": "g", "note": "nakrájený nadrobno" },
+    { "ingredientId": "ocet", "amount": 30, "unit": "ml", "note": "ocet kvasný lihový (zdroj: distilled vinegar)", "scaling": "linear" },
+    { "ingredientId": "repkovy-olej", "amount": 20, "unit": "ml", "note": "zálivka; zdroj: salad oil nebo olivový olej", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 4, "unit": "g", "note": "zálivka" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zálivka" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g", "note": "zálivka" },
+    { "ingredientId": "paprika-cervena", "amount": 5, "unit": "g", "note": "pečená paprika na ozdobu (místo konzervované pimiento, zdroj 4,8 g)", "original": { "ingredientId": "pimentka-konzervovana", "amount": 5, "unit": "g" } }
+  ],
+  "steps": [
+    { "text": "Cibuli, papriku a řapíkatý celer nakrájej nadrobno, zelí na tenké proužky.", "minutes": 10 },
+    { "text": "Zeleninu smíchej v míse a lehce promíchej.", "minutes": 2 },
+    { "text": "Smíchej ocet, olej, cukr, sůl a pepř, zalij zeleninu a dobře promíchej.", "minutes": 3 },
+    { "text": "Ozdob nakrájenou pečenou paprikou." },
+    { "text": "Přikryj a dej do chladu až do podávání." }
+  ],
+  "modernNote": "Německý zelný salát bez majonézy: zálivka je ocet, olej, cukr a sůl s pepřem, takže se hodí jako studená příloha. Zdroj: German Cole Slaw, 100 porcí, porce ½ cupu, 60 kcal. Konzervované pimiento (scezené, 4-1/4 oz → 5 g na 4 porce) je nahrazeno pečenou červenou paprikou ve stejné hmotnosti (jako u Lyonnaise Rice); původní pimiento je v `original`. Olej a ocet jsou v zálivce, která zůstává v jídle, proto škálují lineárně. Zdroj chladí „until ready to serve“ bez udání doby, proto není lednice v equipment a tag pripravit-predem se nepřidává; chlazení je jen krátké čekání před podáváním. Zelí, cibuli, papriku a celer je třeba před smícháním nakrájet; zdroj to uvádí v názvech surovin (CHOPPED, SHREDDED).",
+  "source": { "book": "afrs-2003", "page": 1150, "code": "M 027 00", "titleOriginal": "GERMAN COLE SLAW" },
+  "verified": true
+}

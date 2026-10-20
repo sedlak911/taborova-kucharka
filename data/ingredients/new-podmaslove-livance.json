@@ -1,0 +1,30 @@
+[
+  {
+    "id": "podmasli-susene",
+    "name": "Podmáslí sušené",
+    "aliases": [
+      "sušené podmáslí",
+      "podmáslí v prášku",
+      "buttermilk powder",
+      "dry buttermilk"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 387,
+      "protein": 34.3,
+      "carbs": 49,
+      "fat": 5.78,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171274 (Milk, buttermilk, dried)",
+      "refuse": "bez odpadu"
+    }
+  }
+]

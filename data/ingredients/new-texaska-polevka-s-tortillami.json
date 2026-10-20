@@ -1,0 +1,31 @@
+[
+  {
+    "id": "tortilla-kukuricna",
+    "name": "Tortilla kukuřičná",
+    "aliases": [
+      "kukuřičná tortilla",
+      "kukuřičné tortilly",
+      "corn tortilla",
+      "corn tortillas"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 218,
+      "protein": 5.7,
+      "carbs": 44.64,
+      "fat": 2.85,
+      "fiber": 6.3
+    },
+    "units": {
+      "ks": 26
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175036 (Tortillas, ready-to-bake or -fry, corn)",
+      "units": "USDA SR Legacy fdc:173241: tortilla, medium (approx 6\" dia) = 26 g",
+      "refuse": "bez odpadu"
+    }
+  }
+]

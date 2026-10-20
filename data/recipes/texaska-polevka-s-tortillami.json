@@ -1,0 +1,38 @@
+{
+  "id": "texaska-polevka-s-tortillami",
+  "title": "Texaská polévka s tortillami, kukuřicí a fazolemi",
+  "titleOriginal": "Texas Tortilla Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "tortilla-kukuricna", "amount": 50, "unit": "g", "note": "kukuřičné tortilly 6 palců (asi 2 ks); nakrájené na proužky, opečené (část na ozdobu)" },
+    { "ingredientId": "kureci-vyvar", "amount": 450, "unit": "ml", "note": "instantní vývar podle návodu na obalu" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 500, "unit": "g", "note": "kostky z konzervy, s nálevem" },
+    { "ingredientId": "jalapeno", "amount": 5, "unit": "g", "note": "nakrájená, z konzervy (v katalogu jen čerstvé)" },
+    { "ingredientId": "cibule", "amount": 6, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "kmin-mlety", "amount": 3, "unit": "g" },
+    { "ingredientId": "koriandr-cerstvy", "amount": 2, "unit": "g", "note": "sušený (v katalogu jen čerstvý)" },
+    { "ingredientId": "cesnek-prasek", "amount": 1, "unit": "g", "note": "sušený mletý" },
+    { "ingredientId": "kukurice-konzervovana", "amount": 80, "unit": "g", "note": "zrnková, scezená" },
+    { "ingredientId": "fazole-cervene-v-konzerve", "amount": 80, "unit": "g", "note": "ledvinkové, scezené" },
+    { "ingredientId": "cedar", "amount": 25, "unit": "g", "note": "strouhaný, na ozdobu" }
+  ],
+  "steps": [
+    { "text": "Kukuřičné tortilly nakrájej na proužky ½ × 3 palce (1,3 × 7,5 cm).", "minutes": 5 },
+    { "text": "Proužky na suché pánvi opékej za častého míchání 6–8 minut, dokud nejsou křupavé a lehce zlatavé. Odlož stranou na ozdobu.", "minutes": 8 },
+    { "text": "Mezitím připrav vývar podle návodu na obalu.", "minutes": 10, "parallel": true },
+    { "text": "Do vývaru přidej rajčata, jalapeños, cibuli, kmín, koriandr a česnek. Duš 20 minut.", "minutes": 20 },
+    { "text": "Kukuřici a fazole sceď, opláchni a znovu scedí. Přidej je do polévky, zamíchej a přiveď k varu. Duš 10 minut, dokud fazole nezměknou. Občas zamíchej.", "minutes": 12 },
+    { "text": "Každou porci posyp 1/4 hrnku proužků tortilly a 1 polévkovou lžící strouhaného sýra." }
+  ],
+  "modernNote": "Originál opéká tortilly 6–8 minut v konvekční troubě na 350 °F; doma je opékáme na suché pánvi, takže recept troubu nepotřebuje (tag tabor). Vývar je instantní podle návodu na obalu (3 gal na 100 porcí). Jalapeños a kukuřice/fazole jsou z konzerv podle zdroje; katalog má jen čerstvé jalapeños, takže je to upřesněno v poznámce. Koriandr je v zdroji sušený (CILANTRO,DRY), v katalogu jen čerstvý. Tortilly jsou kukuřičné (surovina tortilla-kukuricna), ne taco skořepky. Karta u tortill odkazuje na krok 4, ale používá se až v ozdobě (krok 5). Kroky a časy jsou ze zdroje. Kalorie: karta 135 kcal na porci, přepočet 122 kcal (−9,6 %); množství se kvůli kcal neupravovalo.",
+  "source": { "book": "afrs-2003", "page": 1449, "code": "P 025 00", "titleOriginal": "TEXAS TORTILLA SOUP" },
+  "verified": true,
+  "quote": "Garnish each portion with 1/4 cup tortilla strips and 1 tablespoon cheese."
+}
