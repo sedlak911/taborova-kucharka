@@ -1,0 +1,35 @@
+{
+  "id": "moravsky-vrabec",
+  "title": "Moravský vrabec",
+  "titleOriginal": "Moravský vrabec",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 115,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "bucek-veprovy", "amount": 300, "unit": "g", "note": "s kostí (zdroj „s k.“)" },
+    { "ingredientId": "veprova-plec", "amount": 300, "unit": "g", "note": "bez kosti; nebo vepřový ořez" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "z 200 g hrubé × 0,9" },
+    { "ingredientId": "cesnek", "amount": 11, "unit": "g", "note": "z 30 g hrubé × 0,87" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "note": "část do pečení, zbytek do šťávy" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "na zaprášení šťávy" }
+  ],
+  "steps": [
+    { "text": "Vepřový bůček a plec opláchni ve vlažné vodě a nakrájej na stejnoměrné kousky, 2 kousky na porci.", "minutes": 10 },
+    { "text": "Rozehřej troubu na 200 °C. Maso vlož na pekáč, osol, okmínuj, přidej oloupanou, nahrubo nakrájenou cibuli a drobně krájený česnek.", "minutes": 8 },
+    { "text": "Přilij část vody a peč v horké troubě do měkka a dozlatova. Maso během pečení obracej, přelévej vypečenou šťávou a podle potřeby podlévej teplou vodou.", "minutes": 75 },
+    { "text": "Maso vyndej z pekáče." },
+    { "text": "Šťávu vyduš na tuk, zaprášej moukou, zamíchej, zalij zbylou vodou a za občasného promíchání dobře provař.", "minutes": 10 },
+    { "text": "Provařenou šťávu procedi přes hustý cedník zpět na maso a společně krátce podus.", "minutes": 5 },
+    { "text": "Podávej po 2 kouscích masa (po 1 od každého druhu) přelitých šťávou." }
+  ],
+  "modernNote": "Kniha pro 10 porcí; porce 150 g hotového jídla, z toho 90 g masa (2 kousky). Jídelní norma masa (cca 90 g na porci) se nenavyšuje; jako hlavní jídlo počítej 120–150 g masa na osobu. Sůl 14 g odpovídá zdroji (30 g na 10 porcí); je to hodně, doporučuji začít polovinou a dosolit. Doba pečení zdroj neuvádí – 75 minut je odhad. Doporučené přílohy: brambory, houskové nebo bramborové knedlíky, špenát nebo dušené zelí.",
+  "source": { "book": "receptury-1983", "page": 193, "code": "13004", "titleOriginal": "MORAVSKÝ VRABEC" },
+  "verified": true
+}

@@ -868,6 +868,37 @@
     }
   },
   {
+    "id": "brynza",
+    "name": "Brynza",
+    "aliases": [
+      "ovčí brynza",
+      "slovenská brynza",
+      "bryndza",
+      "sheep cheese"
+    ],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 265,
+      "protein": 14.21,
+      "carbs": 3.88,
+      "fat": 21.49,
+      "fiber": 0
+    },
+    "units": {
+      "lzice": 9,
+      "hrnek": 158
+    },
+    "ediblePortion": 1,
+    "allergens": [
+      "mleko"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173420 (Cheese, feta); náhrada: USDA nemá ovčí brynzu, feta je nejbližší solený ovčí sýr, brynza bývá o něco tučnější a slanější",
+      "units": "jako feta: USDA cup crumbled 150 g × 250/237 = 158 g, lžíce odvozeno"
+    }
+  },
+  {
     "id": "brzlik",
     "name": "Brzlík (telecí)",
     "aliases": [
@@ -4726,6 +4757,57 @@
       "nutrition": "USDA SR Legacy fdc:172238 (Capers, canned)",
       "units": "USDA fdc:172238 portions",
       "refuse": "USDA fdc:172238 refusePct 0"
+    }
+  },
+  {
+    "id": "kapr",
+    "name": "Kapr",
+    "aliases": [
+      "kapr obecný",
+      "kapří maso",
+      "carp"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 127,
+      "protein": 17.83,
+      "carbs": 0,
+      "fat": 5.6,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171952 (Fish, carp, raw); hmotnost v receptech = očištěné porce (čistá hmotnost)"
+    }
+  },
+  {
+    "id": "kapusta",
+    "name": "Kapusta hlávková (savojská)",
+    "aliases": [
+      "kapusta",
+      "savojské zelí",
+      "kapusta hlávková",
+      "savoy cabbage"
+    ],
+    "category": "zelenina",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 27,
+      "protein": 2,
+      "carbs": 6.1,
+      "fat": 0.1,
+      "fiber": 3.1
+    },
+    "units": {},
+    "ediblePortion": 0.8,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170388 (Cabbage, savoy, raw); odpad 20 % (vnější listy, košťál)"
     }
   },
   {
@@ -11522,6 +11604,35 @@
     }
   },
   {
+    "id": "tresne",
+    "name": "Třešně",
+    "aliases": [
+      "třešně čerstvé",
+      "višně a třešně sladké",
+      "sweet cherries"
+    ],
+    "category": "ovoce",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 63,
+      "protein": 1.06,
+      "carbs": 16.01,
+      "fat": 0.2,
+      "fiber": 2.1
+    },
+    "units": {
+      "ks": 8,
+      "hrnek": 150
+    },
+    "ediblePortion": 0.92,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:171719 (Cherries, sweet, raw)",
+      "units": "USDA: hrnek s peckami 138 g × 250/237 = 146, zaokrouhleno na 150 g; 1 třešeň 8,2 g",
+      "refuse": "USDA odpad 8 % (pecky a stopky); receptura 1983 udává 5 % (300 g hrubá, 285 g čistá)"
+    }
+  },
+  {
     "id": "tresnova-plnka",
     "name": "Třešňová náplň (hotová)",
     "aliases": [
@@ -12103,6 +12214,32 @@
     }
   },
   {
+    "id": "veprova-kyta",
+    "name": "Vepřová kýta",
+    "aliases": [
+      "kýta vepřová",
+      "vepřové stehno",
+      "vepřový řízek (maso)",
+      "pork leg"
+    ],
+    "category": "maso",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 182,
+      "protein": 20.27,
+      "carbs": 0,
+      "fat": 10.63,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167814 (Pork, fresh, leg (ham), rump half, separable lean and fat, raw)",
+      "refuse": "bez kosti a kůže, kuchyňsky upravená (tak ji udává receptura); s kostmi USDA odpad 17 %"
+    }
+  },
+  {
     "id": "veprova-plec",
     "name": "Vepřová plec",
     "aliases": [
@@ -12286,6 +12423,32 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:173954 (Cherries, sour, red, raw)",
       "refuse": "odpad 10 % (pecky a stopky)"
+    }
+  },
+  {
+    "id": "visnovy-sirup",
+    "name": "Višňový sirup",
+    "aliases": [
+      "sirup višňový",
+      "ovocný sirup (koncentrát)",
+      "fruit syrup"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 261,
+      "protein": 0,
+      "carbs": 65.1,
+      "fat": 0.02,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.3,
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167957 (Syrup, fruit flavored); koncentrovaný sirup k ředění, hodnota přibližná",
+      "units": "hustota 1,3 g/ml odhad pro hustý sirup"
     }
   },
   {

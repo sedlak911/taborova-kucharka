@@ -1,0 +1,39 @@
+{
+  "id": "livance",
+  "title": "Lívance",
+  "titleOriginal": "Lívance",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "drozdi-cerstve", "amount": 20, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "scaling": "linear", "note": "krupicový; trochu do kvásku, zbytek do těsta" },
+    { "ingredientId": "mleko-polotucne", "amount": 520, "unit": "ml", "note": "vlažné; část do kvásku" },
+    { "ingredientId": "hladka-mouka", "amount": 400, "unit": "g", "note": "prosátá; část do kvásku" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "note": "zdroj 3 ks na 10 porcí; rozšlehané" },
+    { "ingredientId": "citronova-kura", "amount": 9, "unit": "g", "note": "z pečlivě opláchnutého citronu, jemně nastrouhaná" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 100, "unit": "g", "scaling": "linear", "note": "rozpuštěné, do těsta a na vymaštění důlků", "original": { "ingredientId": "margarin", "amount": 100, "unit": "g" } },
+    { "ingredientId": "cukr-moucka", "amount": 40, "unit": "g", "scaling": "linear", "note": "na obalení" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "na obalení" },
+    { "ingredientId": "dzem", "amount": 100, "unit": "g", "note": "marmeláda na potření" },
+    { "ingredientId": "tvaroh", "amount": 60, "unit": "g", "note": "tvrdý, strouhaný, na posypání" }
+  ],
+  "steps": [
+    { "text": "Droždí rozmíchej s lžičkou cukru a trochou vlažného mléka, přidej trochu prosáté mouky a promíchej do řídkého těstíčka (kvásku).", "minutes": 5 },
+    { "text": "Kvásek nech na teple vykynout.", "minutes": 20 },
+    { "text": "Do kvásku přidej zbylé vlažné mléko, rozšlehané vejce, kůru z citronu, sůl, zbylý cukr, rozpuštěné máslo (trochu si nech na vymaštění) a zbylou prosátou mouku. Směs pečlivě promíchej.", "minutes": 8 },
+    { "text": "Těsto prošlehej a nech opět částečně vykynout.", "minutes": 30 },
+    { "text": "Důlky lívanečníku vymaž, nalij do nich těsto a lívance peč po obou stranách do růžova. Peč po dávkách.", "minutes": 30 },
+    { "text": "Část upečených lívanečků obal ve směsi moučkového cukru se skořicí, část tence potři marmeládou a posypej strouhaným tvrdým tvarohem.", "minutes": 5 }
+  ],
+  "modernNote": "Porce ze zdroje je 240 g (9 lívanců), na 4 porce vychází asi 36 lívanců. Margarín nahrazen máslem. Zdroj uvádí cukr jen jako \"trochu\" do kvásku, rozdělení cukru, přidání margarínu do těsta a vymaštění důlků je doplněno odhadem; doby kynutí a pečení zdroj neuvádí. Moučkový cukr, skořice, marmeláda a tvaroh jsou na polovinu porce každý: obal v cukru a skořici a potření marmeládou s tvarohem můžeš dělit libovolně. Tvrdý strouhaný tvaroh není v katalogu, použit je běžný tvaroh; věrnější je strouhaný tvrdý tvaroh z obchodu nebo ostrý strouhaný sýr. Moderní tip: lívanečník je pánev s důlky, bez něj upeč menší placičky na pánvi.",
+  "source": { "book": "receptury-1983", "page": 551, "code": "19609", "titleOriginal": "LÍVANCE" },
+  "verified": true,
+  "quote": "Lívanečky jsou vláčné, pórovité a propečené."
+}

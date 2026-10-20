@@ -1,0 +1,32 @@
+{
+  "id": "smazeny-veprovy-rizek",
+  "title": "Smažený vepřový řízek",
+  "titleOriginal": "Smažený vepřový řízek (Minutka)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 35,
+  "difficulty": 2,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "veprova-kyta", "amount": 400, "unit": "g", "note": "vepřová kýta bez kosti, kuchyňsky upravená", "group": "Řízky" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "group": "Řízky" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "prosátá", "scaling": "linear", "group": "Obalení" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks na 10 porcí; rozšlehej 1 vejce a použij 80 %", "scaling": "linear", "group": "Obalení" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml", "note": "do vajec", "group": "Obalení" },
+    { "ingredientId": "strouhanka", "amount": 80, "unit": "g", "note": "strouhaná houska", "scaling": "linear", "group": "Obalení" },
+    { "ingredientId": "repkovy-olej", "amount": 145, "unit": "ml", "note": "na smažení v pánvi, horký", "scaling": "vessel", "group": "Smažení" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý (odhad)", "scaling": "fat", "group": "Smažení" }
+  ],
+  "steps": [
+    { "text": "Vepřovou kýtu nakrájej přes vlákno na řízky, mírně je naklepej, na okrajích nařízni a osol.", "minutes": 10 },
+    { "text": "Do vajec rozšlehej mléko. Řízky obal v hladké mouce, ve vejcích a ve strouhance.", "minutes": 8 },
+    { "text": "Na pánvi rozehřej olej a řízky smaž po obou stranách dozlatova.", "minutes": 15 },
+    { "text": "Usmažené řízky ihned podávej." }
+  ],
+  "modernNote": "Přepočet z receptury pro 10 porcí po 120 g (v kuchyňské úpravě 100 g masa na porci). Zdroj dává 30 g soli na 1 kg masa (část zůstane na prkénku a v obalu); kdo solí méně, stačí asi 6 g. Olej ze zdroje (250 g) se z velké části vylije, nasákne jen část (odhad 30 ml). Jako hlavní jídlo počítej 120–150 g masa na osobu. Vhodné přílohy: vařené brambory, bramborová kaše nebo bramborový salát, zeleninové saláty nebo kompoty.",
+  "source": { "book": "receptury-1983", "page": 224, "code": "13202", "titleOriginal": "SMAŽENÝ VEPŘOVÝ ŘÍZEK (MINUTKA)" },
+  "verified": true
+}

@@ -1,0 +1,40 @@
+{
+  "id": "porkova-polevka-s-vejcem",
+  "title": "Pórková polévka s vejcem",
+  "titleOriginal": "Polévka pórková s vejcem",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce", "soja", "celer"],
+  "ingredients": [
+    { "ingredientId": "porek", "amount": 18, "unit": "g", "note": "opláchnutý, drobněji nakrájený; z 100 g hrubých × 0,4 × 0,44 (katalog)" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1320, "unit": "ml", "note": "třetina na pórek, zbytek vlažný na zásmažku; zdroj vývar B (receptura 10101)" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "na zásmažku", "original": { "ingredientId": "margarin", "amount": 45, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 80, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g", "note": "mletý" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks (40 g) na 10 porcí; rozmíchej celé vejce a použij asi dvě pětiny" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření (typ Maggi)" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti" }
+  ],
+  "steps": [
+    { "text": "Pórek opláchni a drobněji nakrájej.", "minutes": 5 },
+    { "text": "Pórek zalij třetinou vývaru a uvař téměř do měkka.", "minutes": 15 },
+    { "text": "Mezitím z másla a mouky připrav světlou zásmažku.", "minutes": 5, "parallel": true },
+    { "text": "Zásmažku za stálého prošlehávání metlou zalij zbylým vlažným vývarem, přiveď k varu, přidej odvar z pórku a zvolna vař nejméně půl hodiny za občasného prošlehání.", "minutes": 40 },
+    { "text": "Ke konci varu přidej mletý pepř, krátce povař a polévku procedi hustým cedníkem.", "minutes": 5 },
+    { "text": "Do procezené polévky vlož uvařený pórek, vlij rozmíchané vejce, promíchej a nech je srazit.", "minutes": 3 },
+    { "text": "Polévku dochuť polévkovým kořením a případně dosol." }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (3,35 kg hotové polévky, porce 0,33 l) na 4 porce, faktor 0,4 (k = 4/10). Pór: zdroj 100 g hrubých, odpad 20 g, čistých 80 g; řádek je 18 g = 100 × 0,4 × 0,44 (jedlá část z katalogu), podle čistého sloupce zdroje by to bylo 32 g. Vejce: zdroj 1 ks (40 g) na 10 porcí, tedy 0,4 ks na 4 porce; dej raději celé rozšlehané vejce a polévku zahustí o něco víc. Máslo nahrazuje margarín ze zdroje (původní množství 45 g). Hovězí vývar (zdroj vývar B, receptura 10101) zůstává, lze ho nahradit zeleninovým. Sůl a polévkové koření jsou přepočteny jako koření (třída seasoning), dochuť podle chuti. Doba vaření pórku není ve zdroji uvedena (odhad 15 minut), zásmažka se vaří nejméně 1/2 hodiny. Doporučení: polévka je bezmasá až na vývar; jako hlavní jídlo počítej porci 0,5 l.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 30,
+    "code": "10119",
+    "titleOriginal": "POLÉVKA PÓRKOVÁ S VEJCEM"
+  },
+  "verified": true
+}

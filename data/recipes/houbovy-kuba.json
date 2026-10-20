@@ -1,0 +1,42 @@
+{
+  "id": "houbovy-kuba",
+  "title": "Houbový kuba",
+  "titleOriginal": "Houbový kuba",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer", "lepek"],
+  "ingredients": [
+    { "ingredientId": "kroupy", "amount": 320, "unit": "g", "note": "suché, velké; ve zdroji 800 g hrubé = 2 400 g uvařených" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé × 0,9" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "na uvaření hub" },
+    { "ingredientId": "houby-susene", "amount": 40, "unit": "g" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cesnek", "amount": 11, "unit": "g", "note": "třený; z 30 g hrubé × 0,87" },
+    {
+      "ingredientId": "zeleninovy-vyvar",
+      "amount": 80,
+      "unit": "ml",
+      "note": "podle potřeby",
+      "original": { "ingredientId": "hovezi-vyvar", "amount": 80, "unit": "ml" }
+    }
+  ],
+  "steps": [
+    { "text": "Kroupy propláchni, vař do měkka, sceď a propláchni studenou vodou.", "minutes": 50 },
+    { "text": "Mezitím zalij sušené houby vodou a uvař je do měkka. Vývar z hub si ponech.", "minutes": 30, "parallel": true },
+    { "text": "Mezitím oloupej cibuli a nakrájej ji nadrobno.", "minutes": 5, "parallel": true },
+    { "text": "Cibuli osmahni na sádle do růžova.", "minutes": 8, "parallel": true },
+    { "text": "Uvařené houby drobně rozsekej.", "minutes": 5 },
+    { "text": "Do pekáče nasypej kroupy, přidej houby, vývar z hub a cibuli se sádlem. Osol, opepři, přidej třený česnek a rozmíchej. Podle potřeby přilij vývar.", "minutes": 3 },
+    { "text": "Pekáč vlož do trouby předehřáté na 200 °C a nech směs zapéct dozlatova.", "minutes": 30 }
+  ],
+  "modernNote": "Porce 300 g (zdroj: 3 000 g hotového pokrmu na 10 porcí). Kroupy ve zdroji: 800 g suchých ze 10 porcí dá 2 400 g uvařených, tedy 320 g suchých na 4 porce. Vývar A (z hovězích kostí) je nahrazen zeleninovým vývarem, aby pokrm zůstal bez masa; původní je v přepínači historických surovin. Sádlo (90 g) a sůl (14 g) jsou věrné zdroji (hromadná norma); sůl dávej po chuti. Zdroj nezná teplotu ani dobu zapékání, 200 °C a 30 minut je odhad. Vody na uvaření hub je ve zdroji jen 40 ml na 40 g sušených hub; nalij ji, kolik je potřeba, aby houby změkly, a vývar z hub použij do směsi. Tag pripravit-predem ze shortlistu odpadá, nic se nenamáčí přes noc. Check:recipe hlásí bilanci 158 g na porci proti 300 g zdroje: řádky jsou v surovém stavu a kroupy při vaření ztrojnásobí hmotnost (320 g suchých = 960 g uvařených), takže hotová porce má zdrojových 300 g. Sůl 3,5 g na porci je nad doporučeným rozsahem, ale odpovídá zdroji; dej klidně jen polovinu. Jako hlavní jídlo vyjde 300 g porce; podávej s kyselou okurkou nebo zeleninovým salátem.",
+  "source": { "book": "receptury-1983", "page": 496, "code": "19413", "titleOriginal": "HOUBOVÝ KUBA" },
+  "verified": true
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kynute-knedliky-s-povidly",
+  "title": "Kynuté knedlíky s povidly",
+  "titleOriginal": "Kynuté knedlíky s povidly",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 140,
+  "difficulty": 3,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "drozdi-cerstve", "amount": 12, "unit": "g", "scaling": "linear", "note": "čerstvé" },
+    { "ingredientId": "cukr-krystal", "amount": 16, "unit": "g", "note": "krupice, do kvásku" },
+    { "ingredientId": "mleko-polotucne", "amount": 260, "unit": "ml", "note": "vlažné" },
+    { "ingredientId": "hruba-mouka", "amount": 560, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks (40 g)" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "do těsta" },
+    { "ingredientId": "povidla", "amount": 280, "unit": "g", "note": "švestková" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "scaling": "vessel", "note": "na vaření knedlíků, slije se" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "cukr-moucka", "amount": 100, "unit": "g", "note": "na posypání" },
+    { "ingredientId": "skorice-mleta", "amount": 5, "unit": "g", "note": "na posypání" },
+    { "ingredientId": "maslo", "amount": 110, "unit": "g", "note": "rozpuštěné, na přelití" }
+  ],
+  "steps": [
+    { "text": "Droždí rozmíchej s cukrem krupicí a trochou vlažného mléka. Přidej trochu prosáté mouky a rozmíchej na řídké těstíčko. Nech na teple vykynout.", "minutes": 15 },
+    { "text": "Zbylou prosátou mouku dej do mísy (trochu odlož na vyválení). Přidej vejce, sůl, vykynutý kvásek a zbylé vlažné mléko. Těsto vypracuj do hladka, aby nelepilo.", "minutes": 10 },
+    { "text": "Těsto nech na teple vykynout.", "minutes": 45 },
+    { "text": "Vykynuté těsto rozválej na plát silný asi 10–15 mm a nakrájej na čtverce.", "minutes": 15 },
+    { "text": "Na každý čtverec nanes rozmíchaná povidla a těsto pečlivě zabal do knedlíků. Nech je kynout.", "minutes": 20 },
+    { "text": "Mezitím přiveď k varu osolenou vodu ve velkém hrnci.", "minutes": 15, "parallel": true },
+    { "text": "Vykynuté knedlíky vkládej do vařící vody. Vař 10–12 minut a během vaření je jednou obrať.", "minutes": 12 },
+    { "text": "Uvařené knedlíky ihned po vyjmutí propíchej špejlí nebo vidličkou, aby vyprchala pára a nesrazily se.", "minutes": 2 },
+    { "text": "Knedlíky posyp směsí moučkového cukru se skořicí a přelij rozpuštěným máslem.", "minutes": 3 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (porce 330 g, 6 knedlíků) na 4 porce, faktor 0,4 z hrubé váhy. Vejce: zdroj 1 kus (40 g), tedy 0,4 ks; těsto je velmi chudé na vejce, zdroj to tak uvádí. Droždí: zdroj 30 g čerstvého, v těstě počítáno lineárně (12 g). Hrubá mouka je v katalogu hruba-mouka (v domácnosti polohrubá). Voda na vaření a sůl do ní jsou domácí hodnoty (zdroj: voda podle potřeby, mírně osolená), slijí se. Časy kynutí (15, 45 a 20 minut) zdroj neuvádí, jsou odhad z praxe. Hotový výrobek ve zdroji 3300 g z 3390 g (ztráty 90 g).",
+  "source": { "book": "receptury-1983", "page": 554, "code": "19612", "titleOriginal": "KYNUTÉ KNEDLÍKY S POVIDLY" },
+  "verified": true
+}

@@ -1,0 +1,41 @@
+{
+  "id": "spekove-knedliky",
+  "title": "Špekové knedlíky s uzeným",
+  "titleOriginal": "Knedlíky se slaninou (špekem)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "spek", "amount": 185, "unit": "g", "note": "na kostky; zdroj půl libry", "group": "Těsto" },
+    { "ingredientId": "zemle-bila", "amount": 135, "unit": "g", "note": "4 žemle: 2 usmažené se špekem, 2 máčené ve smetaně; odhad 50 g/ks", "group": "Těsto" },
+    { "ingredientId": "vejce", "amount": 2.65, "unit": "ks", "note": "celá", "group": "Těsto" },
+    { "ingredientId": "zloutek", "amount": 2.65, "unit": "ks", "group": "Těsto" },
+    { "ingredientId": "smetana-na-vareni", "amount": 65, "unit": "ml", "note": "na máčení žemlí; zdroj neuvádí množství, odhad", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "zdroj: „tolik, kolik je zapotřebí“; odhad, přidávej po troškách", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "uzene-maso", "amount": 185, "unit": "g", "note": "libové, nasekané; zdroj půl libry", "group": "Náplň" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření knedlíků, slije se; domácí hodnota; lze použít vývar z uzeného", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "do vody na vaření, slije se", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "strouhanka", "amount": 20, "unit": "g", "note": "ze zdroje „strouhaná žemličková kůrka“; odhad", "group": "Podávání" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpálené na polití; zdroj neuvádí množství, odhad", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Špek a 2 žemle nakrájej na kostky a na pánvi osmaž dozlatova.", "minutes": 15 },
+    { "text": "Přendej na mísu a nech vychladnout.", "minutes": 15 },
+    { "text": "Mezitím nadrobno nasekej uzené libové maso.", "minutes": 5, "parallel": true },
+    { "text": "Mezitím nakrájej zbylé 2 žemle na kousky a namoč je do smetany.", "minutes": 5, "parallel": true },
+    { "text": "Do vychladlého špeku se žemlí vmíchej vejce, žloutky a vymáčené žemle. Osol, přidej mouku po troškách a promíchej na těsto, které se dá tvarovat.", "minutes": 8 },
+    { "text": "Mezitím přiveď k varu osolenou vodu nebo vývar z uzeného masa.", "minutes": 10, "parallel": true },
+    { "text": "Z těsta tvaruj knedlíky. Doprostřed každého dej hromádku sekaného uzeného masa a knedlík pěkně zakulať.", "minutes": 15 },
+    { "text": "Knedlíky vlož do vařící slané vody a vař, dokud nejsou uvnitř uvařené.", "minutes": 20 },
+    { "text": "Rozpal máslo. Knedlíky posyp strouhankou a polij rozpáleným máslem.", "minutes": 5 }
+  ],
+  "modernNote": "Rettigová neuvádí porce, množství mouky („tolik, mnoho-li na těsto zapotřebí“), smetany, strouhanky ani másla; vše je odhad a recept je proto neověřený. Z půl libry špeku, půl libry uzeného (po 280 g), 4 žemlí a 8 žloutků a vajec vychází asi 6 velkých knedlíků, přepočet je na 4 porce (k = 4/6). Žemle počítána na 50 g. Zdroj udává dobu vaření jen „až jsou uvařeny“, 20 minut je odhad; zkus jeden rozkrojit. Sekané uzené lze podle zdroje zamíchat i přímo do těsta.",
+  "source": { "book": "rettigova-1868", "page": 172, "titleOriginal": "Knedlíky se slaninou (špekem)" },
+  "verified": false,
+  "quote": "dej vždy do prostřed těsta hromádku toho sekaného libového masa, knedlíky pěkně zakulať"
+}

@@ -1003,3 +1003,82 @@ Vybráno z analýz podle kritérií: levné, tábor/jeden hrnec, česká kuchyn�
 | 59 | lyonske-brambory | Lyonské brambory s cibulí (Lyonnaise Potatoes) | navy-1944 | | 289 | prilohy-a-zelenina | levne, tabor | |
 | 60 | zapecena-rajcata | Zapečená rajčata s chlebem (Escalloped Tomatoes) | navy-1944 | | 299 | prilohy-a-zelenina | levne | |
 | 61 | ovesne-placky | Ovesné placky (Oatmeal Cake) | wells-1890 | | 27 | snidane-a-pecivo | levne, tabor | č. 17; velká dávka → 4 porce |
+
+## Výběr 2026-10-20 (50 receptů, dávky W1–W5)
+
+Zadání: „vyber z nezpracovaných 50 nejlepších a zpracuj“. Zdroj: `analysis/receptury-1983.md`, `analysis/rettigova-1868.md` (výběr + rezerva), `analysis/glasse-1747.md`, `analysis/wells-1890.md` a ikonická česká jídla z TSV nadpisů Receptur. Vynechány duplicity s existujícími recepty (smažené kuře, smažená játra, karbanátky, Yorkshire pudink, hrách se zelím, plněné zelí/holubky, vývar B). Strany = PDF strany. Kapitola a tagy jsou návrh, digitizér je upraví podle definic ve skillu. Sdílená nová surovina `kapr` je v `data/ingredients/new-sdilene-vyber-2026-10-20.json`.
+
+### Dávka W1
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 1 | bramboracka | Bramboračka | receptury-1983 | 10104 | 22 | polevky | levne, kotlik | Vývar B → hovezi-vyvar; sušené houby |
+| 2 | smazeny-veprovy-rizek | Smažený vepřový řízek | receptury-1983 | 13202 | 224 | maso-a-ryby | | smaží se na pánvi; olej `fat`/`vessel` |
+| 3 | moravsky-vrabec | Moravský vrabec | receptury-1983 | 13004 | 193 | maso-a-ryby | | |
+| 4 | hlavkove-zeli-dusene | Dušené hlávkové zelí | receptury-1983 | 19921 | 584 | prilohy-a-zelenina | levne, tabor, kotlik | |
+| 5 | kynute-knedliky-s-povidly | Kynuté knedlíky s povidly | receptury-1983 | 19612 | 554 | sladke | levne | |
+| 6 | houbovy-kuba | Houbový kuba | receptury-1983 | 19413 | 496 | bezmasa | levne, pripravit-predem | kroupy |
+| 7 | kapr-na-cerno | Kapr na černo | rettigova-1868 | | 296 | maso-a-ryby | | č. 1 (+ č. 2 ořechy); krev vynechat → modernNote; perník → pernik |
+| 8 | spekove-knedliky | Špekové knedlíky s uzeným | rettigova-1868 | | 172–173 | z-jednoho-hrnce | | č. 3; mouka „tolik, co je zapotřebí“ → odhad, verified false |
+| 9 | porkova-polevka-s-vejcem | Pórková polévka s vejcem | receptury-1983 | 10119 | 30 | polevky | levne, rychle | |
+| 10 | livance | Lívance | receptury-1983 | 19609 | 551 | sladke | levne, rychle | verze 196 (hlavní jídlo) |
+
+### Dávka W2
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 11 | hrachova-polevka-receptury | Hrachová polévka | receptury-1983 | 10105 | 23 | polevky | levne, kotlik, pripravit-predem | |
+| 12 | sekana-pecene-receptury | Sekaná pečeně | receptury-1983 | 15401 | 294 | maso-a-ryby | levne | rohlíky |
+| 13 | znojemska-pecene | Znojemská hovězí pečeně | receptury-1983 | 11004 | 83 | maso-a-ryby | | |
+| 14 | skubanky-s-makem | Škubánky s mákem | receptury-1983 | 19404 | 491 | sladke | levne | |
+| 15 | bramborove-placky | Bramborové placky | receptury-1983 | 19409 | 494 | bezmasa | levne | ne bramborák (19406 hotový) |
+| 16 | nudle-s-makem | Nudle s mákem | receptury-1983 | 19616 | 556 | sladke | levne, rychle | |
+| 17 | veprove-jitrnicky-s-pivem | Vepřové placky s pivem („jitrničky“) | rettigova-1868 | | 40 | maso-a-ryby | rychle | č. 13; pivo bez míry → odhad |
+| 18 | smazenec-chlebovy | Chlebový nákyp s jablky (smaženec) | rettigova-1868 | | 183 | sladke | levne | č. 31 |
+| 19 | pilaf-s-kuretem | Pilaf s kuřetem a slaninou | glasse-1747 | | 107 | testoviny-a-ryze | | „To make a Pellow the Indian way“; velká dávka |
+| 20 | parkin | Parkin (ovesný perník) | wells-1890 | | 36 | sladke | levne | č. 53 Parking Cake (v plechu), příp. č. 51 |
+
+### Dávka W3
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 21 | fazolova-polevka-receptury | Fazolová polévka | receptury-1983 | 10116 | 28 | polevky | levne, kotlik, pripravit-predem | |
+| 22 | kure-na-paprice | Kuře na paprice | receptury-1983 | 17003 | 346 | maso-a-ryby | | ověřit 17003 vs. 17017 (355), vzít základní |
+| 23 | plnene-papriky-v-rajske | Plněné papriky v rajské omáčce | receptury-1983 | 15402 | 295 | maso-a-ryby | | „Plněný paprikový lusk“ |
+| 24 | chlupate-knedliky-se-zelim | Chlupaté knedlíky se zelím | receptury-1983 | 19411 | 495 | bezmasa | levne | |
+| 25 | tvarohove-knedliky | Tvarohové knedlíky | receptury-1983 | 19624 | 559 | sladke | | verze 196 |
+| 26 | tresnova-bublanina | Třešňová bublanina | receptury-1983 | 19503 | 521 | sladke | | nová surovina třešně (jen tento recept) |
+| 27 | sekane-rizky-rettigova | Hovězí sekané řízky | rettigova-1868 | | 44 | maso-a-ryby | | č. 5 |
+| 28 | jablecny-zavin-rettigova | Válená štrudle s jablky | rettigova-1868 | | 188 | sladke | | č. 44 |
+| 29 | welsh-rabbit | Opečený chléb se sýrem (Welsh rabbit) | glasse-1747 | | 176 | bezmasa | rychle, tabor | „To make a Welch Rabbit“; bez množství → odhad, verified false |
+| 30 | svacinovy-kolac-s-rozinkami | Svačinový koláč s rozinkami | wells-1890 | | 70 | sladke | levne | č. 178 Halfpenny Lunch Cake |
+
+### Dávka W4
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 31 | frankfurtska-polevka | Frankfurtská polévka s párkem a brambory | receptury-1983 | 10135/A | 39 | polevky | levne, rychle | párky → parky |
+| 32 | kapr-smazeny | Smažený kapr | receptury-1983 | 18002 | 391 | maso-a-ryby | | kapr (sdílená) |
+| 33 | pecene-kure-s-nadivkou | Pečené kuře s nádivkou | receptury-1983 | 17001 | 345 | maso-a-ryby | | |
+| 34 | brynzove-halusky | Brynzové halušky | receptury-1983 | 19430 | 503 | bezmasa | levne | slanina? pak ne bez-masa; brynza nová |
+| 35 | zelne-flicky | Zapečené zelné flíčky | receptury-1983 | 19427 | 502 | bezmasa | levne | |
+| 36 | ryzovy-nakyp-s-jablky | Rýžový nákyp s jablky | receptury-1983 | 19621 | 558 | sladke | levne | verze 196 |
+| 37 | brambory-zapecene-s-vejci | Brambory zapečené s vejci | rettigova-1868 | | 345 | bezmasa | levne | č. 22; brambory bez množství → odhad 1 kg, verified false |
+| 38 | svestkovy-kolac-rettigova | Koláč se švestkami | rettigova-1868 | | 352 | sladke | | č. 11 |
+| 39 | hrachova-polevka-glasse | Lodní hrachová polévka se slaninou | glasse-1747 | | 216 | polevky | levne, tabor, kotlik, pripravit-predem | „To make Peas Soup“ (kap. XI) |
+| 40 | domaci-pernik | Domácí perník | receptury-1983 | 19547 | 540 | sladke | levne | |
+
+### Dávka W5
+
+| # | id | český název | kniha | kód | PDF strana | kapitola | tagy | poznámka |
+|---|---|---|---|---|---|---|---|---|
+| 41 | zelna-polevka-s-klobasou | Zelná polévka s klobásou | receptury-1983 | 10141 | 42 | polevky | levne, kotlik | |
+| 42 | kminova-polevka-s-vejcem | Kmínová polévka s vejcem | receptury-1983 | 10122 | 31 | polevky | levne, rychle, tabor | v OCR chybně „19122“ |
+| 43 | uzene-maso-varene | Vařené uzené maso | receptury-1983 | 13401 | 227 | maso-a-ryby | kotlik | uzená pečeně → uzene-maso |
+| 44 | spenat-s-brambory | Špenát s vejcem a brambory | receptury-1983 | 19477 | 517 | bezmasa | levne | |
+| 45 | smazeny-kvetak | Smažený květák | receptury-1983 | 19107 | 457 | bezmasa | | |
+| 46 | kapustovy-privarek | Kapustový přívarek s brambory | receptury-1983 | 19443 | 509 | bezmasa | levne, kotlik | |
+| 47 | selska-omeleta | Selská omeleta | receptury-1983 | 19207 | 475 | bezmasa | rychle, tabor | uzenina? pak ne bez-masa |
+| 48 | jahlovy-nakyp-se-svestkami | Jáhlový nákyp se švestkami | receptury-1983 | 19601 | 545 | sladke | levne | |
+| 49 | houbovec | Houbový nákyp (houbovec) | rettigova-1868 | | 343 | bezmasa | | č. 17; houby bez množství → odhad |
+| 50 | kraple-s-povidly | Kraple s povidly | rettigova-1868 | | 193 | sladke | levne | č. 57 |

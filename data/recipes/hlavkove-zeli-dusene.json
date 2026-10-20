@@ -1,0 +1,38 @@
+{
+  "id": "hlavkove-zeli-dusene",
+  "title": "Dušené hlávkové zelí",
+  "titleOriginal": "Hlávkové zelí",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "bile-zeli", "amount": 380, "unit": "g", "note": "z 480 g hrubé (1 200 g × 0,4) × 0,8; bez košťálu a zvadlých listů" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé × 0,9" },
+    { "ingredientId": "sadlo", "amount": 20, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "note": "prosátá", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "ocet", "amount": 20, "unit": "ml" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml" }
+  ],
+  "steps": [
+    { "text": "Zelné hlávky očisti, zbav zvadlých listů, rozkrájej na čtvrtky, odřízni košťál a zelí nakrouhej nebo nakrájej na nudličky.", "minutes": 10 },
+    { "text": "Nakrouhané zelí spař ve vařící vodě.", "minutes": 10 },
+    { "text": "Mezitím cibuli očisti a nakrájej nadrobno.", "minutes": 5, "parallel": true },
+    { "text": "Zelí odcedi a nech okapat.", "minutes": 2 },
+    { "text": "Cibuli osmahni na sádle do růžova.", "minutes": 6 },
+    { "text": "Cibuli zaprášenou prosátou moukou krátce osmahni.", "minutes": 2 },
+    { "text": "Do základu vlož připravené zelí, osol, přidej kmín, cukr, ocet a vodu a promíchej.", "minutes": 3 },
+    { "text": "Duš do měkka, občas promíchej, aby se zelí nepřipálilo. Zelí má zůstat nerozvařené.", "minutes": 30 },
+    { "text": "Podávej jako přílohu k různým pokrmům." }
+  ],
+  "modernNote": "Zdroj neuvádí dobu dušení (do měkka); 30 minut je odhad pro nastrouhané zelí. Zelí se spařuje ve vodě navíc, která se slévá (množství zdroj neuvádí), voda v receptu je ta, která zůstává v zelí. Zelí uváděné jako hrubé 1 200 g má čistých 960 g (odpad 20 %, v řádku jedlá hmotnost), cibule 100 g hrubé má čistých 85 g (v řádku podle katalogu 0,9). Porce 100 g je malá příloha; jako příloha k masu počítej 150–200 g zelí na osobu. Sádlo je z originálu (škvařené), lze nahradit olejem.",
+  "source": { "book": "receptury-1983", "page": 584, "code": "19921", "titleOriginal": "HLÁVKOVÉ ZELÍ" },
+  "verified": true
+}
