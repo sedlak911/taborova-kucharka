@@ -1,0 +1,39 @@
+{
+  "id": "strapacky-se-zelim",
+  "title": "Strapačky se zelím",
+  "titleOriginal": "Strapačky se zelím",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 1020, "unit": "g", "note": "z 3 200 g hrubé × 0,8 × 0,4 (přepočet na 4 porce)" },
+    { "ingredientId": "hladka-mouka", "amount": 180, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "hruba-mouka", "amount": 200, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "sul", "amount": 25, "unit": "g", "note": "do těsta a do zelí" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "scaling": "vessel", "note": "na vaření strapaček, slije se" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé × 0,9 × 0,4" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené, na osmahnutí cibule" },
+    { "ingredientId": "kysele-zeli", "amount": 320, "unit": "g" },
+    { "ingredientId": "spek", "amount": 120, "unit": "g", "note": "slanina bez kůže, nakrájená na kostičky" }
+  ],
+  "steps": [
+    { "text": "Oškrabané brambory opláchni, jemně nastrouhej, nech ustát a část vody odlij.", "minutes": 15 },
+    { "text": "Do připravených brambor přidej prosátou hladkou a hrubou mouku, sůl a pepř a dobře promíchej.", "minutes": 5 },
+    { "text": "Mezitím přiveď k varu vodu ve velkém hrnci.", "minutes": 12, "parallel": true },
+    { "text": "Těsto protlač hrubým struhadlem do vařící vody, zavařené strapačky lehce zamíchej, vař asi 8 až 10 minut a vyjmi cedníkem; vař po dávkách.", "minutes": 20 },
+    { "text": "Cibuli oloupej, nakrájej nadrobno a osmahni do růžova na sádle.", "minutes": 8 },
+    { "text": "Přidej kysané zelí, mírně podlij vodou, osol a duš do měkka.", "minutes": 30 },
+    { "text": "Mezitím nakrájenou slaninu na pánvi opékej, až se částečně rozpustí.", "minutes": 10, "parallel": true },
+    { "text": "Uvařené strapačky vlož do upraveného zelí, zlehka promíchej a podle potřeby prohřej.", "minutes": 3 },
+    { "text": "Při podávání přelij každou porci slaninou s částečně rozpuštěným tukem." }
+  ],
+  "modernNote": "Kniha počítá s 10 porcemi po 380 g včetně zelí (3 800 g hotového výrobku); recept je přepočten na 4 porce. Brambory a cibule jsou zapsány jako jedlá hmotnost (hrubá × 0,4 × jedlý podíl katalogu). Sůl: zdroj uvádí 50 g na 10 porcí do těsta i zelí, ponechána celá v jídle (25 g na 4 porce, tj. asi 6 g na porci, nad běžnou normou; zdroj držen); kysané zelí je samo slané, proto zkoušej a sůl klidně sniž. Voda na vaření strapaček je domácí hodnota (slije se); množství vody na podlití zelí zdroj neuvádí, dej jen trochu. Doby dušení zelí zdroj neuvádí („do měkka“), 30 minut je odhad z praxe. Slanina znamená, že recept není bezmasý; kapitola podle tvaru jídla (těstovinová příloha/hlavní jídlo).",
+  "source": { "book": "receptury-1983", "page": 503, "code": "19431", "titleOriginal": "STRAPAČKY SE ZELÍM" },
+  "verified": true
+}

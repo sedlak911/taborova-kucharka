@@ -1,0 +1,39 @@
+{
+  "id": "skotske-kolopsy",
+  "title": "Skotské kolopsy",
+  "titleOriginal": "To dress Scotch Collops",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce", "mleko", "lepek", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "teleci-maso-libove", "amount": 500, "unit": "g", "note": "nakrájené na tenké plátky; odhad množství" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "note": "čerstvě nastrouhaný" },
+    { "ingredientId": "zloutek", "amount": 1, "unit": "ks", "note": "na obalení plátků" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na smažení, přebytek se slije", "scaling": "vessel" },
+    { "ingredientId": "hovezi-vyvar", "amount": 250, "unit": "ml", "note": "zdroj: půl pintu „gravy“" },
+    { "ingredientId": "maslo", "amount": 10, "unit": "g", "note": "do omáčky, rozetřené s moukou" },
+    { "ingredientId": "hladka-mouka", "amount": 8, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "zampiony", "amount": 100, "unit": "g", "note": "nakrájené na plátky" },
+    { "ingredientId": "bile-vino", "amount": 80, "unit": "ml", "note": "zdroj: jedna sklenka" },
+    { "ingredientId": "zloutek", "amount": 1, "unit": "ks", "note": "do omáčky" },
+    { "ingredientId": "smetana-na-vareni", "amount": 50, "unit": "ml", "note": "zdroj: trochu smetany; bez ní to jde také" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "podle potřeby" }
+  ],
+  "steps": [
+    { "text": "Telecí maso nakrájej na tenké plátky, rozklepej je hřbetem nože nebo válkem a posyp nastrouhaným muškátovým oříškem.", "minutes": 10 },
+    { "text": "Plátky namáčej v žloutku a smaž na másle do pěkného zhnědnutí, po dávkách.", "minutes": 12 },
+    { "text": "Plátky vyndej a máslo z pánve slij." , "minutes": 2 },
+    { "text": "Do pánve nalej vývar, přidej máslo rozetřené s moukou, žampiony a víno a za míchání krátce povař.", "minutes": 8 },
+    { "text": "Žloutek rozmíchej se smetanou, vlij do omáčky a míchej.", "minutes": 3 },
+    { "text": "Vrať maso do omáčky, osol a prohřej, až omáčka pěkně zhoustne.", "minutes": 5 },
+    { "text": "Podávej." }
+  ],
+  "modernNote": "Glasse neudává množství ani počet porcí; 500 g telecího na 4 porce a ostatní množství jsou odhad (verified: false). „Gravy“ = hovězí vývar, „glass of white-wine“ asi 80 ml, „half a pint“ asi 250 ml (pre-imperiální pint 0,47–0,57 l). Žloutek na obalení vystačí jen na tenký film, proto se plátky smaží po dávkách. Kniha dodává, že pokrm se obejde i bez smetany, a bez vývaru stačí teplá voda a víno (červené nebo bílé). Moderní tip: plátky z telecí kýty jsou křehčí, když je před smažením rozklepeš mezi fólií.",
+  "source": { "book": "glasse-1747", "page": 45, "titleOriginal": "To dress Scotch Collops" },
+  "verified": false,
+  "quote": "It does very well without the cream, if you have none."
+}

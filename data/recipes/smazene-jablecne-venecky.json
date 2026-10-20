@@ -1,0 +1,36 @@
+{
+  "id": "smazene-jablecne-venecky",
+  "title": "Smažené jablečné věnečky",
+  "titleOriginal": "Smažené jablkové věnečky",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 35,
+  "difficulty": 2,
+  "tags": ["rychle", "bez-masa", "sladke"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "jablko", "amount": 4, "unit": "ks", "note": "pevná, např. míšeňská (zdroj bez množství, odhad)" },
+    { "ingredientId": "rum", "amount": 30, "unit": "g", "note": "na pokapání jablek; zdroj rum nebo arak" },
+    { "ingredientId": "hladka-mouka", "amount": 45, "unit": "g", "note": "těsto; zdroj 2 lžíce × 1,5" },
+    { "ingredientId": "cukr-krystal", "amount": 55, "unit": "g", "note": "do těsta; moderně moučkový; zdroj 2 loty × 1,5", "scaling": "linear" },
+    { "ingredientId": "bile-vino", "amount": 135, "unit": "ml", "note": "zdroj 6 lžic rakouského vína × 1,5; podle hustoty více" },
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "note": "celá; zdroj 2 vejce × 1,5" },
+    { "ingredientId": "maslo", "amount": 60, "unit": "g", "note": "přepuštěné, na smažení; zůstane v pánvi", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "přepuštěné, nasáklé do věnečků (odhad)", "scaling": "fat" },
+    { "ingredientId": "cukr-krystal", "amount": 30, "unit": "g", "note": "na posypání; moderně moučkový (zdroj bez množství, odhad)" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "note": "na posypání (zdroj bez množství, odhad)" }
+  ],
+  "steps": [
+    { "text": "Jablka oloupej a nakrájej na kolečka silná asi 1 cm. Jádřince z každého kolečka vypíchni kulatým vykrajovátkem.", "minutes": 10 },
+    { "text": "Kolečka polij rumem a nech chvíli odležet.", "minutes": 5 },
+    { "text": "Do hrnku dej mouku, cukr a víno, vlej vejce a dobře prošlehej. Je-li těsto příliš husté, přidej ještě trochu vína.", "minutes": 3, "parallel": true },
+    { "text": "V pánvi rozpal přepuštěné máslo.", "minutes": 3 },
+    { "text": "Jablečná kolečka namáčej v těstě a smaž v rozpáleném másle dozlatova.", "minutes": 12 },
+    { "text": "Teplé věnečky posyp cukrem se skořicí a podávej." }
+  ],
+  "modernNote": "Rettigová neuvádí počet jablek ani porcí; odhad: dávka těsta ze zdroje (2 lžíce mouky, 2 loty cukru, 6 lžic vína, 2 vejce) obalí asi 3 jablka a vystačí na 2–3 porce, proto je pro 4 porce vynásobená 1,5 a počítá se se 4 jablky. Lžíce mouky počítána 15 g (vrchovatá), 1 lot = 17,5 g, 1 lžíce vína = 15 ml. Cukr a skořice na posypání ve zdroji bez množství (odhad). Přepuštěné máslo: 60 g zůstane v pánvi, asi 30 g se vsákne. Moderně použij moučkový cukr a jádřinec vykrojíš běžným vykrajovátkem. Věnečky mají smysl jako zákusek nebo lehký sladký oběd.",
+  "source": { "book": "rettigova-1868", "page": 238, "titleOriginal": "Smažené jablkové věnečky" },
+  "verified": false,
+  "quote": "nech je do zlatova usmažit; pak je posyp cukrem a skořicí a dej je teplé na tabuli."
+}

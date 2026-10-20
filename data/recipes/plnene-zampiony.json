@@ -1,0 +1,39 @@
+{
+  "id": "plnene-zampiony",
+  "title": "Plněné žampiony",
+  "titleOriginal": "Plněné žampióny (Minutka)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "zampiony", "amount": 470, "unit": "g", "note": "z 480 g hrubé × 0,97; větší kloboučky na plnění, třeně do náplně" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 40 g hrubé × 0,9; nadrobno" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na podušení cibule", "original": { "ingredientId": "margarin", "amount": 20, "unit": "g" } },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "rajcatovy-protlak", "amount": 12, "unit": "g" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "note": "zdroj 3 ks" },
+    { "ingredientId": "petrzel-nat", "amount": 4, "unit": "g", "note": "z 4 g hrubé × 0,95; nasekaná", "scaling": "linear" },
+    { "ingredientId": "eidam", "amount": 40, "unit": "g", "note": "moravský bochník; nastrouhaný" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "na vymaštění misky a pomaštění povrchu" },
+    { "ingredientId": "citron", "amount": 40, "unit": "g", "note": "z 80 g hrubé × 0,53; k podávání" }
+  ],
+  "steps": [
+    { "text": "Žampiony očisti a opláchni ve vlažné vodě. Kloboučky odděl a vykroj. Vykrojenou část a třeně drobně rozsekej.", "minutes": 10 },
+    { "text": "Cibuli nakrájej nadrobno a podus ji na másle.", "minutes": 8 },
+    { "text": "Přidej rozsekané žampiony, osol, opepři, přichuť rajčatovým protlakem a krátce podus.", "minutes": 5 },
+    { "text": "Směs zalij rozšlehaným vejcem, dosol a smaž do zhoustnutí.", "minutes": 5 },
+    { "text": "Vmíchej drobně sekanou petrželovou nať.", "minutes": 2 },
+    { "text": "Směsí naplň žampionové kloboučky a naskládej je do vymaštěné zapékací misky. Posyp nastrouhaným sýrem a povrch pomaž máslem.", "minutes": 10 },
+    { "text": "Vlož do trouby a peč zvolna do měkka, až je povrch růžový.", "minutes": 25 },
+    { "text": "Podávej s měsíčky citronu." }
+  ],
+  "modernNote": "Zdroj neuvádí teplotu ani dobu pečení: zvolna do měkka, až je povrch růžový; doba 25 minut je odhad, pro domácí troubu počítej s asi 180 °C. Margarín na podušení cibule jsem nahradil máslem. Sůl (20 g na 10 porcí) je ze zdroje včetně solení žampionů a vajec podruhé; podle chuti dej klidně méně. Zelenina a citron: hrubá hmotnost × 0,4 × jedlá část katalogu (žampiony 1200 g, cibule 100 g, petržel 10 g, citron 200 g hrubé). Porce v knize: 115 g (10 porcí, hotových 1150 g), jako hlavní jídlo počítej klidně dvě porce na osobu; podávej s pečivem nebo bramborami.",
+  "source": { "book": "receptury-1983", "page": 506, "code": "19438", "titleOriginal": "PLNĚNÉ ŽAMPIÓNY (Minutka)" },
+  "verified": true
+}

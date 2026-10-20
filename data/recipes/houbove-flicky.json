@@ -1,0 +1,39 @@
+{
+  "id": "houbove-flicky",
+  "title": "Zapečené houbové flíčky",
+  "titleOriginal": "Houbové flíčky zapečené",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "testoviny", "amount": 400, "unit": "g", "note": "velké čtverečky (flíčky), suché" },
+    { "ingredientId": "voda", "amount": 4000, "unit": "ml", "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g těstovin", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 18, "unit": "g", "note": "ze zdroje (40 g na 10 porcí)" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené; část do těstovin, část na vymazání pekáče" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.46, "unit": "g", "note": "mletý květ" },
+    { "ingredientId": "houby-susene", "amount": 40, "unit": "g" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "na uvaření hub; vývar ze sušených hub se přidá do flíčků" },
+    { "ingredientId": "mleko-polotucne", "amount": 200, "unit": "ml", "note": "konzumní" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj 5 ks (200 g)" }
+  ],
+  "steps": [
+    { "text": "Přiveď v hrnci vodu k varu, vsyp těstoviny a za občasného promíchání je uvař do měkka.", "minutes": 25 },
+    { "text": "Mezitím uvař sušené houby v malém množství vody do měkka.", "minutes": 25, "parallel": true },
+    { "text": "Těstoviny odcěď, propláchni studenou vodou a nech okapat.", "minutes": 5 },
+    { "text": "Těstoviny omasti částí rozehřátého sádla, osol, opepři, dochuť mletým květem a promíchej.", "minutes": 3 },
+    { "text": "Uvařené houby drobně nasekej a přidej je i s vývarem k těstovinám.", "minutes": 5 },
+    { "text": "Mléko rozšlehej s vejci. Polovinu směsi nalij do těstovin a dobře promíchej. Těstoviny urovnej do pekáče vymaštěného zbylým sádlem.", "minutes": 8 },
+    { "text": "Pekáč vlož do rozehřáté trouby (asi 200 °C) a nech těstoviny částečně zapéct.", "minutes": 20 },
+    { "text": "Na částečně zapečené těstoviny nalij zbylé mléko s vejci a dopeč dozlatova.", "minutes": 25 },
+    { "text": "Nakrájej a podávej s kyselou okurkou nebo zeleninovým salátem." }
+  ],
+  "modernNote": "Kniha počítá 10 porcí po 320 g (hotový výrobek 3 200 g); 4 porce jsou × 0,4. Sůl 18 g (4,5 g na porci) je ze zdroje (40 g na 10 porcí) a zdroj ji nedělí mezi vodu a těstoviny, proto je celá v jídle (check:recipe ji hlásí nad 2,5 g na porci, držím zdroj); ochutnej a dosol podle potřeby, klidně dej méně. Voda na těstoviny je domácí hodnota. Voda na houby (zdroj: vývar ze sušených hub 100 g) je ze zdroje 40 ml; při vaření dolévej, aby houby neprskly, a celý vývar přidej do flíčků. Zdroj neuvádí, kolik sádla jde do těstovin a kolik na pekáč. Zdroj neuvádí teplotu ani doby pečení; 200 °C a časy jsou odhad. Recept je bez masa, ale sádlo je živočišné (vegetariánsky nahraď máslem).",
+  "source": { "book": "receptury-1983", "page": 500, "code": "19422", "titleOriginal": "HOUBOVÉ FLÍČKY ZAPEČENÉ" },
+  "verified": true
+}

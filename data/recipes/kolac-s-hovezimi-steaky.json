@@ -1,0 +1,34 @@
+{
+  "id": "kolac-s-hovezimi-steaky",
+  "title": "Koláč s hovězími steaky",
+  "titleOriginal": "A Beef Steak Pye",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 3,
+  "tags": [],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 600, "unit": "g", "note": "kvalitní hovězí steaky ze zadní (rump, květová špička), na 4 plátky (odhad)" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "na maso (odhad)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1.5, "unit": "g", "note": "na maso (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 300, "unit": "g", "scaling": "linear", "note": "do těsta (odhad)" },
+    { "ingredientId": "maslo", "amount": 150, "unit": "g", "scaling": "linear", "note": "do těsta, studené (odhad)" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "do těsta; rozšlehej 1 vejce a použij polovinu (odhad)" },
+    { "ingredientId": "voda", "amount": 330, "unit": "ml", "note": "studená: asi 80 ml do těsta, 250 ml do misky, aby byla do poloviny plná (odhad)" }
+  ],
+  "steps": [
+    { "text": "Steaky naklep válečkem.", "minutes": 5 },
+    { "text": "Maso ochuť solí a pepřem.", "minutes": 3 },
+    { "text": "Do mouky vetři studené máslo, přidej vejce a zadělej studenou vodou na těsto.", "minutes": 10 },
+    { "text": "Těsto rozválej, vylož jím vymazanou zapékací misku a nech přesah na okraji.", "minutes": 10 },
+    { "text": "Do misky ulož steaky a nalij vodu, aby byla miska do poloviny plná.", "minutes": 3 },
+    { "text": "Přikryj víkem z těsta, okraje přitiskni a nech troubu předehřát na 200 °C.", "minutes": 7 },
+    { "text": "Peč v troubě na 200 °C asi 60 minut, dokud není koláč pěkně upečený a maso měkké.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj nemá množství ani výtěžek. Odhad: miska na 4 porce, 600 g hovězího ze zadní (rump steaks, květová špička), voda do poloviny misky (asi 250 ml, v řádku sečteno s 80 ml do těsta; při pečení vznikne šťáva). Sůl a pepř zdroj uvádí „podle chuti“ – množství je odhad. Těsto („a good crust“) zdroj nepopisuje; vzato je domácí křehké těsto podle poměrů Glasseové ze „A Cold Crust“ (na 3 lb mouky 1,5 lb másla a 2 vejce, studená voda), zmenšené na 300 g mouky: miska je vyložená i přikrytá. Doba pečení také není ve zdroji (jen „bake it well“) – odhad 60 minut při 200 °C. Maso nesmí být vařené předem; pro silnější omáčku lze použít hovězí vývar místo vody. Všechna množství jsou odhad, proto verified false. Strana: PDF 134–135 (tištěná 104–105).",
+  "source": { "book": "glasse-1747", "page": 134, "titleOriginal": "A Beef Steak Pye" },
+  "verified": false,
+  "quote": "Take fine rump steaks, beat them with a rolling-pin, then season them with pepper and salt, according to your palate"
+}
