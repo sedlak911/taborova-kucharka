@@ -1,0 +1,86 @@
+{
+  "id": "brambory-hash-browns",
+  "title": "Opečené brambory na plotně (hash browns)",
+  "titleOriginal": "Hashed Brown Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 560,
+      "unit": "g",
+      "note": "oloupané, nakrájené na kostky; zdroj 31 lb (POTATOES,FRESH,PEELED,CUBED, jedlá hmotnost; Issue 38¼ lb ignorováno)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření brambor, slije se (domácí hodnota 1 l na 1 kg brambor; zdroj 20⅞ lb vody)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se (2 g na 1 l)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "ztuzeny-tuk",
+      "amount": 90,
+      "unit": "g",
+      "note": "na vymazání pánve; zdroj 1⅓ lb na 100 porcí, zbytek zůstane v pánvi",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "ztuzeny-tuk",
+      "amount": 30,
+      "unit": "g",
+      "note": "nasáklý do brambor (odhad, ~30 ml)",
+      "scaling": "fat"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "posolit po opečení"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletý, opepřit po opečení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory zalij vroucí osolenou vodou, přiveď k varu, sniž teplo a vař 15 minut, až změknou. Nevař je do měkka. Dobře je scedí.",
+      "minutes": 20
+    },
+    { "text": "Pánev dobře vymaž tukem a rozpal na středním ohni.", "minutes": 3 },
+    {
+      "text": "Brambory rozlož na pánev v souvislé vrstvě a opékej 10 minut, dokud spodek nezezlátne.",
+      "minutes": 10
+    },
+    {
+      "text": "Brambory obrať a opékej dalších 10 minut, až budou zlatohnědé z obou stran.",
+      "minutes": 10
+    },
+    { "text": "Posol a opepři. Podávej horké." }
+  ],
+  "modernNote": "Zdroj počítá s plechem nebo velkou pánví (griddle) při 400 °F (200 °C); doma stačí těžká pánev na plotně na středním ohni. Brambory se vaří celé v osolené vodě (zdroj: 20⅞ lb vody na 31 lb brambor). Voda se slévá, proto není přepočtena ze zdroje, ale je domácí hodnota 1 l na 1 kg brambor (minimum 1 l) s 2 g soli na litr, obojí `vessel`. Tuk: zdroj 1⅓ lb na 100 porcí; přepočteno na 90 g do pánve (`vessel`) a 30 g vsáknuté do brambor (`fat`, odhad). Karta uvádí 6 g tuku na porci, tj. ~24 g na 4 porce, což odpovídá. Hmotnost brambor je jedlá (PEELED), Issue se nepřepočítává přes odpad. Doba vaření 15 minut je ze zdroje (nezkrácena). Kroky CCP (držení na 140 °F pro výdej) vynechány. Oproti Navy `opekane-brambory` (plátky, opékané přímo) jsou tyto brambory vařené a nakrájené na kostky, pak opečené do placky.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1566,
+    "code": "Q 046 00",
+    "titleOriginal": "HASHED BROWN POTATOES"
+  },
+  "verified": true,
+  "quote": "Cover potatoes with boiling salted water; bring to a boil; reduce heat; simmer 15 minutes or until tender. DO NOT OVERCOOK."
+}

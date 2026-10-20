@@ -1,0 +1,28 @@
+{
+  "id": "kukuricna-kase-grits",
+  "title": "Kukuřičná kaše (hominy grits)",
+  "titleOriginal": "Hominy Grits",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 610, "unit": "ml", "note": "vřící, na začátku; zdroj 33½ lb (4 gal); poměr zůstává jako ve zdroji" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 6, "unit": "g", "note": "zdroj 4 oz; rozpusť ve vodě" },
+    { "ingredientId": "kukuricna-mouka", "amount": 80, "unit": "g", "note": "hominy grits (bílá nixtamalová kukuřice, quick cooking); zdroj 4½ lb" }
+  ],
+  "steps": [
+    { "text": "Osol vřící vodu, přidej máslo a nech ho rozpustit.", "minutes": 2 },
+    { "text": "Za stálého míchání postupně přisypávej kukuřičnou kaši, aby se netvořily hrudky. Přiveď k varu.", "minutes": 5 },
+    { "text": "Sniž teplotu, přikryj a vař 5 minut za občasného míchání.", "minutes": 5 }
+  ],
+  "modernNote": "Porce odpovídá 2/3 hrnku kaše ze zdroje. Poměr vody a kaše je ze zdroje řídký (cca 7,5 : 1 hmotnostně); výsledek je tekutější kaše. Pro hustší kaši použij méně vody, např. 320 ml na 80 g. Jde o quick-cooking grits; klasické (hrubší) grits se vaří 20–30 minut, čas uprav podle obalu. Doporučení: kaši dochuť máslem nebo sýrem.",
+  "source": { "book": "afrs-2003", "page": 294, "code": "E 002 00", "titleOriginal": "HOMINY GRITS" },
+  "verified": true,
+  "quote": "Add grits gradually while stirring to prevent lumping."
+}

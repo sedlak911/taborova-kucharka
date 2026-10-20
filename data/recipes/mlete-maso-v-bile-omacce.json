@@ -1,0 +1,31 @@
+{
+  "id": "mlete-maso-v-bile-omacce",
+  "title": "Mleté maso v mléčné omáčce na topinkách (SOS)",
+  "titleOriginal": "Creamed Ground Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 330, "unit": "g", "note": "mleté hovězí 90 % libové (zdroj: Beef, ground, bulk, raw, 90% lean, 18 lbs)" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nakrájená (zdroj: Onions, fresh, chopped, 1 lb)" },
+    { "ingredientId": "hladka-mouka", "amount": 30, "unit": "g", "note": "zdroj: Flour, wheat, 1-2/3 lbs" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "zdroj: Salt, 1-7/8 oz" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g", "note": "zdroj: Pepper, black, ground, 1/4 oz" },
+    { "ingredientId": "worcester", "amount": 4, "unit": "g", "note": "zdroj: Worcestershire sauce, 2-1/8 oz" },
+    { "ingredientId": "mleko-polotucne", "amount": 420, "unit": "ml", "note": "ze sušeného mléka 25 g a vody 400 ml (zdroj: Milk, nonfat, dry, 1-1/4 lbs + Water, warm, 22 lbs; součet objemů)", "original": { "ingredientId": "mleko-susene", "amount": 25, "unit": "g" } }
+  ],
+  "steps": [
+    { "text": "Maso na pánvi nebo v kotlíku osmahni za míchání na drobno, dokud nezmizí růžová barva. Odeber přebytečný tuk. Přidej cibuli a restuj 3 minuty.", "minutes": 11 },
+    { "text": "Smíchej mouku, sůl a pepř, posyp jimi maso s cibulí, dobře promíchej a vař asi 5 minut, dokud mouka nevsákne tuk.", "minutes": 5 },
+    { "text": "Mezitím rozmíchej sušené mléko s vodou a vmíchej do něj Worcestrovou omáčku.", "minutes": 3, "parallel": true },
+    { "text": "Vmíchej mléčnou směs do masa. Za častého míchání přiveď k varu a vař 10 minut, dokud omáčka nezhoustne.", "minutes": 18 }
+  ],
+  "modernNote": "Creamed Ground Beef (AFRS 2003, karta L 030 00, PDF strana 738; vedle je L 030 01 Creamed Ground Turkey, samostatný recept). Sušené mléko 1-1/4 lb + voda 22 lb: moderně jeden řádek `mleko-polotucne` (400 ml vody + 25 g sušeného mléka v 4 porcích = 420 ml), sušené do `original`; poměr zdroje zachován. Steam-jacketed kettle = plotna / hrnec, tag `kotlik` (dušení v hrnci), bez trouby, `tabor`. Mleté maso 90 % libové (zdroj 18 lb na 100 porcí = 330 g na 4 porce, bez odpadu). Tuk z masa se odlévá podle zdroje, bez dalšího tuku. Časy kroků: karta udává jen 3 min (cibule), 5 min (mouka) a 10 min (zahuštění); čas opečení masa (8 min) a ohřevu k varu (8 min) je odhad, krok 4 = ohřev + 10 min. Krok 3 (rozmíchání mléka) je souběžný. Kapitola `maso-a-ryby`, tag `bez-masa` nesmí být. Karta neuvádí topinky ani sucharky; podávání na toastu je dle názvu v shortlistu, krok ani množství chleba nepřidány. Karta CCP (teploty 155 °F a 140 °F při držení) vynechána. Worcestrová omáčka 2-1/8 oz (60 g) = 4 g na 4 porce, třída `seasoning` dle katalogu; obsahuje ryby (anchovy), proto alergen `ryby`. Pepř 0,46 g ukládán přesně, ne jako špetka. Sůl ze zdroje 1-7/8 oz, bez dochucení.",
+  "source": { "book": "afrs-2003", "page": 738, "code": "L 030 00", "titleOriginal": "CREAMED GROUND BEEF" },
+  "verified": true
+}

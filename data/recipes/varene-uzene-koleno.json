@@ -1,0 +1,84 @@
+{
+  "id": "varene-uzene-koleno",
+  "title": "Vařené uzené koleno s cibulí a bobkovým listem",
+  "titleOriginal": "Simmered Pork Hocks (Ham Hocks)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 170,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "uzene-koleno",
+      "amount": 1160,
+      "unit": "g",
+      "note": "zdroj: zmrazená uzená kolena; dnes čerstvá uzená, rozmrazit"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1210,
+      "unit": "ml",
+      "note": "na vaření; většinou se slije, zbytek vývaru zůstává u kolen",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "note": "do vody na vaření"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.6,
+      "unit": "ks",
+      "note": "9 listů na 100 porcí ze zdroje × 0,0648"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 55,
+      "unit": "g",
+      "note": "čtvrtky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Uzená kolena vlož do velkého hrnce. Přidej vodu, sůl, bobkový list, česnek, pepř a cibuli. Přikryj a přiveď k varu.",
+      "minutes": 15
+    },
+    {
+      "text": "Sniž teplo a duš 2½ hodiny, nebo dokud nejsou kolena měkká.",
+      "minutes": 150
+    },
+    {
+      "text": "Kolena přelož do mísy, zalij tolik vývaru, aby je napůl zakrýval. Vyjmi bobkový list.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj uvádí zmrazená uzená kolena (64 lb); katalog zmrazenou variantu nemá, proto je použita čerstvá uzená (rozmrazit v lednici). Vodu na vaření nech v jídle, zbylý vývar použij do luštěnin (Q 029 03). Bobkový list: zdroj uvádí 9 listů na 100 porcí, tj. 0,6 listu na 4 porce; dej 1 celý list. CCP pokyny (teplota držení) vynechány.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 866,
+    "code": "L 100 00",
+    "titleOriginal": "SIMMERED PORK HOCKS (HAM HOCKS)"
+  },
+  "verified": true
+}

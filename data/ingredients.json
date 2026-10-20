@@ -2745,6 +2745,32 @@
     }
   },
   {
+    "id": "fazole-cernooke-v-konzerve",
+    "name": "Fazole černooké v konzervě (včetně nálevu)",
+    "aliases": [
+      "černooké fazole z konzervy",
+      "black-eyed peas, canned",
+      "blackeye peas canned",
+      "cowpeas canned"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 77,
+      "protein": 4.74,
+      "carbs": 13.63,
+      "fat": 0.55,
+      "fiber": 3.3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173760 (Cowpeas, common (blackeyes, crowder, southern), mature seeds, canned, plain; pevná část s nálevem)",
+      "refuse": "USDA fdc:173760 refusePct 0"
+    }
+  },
+  {
     "id": "fazole-cervene",
     "name": "Fazole červené sušené",
     "aliases": [
@@ -7168,6 +7194,37 @@
     }
   },
   {
+    "id": "marshmallow",
+    "name": "Marshmallow (miniaturní)",
+    "aliases": [
+      "marshmallow",
+      "marshmallows",
+      "marshmallow miniaturní",
+      "miniaturní marshmallows",
+      "bílé pěnové bonbony"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 318,
+      "protein": 1.8,
+      "carbs": 81.3,
+      "fat": 0.2,
+      "fiber": 0.1
+    },
+    "units": {
+      "hrnek": 53
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "containsMeat": true,
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167995 (Candies, marshmallows)",
+      "units": "USDA fdc:167995 cup of miniature = 50 g, přepočteno na metrický hrnek 250 ml (50 × 250/237 ≈ 53 g)",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "mascarpone",
     "name": "Mascarpone",
     "aliases": [
@@ -10125,6 +10182,37 @@
     }
   },
   {
+    "id": "ryzove-krupinky",
+    "name": "Rýžové křupinky (nafouknutá rýže)",
+    "aliases": [
+      "rýžové křupinky",
+      "křupinky rýžové",
+      "rice krispies",
+      "nafukovaná rýže",
+      "puffed rice",
+      "rýžové křupky"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 402,
+      "protein": 6.3,
+      "carbs": 89.8,
+      "fat": 0.5,
+      "fiber": 1.7
+    },
+    "units": {
+      "hrnek": 15
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173912 (Cereals ready-to-eat, rice, puffed, fortified); náhrada za Rice Krispies (značková položka v USDA)",
+      "units": "USDA fdc:173912 cup = 14 g, přepočteno na metrický hrnek 250 ml (14 × 250/237 ≈ 15 g)",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "ryzove-nudle",
     "name": "Rýžové nudle",
     "aliases": [
@@ -13014,6 +13102,7 @@
     },
     "ediblePortion": 1,
     "allergens": [],
+    "containsMeat": true,
     "sources": {
       "nutrition": "USDA SR Legacy fdc:169599 (Gelatins, dry powder, unsweetened)",
       "units": "1 polévková lžíce ≈ 7 g (USDA envelope 1 tbsp = 7 g)",

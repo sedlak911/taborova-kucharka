@@ -1,0 +1,102 @@
+{
+  "id": "rancni-hovezi-s-bramborami-a-hraskem",
+  "title": "Ranční hovězí s bramborami, mrkví a hráškem",
+  "titleOriginal": "El Rancho Stew",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 155,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 540,
+      "unit": "g",
+      "note": "libové, syrové, na kostky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 190,
+      "unit": "ml",
+      "note": "celkem: 150 ml na dušení (zůstává v jídle) + 40 ml studené na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 145,
+      "unit": "g",
+      "note": "nakrájená na plátky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "nakrájená na čtvrtky"
+    },
+    {
+      "ingredientId": "hrasek",
+      "amount": 35,
+      "unit": "g",
+      "note": "mražený; přidat na konci"
+    },
+    {
+      "ingredientId": "brambory",
+      "amount": 180,
+      "unit": "g",
+      "note": "nakrájené na kostky"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na zahuštění"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí maso, vodu, sůl a pepř dej do kotle nebo velkého hrnce, přiveď k varu, sniž teplotu, přikryj a duš 1 hodinu 40 minut, dokud maso nezměkne.",
+      "minutes": 105
+    },
+    {
+      "text": "Přidej mrkev a duš 15 minut pod pokličkou.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej cibuli a brambory, zamíchej, přikryj a duš 20 minut, dokud zelenina nezměkne. Přidej zmrazený hrášek a duš 10 minut, dokud hrášek nezměkne.",
+      "minutes": 30
+    },
+    {
+      "text": "Smíchej mouku se studenou vodou, vmíchej do guláše za stálého míchání a vař 5 minut, dokud nezhoustne.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Ranční hovězí z libového hovězího na kostky, v jednom hrnci na plotně. Hrášek je ve zdroji mražený (krok 3); konzervovaný hrášek (cca 3 lb scezeného na 100 porcí) je alternativa z poznámky karty, přidej ho až po zahuštění. Dušení trvá dlouho, proto na domácí plotně přilij podle potřeby horkou vodu, aby guláš nepřipaloval – 150 ml vody na 540 g masa je málo. Jako hlavní jídlo počítej 120–150 g masa na osobu.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 719,
+    "code": "L 022 02",
+    "titleOriginal": "EL RANCHO STEW"
+  },
+  "verified": true,
+  "quote": "Simmer 1 hour 40 minutes or until tender."
+}

@@ -1,0 +1,102 @@
+{
+  "id": "hovezi-polevka-s-kroupami",
+  "title": "Hovězí polévka s kroupami a zeleninou",
+  "titleOriginal": "Beef Barley Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 25,
+      "unit": "g",
+      "note": "nakrájet na kostky asi 1,3 cm"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 1060,
+      "unit": "ml",
+      "note": "z instantního základu podle návodu na obalu; lze nahradit domácím vývarem nebo kostkou"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 18,
+      "unit": "g",
+      "note": "čerstvá, plátky",
+      "original": {
+        "ingredientId": "mrkev-mrazena",
+        "amount": 18,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 14,
+      "unit": "g",
+      "note": "nakrájet nadrobno"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 18,
+      "unit": "g",
+      "note": "nakrájet nadrobno"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "3 listy na 100 porcí ze zdroje × 0,0648; dej 1 list"
+    },
+    {
+      "ingredientId": "kroupy",
+      "amount": 50,
+      "unit": "g",
+      "note": "ječné krupky, nepropláchnuté"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Maso v hrnci na plotně provař 5 minut. Pak ho nakrájej na kostky asi 1,3 cm.",
+      "minutes": 10
+    },
+    {
+      "text": "Připrav hovězí vývar podle návodu na obalu.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej vývar, maso, mrkev, celer, cibuli, pepř a bobkové listy. Přikryj a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej kroupy. Přikryj a vař 25 až 30 minut za občasného míchání, dokud kroupy nezměknou. Vyjmi bobkové listy.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Instantní hovězí základ „according to package directions“ nemá ve zdroji váhu, proto je vývar uveden jako 1060 ml hovězího vývaru (7 gal na 100 porcí); v kuchyni stačí domácí vývar nebo kostka podle obalu. Mražená mrkev je nahrazena čerstvou; mražená je uvedena v original. Kroupy = ječné krupky (pearl barley). Kotlík s parním pláštěm je v domácím přepisu hrnec na plotně. Rýžová a nudlová varianta (P 001 00 / P 001 02) se liší jen vložkou. Bobkový list: zdroj uvádí 3 listy na 100 porcí, tj. 0,2 listu na 4 porce; dej 1 celý list. Kalorie: 91 kcal na porci proti 80 v kartě (+14 %), protože katalogový hovězí vývar je výživnější než instantní základ z karty.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1389,
+    "code": "P 001 01",
+    "titleOriginal": "BEEF BARLEY SOUP"
+  },
+  "verified": true
+}

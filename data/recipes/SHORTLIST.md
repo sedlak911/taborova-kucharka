@@ -1426,3 +1426,239 @@ Zadání: „tam, kde není aspoň 50 receptů per kniha, doplň (podle doporuč
 | 136 | nemecke-housky | Německé citronové housky (bez droždí) | wells-1890 | | 30 | sladke | sladke, rychle | č. 27 German Buns; tartar + soda → kypřicí prášek; mléko „with milk“ – odhad |
 | 137 | polky-piskotove-kolacky | Polky – piškotové kapky s rozinkami | wells-1890 | | 70 | sladke | levne, sladke, rychle | č. 179 Polkas or Halfpenny Sponges; „S eggs“ = OCR chyba (pravděpodobně 8) – ověřit v HTML; voil → kypřicí prášek |
 
+
+## Výběr 2026-10-21 (AFRS 2003 – 150 receptů pro levné vaření venku, dávky A1–A15)
+
+Zdroj: `analysis/afrs_part_*.md` (hodnocení levné?/tábor?), text karet ověřen přes `pdftotext -f N -l N -layout "docs/MCO P10110.42B.pdf"` – sloupec *strana* je PDF strana, na které je hlavička karty `No.<kód>`. Všechny karty jsou na 100 porcí.
+
+Kritéria: (1) levné hlavní suroviny – luštěniny, brambory, rýže, těstoviny, mouka, vejce, levné maso (mleté, kostky, kolena, žebra, kuře na kostky), konzervy; (2) jde to venku – kotlík, pánev/plotna, jeden hrnec; kde karta peče v konvekční troubě, ale jde to dusit v hrnci nebo upéct v holandské troubě, je to v pozn.; (3) rozumný podíl snídaní, pečiva a sladkého (jednoduché koláče z plechu, sušenky, muffiny, lívance – vše zvládne holandská trouba nebo pánev). Vynecháno: fritéza (doughnuts, hush puppies, french fries, fried fish/chicken), jen průmyslová pec (kynuté pečivo na plech po 100 ks kromě pár výjimek), drahé suroviny (krevety, steaky, telecí, kachna, pekany), chlazené dezerty a želatiny, nápoje z koncentrátů a instantní, polotovary (cake/biscuit/cookie/brownie mix, instant pudding, dehydrated soups), varianty lišící se jen drobností (omelety F 008 01–12 kromě Western, P 001 00/02 jen jiná vložka, L 017 01 bez nudlí, kuřecí karty „8 PC“ vs. „Cooked Diced“ – bráno jen jedno), hotové AFRS karty a ty ze SHORTLISTu a jídla, která sbírka už má prakticky stejně z jiné knihy (např. Navy: Simmered Beef, Vanilla Cream Pudding, Turnips with Bacon, Corn Chowder, Mulligatawny, Chicken Gumbo, Spanish Beans, Corned Beef and Cabbage = New England Boiled Dinner, Baked Beef/Corned Beef Hash, Chicken à la King, Pork Chop Suey, Cheese Sauce, Spiced Beets; pound cake z Hauptmann/Glasse/Wells).
+
+Rozložení podle kapitol: `z-jednoho-hrnce` 10, `maso-a-ryby` 31, `bezmasa` 4, `polevky` 9, `testoviny-a-ryze` 12, `prilohy-a-zelenina` 40, `snidane-a-pecivo` 22, `sladke` 21, `napoje` 1. Tagy (návrh): levne 125, tabor 88, kotlik 59, rychle 55, bez-masa 73, sladke 29, pripravit-predem 6.
+
+Pozor napříč dávkou: AFRS používá sušené mléko (MILK,NONFAT,DRY + voda → jeden řádek mléka, sušené do `original`), mražená vejce/bílky (EGGS,WHOLE,FROZEN → čerstvá vejce), instantní vývary „according to package directions“, konzervy v gal/lb (No. 10 cn = 2,95 kg), steam-jacketed kettle = hrnec/kotel (`plotna`), konvekční trouba 325–375 °F. Odkazy „See Recipe No.“ jsou v pozn.; kde odkazovaná karta ve sbírce je, je uvedeno její id.
+
+
+### Dávka A1
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 1 | hopping-john | Hopping John – černooké fazole s rýží a slaninou | afrs-2003 | E 010 01 | 314 | z-jednoho-hrnce | levne, tabor, kotlik | Hopping John (Black-Eye Peas with Rice); černooké fazole z konzervy (incl liquids) → vařené suché; hnědá rýže se vaří přímo ve fazolích, jeden hrnec; Navy `cernooke-fazole` je jen příloha bez rýže |
+| 2 | rancni-hovezi-s-bramborami-a-hraskem | Ranční hovězí s bramborami, mrkví a hráškem | afrs-2003 | L 022 02 | 719 | z-jednoho-hrnce | levne, tabor, kotlik | El Rancho Stew; zelenina se přidává postupně (mrkev → cibule a brambory → hrášek), zahuštění moukou; Note: hrášek z konzervy až po zahuštění |
+| 3 | mlete-maso-v-bile-omacce | Mleté maso v mléčné omáčce na topinkách (SOS) | afrs-2003 | L 030 00 | 738 | maso-a-ryby | levne, tabor, kotlik, rychle | Creamed Ground Beef; vojenská klasika na toast/sucharky; sušené mléko + voda → mléko; Navy má jen variantu se sušeným hovězím (`susene-hovezi-ve-smetane`) |
+| 4 | chalupa-fazole-s-veprovym | Chalupa – pinto fazole dušené s vepřovým a chilli | afrs-2003 | L 050 00 | 780 | z-jednoho-hrnce | levne, tabor, kotlik | Chalupa; suché pinto fazole, rychlé namáčení (2 min var + 1 h); jalapeños z konzervy; Note: podávat s salátem, cibulí, rajčaty, zakysanou smetanou |
+| 5 | brambory-hash-browns | Opečené brambory na plotně (hash browns) | afrs-2003 | Q 046 00 | 1566 | prilohy-a-zelenina | levne, tabor, bez-masa | Hashed Brown Potatoes; brambory nejdřív uvařit, pak opéct na plotně 400 °F; Navy `opekane-brambory` (Home Fried) jsou plátky – zde kostky opečené do placky |
+| 6 | kukuricna-kase-grits | Kukuřičná kaše (hominy grits) | afrs-2003 | E 002 00 | 294 | snidane-a-pecivo | levne, tabor, kotlik, rychle, bez-masa | Hominy Grits; quick-cooking grits → jemná kukuřičná krupice/polenta (delší var); jen voda, sůl, máslo |
+| 7 | sloppy-joe | Sloppy Joe – mleté maso v kečupové omáčce v housce | afrs-2003 | N 027 00 | 1284 | maso-a-ryby | levne, tabor, kotlik, rychle | Barbecued Beef Sandwich (Sloppy Joe); kečup, hořčice, hnědý cukr, ocet; housky hotové (nebo `bulky-na-hamburgery`) |
+| 8 | varene-uzene-koleno | Vařené uzené koleno s cibulí a bobkovým listem | afrs-2003 | L 100 00 | 866 | maso-a-ryby | levne, tabor, kotlik | Simmered Pork Hocks (Ham Hocks); 2½ h; mražená kolena → čerstvá uzená; vývar využít do luštěnin (Q 029 03) |
+| 9 | hovezi-polevka-s-kroupami | Hovězí polévka s kroupami a zeleninou | afrs-2003 | P 001 01 | 1389 | polevky | levne, tabor, kotlik | Beef Barley Soup; hovězí vývar z instantního základu („according to package directions“) → domácí/kostka; mražená mrkev → čerstvá; rýžová a nudlová varianta P 001 00/02 se liší jen vložkou |
+| 10 | sirup-z-hnedeho-cukru | Javorový sirup z hnědého cukru | afrs-2003 | D 050 00 | 272 | sladke | levne, tabor, kotlik, rychle, bez-masa, sladke | Maple Syrup; hnědý cukr + škrob + javorové aroma; za horka řídký, chladnutím houstne; k lívancům (`americke-palacinky`, D 025 09) |
+
+### Dávka A2
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 11 | dusene-hovezi-s-nudlemi | Dušené hovězí s kečupem a vaječnými nudlemi | afrs-2003 | L 017 00 | 708 | z-jednoho-hrnce | levne, tabor, kotlik | Braised Beef and Noodles; hovězí 2 h, nudle se vaří přímo ve výpeku; varianta L 017 01 bez nudlí vynechána |
+| 12 | cervene-fazole-s-ryzi-a-slaninou | Červené fazole s rýží a slaninou | afrs-2003 | E 010 00 | 313 | z-jednoho-hrnce | levne, tabor, kotlik | Red Beans with Rice; rýže dle „Recipe No. E 005 00“ (`dusena-ryze`); fazole z konzervy i s nálevem; originál dopéká v konvekční troubě → dusit v hrnci |
+| 13 | zelene-fazolky-se-slaninou | Zelené fazolky se slaninou po jižansku | afrs-2003 | Q 007 04 | 1490 | prilohy-a-zelenina | levne, tabor, kotlik, rychle | Green Beans Southern Style; mražené fazolky → čerstvé; vaří se se slaninovým tukem |
+| 14 | omeleta | Omeleta | afrs-2003 | F 008 00 | 339 | snidane-a-pecivo | levne, tabor, rychle, bez-masa | Plain Omelet; mražená vejce (EGGS,WHOLE,FROZEN) → čerstvá; plotna 325 °F; varianty F 008 09/11 (cibule, rajče) do `modernNote` |
+| 15 | minestrone | Minestrone s fazolemi, zelím a mušličkami | afrs-2003 | P 007 01 | 1400 | polevky | levne, tabor, kotlik | Minestrone Soup; kuřecí vývar z instantu; fazole a zelené fazolky z konzervy; jiná než Gentile `milanska-zeleninova-polevka` (bez rýže a slaniny) |
+| 16 | kaderavek-s-uzenym-kolenem | Kadeřávek dušený s uzeným kolenem | afrs-2003 | Q 029 03 | 1528 | prilohy-a-zelenina | levne, tabor, kotlik | Southern Style Greens (Fresh Kale); koleno 2½ h, pak kadeřávek ve vývaru; Note: místo kolen 2 lb slaniny |
+| 17 | krupinkove-rezy-s-marshmallow | Rýžové křupinkové řezy s marshmallow | afrs-2003 | H 023 00 | 516 | sladke | tabor, rychle, sladke | Crispy Marshmallow Squares; bez pečení – margarín + marshmallow rozpustit v hrnci, vmíchat rýžové křupinky; marshmallow obsahuje želatinu (bez-masa nedávat) |
+| 18 | smazene-jablecne-tasticky | Smažené jablečné taštičky | afrs-2003 | I 030 00 | 571 | sladke | levne, sladke | Fried Apple Pie; těsto z mouky, sušeného mléka, prášku a tuku; náplň „pie filling, apple, prepared“ (polotovar) → dušená jablka se škrobem; ověřit, zda smažit v hlubokém tuku (karta: frying) – pokud ano, na pánvi v mělkém tuku |
+| 19 | mlete-hovezi-s-rajcaty | Mleté hovězí s rajčaty a muškátovým květem | afrs-2003 | L 036 00 | 753 | maso-a-ryby | levne, tabor, kotlik, rychle | Minced Beef; mleté maso + cibule + mouka + drcená rajčata z konzervy, mace (muškátový květ) nebo muškátový oříšek; na toast/rýži/brambory |
+| 20 | brambory-hacienda | Brambory po mexicku s rajčaty a paprikou | afrs-2003 | Q 079 00 | 1626 | prilohy-a-zelenina | levne, tabor, kotlik, bez-masa | Hacienda Potatoes; rajčata z konzervy, chilli, kmín; omáčka zahuštěná moukou (stejný základ jako Q 080 00) |
+
+### Dávka A3
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 21 | hovezi-kulicky-po-stroganovsku | Hovězí kuličky po stroganovsku | afrs-2003 | L 027 00 | 730 | maso-a-ryby | levne, kotlik | Beef Balls Stroganoff; kuličky se v originále pečou v konvekční troubě → opéct na pánvi; houby z konzervy, light zakysaná smetana; sušené mléko a mražená vejce do těsta |
+| 22 | ostrovni-ryze-s-fazolemi | Karibská rýže s červenými fazolemi | afrs-2003 | E 016 00 | 320 | testoviny-a-ryze | levne, tabor, kotlik | Islander's Rice; jeden hrnec (kuřecí vývar z instantu, fazole z konzervy, tymián, nové koření); Note 1: vegetariánská varianta se zeleninovým vývarem jako hlavní jídlo (1½ cup) |
+| 23 | parek-s-paprikou-a-cibuli | Opečený párek s restovanou paprikou a cibulí | afrs-2003 | N 030 05 | 1293 | maso-a-ryby | levne, tabor, rychle | Grilled Frankfurter with Fried Peppers and Onions; vše na plotně/pánvi; liší se od hotového `parky-na-ohni` (L 088 02) zeleninou |
+| 24 | lzickove-biscuits | Lžičkové biscuits (bez vykrajování) | afrs-2003 | D 001 03 | 126 | snidane-a-pecivo | levne, bez-masa, rychle | Drop Biscuits; těsto jako `maslove-housky-biscuits` (D 001 00), ale řidší a klade se lžící – ideální do holandské trouby; sušené mléko + voda; konvekční trouba |
+| 25 | salat-ze-tri-druhu-fazoli | Salát ze tří druhů fazolí | afrs-2003 | M 045 00 | 1172 | prilohy-a-zelenina | levne, tabor, bez-masa, pripravit-predem | Three Bean Salad; červené, žluté a zelené fazolky z konzervy, olejová zálivka s cukrem a octem; vydrží bez chlazení lépe než majonézové saláty |
+| 26 | dusena-rajcata-se-zeleninou | Dušená rajčata s paprikou a celerem | afrs-2003 | Q 058 00 | 1596 | prilohy-a-zelenina | levne, tabor, kotlik, rychle, bez-masa | Stewed Tomatoes; loupaná rajčata z konzervy (incl liquids), jen přivést k varu |
+| 27 | hovezi-kostky-v-barbecue-omacce | Hovězí kostky v barbecue omáčce | afrs-2003 | L 018 00 | 710 | maso-a-ryby | levne, tabor, kotlik | Barbecued Beef Cubes; omáčka = 2× „Recipe No. O 002 00“ (Navy `barbecue-omacka` je jiná – použít AFRS kartu nebo hotovou BBQ omáčku) |
+| 28 | kruti-polevka-se-zeleninou | Krůtí polévka s bramborami a hráškem | afrs-2003 | P 029 00 | 1453 | polevky | levne, tabor, kotlik | Turkey Vegetable Soup; kuřecí vývar z instantu, sušená petržel, šalvěj, tymián; krůtí maso vařené na kostky (lze kuřecí) |
+| 29 | kakaovy-kolac-bez-vajec | Rychlý kakaový koláč bez vajec a mléka | afrs-2003 | G 011 00 | 400 | sladke | levne, sladke, bez-masa | Easy Chocolate Cake; „wacky cake“ – olej, ocet, soda, kakao, voda; bez vajec a mléka, jen jedna mísa – vhodné do holandské trouby; konvekční trouba |
+| 30 | kruti-kari-s-jablky | Krůtí kari s jablky a rozinkami | afrs-2003 | L 044 00 | 772 | maso-a-ryby | levne, tabor, kotlik | Turkey Curry; krůta se nejdřív 3–4 h vaří (lze kuřecí stehna); kokos strouhaný slazený; podávat s rýží; Navy `jehneci-kari-s-ryzi` je jiné maso i koření |
+
+### Dávka A4
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 31 | ryze-s-cibulkou-a-paprikou | Rýže s restovanou cibulkou a paprikou | afrs-2003 | E 005 01 | 301 | testoviny-a-ryze | levne, tabor, kotlik, rychle, bez-masa | Lyonnaise Rice; pimiento z konzervy → pečená červená paprika; rýže jako `dusena-ryze` |
+| 32 | kava-varena-v-kotli | Káva vařená v kotli (sáček v ruční urně) | afrs-2003 | C 005 01 | 100 | napoje | levne, tabor, kotlik | Coffee (Manual Urn); mletá káva v plátěném sáčku/filtru v kotli s vroucí vodou; Note: 1⅞ lb kávy + 6¾ gal vody = 100 × 8 oz; Navy `prekapavana-kava` je urna s přeléváním |
+| 33 | denversky-sendvic | Denverský sendvič s omeletou se šunkou | afrs-2003 | N 018 00 | 1267 | snidane-a-pecivo | levne, tabor, rychle | Western Sandwich (Denver); šunka, cibule a paprika zamíchané do vajec, placka na plotně mezi chléb; mražená vejce → čerstvá |
+| 34 | kureci-chow-mein | Kuřecí chow mein se zelím a celerem | afrs-2003 | L 160 00 | 994 | maso-a-ryby | levne, tabor, kotlik, rychle | Chicken Chow Mein (Cooked Diced); vařené kuře na kostky; klíčky z konzervy; melasa; podávat na rýži nebo nudlích; Navy má jen `veprove-chop-suey` |
+| 35 | nemecky-zelny-salat-s-octem | Zelný salát s octem a olejem po německu | afrs-2003 | M 027 00 | 1150 | prilohy-a-zelenina | levne, tabor, bez-masa | German Cole Slaw; bez majonézy (na rozdíl od Navy `zelny-salat-cole-slaw`); pimiento → pečená paprika |
+| 36 | rychly-kolac-se-skoricovou-drobenkou | Rychlý koláč se skořicovou drobenkou | afrs-2003 | D 037 05 | 247 | sladke | levne, sladke, bez-masa | Quick Coffee Cake; bez droždí i bez biscuit mixu (D 037 00–04 jsou z mixu); sušené mléko, mražená vejce; vanilková poleva (cukr + máslo + vroucí voda) přímo na kartě; holandská trouba |
+| 37 | fazole-po-italsku | Zapékané fazole po italsku s rajčatovým protlakem | afrs-2003 | Q 004 00 | 1480 | prilohy-a-zelenina | levne, kotlik, bez-masa | Italian-Style Baked Beans; suché červené fazole, 1 h namáčení; olivový olej, bylinky, parmazán; dopékají se v troubě (lze dusit v hrnci) |
+| 38 | texaska-polevka-s-tortillami | Texaská polévka s tortillami, kukuřicí a fazolemi | afrs-2003 | P 025 00 | 1449 | polevky | levne, tabor, kotlik | Texas Tortilla Soup; proužky tortill se opékají v konvekční troubě → na suché pánvi; kuřecí vývar z instantu; konzervy (rajčata, kukuřice, fazole, jalapeños); cheddar navrch |
+| 39 | varena-vejce | Vařená vejce natvrdo a naměkko | afrs-2003 | F 004 00 | 335 | snidane-a-pecivo | levne, tabor, kotlik, rychle, bez-masa | Cooked Eggs; obě varianty na jedné kartě (natvrdo 10–15 min, naměkko 4 min, „DO NOT BOIL“); Note 3: zchladit studenou vodou pro saláty |
+| 40 | podmaslove-livance | Podmáslové lívance se sodou | afrs-2003 | D 025 01 | 177 | snidane-a-pecivo | levne, tabor, rychle, bez-masa | Buttermilk Pancakes (Dry Buttermilk); sušené podmáslí + jedlá soda → čerstvé podmáslí; mražená vejce; plotna; liší se od `americke-palacinky` (D 025 00) kypřením |
+
+### Dávka A5
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 41 | hneda-ryze-s-rajcaty | Hnědá rýže s rajčaty | afrs-2003 | E 019 00 | 323 | testoviny-a-ryze | levne, tabor, kotlik, bez-masa | Brown Rice with Tomatoes; zeleninový vývar → bez masa; parboiled hnědá rýže 35 min; Note: konvekční trouba alternativně |
+| 42 | sladkokysele-kure-s-ananasem | Sladkokyselé kuře s ananasem a paprikou | afrs-2003 | L 079 02 | 832 | maso-a-ryby | tabor, kotlik, rychle | Sweet and Sour Chicken (Cooked Diced); ananas z konzervy (šťáva do omáčky), sójová omáčka, ocet, zázvor; vařené kuře; Navy `sladkokysele-veprove` je vepřové |
+| 43 | cuketa-po-kreolsku | Cuketa po kreolsku s rajčaty | afrs-2003 | Q 062 00 | 1601 | prilohy-a-zelenina | levne, tabor, kotlik, rychle, bez-masa | Creole Summer Squash; summer squash → cuketa/patizon; drcená rajčata z konzervy |
+| 44 | chili-dog | Chili dog – párek v rohlíku s chilli | afrs-2003 | N 041 02 | 1314 | maso-a-ryby | levne, tabor, kotlik | Chili Dog; chilli = ⅛ „Recipe No. L 170 00“ Chili (Without Beans) – kartu nemáme, použít `chilli-con-carne`/`hovezi-chili-con-carne` bez fazolí; sýr, cibule |
+| 45 | hermits-pernicky-s-rozinkami | Melasové perníčky s rozinkami (hermits) | afrs-2003 | H 017 00 | 503 | sladke | levne, sladke, bez-masa | Hermits; melasa (→ tmavý sirup/cukr 1:1), muškát, skořice; mražená vejce; konvekční trouba |
+| 46 | salat-z-cervenych-fazoli | Salát z červených fazolí s vejcem a okurkou | afrs-2003 | M 031 00 | 1154 | prilohy-a-zelenina | levne, bez-masa | Kidney Bean Salad; fazole z konzervy, vejce natvrdo, sladký okurkový relish, majonézová zálivka (lednice) |
+| 47 | kure-cacciatore | Kuře na lovecký způsob (cacciatore) | afrs-2003 | L 148 01 | 968 | maso-a-ryby | levne, tabor, kotlik | Chicken Cacciatore (Cooked Diced); omáčka z drcených rajčat a protlaku 1 h, pak vařené kuře; varianta L 148 00 (8 kusů v troubě) vynechána; cibule v postupu, ne v surovinách – zkontrolovat |
+| 48 | celozrnne-livance | Celozrnné lívance | afrs-2003 | D 025 09 | 184 | snidane-a-pecivo | levne, tabor, rychle, bez-masa | Whole Wheat Pancakes; ½ celozrnná mouka; sušené mléko + mražená vejce; plotna – liší se od `americke-palacinky` (D 025 00) moukou |
+| 49 | kremova-brokolicova-polevka | Krémová brokolicová polévka | afrs-2003 | P 014 01 | 1424 | polevky | levne, tabor, kotlik, rychle | Cream of Broccoli Soup; mražená brokolice, jíška, kuřecí vývar z instantu, sušené mléko + voda |
+| 50 | fazolove-burrito | Fazolové burrito se třemi druhy fazolí | afrs-2003 | L 507 00 | 1085 | bezmasa | levne, tabor, rychle, bez-masa | Vegetarian Burrito; pinto, červené a černé fazole z konzervy 20 min s kořením; pšeničné tortilly 6", sýr Monterey Jack, salsa |
+
+### Dávka A6
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 51 | sladkokysela-veprova-zebirka | Sladkokyselá vepřová žebírka s ananasem | afrs-2003 | L 094 00 | 861 | maso-a-ryby | levne, kotlik | Sweet and Sour Spareribs; žebra nejdřív 45 min vařit, pak omáčka (drcený ananas, sója, ocet, hnědý cukr); dopékání v konvekční troubě – lze dusit v hrnci |
+| 52 | smazene-rezy-z-kukuricne-kase | Opečené řezy z kukuřičné kaše | afrs-2003 | E 002 01 | 295 | snidane-a-pecivo | levne, tabor, bez-masa, pripravit-predem | Fried Hominy Grits; kaše jako E 002 00, ztuhnout přes noc v lednici, nakrájet a opéct na plotně; ve městě s lednicí, v táboře ztuhne i v chladu |
+| 53 | rajcatovy-salat-se-slaninou | Rajčatový salát se slaninou a smetanovou zálivkou | afrs-2003 | M 053 00 | 1188 | prilohy-a-zelenina | rychle | German Style Tomato Salad; majonéza + smetana (lednice), opečená slanina; letní salát |
+| 54 | kure-po-kreolsku | Kuře po kreolsku s rajčaty a paprikou | afrs-2003 | L 154 01 | 983 | maso-a-ryby | levne, tabor, kotlik | Creole Chicken (Cooked Diced); restovaná cibule, paprika, celer + drcená rajčata, zahuštění moukou; podávat na rýži („Recipe No. E 005 00“ → `dusena-ryze`) |
+| 55 | cuketa-s-mrkvi-a-bazalkou | Restovaná cuketa s mrkví a bazalkou | afrs-2003 | Q 074 00 | 1618 | prilohy-a-zelenina | levne, tabor, rychle, bez-masa | Squash and Carrot Medley (Fresh); stir-fry v hrnci/pánvi; žlutá tykev + cuketa |
+| 56 | obraceny-kolac-s-ovocnym-koktejlem | Obrácený koláč s kompotovým ovocem | afrs-2003 | G 029 03 | 441 | sladke | levne, sladke, bez-masa | Fruit Cocktail Upside Down Cake; máslo + hnědý cukr + ovocný koktejl z konzervy na dno, navrch těsto (sušené mléko, mražená vejce); klasika z holandské trouby; ananasová varianta G 029 00 s maraschino třešněmi dražší |
+| 57 | kureci-biryani | Kuřecí biryani se špenátem a rajčaty | afrs-2003 | L 213 00 | 1070 | z-jednoho-hrnce | levne, kotlik | Chicken Briyani (Cooked Diced); rýže orestovaná na másle s kořením, vařené kuře, mražený špenát, rajčata z konzervy, kuřecí vývar; dokončení v konvekční troubě → dusit pod pokličkou |
+| 58 | mlecna-omacka-z-vypeku | Mléčná omáčka z výpeku (cream gravy) | afrs-2003 | O 017 00 | 1365 | prilohy-a-zelenina | levne, tabor, rychle | Cream Gravy; jíška z tuku a výpeku po pečení/smažení masa + mléko (sušené mléko + voda); k biscuits a smaženému masu; varianta O 017 01 s cibulí do `modernNote` |
+| 59 | pepper-pot-polevka | Paprikovo-bramborová polévka (pepper pot) | afrs-2003 | P 019 00 | 1435 | polevky | levne, tabor, kotlik | Pepper Pot Soup; AFRS verze bez dršťek – zelená paprika, celer, brambory, hovězí vývar z instantu, sušené mléko; pimiento |
+| 60 | hovezi-ragu-pod-biscuits | Hovězí ragú s bramborami pod biscuitovou poklicí (pot pie) | afrs-2003 | L 021 00 | 715 | z-jednoho-hrnce | levne, kotlik | Beef Pot Pie with Biscuit Topping; ragú v hrnci (rajčatová šťáva, mrkev, brambory), navrch těsto „baking powder biscuits“ (= `maslove-housky-biscuits`, D 001 00) a zapéct – ideál pro holandskou troubu |
+
+### Dávka A7
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 61 | mrkev-s-cibulkou-na-masle | Mrkev s cibulkou na másle (lyonnaise) | afrs-2003 | Q 017 00 | 1505 | prilohy-a-zelenina | levne, tabor, rychle, bez-masa | Lyonnaise Carrots; mražená mrkev → čerstvá; tilting fry pan → pánev |
+| 62 | toast-s-tunakem-a-syrem | Opečený sendvič s tuňákem a sýrem (tuna melt) | afrs-2003 | N 015 01 | 1259 | maso-a-ryby | tabor, rychle | Grilled Tuna and Cheese Sandwich; tuňák z konzervy s majonézou a relishem, plátek sýra, opéct na plotně |
+| 63 | orzo-s-citronem-a-bylinkami | Orzo s citronem a bylinkami | afrs-2003 | E 022 00 | 326 | testoviny-a-ryze | levne, tabor, rychle, bez-masa | Orzo with Lemon and Herbs; zálivka z dijonské hořčice, citronu a olivového oleje; těstoviny orzo (lze drobné těstoviny) |
+| 64 | jezci-masove-koule-s-ryzi | Ježci – masové koule s rýží v rajčatové omáčce | afrs-2003 | L 029 00 | 736 | maso-a-ryby | levne, kotlik | Beef Porcupines; refs „Recipe No. O 015 00“ tomato sauce (→ `rajcatova-omacka-navy` nebo hotová) a „E 005 00“ rýže (`dusena-ryze`); pečou se v troubě – lze dusit v hrnci |
+| 65 | fazolovy-salat-frijole | Fazolový salát se zelím, rajčaty a okurkou | afrs-2003 | M 004 00 | 1105 | prilohy-a-zelenina | levne, bez-masa, pripravit-predem | Frijole Salad; fazole marinovat ve francouzské zálivce ≥ 6 h (hotová l/c → `francouzska-zalivka`); zelenina až před podáváním |
+| 66 | tapiokovy-pudink | Tapiokový pudink | afrs-2003 | J 013 00 | 630 | sladke | levne, kotlik, sladke, bez-masa | Tapioca Pudding; sušené mléko + voda, mražená vejce; Note: šlehaná poleva „Recipe No. K 002 00“ a maraschino třešeň volitelně (vynechat); Navy `jablecny-tapiokovy-pudink` je s jablky bez mléka |
+| 67 | kukurice-s-cernymi-fazolemi | Kukuřice s černými fazolemi po mexicku | afrs-2003 | Q 080 00 | 1627 | prilohy-a-zelenina | levne, tabor, kotlik, rychle, bez-masa | Hacienda Corn and Black Beans; rajčata z konzervy, chilli, kmín; mražená kukuřice, černé fazole z konzervy |
+| 68 | ovesne-snidanove-rezy-s-ovocem | Ovesné snídaňové řezy s kompotovým ovocem | afrs-2003 | D 060 00 | 284 | snidane-a-pecivo | levne, sladke, bez-masa | Oats and Fruit Breakfast Squares; ovocný koktejl z konzervy (šťáva do těsta), ovesné vločky, egg substitute → vejce; Note 1: broskve/hrušky; trouba/holandská trouba |
+| 69 | kureci-stehna-teriyaki | Kuřecí stehna teriyaki | afrs-2003 | L 114 01 | 895 | maso-a-ryby | levne | Teriyaki Chicken (Thighs); omáčka z vody, sóji a ananasové šťávy; pečení v troubě pod pokličkou (lze dusit na pánvi); Note: hotová teriyaki omáčka |
+| 70 | tamale-kolac | Tamale koláč – mleté maso pod kukuřičnou kaší | afrs-2003 | L 057 00 | 792 | z-jednoho-hrnce | levne | Tamale Pie (Ground Beef); kukuřičná kaše uvařená v hrnci, maso s rajčaty, kukuřicí a olivami, navrch cheddar; zapéct – holandská trouba; konzervy (rajčata, kukuřice, olivy) |
+
+### Dávka A8
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 71 | dusena-cuketa-s-paprikou-a-celerem | Dušená cuketa s paprikou a celerem po louisiansku | afrs-2003 | Q 064 00 | 1603 | prilohy-a-zelenina | levne, tabor, kotlik, rychle, bez-masa | Louisiana Style Smothered Squash; Note: připravovat po 25 porcích, neloupat |
+| 72 | veprove-barbecue-v-housce | Vepřové v barbecue omáčce v housce | afrs-2003 | N 027 01 | 1285 | maso-a-ryby | levne, tabor, kotlik | Barbecued Pork Sandwich (Pork Butt); potřebuje vařené vepřové na kostky (pork,cooked,diced – z karty L 081 00 nebo zbytky); omáčka stejná jako Sloppy Joe (N 027 00) bez soli |
+| 73 | mexicky-bramborovy-salat | Mexický bramborový salát s fazolemi a brokolicí | afrs-2003 | M 062 00 | 1199 | prilohy-a-zelenina | levne, tabor, bez-masa | Mexican Potato Salad; octovo-olejová zálivka s jalapeños a kmínem (bez majonézy); fazole z konzervy; Note: mražená brokolice |
+| 74 | asijska-polevka-s-veprovym-a-ryzi | Asijská polévka s vepřovým, houbami a rýží | afrs-2003 | P 500 00 | 1454 | polevky | tabor, kotlik | Asian Stir Fry Soup; „ham broth (from mix)“ → vývar z uzeného; vodní kaštany z konzervy (vynechat/nahradit), mražený špenát |
+| 75 | arasidove-susenky | Arašídové sušenky | afrs-2003 | H 011 00 | 491 | sladke | levne, sladke, bez-masa | Peanut Butter Cookies; arašídové máslo, mražená vejce; váleček nakrájet na plátky; konvekční trouba |
+| 76 | tostady-s-masem-a-fazolemi | Tostady s mletým masem a smaženými fazolemi | afrs-2003 | L 046 00 | 775 | maso-a-ryby | levne, tabor | Beef and Bean Tostadas; „beans, refried“ z konzervy → `smazene-fazole-se-syrem` (Q 038 00); guacamole „Recipe No. M 052 00“ volitelně; kukuřičné tortilly 6" |
+| 77 | bananovy-chlebicek | Banánový chlebíček s ořechy | afrs-2003 | D 030 00 | 206 | snidane-a-pecivo | sladke, bez-masa | Banana Bread; jablečné pyré slazené, mražená vejce, ořechy; konvekční trouba, forma – holandská trouba jde |
+| 78 | kureci-adobo | Kuřecí adobo s octem a sójovou omáčkou | afrs-2003 | L 078 00 | 829 | maso-a-ryby | levne, kotlik | Chicken Adobo (8 PC); marináda z octa, sóji, zázvoru, česneku; v originále v troubě v pekáči pod víkem, omáčka zahuštěná škrobem v hrnci – lze celé dusit v hrnci; vepřová verze `veprove-adobo` už je |
+| 79 | bramborove-placky-z-kase | Bramborové placičky z kaše opečené na plotně | afrs-2003 | Q 048 01 | 1573 | prilohy-a-zelenina | levne, tabor, bez-masa | Grilled Potato Patties; vařené brambory umačkat s margarínem, mlékem (sušené + voda) a vejci, obalit ve strouhance, opéct; jiné než syrové `bramborove-placky` |
+| 80 | tunakovy-salat-s-vejcem | Tuňákový salát s vejcem a celerem | afrs-2003 | L 132 00 | 933 | maso-a-ryby | rychle | Tuna Salad; tuňák ve vlastní šťávě, majonéza (lednice), relish, vejce natvrdo; na salátový list nebo do chleba |
+
+### Dávka A9
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 81 | rychly-vanilkovy-kolac | Rychlý vanilkový koláč z bílků | afrs-2003 | G 023 00 | 426 | sladke | levne, sladke, bez-masa | Easy Vanilla Cake; mouka „potřená“ olejem, sušené mléko, mražené bílky; konvekční trouba |
+| 82 | fazolova-polevka-po-staru | Fazolová polévka po staru s rajčaty a mrkví | afrs-2003 | P 008 03 | 1404 | polevky | levne, tabor, kotlik | Old Fashioned Bean Soup; suché bílé fazole, rychlé namáčení; „ham broth (from mix)“ → vývar z uzeného kolena; jiná než Navy `polevka-z-bilych-fazoli` (rajčata, mrkev, zahuštění) |
+| 83 | sladkokysela-omacka-s-ananasem | Sladkokyselá omáčka s ananasovou šťávou | afrs-2003 | O 026 00 | 1378 | prilohy-a-zelenina | levne, tabor, kotlik, rychle, bez-masa | Oriental Sweet and Sour Sauce; ananasová šťáva z konzervy, cukr, ocet, sója, zázvor, zahuštění škrobem; k rýži, `vajecne-placky-se-zeleninou` (F 006 00), masu |
+| 84 | mrkvovy-salat-s-rozinkami | Mrkvový salát s rozinkami a celerem | afrs-2003 | M 005 00 | 1106 | prilohy-a-zelenina | levne, rychle, bez-masa | Carrot Salad; zálivka z majonézy, mléka (sušené + voda), cukru a citronu (lednice); Navy `mrkvovy-salat-s-celerem` je bez rozinek a sladké zálivky |
+| 85 | snidanove-burrito | Snídaňové burrito s vejci, klobásou a sýrem | afrs-2003 | F 012 00 | 360 | snidane-a-pecivo | tabor, rychle | Breakfast Burrito; mražená vejce + bílky → čerstvá vejce; vařená vepřová klobása, cheddar; Note: ½ No. 10 konzervy krájených rajčat místo čerstvých |
+| 86 | fazolky-s-kukurici-a-slaninou | Zelené fazolky s kukuřicí a slaninou | afrs-2003 | Q 039 00 | 1546 | prilohy-a-zelenina | levne, tabor, rychle | Green Beans with Corn (Frozen Beans); kukuřice „cream style“ z konzervy; slaninový tuk |
+| 87 | jablecne-muffiny | Jablečné muffiny se skořicí | afrs-2003 | D 053 00 | 275 | snidane-a-pecivo | levne, sladke, bez-masa | Applesauce Muffins; jablečné pyré bez cukru, mražená vejce a bílky; muffinová forma – lze holandská trouba ve formičkách; varianty s rozinkami/pomerančem do `modernNote` |
+| 88 | kure-v-barbecue-omacce | Kuře v barbecue omáčce | afrs-2003 | L 146 00 | 962 | maso-a-ryby | levne | Barbecued Chicken (8 PC); omáčka (kečup, chilli omáčka, ocet, worcester, hořčice) povařit v hrnci, kuře péct v konvekční troubě – lze na roštu/grilu |
+| 89 | kruti-ragu-po-rusku-s-nudlemi | Krůtí ragú po rusku s houbami a nudlemi | afrs-2003 | L 500 00 | 1079 | z-jednoho-hrnce | tabor, kotlik | Russian Turkey Stew; odpařené mléko (skim) z konzervy, paprika, drůbeží koření; sušená petržel (DEHYDRATED); vaječné nudle se vaří zvlášť |
+| 90 | spenat-s-octovou-cibulkou | Špenát s restovanou cibulkou a octem | afrs-2003 | Q 063 00 | 1602 | prilohy-a-zelenina | levne, tabor, rychle, bez-masa | Tangy Spinach; mražený špenát; jednoduchá kyselá úprava |
+
+### Dávka A10
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 91 | pikantni-pilaf-z-hnede-ryze | Pikantní pilaf z hnědé rýže | afrs-2003 | E 018 00 | 322 | testoviny-a-ryze | levne, tabor, kotlik | Spicy Brown Rice Pilaf; kuřecí vývar z instantu s paprikou, hořčicí, kmínem, oregánem; zelenina restovaná zvlášť; Note: varianta v troubě |
+| 92 | muffin-se-slaninou-vejcem-a-syrem | Anglický muffin se slaninou, vejcem a sýrem | afrs-2003 | N 007 00 | 1233 | snidane-a-pecivo | tabor, rychle | English Muffin with Bacon, Egg and Cheese; slanina dle „Recipe No. L 002 00 / L 002 02“ (na pánvi); muffiny `anglicke-muffiny` (D 021 00); toast v konvekční troubě → pánev; mražená vejce |
+| 93 | snickerdoodles | Skořicové sušenky (snickerdoodles) | afrs-2003 | H 013 02 | 498 | sladke | levne, sladke, bez-masa | Snickerdoodle Cookies; těsto = Sugar Cookies (H 013 00) obalené ve skořicovém cukru; sušené mléko, mražená vejce |
+| 94 | enchiladas-s-mletym-masem | Enchiladas s mletým masem a chilli omáčkou | afrs-2003 | L 063 00 | 803 | maso-a-ryby | levne | Enchiladas (Ground Beef); omáčka vlastní (jíška, protlak, chilli, kmín, hovězí vývar) – žádný polotovar; kukuřičné tortilly, cheddar; zapéct v troubě/holandské troubě |
+| 95 | tunakove-placicky-s-asijskou-omackou | Tuňákové placičky s asijskou omáčkou | afrs-2003 | L 202 00 | 1060 | maso-a-ryby | tabor | Oriental Tuna Patties; omáčka (sója, limeta, hnědý cukr, zázvor) zahuštěná škrobem; placičky s arašídy a křenem na plotně; mražená vejce; Note: lze v troubě |
+| 96 | dynovy-chlebicek-s-rozinkami | Dýňový chlebíček s rozinkami a ořechy | afrs-2003 | D 011 00 | 137 | snidane-a-pecivo | sladke, bez-masa | Pumpkin Bread; dýně z konzervy (solid pack) → pyré z hokkaida; skořice, nové koření, muškát, hřebíček; mražená vejce; forma – holandská trouba |
+| 97 | kysane-zeli-s-jablky-a-slaninou | Kysané zelí s jablky, slaninou a kmínem | afrs-2003 | Q 059 00 | 1598 | prilohy-a-zelenina | levne, tabor, kotlik | German Sauerkraut; kysané zelí z konzervy i s nálevem; 1½ h dusit; jiné než `dusene-kysane-zeli` (jablka, hnědý cukr, slanina) |
+| 98 | kukurice-obrien | Kukuřice O’Brien se slaninou a paprikou | afrs-2003 | Q 027 01 | 1522 | prilohy-a-zelenina | levne, tabor, rychle | Corn O'Brien; slanina dle „Recipe No. L 002 00 / L 002 02“ (na pánvi); kukuřice z konzervy, pimiento |
+| 99 | zelny-salat-s-jablky-a-rozinkami | Zelný salát s jablky a rozinkami | afrs-2003 | M 001 02 | 1100 | prilohy-a-zelenina | levne, bez-masa | Cabbage, Apple, and Raisin Salad; majonéza (lednice); 2–3 h odležet |
+| 100 | smazena-ryze-s-veprovym | Smažená rýže s vepřovým a vejcem | afrs-2003 | E 007 00 | 307 | testoviny-a-ryze | levne, tabor | Pork Fried Rice; originál rýži i směs peče v konvekční troubě, Note 2 dává plotnu/tilting fry pan → celé na pánvi; vařené vepřové na kostky (zbytky; Note 1 šunka), mražená vejce (omeleta na nudličky), sója |
+
+### Dávka A11
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 101 | pecena-jablka-se-skorici | Pečené plátky jablek se skořicovým cukrem | afrs-2003 | J 023 00 | 649 | sladke | levne, sladke, bez-masa | Baked Cinnamon Apple Slices; jablka z konzervy (No. 10, plátky) → čerstvá; konvekční trouba 20 min – jde i v hrnci/holandské troubě; podobné Navy `jablka-na-masle`, ale bez másla, pečené |
+| 102 | polevka-s-tortellini-a-cuketou | Rajčatová polévka s tortellini a cuketou | afrs-2003 | P 026 00 | 1450 | polevky | tabor, kotlik, rychle | Tortellini Soup; mražené sýrové tortellini (polotovar, ale běžný), rajčata z konzervy, kuřecí vývar, parmazán |
+| 103 | grilovana-klobasa | Grilovaná klobása | afrs-2003 | L 088 00 | 850 | maso-a-ryby | levne, tabor, rychle | Grilled Polish Sausage; syrová polská klobása; Note: alternativně povařit 10 min (jako L 088 05 Knockwurst); hotové `parky-na-ohni` jsou frankfurtské párky |
+| 104 | korenny-kolac-s-melasou | Kořenný koláč s melasou | afrs-2003 | G 025 00 | 428 | sladke | levne, sladke, bez-masa | Spice Cake; skořice, hřebíček, nové koření, melasa; sušené mléko, mražená vejce; plech/holandská trouba |
+| 105 | ovesne-muffiny-s-rozinkami | Ovesné muffiny s rozinkami | afrs-2003 | D 029 09 | 205 | snidane-a-pecivo | levne, sladke, bez-masa | Oatmeal Raisin Muffins; varianta základních Muffins (D 029 00) s vločkami a skořicí; sušené mléko, mražená vejce, jablečné pyré |
+| 106 | zapekane-makarony-se-sunkou-a-rajcaty | Zapékané makarony se šunkou a rajčaty | afrs-2003 | L 072 00 | 820 | testoviny-a-ryze | levne | Baked Ham, Macaroni, and Tomatoes (Canned Ham); šunka z konzervy, houby z konzervy, drcená rajčata, tavený sýr navrch; trouba/holandská trouba; varianty L 072 01/02 vynechány |
+| 107 | zapecene-kure-s-ryzi | Zapečené kuře s rýží v bílé omáčce | afrs-2003 | L 048 00 | 777 | z-jednoho-hrnce | levne | Baked Chicken and Rice (Cooked Diced); rýže v hrnci, bílá omáčka ze sušeného mléka, vařené kuře, strouhanka; zapéct – holandská trouba |
+| 108 | bramborovy-salat-s-octovou-zalivkou | Bramborový salát s octovou zálivkou (bez majonézy) | afrs-2003 | M 040 02 | 1167 | prilohy-a-zelenina | levne, tabor, bez-masa | Potato Salad with Vinegar Dressing; varianta `bramborovy-salat` (M 040 00) bez majonézy – vhodná ven; relish, pimiento |
+| 109 | marinara | Omáčka marinara | afrs-2003 | O 004 00 | 1338 | prilohy-a-zelenina | levne, tabor, kotlik, bez-masa | Marinara Sauce; drcená rajčata + protlak, bylinky; k těstovinám (E 004 00 Boiled Pasta) – základ, který sbírce chybí |
+| 110 | monte-cristo | Sendvič Monte Cristo smažený ve vejci | afrs-2003 | N 025 00 | 1282 | maso-a-ryby | tabor, rychle | Monte Cristo Sandwich; šunka, krůta, ementál mezi chlebem, namočit do vajec s mlékem (sušené mléko, mražená vejce) a opéct na plotně |
+
+### Dávka A12
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 111 | brokolice-s-maslovou-strouhankou | Brokolice s máslovou strouhankou a vejcem (polonaise) | afrs-2003 | Q 010 00 | 1494 | prilohy-a-zelenina | levne, tabor, rychle, bez-masa | Broccoli Polonaise; mražená brokolice; varianty s růžičkovou kapustou a květákem (Q 010 01/02) do `modernNote` |
+| 112 | krehke-sirupove-susenky | Křehké sirupové sušenky | afrs-2003 | H 015 00 | 501 | sladke | levne, sladke, bez-masa | Crisp Drop Cookies; sirup (glukózový/světlý), sušené mléko se sodou, mražená vejce |
+| 113 | zapecene-nudle-s-tunakem | Zapečené nudle s tuňákem a celerem | afrs-2003 | L 133 00 | 935 | testoviny-a-ryze | levne | Baked Tuna and Noodles; bílá omáčka ze sušeného mléka, tuňák z konzervy, pimiento, strouhanka; trouba; varianta L 133 01 s houbovou polévkou (polotovar) vynechána |
+| 114 | salat-z-cernych-fazoli-s-kukurici | Marinovaný salát z černých fazolí s kukuřicí | afrs-2003 | M 074 00 | 1213 | prilohy-a-zelenina | levne, tabor, bez-masa | Marinated Black Bean Salad; fazole z konzervy, mražená kukuřice, citron, koriandr, jalapeños; Note 1: suché fazole dle „Recipe No. Q 030 00“ (zřejmě překlep za Q 003 00 Boston Baked Beans) |
+| 115 | broskvovy-cobbler | Broskvový cobbler | afrs-2003 | I 010 01 | 546 | sladke | sladke, bez-masa | Peach Cobbler; těsto 1¼ „Pie Crust, Recipe No. I 001 00“; náplň „pie filling, peach, prepared“ (polotovar) → broskve z konzervy zahuštěné škrobem; plech – holandská trouba; jablečná varianta I 010 00 |
+| 116 | veprova-zebirka-v-barbecue-omacce | Vepřová žebírka v barbecue omáčce | afrs-2003 | L 092 00 | 858 | maso-a-ryby | levne, kotlik | Barbecued Spareribs; žebra 45 min povařit, potřít omáčkou (chilli omáčka, kečup, worcester, hořčice, ocet) a dopéct/ogrilovat; Navy `dusena-veprova-zebra` je dušená bez BBQ |
+| 117 | testovinovy-salat-s-tunakem | Těstovinový salát s tuňákem a vejcem | afrs-2003 | L 116 00 | 897 | testoviny-a-ryze | levne, pripravit-predem | Macaroni Tuna Salad; kolínka, tuňák z konzervy, majonéza (lednice), vejce natvrdo, relish; Navy `Macaroni or Spaghetti Salad` je bez tuňáku |
+| 118 | zelenina-s-medovo-horcicnou-glazurou | Zelenina s medovo-hořčičnou glazurou | afrs-2003 | Q 082 00 | 1629 | prilohy-a-zelenina | tabor, rychle, bez-masa | Honey Dijon Vegetables; mražená mrkev, květák, růžičková kapusta; zeleninový vývar, dijonská hořčice, med, škrob |
+| 119 | jablecny-kolac-s-celozrnnou-moukou | Jablečný koláč s celozrnnou moukou a hnědým cukrem | afrs-2003 | D 057 00 | 281 | sladke | levne, sladke, bez-masa | Apple Coffee Cake; jablka z konzervy s pomerančovou šťávou a skořicí, sušené mléko, bílky; „Recipe No. D 046 00“ vanilková poleva volitelně; ≠ `jablecny-kolac` (G 002 00 Applesauce Cake) |
+| 120 | ryzovy-pilaf | Rýžový pilaf s cibulkou | afrs-2003 | E 008 00 | 310 | testoviny-a-ryze | levne, kotlik | Rice Pilaf; rýže orestovaná na másle s cibulí, kuřecí vývar z instantu; dokončení v konvekční troubě pod víkem – lze v hrnci; varianta Orange Rice E 008 01 do `modernNote` |
+
+### Dávka A13
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 121 | ovesne-karbanatky-s-orechy-a-syrem | Ovesné karbanátky s ořechy a sýrem (veggie burger) | afrs-2003 | N 051 00 | 1327 | bezmasa | bez-masa, rychle | Vegetarian Hearty Burger; vločky, vlašské ořechy, mozzarella, bílky, sója, šalvěj; plotna (Note: trouba); v housce |
+| 122 | rajcatova-omacka-z-vypeku | Rajčatová omáčka z výpeku | afrs-2003 | O 019 00 | 1368 | prilohy-a-zelenina | levne, tabor, rychle | Tomato Gravy; cibule na výpeku + mouka, rajčatová šťáva z konzervy + hovězí vývar z instantu |
+| 123 | ryzova-frittata-se-zeleninou | Rýžová frittata se zeleninou a sýrem | afrs-2003 | L 174 00 | 1027 | bezmasa | levne, bez-masa | Rice Frittata; rýže, rajčata, houby z konzervy, paprika, cheddar, vejce + bílky + mléko (sušené); pečení v konvekční troubě – jde na pánvi pod pokličkou |
+| 124 | korenene-cervene-fazole-s-kminem | Kořeněné červené fazole s kmínem (bez slaniny) | afrs-2003 | Q 005 01 | 1483 | prilohy-a-zelenina | levne, tabor, kotlik, bez-masa | Savory Style Beans; suché fazole, rychlé namáčení; varianta Q 005 00 (hotová) bez slaniny, s kmínem a celerem |
+| 125 | zluty-kolac | Žlutý koláč z plechu | afrs-2003 | G 032 00 | 448 | sladke | levne, sladke, bez-masa | Yellow Cake; základní korpus pro G 032 01–08 (Boston cream pie, marble…); sušené mléko, mražená vejce; konvekční trouba; polevy z kapitoly G |
+| 126 | kapusta-na-sladkokyselo-s-uzenym | Kapusta na sladkokyselo s uzeným kolenem | afrs-2003 | Q 029 02 | 1527 | prilohy-a-zelenina | levne, tabor, kotlik | Sweet Sour Greens; collard greens → kapusta/kadeřávek; koleno 2½ h, pak zelí s cukrem a octem; Note: slanina místo kolen; liší se od Q 029 03 octem a cukrem |
+| 127 | ryzovy-salat-se-zeleninou | Rýžový salát se zeleninou a jogurtovou zálivkou | afrs-2003 | M 072 00 | 1210 | prilohy-a-zelenina | levne, bez-masa, pripravit-predem | Confetti Rice Salad; jogurt + majonéza (lednice); rýže vychladit; pimiento |
+| 128 | marinovana-mrkev | Marinovaná mrkev v rajčatové zálivce | afrs-2003 | M 020 00 | 1136 | prilohy-a-zelenina | levne, bez-masa, pripravit-predem | Marinated Carrots („copper pennies“); kondenzovaná rajčatová polévka (polotovar) → protlak + voda; mrkev povařit, marinovat |
+| 129 | taco-salat | Taco salát s chilli a kukuřičnými chipsy | afrs-2003 | M 028 00 | 1151 | maso-a-ryby | tabor, rychle | Taco Salad; chilli = ½ „Recipe No. L 028 00“ (hotové, AFRS `chilli-con-carne`) nebo L 059 00; římský salát, cheddar, kukuřičné chipsy, taco omáčka (O 007 00) |
+| 130 | kruti-karbanatky-z-plotny | Krůtí karbanátky z plotny | afrs-2003 | L 184 00 | 1039 | maso-a-ryby | tabor, rychle | Grilled Turkey Patties (Ground Turkey); mletá krůta, strouhanka, cibule, petržel, hořčice; 8 min z každé strany; Note: trouba |
+
+### Dávka A14
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 131 | batatove-ragu-s-cernymi-fazolemi | Batáty s černými fazolemi a kukuřicí | afrs-2003 | L 196 00 | 1054 | bezmasa | levne, tabor, kotlik, bez-masa | Southwestern Sweet Potatoes, Black Beans, and Corn; mražené batáty (Note 2: čerstvé), fazole z konzervy (Note 1: suché dle Q 003 00), jalapeños, kmín, limeta; tilting fry pan → hrnec |
+| 132 | zapekane-nudle-se-sunkou | Zapékané nudle se šunkou v bílé omáčce | afrs-2003 | L 068 00 | 811 | testoviny-a-ryze | levne | Scalloped Ham and Noodles; šunka z konzervy (kousky + šťáva do omáčky), sušené mléko, strouhanka; trouba; Note: makarony místo nudlí; Navy `Ham and Noodles au Gratin` je se sýrem |
+| 133 | sendvic-s-masovymi-kulickami | Bageta s masovými kulickami v pizza omáčce | afrs-2003 | N 022 00 | 1276 | maso-a-ryby | levne | Cannonball Sandwich (Meatball); kuličky z mletého hovězího se strouhankou a vejci (mražená) pečené v konvekční troubě → pánev; pizza omáčka z konzervy (karta O 012 00) |
+| 134 | houska-se-sunkou-vejcem-a-syrem | Opečená houska se šunkou, vejcem a sýrem | afrs-2003 | N 037 00 | 1305 | snidane-a-pecivo | tabor, rychle | Grilled Ham, Egg and Cheese Sandwich; vejce po ¼ cup na plotně, šunka, tavený sýr, hamburgerová houska; blízké N 007 00 (jiné pečivo, šunka místo slaniny) |
+| 135 | taco-omacka | Syrová taco omáčka z rajčat a jalapeños | afrs-2003 | O 007 00 | 1344 | prilohy-a-zelenina | levne, rychle, bez-masa | Taco Sauce; drcená rajčata z konzervy, cibule, jalapeños; 1 h odležet v chladu; k `tacos` (L 034 00), tostadám, burritu |
+| 136 | brokolice-s-bylinkami | Brokolice vařená s majoránkou a bazalkou | afrs-2003 | Q 065 00 | 1605 | prilohy-a-zelenina | levne, tabor, rychle, bez-masa | Herbed Broccoli; mražená brokolice s cibulí a bylinkami; část vody na omáčku |
+| 137 | cukrove-susenky-afrs | Cukrové sušenky | afrs-2003 | H 013 00 | 496 | sladke | levne, sladke, bez-masa | Sugar Cookies; základ pro snickerdoodles (H 013 02); sušené mléko, mražená vejce; váleček na plátky |
+| 138 | citronove-susenky-afrs | Citronové sušenky obalené v cukru | afrs-2003 | H 021 00 | 511 | sladke | sladke, bez-masa | Lemon Cookies; máslo + tuk, citronové aroma, obalit v moučkovém cukru; mražená vejce; varianty pomerančová/vanilková (H 021 02/03) do `modernNote` |
+| 139 | batatove-rezy-s-rozinkami | Kořeněné batátové řezy s rozinkami (abracadabra bars) | afrs-2003 | H 025 00 | 518 | sladke | levne, sladke, bez-masa | Abracadabra Bars; batáty z konzervy se sirupem → upečené batáty/dýně; zázvor, skořice, hřebíček; bez vajec |
+| 140 | skoricove-saneky | Skořicové šneky z kynutého těsta | afrs-2003 | D 036 04 | 228 | snidane-a-pecivo | sladke, bez-masa | Cinnamon Rolls; sladké těsto (D 036 00) + skořicová náplň „Recipe No. D 042 00“ + vanilková poleva „D 046 00“; sušené mléko, mražená vejce; kynuté, trouba |
+
+### Dávka A15
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 141 | orzo-se-spenatem-a-rajcaty | Orzo se špenátem, rajčaty a parmazánem | afrs-2003 | E 023 00 | 327 | testoviny-a-ryze | tabor, rychle, bez-masa | Orzo, with Spinach, Tomato, and Onion; mražený špenát, rajčata z konzervy, kmín, parmazán |
+| 142 | cibulova-omacka | Cibulová omáčka (onion gravy) | afrs-2003 | O 016 06 | 1361 | prilohy-a-zelenina | levne, tabor, kotlik, rychle | Onion Gravy; jíška + hovězí vývar z instantu + orestovaná cibule; k bramborové kaši, karbanátkům; Navy `hneda-omacka-navy` je bez cibule |
+| 143 | bagely | Bagely vařené a pečené | afrs-2003 | D 013 00 | 140 | snidane-a-pecivo | levne, bez-masa | Bagels; tuhé kynuté těsto (Note 1: 60qt mixér pro 100 porcí – pro 4 porce ručně), krátce povařit ve vodě, pak upéct; trouba/holandská trouba |
+| 144 | cesnekove-krutony | Česnekové krutony ze starého chleba | afrs-2003 | D 016 01 | 150 | snidane-a-pecivo | levne, rychle, bez-masa | Garlic Croutons; starý bílý chléb na kostky, opéct (v originále trouba – jde na pánvi), polít česnekovým máslem; k polévkám; Note: 2 lb chleba ≈ 1 gal krutonů |
+| 145 | zapadni-omeleta-se-sunkou | Westernová omeleta se šunkou, cibulí a paprikou | afrs-2003 | F 008 10 | 347 | snidane-a-pecivo | tabor, rychle | Western Omelet; náplň z orestované cibule, papriky a mleté šunky; mražená vejce; varianta F 008 00 – liší se náplní |
+| 146 | zahradni-salat-s-cottage-syrem | Zahradní salát s cottage sýrem, ředkvičkami a okurkou | afrs-2003 | M 018 00 | 1134 | prilohy-a-zelenina | levne, rychle, bez-masa | Garden Cottage Cheese Salad; cottage (lze tvaroh) + okurka, ředkvičky, jarní cibulka, celer, paprika; na salátový list; blízké české tvarohové pomazánce; chlazení (lednice) |
+| 147 | muffiny-s-ovesnymi-otrubami | Muffiny s ovesnými otrubami a rozinkami | afrs-2003 | D 044 00 | 263 | snidane-a-pecivo | levne, sladke, bez-masa | Oat Bran Raisin Muffins; vločky + ovesné otruby, hnědý cukr; sušené mléko, mražená vejce; konvekční trouba |
+| 148 | cokoladovy-kolac-devils-food | Čokoládový koláč devil's food | afrs-2003 | G 012 00 | 401 | sladke | sladke, bez-masa | Devil's Food Cake; kakao, soda, sušené mléko, mražená vejce, tuk – na rozdíl od G 011 00 s vejci a mlékem; poleva např. G 015 00 Chocolate Fudge Frosting |
+| 149 | bageta-s-pikantni-italskou-klobasou | Bageta s pikantní italskou klobásou v pizza omáčce | afrs-2003 | N 022 01 | 1277 | maso-a-ryby | levne, rychle | Hot Italian Sausage Sandwich; klobásy podlité vodou se pečou pod víkem v troubě 400 °F (jde na pánvi pod pokličkou); pizza omáčka z konzervy (karta O 012 00 Pizza Sauce); francouzská bageta |
+| 150 | snidanovy-chlebovy-nakyp-s-broskvemi | Snídaňový chlebový nákyp s broskvemi a granolou | afrs-2003 | J 022 00 | 648 | snidane-a-pecivo | levne, sladke | Breakfast Bread Pudding; broskve z konzervy, kostky bílého chleba, sušené mléko, egg substitute → vejce, granola navrch; trouba/holandská trouba; ≠ Navy `chlebovy-pudink` (bez ovoce, dezert) |

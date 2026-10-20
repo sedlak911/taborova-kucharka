@@ -1,0 +1,92 @@
+{
+  "id": "hopping-john",
+  "title": "Hopping John – černooké fazole s rýží a slaninou",
+  "titleOriginal": "Hopping John (Black-Eye Peas with Rice)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "spek",
+      "amount": 55,
+      "unit": "g",
+      "note": "syrová, nakrájená na kousky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 40,
+      "unit": "g",
+      "note": "nadrobno"
+    },
+    {
+      "ingredientId": "fazole-cernooke-v-konzerve",
+      "amount": 490,
+      "unit": "g",
+      "note": "včetně nálevu (zdroj: 27 lb „incl liquids“)"
+    },
+    {
+      "ingredientId": "ryze-hneda",
+      "amount": 60,
+      "unit": "g",
+      "note": "dlouhozrnná"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 160,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.01,
+      "unit": "g",
+      "note": "zdroj: 1/8 lžičky na 100 porcí"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 4,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Slaninu nakrájej na kousky a na dně hrnce opékej dokřupava. Vyndej ji a nech v hrnci tuk.",
+      "minutes": 12
+    },
+    {
+      "text": "Cibuli nakrájej nadrobno a restuj ji na tuku ze slaniny 1 až 2 minuty, dokud lehce nezhnědne. Dobře ji scedí od tuku.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej nescezené černooké fazole i s nálevem, rýži, vodu, orestovanou cibuli, slaninu, černý a červený pepř a česnek. Dobře promíchej, přiveď k varu, přikryj a na mírném ohni vař 25 minut, dokud rýže nezměkne.",
+      "minutes": 35
+    },
+    {
+      "text": "Sundej z ohně."
+    }
+  ],
+  "modernNote": "Zdroj: 100 porcí, porce 2/3 hrnku, 177 kcal. Konzerva černookých fazolí se vaří i s nálevem (27 lb na 100 porcí = asi 490 g, tedy jedna větší konzerva 400–500 g); rýže se vaří přímo v nich, takže stačí 160 ml vody navíc. Tuk na restování (2 oz na 100 porcí) se vytopí ze slaniny. Hnědá rýže bývá měkká až po 40 až 45 minutách; doba ze zdroje (25 minut) je ponechána, pokud je rýže tvrdá, přidej trochu vody a duš déle. Jako hlavní jídlo počítej asi 30 g slaniny na osobu. Kalorie: 211 kcal na porci proti 177 v kartě; rozdíl je z větší části v slanině, kterou karta po opečení scedí od tuku (katalogová hodnota počítá syrovou slaninu včetně vypečeného tuku).",
+  "source": {
+    "book": "afrs-2003",
+    "page": 314,
+    "code": "E 010 01",
+    "titleOriginal": "HOPPING JOHN (BLACK-EYE PEAS WITH RICE)"
+  },
+  "verified": true,
+  "quote": "Bring to a boil; cover tightly; reduce heat; simmer 25 minutes or until rice is tender."
+}

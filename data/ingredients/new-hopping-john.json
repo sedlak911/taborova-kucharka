@@ -1,0 +1,28 @@
+[
+  {
+    "id": "fazole-cernooke-v-konzerve",
+    "name": "Fazole černooké v konzervě (včetně nálevu)",
+    "aliases": [
+      "černooké fazole z konzervy",
+      "black-eyed peas, canned",
+      "blackeye peas canned",
+      "cowpeas canned"
+    ],
+    "category": "konzervy",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 77,
+      "protein": 4.74,
+      "carbs": 13.63,
+      "fat": 0.55,
+      "fiber": 3.3
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173760 (Cowpeas, common (blackeyes, crowder, southern), mature seeds, canned, plain; pevná část s nálevem)",
+      "refuse": "USDA fdc:173760 refusePct 0"
+    }
+  }
+]

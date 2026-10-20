@@ -1,0 +1,75 @@
+{
+  "id": "sirup-z-hnedeho-cukru",
+  "title": "Javorový sirup z hnědého cukru",
+  "titleOriginal": "Maple Syrup",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 63,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle",
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [],
+  "ingredients": [
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 120,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.17,
+      "unit": "g",
+      "note": "karta „<1/16 oz“ (horní mez 1,8 g)"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 2,
+      "unit": "g",
+      "note": "CORNSTARCH; zahušťuje"
+    },
+    {
+      "ingredientId": "javorove-aroma",
+      "amount": 1,
+      "unit": "g",
+      "note": "FLAVORING,MAPLE; přidej až mimo oheň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hnědý cukr, vodu, sůl a škrob smíchej v hrnci a přiveď k varu.",
+      "minutes": 4
+    },
+    {
+      "text": "Sniž plamen a vař asi 10 minut, dokud nezhoustne.",
+      "minutes": 10
+    },
+    {
+      "text": "Sundej z ohně a vmíchej javorové aroma.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Karta D 050 00 uvádí „Yield 100“, ale „Portion 1 Gallon“ a „Calories 7143“: sirup z receptu (4⅛ lb cukru + 4⅛ lb vody) dá zhruba 1 galon (3,8 l) a 7143 kcal je energie celé dávky, ne jedné porce (1835 g sacharidů ≈ 7 300 kcal). Přepočet proto vychází z porce 60 ml sirupu k lívancům: 1 galon ÷ 60 ml ≈ 63 porcí, tedy originalYield 63 (faktor 4/63) a 4 porce ≈ 240 ml sirupu (asi 113 kcal na porci = 7143 ÷ 63). Sůl je ve zdroji jen stopově („<1/16 oz“, horní mez). Horký sirup je řídký, chladnutím houstne. Ke lívancům (americke-palacinky).",
+  "source": {
+    "book": "afrs-2003",
+    "page": 272,
+    "code": "D 050 00",
+    "titleOriginal": "MAPLE SYRUP"
+  },
+  "verified": true,
+  "quote": "Hot syrup will be thin, but will thicken upon cooling."
+}

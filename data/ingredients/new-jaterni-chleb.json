@@ -22,6 +22,7 @@
     },
     "ediblePortion": 1,
     "allergens": [],
+    "containsMeat": true,
     "sources": {
       "nutrition": "USDA SR Legacy fdc:169599 (Gelatins, dry powder, unsweetened)",
       "units": "1 polévková lžíce ≈ 7 g (USDA envelope 1 tbsp = 7 g)",

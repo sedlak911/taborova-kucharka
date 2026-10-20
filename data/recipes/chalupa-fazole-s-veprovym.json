@@ -1,0 +1,37 @@
+{
+  "id": "chalupa-fazole-s-veprovym",
+  "title": "Chalupa s pinto fazolemi a vepřovým",
+  "titleOriginal": "Chalupa",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 200,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "fazole-pinto-suche", "amount": 155, "unit": "g", "note": "suché; přes 2 min var a 1 h namočení" },
+    { "ingredientId": "veprova-kyta", "amount": 580, "unit": "g", "note": "syrová, na kostky" },
+    { "ingredientId": "voda", "amount": 760, "unit": "ml", "note": "do jídla; vsákne se do fazolí a zčásti odpaří" },
+    { "ingredientId": "cibule", "amount": 30, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "sul", "amount": 7, "unit": "g" },
+    { "ingredientId": "chilli-prasek", "amount": 10, "unit": "g", "note": "tmavé, mleté" },
+    { "ingredientId": "kmin-mlety", "amount": 4, "unit": "g" },
+    { "ingredientId": "oregano", "amount": 7, "unit": "g", "note": "drcený" },
+    { "ingredientId": "jalapeno", "amount": 4, "unit": "g", "note": "z konzervy, nakrájené; čerstvé jalapeño lze použít" }
+  ],
+  "steps": [
+    { "text": "Přeber fazole, vyřaď zbarvená zrna a cizí příměsi. Důkladně je opláchni.", "minutes": 5 },
+    { "text": "Zalij fazole vodou, přiveď k varu a vař 2 minuty. Vypni plotnu.", "minutes": 10 },
+    { "text": "Přikryj a nech fazole 1 hodinu namočit.", "minutes": 60 },
+    { "text": "Fazole slij.", "minutes": 2 },
+    { "text": "Fazole, vepřové maso, vodu, cibuli, česnek, sůl, chilli, kmín, oregano a jalapeño dej do kotlíku nebo hrnce. Přiveď k varu a duš 1,5 až 2 hodiny, dokud fazole nezměknou. Nezakrývej. Občas zamíchej.", "minutes": 120 },
+    { "text": "Podávej s nastrouhaným salátem, nakrájenou cibulí, rajčaty a zakysanou smetanou." }
+  ],
+  "modernNote": "Porce 1 hrnek (237 ml) odpovídá zdroji. Na 4 porce 155 g suchých fazolí a 580 g syrové vepřové kýty na kostky (zdroj: pork cubes, raw; kýta odpovídá kartě lépe než plec: karta udává na porci 36 g bílkovin a 14 g tuku, s plecí by tuku vycházelo asi 26 g a kcal přes 25 % nad kartou). Hmotnost porce (cca 390 g) odpovídá součtu hmotností surovin z karty (cca 85 lb na 100 porcí); objem 1 cup (237 ml) je u hustého jídla menší než hmotnost, proto check:recipe hlásí bilanci nad 1,6, což je vlastnost zdroje, ne chyba přepisu.Voda z předvaření a namáčení fazolí (25 1/8 lb, 3 gal) se po scezení slévá, proto do receptu nepatří; do jídla jde voda 41 3/4 lb (5 gal) z karty. Jalapeños jsou z konzervy; katalog má jen čerstvé jalapeño, proto je použito s poznámkou. Doporučení: fazole namočit přes noc (pak odpadne hodina čekání a stačí kratší var); tag pripravit-predem se nepřidává, protože zdroj počítá s 1hodinovým namočením. Sůl a chilli dochuť podle chuti. Čas 200 min = příprava 5, předvaření 10, namáčení 60, scezení 2, dušení 120 (zdroj 1,5–2 h, použita horní mez).",
+  "source": { "book": "afrs-2003", "page": 780, "code": "L 050 00", "titleOriginal": "CHALUPA" },
+  "verified": true,
+  "quote": "Simmer 1-1/2 to 2 hours or until beans are tender. DO NOT COVER."
+}

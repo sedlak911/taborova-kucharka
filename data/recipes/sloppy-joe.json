@@ -1,0 +1,110 @@
+{
+  "id": "sloppy-joe",
+  "title": "Sloppy Joe – mleté hovězí v kečupové omáčce na housce",
+  "titleOriginal": "Barbecued Beef Sandwich (Sloppy Joe)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "horcice",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 340,
+      "unit": "g",
+      "note": "mleté hovězí 90 % libové, syrové",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 95,
+      "unit": "g",
+      "note": "nakrájená",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 170,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "horcice-susena",
+      "amount": 4,
+      "unit": "g",
+      "note": "hořčice v prášku (karta MUSTARD, DRY)",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "scaling": "seasoning"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 1,
+      "unit": "g",
+      "note": "tmavý, nepřesně odměřený (karta: 1-1/4 oz)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 25,
+      "unit": "ml",
+      "note": "destilovaný ocet (karta: 1 lb)",
+      "scaling": "aromatic"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 35,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "hamburgerova-houska",
+      "amount": 4,
+      "unit": "ks",
+      "note": "rozříznutá na půlky; karta 100 housek = 9-1/2 lb",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "V hrnci opékej mleté maso za stálého míchání, dokud nepřestane být růžové. Rozbíjej ho dřevěnou lžící. Přebytečný tuk slij nebo sběračkou odstraň.",
+      "minutes": 7
+    },
+    {
+      "text": "V míse smíchej cibuli, kečup, hořčici, sůl, hnědý cukr, ocet a vodu. Přidej k mase a promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Přikryj a duš 35 minut. Občas zamíchej, aby se nepřipalovalo.",
+      "minutes": 35
+    },
+    {
+      "text": "Na spodní polovinu housky polož asi 120 ml (1/2 hrnku) horké směsi a přikryj druhou polovinou.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Karta N 027 00 (Barbecued Beef Sandwich), 100 porcí = 100 housek, přepočteno faktorem 4/100 z hmotností (Weight). Mleté hovězí je 90 % libové (karta BEEF,GROUND,BULK,RAW,90% LEAN), proto hovezi-mlete-90. Hořčice je v kartě sušená (MUSTARD,DRY), proto horcice-susena. Housky jsou kupované hamburgerové (karta 100 each, asi 44 g); karta žádný tuk na opékání nepřidává, maso se opéká v hrnci bez tuku. Recept je jeden hrnec a žádná trouba, proto tag tabor a kotlik. Štítek rychle je odebrán: hotovo 48 minut (opékání 7, míchání 3, dušení 35, plnění 3), nad limit 45 minut. Čas 35 minut z karty nezkrácen. Check: 332 kcal na porci proti 352 na kartě (−6 %). Sůl 1 g (0,25 g na porci) je ze zdroje, nálezu „mimo rozsah“ se nepřizpůsobuje; doporučení: dochutit podle chuti.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 1284,
+    "code": "N 027 00",
+    "titleOriginal": "BARBECUED BEEF SANDWICH (SLOPPY JOE)"
+  },
+  "verified": true
+}
