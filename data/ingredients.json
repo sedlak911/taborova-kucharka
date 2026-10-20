@@ -10205,7 +10205,9 @@
       "hrnek": 15
     },
     "ediblePortion": 1,
-    "allergens": [],
+    "allergens": [
+      "lepek"
+    ],
     "sources": {
       "nutrition": "USDA SR Legacy fdc:173912 (Cereals ready-to-eat, rice, puffed, fortified); náhrada za Rice Krispies (značková položka v USDA)",
       "units": "USDA fdc:173912 cup = 14 g, přepočteno na metrický hrnek 250 ml (14 × 250/237 ≈ 15 g)",

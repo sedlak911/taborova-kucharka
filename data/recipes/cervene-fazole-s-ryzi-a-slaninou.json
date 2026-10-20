@@ -1,0 +1,39 @@
+{
+  "id": "cervene-fazole-s-ryzi-a-slaninou",
+  "title": "Červené fazole s rýží a slaninou",
+  "titleOriginal": "Red Beans with Rice",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 105, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "voda", "amount": 270, "unit": "ml", "note": "na vaření rýže; vsákne se (poměr 2,6 : 1 k rýži)" },
+    { "ingredientId": "repkovy-olej", "amount": 2, "unit": "ml", "note": "do rýže" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "spek", "amount": 55, "unit": "g", "note": "syrová slanina, nakrájená na kousky" },
+    { "ingredientId": "sadlo", "amount": 3, "unit": "g", "note": "tuk ze slaniny na restování cibule" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "fazole-cervene-v-konzerve", "amount": 300, "unit": "g", "note": "scezené; karta počítá celou konzervu i s nálevem (490 g), scezené ≈ 60 %" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "note": "nálev z konzervy (zbylých ≈ 40 % hmotnosti konzervy)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "palive-paprika", "amount": 0.01, "unit": "g", "note": "1/8 lžičky" },
+    { "ingredientId": "cesnek-prasek", "amount": 2, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Rýži, olej, vodu a sůl dej do hrnce a přiveď k varu.", "minutes": 5 },
+    { "text": "Hrnec přikryj a na mírném ohni duš 25 minut. Nemíchej.", "minutes": 25 },
+    { "text": "Zatímco se rýže vaří, nakrájej slaninu na kousky a opékej ji na pánvi dokřupava. Vyjmi ji, tuk nech na pánvi.", "minutes": 10, "parallel": true },
+    { "text": "Zatímco se rýže vaří, nakrájej cibuli nadrobno a na tuku ze slaniny ji osmahni 1–2 minuty, až lehce zhnědne. Sceď ji.", "minutes": 5, "parallel": true },
+    { "text": "Do druhého hrnce nasyp fazole, nalij nálev z konzervy, vmíchej slaninu, cibuli, černý pepř, pálivou papriku a česnekový prášek.", "minutes": 3 },
+    { "text": "Přiveď k varu, přikryj a na mírném ohni duš 30 minut.", "minutes": 35 },
+    { "text": "Na talíř nasyp asi půl hrnku rýže a přelij ji půl hrnkem fazolí." }
+  ],
+  "modernNote": "Originál dopéká fazole 30 minut v konvekční troubě na 325 °F; tady se duší v hrnci. Rýži vař podle receptu Dušená rýže (E 005 00). V hrnci fazole občas zamíchej, aby se nepřipálily. Sůl je přidána k rýži, zdroj její místo neuvádí. Karta počítá s celou konzervou i s nálevem (27⅛ lb na 100 porcí); katalog má fazole scezené, proto je dáno 60 % hmotnosti jako scezené fazole (300 g) a zbytek jako nálev (200 ml), který se do jídla vlije. Výpočet vychází na ~260 kcal oproti 225 na kartě: katalog počítá slaninu syrovou, ale vypečený tuk, který se slévá, se nesní. Olej a sůl v surovinách jsou na vaření rýže podle karty. Slanina je jen přísada (55 g na 4 porce, 14 g masa na porci); jako hlavní jídlo počítej 120–150 g slaniny nebo uzeniny na porci.",
+  "source": { "book": "afrs-2003", "page": 313, "code": "E 010 00", "titleOriginal": "RED BEANS WITH RICE" },
+  "verified": true
+}

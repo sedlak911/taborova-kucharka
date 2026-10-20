@@ -1,0 +1,31 @@
+{
+  "id": "zelene-fazolky-se-slaninou",
+  "title": "Zelené fazolky se slaninou po jižansku",
+  "titleOriginal": "Green Beans Southern Style",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "spek", "amount": 18, "unit": "g", "note": "syrová, opečená dokřupava a rozdrobená" },
+    { "ingredientId": "sadlo", "amount": 6, "unit": "g", "note": "slaninový tuk (karta: bacon fat, rendered)" },
+    { "ingredientId": "zelene-fazolky", "amount": 290, "unit": "g", "note": "čerstvé; zdroj uvádí mražené" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na blanšírování fazolí, slije se", "scaling": "vessel" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "voda z vaření fazolí, nechaná v jídle (1 qt na 100 porcí)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.11, "unit": "g", "note": "zdroj <1/16 oz, použita horní mez" }
+  ],
+  "steps": [
+    { "text": "Slaninu opeč na pánvi dokřupava. Vytopený tuk slij a nech stranou, slaninu rozdrob.", "minutes": 10 },
+    { "text": "Fazolky, vodu a slaninový tuk dej do hrnce a přiveď k varu.", "minutes": 8 },
+    { "text": "Přikryj a vař 8 minut, dokud fazolky nezměknou. Slij, ale trochu vody z vaření nech stranou.", "minutes": 8 },
+    { "text": "Fazolky vrať do hrnce, přidej vodu z vaření, rozdrobenou slaninu a černý pepř a lehce promíchej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá s mraženými zelenými fazolkami; katalog je nemá, proto jsou čerstvé. Mražené lze použít 1:1, vhoď je do vroucí vody bez rozmrazení. Fazolky se vaří v 1 l vody, která se slije; do jídla jde jen zbylá voda z vaření. Porce 1/2 šálku odpovídá příloze. Množství slaniny (18 g syrové) i tuku (6 g) jsou z karty; vyšší kcal (54 proti 41 na kartě, +31 %) vzniká tím, že katalog počítá slaninu syrovou, ale vypečený tuk se při opékání odlije.",
+  "source": { "book": "afrs-2003", "page": 1490, "code": "Q 007 04", "titleOriginal": "GREEN BEANS SOUTHERN STYLE" },
+  "verified": true,
+  "quote": "Cook bacon until crisp; drain; crumble bacon; reserve bacon fat."
+}

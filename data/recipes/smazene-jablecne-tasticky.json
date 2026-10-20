@@ -1,0 +1,147 @@
+{
+  "id": "smazene-jablecne-tasticky",
+  "title": "Smažené jablečné taštičky",
+  "titleOriginal": "Fried Apple Pie",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "sladke",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "jablko",
+      "amount": 190,
+      "unit": "g",
+      "note": "oloupaná, bez jadřinců; náhrada za hotovou jablečnou náplň (karta 254 g)",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 50,
+      "unit": "g",
+      "note": "do náplně",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 10,
+      "unit": "g",
+      "note": "zahustí náplň",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 180,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "místo ztuženého tuku",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 25,
+        "unit": "g"
+      },
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 55,
+      "unit": "ml",
+      "note": "čerstvé; zdroj rozmíchává sušené mléko s vodou, zde objem součtu (voda 50 ml + sušené mléko 3 g, zaokrouhleno)",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 3,
+        "unit": "g"
+      },
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "ml",
+      "note": "nasáklý do pečiva (odhad)",
+      "scaling": "fat",
+      "group": "Smažení"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 60,
+      "unit": "ml",
+      "note": "mělký tuk na pánvi (odhad; karta množství tuku neuvádí)",
+      "scaling": "vessel",
+      "group": "Smažení"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Jablka oloupej, zbav jadřinců a nakrájej na drobno. Duš je ve hrnci s cukrem do měkka, pak zahusti škrobem rozmíchaným v troše šťávy a nech vychladnout.",
+      "minutes": 12
+    },
+    {
+      "text": "Mezitím smíchej v míse mouku, prášek do pečiva a sůl.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Zapracuj máslo do suchých surovin na nízké otáčky, dokud nevznikne hrubá drobenka.",
+      "minutes": 5
+    },
+    {
+      "text": "Přidej mléko a na nízké otáčky zpracuj jen tak dlouho, až vznikne měkké těsto.",
+      "minutes": 2
+    },
+    {
+      "text": "Rozválej těsto na obdélník tlustý asi 3 mm a vykrajuj kolečka.",
+      "minutes": 10
+    },
+    {
+      "text": "Na střed každého kolečka dej vychladlou náplň. Okraje potři vodou, přehni do půlkruhu a sluť vidličkou.",
+      "minutes": 5
+    },
+    {
+      "text": "Na pánvi zahřej mělký tuk. Smaž pečivo po několika kusech 2 minuty z jedné strany, obrať a smaž dalších 2 minuty dozlatova. Osuš na papíru.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Karta má hotovou jablečnou náplň (PIE FILLING, APPLE, PREPARED 254 g), která v katalogu není; nahrazena jablky 190 g, cukrem 50 g a kukuřičným škrobem 10 g (odhad složení), krok 1 proto přidán. Karta neuvádí tuk na smažení (ani hluboký, ani na pánev); zvolen mělký tuk na pánvi: 30 ml vsákne do pečiva, 60 ml zůstane na pánvi (odhady). Ztužený tuk (shortening) nahrazen máslem 1:1, původní je v original. Sušené mléko je rozmícháno v mléce/vodě (jeden řádek, součet objemů); historická varianta přepínačem nahradí jen sušené mléko, vodu v původní verzi doplň podle karty (50 ml). Karta vykrajuje 6 koleček z jedné dávky; pro 4 koláče stačí 4 kolečka (krok bez počtu). Porce 1 koláč, výtěžek 100 koláčů.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 571,
+    "code": "I 030 00",
+    "titleOriginal": "FRIED APPLE PIE"
+  },
+  "verified": false,
+  "quote": "Fry pies, a few at a time, 2 minutes on one side, turn and fry 2 minutes on other side until golden brown."
+}

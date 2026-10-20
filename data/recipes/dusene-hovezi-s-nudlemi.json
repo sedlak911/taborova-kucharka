@@ -1,0 +1,127 @@
+{
+  "id": "dusene-hovezi-s-nudlemi",
+  "title": "Dušené hovězí s kečupem a vaječnými nudlemi",
+  "titleOriginal": "Braised Beef and Noodles",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 150,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 540,
+      "unit": "g",
+      "note": "libové, na kostky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 320,
+      "unit": "ml",
+      "note": "část do dušení, část na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 75,
+      "unit": "g",
+      "note": "na plátky"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.92,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.69,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 0.25,
+      "unit": "ks",
+      "note": "vyndat před podáváním"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 65,
+      "unit": "g",
+      "note": "suché, vaječné"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření nudlí; slije se (domácí hodnota 1 l na 100 g)",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření nudlí, slije se",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 25,
+      "unit": "g",
+      "note": "na zahuštění, rozmíchat se studenou vodou"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hovězí, vodu, cibuli, kečup, pepř, tymián, česnekový prášek, bobkový list a sůl dej do hrnce. Přiveď k varu, zmírni plamen, přikryj a duš asi 2 hodiny, dokud maso nezměkne. Sesbírej přebytečný tuk a vyndej bobkový list.",
+      "minutes": 128
+    },
+    {
+      "text": "Mezitím v osolené vodě přiveď k varu nudle a vař je 8 až 10 minut, dokud nejsou měkké. Dobře je sceď.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Mouku rozmíchej se studenou vodou do hladké směsi a vmíchej ji do hovězího. Dobře promíchej, znovu přiveď k varu, zmírni plamen a vař 10 minut, dokud nezhoustne.",
+      "minutes": 20
+    },
+    {
+      "text": "Uvařené nudle vmíchej do hovězího a dobře promíchej.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Podle karty se nudle vaří odděleně v osolené vodě, ne přímo ve výpeku. Vodu na nudle jsme ponechali jako domácí hodnotu (1 l na 65 g nudlí, slije se), ne jako 58,5 lb ze zdroje. Dušení je 2 hodiny; na kotlíku nad ohněm na pomalém plameni hlídej, aby se nepřipálilo dno.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 708,
+    "code": "L 017 00",
+    "titleOriginal": "BRAISED BEEF AND NOODLES"
+  },
+  "verified": true,
+  "quote": "Bring to a boil; reduce heat; cover; simmer about 2 hours or until tender."
+}

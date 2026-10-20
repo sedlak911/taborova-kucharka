@@ -1,0 +1,32 @@
+{
+  "id": "mlete-hovezi-s-rajcaty",
+  "title": "Mleté hovězí s rajčaty a muškátovým oříškem",
+  "titleOriginal": "Minced Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 360, "unit": "g", "note": "90 % libové" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "nakrájená nadrobno" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g" },
+    { "ingredientId": "rajcata-drcena", "amount": 360, "unit": "g", "note": "drcená z konzervy, včetně nálevu" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.69, "unit": "g", "note": "zdroj: muškátový květ (mace); katalog ho nemá, použit muškátový oříšek" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Mleté maso s cibulí opékej na pánvi za stálého míchání, až maso ztratí růžovou barvu; rozdrob je. Přebytečný tuk slij nebo sceď.", "minutes": 10 },
+    { "text": "Posyp moukou a míchej, dokud se mouka nevsákne.", "minutes": 3 },
+    { "text": "Přidej rajčata, muškátový oříšek, sůl a pepř. Dobře promíchej a duš 10 až 15 minut.", "minutes": 15 },
+    { "text": "Podávej na toastu, rýži nebo těstovinách." }
+  ],
+  "modernNote": "Zdroj uvádí muškátový květ (mace) nebo muškátový oříšek; použit muškátový oříšek. Recept vychází z hmotnosti surovin pro 4 porce, porce z karty je 5 oz (142 g). Rajčata jsou drcená včetně nálevu (rajcata-drcena), jak karta uvádí.",
+  "source": { "book": "afrs-2003", "page": 753, "code": "L 036 00", "titleOriginal": "MINCED BEEF" },
+  "verified": true,
+  "quote": "Cook beef with onions until beef loses its pink color, stirring to break apart."
+}

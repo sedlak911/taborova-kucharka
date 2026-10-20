@@ -1,0 +1,76 @@
+{
+  "id": "krupinkove-rezy-s-marshmallow",
+  "title": "Rýžové křupinkové řezy s marshmallow",
+  "titleOriginal": "Crispy Marshmallow Squares",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "tabor",
+    "rychle",
+    "sladke"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 8,
+      "unit": "g",
+      "note": "na vymazání plechu; místo cooking spraye",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "místo margarínu; pojivo směsi, proto lineárně",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "marshmallow",
+      "amount": 145,
+      "unit": "g",
+      "note": "miniaturní"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ryzove-krupinky",
+      "amount": 105,
+      "unit": "g",
+      "note": "nafouknutá rýže (Rice Krispies)"
+    }
+  ],
+  "steps": [
+    { "text": "Plech lehce vymaž olejem.", "minutes": 1 },
+    { "text": "V hrnci na plotně na mírném ohni rozpusť máslo.", "minutes": 5 },
+    { "text": "Přidej marshmallow a vanilku a za stálého míchání je rozpouštěj, dokud se úplně nerozpustí.", "minutes": 6 },
+    { "text": "Hrnec odstav z ohně, přidej rýžové křupinky a důkladně míchej, dokud jsou dobře obalené.", "minutes": 2 },
+    { "text": "Směs vylož na vymazaný plech a válečkem ji pevně rozválej do rovnoměrné vrstvy.", "minutes": 2 },
+    { "text": "Nech vychladnout, vyjmi z plechu a nakrájej na 8 obdélníčků." }
+  ],
+  "modernNote": "Porce z karty je 2 tyčinky (Portion 2 Bars); 4 porce = 8 tyčinek. Karta pečená na 2 plechy o 6 lb 14 oz směsi na plech pro 100 porcí; zde jeden plech. Cooking spray nahrazen olejem (8 g na vymazání plechu). Margarín nahrazen máslem 1:1 podle hmotnosti. Karta nemá časy vychladnutí, proto nejsou v minutách; kroky jsou jen ze zdroje, bez pokynů pro výdej. Marshmallow obsahuje želatinu, proto nejsou tyto řezy vegetariánské.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 516,
+    "code": "H 023 00",
+    "titleOriginal": "CRISPY MARSHMALLOW SQUARES"
+  },
+  "verified": true
+}

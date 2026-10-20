@@ -1,0 +1,37 @@
+{
+  "id": "brambory-hacienda",
+  "title": "Brambory po mexicku s rajčaty a paprikou",
+  "titleOriginal": "Hacienda Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 440, "unit": "g", "note": "loupané, na kostky" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření brambor; slije se (domácí hodnota 1 l na 1 kg brambor)", "scaling": "vessel" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 320, "unit": "g", "note": "z plechovky, scezená, na kostky" },
+    { "ingredientId": "paprika-zelena", "amount": 35, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cukr-krystal", "amount": 5, "unit": "g" },
+    { "ingredientId": "chilli-prasek", "amount": 8, "unit": "g", "note": "tmavé (dark), mleté" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 2, "unit": "g" },
+    { "ingredientId": "kmin-mlety", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "voda", "amount": 18, "unit": "ml", "note": "na rozmíchání mouky" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Brambory nakrájené na kostky vlož do vody, přiveď k varu, sniž teplotu a vař 20 minut, dokud nejsou lehce měkké.", "minutes": 28 },
+    { "text": "Zatímco brambory vaří, dej do hrnce rajčata, papriku, cibuli, cukr, chilli, sůl, česnekový prášek, kmín a pepř. Přiveď k varu, sniž teplotu, přikryj a duš 5 minut.", "minutes": 10, "parallel": true },
+    { "text": "Zatímco se omáčka vaří, rozmíchej vodu s moukou do hladké kaše, vmíchej ji do omáčky a duš 5 minut za občasného míchání, dokud nezhoustne.", "minutes": 5, "parallel": true },
+    { "text": "Brambory přidej do omáčky a promíchej, aby se rovnoměrně rozložily. Přikryj, přiveď k varu za občasného míchání, pak odkryj, sniž teplotu a vař 10 minut, dokud se brambory pořádně neprohřejí.", "minutes": 15 }
+  ],
+  "modernNote": "Rajčata jsou z konzervy (diced, drained), brambory čerstvé; kuchyňské vybavení z karty (steam-jacketed kettle) je běžný hrnec na plotně. Voda na vaření brambor (16,75 lb na 24 lb brambor) je slévaná, proto je domácí hodnota 1 l, ne hodnota ze zdroje. Sůl do vody zdroj neuvádí, nepřidáváno. Hodnoty „CCP“ (teplota držení 140 °F) a pokyn na výdej vynechány. Chilli je tmavé mleté (chilli powder dark). Kcal vychází na 117 proti 145 na kartě (-19 %); množství odpovídají sloupci Weight, rozdíl plyne z nutričních dat karty (24 lb brambor na 100 porcí dá z katalogu méně energie). Recept je rovněž základem karty Q 080 00 (Hacienda Corn and Black Beans), která ve sbírce není.",
+  "source": { "book": "afrs-2003", "page": 1626, "code": "Q 079 00", "titleOriginal": "HACIENDA POTATOES" },
+  "verified": true
+}

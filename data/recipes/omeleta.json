@@ -1,0 +1,59 @@
+{
+  "id": "omeleta",
+  "title": "Omeleta",
+  "titleOriginal": "Plain Omelet",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "rychle",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vejce",
+      "amount": 7.25,
+      "unit": "ks",
+      "note": "celá, čerstvá (zdroj mražená celá vejce, 1/3 šálku směsi na omeletu)",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 360,
+        "unit": "g"
+      },
+      "group": "Vaječná směs"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 8,
+      "unit": "g",
+      "note": "na vymazání pánve, místo nepřilnavého spreje (zdroj 2 oz na 100 porcí)",
+      "scaling": "vessel",
+      "group": "Pánev"
+    }
+  ],
+  "steps": [
+    { "text": "Rozmražená vejce vlož do mísy a metlou je prošlehej jen tak dlouho, aby se žloutky a bílky dobře spojily.", "minutes": 3 },
+    { "text": "Pánev lehce vymaž olejem a rozehřej na střední teplotu (zdroj 325 °F, asi 163 °C).", "minutes": 2 },
+    { "text": "Na pánev nalij asi 80 ml vaječné směsi (1/3 šálku) a nech ji rozlít do kulatého tvaru. Nemíchej.", "minutes": 1 },
+    { "text": "Smaž, dokud spodek nezezlátne. Pokud je to potřeba, okraj jemně nadzvedni špachtlí, aby se nevařená část dostala pod něj. Pokračuj, dokud vejce neztuhnou, a pak omeletu vyjmi. Postup opakuj, dokud není vejce všechno.", "minutes": 12 },
+    { "text": "Omeletu přehni napůl nebo na třetiny do tvaru dlouhého oválu a hned podávej.", "minutes": 2 }
+  ],
+  "modernNote": "Přepočteno z velkokuchyňské dávky (100 omelet) na 4 porce: 4 omelety po 1/3 šálku směsi (asi 80 ml). Mražená celá vejce nahrazena čerstvými, rozmrazování odpadá; zdrojová hmotnost je v original (360 g). Nepřilnavý sprej nahrazen 8 g řepkového oleje na vymazání pánve. Plotna 325 °F odpovídá asi 163 °C. CCP pokyny (vnitřní teplota 145 °F, držení při 140 °F) vynechány; doporučení: omeletu nevyndávej, dokud není střed pevný. Varianty ze stejné sbírky: F 008 09 Onion Omelet (1 polévková lžíce cibule na omeletu, na 4 porce asi 77 g cibule, opéct cibuli na pánvi předem) a F 008 11 Tomato Omelet (rajčata nakrájená, na 4 porce asi 123 g). Recept je bez masa.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 339,
+    "code": "F 008 00",
+    "titleOriginal": "PLAIN OMELET"
+  },
+  "verified": true
+}

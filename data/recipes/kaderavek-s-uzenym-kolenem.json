@@ -1,0 +1,31 @@
+{
+  "id": "kaderavek-s-uzenym-kolenem",
+  "title": "Kadeřávek dušený s uzeným kolenem",
+  "titleOriginal": "Southern Style Greens (Fresh Kale)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 210,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "uzene-koleno", "amount": 180, "unit": "g", "note": "zdroj: zmrazená uzená kolena (10 lb); dnes čerstvá uzená, rozmrazit" },
+    { "ingredientId": "voda", "amount": 1370, "unit": "ml", "note": "na vaření kolen a na dušení kadeřávku; zůstává ve vývaru, podává se s jídlem" },
+    { "ingredientId": "cibule", "amount": 30, "unit": "g", "note": "nasekaná" },
+    { "ingredientId": "kapusta-kaderavek", "amount": 220, "unit": "g", "note": "čerstvý, nasekaný" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Do velkého hrnce nalij vodu. Vlož uzená kolena a cibuli. Přikryj a přiveď k varu.", "minutes": 15 },
+    { "text": "Sniž teplo a duš 2½ hodiny, nebo dokud nejsou kolena měkká.", "minutes": 150 },
+    { "text": "Kolena vyjmi, odstraň tuk a kosti a maso nakrájej na malé kousky. Kosti a maso vrať do vývaru.", "minutes": 10 },
+    { "text": "Přidej kadeřávek, pepř a vodu do vývaru. Přiveď k varu a hned zamíchej.", "minutes": 10 },
+    { "text": "Duš 20 minut bez přikrytí, dokud kadeřávek nezměkne. Občas zamíchej.", "minutes": 20 },
+    { "text": "Vyjmi kosti a podávej kadeřávek i s vývarem.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj uvádí zmrazená uzená kolena (10 lb); katalog zmrazenou variantu nemá, proto je použita čerstvá uzená (rozmrazit v lednici). Vývar z vaření kolen zůstává v jídle (zdroj ho podává s listy); pro 4 porce je ho přibližně 1,4 l, lze část slít. Porce 1/2 šálku z karty odpovídá odkapaným listům s kousky masa; vývar (cca 340 ml na porci) se podává navíc, proto bilance porce vychází nad 1,6 (nález check:recipe je tím vysvětlen, hodnoty ponechány podle karty). Místo kolen zdroj připouští 2 lb slaniny na 100 porcí, tj. cca 36 g slaniny na 4 porce. CCP pokyny (teploty držení) vynechány.",
+  "source": { "book": "afrs-2003", "page": 1528, "code": "Q 029 03", "titleOriginal": "SOUTHERN STYLE GREENS (FRESH KALE)" },
+  "verified": true
+}

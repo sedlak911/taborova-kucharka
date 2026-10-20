@@ -1,0 +1,38 @@
+{
+  "id": "minestrone",
+  "title": "Minestrone s fazolemi, zelím a mušličkami",
+  "titleOriginal": "Minestrone Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 610, "unit": "ml", "note": "z instantního základu podle návodu na obalu" },
+    { "ingredientId": "celer-rapikaty", "amount": 20, "unit": "g", "note": "nakrájený" },
+    { "ingredientId": "mrkev", "amount": 20, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "brambory", "amount": 40, "unit": "g", "note": "oloupané, na kostky" },
+    { "ingredientId": "bile-zeli", "amount": 20, "unit": "g", "note": "zelí zelené, nakrájené" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "paprika-zelena", "amount": 8, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.61, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "rajcata-drcena", "amount": 120, "unit": "g", "note": "z konzervy, scezená" },
+    { "ingredientId": "fazole-cervene-v-konzerve", "amount": 40, "unit": "g", "note": "z konzervy, scezené" },
+    { "ingredientId": "zelene-fazolky-v-konzerve", "amount": 25, "unit": "g", "note": "z konzervy, scezené" },
+    { "ingredientId": "testoviny", "amount": 25, "unit": "g", "note": "mušličky, suché; vaří se přímo v polévce" }
+  ],
+  "steps": [
+    { "text": "Připrav vývar podle návodu na obalu.", "minutes": 5 },
+    { "text": "Smíchej vývar, celer, mrkev, brambory, zelí, cibuli, papriku, česnekový prášek a černý pepř v kotlíku nebo hrnci. Přiveď k varu.", "minutes": 8 },
+    { "text": "Sniž teplotu, přikryj a duš 20 minut.", "minutes": 20 },
+    { "text": "Přidej rajčata, ledvinkové fazole a zelené fazolky. Přiveď k varu.", "minutes": 5 },
+    { "text": "Přidej mušličky. Vař na mírném ohni 10 minut, dokud těstoviny nezměknou.", "minutes": 10 }
+  ],
+  "modernNote": "Vývar z instantního základu lze nahradit domácím kuřecím. Zelené fazolky a fazole jsou z konzerv, scezené; čerstvé zelené fazolky lze použít místo nich. Polévka je v originále pro 100 porcí, zde přepočtená na 4 porce (1 šálek = porce z karty). Porce 242 g odpovídá 1 šálku z karty; pod rozsahem pro polévku (250–450 g) je záměrně, podle karty.",
+  "source": { "book": "afrs-2003", "page": 1400, "code": "P 007 01", "titleOriginal": "MINESTRONE SOUP" },
+  "verified": true
+}
