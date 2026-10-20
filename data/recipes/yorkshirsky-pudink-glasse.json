@@ -1,0 +1,34 @@
+{
+  "id": "yorkshirsky-pudink-glasse",
+  "title": "Yorkshirský pudink podle Glasseové",
+  "titleOriginal": "A Yorkshire Pudding",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 470, "unit": "ml", "note": "zdroj: 1 quart" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj: 4 vejce" },
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "zdroj: mouka „jako na palačinky“ bez množství; odhad", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: „a little salt“; odhad" },
+    { "ingredientId": "sadlo", "amount": 20, "unit": "g", "note": "odkapávající tuk z masa na vymazání formy; množství odhad", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "note": "zdroj: „some butter“; množství odhad", "scaling": "fat" }
+  ],
+  "steps": [
+    { "text": "Z mléka, vajec, soli a mouky umíchej hustší těsto jako na palačinky.", "minutes": 5 },
+    { "text": "Rozehřej na ohni pánev s odkapávajícím tukem z masa.", "minutes": 3 },
+    { "text": "Nalij do tuku těsto a peč ho na ohni, dokud není skoro hotové.", "minutes": 30 },
+    { "text": "Do odkapávací pánve pod masem obrať talíř dnem vzhůru, postav na něj pánev s pudinkem a nech na pudink kapat tuk z masa, aby krásně zhnědl.", "minutes": 20 },
+    { "text": "Až je maso hotové, slij z pudinku všechen tuk.", "minutes": 2 },
+    { "text": "Postav pudink ještě na chvíli k ohni, aby oschl.", "minutes": 5 },
+    { "text": "Sklouzni pudink na mísu.", "minutes": 1 },
+    { "text": "Rozpusť máslo, nalij ho do hrnku a postav hrnek doprostřed pudinku.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nemá počet porcí ani množství mouky ani tuku: 1 quart (asi 946 ml) mléka a 4 vejce jsou základ pro asi 8 porcí, tedy 470 ml mléka a 2 vejce na 4 porce; 200 g mouky je odhad pro hustotu těsta na palačinky, proto verified: false. Odkapávající tuk z masa je tu sádlo nebo přepuštěný tuk, ne maso. Doma ho peč v troubě na 220 °C v hrnci nebo pekáčku s horkým tukem asi 30 minut, a to klidně vedle pečeně nebo pod ní; talíř v odkapávací pánvi a oschnutí u ohně nahradí zhnědnutí v troubě. Kniha pudink podává s pečeným masem („the gravy of the meat eats well with it“); máslo v hrnku slouží jako omáčka.",
+  "source": { "book": "glasse-1747", "page": 131, "titleOriginal": "A Yorkshire Pudding" },
+  "verified": false,
+  "quote": "It is an exceeding good pudding; the gravy of the meat eats well with it."
+}

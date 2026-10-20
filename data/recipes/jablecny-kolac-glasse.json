@@ -1,0 +1,36 @@
+{
+  "id": "jablecny-kolac-glasse",
+  "title": "Jablečný koláč s citronem a hřebíčkem",
+  "titleOriginal": "An Apple Pye",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "listove-testo", "amount": 200, "unit": "g", "group": "Těsto", "note": "hotové listové těsto; boční pásy a víko (odhad)" },
+    { "ingredientId": "jablko", "amount": 600, "unit": "g", "group": "Náplň", "note": "oloupaná, bez jádřinců, asi 4 střední jablka; slupky a jádřince si nech (odhad)" },
+    { "ingredientId": "cukr-krystal", "amount": 60, "unit": "g", "group": "Náplň", "scaling": "linear", "note": "na vrstvení jablek, dosladit podle chuti (odhad)" },
+    { "ingredientId": "citronova-kura", "amount": 2, "unit": "g", "group": "Náplň", "note": "jemně nastrouhaná z čerstvého citronu (odhad)" },
+    { "ingredientId": "citronova-stava", "amount": 30, "unit": "ml", "group": "Náplň", "scaling": "linear", "note": "z asi 1 citronu, na pokapání jablek (odhad)" },
+    { "ingredientId": "hrebicek-cely", "amount": 4, "unit": "ks", "group": "Náplň", "note": "zasunout sem tam mezi jablka (odhad)" },
+    { "ingredientId": "voda", "amount": 200, "unit": "ml", "group": "Sirup", "scaling": "vessel", "note": "na vaření slupek a jádřinců, část se odvaří (odhad)" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "group": "Sirup", "note": "mletý muškátový květ (mace), kousek „plátku“ ze zdroje (odhad)" },
+    { "ingredientId": "cukr-krystal", "amount": 10, "unit": "g", "group": "Sirup", "scaling": "linear", "note": "do scezeného sirupu (odhad)" }
+  ],
+  "steps": [
+    { "text": "Z listového těsta vyválej pásy a vylož jimi boky zapékací mísy.", "minutes": 10 },
+    { "text": "Jablka oloupej, rozčtvrť a vykroj jádřince. Slupky a jádřince odlož stranou.", "minutes": 10 },
+    { "text": "Slupky a jádřince vař v čisté vodě s muškátovým květem, dokud není vývar velmi dobrý.", "minutes": 20 },
+    { "text": "Mezitím vrstvi na dno mísy jablka, posyp cukrem, jemně nastrouhej citronovou kůru, pokapej citronovou šťávou a sem tam zasuň hřebíček. Pokračuj po vrstvách do spotřeby jablek a cukru, doslaď podle chuti a ještě trochu pokapej citronem.", "minutes": 10, "parallel": true },
+    { "text": "Slupky a jádřince sceď a výluh s trochou cukru vař, dokud ho nezbude jen velmi málo a není dobrý.", "minutes": 10 },
+    { "text": "Sirup nalij na jablka, přikryj vrchním plátem těsta, a okraje přitiskni k těstu na bocích.", "minutes": 5 },
+    { "text": "Peč při 200 °C asi 40 minut dozlatova.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj nedává množství, počet porcí ani dobu pečení; vše je odhad pro 4 porce (kus koláče ≈ 400 kcal). Dávka odpovídá menší zapékací míse asi 20 cm: 600 g jablek (asi 4 střední), 70 g cukru celkem (60 g mezi jablka, 10 g do sirupu), kůra a šťáva z jednoho citronu, 4 hřebíčky, 200 g listového těsta, 200 ml vody na sirup. Teplota 200 °C a 40 minut pečení jsou odhad, zdroj říká jen „bake it“. „Puff-paste crust“ ze zdroje je domácí listové těsto (postup viz recept `listove-testo`), v řádku je pro pohodlí hotové listové těsto; zdroj ho pokládá jen kolem stěn mísy a na víko, ne na dno. Mace = muškátový květ, v katalogu je jako muškátový oříšek s poznámkou, protože samostatná surovina chybí. Marmeládu z kdoulí („quince or marmalade“) zdroj dovoluje přidat podle chuti, do receptu ji nezařazuji. Sirup ze slupek je původní nápad: využívá slupky a jádřince, které se jinak vyhodí; po zredukování ho přilij do koláče, aby jablka nebyla suchá. Zdroj dále popisuje hruškový koláč: stejný postup bez kdoulí, vyndaný z trouby ho potři máslem, nebo sundej víko a nalij smetanovou směs ze dvou žloutků, půl pintu smetany, muškátu a cukru. Strana: PDF 202 (tištěná 172). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 202, "titleOriginal": "To make an Apple Pye" },
+  "verified": false,
+  "quote": "Make a good puff-paste crust, lay some round the sides of the dish, pare and quarter your apples, and take out the cores"
+}

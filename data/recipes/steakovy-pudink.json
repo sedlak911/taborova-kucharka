@@ -1,0 +1,34 @@
+{
+  "id": "steakovy-pudink",
+  "title": "Pudink s hovězími steaky v lojovém těstě",
+  "titleOriginal": "A Steak Pudding",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 220,
+  "difficulty": 2,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 450, "unit": "g", "note": "steaky z hovězího (zdroj: hovězí nebo skopové; množství odhad)" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "na maso (odhad)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1.5, "unit": "g", "note": "na maso (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "scaling": "linear", "note": "do těsta; zdroj ¼ pecku (asi 3,5 lb), množství odhad" },
+    { "ingredientId": "hovezi-loj", "amount": 115, "unit": "g", "scaling": "linear", "note": "ledvinový lůj (suet), jemně nasekaný; poměr zdroje 2 lb loje na ¼ pecku mouky (≈ 0,57)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "linear", "note": "do těsta; zdroj „a little salt“ (odhad)" },
+    { "ingredientId": "voda", "amount": 110, "unit": "ml", "scaling": "linear", "note": "studená, do těsta (odhad)" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "scaling": "vessel", "note": "do hrnce na vaření pudinku, slije se (odhad)" }
+  ],
+  "steps": [
+    { "text": "Lůj jemně nasekej a smíchej s moukou a solí.", "minutes": 10 },
+    { "text": "Zadělej studenou vodou na dost tuhé těsto.", "minutes": 5 },
+    { "text": "Steaky dobře osol a opepři.", "minutes": 3 },
+    { "text": "Těsto rozválej, maso do něj zabal jako jablečný pudink a okraje slep.", "minutes": 10 },
+    { "text": "Pudink zabal do plátna a pevně zaváž.", "minutes": 5 },
+    { "text": "Vlož pudink do vroucí vody a vař 3 hodiny.", "minutes": 185 }
+  ],
+  "modernNote": "Zdroj nemá množství ani výtěžek: píše jen „asi dvě libry loje na čtvrt pecku mouky“ (pecka mouky = 14 lb, čtvrt pecku asi 3,5 lb, tj. 1,6 kg; poměr loje k mouce ≈ 0,57) a vaří se „velký pudink 5 hodin, malý 3 hodiny“. Pro 4 porce jsem vzal malý pudink a realistickou porci kolem 600 kcal: 200 g mouky, 115 g loje (poměr zdroje) a 450 g hovězích steaků (asi 110 g masa na osobu); vody do těsta ~110 ml, sůl a pepř na maso i voda do hrnce jsou odhad. Lojové těsto je velmi syté, proto menší dávka těsta než u dnešních receptů; kdo chce víc masa, přidá 100 g steaků. Zdroj dodává, že je to „nejlepší těsto i na jablečný pudink“. Maso může být hovězí i skopové (zdroj), podobně se prý hodí holubi. Vaří se v plátně ponořené do vroucí vody 3 hodiny, voda se průběžně doplňuje horkou. Moderně lze použít směs mouky a loje z obchodu (suet) nebo pudinkovou formu přikrytou pečicím papírem a fólií. Všechna množství jsou odhad, proto verified false. Strana: PDF 131 (tištěná 101).",
+  "source": { "book": "glasse-1747", "page": 131, "titleOriginal": "A Steak Pudding" },
+  "verified": false,
+  "quote": "Let your steaks be either beef or mutton, well seasoned with pepper and salt, make it up as you do an apple-pudding, tie it in a cloth, and put it into the water boiling."
+}

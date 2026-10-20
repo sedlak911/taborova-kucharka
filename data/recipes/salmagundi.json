@@ -1,0 +1,39 @@
+{
+  "id": "salmagundi",
+  "title": "Salmagundi (salát s kuřetem, ančovičkami a vejci)",
+  "titleOriginal": "To make Salamongundy",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna"],
+  "allergens": ["ryby", "siricitany", "vejce"],
+  "ingredients": [
+    { "ingredientId": "salat-rimsky", "amount": 310, "unit": "g", "note": "římský nebo hlávkový; z 2–3 hlávek zdroje (odhad)" },
+    { "ingredientId": "kureci-maso-vareno", "amount": 350, "unit": "g", "note": "studené pečené maso z prsou, křídel i nohou" },
+    { "ingredientId": "ancovicky", "amount": 14, "unit": "g", "note": "asi 5 filetů; ve zdroji 6 + 3–4 ančovičky" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "natvrdo, použijí se žloutky; zdroj 4 vejce" },
+    { "ingredientId": "citron", "amount": 0.5, "unit": "ks", "note": "s kůrou i dužinou, nadrobno" },
+    { "ingredientId": "petrzel-nat", "amount": 6, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 100, "unit": "g", "note": "drobné cibulky velké jako žloutek (odhad)" },
+    { "ingredientId": "olivovy-olej", "amount": 65, "unit": "ml", "note": "„salad oil“" },
+    { "ingredientId": "vinny-ocet", "amount": 30, "unit": "ml" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.55, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Salát omyj, v utěrce osuš a nakrájej příčně na tenké nitky. Rozlož ho na dno mísy do vrstvy asi 2,5 cm.", "minutes": 8 },
+    { "text": "Z prsou a křídel studeného pečeného kuřete nakrájej tenké plátky, asi 7 cm dlouhé a půl cm široké. Ukládej je na salát kolem dokola, jedním koncem do středu mísy, druhým k okraji.", "minutes": 10 },
+    { "text": "Ančovičky vyfiletuj a každou nakrájej na osm kousků. Rozlož je mezi plátky kuřete.", "minutes": 5 },
+    { "text": "Libové maso z nohou nakrájej na kostičky. Citron nakrájej na drobné kostičky.", "minutes": 6 },
+    { "text": "Vejce uvař natvrdo. Žloutky, zbylé ančovičky a trochu petrželky najemno nasekej. Smíchej to s kostičkami masa a citronu a nakupuj doprostřed mísy do kulaté kupky jako homole cukru.", "minutes": 15 },
+    { "text": "Oloupané cibulky velké jako žloutek vař ve velkém množství vody, dokud nejsou velmi měkké a bílé.", "minutes": 20 },
+    { "text": "Největší cibulku polož na vrch kupky a ostatní husto naskládej kolem okraje mísy.", "minutes": 3 },
+    { "text": "Olej utři s octem, pepřem a solí a polij jím salát.", "minutes": 3 }
+  ],
+  "modernNote": "Kniha neuvádí porce ani přesná množství, jen „2–3 hlávky salátu“, „dvě pečená kuřata“, „šest ančoviček“ a „žloutky čtyř vajec“. Zdroj počítám asi na 8 porcí (prostřední mísa k večeři) a pro 4 porce polovinu; množství vajec, cibulek, oleje a octa jsou odhad, proto verified: false. Dvě pečená kuřata zdroje nahrazuje vařené nebo pečené kuřecí maso z katalogu (kureci-maso-vareno), třeba ze včerejška. Zdroj do kupky přidává i libové maso z nohou, takže 350 g je maso ze všech částí. Bílky vajec zdroj nepoužívá, dají se nasekat do salátu. Ozdoba z opařených hroznů, fazolek nebo lichořeřišnice (podle zdroje) je volitelná a v surovinách není. Dva další způsoby salmagundi (s klíčem z citronové dužiny, šťovíkem a špenátem a třetí s uzeným sleďem, jablky a okurkou) kniha uvádí hned za tímto receptem.",
+  "source": { "book": "glasse-1747", "page": 118, "titleOriginal": "To make Salamongundy" },
+  "verified": false,
+  "quote": "make a round heap of these in your dish, piling it up in the form of a sugar-loaf"
+}

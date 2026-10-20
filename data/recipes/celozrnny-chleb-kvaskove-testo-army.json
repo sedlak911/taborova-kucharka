@@ -1,0 +1,40 @@
+{
+  "id": "celozrnny-chleb-kvaskove-testo-army",
+  "title": "Celozrnný chléb s kvaskem",
+  "titleOriginal": "Whole-Wheat Bread (Sponge-and-Dough Method)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 310,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "50 % mouky receptury (bílá mouka)", "group": "Kvásek" },
+    { "ingredientId": "voda", "amount": 165, "unit": "ml", "note": "33 % mouky receptury (zdroj 32 až 34 %, proměnlivé)", "group": "Kvásek" },
+    { "ingredientId": "drozdi-cerstve", "amount": 10, "unit": "g", "note": "compressed = čerstvé droždí (2 %)", "scaling": "linear", "group": "Kvásek" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "3 %", "group": "Kvásek" },
+    { "ingredientId": "med", "amount": 10, "unit": "g", "note": "2 %; náhrada sladu, volitelně", "group": "Kvásek" },
+    { "ingredientId": "celozrnna-mouka", "amount": 250, "unit": "g", "note": "50 % mouky receptury (celozrnná mouka)", "group": "Těsto" },
+    { "ingredientId": "mleko-polotucne", "amount": 170, "unit": "ml", "note": "voda 155 ml (31 %, zdroj 30 až 32 %, proměnlivá) + sušené mléko 15 g (3 %) rozmíchané ve vodě", "group": "Těsto", "original": {"ingredientId": "mleko-susene", "amount": 15, "unit": "g"} },
+    { "ingredientId": "sul", "amount": 13, "unit": "g", "note": "2,5 % z mouky, zaokrouhleno", "scaling": "linear", "group": "Těsto" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "5 %; ve zdroji ztužený tuk (shortening)", "scaling": "linear", "group": "Těsto", "original": {"ingredientId": "ztuzeny-tuk", "amount": 25, "unit": "g"} }
+  ],
+  "steps": [
+    { "text": "Vodu nahřej na 23 až 24 °C, rozmíchej v ní droždí, cukr a med. Vmíchej bílou mouku na kvásek a míchej 4 až 5 minut.", "minutes": 5 },
+    { "text": "Kvásek přikryj a nech kvasit při 23 až 24 °C několik hodin, podle podmínek." },
+    { "text": "Mléko nahřej na 30 až 35 °C.", "minutes": 3 },
+    { "text": "Zkvašený kvásek vlož do mísy, přidej mléko, celozrnnou mouku, sůl a máslo a hněť 10 až 15 minut do hladkého, pružného těsta.", "minutes": 15 },
+    { "text": "Těsto zakryj a nech kynout v teple 144 minut (2 h 24 min).", "minutes": 144 },
+    { "text": "Těsto vtlač, aby unikl plyn, a nech ještě 36 minut kynout.", "minutes": 36 },
+    { "text": "Těsto zaokrouhli a nech 12 minut odpočinout pod utěrkou.", "minutes": 12 },
+    { "text": "Těsto vtlač, slož do obdélníku, pevně ho sroluj, zapečeť šev a vlož ho švem dolů do vymazané formy na chléb.", "minutes": 5 },
+    { "text": "Předehřej troubu na 230 °C." },
+    { "text": "Bochník nech v teple dokynout 50 minut, až zdvojnásobí objem.", "minutes": 50 },
+    { "text": "Peč 10 minut při 230 °C, pak sniž na 200 °C a peč dalších 30 minut, dokud po poklepání o spodek nezní dutě.", "minutes": 40 },
+    { "text": "Vyjmi z formy a nech na mřížce vychladnout." }
+  ],
+  "modernNote": "Zdroj: TM 10-410 (1945), odst. 93a(2), metoda kvásek + těsto, procenta z mouky (100 = mouka), tabulka ověřena podle obrázku strany. Přepočteno na 1 bochník z 500 g mouky (procento × 5 g), stejně jako celozrnný chléb 93(1) a kasárenský chléb s kvaskem 84; faktor 1, zdroj nemá hmotnosti. Rozdíl proti 93(1): bílá mouka je v kvásku, celozrnná až v těstě, kvásek zraje hodiny předem. Kvásek: 50 % bílé mouky, 32 až 34 % vody (zvoleno 33 %), 2 % droždí, 3 % cukru, 2 % sladu. Těsto: 50 % celozrnné mouky, 30 až 32 % vody (zvoleno 31 %, 155 ml), 2,5 % soli, 5 % tuku, 3 % sušeného mléka. Sušené mléko 15 g se rozmíchá ve vodě těsta a v řádku je mléko jako objem 170 ml (voda 155 ml + sušené mléko 15 g, sušené v original), stejně jako u kasarensky-chleb-kvaskove-testo. Shortening nahrazen máslem (ztužený tuk v original); slad (2 %) nahrazen medem jako u 93(1), není to totéž. Sůl 2,5 % dává 3,25 g na porci, což je hodně; pro domácí chléb stačí 10 g. Doby: kniha pro 93 odkazuje na obecné postupy (kap. 2) a čas neuvádí; převzato z garrison bread 84 (kvásek 4 až 12 hodin při 23 až 24 °C je čekání, které timeMinutes nezahrnuje; kynutí těsta 144 + 36 min; odpočinek 12 min; dokynutí 50 min); pečení 10 min při 230 °C a 30 min při 200 °C jako u 93(1). Porce ze zdroje chybí: 4 porce = čtvrtina bochníku (asi 200 g pečiva), proto check:recipe hlásí bilanci 228 g vůči odhadu 125 g (těsto bez vody na vaření); sůl ze zdroje se nemění. Kniha uvádí podíl celozrnné mouky 40 až 60 %; víc než 60 % dělá chléb tmavší a těžší.",
+  "source": { "book": "army-baker-1945", "page": 49, "titleOriginal": "Whole-Wheat Bread (Sponge-and-Dough Method)" },
+  "verified": true
+}

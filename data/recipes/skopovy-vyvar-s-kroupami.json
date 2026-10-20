@@ -1,0 +1,38 @@
+{
+  "id": "skopovy-vyvar-s-kroupami",
+  "title": "Skopový vývar s kroupami",
+  "titleOriginal": "To make Mutton Broth",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 155,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "skopove-maso", "amount": 730, "unit": "g", "note": "krk s kostí, rozdělený na dvě části; zdroj: asi 6 lb" },
+    { "ingredientId": "voda", "amount": 1010, "unit": "ml", "note": "zdroj: 1 galon" },
+    { "ingredientId": "kroupy", "amount": 30, "unit": "g", "note": "zdroj: ¼ lb krup „nebo rýže“, na začátku" },
+    { "ingredientId": "cibule", "amount": 40, "unit": "g", "note": "oloupaná, celá; zdroj: 1 cibule, odhad hmotnosti" },
+    { "ingredientId": "chleb", "amount": 20, "unit": "g", "note": "dobrá kůrka chleba; množství odhad" },
+    { "ingredientId": "tymian-cerstvy", "amount": 3, "unit": "g", "note": "svazeček bylinek; množství odhad" },
+    { "ingredientId": "turin", "amount": 70, "unit": "g", "note": "oloupaný, na kousky; zdroj: 1–2 tuříny, odhad hmotnosti" },
+    { "ingredientId": "pazitka", "amount": 2, "unit": "g", "note": "nadrobno nakrájená; zdroj: „a few chives“, odhad" },
+    { "ingredientId": "petrzel-nat", "amount": 3, "unit": "g", "note": "nadrobno nasekaná; zdroj: „a little“, odhad" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "zdroj: „season with salt“, množství odhad" }
+  ],
+  "steps": [
+    { "text": "Krk rozděl na dvě části.", "minutes": 5 },
+    { "text": "Užší část krku dej do hrnce s vodou a kroupami, přiveď k varu a důkladně odpěň.", "minutes": 15 },
+    { "text": "Přidej svazeček bylinek, celou cibuli a kůrku chleba.", "minutes": 2 },
+    { "text": "Vař jednu hodinu.", "minutes": 60 },
+    { "text": "Přidej druhou část krku.", "minutes": 2 },
+    { "text": "Vař dál, aby maso změklo.", "minutes": 45 },
+    { "text": "Asi čtvrt hodiny před koncem varu přidej tuřín, pažitku a petržel.", "minutes": 15 },
+    { "text": "Osol." }
+  ],
+  "modernNote": "Zdroj neuvádí počet porcí. Na galon vody (vinný, 3,785 l) dává 6 lb krku, takže z jedné dávky je vydatná masová polévka asi pro 15 osob po 450 g (vývar s kroupami a masem); všechna množství ze zdroje jsou proto × 4/15 (krk 6 lb ≈ 2,7 kg s kostí → 730 g, voda 1 010 ml, kroupy 30 g). Porce má asi 440 g a 480 kcal: s 0,4 dávky (10 porcí po 0,33 l vody) by porce vážila 650 g a měla přes 700 kcal, což je mimo rozumnou porci polévky. Množství cibule, chleba, bylinek, pažitky, petržele, tuřínu a soli kniha neuvádí, jsou odhad, proto verified: false. Kniha nabízí krupky (barley) nebo rýži; recept počítá s kroupami (rýži vař jen asi 20 minut a přidej později). Sušené měsíčky (marigold), které kniha přidává s tuřínem, jsou vynechány: v katalogu nejsou a chuť polévky nemění. Kniha dodává, že vývar lze zahustit ovesnou moukou nebo chlebem a ochutit macisem místo bylinek a cibule. Tuřín na přílohu doporučuje vařit zvlášť, v hrnci by vývar zesílil. Čas po přidání druhé části krku (45 minut) zdroj neuvádí, je odhad podle změknutí masa; skopové je dnes třeba objednat u řezníka, náhradou jde jehněčí krk.",
+  "source": { "book": "glasse-1747", "page": 126, "titleOriginal": "To make Mutton Broth" },
+  "verified": false,
+  "quote": "Take a neck of mutton about six pounds, cut it in two, boil the scrag in a gallon of water."
+}

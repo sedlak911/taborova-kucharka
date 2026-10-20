@@ -1,0 +1,38 @@
+{
+  "id": "skopove-harico",
+  "title": "Skopové harico s kaštany a tuřínem",
+  "titleOriginal": "A Harrico of Mutton",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["kotlik", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "skopove-maso", "amount": 600, "unit": "g", "note": "krk nebo hřbet s kostí, na 6 kusů; zdroj neuvádí váhu, odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "na obalení masa; zdroj množství neuvádí, odhad", "scaling": "linear" },
+    { "ingredientId": "turin", "amount": 300, "unit": "g", "note": "na kostky; zdroj množství neuvádí, odhad" },
+    { "ingredientId": "mrkev", "amount": 200, "unit": "g", "note": "na kostky; zdroj množství neuvádí, odhad" },
+    { "ingredientId": "kastany", "amount": 200, "unit": "g", "note": "24 kaštanů (zdroj „two dozen“) po 8,4 g, spařené a vyloupané" },
+    { "ingredientId": "salat-rimsky", "amount": 300, "unit": "g", "note": "2–3 malé hlávky salátu nadrobno; odhad" },
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "note": "6 malých kulatých cibulek (zdroj „six little round onions“), odhad 25 g na kus" },
+    { "ingredientId": "tymian-cerstvy", "amount": 3, "unit": "g", "note": "svazek bylinek („sweet herbs“), odhad" },
+    { "ingredientId": "majoranka", "amount": 1, "unit": "g", "note": "svazek bylinek („sweet herbs“), odhad" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "„some pepper“, odhad" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "„some salt“, odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "2–3 „blades of mace“ = muškátový květ; náhrada muškátovým oříškem" }
+  ],
+  "steps": [
+    { "text": "Krk nebo hřbet nakrájej na šest kusů a obal v mouce.", "minutes": 5 },
+    { "text": "Opékej kusy masa na pánvi nebo v rendlíku z obou stran dohněda.", "minutes": 10 },
+    { "text": "Vylij z rendlíku všechen tuk.", "minutes": 2 },
+    { "text": "Přidej tuřín a mrkev nakrájené na kostky, spařené kaštany, nadrobno nakrájený salát, malé kulaté cibulky, svazek bylinek, pepř, sůl a macis.", "minutes": 10 },
+    { "text": "Pevně přikryj a duš jednu hodinu.", "minutes": 60 },
+    { "text": "Seber tuk a servíruj.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, tištěná s. 33, PDF 63) nemá porce ani váhy, proto originalYield chybí. Pro 4 porce je zvoleno 600 g krku nebo hřbetu s kostí (asi 120 g masa na osobu, porce kolem 580 kcal); celý krk nebo hřbet nakrájený na 6 kusů je ve zdroji spíš na 6 osob a se 160 g tučného skopového na porci by jídlo mělo skoro 700 kcal. Všechna množství kromě kusů (24 kaštanů, 6 cibulek, 3 hlávky) jsou odhady. Zdroj nepřidává žádnou tekutinu (ověřeno na obrázku strany: po vylití tuku jde do rendlíku jen zelenina, kaštany, salát, cibulky a koření, pak „cover it close, and let it stew for an hour“): šťáva vyteče z masa, salátu a zeleniny, proto pevná poklice a nízký oheň; kdyby se přichytávalo, přidej 1–2 lžíce vody. Zdroj nepřidává tuk, maso se opéká ve vlastním. Macis (muškátový květ) není v katalogu, nahrazen muškátovým oříškem. Skopové dnes nahraď jehněčím krkem. Jde o předchůdce irish stew.",
+  "source": { "book": "glasse-1747", "page": 63, "titleOriginal": "A Harrico of Mutton" },
+  "verified": false,
+  "quote": "cover it close, and let it stew for an hour, then take off the fat and dish it up."
+}
