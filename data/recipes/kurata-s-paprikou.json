@@ -1,0 +1,36 @@
+{
+  "id": "kurata-s-paprikou",
+  "title": "Kuře na paprice se smetanou",
+  "titleOriginal": "Kuřata s paprikou",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1000, "unit": "g", "note": "zdroj 2 kuřátka rozkrájená na čtvrtky; odhad 2 × 500 g s kostí" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "note": "zdroj „kus čerstvého másla“, odhad 2 loty (35 g)" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "jedna cibule, odhad 100 g hrubé × 0,9" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "zdroj „trochu“, odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "note": "jedna vrchovatá lžíce" },
+    { "ingredientId": "hovezi-vyvar", "amount": 350, "unit": "ml", "note": "zdroj asi žejdlík hovězí polévky (≈ 0,35 l)" },
+    { "ingredientId": "zakysana-smetana", "amount": 180, "unit": "g", "note": "zdroj půl žejdlíku (≈ 175 ml) husté kyselé smetany" },
+    { "ingredientId": "sladka-paprika", "amount": 1, "unit": "g", "note": "zdroj půl kávové lžičky, odhad" }
+  ],
+  "steps": [
+    { "text": "Cibuli tence nakrájej.", "minutes": 5 },
+    { "text": "Do kastrolu dej máslo a cibuli. Přidej kuřata rozkrájená na čtvrtky a trochu je osol.", "minutes": 5 },
+    { "text": "Přikryj poklicí a nech kuřata napůl udusit.", "minutes": 20 },
+    { "text": "Kuřata vyndej do jiného rendlíku.", "minutes": 2 },
+    { "text": "Do šťávy v kastrolu dej mouku a rozmíchej. Přilej hovězí polévku a husté kyselé smetany a nech ještě povařit.", "minutes": 10 },
+    { "text": "Omáčku proceď na kuřata. Přidej papriku.", "minutes": 3 },
+    { "text": "Nech kuřata v omáčce dovařit.", "minutes": 25 },
+    { "text": "Kuřata urovnej na mísu a polej omáčkou.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj neudává počet porcí ani množství masa; odhad: 2 mladá kuřátka na čtvrtky (každé asi 500 g s kostí) = 8 kusů, tedy asi 4 porce po 2 čtvrtkách. Staré míry: žejdlík ≈ 0,35 l, vrchovatá lžíce mouky ≈ 15 g, „kus másla“ odhad 35 g, „trochu“ soli 4 g, půl kávové lžičky papriky ≈ 1 g. Zdroj neuvádí žádné doby (jen „napůl udusit“ a „dovařit“); 20 minut dušení, 10 minut svaření omáčky a 25 minut dovaření jsou odhad pro čtvrtky kuřete. Vývar ze zdroje je hovězí polévka. Moderní kuře na paprice z receptury najdeš v receptu „Kuře na paprice“; tohle je historická podoba, kde je papriky jen půl kávové lžičky.",
+  "source": { "book": "rettigova-1868", "page": 103, "titleOriginal": "Kuřata s paprikou" },
+  "verified": false,
+  "quote": "Dej na kastrol kus čerstvého másla, jednu tenince rozkrájenou cibuli, vlož na to dvě na čtvrtky rozkrájená kuřátka"
+}

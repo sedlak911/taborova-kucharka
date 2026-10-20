@@ -1,0 +1,40 @@
+{
+  "id": "moucne-knedliky",
+  "title": "Moučné knedlíky se žemlovými kostičkami",
+  "titleOriginal": "Jiné moučné knedlíky",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 180,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "zloutek", "amount": 2.65, "unit": "ks", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 230, "unit": "ml", "note": "zdroj: žejdlík", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 260, "unit": "g", "note": "zdroj: 2 žejdlíky, odhad 385 g", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "do těsta; množství zdroj neuvádí, odhad", "group": "Těsto" },
+    { "ingredientId": "zemle-bila", "amount": 65, "unit": "g", "note": "zdroj: 2 žemličky, odhad 50 g/ks; na drobné kostky", "group": "Těsto" },
+    { "ingredientId": "maslo", "amount": 95, "unit": "g", "note": "rozpuštěné na polití žemlových kostek; zdroj čtvrt libry", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření knedlíků, slije se; domácí hodnota", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "do vody na vaření, slije se; zdroj „slané vody“, množství odhad", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "strouhanka", "amount": 15, "unit": "g", "note": "ze zdroje „strouhaná žemličková kůrka“; odhad", "group": "Podávání" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "rozpálené na polití; zdroj neuvádí množství, odhad", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Žloutky vyšlehej s vodou do pěny a osol.", "minutes": 5 },
+    { "text": "Zadělej tím mouku na míse.", "minutes": 5 },
+    { "text": "Žemle nakrájej na drobné kostky a vlož je navrch na těsto.", "minutes": 5 },
+    { "text": "Rozpusť máslo a opatrně jím polij žemlové kostky.", "minutes": 3 },
+    { "text": "Nech těsto stát dvě hodiny.", "minutes": 120 },
+    { "text": "Mezitím přiveď k varu hrnec osolené vody.", "minutes": 10, "parallel": true },
+    { "text": "Vařečkou zamíchej žemli do těsta a těsto ještě hodně protluč.", "minutes": 5 },
+    { "text": "Tvaruj hezky velké knedlíky.", "minutes": 10 },
+    { "text": "Knedlíky vlož do vařící slané vody a nech je nepřikryté hodně provařit.", "minutes": 20 },
+    { "text": "Knedlíky vyndej, každý rozpůl, posyp strouhankou a polij rozpáleným máslem.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj uvádí dva recepty: č. 1 (6 vajec, smažená žemle, mouka a máslo bez míry) a č. 2 s měrami; zde je č. 2, protože má měřitelné množství. Žejdlík počítán na 0,35 l, 2 žejdlíky mouky na ≈ 385 g (hladká), čtvrt libry másla 140 g, žemle 50 g/ks. Porce zdroj neuvádí; odhad je 6 velkých knedlíků (2 žemle, 4 žloutky, ≈ 385 g mouky), přepočet na 4 porce k = 4/6, tedy asi 4 knedlíky. Množství soli, strouhanky a másla na polití je odhad, recept je proto neověřený. Doba vaření ve zdroji je jen „hodně provařit“, 20 minut je odhad; zkus jeden rozkrojit. Knedlíky se podávají rozpůlené; k černé rybě (kapr na černo) kniha výslovně doporučuje variantu č. 1, o č. 2 píše, že jsou „též výborné“. Jako přílohu počítej s jedním knedlíkem (dvěma půlkami) na osobu.",
+  "source": { "book": "rettigova-1868", "page": 172, "titleOriginal": "Jiné moučné knedlíky" },
+  "verified": false,
+  "quote": "dělej hezky velké knedlíky, klad je do vařící slané vody a nech je nepřikryté hodně provařit"
+}

@@ -1,0 +1,59 @@
+{
+  "id": "kasarensky-chleb-kvaskove-testo",
+  "title": "Kasárenský chléb s kvaskem",
+  "titleOriginal": "Garrison Bread (Sponge-and-Dough Method)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 315,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 300, "unit": "g", "note": "60 % mouky receptury", "group": "Kvásek" },
+    { "ingredientId": "voda", "amount": 180, "unit": "ml", "note": "36 % mouky receptury", "group": "Kvásek" },
+    { "ingredientId": "drozdi-cerstve", "amount": 8, "unit": "g", "note": "lisované (compressed), kniha 1,5 až 2 % (7,5 až 10 g)", "scaling": "linear", "group": "Kvásek" },
+    { "ingredientId": "slad-sladovy", "amount": 5, "unit": "g", "note": "1 %; volitelný, lze vynechat nebo nahradit 1 lžičkou medu", "group": "Kvásek" },
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "40 % mouky receptury", "group": "Těsto" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml",
+      "note": "voda 120 ml (24 %, u mouky proměnlivá) + sušené mléko 30 g rozmíchané ve vodě",
+      "group": "Těsto",
+      "original": { "ingredientId": "mleko-susene", "amount": 30, "unit": "g" }
+    },
+    { "ingredientId": "sul", "amount": 13, "unit": "g", "note": "2,5 % (12,5 g), zaokrouhleno", "scaling": "linear", "group": "Těsto" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "3 %", "group": "Těsto" },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "5 %; ve zdroji ztužený tuk (shortening), bez něj by chléb byl suchý",
+      "scaling": "linear",
+      "group": "Těsto",
+      "original": { "ingredientId": "ztuzeny-tuk", "amount": 25, "unit": "g" }
+    }
+  ],
+  "steps": [
+    { "text": "Vodu nahřej na 23 až 24 °C, rozetři v ní droždí a slad. Vmíchej mouku na kvásek a míchej 4 až 5 minut.", "minutes": 5 },
+    { "text": "Kvásek přikryj a nech kvasit při 23 až 24 °C od 4 do 12 hodin, podle podmínek." },
+    { "text": "Mléko nahřej na 30 až 35 °C a rozmíchej v něm cukr a sůl.", "minutes": 3 },
+    { "text": "Zkvašený kvásek vlož do mísy, přidej mléko, mouku na těsto a máslo a hněť 10 až 15 minut do hladkého, pružného těsta.", "minutes": 15 },
+    { "text": "Těsto zakryj a nech kynout v teple 144 minut (2 h 24 min).", "minutes": 144 },
+    { "text": "Těsto vtlač, aby unikl plyn, a nech ještě 36 minut kynout.", "minutes": 36 },
+    { "text": "Těsto rozděl na jeden kus asi 800 g, zaokrouhli ho a nech 12 minut odpočinout pod utěrkou.", "minutes": 12 },
+    { "text": "Kus vtlač, slož do obdélníku, pevně sroluj, zapečeť šev a vlož ho švem dolů do vymazané formy na chléb.", "minutes": 5 },
+    { "text": "Předehřej troubu na 230 °C." },
+    { "text": "Bochník nech v teple dokynout 50 minut (30 až 60 minut), až zdvojnásobí objem.", "minutes": 50 },
+    { "text": "Peč 10 minut při 230 °C, pak sniž na 200 °C a peč dalších 35 minut, dokud nezhnědne a po poklepání nezní dutě.", "minutes": 45 },
+    { "text": "Vyjmi z formy a nech na mřížce vychladnout." }
+  ],
+  "modernNote": "Zdroj (PDF 47, odst. 84): metoda kvásek + těsto, procenta z mouky (100 = mouka), tabulka ověřena podle obrázku strany. Přepočteno na 1 bochník z 500 g mouky (procento × 5 g), stejně jako hotový recept 83 (přímé těsto); faktor 1, zdroj nemá hmotnosti. Kvásek (sponge) má 60 % mouky, 36 % vody, 1,5 až 2 % droždí a 1 % sladu, těsto zbylých 40 % mouky, 24 % vody (v knize „variable“, doladit podle mouky), sůl, cukr, tuk a 6 % sušeného mléka. Droždí zvoleno 8 g (1,6 %): čím víc droždí, tím kratší kvašení, a kvásek stojí hodiny. Sušené mléko 30 g se rozmíchá ve vodě těsta a v řádku je mléko jako objem 150 ml (voda 120 ml + sušené mléko 30 g, sušené v original). Ztužený tuk nahrazen máslem 25 g; sůl 12,5 g zaokrouhlena na 13 g. Slad 1 % (5 g) je volitelný. Doby z knihy: kvásek kvasí 4 až 12 hodin při 74 až 76 °F (23 až 24 °C) a míchá se 4 až 5 minut; to je čekání, které timeMinutes nezahrnuje, kvásek se dělá večer předem nebo ráno. Pro kvašení těsta po smíchání kniha odkazuje na odst. 57c(3): 3 hodiny s vtlačením při 80 % (144 + 36 min), stejně jako u receptu 83. Dokynutí 30 až 60 minut (kniha 50), krátký odpočinek 12 minut a pečení 10 minut při 230 °C a pak 35 minut při 200 °C vycházejí z téže kapitoly (36 min pro 20 oz bochník, 800 g těsta dá asi 700 g pečiva, proto 45 min). Kniha uvádí i teplotu těsta 78 až 84 °F (26 až 29 °C); doma stačí vlažné mléko. Hlavní rozdíl proti receptu 83: kvásek zraje hodiny předem, chléb je aromatičtější a déle vydrží. Sůl 3,25 g na porci je nad 2,5 g, sedí s poměrem 2,5 % ze zdroje, ponecháno; pro domácí chléb je běžnější 2 % (10 g).",
+  "source": {
+    "book": "army-baker-1945",
+    "page": 47,
+    "titleOriginal": "Garrison Bread (Sponge-and-Dough Method)"
+  },
+  "verified": true
+}

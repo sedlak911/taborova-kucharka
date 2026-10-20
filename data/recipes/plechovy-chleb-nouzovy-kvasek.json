@@ -1,0 +1,58 @@
+{
+  "id": "plechovy-chleb-nouzovy-kvasek",
+  "title": "Plechový chléb z nouzového kvasku (12 h)",
+  "titleOriginal": "Field Garrison (Sheet) Bread (Emergency Sponge-and-Dough Method)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 195,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "50 % mouky", "group": "Kvásek" },
+    { "ingredientId": "voda", "amount": 130, "unit": "ml", "note": "26 %", "group": "Kvásek" },
+    { "ingredientId": "drozdi-susene", "amount": 0.75, "unit": "g", "note": "0,15 % mouky; špetka na špičku nože", "scaling": "linear", "group": "Kvásek" },
+    { "ingredientId": "cukr-krystal", "amount": 3, "unit": "g", "note": "0,5 % mouky (2,5 g), zaokrouhleno", "scaling": "linear", "group": "Kvásek" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g", "note": "0,25 % mouky (1,25 g), zaokrouhleno", "group": "Kvásek" },
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "druhá polovina mouky", "group": "Těsto" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 165,
+      "unit": "ml",
+      "note": "voda 155 ml (31 %, u mouky proměnlivá) + sušené mléko 10 g rozmíchané ve vodě",
+      "group": "Těsto",
+      "original": { "ingredientId": "mleko-susene", "amount": 10, "unit": "g" }
+    },
+    { "ingredientId": "cukr-krystal", "amount": 13, "unit": "g", "note": "2,5 % mouky (12,5 g), zaokrouhleno", "scaling": "linear", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g", "note": "1,75 % mouky (8,75 g), zaokrouhleno", "group": "Těsto" },
+    {
+      "ingredientId": "maslo",
+      "amount": 10,
+      "unit": "g",
+      "note": "2 % mouky; ve zdroji ztužený tuk (shortening), změkčené",
+      "scaling": "linear",
+      "group": "Těsto",
+      "original": { "ingredientId": "ztuzeny-tuk", "amount": 10, "unit": "g" }
+    }
+  ],
+  "steps": [
+    { "text": "Do mísy dej mouku z kvasku, vodu, droždí, cukr a sůl z kvasku a promíchej na hustou kaši.", "minutes": 5 },
+    { "text": "Kvásek přikryj a nech kvasit 12 hodin při 28 až 29 °C." },
+    { "text": "Mléko nahřej na asi 29 °C a rozmíchej v něm cukr a sůl z těsta. Přidej ke kvasku s druhou polovinou mouky a máslem a hněť 10 minut do hladkého těsta o teplotě asi 29 °C.", "minutes": 12 },
+    { "text": "Těsto přikryj a nech kynout 1 hodinu.", "minutes": 60 },
+    { "text": "Těsto vtlač, aby unikl plyn, rozděl na dva stejné kousky (asi 400 g) a z každého utvaruj válcový bochník. Oba vlož švem dolů těsně vedle sebe do vymazaného plechu nebo velké formy.", "minutes": 10 },
+    { "text": "Předehřej troubu na 230 °C." },
+    { "text": "Bochníky nech ještě 1 hodinu dokynout v teple.", "minutes": 60 },
+    { "text": "Peč 10 minut při 230 °C, pak sniž na 205 °C a peč dalších asi 25 minut, dokud není kůrka zlatohnědá.", "minutes": 35 },
+    { "text": "Chléb vyjmi z plechu a nech na mřížce vychladnout. Bochníky neodděluj, dokud je nebudeš jíst." }
+  ],
+  "modernNote": "Zdroj (PDF 20, tištěná s. 12, odst. 19e(1), odkazuje na něj odst. 87): nouzová metoda, když je sušeného droždí málo nebo je zleželé. Pekařská procenta z mouky, přepočteno přímo na 1 bochník z 500 g mouky (procento × 5 g), faktor 1; zdroj neuvádí porce, originalYield vynechán. Celkem vychází voda 57 %, cukr 3 %, sůl 2 % a jen 0,15 % sušeného droždí (0,75 g; nález check:recipe „méně než 1 g“ je záměr, sedí se zdrojem; doma špetka na špičku nože; kdo nemá přesnou váhu, dá o málo víc a zkrátí kvašení). Kvásek kvasí podle knihy 12 hodin při 82 až 84 °F (28 až 29 °C), pak se mísí s těstem při 84 °F (29 °C), kyne 1 hodinu a po zformování další hodinu v pánvi; doby i teploty jsou ze zdroje. Vodu a sušené mléko 10 g jsem spojil do jednoho řádku mléka (sušené v original); ztužený tuk nahrazen máslem. Kniha dělá 10librové plechy z pěti 2librových bochníků (kusy po 36 oz, 1 kg) a peče je „obvyklým způsobem“; tady stejně jako Plechový polní chléb dva bochníky po 400 g těsně vedle sebe. Pečení: kniha 450 °F (230 °C) při vložení, pak asi 400 °F (205 °C), plát 1 h až 1 h 15 min; dva bochníky po 400 g se propečou rychleji (kniha pro 20oz bochník 567 g těsta uvádí 36 min), proto asi 35 min jako u Plechového polního chleba. Hnětení 10 minut je domácí odhad. Kvašení 12 h a chladnutí na mřížce (podle knihy 2,5 až 6 hodin) jsou mimo timeMinutes. Sůl celkem 2 % (10 g) je 2,5 g na porci.",
+  "source": {
+    "book": "army-baker-1945",
+    "page": 20,
+    "titleOriginal": "Field Garrison (Sheet) Bread (Emergency Sponge-and-Dough Method)"
+  },
+  "verified": true,
+  "quote": "Mix the sponge ingredients and allow to ferment for 12 hours at from 82° to 84° F."
+}

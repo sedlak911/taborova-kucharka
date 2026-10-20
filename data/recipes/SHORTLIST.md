@@ -1214,3 +1214,215 @@ Zadání: „vyber dalších 50–100“ → schválený seznam 81 receptů (45 
 | 79 | koblihy-rettigova | Koblihy | rettigova-1868 |  | 365 | sladke |  | č. 42 |
 | 80 | nakladane-kysane-zeli | Domácí kysané zelí | rettigova-1868 |  | 475 | prilohy-a-zelenina | levne, pripravit-predem | č. 10 (Dodatek); kvašení týdny |
 | 81 | sladke-buchty-hauptmann | Sladké kynuté buchty | hauptmann-1877 |  | 15 | snidane-a-pecivo |  | Buns |
+
+## Výběr 2026-10-20 c (doplnění knih na 50 receptů, dávky Z1–Z14)
+
+Zadání: „tam, kde není aspoň 50 receptů per kniha, doplň (podle doporučení/důležitosti)“. Stav před výběrem: Glasse 10, Rettigová 44, Hauptmann 7, Wells 8, Feldkochbuch 36, Army Baker 5. **Feldkochbuch má jen 36 pokrmů (vše hotové)**, **Army Baker jen ~15 formulí chleba** – vybráno 6 skutečně odlišných. Pořadí v rámci knihy = doporučení (výběrové soubory agentů). Kapitola a tagy jsou návrh.
+
+### Dávka Z1
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 1 | gulas-rettigova | Hovězí guláš s majoránkou a paprikou | rettigova-1868 |  | 50 | z-jednoho-hrnce | levne, tabor, kotlik | „Gulaš (Gulaschfleisch)“ (č. 19). Pro 6 osob: 1½–2 libry hovězího, 3 loty másla na 2 libry, 2 cibule, petržel. kořen, majoránka, „turecký pepř (Paprika)“; podlévá se vývarem/vodou, podává s věncem z brambor. Jeden z nejstarších českých receptů na guláš (analýza ho omylem uvádí jako chybějící). Obsahově se liší od hovezi-gulas (afrs). |
+| 2 | svestkove-knedliky | Švestkové knedlíky z tvarohového těsta | rettigova-1868 |  | 173 | sladke | levne, sladke | „Švestkové knedlíky“ (č. 5). 4 loty másla, 4 vejce + 2 žloutky, žejdlík mléka, ¼ libry tvarohu, mouka „tužší než na buchtičky“ (odhad), švestky bez počtu. Posyp tvaroh nebo perník s cukrem, máslo. Varianta s kvasnicemi č. 6 (s. 174) do modernNote. Jiné těsto než ovocne-knedliky (receptury). |
+| 3 | kurata-s-paprikou | Kuře na paprice se smetanou | rettigova-1868 |  | 103 | maso-a-ryby | kotlik | „Kuřata s paprikou“ (č. 5). 2 kuřata na čtvrtky, máslo, 1 cibule, vrchovatá lžíce mouky, žejdlík vývaru, ½ žejdlíku kyselé smetany, ½ kávové lžičky papriky. Historická podoba paprikáše; kure-na-paprice (receptury) je moderní. Vývar = hovezi-vyvar. |
+| 4 | moucne-knedliky | Moučné knedlíky se smaženou houskou | rettigova-1868 |  | 172 | prilohy-a-zelenina | pripravit-predem | „Moučné knedlíky“ (č. 1). 6 vajec, 1 houska smažená na kostičky, máslo a mouka bez míry („aby se na ruku nepřilíplo“), lžičky smetany. Kniha je doporučuje „k černé rybě“ (kapr-na-cerno). Úspornější varianta č. 2 (4 žloutky, 2 žejdlíky mouky, 2 housky, ¼ libry másla) ve stejné straně; lze ji vzít jako hlavní. Liší se od houskove-knedliky (receptury). |
+| 5 | cocka-na-cibulce | Čočka na cibulce | rettigova-1868 |  | 101 | bezmasa | levne, tabor, kotlik, bez-masa | „Čočka“ (č. 44). Bez množství, ale jen 3 suroviny (čočka, cibule, máslo), proto jde snadno odhadnout. Smažená játra (č. 20, s. 75) nebo vemeno jako příloha vynechat, případně zmínit. Nenamáčí se. |
+| 6 | zemlovka-s-rozinkami | Žemlovka s rozinkami | rettigova-1868 |  | 184 | sladke | levne, sladke | „Žemlovka a hrozinkami“ (č. 34). Housky na plátky, rozinky, pomerančová kůra, máslo, zálivka ze 2 vajec a sladké smetany s cukrem. Počet housek a cukr odhadnout. Bez jablek, takže jde o jinou verzi než jablkova-zemlovka (receptury). |
+| 7 | plechovy-chleb | Plechový polní chléb (sheet bread) | army-baker-1945 | | 47 | snidane-a-pecivo | levne, tabor | Field Garrison (Sheet) Bread (Temperate and Frigid Climates), odst. 85; plát chlebů v jednom plechu (2 lb bochníky), vhodné pro tábor; 100 % mouka, 54–56 % voda, 2 % droždí, 4 % tuk, 2 % mléko |
+| 8 | kasarensky-chleb-kvaskove-testo | Kasárenský chléb s kvaskem (kvásek + těsto) | army-baker-1945 | | 47 | snidane-a-pecivo | levne, pripravit-predem | Garrison Bread (Sponge-and-Dough Method), odst. 84; 60 % mouky v kvásku, 40 % v těstě; skutečně jiná metoda než hotový recept 83; celá tabulka kvásek + těsto je na PDF 47 |
+| 9 | kasarensky-chleb-rychle-vedeni | Kasárenský chléb rychlým vedením | army-baker-1945 | | 48 | snidane-a-pecivo | rychle, levne | Short-time Dough (Garrison Bread), odst. 90; 4 % droždí, 62–64 % voda, kratší kynutí; rozdíl proti 83 je v droždí a postupu |
+| 10 | plechovy-chleb-nouzovy-kvasek | Plechový chléb z nouzového kvasku (12 h) | army-baker-1945 | | 20 | snidane-a-pecivo | tabor, pripravit-predem | Field Garrison (Sheet) Bread (Emergency Sponge-and-Dough), odst. 87 + 19e(1), tištěná s. 12; sušené droždí 0,15 %, kvásek 12 h při 82–84 °F, pak těsto; úplná formule v kg/lb; pozn.: odst. 87 odkazuje na 19e, formule je v kap. 1 |
+
+### Dávka Z2
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 11 | celozrnny-chleb-kvaskove-testo-army | Celozrnný chléb s kvaskem (kvásek + těsto) | army-baker-1945 | | 49 | snidane-a-pecivo | levne | Whole-Wheat Bread (Sponge-and-Dough Method), odst. 93a(2); bílá mouka v kvásku, celozrnná v těstě – skutečně jiná metoda; navazuje na celozrnný chléb 93(1) (stejná strana) |
+| 12 | chleb-s-bramborovym-kvasem | Chléb s bramborovým kvasem | army-baker-1945 | | 19 | snidane-a-pecivo | levne, tabor | Potato-Stock Method, odst. 19d(1); kvas z brambor (1 lb brambor, 4 oz mouky, 14 oz soli, ½ oz droždí na 1 galon) a chléb s ním (tabulka s 60 lb vody/47,5 lb + 12,5 lb kvasu na 100 lb mouky), tištěná s. 11–12; technické, výsledkem je ten samý chléb; jde o kvasnice jako součást receptu |
+| 13 | yorkshirsky-pudink-glasse | Yorkshirský pudink (Glasse) | glasse-1747 | | 131 | prilohy-a-zelenina | levne, bez-masa | A Yorkshire Pudding; ikona knihy, 1 quart mléka, 4 vejce, mouka „jako na palačinky“; peče se pod masem v odkapávajícím tuku → doma forma v troubě. `yorkshirsky-pudink` už má navy-1944, tohle je původní verze |
+| 14 | jablecny-kolac-glasse | Jablečný koláč s citronem a hřebíčkem | glasse-1747 | | 202 | sladke | sladke | To make an Apple Pye; množství jablek a cukru chybí → odhad; listové těsto („puff-paste“) lze navázat na `listove-testo`; sirup z vařených slupek |
+| 15 | palacinky-se-zazvorem | Palačinky se zázvorem | glasse-1747 | | 152 | snidane-a-pecivo | levne, rychle, sladke | To make Pancakes; 1 quart mléka, 6–8 vajec, 2 lžíce zázvoru, sklenička brandy (jen do `original`), mouka „do správné hustoty“ → odhad |
+| 16 | skopove-harico | Skopové harico s kaštany a tuřínem | glasse-1747 | | 63 | z-jednoho-hrnce | kotlik | A Harrico of Mutton; krk/hřbet na 6 kusů, tuřín, mrkev, 24 kaštanů, 2–3 hlávky salátu, 6 cibulek, 1 h dušení; předchůdce irish stew |
+| 17 | steakovy-pudink | Pudink s hovězími steaky v lojovém těstě | glasse-1747 | | 131 | maso-a-ryby | tabor, kotlik | A Steak Pudding; 2 lb loje na ¼ peck mouky (přepočíst na 4 porce), hovězí nebo skopové, vaří se v plátně 3–5 h; klasika britské kuchyně |
+| 18 | pudink-z-chleba-s-maslem | Pudink z chleba s máslem a rozinkami | glasse-1747 | | 197 | sladke | levne, sladke | To make a Bread and Butter Pudding; penny loaf, korintky, 1 pint mléka, 4 vejce, 30 min v troubě; nejstarší tištěný recept tohoto dezertu. Rozdíl proti `chlebovy-pudink` (jiná kniha): vrstvy chleba s máslem |
+| 19 | salmagundi | Salmagundi (salát s kuřetem, ančovičkami a vejci) | glasse-1747 | | 118 | maso-a-ryby | pripravit-predem | To make Salamongundy; 2–3 hlávky salátu, 2 pečená kuřata, 6 ančoviček, vejce, cibulky; množství vajec a dresinku dopočíst z obrázku; dvě další varianty na PDF 119 |
+| 20 | skopovy-vyvar-s-kroupami | Skopový vývar s kroupami | glasse-1747 | | 126 | polevky | levne, kotlik | To make Mutton Broth; krk 6 lb, 1 galon vody, cibule, tuřín, bylinky, ¼ lb krup nebo rýže; měsíček (marigold) vynech nebo do `original` |
+
+### Dávka Z3
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 21 | librova-babovka | Librová bábovka s kmínem (pound cake) | glasse-1747 | | 238 | sladke | sladke, pripravit-predem | To make a Pound Cake; po 1 lb másla, mouky a cukru, 12 vajec (půlka bílků), kmín; ikona britského pečení. Šlehat „hodinu ručně“ → v `modernNote` robot |
+| 22 | devonsky-kolac-se-skopovym-a-jablky | Devonský koláč se skopovým, jablky a cibulí | glasse-1747 | | 136 | maso-a-ryby | | To make a Devonshire Squab Pye; vrstvy jablek, cukru, skopových plátků a cibule, pint vody; množství masa a jablek odhadnout; těsto bez množství → `testo-na-pie` / `listove-testo` |
+| 23 | norfolkske-knedlicky | Norfolkské knedlíčky | glasse-1747 | | 199 | prilohy-a-zelenina | levne, rychle, tabor, bez-masa | To make Norfolk Dumplings; ½ pint mléka, 2 vejce, sůl, mouka na hustou kaši, vařit 2–3 min, na závěr máslo |
+| 24 | veprovy-pudink-v-plateni | Vepřový (hovězí) pudink v plátně | glasse-1747 | | 216 | maso-a-ryby | tabor, kotlik | To make Pork Pudding or Beef, &c. (kap. XI For Captains of Ships); nasolené maso 24 h máčené, těsto z odkapu nebo loje, 4–5 lb vařit 5 h → zmenšit; množství těsta chybí |
+| 25 | tvrde-knedliky | Tvrdé moučné knedlíky k hovězímu | glasse-1747 | | 200 | prilohy-a-zelenina | levne, tabor, kotlik, bez-masa | To make hard Dumplings; mouka, voda, sůl, koule „jako krocaní vejce“, 30 min, nejlépe vařit s kusem hovězího; množství mouky odhad; varianta s máslem na téže straně |
+| 26 | ovesny-pudink-s-rozinkami | Ovesný pudink s lojem a rozinkami | glasse-1747 | | 217 | sladke | tabor, kotlik, levne | To make an Oatmeal Pudding (kap. XI); 1 pint ovesných vloček, 1 lb loje, 1 lb korintek, ½ lb rozinek, v plátně; doba vaření v OCR chybí → obrázek |
+| 27 | smazeni-sledi-s-cibuli | Smažení sledi s cibulí | glasse-1747 | | 164 | maso-a-ryby | rychle | To fry Herrings; sledi na másle, hodně cibule; omáčka z hlav v pivu je na PDF 164 u „To broil Herrings“; množství odhad |
+| 28 | uzeny-sled-se-zelim | Uzený sled na dušeném zelí | glasse-1747 | | 164 | maso-a-ryby | levne, rychle | To dress Herring and Cabbage; uvařené zelí podušené s máslem, rozpálené uzené sledi (red herrings); množství chybí → odhad |
+| 29 | boby-se-slaninou | Boby se slaninou | glasse-1747 | | 43 | z-jednoho-hrnce | levne, kotlik | To dress Beans and Bacon; boby (broad beans) a slanina zvlášť, petržel, slanina posypaná strouhankou; bez množství → odhad; boby jsou v ČR dostupné (mražené) |
+| 30 | veprova-pecene-s-cibuli | Vepřová pečeně na cibuli s hořčicí | glasse-1747 | | 106 | maso-a-ryby | levne | To dress a Loin of Pork with Onions; ¼ peck cibule pod pečeni, pak podušená s máslem, moukou a hořčicí; množství masa odhad |
+
+### Dávka Z4
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 31 | kachna-s-hraskem | Kachna dušená s hráškem a salátem | glasse-1747 | | 89 | maso-a-ryby | | To dress a Duck with Green Peas; ½ pint omáčky (gravy), 1 pint hrášku, 2 hlávky salátu, bylinky; „gravy“ → vývar |
+| 32 | skopove-s-turinem-v-mise | Skopové kotlety vrstvené s chlebem, cibulí a tuřínem | glasse-1747 | | 106 | z-jednoho-hrnce | kotlik | A Neck of Mutton, called the Hasty Dish; krk 6 lb, francouzská houska, velká cibule, 3–4 tuříny, vrstvy v kryté míse („necromancer“) → kastrol; pokračuje na PDF 107 |
+| 33 | hovezi-dusene-s-turinem | Hovězí zadní dušené s červeným vínem a smaženým tuřínem | glasse-1747 | | 59 | z-jednoho-hrnce | kotlik | Another way to stew a Rump of Beef; maso z kosti, lžíce pepře, 2 cibule, 1 pint červeného vína, 4 h; 10–12 tuřínů smažených; „3 quarts gravy“ → vývar, zmenšit |
+| 34 | angrestovy-krem | Angreštový fool s vaječným krémem | glasse-1747 | | 148 | sladke | sladke, pripravit-predem | To make a Gooseberry Fool; 2 quarty angreštu, 2 quarty mléka, 4 žloutky; ikonický britský dezert, zmenšit na 4 porce |
+| 35 | jablecne-knedliky-v-listovem-teste | Vařené jablečné knedlíky v listovém těstě | glasse-1747 | | 200 | sladke | sladke | To make good Apple Dumplings; celé čtvrcené jablko v těstě, vařené v plátně; těsto bez množství (`listove-testo`); `jablka-v-teste` (navy) je pečená verze |
+| 36 | vareny-lojovy-pudink | Vařený lojový pudink se zázvorem | glasse-1747 | | 130 | prilohy-a-zelenina | levne, kotlik | A boiled Suet Pudding; 1 quart mléka, 1 lb loje, 4 vejce, 2 lžíce zázvoru, lžička soli, vařit 2 h; mouka „pretty thick“ → odhad; slaný, k masu |
+| 37 | chlebove-knedlicky-s-lojem | Knedlíčky ze strouhanky a loje | glasse-1747 | | 219 | prilohy-a-zelenina | tabor, kotlik | To make Dumplings when you have White Bread (kap. XI); střída z twopenny loaf, stejně loje, 2 vejce, sack (víno do `original`), cukr, 30 min; omáčka z másla |
+| 38 | kvasnicove-knedliky | Kynuté vařené knedlíčky | glasse-1747 | | 199 | prilohy-a-zelenina | levne, bez-masa | To make Yeast Dumplings; mouka, voda, sůl, droždí, kuličky „jako slepičí vejce“ zploštělé, ~10 min; množství mouky odhad; s rozpuštěným máslem |
+| 39 | houbove-fricasse | Bílé houbové fricassé se smetanou | glasse-1747 | | 177 | bezmasa | rychle, bez-masa | A white Fricasey of Mushrooms; 1 quart hub, voda a mléko, ½ pint smetany, máslo s moukou, muškát |
+| 40 | bramborove-kolacky-se-smetanou | Bramborové koláčky s muškátem | glasse-1747 | | 177 | prilohy-a-zelenina | bez-masa | To make Potatoe Cakes; vařené brambory, žloutky, sack, cukr, muškát, smetana; bez množství; pokračuje na PDF 178; `bramborove-placicky-hauptmann` je jiná verze |
+
+### Dávka Z5
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 41 | opekane-pulky-brambor | Opečené půlky vařených brambor s máslem | glasse-1747 | | 178 | prilohy-a-zelenina | levne, rychle, tabor, bez-masa | To broil Potatoes; uvařit, oloupat, rozpůlit, opéct na roštu, přelít rozpuštěným máslem; bez množství; na ohni na roštu |
+| 42 | pastinak-ve-smetane | Pastinák dušený ve smetaně | glasse-1747 | | 179 | prilohy-a-zelenina | rychle, bez-masa | To stew Parsnips; plátky ve smetaně s máslem a moukou; bez množství; na téže straně „To mash Parsnips“ (pyré s mlékem) jako varianta |
+| 43 | dusene-okurky | Okurky smažené a dušené v omáčce | glasse-1747 | | 113 | prilohy-a-zelenina | bez-masa | To stew Cucumbers; 12 okurek → zmenšit, osmažit, podusit s omáčkou (gravy), klaret (do `original`), hřebíček, květ; druhá verze na PDF 180, ragú s cibulí na PDF 113 |
+| 44 | turinove-pyre | Tuřínové pyré s máslem | glasse-1747 | | 41 | prilohy-a-zelenina | levne, rychle, bez-masa | To dress Turnips; rozmačkat s máslem a solí; druhá verze (kostky v omáčce) na téže straně; bez množství |
+| 45 | zelena-hrachova-polevka | Polévka ze zeleného hrášku s telecím | glasse-1747 | | 125 | polevky | | A Green Peas Soup; telecí kolínko 3–4 lb, 6 quartů vody, kousek slaniny, koření; pokračuje na PDF 126, zmenšit; jiná než hotová `hrachova-polevka-glasse` (suchý hrách) |
+| 46 | turinova-polevka | Tuřínová polévka | glasse-1747 | | 146 | polevky | levne, kotlik, bez-masa | To make a Turnip Soup (kap. IX, posty); 1 galon vody, svazek tuřínu, máslo, chléb; zbytek receptu ověřit na obrázku |
+| 47 | hovezi-ze-zbytku-na-cibuli | Plátky studeného hovězího v cibulové omáčce | glasse-1747 | | 118 | maso-a-ryby | levne, rychle, tabor | To make Collops of cold Beef; zbytky pečeného hovězího, cibule, voda, bylinky, máslo s moukou; bez množství, využití zbytků |
+| 48 | jehneci-zapecene-s-ryzi | Jehněčí zapečené s rýží | glasse-1747 | | 67 | maso-a-ryby | | To bake Lamb and Rice; ½ lb rýže v 1 quartu vývaru, 1 lb másla (snížit), 6 žloutků, napůl upečené jehněčí plátky; pokračuje dál na PDF 67–68 |
+| 49 | peceni-sledi-v-octu | Sledi pečení v octu s bobkovým listem | glasse-1747 | | 205 | maso-a-ryby | pripravit-predem | To pickle or bake Herrings; květ, hřebíček, pepř, bobkový list, půl octa a půl vody, péct v troubě, jíst studené; množství sledů odhad |
+| 50 | dusena-treska-ve-vine | Treska dušená v bílém víně s bylinkami | glasse-1747 | | 160 | maso-a-ryby | rychle | To stew Cod; plátky 1 palec, ½ pint bílého vína, ¼ pint vody, cibule, bylinky, citron, 5–6 min; víno je tekutina na dušení, ne hlavní složka |
+
+### Dávka Z6
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 51 | kminova-babovka | Kmínový koláč (seed cake) | glasse-1747 | | 239 | sladke | sladke, pripravit-predem | To make a fine Seed or Saffron Cake; ¼ peck mouky, 1½ lb másla, 3 oz kmínu, 6 vajec, 1 lb cukru, kvasnice; zmenšit, šafrán volitelný |
+| 52 | mlecny-krem-peceny | Pečený mléčný krém s muškátem | glasse-1747 | | 245 | sladke | sladke, pripravit-predem | To make plain Custards; 1 quart mléka, 8 vajec (půlka bílků), cukr, muškát, péct ve vodní lázni |
+| 53 | domaci-chleb-na-bramborovem-kvasu | Domácí chléb na bramborovém kvasu | hauptmann-1877 |  | 52 | snidane-a-pecivo | levne, bez-masa, pripravit-predem | „Ferment for Family Baking“ + „Setting Sponge and Making Dough“ (52–53); jediný rodinný chléb knihy; 6 brambor, hrst mouky, 1 gill kvasnic; mouka „do těsta“ → dopočítat, droždí místo family yeast |
+| 54 | librovy-kolac | Librový koláč (pound cake) | hauptmann-1877 |  | 21 | sladke | sladke, bez-masa, pripravit-predem | „Pound Cake“; úplné (1 lb cukru, ¾ lb másla, 12 vajec, 1 lb mouky) |
+| 55 | zazvorove-susenky | Zázvorové sušenky (ginger snaps) | hauptmann-1877 |  | 37 | sladke | sladke, levne, tabor, pripravit-predem | „Ginger Snaps“; mouka v textu chybí → odvodit z Ginger S's (str. 38, ~5 lb na 1 qt melasy) |
+| 56 | koblihy-hauptmann | Koblihy z kynutého těsta | hauptmann-1877 |  | 17 | sladke | sladke, bez-masa | „Doughnuts“; navazuje na Buns (bun dough + trocha mouky), smaží se na sádle |
+| 57 | smazene-krouzky-crullers | Smažené kroužky (crullers) | hauptmann-1877 |  | 38 | sladke | sladke, bez-masa | „Crullers“; úplné (4¾ lb mouky, 10 vajec, soda + vinný kámen) → dělit ~5× |
+| 58 | skoricovy-kolac | Skořicový koláč s cukrovou posypkou | hauptmann-1877 |  | 16 | sladke | sladke, bez-masa | „Cinnamon Cake“; 5½ lb bun dough → navazuje na Buns; plech, potřít vejcem, cukr, kousky másla |
+| 59 | kynuty-jablecny-kolac | Kynutý jablečný koláč se smetanovou zálivkou | hauptmann-1877 |  | 17 | sladke | sladke, bez-masa | „Apple Cake“; bun dough + jablka + vejce s kysanou smetanou a skořicí; množství zálivky odhadnout |
+| 60 | horsky-kokosovy-dort | Horský dort s kokosem (mountain cake) | hauptmann-1877 |  | 23 | sladke | sladke, bez-masa, pripravit-predem | „Mountain Cake“ (23–25); „na pikniky v horách“; úplné těsto (8 vajec, soda + vinný kámen); náplň kokos + bílkový sníh, zdobení vynechat |
+
+### Dávka Z7
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 61 | melasove-susenky-rough-and-ready | Melasové sušenky obalené v cukru (rough and readys) | hauptmann-1877 |  | 37 | sladke | sladke, levne, tabor, pripravit-predem | „Rough and Readys“; úplné (2–2¼ lb mouky) |
+| 62 | ovocny-kolac-fruit-cake | Ovocný koláč s rozinkami a citronádou | hauptmann-1877 |  | 23 | sladke | sladke, bez-masa, pripravit-predem | „Fruit Cake“; úplné; 1 gill brandy (málo, ne hlavní složka); vydrží měsíce |
+| 63 | sodove-biskvity | Sodové sušenky (soda biscuit) | hauptmann-1877 |  | 46 | snidane-a-pecivo | levne, rychle, bez-masa, tabor | „Soda Biscuit, No. 1“; úplné (8 lb mouky, 1 lb sádla, ½ gal mléka) → dělit 8× |
+| 64 | citronovy-pie | Citronový koláč s víčkem | hauptmann-1877 |  | 50 | sladke | sladke, levne, bez-masa | „Lemon Pies, No. 2“; náplň úplná na 1 koláč (1 citron, 1 vejce, ½ lb cukru, 2 lžíce mouky, 1 pint vody); těsto = `testo-na-pie` |
+| 65 | dynovy-kolac | Dýňový koláč | hauptmann-1877 |  | 50 | sladke | sladke, levne, bez-masa | „Pumpkin Custard Pie“; množství jen „1 vejce na koláč“ → dopočítat dýni/mléko/cukr; těsto `testo-na-pie` |
+| 66 | melasova-babovka | Melasová perníková bábovka | hauptmann-1877 |  | 36 | sladke | sladke, levne, pripravit-predem | „Molasses Pound Cake“ (36–37); úplné (4 lb mouky, 1 qt melasy) → dělit ~4× |
+| 67 | taylorovy-dorticky | Zázvorové melasové dortíčky (Taylor cake) | hauptmann-1877 |  | 34 | sladke | sladke, levne | „Taylor Cake, No. 1“; úplné; No. 2 je jen varianta s 8 vejci (do modernNote) |
+| 68 | pletenka-hauptmann | Máslová pletenka | hauptmann-1877 |  | 15 | snidane-a-pecivo | bez-masa, levne | „Twist“; ½ gal sponge + ¼ lb másla → navazuje na sponge, mouku a droždí dopočítat |
+| 69 | prelozene-housky | Přeložené máslové housky (rolls) | hauptmann-1877 |  | 16 | snidane-a-pecivo | bez-masa, levne | „Rolls“; množství jen „a little“ → odhad podle Buns |
+| 70 | skoricove-susenky-z-hnedeho-cukru | Skořicové sušenky z hnědého cukru | hauptmann-1877 |  | 31 | sladke | sladke, levne, tabor, pripravit-predem | „Brown Scotch Cake, No. 1“; úplné (2 lb cukru, 1 lb másla, 4 vejce, 2¼ lb mouky) |
+
+### Dávka Z8
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 71 | hnede-susenky-jumbles | Hnědé skořicové kroužky (jumbles) | hauptmann-1877 |  | 32 | sladke | sladke, levne | „Brown Jumbles“; úplné, sádlo; protějšek hotových White Jumbles |
+| 72 | citronove-susenky | Citronové sušenky s krupicovým cukrem | hauptmann-1877 |  | 28 | sladke | sladke, pripravit-predem | „Lemon Cakes“; úplné (3¼ lb mouky) |
+| 73 | bile-skotske-susenky | Bílé máslové sušenky (white Scotch cakes) | hauptmann-1877 |  | 33 | sladke | sladke, pripravit-predem | „White Scotch Cakes“; úplné; ověř odlišnost od `skotsky-shortbread` (tady vejce + kypřidlo) |
+| 74 | vetrniky-s-kremem-hauptmann | Větrníky na sádle s vanilkovým krémem | hauptmann-1877 |  | 29 | sladke | sladke, bez-masa | „Cream Puffs“ + „Custard for Cream Puffs“ (29–30); úplné; Navy má `odpalovane-testo-vetrniky` – tady sádlo, amonium a vlastní krém |
+| 75 | cukrarske-piskoty | Cukrářské piškoty slepované marmeládou (lady fingers) | hauptmann-1877 |  | 27 | sladke | sladke, bez-masa | „Lady Fingers“ (27–28); úplné; stříkání sáčkem |
+| 76 | piskotova-rolada-s-dzemem | Piškotová roláda s marmeládou | hauptmann-1877 |  | 36 | sladke | sladke, bez-masa, rychle | „Jelly Roll“; úplné (½ lb cukru, 14 vajec, ½ lb mouky) |
+| 77 | piskotove-kapky | Piškotové kapky (sponge biscuit) | hauptmann-1877 |  | 29 | sladke | sladke, bez-masa | „Sponge Biscuit“; úplné |
+| 78 | maslove-kapky | Máslové kapky (drop cakes) | hauptmann-1877 |  | 26 | sladke | sladke, levne | „Drop Cakes“ (26–27); počet vajec v seznamu chybí (v postupu jsou) → odhad ~6; varianta se sádlem a rybízem |
+| 79 | kolac-ze-zbytku-peciva | Perníkový koláč ze zbytků pečiva | hauptmann-1877 |  | 39 | sladke | sladke, levne, pripravit-predem | „Scrap Cake“; 3 lb drobků z neprodaných koláčů, ½ gal melasy; mouka „sufficient“ → odhad; polevu z vody a cukru lze vynechat |
+| 80 | zazvorova-esicka | Zázvorová esíčka | hauptmann-1877 |  | 38 | sladke | sladke, levne, pripravit-predem | „Ginger S's“; úplné (~5 lb mouky) |
+
+### Dávka Z9
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 81 | bily-dort-z-bilku | Bílý dort z bílků (lady cake) | hauptmann-1877 |  | 22 | sladke | sladke, bez-masa | „Lady Cake“; úplné (16 bílků); oil of bitter almonds → mandlové aroma |
+| 82 | parizsky-dort | Pařížský škrobový dort | hauptmann-1877 |  | 25 | sladke | sladke, bez-masa | „Paris Cake“ (25–26); úplné, kukuřičný škrob místo mouky; poleva vynechat/volitelná |
+| 83 | maslove-babovicky | Máslové bábovičky (cup cake) | hauptmann-1877 |  | 31 | sladke | sladke, bez-masa | „Cup Cake“; úplné; soda „váha měděného centu“ → převod (~3 g) |
+| 84 | brusinkovy-kolac | Brusinkový koláč s mřížkou | hauptmann-1877 |  | 48 | sladke | sladke, bez-masa | „Cranberry Pie“ (48–49); množství chybí → odhad; těsto `testo-na-pie` |
+| 85 | citronovy-kolac-se-snehem | Citronový krémový koláč se sněhem | hauptmann-1877 |  | 49 | sladke | sladke, bez-masa | „Lemon Pies, No. 1“ (49–50); úplné, ale na mnoho koláčů (6 citronů, 3 qt vody) → dělit ~6× |
+| 86 | kokosovy-kolac | Kokosový krémový koláč | hauptmann-1877 |  | 50 | sladke | sladke, bez-masa | „Cocoanut Custard Pie“; jen „2 vejce na koláč“ → odhad; čerstvý kokos → strouhaný |
+| 87 | librovy-kolac-s-citronadou | Librový koláč s citronádou a rybízem | hauptmann-1877 |  | 39 | sladke | sladke, pripravit-predem | „Citron Cake“; navazuje na Pound Cake (#2) + ½ lb citronády, 1 lb rybízu |
+| 88 | cukrove-susenky | Jednoduché cukrové sušenky | hauptmann-1877 |  | 39 | sladke | sladke, levne, pripravit-predem | „Sugar Cakes“ (39–40); mouka chybí → odhad (~1½ lb podle White Scotch) |
+| 89 | melasove-babovicky | Melasové bábovičky | hauptmann-1877 |  | 33 | sladke | sladke, levne | „Molasses Cup Cake“; mouka „na měkké těsto“ → odhad |
+| 90 | sladke-zemlicky | Sladké žemličky na plechu (light cakes) | hauptmann-1877 |  | 15 | snidane-a-pecivo | sladke, bez-masa | „Rusks or Light Cakes“ (15–16); bun dough tužší, menší, těsně na plechu → navazuje na Buns |
+
+### Dávka Z10
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 91 | vinne-babovicky | Máslové bábovičky s vínem (wine cake) | hauptmann-1877 |  | 33 | sladke | sladke, bez-masa | „Wine Cake“; mouka „na měkké těsto“ → odhad; víno jen místo části vody (volitelné) |
+| 92 | kosicky-z-listoveho-testa | Košíčky z listového těsta s brusinkami | hauptmann-1877 |  | 47 | sladke | sladke, bez-masa | „Tarts“; navazuje na Puff Paste (str. 46, úplné; Gentile má `listove-testo`) – zde těsto i náplň v jednom |
+| 93 | mandlove-pusinky | Mandlové pusinky (almond puffs) | hauptmann-1877 |  | 43 | sladke | sladke, bez-masa, pripravit-predem | „Almond Puffs“; úplné (7 bílků, 1 lb cukru, 2 oz mandlí) |
+| 94 | vrstveny-dort-s-dzemem | Vrstvený dort s marmeládou (jelly cake) | hauptmann-1877 |  | 26 | sladke | sladke, bez-masa | „Jelly Cake“; v seznamu chybí vejce a mléko („mix as mountain cake“) → doplnit podle Mountain Cake; ammonium |
+| 95 | melasove-skoricove-susenky | Melasové skořicové sušenky | hauptmann-1877 |  | 31 | sladke | sladke, levne, tabor | „Brown Scotch Cake, No. 2“; melasa „na tuhé těsto“ → odhad; bez vajec, nejlevnější |
+| 96 | hot-cross-buns | Velikonoční mazance s křížem (hot cross buns) | wells-1890 | | 28 | sladke | sladke, pripravit-predem | č. 20 Hot Cross Buns; mouka „sufficient“ – odhadnout z 1 qt tekutiny (~2 kg na celou dávku); postup odkazuje na Tea-Cakes (s. 24); koření/rozinky/kůra „to taste“ |
+| 97 | eccles-cake | Ecclesský koláč s rozinkami z listového těsta | wells-1890 | | 58 | sladke | sladke | č. 133 Nelson Cake or Eccles Cake; navazuje na Puff Paste č. 126 (s. 57; 1 : 1 máslo : mouka) – zahrnout jako součást nebo použít `listove-testo` |
+| 98 | dundee-cake | Dundee koláč s kandovanou kůrou | wells-1890 | | 65 | sladke | sladke, pripravit-predem | č. 157 Pond Cake or Dundee Cake; postup „creamed“ dle č. 136 (s. 60); „comfits“ na povrch → mandle/cukrová zrnka v `original`; 13 vajec na 1¾ lb mouky |
+| 99 | chelsea-buns | Chelsea šneky s máslem a cukrem | wells-1890 | | 28 | sladke | sladke | č. 21 Chelsea Buns; ½ lb másla + ½ lb cukru na 4 lb těsta; těsto = bun dough (č. 19, s. 27) nebo chlebové |
+| 100 | sally-lunn | Sally Lunn – sladké čajové bochánky | wells-1890 | | 24 | snidane-a-pecivo | sladke, pripravit-predem | č. 13 Sally Luns, Yorkshire, or Tea Cakes; mouka „make into dough“ – odhad z 1 qt mléka; 4 vejce volitelně |
+
+### Dávka Z11
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 101 | digestivni-susenky | Digestivní sušenky z celozrnné mouky | wells-1890 | | 45 | sladke | sladke, tabor, pripravit-predem | č. 82 Digestive Biscuits; úplná množství i postup; varianty č. 70–71 (s. 41–42) |
+| 102 | shrewsburske-susenky | Shrewsburské máslové sušenky | wells-1890 | | 46 | sladke | sladke, rychle | č. 88 Shrewsbury Biscuits (Another Way); úplný postup; voil volitelně |
+| 103 | bath-oliver | Bath Oliver – kynuté máslové krekry | wells-1890 | | 43 | snidane-a-pecivo | tabor, pripravit-predem | č. 78 Bath Oliver Biscuits; postup zmiňuje cukr, ale v surovinách chybí (odhad malé množství); „steam press“ → přikrýt vlhkou utěrkou |
+| 104 | kapitanske-suchary | Kapitánské suchary (lodní sušenky) | wells-1890 | | 39 | snidane-a-pecivo | levne, tabor, pripravit-predem | č. 59 Captains’ Biscuits; jen mouka, máslo, voda/mléko; text o Ship Biscuits (č. 58, s. 38–39) do `modernNote` |
+| 105 | sodove-krekry | Slané sodové krekry | wells-1890 | | 44 | snidane-a-pecivo | levne, tabor, pripravit-predem | č. 81 Soda Biscuits; acid + soda → kypřicí prášek; sádlo |
+| 106 | celozrnny-chleb-wells | Domácí celozrnný chléb | wells-1890 | | 20 | snidane-a-pecivo | levne, bez-masa, pripravit-predem | č. 5 Home-made Whole Meal Bread; pokračuje na s. 21; 1 stone mouky, voda „sufficient“ – odhad |
+| 107 | nekynuty-celozrnny-chleb | Nekynutý celozrnný chléb na podmáslí | wells-1890 | | 21 | snidane-a-pecivo | levne, rychle, bez-masa | č. 7 Unfermented, or Diet Bread; pokračuje na s. 22; tartar + soda → kypřicí prášek; podmáslí „as much as will take“ |
+| 108 | sodove-scones | Sodové scones na podmáslí | wells-1890 | | 68 | snidane-a-pecivo | levne, rychle, tabor | č. 170 Soda Cakes or Scones; analýza má hotový přepočet na 500 g mouky |
+| 109 | sucharky-rusks | Sladké sucharky (rusks) | wells-1890 | | 51 | snidane-a-pecivo | tabor, pripravit-predem | č. 106 Rusks; „1 quart of sponge“ = kvásek z chlebového těsta (č. 1) – rozepsat; dvojí pečení, pokračuje na s. 52 |
+| 110 | kminovy-kolac | Kmínový koláč (seed cake) | wells-1890 | | 61 | sladke | sladke, pripravit-predem | č. 143 Seed Cakes; pokračuje na s. 62; postup „creamed“ z č. 136 (s. 60); brandy/mandle volitelně |
+
+### Dávka Z12
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 111 | madeirsky-kolac | Madeirský koláč (skotská směs) | wells-1890 | | 64 | sladke | sladke | č. 156 Madeira Cake (Scotch Mixture); pokračuje na s. 65; 20 vajec na 2¼ lb mouky; plátky citronu/kůry dle č. 152 |
+| 112 | koreneny-pernik-s-melasou | Kořeněný perník s melasou | wells-1890 | | 32 | sladke | levne, sladke, pripravit-predem | č. 37 Spiced Gingerbread; pokračuje na s. 33; bez kypřidla (doplnit sodu v `modernNote`?) |
+| 113 | grantham-bily-pernik | Granthamský bílý perník | wells-1890 | | 34 | sladke | sladke, pripravit-predem | č. 43 Grantham or White Gingerbread; jen suroviny bez postupu (doplnit dle ostatních perníků); volatile salt → kypřicí prášek |
+| 114 | brandy-snaps | Křupavé zázvorové trubičky (brandy snaps) | wells-1890 | | 69 | sladke | levne, sladke | č. 175 Brandy Snaps; bez brandy, jen sirup, sádlo, cukr; zázvor chybí (je v č. 48, s. 35) |
+| 115 | levny-kolac-s-rozinkami | Levný hrozinkový koláč „Mystery“ | wells-1890 | | 66 | sladke | levne, sladke, pripravit-predem | č. 163 Mystery, or Cheap Plum Cake at 3d. per lb.; sádlo, bez vajec; „dough with milk“ |
+| 116 | albertuv-kolac-z-plechu | Albertův koláč z plechu s rozinkami | wells-1890 | | 69 | sladke | levne, sladke, pripravit-predem | č. 174 Large Square Penny Albert Cake; plech, podmáslí, sádlo, bez vajec |
+| 117 | abernethy-susenky | Abernethyho kmínové sušenky | wells-1890 | | 40 | sladke | tabor, pripravit-predem | č. 62 Abernethys as made in London; postup jen „as before“ (č. 61, s. 39–40); orange-flower water → citronová kůra |
+| 118 | cajove-kolacky | Čajové koláčky s rozinkami (tea-cakes) | wells-1890 | | 24 | snidane-a-pecivo | sladke, pripravit-predem | č. 11 Tea-Cakes; poměr mouky zjevně neúplný (½ gal vody na 1½ lb mouky = jen kvásek) – mouku odhadnout do těsta; viz analýza |
+| 119 | anglicky-shortbread | Anglický shortbread s vejci | wells-1890 | | 37 | sladke | sladke, rychle | č. 55 English Shortbread; postup „as for Scotch“ (`skotsky-shortbread`); comfits vynechat |
+| 120 | muffiny-wells | Muffiny pečené na plotně | wells-1890 | | 25 | snidane-a-pecivo | levne, tabor, bez-masa | č. 14 Muffins; pokračuje na s. 26; podobné `anglicke-muffiny` (AFRS), ale dobová tekutá verze tvarovaná rukou – pro knihu typická |
+
+### Dávka Z13
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 121 | zitny-chleb-wells | Žitný chléb s pšeničným kváskem | wells-1890 | | 22 | snidane-a-pecivo | levne, bez-masa, pripravit-predem | č. 8 Rye Bread; množství mouky chybí („muffin batter“ konzistence, „dough up with rye meal“) – odhad poměru, `verified: false` |
+| 122 | safranove-housky | Šafránové housky s kmínem | wells-1890 | | 29 | snidane-a-pecivo | sladke | č. 24 Saffron Buns; těsto = Tea-Cakes č. 11 (s. 24) + 1 oz kmínu; varianta č. 25 Cinnamon Buns (s. 30) do `modernNote` |
+| 123 | londynske-housky | Londýnské housky s kandovanou kůrou | wells-1890 | | 30 | snidane-a-pecivo | sladke | č. 29 London Buns; pokračuje na s. 31; mouka „sufficient“ – odhad z 1 pt mléka |
+| 124 | jubilejni-housky | Jubilejní máslové housky s rozinkami | wells-1890 | | 30 | sladke | sladke, rychle | č. 26 Jubilee Buns; „½ oz. of voil“ (text pak mluví o soli) → kypřicí prášek |
+| 125 | piskoty-savoy | Piškoty (savoy biscuits) | wells-1890 | | 54 | sladke | sladke, pripravit-predem | č. 114 Savoy Biscuits; postup z č. 113 (s. 54) a společné pokyny na s. 55; 8 vajec, 1 lb cukru, 1 lb mouky |
+| 126 | scarboroughske-piskoty | Scarboroughské skořicové piškoty | wells-1890 | | 56 | sladke | sladke | č. 121 Scarborough Water Cakes; autorova rodná Scarborough; postup jako Savoy (č. 113–118) |
+| 127 | kralovniny-kapky | Máslové kapky s rozinkami (Queen’s drops) | wells-1890 | | 48 | sladke | sladke, rychle | č. 95 Queen’s Drops; domácí dávka, úplný postup (sáček → zdobicí sáček) |
+| 128 | lafayette-dortiky | Lafayettovy dortíky s marmeládou | wells-1890 | | 66 | sladke | sladke | č. 165 Lafayette Cakes; 3 tenké placky prokládané džemem; volatile salt → kypřicí prášek |
+| 129 | citronovy-kolac-wells | Citronové bábovičky | wells-1890 | | 67 | sladke | sladke | č. 167 Lemon Cake; ½ gill brandy (71 ml na 1 lb vajec) – vedlejší, lze nahradit; vejce na váhu |
+| 130 | librovy-kolac-s-rozinkami | Librový koláč s rozinkami a kůrou | wells-1890 | | 61 | sladke | sladke, pripravit-predem | č. 142 Pound Cakes; postup z č. 136 (s. 60) |
+
+### Dávka Z14
+
+| # | id | Český název | kniha | kód | strana | kapitola | tagy | pozn. |
+|---|---|---|---|---|---|---|---|---|
+| 131 | janovsky-kolac | Janovský koláč s mandlemi | wells-1890 | | 64 | sladke | sladke, pripravit-predem | č. 154 Genoa Cake; vejce na váhu (1 lb); 1½ lb pomerančové kůry – možná snížit |
+| 132 | korenene-orisky | Kořeněné perníkové oříšky (spice nuts) | wells-1890 | | 34 | sladke | levne, sladke, pripravit-predem | č. 45 Spice Nuts (Another Way); obyčejná melasa + soda/kyselina (ne „prepared treacle“ s kamencem); „mix the day before“; tvar dle č. 50 Hunting Nuts |
+| 133 | parkinove-susenky | Ovesné perníkové sušenky (parkins) | wells-1890 | | 36 | sladke | levne, sladke, tabor | č. 51 Parkings; jiný než hotový `parkin` (č. 53 koláč z plechu) – kulaté sušenky, sirup „sufficient“ |
+| 134 | skotske-kolacky | Skotské křehké koláčky | wells-1890 | | 69 | sladke | levne, sladke | č. 173 Halfpenny Scotch Cakes; sádlo, voil → kypřicí prášek |
+| 135 | balmoralske-kolace | Balmoralské kmínové koláče | wells-1890 | | 29 | sladke | sladke | č. 22 Balmoral Cakes; soda + kyselina vinná → kypřicí prášek |
+| 136 | nemecke-housky | Německé citronové housky (bez droždí) | wells-1890 | | 30 | sladke | sladke, rychle | č. 27 German Buns; tartar + soda → kypřicí prášek; mléko „with milk“ – odhad |
+| 137 | polky-piskotove-kolacky | Polky – piškotové kapky s rozinkami | wells-1890 | | 70 | sladke | levne, sladke, rychle | č. 179 Polkas or Halfpenny Sponges; „S eggs“ = OCR chyba (pravděpodobně 8) – ověřit v HTML; voil → kypřicí prášek |
+

@@ -1,0 +1,39 @@
+{
+  "id": "gulas-rettigova",
+  "title": "Hovězí guláš s majoránkou a paprikou",
+  "titleOriginal": "Gulaš (Gulaschfleisch)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-predni", "amount": 650, "unit": "g", "note": "na malé kostky; zdroj: svíčková nebo spodní šál" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 200, "unit": "g", "note": "zdroj 2 cibule na 6 osob; nakrájené drobně" },
+    { "ingredientId": "petrzel-koren", "amount": 40, "unit": "g", "note": "1 kořínek, nakrájený drobně" },
+    { "ingredientId": "hovezi-vyvar", "amount": 150, "unit": "ml", "note": "na podlévání; zdroj dovoluje i vodu" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle chuti" },
+    { "ingredientId": "majoranka", "amount": 1, "unit": "g" },
+    { "ingredientId": "sladka-paprika", "amount": 3, "unit": "g", "note": "„turecký pepř (Paprika)“; zdroj dovoluje i obyčejný pepř" },
+    { "ingredientId": "brambory", "amount": 600, "unit": "g", "note": "oloupané, na věnec" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření brambor, slije se" }
+  ],
+  "steps": [
+    { "text": "Maso nakrájej na malé kostky. Cibuli a petržel nakrájej drobně.", "minutes": 10 },
+    { "text": "Maso dej do rendlíku s máslem, cibulí a petrželí a spěšně duš.", "minutes": 15 },
+    { "text": "Když se vše začne vysmahovat, podlej trochou vývaru. Osol, dej majoránku a papriku a duš do měkka. Podle potřeby podlévej.", "minutes": 60 },
+    { "text": "Mezitím oloupané brambory uvař ve vodě do měkka a scedi je.", "minutes": 25, "parallel": true },
+    { "text": "Guláš dej na mísu a okolo udělej věnec z brambor.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj je pro 6 osob a 1½–2 libry masa (libra = 560 g); vzali jsme 1¾ libry = 980 g a přepočetli na 4 porce lineárně (× 4/6). Máslo (3 loty na 2 libry masa, lot = 17,5 g) a cibule (2 kusy ≈ 300 g na 6 osob) jsou propočet/odhad; množství vývaru ('trochu'), koření ('trochu') i brambor (zdroj jen 'věnec ze zemčat') jsou odhady, proto verified: false. Doba dušení ve zdroji není, 90 minut je odhad pro hovězí kostky. Jako hlavní jídlo vychází asi 160 g masa na osobu. Rettigová píše, že guláš lze dělat i z telecího nebo skopového masa.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 50,
+    "titleOriginal": "Gulaš (Gulaschfleisch)"
+  },
+  "verified": false,
+  "quote": "Rozkrájej na malé kostky pro 6 osob nejméně půl druhé nebo dvě libry hovězího masa"
+}

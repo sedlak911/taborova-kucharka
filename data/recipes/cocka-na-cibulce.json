@@ -1,0 +1,30 @@
+{
+  "id": "cocka-na-cibulce",
+  "title": "Čočka na cibulce",
+  "titleOriginal": "Čočka",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "cocka", "amount": 300, "unit": "g", "note": "pěkná velká; odhad" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "měkká, na vaření čočky, slije se; odhad" },
+    { "ingredientId": "sul", "amount": 6, "unit": "g", "note": "odhad" },
+    { "ingredientId": "cibule", "amount": 120, "unit": "g", "note": "1 větší, oloupaná; odhad" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "note": "na cibulku; odhad" }
+  ],
+  "steps": [
+    { "text": "Čočku přeber a propři.", "minutes": 5 },
+    { "text": "Čočku dej do hrnce, zalij vodou, osol a vař do měkka.", "minutes": 40 },
+    { "text": "Mezitím cibuli nakrájej nadrobno a na másle ji osmahni do zlatova.", "minutes": 10, "parallel": true },
+    { "text": "Čočku scedi a vysyp na misku.", "minutes": 2 },
+    { "text": "Čočku polij máslem s cibulkou." }
+  ],
+  "modernNote": "Rettigová nedává množství ani počet porcí; odhad je 300 g suché čočky, 120 g cibule a 50 g másla na 4 porce jako samostatné jídlo nebo větší příloha, proto verified: false. Doby vaření zdroj neuvádí, jsou odhad z praxe (hnědá čočka ~30–40 minut; nenamáčí se). Čočka se váží suchá; po uvaření (asi 2,3× víc vody) vychází porce zhruba 220 g, proto check:recipe hlásí nízkou bilanci 119 g na porci. Zdroj čočku podává se smaženými telecími játry (č. 20) nebo smaženým vemenem (č. 21); zde se vynechávají.",
+  "source": { "book": "rettigova-1868", "page": 101, "titleOriginal": "Čočka" },
+  "verified": false,
+  "quote": "polej ji po vrchu tím máslem s cibulkou"
+}

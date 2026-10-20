@@ -1,0 +1,50 @@
+{
+  "id": "plechovy-chleb",
+  "title": "Plechový polní chléb",
+  "titleOriginal": "Field Garrison (Sheet) Bread (Temperate and Frigid Climates)",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 255,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "100 % mouky; základ receptury" },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 290,
+      "unit": "ml",
+      "note": "vlažné; 275 ml vody (55 %, u mouky proměnlivé) + 10 g sušeného mléka rozmíchaného ve vodě",
+      "original": { "ingredientId": "mleko-susene", "amount": 10, "unit": "g" }
+    },
+    { "ingredientId": "drozdi-cerstve", "amount": 10, "unit": "g", "note": "lisované (compressed) 2 %; sušené by stačilo 5 g", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 13, "unit": "g", "note": "2,5 % (12,5 g), zaokrouhleno", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "3 %" },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "4 %; změkčené, ve zdroji ztužený tuk (shortening)",
+      "scaling": "linear",
+      "original": { "ingredientId": "ztuzeny-tuk", "amount": 20, "unit": "g" }
+    }
+  ],
+  "steps": [
+    { "text": "Sušené mléko rozmíchej ve vlažné vodě (asi 30 °C), rozmíchej v ní cukr a sůl a rozetři droždí.", "minutes": 5 },
+    { "text": "Do mísy nasyp mouku, přilij tekutinu a zapracuj. Přidej máslo a hněť do hladkého, pružného těsta.", "minutes": 10 },
+    { "text": "Těsto zakryj a nech kynout v teple asi 95 minut, pak ho vtlač, aby uniknul plyn, a nech kynout ještě asi 40 minut.", "minutes": 135 },
+    { "text": "Těsto rozděl na dva stejné kousky (asi 400 g) a každý zaokrouhli v hladkou kouli.", "minutes": 5 },
+    { "text": "Kousky přikryj čistou utěrkou a nech 15 minut odpočinout.", "minutes": 15 },
+    { "text": "Každý kousek vtlač do protáhlého tvaru, slož okraje do středu, pevně sroluj do válce a zapečeť šev. Oba bochníky vlož švem dolů těsně vedle sebe do vymazaného plechu nebo velké formy tak, aby se nepřekrývaly.", "minutes": 5 },
+    { "text": "Bochníky lehce navlhči vodou, přikryj a nech v teple (asi 32 až 35 °C) dokynout 40 minut. V polovině je znovu lehce navlhči.", "minutes": 40 },
+    { "text": "Předehřej troubu na 230 °C." },
+    { "text": "Peč 10 minut na 230 °C, pak sniž na 205 °C a peč dalších asi 25 minut, dokud není kůrka zlatohnědá.", "minutes": 35 },
+    { "text": "Chléb vyndej z plechu a nech na mřížce chladnout 2 a půl až 6 hodin. Bochníky neodděluj, dokud je nebudeš jíst." }
+  ],
+  "modernNote": "Zdroj: TM 10-410 The Army Baker (1945), odst. 85, tištěná strana 39 (PDF 47), dávka v procentech mouky: mouka 100 %, voda 54–56 % (použito 55 %, v knize „variable“, podle mouky doladit), droždí lisované 2 % (nebo aktivní sušené 1 %), sůl 2,5 %, cukr 3 %, tuk 4 %, sušené odstředěné mléko 2 %. Přepočet přímo na 500 g mouky (procento × 5 g), bez škálování přes výtěžek; zdroj neuvádí porce, `originalYield` vynechán. Plechový chléb je v kasárnách pečen jako plát z pěti 2librových bochníků (36 oz těsta každý), které se v plechu dotýkají a nemají boční kůrku; proto se dělí na dva bochníky po 400 g, které se pečou těsně u sebe a po upečení se neoddělují („plát se nesmí rozlomit, jinak chléb déle nevydrží“). Sušené mléko se rozmíchá s vodou do jednoho řádku mléka (původní sušené mléko v `original`). Ztužený tuk nahrazen máslem. Doby ze zdroje: kynutí 2 až 2¼ hodiny s jedním vtlačením při poměru 70/30 (95 + 40 min), 15 minut mezikynutí (lze vynechat), dokynutí v plechu asi 40 minut při 90 až 95 °F (32 až 35 °C), chlazení 2½ až 6 hodin. Pečení: kniha 450 °F (230 °C) při vložení, pak 400 °F (205 °C), 1 hodina až 1 h 15 min pro plát z pěti 2librových bochníků (kusy po 36 oz ≈ 1 kg těsta, plát asi 5 kg). Dva bochníky po 400 g mají méně než polovinu hmotnosti jednoho knižního kusu a malý plát se propeče rychleji; kniha pro 20oz kasárenský bochník (567 g těsta) uvádí 36 minut, proto asi 35 minut (odhad). Sůl 2,5 % mouky podle zdroje: 13 g na chléb, asi 3,25 g na porci, což je nad doporučeným rozsahem; hodnotu jsem ponechal podle knihy, pro domácí chuť stačí 9 až 10 g. Sůl, cukr, mléko a tuk uvádí kniha pro plechový chléb navíc proti polnímu chlebu (odst. 88); plechový chléb je jemnější a vydrží čerstvý několik dní. Tábor nepřiřazen: vyžaduje troubu."
+  ,
+  "source": { "book": "army-baker-1945", "page": 47, "titleOriginal": "Field Garrison (Sheet) Bread (Temperate and Frigid Climates)" },
+  "verified": true,
+  "quote": "Sheet bread, however, will keep well for several days."
+}

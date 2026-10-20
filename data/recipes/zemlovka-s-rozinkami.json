@@ -1,0 +1,40 @@
+{
+  "id": "zemlovka-s-rozinkami",
+  "title": "Žemlovka s rozinkami",
+  "titleOriginal": "Žemlovka a hrozinkami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "zemle-bila", "amount": 225, "unit": "g", "note": "asi 5 housek, nakrájených na tenké plátky; odhad", "group": "Žemlovka" },
+    { "ingredientId": "rozinky", "amount": 80, "unit": "g", "note": "malé, bez jadérek; odhad", "group": "Žemlovka" },
+    { "ingredientId": "pomeranc", "amount": 0.5, "unit": "ks", "note": "jen oloupaná žlutá kůra, nakrájená na tenké proužky", "group": "Žemlovka" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "10 g na vymazání formy, zbytek na kousky navrch; odhad", "group": "Žemlovka" },
+    { "ingredientId": "strouhanka", "amount": 15, "unit": "g", "note": "místo strouhané žemličkové kůrky na vysypání formy", "group": "Žemlovka" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "scaling": "linear", "note": "zdroj „asi dvě“", "group": "Zálivka" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 150, "unit": "ml", "note": "sladká smetana; odhad", "group": "Zálivka" },
+    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "scaling": "linear", "note": "do zálivky („trochu cukru“); odhad", "group": "Zálivka" },
+    { "ingredientId": "sul", "amount": 0.5, "unit": "g", "note": "krapýtek", "group": "Zálivka" },
+    { "ingredientId": "citronova-kura", "amount": 2, "unit": "g", "note": "trochu", "group": "Zálivka" },
+    { "ingredientId": "cukr-krystal", "amount": 10, "unit": "g", "scaling": "linear", "note": "na posypání hotové žemlovky; odhad", "group": "Na posyp" }
+  ],
+  "steps": [
+    { "text": "Troubu předehřej na 180 °C." },
+    { "text": "Formu nebo pekáček vymaž máslem a vysypej strouhankou.", "minutes": 5 },
+    { "text": "Housky nakrájej na tenké plátky a pomerančovou kůru na proužky.", "minutes": 8 },
+    { "text": "Dno formy pokryj vrstvou housek, posyp rozinkami a pomerančovou kůrou. Takto střídej vrstvy, až dojdou všechny suroviny. Navrch dej housky.", "minutes": 10 },
+    { "text": "Navrch rozlož kousky másla.", "minutes": 2 },
+    { "text": "Vejce rozmíchej se smetanou, cukrem, solí a citronovou kůrou.", "minutes": 3 },
+    { "text": "Zálivkou rovnoměrně polej housky.", "minutes": 2 },
+    { "text": "Peč v troubě, až se zálivka vsákne a povrch krásně zrůžoví, asi 40 minut.", "minutes": 40 },
+    { "text": "Hotovou žemlovku posyp cukrem." }
+  ],
+  "modernNote": "Rettigová neuvádí množství ani dobu pečení, vše je odhad pro 4 porce (kniha vychází z „asi dvou vajec“ a sladké smetany). Počet housek (5 ks, asi 225 g), rozinek, másla a cukru je domácí odhad; teplota 180 °C a doba pečení kolem 40 minut také. Původní strouhaná žemličková kůrka na formu je nahrazena strouhankou. Bez jablek, jde o odlišnou verzi než jablková žemlovka z Receptur. Sůl je jen „krapýtek“ ze zdroje (špetka), proto je pod obvyklým rozsahem na porci.",
+  "source": { "book": "rettigova-1868", "page": 184, "titleOriginal": "Žemlovka a hrozinkami" },
+  "verified": false,
+  "quote": "Rozkloktej v sladké smetaně asi dvě vejce"
+}
