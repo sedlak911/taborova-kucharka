@@ -1,0 +1,34 @@
+{
+  "id": "houbova-omacka",
+  "title": "Houbová omáčka",
+  "titleOriginal": "Houbová omáčka",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "houby-susene", "amount": 8, "unit": "g", "note": "opláchnuté" },
+    { "ingredientId": "zeleninovy-vyvar", "amount": 600, "unit": "ml", "note": "malá část na vaření hub, zbytek do omáčky; chladný", "original": { "ingredientId": "hovezi-vyvar", "amount": 600, "unit": "ml" } },
+    { "ingredientId": "maslo", "amount": 65, "unit": "g", "original": { "ingredientId": "margarin", "amount": 65, "unit": "g" } },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 60 g hrubé × 0,9" },
+    { "ingredientId": "kmin-cely", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g" },
+    { "ingredientId": "cely-pepr", "amount": 0.46, "unit": "g", "note": "částečně rozmačkaný" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "podle potřeby, přisol až na konci" }
+  ],
+  "steps": [
+    { "text": "Houby opláchni, zalij trochou vývaru a vař do měkka. Vývar z hub použij do omáčky.", "minutes": 20 },
+    { "text": "Mezitím v hrnci rozehřej máslo, osmahni oloupanou, jemně nakrájenou cibuli do růžova.", "minutes": 8, "parallel": true },
+    { "text": "Přidej kmín a mouku a připrav světlou zásmažku.", "minutes": 3, "parallel": true },
+    { "text": "Zásmažku zalij chladným vývarem, pečlivě rozšlehej a přiveď k varu. Přidej částečně rozmačkaný pepř a za občasného prošlehání vař zvolna alespoň půl hodiny.", "minutes": 35 },
+    { "text": "Provařenou omáčku podle potřeby přisol a procedi hustým cedníkem.", "minutes": 3 },
+    { "text": "Uvařené houby nakrájej na drobnější kousky, přidej do omáčky a znovu velmi krátce povař.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj používá masový Vývar B (receptura 10101); jako bezmasé jídlo je tu zeleninový vývar (hovězí v original); s hovězím vývarem je chuť výraznější. Margarín nahrazen máslem. Cibule: 150 g hrubé × 0,4 × 0,9 jedlé části. Houby 8 g sušených na 4 porce je podle knihy málo; klidně přidej víc. Porce ze zdroje je 150 g omáčky.",
+  "source": { "book": "receptury-1983", "page": 448, "code": "19002", "titleOriginal": "HOUBOVÁ OMÁČKA" },
+  "verified": true
+}

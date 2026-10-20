@@ -1,0 +1,41 @@
+{
+  "id": "zeleninove-rizoto",
+  "title": "Zeleninové rizoto",
+  "titleOriginal": "Zeleninové rizoto",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    { "ingredientId": "celer-bulvovy", "amount": 105, "unit": "g", "note": "z 120 g hrubé × 0,86" },
+    { "ingredientId": "mrkev", "amount": 140, "unit": "g", "note": "z 160 g hrubé × 0,89" },
+    { "ingredientId": "petrzel-koren", "amount": 100, "unit": "g", "note": "z 120 g hrubé × 0,85" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené; čtvrtina do zeleniny, zbytek na cibuli a rýži" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 60 g hrubé × 0,9" },
+    { "ingredientId": "sladka-paprika", "amount": 7, "unit": "g", "note": "mletá" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "ryze-bila", "amount": 320, "unit": "g", "note": "přebraná, propláchnutá, okapaná" },
+    { "ingredientId": "voda", "amount": 480, "unit": "ml", "note": "na zalití rýže; drž poměr 1,5 : 1 k rýži" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "hrasek-v-konzerve", "amount": 80, "unit": "g", "note": "sterilovaný, bez nálevu" },
+    { "ingredientId": "kecup", "amount": 100, "unit": "g" },
+    { "ingredientId": "eidam", "amount": 40, "unit": "g", "note": "tvrdý strouhaný (moravský bochník apod.)" }
+  ],
+  "steps": [
+    { "text": "Celer, mrkev a petržel očisti, opláchni a nakrájej na drobné kostičky.", "minutes": 10 },
+    { "text": "Zeleninu zalij trochou vody, mírně osol, přidej čtvrtinu sádla a duš do měkka.", "minutes": 20 },
+    { "text": "Mezitím na zbylém horkém sádle osmahni do růžova jemně nakrájenou cibuli.", "minutes": 8, "parallel": true },
+    { "text": "K cibuli přidej mletou papriku a pepř, potom za stálého míchání opraž pečlivě přebranou, propláchnutou a okapanou rýži.", "minutes": 5, "parallel": true },
+    { "text": "Opraženou rýži zalij vodou, přisol a bez míchání zvolna přiveď k varu.", "minutes": 10, "parallel": true },
+    { "text": "Rýži přikryj poklicí a duš v troubě nebo na mírném ohni do měkka.", "minutes": 25 },
+    { "text": "Do udušené rýže přidej dušenou zeleninu a prohřátý okapaný hrášek a lehce promíchej.", "minutes": 3 },
+    { "text": "Kečup prohřej, porce rizota přelij horkým kečupem a posyp strouhaným sýrem.", "minutes": 3 }
+  ],
+  "modernNote": "Kniha dává 10 porcí po 300 g (3 000 g hotového rizota); přepočteno na 4 porce, tj. 1 200 g. Zelenina: hrubá hmotnost × 0,4 × jedlý podíl katalogu. Dobu dušení zeleniny a rýže kniha neuvádí (odhad 20 a 25 minut); rýže se dusí v troubě, doma stačí hrnec s poklicí na mírném ohni. Sterilovaný hrášek = hrášek z konzervy bez nálevu, moravský bochník nahrazen eidamem. Sůl kniha dává do zeleniny i rýže bez rozdělení, proto je celá v jídle (3,5 g na porci je nad dnešním doporučením, začni polovinou a dosol podle chuti; sádlo lze nahradit olejem). Jako hlavní jídlo je porce 300 g spíše lehčí, k rizotu se hodí kousek masa.",
+  "source": { "book": "receptury-1983", "page": 460, "code": "19113", "titleOriginal": "ZELENINOVÉ RIZOTO" },
+  "verified": true
+}

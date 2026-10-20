@@ -1,0 +1,38 @@
+{
+  "id": "bostonske-pecene-fazole",
+  "title": "Bostonské pečené fazole",
+  "titleOriginal": "Boston Baked Beans",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 245,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["horcice"],
+  "ingredients": [
+    { "ingredientId": "fazole-cervene", "amount": 160, "unit": "g", "note": "suché, namočit na 1 h; zdroj 8-7/8 lb" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření fazolí; slije se (domácí hodnota 1 l na 160 g fazolí)", "scaling": "vessel" },
+    { "ingredientId": "voda", "amount": 150, "unit": "ml", "note": "z vody, v níž se fazole vařily (zdroj: 1 gal celkem v omáčce)" },
+    { "ingredientId": "spek", "amount": 18, "unit": "g", "note": "syrová slanina, nasekaná nadrobno; zdroj 1 lb" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "horcice-susena", "amount": 5, "unit": "g", "note": "sušená hořčice" },
+    { "ingredientId": "hnedy-cukr", "amount": 12, "unit": "g", "note": "hnědý cukr, lehce upěchovaný" },
+    { "ingredientId": "ocet", "amount": 3, "unit": "g", "note": "kvasný ocet" },
+    { "ingredientId": "melasa", "amount": 25, "unit": "g" },
+    { "ingredientId": "repkovy-olej", "amount": 1, "unit": "lzicka", "note": "na vymazání pekáče (místo cooking spray)", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Fazole přeber, opláchni a namoč na 1 hodinu do vody.", "minutes": 60 },
+    { "text": "Fazole zalij vodou tak, aby byly ponořené, přiveď k varu a vař 1,5 hodiny do měkka, ale ne rozvařené. Slij a odlož vodu z vaření.", "minutes": 90 },
+    { "text": "Mezitím na suché pánvi opékej nakrájenou slaninu dokřupava, odlij tuk a nasekej ji nadrobno.", "minutes": 15, "parallel": true },
+    { "text": "Odloženou vodu z vaření (případně doplněnou vodou) smíchej se solí, hořčicí, hnědým cukrem, octem a melasou, přidej slaninu a vmíchej do fazolí.", "minutes": 3 },
+    { "text": "Pekáč vymaž lžičkou oleje, nalij fazole, přikryj a peč v troubě na 165 °C 1 hodinu až 1 hodinu 15 minut, dokud omáčka není těsně pod povrchem fazolí.", "minutes": 75 },
+    { "text": "Odkryj, promíchej a peč dalších 15 minut, dokud se omáčka nezahustí." , "minutes": 15 },
+    { "text": "Podávej teplé." }
+  ],
+  "modernNote": "Porce 1/2 cupu z karty (4 porce = 2 cupy, asi 120 g každá). Kniha dává 100 porcí z 8⅞ lb suchých fazolí, pečených v 5 pánvích po 20 lb; dávka zmenšena na 4 porce (160 g suchých fazolí). Fazole se vaří zvlášť a scedí – voda z vaření se slévá (domácí 1 l), do omáčky jde 150 ml (zdroj: 1 gal celkem; zbytek 46 lb vody ze zdroje je vodou na vaření a namáčení). Pekáč se nemaže cooking sprayem, ale lžičkou oleje. Melasa, hnědý cukr a slanina jsou klasický bostonský základ; hořčici lze nahradit lžící hotové hořčice. Kniha uvádí 179 kcal na porci.",
+  "source": { "book": "afrs-2003", "page": 1478, "code": "Q 003 00", "titleOriginal": "BOSTON BAKED BEANS" },
+  "verified": true,
+  "quote": "Pick over beans, removing discolored beans and foreign matter."
+}

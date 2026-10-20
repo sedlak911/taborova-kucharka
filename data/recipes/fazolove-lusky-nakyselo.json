@@ -1,0 +1,41 @@
+{
+  "id": "fazolove-lusky-nakyselo",
+  "title": "Fazolové lusky na kyselo",
+  "titleOriginal": "FAZOLOVÉ LUSKY NA KYSELO",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "zelene-fazolky", "amount": 670, "unit": "g", "note": "očištěné, opláchnuté; z 1900 g hrubých × 0,4 × 0,88 (katalog)" },
+    { "ingredientId": "voda", "amount": 120, "unit": "ml", "note": "vařící; zůstává v jídle" },
+    { "ingredientId": "maslo", "amount": 65, "unit": "g", "note": "polovina k dušení, polovina na zásmažku", "original": { "ingredientId": "margarin", "amount": 65, "unit": "g" } },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "prosátá, na světlou zásmažku" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml", "note": "na rozředění zásmažky" },
+    { "ingredientId": "zakysana-smetana", "amount": 40, "unit": "g", "note": "kysaná smetana 12 %" },
+    { "ingredientId": "ocet", "amount": 20, "unit": "ml", "note": "podle potřeby, přikyselit postupně" },
+    { "ingredientId": "cukr-krystal", "amount": 16, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "kopr-cerstvy", "amount": 5, "unit": "g", "note": "opláchnutý, jemně nakrájený; z 20 g hrubých × 0,4 × 0,59 (katalog)" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "mírně do dušení, zbytek na dosolení" }
+  ],
+  "steps": [
+    { "text": "Fazolové lusky očisti, opláchni a nakrájej na kratší kousky (2 až 3 cm).", "minutes": 10 },
+    { "text": "Lusky zalij vařící vodou, mírně osol, přidej polovinu tuku a duš do poloměkka.", "minutes": 20 },
+    { "text": "Mezitím z druhé poloviny tuku a prosáté mouky připrav světlou zásmažku a rozřeď ji mlékem.", "minutes": 5, "parallel": true },
+    { "text": "Lusky zahusti zásmažkou a za občasného promíchání dodus téměř do měkka.", "minutes": 15 },
+    { "text": "Kyselou smetanu pečlivě rozmíchej a vmíchej do pokrmu. Podle potřeby přikysel převařeným octem, přislad a přisol.", "minutes": 5 },
+    { "text": "Přidej opláchnutý, jemně nakrájený kopr a znovu krátce podus.", "minutes": 5 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (2 000 g hotového pokrmu, porce 200 g) na 4 porce, faktor 0,4. Fazolové lusky: zdroj 1 900 g hrubých, odpad 380 g, čistých 1 520 g; řádek je 670 g = 1 900 × 0,4 × 0,88 (jedlá část z katalogu), podle čistého sloupce zdroje by to bylo 610 g. Kopr: 20 g hrubých × 0,4 × 0,59 (katalog), podle zdroje 6 g čistého. Margarín ze zdroje nahrazen máslem (stejné množství 65 g, margarín v original). Voda (300 g na 10 porcí) zůstává v jídle, protože se lusky dusí. Doba dušení není ve zdroji uvedena (odhad podle druhu zeleniny). Sůl je celá v jídle (zdroj říká jen mírně osolit a přisolit); 14 g je hodnota ze zdroje (3,5 g na porci), dnes stačí zhruba polovina, dosoluj podle chuti. Ocet a cukr přidávej postupně podle chuti, pokrm má být mírně sladkokyselý. Podávej s vařenými brambory (vhodná příloha podle zdroje); jako samostatné jídlo počítej porci 300 g.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 455,
+    "code": "19104",
+    "titleOriginal": "FAZOLOVÉ LUSKY NA KYSELO"
+  },
+  "verified": true
+}

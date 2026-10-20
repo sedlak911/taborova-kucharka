@@ -1,0 +1,42 @@
+{
+  "id": "kapustove-karbanatky",
+  "title": "Kapustové karbanátky",
+  "titleOriginal": "Kapustové karbanátky",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "kapusta", "amount": 510, "unit": "g", "note": "z 1 600 g hrubé × 0,4 × 0,8; očištěná, rozkrojená na čtvrtky", "group": "Směs" },
+    { "ingredientId": "uzene-maso", "amount": 80, "unit": "g", "note": "uzený vepřový bůček s kostí (zdroj 200 g hrubé, čistá 110 g)", "group": "Směs" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "note": "zdroj 3 ks", "group": "Směs" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "prosátá", "group": "Směs" },
+    { "ingredientId": "strouhanka", "amount": 120, "unit": "g", "note": "strouhaná houska", "group": "Směs" },
+    { "ingredientId": "cesnek", "amount": 10, "unit": "g", "note": "z 30 g hrubé × 0,4 × 0,87; utřený se solí", "group": "Směs" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "do vody na spaření i do směsi; podle chuti", "group": "Směs" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g", "note": "zdroj: pepř celý, čerstvě mletý", "group": "Směs" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "prosátá", "group": "Obalení" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks; rozšlehané s mlékem", "group": "Obalení" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml", "group": "Obalení" },
+    { "ingredientId": "strouhanka", "amount": 100, "unit": "g", "note": "strouhaná houska, prosátá", "group": "Obalení" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý při smažení (odhad)", "scaling": "fat", "group": "Smažení" },
+    { "ingredientId": "repkovy-olej", "amount": 145, "unit": "ml", "note": "na pánev (zdroj 250 ml), zůstane v pánvi", "scaling": "vessel", "group": "Smažení" }
+  ],
+  "steps": [
+    { "text": "Kapustu rozkrájej na čtvrtky, vlož do vroucí mírně osolené vody, krátce ovař, vyjmi a nech okapat.", "minutes": 15 },
+    { "text": "Mezitím uvař uzený bůček do měkka, vykostí ho a nakrájej na drobné kostičky.", "minutes": 30, "parallel": true },
+    { "text": "Z kapusty odstraň košťály a kapustu jemně umel nebo nasekej.", "minutes": 10 },
+    { "text": "Ke kapustě přidej bůček, vejce, prosátou mouku, strouhanku, česnek utřený se solí a pepř. Směs promíchej a podle potřeby přisol.", "minutes": 5 },
+    { "text": "Ze směsi tvaruj ploché kulaté karbanátky.", "minutes": 10 },
+    { "text": "Karbanátky obal v prosáté mouce, v rozšlehaném vejci s mlékem a ve strouhance.", "minutes": 8 },
+    { "text": "Na pánvi rozehřej olej a karbanátky zvolna smaž dozlatova.", "minutes": 15 },
+    { "text": "Podávej s bramborami a sterilovanými okurkami." }
+  ],
+  "modernNote": "Kniha počítá 10 porcí po 190 g (hotový výrobek 1 900 g); porce je tedy velká, 4 porce vycházejí na zhruba 12 karbanátků. Zdroj uvádí vodu na spaření kapusty a vaření bůčku jen „podle potřeby“, proto není v surovinách; sůl (30 g na 10 porcí) neuvádí rozdělenou, proto je celá v řádku; část jí odejde do vody na spaření, do směsi dávej raději méně a dochucuj. Uzeniny je v receptu jen 20 g na porci, jako hlavní jídlo s masem jich přidej víc. Doba vaření ze zdroje chybí („krátce ovařit“, bůček do měkka), minuty jsou odhad. Uzený bůček jde klidně nahradit uzeným masem nebo slaninou. Příloha podle knihy: různě upravené brambory, sterilované okurky.",
+  "source": { "book": "receptury-1983", "page": 459, "code": "19112", "titleOriginal": "KAPUSTOVÉ KARBANÁTKY" },
+  "verified": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "jablkovec",
+  "title": "Jablkovec (žemlový nákyp s jablky a vínem)",
+  "titleOriginal": "Jablkovec",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 3,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "orechy", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "zemle-bila", "amount": 180, "unit": "g", "note": "4 ostrouhané žemle, na tenké plátky (odhad 45 g/ks)", "group": "Nákyp" },
+    { "ingredientId": "jablko", "amount": 500, "unit": "g", "note": "míšeňská, oloupaná, na tenké plátky (odhad)", "group": "Nákyp" },
+    { "ingredientId": "rozinky", "amount": 50, "unit": "g", "note": "bez jadérek (odhad)", "group": "Nákyp" },
+    { "ingredientId": "mandle-blansovane", "amount": 40, "unit": "g", "note": "loupané, na nudličky (odhad)", "group": "Nákyp" },
+    { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "note": "drobně nakrájená (odhad)", "group": "Nákyp" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "na vymazání formy (odhad)", "group": "Nákyp" },
+    { "ingredientId": "strouhanka", "amount": 15, "unit": "g", "note": "místo strouhané žemlové kůrky na vysypání formy", "group": "Nákyp" },
+    { "ingredientId": "bile-vino", "amount": 350, "unit": "ml", "note": "dobré sladké, 1 žejdlík", "group": "Víno" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "místo kousku skořicové kůry (odhad)", "group": "Víno" },
+    { "ingredientId": "hrebicek-cely", "amount": 6, "unit": "ks", "group": "Víno" },
+    { "ingredientId": "cukr-krystal", "amount": 70, "unit": "g", "note": "4 loty, do vína", "scaling": "linear", "group": "Víno" },
+    { "ingredientId": "cukr-moucka", "amount": 10, "unit": "g", "note": "na posypání hotového nákypu (odhad)", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "do hrnce na vodní lázeň, slije se", "scaling": "vessel" }
+  ],
+  "steps": [
+    { "text": "Žemle nakrájej na tenké plátky.", "minutes": 5 },
+    { "text": "Jablka oloupej, vykrájej jádřince a nakrájej na tenké plátky. Mandle nakrájej na nudličky a citronovou kůru na drobno.", "minutes": 12 },
+    { "text": "Formu dobře vymaž máslem a vysyp strouhankou.", "minutes": 3 },
+    { "text": "Dno formy vyskládej plátky žemlí, na ně dej jablka, posyp rozinkami, mandlemi a citronovou kůrou. Znovu přidej žemle, jablka, mandle, rozinky a kůru a tak pokračuj, až je všechno spotřebováno. Navrch má být vrstva žemlí.", "minutes": 10 },
+    { "text": "Víno uvař se skořicí, hřebíčkem a cukrem.", "minutes": 8 },
+    { "text": "Horkým vínem polij žemle rovnoměrně po celé ploše.", "minutes": 2 },
+    { "text": "Formu přikryj, postav ji do hrnce s vroucí vodou a vař v páře tři čtvrtě hodiny.", "minutes": 45 },
+    { "text": "Mezitím předehřej troubu na 200 °C.", "parallel": true },
+    { "text": "Formu i s vodou dej na čtvrt hodiny do horké trouby, aby se nákyp na povrchu opekl.", "minutes": 15 },
+    { "text": "Nákyp vyklop, posyp cukrem a podávej." }
+  ],
+  "modernNote": "Rettigová neuvádí počet žemlí ani množství jablek, rozinek, mandlí, citronové kůry a másla; jen 4 žemle, 1 žejdlík (≈ 350 ml) sladkého vína, 6 hřebíčků a 4 loty (70 g) cukru. Množství jsou odhad pro formu na 4 porce, proto verified: false; jedna dávka ze zdroje by v melounové formě vystačila spíš na 4–6 porcí. Žemle počítáno po 45 g, kůrka na vysypání formy nahrazena strouhankou. Tři čtvrtě hodiny v páře a čtvrt hodiny v troubě jsou doby ze zdroje, teplota trouby 200 °C je moderní odhad (kniha ji neuvádí). Voda do hrnce je domácí hodnota (vodní lázeň, slije se); doporuč hrnec s hladinou do poloviny výšky formy a formu v něm během vaření přikrytou. Míšeňská jablka nahraď kyselejšími (Idared, Jonagold). Sladké víno může být bílé polosladké; skořice je místo kousku kůry použita mletá. Pro lehčí nákyp dej méně cukru.",
+  "source": { "book": "rettigova-1868", "page": 183, "titleOriginal": "Jablkovec" },
+  "verified": false,
+  "quote": "nech v žejdlíku dobrého sladkého vína vařit kousek skořice, 6 celých křebíčků a 4 loty cukru"
+}

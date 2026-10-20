@@ -1,0 +1,37 @@
+{
+  "id": "cockova-polevka-se-zeleninou",
+  "title": "Čočková polévka se zeleninou",
+  "titleOriginal": "Lentil Vegetable Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 155,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "cocka", "amount": 85, "unit": "g", "note": "přebraná a propláchnutá" },
+    { "ingredientId": "voda", "amount": 610, "unit": "ml", "note": "studená" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 240, "unit": "g", "note": "krájená, včetně šťávy" },
+    { "ingredientId": "cibule", "amount": 125, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "mrkev", "amount": 75, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "celer-rapikaty", "amount": 25, "unit": "g", "note": "nakrájený na plátky" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 2, "unit": "g", "note": "granulovaný" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "bazalka-susena", "amount": 1, "unit": "g" },
+    { "ingredientId": "oregano", "amount": 1, "unit": "g" },
+    { "ingredientId": "bobkovy-list", "amount": 2.3, "unit": "ks", "note": "sušený; z Weight 1/4 oz" },
+    { "ingredientId": "petrzel-nat", "amount": 8, "unit": "g", "note": "čerstvá, nasekaná" }
+  ],
+  "steps": [
+    { "text": "Čočku přeber, vyhoď scvrklá zrnka a nečistoty a dobře propláchni ve studené vodě. Cibuli, mrkev a celer nakrájej.", "minutes": 10 },
+    { "text": "Čočku, vodu, rajčata, cibuli, mrkev, celer, sůl, česnek, pepř, bazalku a oregano dej do hrnce a přidej bobkový list. Přiveď k varu, sniž teplotu a duš 135 minut za občasného míchání, dokud čočka nezměkne.", "minutes": 145 },
+    { "text": "Těsně před podáváním vmíchej nasekanou petržel." }
+  ],
+  "modernNote": "Karta je pro 100 porcí po 1 cupu (237 ml); přepočteno na 4 porce. Zelenina je v kartě už nakrájená (CHOPPED, SLICED), proto je krájení v kroku 1 přidáno. Bobkový list je počítán z Weight 1/4 oz (7 g) přes třídu seasoning, což dává 2,3 listu na 4 porce; karta zároveň uvádí 8 listů na 100 porcí (0,3 listu na 4 porce) – vhodné ochutnat a případně použít 1 list.",
+  "source": { "book": "afrs-2003", "page": 1451, "code": "P 027 00", "titleOriginal": "LENTIL VEGETABLE SOUP" },
+  "verified": true,
+  "quote": "Add parsley just before serving."
+}

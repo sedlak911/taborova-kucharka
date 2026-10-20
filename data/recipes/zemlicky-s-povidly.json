@@ -1,0 +1,34 @@
+{
+  "id": "zemlicky-s-povidly",
+  "title": "Žemličky s povidly",
+  "titleOriginal": "Žemličky s povidlami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": ["levne", "rychle", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "zemle-bila", "amount": 300, "unit": "g", "note": "asi 6 žemlí nebo housek, odhad" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 100, "unit": "ml", "note": "na omočení, odhad" },
+    { "ingredientId": "povidla", "amount": 120, "unit": "g", "note": "odhad" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "odhad" },
+    { "ingredientId": "strouhanka", "amount": 60, "unit": "g", "note": "ze zdroje strouhaná žemlička; odhad" },
+    { "ingredientId": "repkovy-olej", "amount": 300, "unit": "ml", "note": "na smažení, domácí hodnota", "scaling": "vessel" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý (odhad)", "scaling": "fat" },
+    { "ingredientId": "cukr-moucka", "amount": 30, "unit": "g", "note": "na posypání, odhad" }
+  ],
+  "steps": [
+    { "text": "Žemle nakrájej na plátky silné asi 1,5 cm.", "minutes": 5 },
+    { "text": "Plátky po jednom omoč ve smetaně.", "minutes": 5 },
+    { "text": "Na polovinu plátků nanes povidla a přikryj je zbylými plátky, aby vznikly sendviče.", "minutes": 5 },
+    { "text": "Vejce rozklepni a rozšlehej. Sendviče omoč ve vejci a obal ve strouhance.", "minutes": 5 },
+    { "text": "V pánvi rozehřej olej a sendviče smaž dozlatova z obou stran.", "minutes": 10 },
+    { "text": "Posyp moučkovým cukrem a podávej." }
+  ],
+  "modernNote": "Rettigová neuvádí žádná množství ani počet porcí; množství jsou odhad pro 4 porce (asi 6 sendvičů po 1–2 kusech na osobu). Tuk na smažení zdroj nezmiňuje, doplněn běžný olej (původně smažení v másle či sádle). Doporučení: žemle ať jsou den staré, lépe drží pohromadě a nasají méně smetany. Kniha podává jídlo jako „v čas nouze dobré“.",
+  "source": { "book": "rettigova-1868", "page": 185, "titleOriginal": "Žemličky s povidlami" },
+  "verified": false,
+  "quote": "Je to v čas nouze dobré jídlo."
+}
