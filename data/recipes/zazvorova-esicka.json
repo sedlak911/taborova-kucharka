@@ -1,0 +1,34 @@
+{
+  "id": "zazvorova-esicka",
+  "title": "Zázvorová esíčka",
+  "titleOriginal": "Ginger S's",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "ze zdroje asi 5 lb", "scaling": "linear" },
+    { "ingredientId": "hnedy-cukr", "amount": 40, "unit": "g", "note": "ze zdroje 1 lb", "scaling": "linear" },
+    { "ingredientId": "sadlo", "amount": 40, "unit": "g", "note": "ze zdroje 1 lb", "scaling": "linear" },
+    { "ingredientId": "melasa", "amount": 120, "unit": "g", "note": "tmavá melasa (N. O.), ze zdroje 1 quart", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 20, "unit": "ml", "note": "ze zdroje ½ pint", "scaling": "linear" },
+    { "ingredientId": "jedla-soda", "amount": 3, "unit": "g", "note": "ze zdroje 1 oz", "scaling": "linear" },
+    { "ingredientId": "zazvor-mlety", "amount": 8, "unit": "g", "note": "ze zdroje 3 oz, mletý", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C." },
+    { "text": "Sádlo s cukrem prošlehej, přidej melasu a vodu.", "minutes": 3 },
+    { "text": "Vmíchej sodu a zázvor.", "minutes": 2 },
+    { "text": "Zapracuj mouku, aby vzniklo těsto.", "minutes": 5 },
+    { "text": "Těsto nakrájej na malé kousky.", "minutes": 8 },
+    { "text": "Každý kousek vyválej do válečku o něco tlustšího než tužka a stoč do tvaru písmene S.", "minutes": 15 },
+    { "text": "Esíčka polož na lehce vymazané plechy.", "minutes": 5 },
+    { "text": "Peč v mírné troubě.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 38) je pekárenská dávka s 1 lb hnědého cukru, 1 lb sádla, 1 quartem melasy, 1 oz sody, ½ pintu vody, 3 oz zázvoru a asi 5 lb mouky. Přepočet stejným faktorem jako u sousedních Ginger Snaps (5 lb → 200 g mouky, faktor 0,088): 4 porce po asi 10 malých esíčcích (kolem 400 kcal na porci, porce asi 108 g); zdroj počet kusů neuvádí. Mouka je ve zdroji uvedena jen „asi“, tuhost těsta uprav moukou. Melasa v g (hustota 1,42 g/ml), US quart 946 ml, pint 473 ml. Teplota ani doba pečení ve zdroji nejsou („moderate oven“): 175 °C a asi 20 minut je odhad. Sádlo lze nahradit máslem. Čas na rozmíchání, tvarování a pečení je odhad.",
+  "source": { "book": "hauptmann-1877", "page": 38, "titleOriginal": "Ginger S's" },
+  "verified": false
+}

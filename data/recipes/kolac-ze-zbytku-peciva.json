@@ -1,0 +1,37 @@
+{
+  "id": "kolac-ze-zbytku-peciva",
+  "title": "Perníkový koláč ze zbytků pečiva",
+  "titleOriginal": "Scrap Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "piskoty", "amount": 95, "unit": "g", "scaling": "linear", "note": "ve zdroji drobky z neprodaných koláčů, rozdrcené a prosáté" },
+    { "ingredientId": "melasa", "amount": 190, "unit": "g", "scaling": "linear", "note": "ve zdroji New Orleans melasa" },
+    { "ingredientId": "mleko-polotucne", "amount": 70, "unit": "ml", "scaling": "linear", "note": "ve zdroji sladké mléko" },
+    { "ingredientId": "jedla-soda", "amount": 2, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 16, "unit": "g", "scaling": "linear", "note": "rozpuštěné" },
+    { "ingredientId": "zazvor-mlety", "amount": 2, "unit": "g", "note": "ve zdroji asi 1 oz na celou dávku" },
+    { "ingredientId": "novy-koreni", "amount": 1, "unit": "g", "note": "mletý" },
+    { "ingredientId": "rozinky", "amount": 15, "unit": "g", "note": "ve zdroji „a few currants“ (korintky), množství je odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 180, "unit": "g", "note": "množství doplněno: zdroj má „flour sufficient“; přidávej po částech do středně tuhého těsta" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C." },
+    { "text": "Melasu, mléko, sodu, rozpuštěné máslo, zázvor a nové koření dobře promíchej.", "minutes": 3 },
+    { "text": "Vmíchej rozdrcené piškoty a rozinky.", "minutes": 2 },
+    { "text": "Přidávej mouku, dokud nevznikne středně tuhé těsto.", "minutes": 3 },
+    { "text": "Pánev nebo menší plech dobře vymaž tukem.", "minutes": 2 },
+    { "text": "Těsto rozprostři do vymazané formy asi 4 cm silně.", "minutes": 3 },
+    { "text": "Peč v mírné troubě, až je koláč propečený.", "minutes": 45 },
+    { "text": "Nech koláč vychladnout.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 39) je pekárenská dávka: 3 lb drobků (ořezky z neprodaných koláčů, rozdrcené a prosáté), ½ galonu melasy, 1 quart mléka, 1 oz sody, ½ lb másla, asi 1 oz zázvoru, ½ oz nového koření, trochu korintek a mouka „dostatečná“ na středně tuhé těsto. Drobky z koláčů dnes nemáš; nejblíž je suchý piškot rozdrcený v hmoždíři nebo mixéru a prosátý (zbytky starého koláče, sušenek nebo perníku fungují stejně). Dávka zmenšena 14× (zdroj by dal desítky porcí), aby 4 porce byly 4 kousky po zhruba 430 kcal; melasa přepočtena z objemu na hmotnost (½ gal ≈ 2 688 g). Množství mouky zdroj neuvádí: odhad asi 5½ lb na celou dávku, tj. 180 g zde; tuhost těsta řiď podle zdroje, ne podle váhy. Soda zůstává, reaguje s kyselou melasou, kypřicí prášek není nutný. Nové koření a rozinky místo korintek jsou moderní náhrady. Teplota (cool oven) a doba pečení nejsou ve zdroji: 150 °C asi 45 minut je odhad, hotovo ověř špejlí. Zdroj koláč po vychladnutí polévá vodní polevou; zde je vynechána (cukr rozmíchaný s trochou vody, nanést na vychladlý koláč). Koláč je lepší druhý den.",
+  "source": { "book": "hauptmann-1877", "page": 39, "titleOriginal": "Scrap Cake" },
+  "verified": false,
+  "quote": "Bake in a cool oven, and when cool ice over with water icing."
+}

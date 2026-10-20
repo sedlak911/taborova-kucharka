@@ -1,0 +1,38 @@
+{
+  "id": "citronove-susenky",
+  "title": "Citronové sušenky s krupicovým cukrem",
+  "titleOriginal": "Lemon Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 230, "unit": "g", "note": "zdroj 3¼ lb" },
+    { "ingredientId": "cukr-krystal", "amount": 105, "unit": "g", "scaling": "linear", "note": "zdroj 1½ lb bílého cukru" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "vejce", "amount": 0.65, "unit": "ks", "note": "zdroj 4 vejce; rozšleháním a odměřením asi 30 g" },
+    { "ingredientId": "voda", "amount": 35, "unit": "ml", "note": "zdroj ½ pint" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "note": "náhrada za carbonate of ammonia (zdroj ½ oz)" },
+    { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „oil of lemon“, příchuť „pretty strong“; strouhaná kůra" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "scaling": "linear", "note": "na obalení, hrubý krupicový cukr; odhad, zdroj množství neuvádí" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Cukr s máslem několik minut míchej do pěny.", "minutes": 5 },
+    { "text": "Vmíchej vejce.", "minutes": 3 },
+    { "text": "Přidej vodu a citronovou kůru a promíchej.", "minutes": 2 },
+    { "text": "Vsyp mouku s kypřicím práškem a lehce vmíchej.", "minutes": 3 },
+    { "text": "Těsto vyválej na dlouhé válečky tlusté jako násada od koštěte.", "minutes": 8 },
+    { "text": "Válečky nakrájej na kousky velké jako vlašský ořech a každý kousek rukou prodluž: uprostřed má být tlustý a ke koncům se zužovat do špičky.", "minutes": 12 },
+    { "text": "Kousky posyp krupicovým cukrem a lehce přitiskni.", "minutes": 4 },
+    { "text": "Kousky cukrem nahoru polož na lehce vymazaný plech, daleko od sebe, hodně se rozlévají.", "minutes": 5 },
+    { "text": "Peč ve vyhřáté troubě do velmi světlého zbarvení, dno nesmí zčernat. Peč asi 12 minut.", "minutes": 12 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 28): pekařská dávka na 3¼ lb (1 474 g) mouky, US míry; zde zmenšeno asi 6,4× na 230 g mouky, což dá asi 24 kousků velikosti vlašského ořechu (6 kousků na porci, asi 450 kcal). Carbonate of ammonia (amonium) nahrazen kypřicím práškem ve stejné hmotnosti (2 g); amonium kypří silněji, proto kontroluj při prvním pečení. „Oil of lemon“ bez množství nahrazena strouhanou citronovou kůrou (odhad). Zdroj neuvádí teplotu ani dobu, „pretty hot oven“ = 200 °C, 12 minut je odhad; peč do velmi světlé barvy. Množství cukru na obalení je odhad. Vejce je jen 0,65 ks: rozšlehej jedno a odměř asi 30 g. Voda odpovídá ½ US pintu zmenšenému faktorem.",
+  "source": { "book": "hauptmann-1877", "page": 28, "titleOriginal": "Lemon Cakes" },
+  "verified": false,
+  "quote": "Cut in pieces about the size of a walnut with the scraper, and roll lengthwise with the hand."
+}

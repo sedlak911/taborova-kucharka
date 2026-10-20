@@ -1,0 +1,87 @@
+{
+  "id": "piskotova-rolada-s-dzemem",
+  "title": "Piškotová roláda s marmeládou",
+  "titleOriginal": "Jelly Roll",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": [
+    "sladke",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj ½ lb bílého cukru"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 3.5,
+      "unit": "ks",
+      "note": "zdroj 14 vajec"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "zdroj ½ lb mouky"
+    },
+    {
+      "ingredientId": "dzem",
+      "amount": 120,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "odhad: zdroj uvádí jen „jelly“ bez množství; marmeláda nebo džem"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Předehřej troubu na 190 °C. Plech vylož pečicím papírem."
+    },
+    {
+      "text": "Cukr a vejce šlehej, dokud hmota není tuhá.",
+      "minutes": 10
+    },
+    {
+      "text": "Vmíchej mouku.",
+      "minutes": 2
+    },
+    {
+      "text": "Těsto rozetři na papír na plechu do vrstvy asi 0,5–1 cm silné.",
+      "minutes": 3
+    },
+    {
+      "text": "Peč v mírně horké troubě, dokud není upečené.",
+      "minutes": 12
+    },
+    {
+      "text": "Upečený plát obrať na další papír položený na stole a potři ho štětcem namočeným ve vodě.",
+      "minutes": 2
+    },
+    {
+      "text": "Rychle potři marmeládou a hned stoč do rolády. Marmeládu i rolování udělej co nejrychleji po vytažení z trouby. Je-li marmeláda příliš hustá, rozmíchej ji, aby se dobře roztírala.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 36): pekařská dávka 14 vajec, ½ lb cukru a ½ lb mouky, bez počtu kusů. Zde přibližně čtvrtina dávky (3,5 vejce; v praxi 3 vejce a žloutek) na jeden malý plech, 4 plátky rolády po asi 250 kcal. Zdroj neuvádí teplotu ani dobu pečení: „moderately hot oven“ je zde 190 °C a 12 minut (odhad, hlídej zlatavý okraj). Množství marmelády zdroj nezná, zde odhad 120 g. Tip: plát před rolováním posyp cukrem, aby se nelepil.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 36,
+    "titleOriginal": "Jelly Roll"
+  },
+  "verified": false,
+  "quote": "It must be spread and rolled as quickly as possible after it is taken out of the oven."
+}

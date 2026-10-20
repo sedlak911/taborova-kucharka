@@ -1,0 +1,34 @@
+{
+  "id": "maslove-kapky",
+  "title": "Máslové kapky (drop cakes)",
+  "titleOriginal": "Drop Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 195, "unit": "g", "scaling": "linear", "note": "zdroj 2 lb 2 oz" },
+    { "ingredientId": "cukr-krystal", "amount": 90, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb bílého cukru" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "scaling": "linear", "note": "zdroj ¾ lb" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "scaling": "linear", "note": "počet vajec zdroj v seznamu neuvádí, odhad 6 na celou dávku; přidávej po dvou" },
+    { "ingredientId": "mleko-polotucne", "amount": 95, "unit": "ml", "scaling": "linear", "note": "zdroj 1 pint sladkého mléka nebo vody" },
+    { "ingredientId": "prasek-do-peciva", "amount": 3, "unit": "g", "scaling": "linear", "note": "náhrada za carbonate of ammonia (zdroj ½ oz = 14 g na celou dávku)" },
+    { "ingredientId": "citronova-kura", "amount": 1, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „oil of lemon“ bez množství; strouhaná kůra" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 190 °C." },
+    { "text": "Cukr s máslem asi deset minut šlehej do pěny.", "minutes": 10 },
+    { "text": "Vejce přidávej po dvou a po každém dobře promíchej.", "minutes": 5 },
+    { "text": "Když jsou vejce dobře zamíchaná, vlij mléko nebo vodu a přidej citronovou kůru s kypřicím práškem.", "minutes": 3 },
+    { "text": "Dobře vmíchej mouku a trochu těsto prošlehej.", "minutes": 4 },
+    { "text": "Těsto nandávej lžící na lehce vymazaný plech.", "minutes": 8 },
+    { "text": "Peč v středně vyhřáté troubě. Kdyby se kapky na dně připalovaly, podlož pod plech druhý plech.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 26–27): pekařská dávka na 2 lb 2 oz mouky (asi 960 g), US míry (pint 473 ml). Zde pětina dávky: asi 8 kapek po 40–50 g (4 porce po 2 kapkách, asi 410 kcal), celá dávka knihy by dala kolem 40 (kniha počet neuvádí). Počet vajec je ve zdroji v seznamu vynechán, ale postup je zmiňuje („přidej vejce po dvou“); odhad 6 na celou dávku (podle podobných receptů Hauptmanna), verified false. Carbonate of ammonia (amonium) v katalogu není, nahrazeno kypřicím práškem ve stejné hmotnosti (14 g → 3 g po přepočtu); amonium kypří silněji, prášek při prvním pečení ověř. „Oil of lemon“ nahrazen strouhanou citronovou kůrou (odhad). Čas a teplotu pečení zdroj neuvádí („medium hot oven“ ≈ 190 °C, 12–15 minut je odhad). Varianta ze zdroje: místo másla lze použít dobré sádlo, pak místo vody mléko a špetku soli; kapky lze péct i v malých vroubkovaných formičkách a na každou dát pár rozinek nebo rybízu.",
+  "source": { "book": "hauptmann-1877", "page": 26, "titleOriginal": "Drop Cakes" },
+  "verified": false,
+  "quote": "Drop out with a tablespoon on pans that have been slightly greased, and bake in a medium hot oven."
+}

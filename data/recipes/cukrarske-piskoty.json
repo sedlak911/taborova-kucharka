@@ -1,0 +1,35 @@
+{
+  "id": "cukrarske-piskoty",
+  "title": "Cukrářské piškoty slepované marmeládou",
+  "titleOriginal": "Lady Fingers",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "scaling": "linear", "note": "zdroj 12 vajec, přepočteno ×0,25" },
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb (454 g), přepočteno ×0,25" },
+    { "ingredientId": "citronove-aroma", "amount": 0.5, "unit": "ml", "scaling": "linear", "note": "zdroj „few drops oil of lemon“; odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 120, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb 1 oz (482 g), přepočteno ×0,25" },
+    { "ingredientId": "cukr-moucka", "amount": 15, "unit": "g", "scaling": "linear", "note": "na posypání piškotů před pečením; zdroj „pulverized sugar“ bez množství, odhad" },
+    { "ingredientId": "dzem", "amount": 60, "unit": "g", "scaling": "linear", "note": "marmeláda na slepení; zdroj „jelly“ bez množství, odhad" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C. Vylož plechy pečicím papírem." },
+    { "text": "Cukr s vejci šlehej tak dlouho, až hmota po zvednutí metly a pohybu v míse chvíli leží na povrchu a neklesá.", "minutes": 10 },
+    { "text": "Vmíchej citronovou esenci.", "minutes": 1 },
+    { "text": "Vmíchej mouku lehce, ale důkladně, rukou nebo stěrkou.", "minutes": 3 },
+    { "text": "Cukrářský sáček s hladkou trubičkou naplň asi ze tří čtvrtin a na papír vystříkej úzké piškoty dlouhé asi 5 cm, ve vzdálenosti asi 2,5 cm. Pracuj rychle, hned po zapracování mouky.", "minutes": 10 },
+    { "text": "Piškoty hned posyp moučkovým cukrem přes jemné sítko. Papír zvedni za okraje a nech přebytečný cukr sklouznout na jednu stranu, pak jej zvedni a cukr úplně sklepej. Přebytečný cukr z papíru i plechu sfoukni.", "minutes": 3 },
+    { "text": "Peč v troubě do světle zlatavé barvy.", "minutes": 12 },
+    { "text": "Vychladlé piškoty obrať a štětcem namočeným ve vodě potři spodní stranu.", "minutes": 3 },
+    { "text": "Piškoty slep po dvou co nejpodobnější velikosti marmeládou. Na talíři je nevrstvi do vysoké hromady.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 27–28) uvádí pekařskou dávku na 12 vajec, 1 lb (454 g) cukru a 1 lb 1 oz (482 g) mouky bez počtu kusů. Zde přepočteno ×0,25 (3 vejce, 115 g cukru, 120 g mouky), což dá asi 400 g těsta, tedy asi 40–50 piškotů o délce 5 cm (20–25 slepených párů); na porci 5–6 párů, kolem 330 kcal. Kniha počet kusů neuvádí. Zdroj neuvádí teplotu ani dobu pečení: „pretty hot oven, until of a nice light brown color“ bereme jako 200 °C a 12 minut (odhad). Množství citronové esence („few drops oil of lemon“), moučkového cukru na posypání a marmelády („jelly“) zdroj neuvádí; jsou to odhady. Zdroj radí vystříkávat piškoty hned po zapracování mouky, jinak popraskají; podkládání plechu hnědým balicím papírem nahrazuje pečicí papír, sáček s dřevěnou zátkou v trubičce běžný cukrářský sáček s hladkou trubičkou. Potírání spodní strany vodou slouží ke snadnějšímu sundání z papíru a k lepšímu slepení.",
+  "source": { "book": "hauptmann-1877", "page": 27, "titleOriginal": "Lady Fingers" },
+  "verified": false,
+  "quote": "Always pick out two as near the same size as possible. Don't pile them high on a plate or tray."
+}

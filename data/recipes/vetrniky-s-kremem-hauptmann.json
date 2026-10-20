@@ -1,0 +1,40 @@
+{
+  "id": "vetrniky-s-kremem-hauptmann",
+  "title": "Větrníky na sádle s vanilkovým krémem",
+  "titleOriginal": "Cream Puffs",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "group": "Odpalované těsto", "ingredientId": "hladka-mouka", "amount": 100, "unit": "g", "note": "zdroj 1 lb 2 oz; prosáté" },
+    { "group": "Odpalované těsto", "ingredientId": "sadlo", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj 10 oz čistého sádla" },
+    { "group": "Odpalované těsto", "ingredientId": "voda", "amount": 190, "unit": "ml", "note": "zdroj 1 quart" },
+    { "group": "Odpalované těsto", "ingredientId": "vejce", "amount": 4, "unit": "ks", "note": "zdroj asi 20 vajec; podle těsta" },
+    { "group": "Odpalované těsto", "ingredientId": "prasek-do-peciva", "amount": 3, "unit": "g", "scaling": "linear", "note": "náhrada za carbonate of ammonia (zdroj asi ½ oz = 14 g)" },
+    { "group": "Krém", "ingredientId": "mleko-polotucne", "amount": 380, "unit": "ml", "note": "zdroj ½ galonu sladkého mléka" },
+    { "group": "Krém", "ingredientId": "cukr-krystal", "amount": 70, "unit": "g", "note": "zdroj ¾ lb bílého cukru" },
+    { "group": "Krém", "ingredientId": "vejce", "amount": 1.8, "unit": "ks", "note": "zdroj 9 vajec" },
+    { "group": "Krém", "ingredientId": "kukuricny-skrob", "amount": 45, "unit": "g", "note": "zdroj ½ lb kukuřičného škrobu nebo mouky" },
+    { "group": "Krém", "ingredientId": "vanilkovy-extrakt", "amount": 4, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „vanilla“ bez množství; asi 1 čajová lžička" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na horko (asi 220 °C)." },
+    { "text": "Ve hrnci přiveď vodu se sádlem k varu a míchej, až se sádlo rozpustí a voda silně vře.", "minutes": 8 },
+    { "text": "Hrnec stáhni na kraj sporáku, najednou vsyp prosátou mouku a rychle několik minut energicky míchej.", "minutes": 3 },
+    { "text": "Hrnec sundej z plotny, vmíchej kypřicí prášek a vejce po jednom, po každém těsto důkladně vymíchej a seškrab ze stěn. Zkušební lžíci dej na talířek a vlož do trouby. Zůstane-li malá a téměř nevykyne, přidej do těsta ještě trochu vejce, ale ne příliš, jinak se větrníky rozběhnou.", "minutes": 10 },
+    { "text": "Těsto ukládej po zarovnaných lžících v dostatečných rozestupech na lehce vymazaný plech.", "minutes": 5 },
+    { "text": "Peč v horké troubě, dokud nejsou propečené. Nedopečené po vytažení splasknou.", "minutes": 30 },
+    { "text": "Mezitím v misce prošlehej cukr, vejce a škrob dohladka.", "minutes": 3, "parallel": true },
+    { "text": "Mléko přiveď k varu, hned ho vlij do směsi a za stálého míchání zahřívej na kraji sporáku, aby se krém nepřipálil.", "minutes": 8, "parallel": true },
+    { "text": "Krém nech vychladnout a ochuť vanilkou.", "minutes": 30, "parallel": true },
+    { "text": "Upečené větrníky tenkým ostrým nožem nařízni z boku zhruba do poloviny, horní část nadzvedni a do každého vlož lžíci krému.", "minutes": 10 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 29–30): pekařská dávka na 1 lb 2 oz mouky a asi 20 vajec, US míry (quart 946 ml). Zde asi pětina dávky (4 vejce) na 4 porce: vyjde asi 12 větrníků velikosti lžíce, tedy 3 na porci; krém je podle zdroje vydatnější, přebytek jde do dezertu nebo dalších větrníků. Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem ve stejné hmotnosti (zdroj asi 14 g, zde 3 g); amonium kypří silněji, prášek ověř při prvním pečení. Zdroj nedává teplotu ani dobu pečení: „hot oven, just before putting in bread“ bereme jako asi 220 °C a 30 minut (odhad). Zdroj nechává vejce přidávat po třech (20 vajec), zde po jednom a podle konzistence. Do škrobu lze přidat pár lžic studeného mléka, krém se pak snáze hladce spojí; pokud zůstane řídký, krátce ho vař za stálého míchání. Vanilka je bez množství (odhad 1 čajová lžička), zdroj nabízí i citron. Zdroj upozorňuje, že větrníky naplněné krémem se v létě udrží jen asi den. Navy má hotový recept `odpalovane-testo-vetrniky` (jiný tuk, bez amonia).",
+  "source": { "book": "hauptmann-1877", "page": 29, "titleOriginal": "Cream Puffs" },
+  "verified": false,
+  "quote": "They will not keep more than about a day in the summer when filled with custard."
+}

@@ -10,13 +10,13 @@
   "equipment": ["trouba"],
   "allergens": ["lepek", "vejce", "mleko"],
   "ingredients": [
-    { "ingredientId": "hladka-mouka", "amount": 500, "unit": "g", "note": "zdroj 2¼ lb (1 020 g)" },
-    { "ingredientId": "cukr-krystal", "amount": 250, "unit": "g", "note": "zdroj 1 lb 2 oz bílého cukru" },
-    { "ingredientId": "maslo", "amount": 140, "unit": "g", "scaling": "linear", "note": "zdroj 10 oz" },
-    { "ingredientId": "vejce", "amount": 1.95, "unit": "ks", "note": "zdroj 4 vejce; přidávej po dvou" },
-    { "ingredientId": "mleko-polotucne", "amount": 230, "unit": "ml", "note": "zdroj 1 pint sladkého mléka nebo vody (scant measure)" },
-    { "ingredientId": "prasek-do-peciva", "amount": 7, "unit": "g", "scaling": "linear", "note": "náhrada za carbonate of ammonia (zdroj asi ½ oz = 14 g)" },
-    { "ingredientId": "citronova-kura", "amount": 0.98, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „oil of lemon“ bez množství; strouhaná kůra" }
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "zdroj 2¼ lb (1 020 g)" },
+    { "ingredientId": "cukr-krystal", "amount": 125, "unit": "g", "note": "zdroj 1 lb 2 oz bílého cukru" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "scaling": "linear", "note": "zdroj 10 oz" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "note": "zdroj 4 vejce; přidávej po dvou" },
+    { "ingredientId": "mleko-polotucne", "amount": 115, "unit": "ml", "note": "zdroj 1 pint sladkého mléka nebo vody (scant measure)" },
+    { "ingredientId": "prasek-do-peciva", "amount": 3, "unit": "g", "scaling": "linear", "note": "náhrada za carbonate of ammonia ve stejné hmotnosti (zdroj asi ½ oz = 14 g)" },
+    { "ingredientId": "citronova-kura", "amount": 0.5, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „oil of lemon“ bez množství; strouhaná kůra" }
   ],
   "steps": [
     { "text": "Předehřej troubu na 200 °C." },
@@ -27,7 +27,7 @@
     { "text": "Těsto vytlač cukrářským sáčkem s trubičkou do kroužků na lehce vymazaný plech.", "minutes": 15 },
     { "text": "Pod každý plech podlož prázdný druhý plech, aby se kroužky nepřepálily. Peč 12 minut, dokud nejsou světle zlatavé." , "minutes": 12 }
   ],
-  "modernNote": "Zdroj (Hauptmann 1877, s. 31): dávka na 2¼ lb (1 020 g) mouky, US míry (pint 473 ml). Zde dávka na 500 g mouky (4 porce, asi 16–20 kroužků). Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem v poměru ze zdroje (14 g → 7 g); amonium kypří silněji, prášek proto ověř při prvním pečení a případně uprav. „Oil of lemon“ je bez množství, nahrazen strouhanou citronovou kůrou (odhad). Zdroj neuvádí teplotu, „hot oven“ bere jako 200 °C. Pod plech druhý plech je ze zdroje (chrání dno před přepálením). Zdroj doporučuje těsto nepřemíchat, jinak bude tvrdé.",
+  "modernNote": "Zdroj (Hauptmann 1877, s. 31): dávka na 2¼ lb (1 020 g) mouky, US míry (pint 473 ml). Zde zmenšeno na 250 g mouky (faktor 0,245) – 4 porce, asi 8–10 kroužků, ~500 kcal na porci (stejně jako Hnědé jumbles); kniha dává velkou pekařskou dávku. Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem ve stejné hmotnosti (14 g → 3 g po zmenšení); amonium kypří silněji, prášek proto ověř při prvním pečení a případně uprav. „Oil of lemon“ je bez množství, nahrazen strouhanou citronovou kůrou (odhad). Zdroj neuvádí teplotu, „hot oven“ bere jako 200 °C. Pod plech druhý plech je ze zdroje (chrání dno před přepálením). Zdroj doporučuje těsto nepřemíchat, jinak bude tvrdé.",
   "source": { "book": "hauptmann-1877", "page": 31, "titleOriginal": "White Jumbles" },
   "verified": false,
   "quote": "Don't mix more than is necessary to get the flour mixed in, or they will be tough."

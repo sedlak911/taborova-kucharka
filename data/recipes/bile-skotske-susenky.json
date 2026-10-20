@@ -1,0 +1,35 @@
+{
+  "id": "bile-skotske-susenky",
+  "title": "Bílé máslové sušenky",
+  "titleOriginal": "White Scotch Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 160, "unit": "g", "note": "zdroj 2½ lb (1 134 g)" },
+    { "ingredientId": "cukr-krystal", "amount": 95, "unit": "g", "scaling": "linear", "note": "zdroj 1½ lb bílého cukru" },
+    { "ingredientId": "maslo", "amount": 65, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "vejce", "amount": 0.55, "unit": "ks", "note": "zdroj 4 vejce; rozšlehej 1 vejce a použij něco víc než polovinu" },
+    { "ingredientId": "mleko-plnotucne", "amount": 19, "unit": "ml", "scaling": "linear", "note": "zdroj „a little over a gill“ (asi 130 ml) sladkého mléka nebo vody" },
+    { "ingredientId": "prasek-do-peciva", "amount": 1, "unit": "g", "scaling": "linear", "note": "náhrada za uhličitan amonný (zdroj ¼ oz)" },
+    { "ingredientId": "citronove-aroma", "amount": 0.5, "unit": "g", "note": "odhad: zdroj „a little oil of lemon“ bez množství" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C." },
+    { "text": "Cukr s máslem utři do hladka.", "minutes": 5 },
+    { "text": "Přidej vejce a dobře promíchej.", "minutes": 3 },
+    { "text": "Přidej kypřicí prášek, mléko a citronové aroma a zamíchej.", "minutes": 2 },
+    { "text": "Vmíchej mouku a těsto zpracuj.", "minutes": 3 },
+    { "text": "Těsto vyválej na tenko a vykrajuj spíše malou kulatou vykrajovačkou. Vyvaluj vždy jen malé množství těsta.", "minutes": 15 },
+    { "text": "Sušenky polož na lehce vymazané plechy.", "minutes": 4 },
+    { "text": "Peč ve vlažné troubě, po dávkách podle plechů.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 33): pekařská dávka na 2½ lb (1 134 g) mouky, zde zmenšeno na 1/7 (4 porce, asi 14 tenkých kulatých sušenek, po 3–4 na porci; zdroj počet kusů neuvádí). Od receptu Skotský shortbread (Wells) se liší vejci, mlékem, kypřidlem a citronem: je to křehké, ne sypké těsto. Uhličitan amonný (¼ oz ≈ 7 g ve zdroji, zde 1 g) nahrazen kypřicím práškem v téže hmotnosti; kdo má jelení sůl (hartshorn), použije ji. Sladké mléko lze nahradit vodou, jak zdroj dovoluje. Citronový olej je ve zdroji bez množství, 0,5 g aroma (několik kapek) je odhad. Zdroj uvádí jen „cool oven“ bez času a teploty: 150 °C a 20 minut na plech jsou odhad, sušenky mají zůstat světlé. Tip: při dvojnásobné dávce vyjde 1 celé vejce.",
+  "source": { "book": "hauptmann-1877", "page": 33, "titleOriginal": "White Scotch Cakes" },
+  "verified": false,
+  "quote": "Don't roll out much of the mixture at a time"
+}
