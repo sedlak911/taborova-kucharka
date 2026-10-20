@@ -1,0 +1,40 @@
+{
+  "id": "sucharky-rusks",
+  "title": "Sladké sucharky",
+  "titleOriginal": "Rusks",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 290,
+  "difficulty": 3,
+  "tags": ["levne", "sladke", "bez-masa", "pripravit-predem"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "group": "Kvásek", "ingredientId": "hladka-mouka", "amount": 130, "unit": "g", "note": "jemná mouka; odhad složení „1 quart of sponge“ (č. 1)" },
+    { "group": "Kvásek", "ingredientId": "voda", "amount": 155, "unit": "ml", "note": "vlažná 27–32 °C; odhad složení kvásku" },
+    { "group": "Kvásek", "ingredientId": "drozdi-cerstve", "amount": 1, "unit": "g", "scaling": "linear", "note": "čerstvé; ve zdroji 2½ oz na 1 stone mouky (č. 1)" },
+    { "group": "Těsto", "ingredientId": "cukr-krystal", "amount": 30, "unit": "g", "scaling": "linear", "note": "zdroj 4 oz" },
+    { "group": "Těsto", "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "zdroj 2 vejce; půl vejce, rozšlehej a použij polovinu" },
+    { "group": "Těsto", "ingredientId": "maslo", "amount": 14, "unit": "g", "scaling": "linear", "note": "zdroj 2 oz" },
+    { "group": "Těsto", "ingredientId": "hladka-mouka", "amount": 220, "unit": "g", "note": "nejjemnější mouka; zdroj „best flour“ bez množství, odhad na těsto jako na housky, plus trochu na podsypání" }
+  ],
+  "steps": [
+    { "text": "Z mouky z kvásku, vlažné vody a droždí vymíchej řídké těsto (kvásek). Přikryj a nech na teplém místě kynout, až se povrch zvedne a nakyne.", "minutes": 60 },
+    { "text": "Do kvásku vmíchej cukr, rozšlehané vejce a měkké máslo. Přidávej mouku, dokud nevznikne těsto jako na housky, a zpracuj ho.", "minutes": 10 },
+    { "text": "Těsto přikryj a nech 2 hodiny odpočívat.", "minutes": 120 },
+    { "text": "Z těsta vyválej dlouhé válečky a polož je těsně vedle sebe na plech, mezi každý váleček namaž tuk.", "minutes": 10 },
+    { "text": "Peč ve středně horké troubě při 180 °C 35 minut.", "minutes": 35 },
+    { "text": "Upečené válečky nech ležet jeden den." },
+    { "text": "Seřízni z nich vršek a spodek a nakrájej je na pěkné plátky.", "minutes": 15 },
+    { "text": "Plátky peč znovu ve středně horké troubě při 150 °C, dokud nejsou úplně křupavé, suché a pěkně hnědé.", "minutes": 40 },
+    { "text": "Sucharky dej do košíku a nech přes noc na teplém místě, budou křehčí." }
+  ],
+  "modernNote": "Zdroj: „1 quart of sponge, 4 ozs. sugar, 2 eggs, 2 ozs. of butter“, kvásek (sponge) = chlebový kvásek z č. 1 (droždí rozmíchané ve vodě a mouka na řídké těsto, nechá se vzejít). Quart imperiální = 1 136 ml; množství mouky a vody v něm zdroj neuvádí, odhad: 515 g mouky a 620 ml vody (řídké těsto) a droždí 1,1 % mouky jako v č. 1. Dávka zmenšena na 1/4 (faktor 0,25): 284 ml kvásku, jinak lineárně. Mouka do těsta („best flour“) nemá množství, 220 g je odhad (těsto na housky, ~55 % tekutin), proto verified false. Zdroj neuvádí dobu kynutí kvásku ani teplotu pečení; 60 minut a 180 °C / 150 °C jsou odhad („moderate oven“), kynutí a doby ze zdroje (2 h, 35 min) nezkráceny. Kniha neuvádí počet kusů; z domácí dávky vyjde asi 16 plátků, tj. 4 na porci (~350 kcal). Čekání „jeden den“ a „přes noc v teple“ není v době přípravy. Zdroj dodává: „Some add a pinch of ground alum“ (kamenec), vynecháno. Moderní tip: stačí druhé pečení při 120–140 °C do vyschnutí; k jídlu se hodí na túru (vydrží měsíce v suchu). Nepřidává se sůl, zdroj ji neuvádí.",
+  "source": {
+    "book": "wells-1890",
+    "page": 51,
+    "titleOriginal": "Rusks"
+  },
+  "verified": false,
+  "quote": "After they are baked let them lie for one day. Rasp top and bottom off, cut into neat slices, and bake again."
+}

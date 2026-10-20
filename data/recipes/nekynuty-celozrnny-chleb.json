@@ -1,0 +1,64 @@
+{
+  "id": "nekynuty-celozrnny-chleb",
+  "title": "Nekynutý celozrnný chléb na podmáslí",
+  "titleOriginal": "Unfermented, or Diet Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "celozrnna-mouka",
+      "amount": 500,
+      "unit": "g",
+      "note": "ve zdroji 8 lb (3 629 g) „granulated wheat meal“"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 25,
+      "unit": "g",
+      "note": "ve zdroji 4 oz vinného kamene + 2 oz sody na 8 lb mouky (16 g + 8 g na 500 g)",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "ve zdroji 2 oz drcené soli na 8 lb mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 16,
+      "unit": "g",
+      "note": "ve zdroji 4 oz „castor sugar“ na 8 lb mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "podmasli",
+      "amount": 400,
+      "unit": "ml",
+      "note": "ve zdroji „churned milk“, kolik těsto pojme; množství je odhad (hydratace 80 %)"
+    }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Do mísy dej mouku a prášek do pečiva a vše prosej přes síto.", "minutes": 3 },
+    { "text": "Uprostřed mouky udělej důlek. Sůl a cukr rozpusť v troše podmáslí a nalij do důlku.", "minutes": 3 },
+    { "text": "Přilévej podmáslí, kolik mouka pojme, a zapracuj do těsta slušné velikosti.", "minutes": 5 },
+    { "text": "Těsto vytvaruj do oválného bochníku, vlož do vymazané oválné formy a ihned dej do trouby.", "minutes": 4 },
+    { "text": "Peč asi 45 minut, dokud bochník nezhnědne a po poklepání nezní dutě.", "minutes": 45 },
+    { "text": "Vyjmi z formy a nech na mřížce vychladnout." }
+  ],
+  "modernNote": "Zdroj (s. 21–22): dávka na 8 lb (3 629 g) mouky, přepočteno na 1 bochník z 500 g mouky (faktor 0,138). Kypřidla 19. století, 4 oz vinného kamene a 2 oz sody, jsou nahrazena kypřicím práškem v poměru 1 díl sody + 2 díly vinného kamene = 3 díly prášku (15,6 g + 7,8 g = 23,4 g, zaokrouhleno na 25 g); je to hodně, běžný bochník stačí s 15 g prášku. Podmáslí: zdroj říká „as much as will take the 8 lbs. of meal in“ bez množství, doplněno 400 ml (cca 80 % mouky; celozrnná mouka je nasákavá), doladit podle mouky; „churned milk“ je podmáslí z výroby másla. Cukr „castor“ nahrazen krystalovým. Zdroj nedává teplotu ani dobu pečení, jen „ihned do trouby“; 200 °C a 45 minut je odhad. Zdroj připouští i směs pšeničné a ječné mouky. Autor tvrdí, že takový chléb je nejlepší způsob zpracování celozrnné mouky a drží déle vláhu než kynutý. Těsto nekyne, nenechávej ho stát: kypřidlo začíná působit po spojení s tekutinou. Imperiální míry: 1 lb = 454 g, 1 oz = 28,35 g.",
+  "source": {
+    "book": "wells-1890",
+    "page": 21,
+    "titleOriginal": "Unfermented, or Diet Bread"
+  },
+  "verified": false,
+  "quote": "I consider this the very best mode of making wheat meals into bread; bread thus made eats well, and keeps moist longer than fermented meals."
+}

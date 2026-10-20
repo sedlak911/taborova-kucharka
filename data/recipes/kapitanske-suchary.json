@@ -1,0 +1,29 @@
+{
+  "id": "kapitanske-suchary",
+  "title": "Kapitánské suchary (lodní sušenky)",
+  "titleOriginal": "Captains' Biscuits",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 360, "unit": "g", "note": "zdroj 7 lb jemné mouky" },
+    { "ingredientId": "maslo", "amount": 19, "unit": "g", "note": "zdroj 6 oz", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 130, "unit": "ml", "note": "zdroj 1 quart vody nebo mléka (imperiální, 1 136 ml)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Do mouky vetři máslo, až vznikne jemná drobenka.", "minutes": 5 },
+    { "text": "Do důlku uprostřed mouky nalij vodu a vypracuj tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto rozděl na 4 díly, každý zformuj do kuličky a vyválej na placku o průměru asi 12 cm.", "minutes": 15 },
+    { "text": "Placky propíchej vidličkou a polož je lícem k sobě.", "minutes": 3 },
+    { "text": "Peč v mírně rychlé troubě do pěkné hnědé barvy.", "minutes": 17 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, s. 39, č. 59) je pekařská dávka: 7 lb jemné mouky, 6 oz másla a 1 quart (imperiální, 1 136 ml) vody nebo mléka, kusy po 4–5 oz těsta (asi 128 g) o průměru 5 palců (asi 12 cm). Dávka dá asi 35 kusů; vydělena 8,75 vychází 4 suchary, tj. 1 na porci (asi 360 kcal). Máslo je velmi málo, těsto je tuhé a suché; vody dej nejdřív méně a dolévej podle mouky. Místo vody lze použít mléko. Zdroj neuvádí teplotu ani dobu pečení („moderately quick oven, of a nice brown colour“): 200 °C a asi 17 minut je odhad, podle vzhledu piš dozlatova. Věta „lay them with their faces together“ je ve zdroji nejasná, zde přepsána doslova. Wells k Ship Biscuits (č. 58, s. 38–39) píše: jsou z mouky a vody, někdo prý přidává trochu kvasnic jako předkvas; obyčejnější druh se dělá z hrubší mouky „middlings“ nebo „fine sharps“, kapitánské (kabinové) suchary z nejjemnější. Jméno biscuit je z latinského bis a francouzského cuit, tj. dvakrát pečené, a jde o nejstarší pečivo vůbec. Podobné tvrdé sušenky (č. 60) se podle Wellse musí důkladně vysušit; doma je po upečení nech vychladnout a dosušit ve vypnuté troubě. Úplně suché vydrží v dóze dlouho a hodí se na túru a výlet. Ruční výrobu už v 1890 nahrazují stroje.",
+  "source": { "book": "wells-1890", "page": 39, "titleOriginal": "Captains' Biscuits" },
+  "verified": true,
+  "quote": "Rub the butter in with the flour until it is crumbled into very small pieces, make a bay in the centre of the flour, pour in the water or milk, make it into a dough"
+}

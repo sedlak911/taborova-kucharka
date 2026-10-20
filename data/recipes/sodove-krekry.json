@@ -1,0 +1,30 @@
+{
+  "id": "sodove-krekry",
+  "title": "Slané sodové krekry",
+  "titleOriginal": "Soda Biscuits",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 320, "unit": "g" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g" },
+    { "ingredientId": "sadlo", "amount": 10, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "prasek-do-peciva", "amount": 4, "unit": "g", "scaling": "linear", "note": "zdroj: 1 díl kyseliny a 1,5 dílu sody" },
+    { "ingredientId": "voda", "amount": 130, "unit": "ml" }
+  ],
+  "steps": [
+    { "text": "Smíchej mouku se solí a kypřicím práškem a vetři do ní sádlo.", "minutes": 5 },
+    { "text": "Přidej vodu a vypracuj tuhé, hladké a čisté těsto.", "minutes": 5 },
+    { "text": "Nech těsto asi půl hodiny odpočívat.", "minutes": 30 },
+    { "text": "Těsto vyválej na velké pláty skoro tak tenké jako třípencová mince a vykrajuj oválky dlouhé asi 13 cm a široké asi 7,5 cm.", "minutes": 15 },
+    { "text": "Oválky rozlož na plech a peč v dobře vyhřáté, čisté troubě.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka (12,5 lb mouky, 1 oz soli, 6 oz sádla, 1 oz kyseliny, 1,5 oz sody, 2 imperiální quarty vody = 2,27 l); přepočteno na domácích 320 g mouky, což dá asi 25–30 krekrů (asi 7 na porci, ~310 kcal). Kniha dává stovky kusů. Kypřidla 19. století (kyselina a jedlá soda, dohromady 2,5 oz) nahrazuje kypřicí prášek ve stejné hmotnosti: 4 g (v domácím měřítku asi 1 čajová lžička). Sůl odpovídá 1 oz ze zdroje. Zdroj neuvádí teplotu ani dobu pečení („oven of a good sound heat“, krekry se pekly přímo na dně pece na lopatě): doporučení 220 °C a asi 10–12 minut na plech (20 minut v krocích počítá se dvěma plechy), hlídej barvu. Těsto má být tuhé; voda je 40 % hmotnosti mouky. Sádlo lze nahradit máslem nebo olejem.",
+  "source": { "book": "wells-1890", "page": 44, "titleOriginal": "Soda Biscuits" },
+  "verified": true,
+  "quote": "The dough must be well made and of a good stiffness."
+}

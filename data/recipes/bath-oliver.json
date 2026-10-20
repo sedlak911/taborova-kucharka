@@ -1,0 +1,31 @@
+{
+  "id": "bath-oliver",
+  "title": "Bath Oliver – kynuté máslové krekry",
+  "titleOriginal": "Bath Oliver Biscuits",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 290,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "malá hrst na kvásek, zbytek do těsta" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "mleko-polotucne", "amount": 95, "unit": "ml" },
+    { "ingredientId": "drozdi-cerstve", "amount": 5, "unit": "g", "scaling": "linear", "note": "zdroj: German yeast" },
+    { "ingredientId": "cukr-krystal", "amount": 5, "unit": "g", "scaling": "linear", "note": "odhad, zdroj cukr zmiňuje v postupu, ale neuvádí množství" }
+  ],
+  "steps": [
+    { "text": "Mléko ohřej do vlažna, rozmíchej v něm cukr, droždí a hrst mouky. Nech 1,5 hodiny kvasit.", "minutes": 95 },
+    { "text": "Máslo vpracuj prsty do zbylé mouky, přidej kvásek a vypracuj hladké těsto.", "minutes": 10 },
+    { "text": "Těsto nech asi 2 hodiny odpočívat.", "minutes": 120 },
+    { "text": "Těsto tence vyválej, vykrajuj kolečka o průměru asi 7,5 cm a každé hustě propícháj vidličkou.", "minutes": 15 },
+    { "text": "Kolečka dej na plechy postříkané vodou a potři mlékem. Plechy přikryj vlhkou utěrkou a nech půl hodiny odpočívat.", "minutes": 30 },
+    { "text": "Peč v mírně vyhřáté troubě při 160 °C, dokud nejsou krekry světle zlatavé.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka (6,5 lb mouky, 1 imperiální quart mléka, 1 lb másla, 2 oz droždí); přepočteno na domácích 250 g mouky = asi 12 krekrů o průměru 3 palce (7,5 cm), tj. asi 3 na porci, ~300 kcal. Cukr zdroj zmiňuje v postupu, ale nemá ho v surovinách; 5 g je odhad. „Steam press or drawers“ (parní lis nebo zásuvky na odležení) je nahrazeno přikrytím vlhkou utěrkou. Doba pečení zdroj neuvádí („cool oven“): 20 minut při 160 °C je odhad, hlídej barvu. Mléko na potření je navíc k množství v surovinách (stačí pár lžic). Sůl zdroj nezmiňuje.",
+  "source": { "book": "wells-1890", "page": 43, "titleOriginal": "Bath Oliver Biscuits" },
+  "verified": false,
+  "quote": "Rub the butter into the remaining flour and make all into a nice smooth dough."
+}

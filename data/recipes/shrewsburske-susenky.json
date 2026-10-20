@@ -1,0 +1,33 @@
+{
+  "id": "shrewsburske-susenky",
+  "title": "Shrewsburské máslové sušenky",
+  "titleOriginal": "Shrewsbury Biscuits",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "rychle", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 230, "unit": "g", "note": "zdroj 1½ lb (680 g)" },
+    { "ingredientId": "maslo", "amount": 75, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb; vychladlé" },
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb" },
+    { "ingredientId": "vejce", "amount": 0.35, "unit": "ks", "note": "zdroj 1 vejce; rozšlehej 1 vejce a použij asi třetinu" },
+    { "ingredientId": "mleko-plnotucne", "amount": 35, "unit": "ml", "scaling": "linear", "note": "odhad: zdroj „sufficient milk to make dough“ bez množství; přidávej po troškách" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "odhad: zdroj „spice“ bez druhu a množství; příbuzné recepty uvádějí skořici" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "optional": true, "note": "volitelně; náhrada za volatile salt (zdroj ¼ oz)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C." },
+    { "text": "Máslo vpracuj prsty do mouky.", "minutes": 5 },
+    { "text": "Udělej důlek, dej do něj cukr, vejce, mléko a koření a vše zpracuj v těsto. Případný kypřicí prášek přidej ke koření.", "minutes": 5 },
+    { "text": "Těsto vyválej na prkně na tloušťku asi 3 mm a vykrajuj hladkou kulatou vykrajovačkou o průměru asi 6 cm.", "minutes": 15 },
+    { "text": "Sušenky polož na čisté nevymazané plechy.", "minutes": 3 },
+    { "text": "Peč v mírné troubě, dokud sušenky nezískají na okrajích lehce barvu.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, s. 46, č. 88 „Another Way“): pekařská dávka z 1½ lb (680 g) mouky, zde zmenšeno na třetinu (4 porce, asi 40 sušenek o průměru 6 cm, tedy kolem 10 na porci; zdroj počet kusů neuvádí, kniha tedy dává asi 120 kusů). Množství mléka a koření zdroj nezná, proto 35 ml mléka a 1 g mleté skořice jsou odhad (verified: false); jiné recepty Shrewsbury Biscuits téže knihy (č. 86, 87) uvádějí skořici, muškátový oříšek a mace. Volatile salt (amonium, ¼ oz ≈ 7 g ve zdroji, zde 2 g) je volitelné a nahrazeno kypřicím práškem v poměru k hmotnosti zdroje; bez něj jsou sušenky křehčí a tvrdší, a lze ho klidně vynechat. Zdroj uvádí jen „cool oven“ bez teploty a času: 150 °C a 15 minut na plech jsou odhad, sušenky mají zůstat jen lehce zabarvené na okrajích. Plechy se nemažou, máslo v těstě stačí. Těsto je tuhé: když se drobí, přidej další lžičku mléka. Tip: při trojnásobné dávce vyjde 1 celé vejce.",
+  "source": { "book": "wells-1890", "page": 46, "titleOriginal": "Shrewsbury Biscuits" },
+  "verified": false,
+  "quote": "When the biscuits are a little coloured on the edges they are done."
+}

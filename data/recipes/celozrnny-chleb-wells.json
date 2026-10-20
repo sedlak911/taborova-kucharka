@@ -1,0 +1,84 @@
+{
+  "id": "celozrnny-chleb-wells",
+  "title": "Domácí celozrnný chléb",
+  "titleOriginal": "Home-made Whole Meal Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 240,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "celozrnna-mouka",
+      "amount": 500,
+      "unit": "g",
+      "note": "pšeničná celozrnná, zdroj 1 stone (6,35 kg) „wheat meal“, nejlépe hrubě mletá"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 4,
+      "unit": "g",
+      "note": "zdroj 2 oz kvasnic na 1 stone mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 330,
+      "unit": "ml",
+      "note": "vlažná; asi 17 ml (zdroj 1½ gill) na droždí při 32 °C, zbytek do těsta při 27 °C; zdroj „sufficient“, množství odhad"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "note": "zdroj 2½ oz na 1 stone mouky",
+      "scaling": "linear"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Celozrnnou mouku dej do mísy a uprostřed udělej důlek.",
+      "minutes": 2
+    },
+    {
+      "text": "Rozpusť droždí ve vlažné vodě (asi 32 °C), nalij do důlku a vmíchej tolik mouky, aby vznikla měkká kaše (kvásek).",
+      "minutes": 5
+    },
+    {
+      "text": "Kvásek přikryj a nech kynout, dokud nemá na povrchu pěkný „květákový“ vršek.",
+      "minutes": 45
+    },
+    {
+      "text": "Přidej sůl a dost vlažné vody (asi 27 °C) a lehce smíchej vše v jemné, měkké těsto.",
+      "minutes": 10
+    },
+    {
+      "text": "Těsto přikryj a odstav stranou, dokud nezačne kynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Rozděl těsto na požadované bochníky a dej je do forem dokynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Peč ve středně horké troubě (asi 180 °C) do zlatohněda, až chléb při poklepání na spodek zní dutě.",
+      "minutes": 45
+    }
+  ],
+  "modernNote": "Zdroj je dávka na 1 stone (6,35 kg) celozrnné mouky, zmenšená na domácí bochník z 500 g mouky (faktor 0,0787), který dá asi 800 g chleba, tj. 4 porce po 2 krajících (asi 200 g). Droždí a sůl jsou přepočtené ze zdroje (2 oz a 2½ oz; sůl vychází na 1,1 % z mouky, proto jen 6 g). Zdroj píše jen „sufficient water“ (dost vody) pro těsto: 330 ml celkem (65 % z mouky; z toho 17 ml na droždí a asi 313 ml do těsta) je odhad, proto verified false; dnešní celozrnná mouka bývá jemnější a nasákne méně nebo více, těsto má být měkké a pružné. Gill je imperiální (142 ml), 1½ gill je tedy 213 ml, po přepočtu 17 ml. Zdroj časy neuvádí (kvásek je hotový, až má „květákový“ vršek; těsto se nechá, dokud nezačne kynout; potom kyne ve formách; pečení „v mírné troubě“), proto jsou doby a 180 °C odhad. Wells dodává, že celozrnné mouky nevyžadují tolik hnětení jako jemné bílé: těsto jen lehce smíchej. Teploty 90 a 80 °F jsou 32 a 27 °C. Dnes lze celý postup zrychlit zvýšením droždí, zdroj to ale nedělá.",
+  "source": {
+    "book": "wells-1890",
+    "page": 20,
+    "titleOriginal": "Home-made Whole Meal Bread"
+  },
+  "verified": false
+}

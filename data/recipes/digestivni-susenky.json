@@ -1,0 +1,31 @@
+{
+  "id": "digestivni-susenky",
+  "title": "Digestivní sušenky z celozrnné mouky",
+  "titleOriginal": "Digestive Biscuits",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "celozrnna-mouka", "amount": 250, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear", "note": "studené" },
+    { "ingredientId": "cukr-krystal", "amount": 13, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 0.45, "unit": "ks", "scaling": "linear", "note": "z 4 vajec na 5 lb mouky; v praxi 1 vejce rozšleháš a odlej asi 45 %" },
+    { "ingredientId": "jedla-soda", "amount": 0.78, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 125, "unit": "ml", "scaling": "linear", "note": "studená" }
+  ],
+  "steps": [
+    { "text": "Máslo vpracuj prsty do celozrnné mouky, až vznikne drobenka.", "minutes": 5 },
+    { "text": "Udělej do mouky důlek, přidej cukr a vejce. Sodu rozpusť ve vodě a přilij.", "minutes": 3 },
+    { "text": "Vše dobře promíchej, přidej zbytek mouky z okrajů a zpracuj na těsto.", "minutes": 5 },
+    { "text": "Těsto vyválej na plát silný asi jako mince (2 mm) a vykrajuj malé oválné sušenky.", "minutes": 15 },
+    { "text": "Sušenky ulož na čisté plechy, které nevymazáváš tukem, a peč v mírné troubě na 160 °C do zlatova.", "minutes": 25 }
+  ],
+  "modernNote": "Kniha dává dávku na 5 lb (2,27 kg) celozrnné mouky; přepočteno na asi 250 g mouky, tedy zhruba 18–20 sušenek, 4 až 5 na porci (~330 kcal). Voda se sodou (1 quart = 1 136 ml v originále) je vůči mouce hodně, těsto vyjde měkčí než u dnešních digestivek; při lepení přidej trochu mouky. Zdroj neuvádí dobu ani teplotu pečení, jen „cool oven“ (mírná trouba) – 160 °C a 25 minut je odhad, hlídej zlatavou barvu. Soda (0,78 g, necelá ¼ lžičky, ze ¼ oz originálu) je správný přepočet, ne chyba převodu. Soda nemá v receptu kyselinu a sušenky tedy kynou jen mírně. Varianta č. 70 má kvásek droždím, č. 71 přidává arrowroot.",
+  "source": { "book": "wells-1890", "page": 45, "titleOriginal": "Digestive Biscuits" },
+  "verified": true,
+  "quote": "put on tins well cleaned but not greased, and bake in a cool oven."
+}
