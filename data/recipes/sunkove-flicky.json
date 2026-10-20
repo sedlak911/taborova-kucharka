@@ -1,0 +1,38 @@
+{
+  "id": "sunkove-flicky",
+  "title": "Zapečené šunkové flíčky",
+  "titleOriginal": "Šunkové flíčky zapečené",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "uzene-maso", "amount": 110, "unit": "g", "note": "uzený bůček; zdroj 500 g s kostí, po vykostění 275 g (× 0,4)" },
+    { "ingredientId": "testoviny", "amount": 300, "unit": "g", "note": "velké čtverečky (flíčky), suché" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření těstovin, slije se; domácí hodnota 1 l na 100 g těstovin", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 18, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.46, "unit": "g", "note": "mletý květ" },
+    { "ingredientId": "sadlo", "amount": 65, "unit": "g", "note": "škvařené; část do směsi, část na vymazání pekáče" },
+    { "ingredientId": "mleko-polotucne", "amount": 200, "unit": "ml", "note": "část do směsi, zbytek s vejci" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj 5 ks (200 g)" },
+    { "ingredientId": "strouhanka", "amount": 20, "unit": "g", "note": "strouhaná houska; na vysypání pekáče" }
+  ],
+  "steps": [
+    { "text": "Uzený bůček zalij vodou a uvař do měkka.", "minutes": 45 },
+    { "text": "Mezitím přiveď v hrnci vodu k varu, vsyp těstoviny a za občasného promíchání je uvař do měkka. Odcěď je a propláchni studenou vodou.", "minutes": 20, "parallel": true },
+    { "text": "Uvařený bůček vykostí a maso nakrájej na drobné kostičky.", "minutes": 5 },
+    { "text": "Do těstovin přidej maso, sůl, pepř a mletý květ. Přidej část sádla a část mléka a směs promíchej.", "minutes": 3 },
+    { "text": "Pekáč vymaž sádlem a vysyp strouhankou. Směs v něm rozlož.", "minutes": 3 },
+    { "text": "Vlož flíčky do rozehřáté trouby (asi 200 °C) a zapékej.", "minutes": 15 },
+    { "text": "Zalij je vejci rozmíchanými ve zbývajícím mléce a peč, až se vejce srazí a povrch zezlátne.", "minutes": 25 },
+    { "text": "Porcuj a podávej s kyselou okurkou nebo zeleninovým salátem." }
+  ],
+  "modernNote": "Kniha počítá 10 porcí po 260 g (hotový výrobek 2 600 g); 4 porce jsou × 0,4. Bůček je uzený s kostí (hrubá 500 g, po vykostění 275 g): do receptu je vykostěné maso (110 g), protože katalogové uzené maso je bez kosti. Jídelní norma masa je nízká (asi 28 g na porci); jako hlavní jídlo počítej 120–150 g uzeného masa na osobu. Sůl 18 g (4,5 g na porci) je ze zdroje (40 g na 10 porcí) a uzené maso solí také, proto sůl sniž na polovinu a ochutnej. Voda na těstoviny a na vaření masa je domácí hodnota; zdroj neuvádí, kolik sádla jde do směsi a kolik na pekáč. Strouhaná houska = strouhanka. Zdroj neuvádí teplotu ani doby zapékání; 200 °C a časy jsou odhad.",
+  "source": { "book": "receptury-1983", "page": 230, "code": "13405", "titleOriginal": "ŠUNKOVÉ FLÍČKY ZAPEČENÉ" },
+  "verified": true
+}

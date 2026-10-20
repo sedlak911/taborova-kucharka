@@ -1,0 +1,41 @@
+{
+  "id": "kolosvarske-zeli",
+  "title": "Kološvárské zelí",
+  "titleOriginal": "Kološvárské zelí skládané",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    { "ingredientId": "veprova-plec", "amount": 240, "unit": "g", "note": "bez kosti, nechat umlít nahrubo" },
+    { "ingredientId": "parky", "amount": 160, "unit": "g", "note": "jemné" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 70, "unit": "g", "note": "z 200 g hrubé × 0,9 (zdroj 80 g hrubé na 4 porce); aplikace odpad neodečítá" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené; čtvrtina na rýži, zbytek na cibuli" },
+    { "ingredientId": "ryze-bila", "amount": 120, "unit": "g", "note": "suchá; kniha počítá 300 g suché = 600 g udušené" },
+    { "ingredientId": "kysele-zeli", "amount": 600, "unit": "g", "note": "kysané; je-li příliš kyselé nebo slané, propláchnout vodou" },
+    { "ingredientId": "smetana-na-vareni", "amount": 40, "unit": "g", "note": "12 %" },
+    { "ingredientId": "sladka-paprika", "amount": 9, "unit": "g", "note": "mletá" },
+    { "ingredientId": "rajce", "amount": 75, "unit": "g", "note": "na ozdobu; z 200 g hrubé × 0,91 (zdroj 80 g hrubé na 4 porce)" },
+    { "ingredientId": "paprika-zelena", "amount": 100, "unit": "g", "note": "lusky na ozdobu; z 300 g hrubé × 0,82 (zdroj 120 g hrubé na 4 porce)" }
+  ],
+  "steps": [
+    { "text": "Rýži opláchni, osmahni ji na čtvrtině sádla, podlij vodou podle potřeby a duš do měkka.", "minutes": 20 },
+    { "text": "Mezitím maso osol, opepři a smíchej s polovinou syrové nastrouhané cibule.", "minutes": 5, "parallel": true },
+    { "text": "Rýži nech vychladnout a vmíchej ji do masa.", "minutes": 10 },
+    { "text": "Zbylou cibuli nakrájej nadrobno a na zbylém sádle osmahni do růžova. Smíchej ji s překrájeným zelím.", "minutes": 10 },
+    { "text": "Párky nakrájej na tenké plátky. Do kastrolu urovnej po dně polovinu zelí s cibulí, navrstvi směs masa s rýží, posyp plátky párků a navrch dej zbylé zelí.", "minutes": 10 },
+    { "text": "Smetanu zamíchej s mletou paprikou a zalij jí navrstvené suroviny.", "minutes": 3 },
+    { "text": "Přikryj poklicí a duš v troubě nejméně 3/4 hodiny.", "minutes": 45 },
+    { "text": "Zatímco se zelí dusí, nakrájej rajčata na tenké plátky a zelenou papriku nadrobno.", "minutes": 5, "parallel": true },
+    { "text": "Porce ozdob plátky rajčat a nakrájenou zelenou paprikou." }
+  ],
+  "modernNote": "Kniha: 10 porcí po 320 g, tj. hotový výrobek 3 200 g; zde přepočteno na 4 porce (k = 0,4). Voda na dušení rýže je ve zdroji „podle potřeby“, proto nemá řádek. Kniha doporučuje do receptury 600 g masa na 10 porcí (60 g na porci, jídelní norma); jako hlavní jídlo počítej 120–150 g masa na osobu (tj. 500–600 g na 4 porce, ostatní suroviny nech). Doba dušení v troubě je ze zdroje (nejméně 3/4 hodiny); teplotu kniha neuvádí, počítej s asi 180 °C. Zdroj má na 4 porce hodně sádla (90 g) a soli (14 g, tj. 3,5 g na porci; nález check:recipe ponechán jako ve zdroji); chceš-li jemnější, začni polovinou a dochutíš. Zkvašené zelí a párky jsou samy slané. Příloha podle knihy: různě upravené brambory.",
+  "source": { "book": "receptury-1983", "page": 288, "code": "15307", "titleOriginal": "KOLOŠVÁRSKÉ ZELÍ SKLÁDANÉ" },
+  "verified": true
+}

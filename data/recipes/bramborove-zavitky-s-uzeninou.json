@@ -1,0 +1,39 @@
+{
+  "id": "bramborove-zavitky-s-uzeninou",
+  "title": "Bramborové závitky s uzeninou",
+  "titleOriginal": "Zemčatové závitky s uzeninou",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 3,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 6, "unit": "ks", "note": "vařené a vychladlé; zdroj „asi šest zemčat“" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "celá" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "do těsta, odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 150, "unit": "g", "note": "do vláčného, ale tuhého těsta, odhad" },
+    { "ingredientId": "uzene-maso", "amount": 280, "unit": "g", "note": "zdroj půl libry (280 g)" },
+    { "ingredientId": "cibule", "amount": 1, "unit": "ks", "note": "jedna drobně nasekaná, odhad 100 g" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "note": "na smažení cibule, odhad" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "note": "trochu nasekané, odhad" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "na vymazání pekáče, potření závitků a pomazání po vrchu, odhad" },
+    { "ingredientId": "mleko-polotucne", "amount": 100, "unit": "ml", "note": "na podlití, „troška“ ve zdroji, odhad" }
+  ],
+  "steps": [
+    { "text": "Uzené maso uvař v hrnci s vodou doměkka, vyndej a nasekej.", "minutes": 45 },
+    { "text": "Vařené vychladlé oloupané brambory nastrouhej, vraz k nim celá vejce, osol a přimíchej tolik mouky, aby vzniklo vláčné, ale tuhé těsto.", "minutes": 15, "parallel": true },
+    { "text": "Cibuli drobně nasekej a na másle usmaž do zlatova.", "minutes": 8 },
+    { "text": "K cibuli přidej nasekané uzené maso a nasekanou zelenou petržel a dobře smíchej.", "minutes": 3 },
+    { "text": "Z těsta udělej stejné kuličky velké asi jako brambor a rozválej je válečkem na tenké placičky.", "minutes": 10 },
+    { "text": "Na každou placičku dej asi lžíci uzené nádivky a zaviň ji jako štrúdlík.", "minutes": 10 },
+    { "text": "Závitky klaď na máslem vymazaný pekáč, každou potři po stranách hodně máslem, aby se při vyndávání od sebe oddělovaly.", "minutes": 5 },
+    { "text": "Podlij troškou mléka a pomaž po vrchu rozpuštěným máslem.", "minutes": 2 },
+    { "text": "Závitky nech v troubě upéct do zlatova při 200 °C.", "minutes": 35 }
+  ],
+  "modernNote": "Zdroj neudává počet porcí ani dobu pečení; recept beru celý jako 4 porce (6 brambor ≈ 720 g syrových, půl libry = 280 g uzeného masa, asi 12 závitků po 3 na osobu). Množství mouky, soli, másla, cibule, petržele a mléka jsou odhady. Doba vaření uzeného masa (45 minut) a pečení (35 minut při 200 °C) jsou odhady z praxe. Uzeniny je na porci jen 70 g (zdroj), jako hlavní jídlo klidně přidej na 100–120 g. Brambory uvař ve slupce dopředu (nejlépe den předem) a nech vychladnout.",
+  "source": { "book": "rettigova-1868", "page": 175, "titleOriginal": "Zemčatové závitky s uzeninou" },
+  "verified": false,
+  "quote": "zaviň je jako štrudličky a klaď je na máslem vymazaný kastrol nebo na pekáč"
+}

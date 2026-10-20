@@ -1,0 +1,34 @@
+{
+  "id": "mexicka-ryze",
+  "title": "Mexická rýže",
+  "titleOriginal": "Mexican Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 155, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "repkovy-olej", "amount": 25, "unit": "g", "note": "na obalení rýže; zůstane v jídle" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "rajcata-konzervovana", "amount": 90, "unit": "g", "note": "kostky, scezená" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "kmin-mlety", "amount": 2, "unit": "g" },
+    { "ingredientId": "voda", "amount": 380, "unit": "ml", "note": "studená; drž poměr zdroje 2,5 : 1 k rýži" }
+  ],
+  "steps": [
+    { "text": "Rýži, olej a nakrájenou cibuli dej do pekáče a dobře promíchej, aby se rýže obalila.", "minutes": 3 },
+    { "text": "Pekáč vlož do trouby vyhřáté na 200 °C a opékej asi 25 minut, dokud rýže lehce nezhnědne.", "minutes": 25 },
+    { "text": "Zatímco se rýže peče, smíchej scezená rajčata, sůl, pepř, kmín a vodu.", "minutes": 3, "parallel": true },
+    { "text": "Rýži zalij směsí z rajčat a dobře promíchej. Přikryj a zapékej v troubě na 200 °C asi 60 minut, dokud rýže nezměkne.", "minutes": 60 },
+    { "text": "Lehce promíchej." }
+  ],
+  "modernNote": "Porce odpovídá armádní příloze 3/4 hrnku (cca 177 ml) z dávky pro 100 porcí (dva pekáče). Jako hlavní jídlo počítej 60–90 g suché rýže na osobu. Na plotně (podle poznámky ke kartě): rýži lehce osmahni na pánvi s olejem a cibulí, přidej směs z rajčat a vař pod pokličkou, dokud rýže nezměkne. Sůl, pepř a kmín lze dochutit podle chuti.",
+  "source": { "book": "afrs-2003", "page": 315, "code": "E 011 00", "titleOriginal": "MEXICAN RICE" },
+  "verified": true,
+  "quote": "Stir well to coat rice."
+}

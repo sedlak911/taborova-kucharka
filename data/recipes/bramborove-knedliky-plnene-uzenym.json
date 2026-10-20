@@ -1,0 +1,43 @@
+{
+  "id": "bramborove-knedliky-plnene-uzenym",
+  "title": "Bramborové knedlíky plněné uzeným masem",
+  "titleOriginal": "Bramborové knedlíky plněné uzeným masem",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 115,
+  "difficulty": 3,
+  "tags": ["levne"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "uzene-maso", "amount": 110, "unit": "g", "note": "uzený vepřový bůček po vykostění (z 200 g hrubé s kostí)", "group": "Náplň" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření brambor ve slupce, slije se; domácí hodnota", "scaling": "vessel", "group": "Těsto" },
+    { "ingredientId": "brambory", "amount": 800, "unit": "g", "note": "vařené ve slupce, oloupané, umleté; z 1000 g hrubé × 0,8", "group": "Těsto" },
+    { "ingredientId": "hruba-mouka", "amount": 160, "unit": "g", "note": "prosátá", "group": "Těsto" },
+    { "ingredientId": "krupice-psenicna", "amount": 60, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks na 10 porcí; rozšlehej 1 vejce a použij asi 2/5", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "note": "část z 14 g přepočtených ze zdroje", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "na vyválení", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "na vaření knedlíků, osolená, slije se; domácí hodnota", "scaling": "vessel", "group": "Vaření" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "do vody na vaření, slije se; zbytek z 14 g přepočtených ze zdroje", "scaling": "vessel", "group": "Vaření" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené, na cibulku a maštění", "group": "Cibulka" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "z 250 g hrubé × 0,9; nakrájená", "group": "Cibulka" }
+  ],
+  "steps": [
+    { "text": "Uzený bůček uvař do měkka, vykošti a nakrájej na drobné kostičky.", "minutes": 45 },
+    { "text": "Mezitím uvař brambory ve slupce ve vodě, aby byly ponořené.", "minutes": 30, "parallel": true },
+    { "text": "Brambory oloupej, nech vychladnout a umelj je.", "minutes": 15 },
+    { "text": "K umletým bramborám přidej prosátou mouku, krupici, vejce a sůl a zpracuj tuhé těsto.", "minutes": 10 },
+    { "text": "Těsto rozválej na plát vysoký 5 mm a nakrájej na čtverce, 4 na porci (16 kusů). Na vyválení použij hladkou mouku.", "minutes": 12 },
+    { "text": "Do středu každého čtverce dej nakrájené maso a sbal knedlíky.", "minutes": 15 },
+    { "text": "Mezitím přiveď k varu osolenou vodu na knedlíky.", "minutes": 10, "parallel": true },
+    { "text": "Knedlíky zavař do vroucí vody a vař asi 10–12 minut.", "minutes": 12 },
+    { "text": "Mezitím na sádle usmaž nakrájenou cibuli do zlatova.", "minutes": 8, "parallel": true },
+    { "text": "Vařené knedlíky vyjmi děrovanou naběračkou a podávej přelité cibulkou se sádlem." }
+  ],
+  "modernNote": "Kniha počítá 4 knedlíky (290 g včetně sádla a cibulky) na porci; 4 porce = 16 knedlíků. Hrubá mouka je v katalogu samostatná; může se použít polohrubá. Brambory a cibule jsou přepočtené z hrubé hmotnosti × jedlá část katalogu (kniha počítá odpad 30 % u brambor, katalog 20 %). U uzeného bůčku je uvedena hmotnost po vykostění; doba vaření bůčku není ve zdroji, odhad 45 minut. Zdroj uvádí 30 g soli na 10 porcí (14 g na 4) a vaření v osolené vodě; sůl rozdělena na těsto (10 g) a vodu (4 g). Vodu na vaření brambor a knedlíků (domácí hodnoty) slij. Vejce 1 ks na 10 porcí je v přepočtu 0,4 ks. Maso 28 g na porci odpovídá normě knihy (110 g po vykostění na 4 porce); jako hlavní jídlo počítej 120–150 g masa na osobu. Vhodná příloha: kysané nebo hlávkové zelí.",
+  "source": { "book": "receptury-1983", "page": 232, "code": "13409", "titleOriginal": "BRAMBOROVÉ KNEDLÍKY PLNĚNÉ UZENÝM MASEM" },
+  "verified": true,
+  "quote": "Bramborové knedlíky jsou plněné drobně nakrájeným uzeným masem."
+}

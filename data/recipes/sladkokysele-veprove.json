@@ -1,0 +1,127 @@
+{
+  "id": "sladkokysele-veprove",
+  "title": "Sladkokyselé vepřové",
+  "titleOriginal": "Sweet and Sour Pork",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "rychle"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "soja",
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "klicky-mungo",
+      "amount": 240,
+      "unit": "g",
+      "note": "z konzervy, vč. nálevu"
+    },
+    {
+      "ingredientId": "ananas-konzervovany",
+      "amount": 120,
+      "unit": "g",
+      "note": "kousky, vč. šťávy z konzervy"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 65,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 55,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sojova-omacka",
+      "amount": 11,
+      "unit": "ml",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "zazvor-mlety",
+      "amount": 1,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.23,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "veprova-kyta",
+      "amount": 580,
+      "unit": "g",
+      "note": "syrová, na kostky"
+    },
+    {
+      "ingredientId": "kukuricny-skrob",
+      "amount": 17,
+      "unit": "g",
+      "note": "rozmíchej ve vodě"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 75,
+      "unit": "ml",
+      "note": "na rozmíchání škrobu"
+    },
+    {
+      "ingredientId": "paprika-zelena",
+      "amount": 75,
+      "unit": "g",
+      "note": "nakrájená na tenké proužky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Klíčky a ananas scedi; nálev ponech.",
+      "minutes": 2
+    },
+    {
+      "text": "Smíchej nálev, cukr, ocet, sójovou omáčku, zázvor a česnek. Dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Vepřové kostky vař v hrnci asi 10 minut, až změknou. Nepřevař.",
+      "minutes": 10
+    },
+    {
+      "text": "Přidej směs se sójovou omáčkou, přiveď k varu, sniž teplotu a duš 3 minuty.",
+      "minutes": 6
+    },
+    {
+      "text": "Kukuřičný škrob rozmíchej ve vodě do hladka. Přidej k masu, přiveď k varu a za stálého míchání duš 5 minut, až omáčka zhoustne.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidej papriku, ananas a klíčky. Přiveď k varu, sniž teplotu a vař 5 minut.",
+      "minutes": 8
+    },
+    {
+      "text": "Podávej s dušenou rýží."
+    }
+  ],
+  "modernNote": "Přepočteno z AFRS karty L 082 00 (100 porcí, 1 cup na porci) na 4 porce. Ananas a klíčky jsou v kartě uvedeny vč. nálevu (incl liquids); Reserved liquid 7-5/8 lb je tedy již v jejich hmotnosti, proto se nepřidává zvlášť (jinak by se nálev počítal dvakrát). Karta nespecifikuje řez masa („pork cubes“): zvolena vepřová kýta jako nejlibovější dostupný řez (karta má relativně málo tuku; kcal 388 vs. 348 v kartě, +11 %). Karta neuvádí počet kusů ani porcí, jen 1 cup. Sůl ve zdroji není, jen to, co je v sójové omáčce. Kroky CCP (145 °F, držení 140 °F) vynechány.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 838,
+    "code": "L 082 00",
+    "titleOriginal": "SWEET AND SOUR PORK"
+  },
+  "verified": true,
+  "quote": "Cook pork in steam-jacketed kettle or stock pot about 10 minutes or until tender. DO NOT OVERCOOK."
+}

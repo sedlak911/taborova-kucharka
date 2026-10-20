@@ -1,0 +1,32 @@
+{
+  "id": "veprovy-rizek-prirodni",
+  "title": "Vepřový řízek přírodní",
+  "titleOriginal": "Vepřový řízek přírodní",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "veprova-kyta", "amount": 400, "unit": "g", "note": "z kýty (ořechu), kuchyňsky upravená", "group": "Řízky" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "část na osolení masa, zbytek do šťávy podle chuti", "group": "Řízky" },
+    { "ingredientId": "repkovy-olej", "amount": 45, "unit": "g", "note": "stolní olej na opečení", "group": "Řízky" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "scaling": "linear", "note": "moučné máslo (zdroj receptura 19977): máslo", "group": "Šťáva" },
+    { "ingredientId": "hladka-mouka", "amount": 9, "unit": "g", "note": "moučné máslo: prosátá hladká mouka", "group": "Šťáva" },
+    { "ingredientId": "hovezi-vyvar", "amount": 120, "unit": "ml", "note": "zdroj vývar B, receptura 10101", "group": "Šťáva" }
+  ],
+  "steps": [
+    { "text": "Z vepřové kýty nakrájej přes vlákno tenčí řezy. Mírně je naklepej, okrajové blány s tukem krátce nařízni a maso osol.", "minutes": 8 },
+    { "text": "Na pánvi rozehřej olej a řízky rychle opékej po obou stranách. Vyjmi je z pánve.", "minutes": 10 },
+    { "text": "Na pánev od opékání přidej moučné máslo (máslo smíchané s hladkou moukou) a mírně je osmahni.", "minutes": 3 },
+    { "text": "Zastříkni vývarem, pečlivě rozmíchej, krátce povař a šťávu podle potřeby dosol.", "minutes": 5 },
+    { "text": "Řízky vrať do hotové šťávy a velmi krátce prohřej.", "minutes": 2 },
+    { "text": "Podávej s bramborami, rýží nebo zeleninovým salátem." }
+  ],
+  "modernNote": "Zdroj: receptura 13623, dávka 10 porcí (1 porce 100 g, z toho 65 g masa a šťáva; hotový výrobek 1 000 g z 1 550 g hrubé hmotnosti). Pro 4 porce: 400 g hotového jídla, tj. 400 g masa na 4 porce (100 g syrového masa na porci, po opečení asi 65 g). Moučné máslo (receptura 19977) je polotovar z 1 000 g másla a 220 g hladké mouky; 120 g dávky zdroje je rozepsáno na máslo a hladkou mouku (po přepočtu 40 g a 9 g); smíchej je předem. Vývar B (receptura 10101) je hovezi-vyvar. Čas není ve zdroji, doby kroků jsou odhad z praxe. Sůl: zdroj dává 30 g na 10 porcí, tj. asi 3,5 g na porci (nález check:recipe „mimo rozsah“ odpovídá zdroji); dej polovinu na maso, šťávu dosol podle chuti. Olej zůstává ve šťávě, proto třída tuk. Jídelní norma masa je 65 g na porci; jako hlavní jídlo počítej 120–150 g masa na osobu. Příloha není součástí receptu.",
+  "source": { "book": "receptury-1983", "page": 250, "code": "13623", "titleOriginal": "VEPŘOVÝ ŘÍZEK PŘÍRODNÍ" },
+  "verified": true
+}

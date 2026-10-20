@@ -1,0 +1,34 @@
+{
+  "id": "kurata-s-ryzi",
+  "title": "Kuřata s rýží",
+  "titleOriginal": "Kuřata s rejží",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 1200, "unit": "g", "note": "mladé kuře, rozkrájené na kusy" },
+    { "ingredientId": "hovezi-vyvar", "amount": 700, "unit": "ml", "note": "na uvaření kuřete" },
+    { "ingredientId": "ryze-bila", "amount": 160, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "hovezi-vyvar", "amount": 400, "unit": "ml", "note": "na uvaření rýže" },
+    { "ingredientId": "zloutek", "amount": 3, "unit": "ks" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "čerstvé, kousek" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.35, "unit": "g", "note": "květ (muškátový květ, mace), mletý" },
+    { "ingredientId": "hovezi-vyvar", "amount": 50, "unit": "ml", "note": "do zálivky ze žloutků" }
+  ],
+  "steps": [
+    { "text": "Kuře rozkrájej na kusy, zalij vývarem na kuře a vař do měkka pod pokličkou.", "minutes": 60 },
+    { "text": "Mezitím rýži přeber, propírej ji nejprve ve studené vodě, potom asi ve třech vařících vodách a vždy scedi.", "minutes": 8, "parallel": true },
+    { "text": "Rýži zalij vývarem na rýži a vař do měkka, aby zůstala celá.", "minutes": 18, "parallel": true },
+    { "text": "Do hrnečku dej žloutky, máslo a květ a rozmíchej se zbylým vývarem.", "minutes": 3, "parallel": true },
+    { "text": "Zálivku vlej na uvařenou rýži a zlehka promíchej.", "minutes": 2 },
+    { "text": "Na mísu dej dospodu uvařené kuře, navrch rýži. Podávej.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj nemá množství ani počet porcí; odhad pro 4 porce: celé kuře 1,2 kg s kostmi (kuřátka v knize jsou mladá), 160 g suché rýže, 3 žloutky a kousek másla (25 g). Zdroj píše jen „uvařená kuřátka“ a odkazuje na předchozí recepty (kuřata se vaří v hovězí polévce), proto je kuře vařené v hovězím vývaru (700 ml, ponech si ho jako polévku); samotné vaření kuřete recept 8 nepopisuje. Rýže se vaří přímo ve vývaru, který se do ní vsákne (400 ml na 160 g). Květ je muškátový květ (mace); v katalogu je jako muskatovy-orisek. Doby vaření zdroj neuvádí, jsou odhadnuté (kuře 60 min, rýže 18 min).",
+  "source": { "book": "rettigova-1868", "page": 104, "titleOriginal": "Kuřata s rejží" },
+  "verified": false,
+  "quote": "Dej na mísu uvařená kuřátka vezpod, rejži na vrch a nes to na tabuli."
+}
