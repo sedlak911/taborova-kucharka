@@ -1,0 +1,154 @@
+{
+  "id": "lacine-rohlicky-ke-kave",
+  "title": "Laciné rohlíčky ke kávě",
+  "titleOriginal": "Dobré a laciné rohlíčky ku kávě",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 180,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 220,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "dva žejdlíky ze zdroje (2 × 185 g, objemová míra 0,35 l, odhad) × 0,6; z toho dobrá hrst do másla"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 85,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "čtvrt libry čerstvého másla ze zdroje (140 g) × 0,6; do máselné placky"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 105,
+      "unit": "ml",
+      "note": "vlažné; půl žejdlíku ze zdroje (175 ml) × 0,6"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 12,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kousek převařeného (rozpuštěného) másla velký jako půl vejce ze zdroje (odhad 20 g) × 0,6; do mléka"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1.2,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "dva žloutky ze zdroje × 0,6; zbylé bílky na potření"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 16,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "půl druhého lotu lisovaných kvasnic ze zdroje (26 g) × 0,6"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 2,
+      "unit": "g",
+      "note": "kůra z půl citronu (odhad 3 g) × 0,6, nadrobno nakrájená"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "lžíce cukru ze zdroje (odhad 12 g) × 0,6"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kávová lžička soli ze zdroje (odhad 5 g) × 0,6"
+    },
+    {
+      "ingredientId": "bilek",
+      "amount": 1.2,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "ušlehaný sníh z bílků na potření (zdroj: „z těch dvou bílků“ × 0,6)"
+    },
+    {
+      "ingredientId": "mak",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "na posypání; množství zdroj neuvádí, odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Dobrou hrst mouky vpracuj zlehka do másla (čtvrt libry v původní dávce).",
+      "minutes": 5
+    },
+    {
+      "text": "Máslo s moukou rukou rozplácni na kulatý koláček, vlož ho mezi dva talíře a postav do chladu.",
+      "minutes": 2
+    },
+    {
+      "text": "Mezitím v teplém mléku rozpusť kousek převařeného másla, přidej žloutky, rozdělané droždí, nadrobno nakrájenou citronovou kůru, cukr a sůl a dobře rozmíchej.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Zbytek mouky dej do mísy, zadělej ji mléčnou směsí na hezky tuhé těsto (je-li řídké, přidej trochu mouky) a zpracuj.",
+      "minutes": 8
+    },
+    {
+      "text": "Těsto přikryj a nech na teplém místě náležitě vykynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Těsto vyklop na vál posypaný moukou, rozválej, doprostřed vlož máselnou placku, obal ji těstem a rozválej tence. Přelož na tři díly jako máslové těsto, znovu rozválej a přelož; celé to opakuj třikrát.",
+      "minutes": 25
+    },
+    {
+      "text": "Po třetím složení nech těsto na vále přikryté mísou znovu vykynout.",
+      "minutes": 30
+    },
+    {
+      "text": "Těsto rozválej na silnější plát (asi 5 mm), nakrájej z něj pruhy široké 8 cm a z nich samé trojúhelníky. Každý stoč od široké strany nahoru, růžky ohni do rohlíčku a polož na vymaštěný plech.",
+      "minutes": 20
+    },
+    {
+      "text": "Mezitím předehřej troubu na 200 °C.",
+      "parallel": true
+    },
+    {
+      "text": "Rohlíčky potři ušlehaným sněhem z bílků a posyp mákem.",
+      "minutes": 3
+    },
+    {
+      "text": "Rohlíčky peč v troubě do zlatova, asi 20 minut.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Dávka je zmenšená na 0,6 původní: dva žejdlíky mouky dají asi 26 malých rohlíčků po cca 30 g, zmenšená dávka asi 16, tedy 4 na porci (kniha počet kusů ani porcí neuvádí, proto bez originalYield a verified: false). Staré míry: žejdlík ≈ 0,35 l, objemem odměřené mouky asi 185 g (při 125 g na žejdlík by z mouky, mléka a žloutků vyšlo řídké těsto, zdroj ale chce „hezky tuhé“), čtvrt libry másla 140 g, lot 17,5 g, půl žejdlíku mléka 175 ml; množství soli, cukru, citronové kůry, převařeného másla a máku jsou odhad. Kdyby bylo těsto řídké, přidej trochu mouky, jak radí zdroj. Doba prvního kynutí (kniha: „náležitě“), druhého kynutí, tloušťka plátu („na stéblo tlustě“), teplota 200 °C a doba pečení („pěkně upect“) jsou odhad. Kvasnice nahrazuje čerstvé droždí. Vejce vyšla zlomkem (1,2 žloutku a 1,2 bílku): v praxi vezmi 1 žloutek do těsta a bílek s trochou zbylého žloutku použij na potření.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 362,
+    "titleOriginal": "Dobré a laciné rohlíčky ku kávě"
+  },
+  "verified": false,
+  "quote": "Odměř si dva žejdlíky mouky na misku, odeber od ní dobrou hrst na vál a vpracuj ji zlehka do čtvrt libry čerstvého pěkného másla"
+}

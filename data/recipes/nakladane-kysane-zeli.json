@@ -1,0 +1,31 @@
+{
+  "id": "nakladane-kysane-zeli",
+  "title": "Domácí kysané zelí",
+  "titleOriginal": "Jak se zelí nakládá",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa", "pripravit-predem"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "bile-zeli", "amount": 600, "unit": "g", "note": "očištěné, bez vrchních ovadlých listů a košťálu (z asi 750 g hlávky); pár celých vnějších listů navíc na přikrytí" },
+    { "ingredientId": "sul", "amount": 12, "unit": "g", "note": "nejlépe nejodovaná" },
+    { "ingredientId": "kmin-cely", "amount": 2, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Z hlávek oberi vrchní ovadlé listy a vyřízni košťály. Dva tři pěkné celé listy odlož na přikrytí.", "minutes": 10 },
+    { "text": "Zelí nakrájej nebo nastrouhej na tenké nudličky a dej ho do velké čisté mísy.", "minutes": 10 },
+    { "text": "Přisyp sůl a kmín a zelí rukama důkladně prohněť, až pustí šťávu.", "minutes": 10 },
+    { "text": "Dno čisté kameninové nádoby, dřevěného sudu nebo velké sklenice vylož zelným listem. Zelí vkládej po vrstvách a každou vrstvu pěchuj dřevěným tloukem, až je zelí ponořené ve vlastní šťávě.", "minutes": 10 },
+    { "text": "Povrch zakryj zelným listem, přikryj čistou utěrkou, polož talířek nebo kulaté víčko a zatěž ho čistým kamenem nebo plnou sklenicí vody." },
+    { "text": "Nádobu postav do tepla a nech v klidu kysat asi 14 dní. Zelí musí zůstat celé pod šťávou. Vzniklou pěnu sbírej čistou utěrkou a okraj nádoby otři." },
+    { "text": "Vykvašené zelí přendej do chladu a odebírej podle potřeby shora. Znovu ho přikryj a zatěž. Kdyby osychalo, dolij studenou osolenou vodou." },
+    { "text": "Podávej syrové nebo uvařené jako přílohu." }
+  ],
+  "modernNote": "Kniha nakládá celé kopy hlávek (kopa = 60 kusů) do soudku, na to udává půl druhé libry soli (asi 840 g) a půl žejdlíku kmínu (asi 175 ml); to je dávka pro celou domácnost na zimu. Zmenšeno na 600 g očištěného zelí (stačí do litrové sklenice), což dá 4 porce přílohy po 150 g; sůl je 2 % hmotnosti zelí, běžný dnešní poměr, který zelí spolehlivě zkvasí (kniha při kopě velkých hlávek, odhadem 120–180 kg zelí, dává jen asi 0,5–0,7 % soli a kmínu ještě poměrně méně; slabší solení je rizikovější, proto moderní poměr), kmín odpovídá obvyklé dávce. Recept se nevaří, proto nemá žádné vybavení (stačí nádoba a zatížení); nízká energetická hodnota porce (asi 40 kcal) je u kysaného zelí jako přílohy očekávaná. Sůl (asi 3 g na porci) částečně zůstává ve šťávě; chceš-li méně slané, zelí před podáváním krátce propláchni. Množství je odhad (kniha porce neuvádí). Kvašení trvá podle knihy asi 14 dní a do timeMinutes ani do časů kroků se nepočítá, proto tag pripravit-predem. Moderně pěchuj v zavařovací sklenici nebo kameninové nádobě a nepoužívej kov. Doba kvašení závisí na teplotě v místnosti (18–22 °C je ideální), po 5 dnech můžeš zelí ochutnat.",
+  "source": { "book": "rettigova-1868", "page": 475, "titleOriginal": "Jak se zelí nakládá" },
+  "verified": false,
+  "quote": "Nejdříve si připrav soudek buď od vína neb od octa, anebo jinou nádobu z tvrdého dříví"
+}

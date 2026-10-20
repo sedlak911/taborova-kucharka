@@ -1,0 +1,32 @@
+{
+  "id": "nudle-s-tvarohem-a-slaninou",
+  "title": "Nudle s tvarohem a slaninou",
+  "titleOriginal": "Nudle s tvarohem a slaninou",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["levne", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "testoviny", "amount": 540, "unit": "g", "note": "široké nudle, suché; zdroj 1350 g hrubá (uvařené 3240 g)" },
+    { "ingredientId": "voda", "amount": 5500, "unit": "ml", "note": "na vaření a propláchnutí nudlí, slije se; domácí hodnota 1 l na 100 g těstovin", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 8, "unit": "g", "note": "do vody na vaření, slije se; zdroj 20 g × 0,4", "scaling": "vessel" },
+    { "ingredientId": "spek", "amount": 120, "unit": "g", "note": "slanina s kůží, z 300 g hrubé" },
+    { "ingredientId": "tvaroh", "amount": 160, "unit": "g", "note": "tvrdý, na jemné strouhání" }
+  ],
+  "steps": [
+    { "text": "Vodu s mírným množstvím soli přiveď ve velkém hrnci k varu.", "minutes": 15 },
+    { "text": "Mezitím nakrájej slaninu na drobné kostičky a na pánvi ji částečně rozpusť. Rozděl na třetinu a dvě třetiny.", "minutes": 8, "parallel": true },
+    { "text": "Nudle vsyp do vařící vody a uvař do měkka.", "minutes": 10 },
+    { "text": "Nudle vyjmi, pečlivě propláchni a nech okapat.", "minutes": 3 },
+    { "text": "Okapané nudle promasti třetinou slaniny.", "minutes": 2 },
+    { "text": "Tvaroh jemně nastrouhej.", "minutes": 3 },
+    { "text": "Nudle posyp tvarohem a přelij zbylými dvěma třetinami částečně roztavené slaniny.", "minutes": 2 }
+  ],
+  "modernNote": "Porce 380 g včetně tvarohu a slaniny odpovídá hlavnímu jídlu. Zdrojový text zmiňuje i posypání cukrem, v tabulce surovin ale cukr není, proto ho recept neuvádí; podle chuti lze nudle lehce posypat cukrem. Sůl ze zdroje (20 g na 10 porcí) je přepočtena × 0,4 a patří do vařící vody, slije se. Slanina je v tabulce s kůží (hrubá 300 g, čistá 285 g); kůži lze odříznout. Nález bilance (205 g vs. 380 g) je očekávaný: suché nudle při vaření nasákají vodu (zdroj 1350 g → 3240 g uvařených), uvařené nudle, slanina a tvaroh dávají asi 390 g na porci. Doba vaření nudlí ve zdroji není, 10 minut je odhad.",
+  "source": { "book": "receptury-1983", "page": 557, "code": "19619", "titleOriginal": "NUDLE S TVAROHEM A SLANINOU" },
+  "verified": true
+}

@@ -1,0 +1,103 @@
+{
+  "id": "fazole-nakyselo",
+  "title": "Fazole na kyselo",
+  "titleOriginal": "Fazole na kyselo",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 15,
+  "timeMinutes": 110,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "fazole-suche",
+      "amount": 270,
+      "unit": "g",
+      "note": "bílé, přebrané; namočené a uvařené ve vodě z namáčení; zdroj 1 000 g na 10 porcí hlavního jídla"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 400,
+      "unit": "ml",
+      "note": "na namáčení a vaření, vsákne se do fazolí; dopočteno z přírůstku hmotnosti (čistá 2 500 g z 1 000 g fazolí)"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 24,
+      "unit": "g",
+      "note": "z 26,7 g hrubé × 0,9; nadrobno"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "na osmažení cibule",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 60,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "ze zdroje 30 g × 4/15"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.33,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 15,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 80,
+      "unit": "ml",
+      "note": "Vývar B, receptura č. 10101"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Přebrané bílé fazole dobře opláchni, zalij studenou vodou a nech namáčet nejméně 3–4 hodiny."
+    },
+    {
+      "text": "Nabobtnalé fazole vař zvolna do měkka v té vodě, v níž se máčely. Voda má fazole jen zakrývat, případně dolij.",
+      "minutes": 90
+    },
+    {
+      "text": "Mezitím na másle osmaž nadrobno nakrájenou cibuli.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Do uvařených fazolí přidej osmaženou cibuli, sůl, pepř, ocet a vývar a společně převař.",
+      "minutes": 10
+    },
+    {
+      "text": "Podávej na teplém talíři, třeba s kyselými okurkami nebo zeleninovým salátem."
+    }
+  ],
+  "modernNote": "Receptura 19918 je jen odkaz: na přílohu se podává 200 g (dvě třetiny porce) fazolí podle receptury 19304 na str. 521 (PDF 488). Dávka 19304 dává 3 000 g, tedy 15 příloh po 200 g (originalYield 15 místo 10 porcí hlavního jídla po 300 g); množství jsou přepočtena × 4/15. Kniha uvádí vaření bez času („zvolna do měkka“); 90 minut je odhad pro suché fazole. Cibule se smaží na margarínu (original), dnes máslo. Množství vody ve zdroji chybí; 400 ml je dopočteno z přírůstku hmotnosti fazolí (čistá 2 500 g z 1 000 g) – fazole ji vsají a nevylévá se. Sůl odpovídá zdroji (2 g na přílohu 200 g); můžeš ji snížit a dochutit až na konci.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 583,
+    "code": "19918",
+    "titleOriginal": "FAZOLE NA KYSELO"
+  },
+  "verified": true
+}

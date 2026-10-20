@@ -1085,6 +1085,8 @@ Vybráno z analýz podle kritérií: levné, tábor/jeden hrnec, česká kuchyn�
 
 ## Výběr 2026-10-20 b (81 receptů, dávky X1–X9)
 
+**Stav: HOTOVO 2026-10-20** – všech 81 receptů digitalizováno a ověřeno (X1–X9). Nové suroviny: `kapri-hlavy`, `hovezi-predni-tucne`, `kukuricne-skorepky-taco`.
+
 Zadání: „vyber dalších 50–100“ → schválený seznam 81 receptů (45 Receptury 1983, 20 Rettigová, 12 AFRS, 2 Glasse, 2 Hauptmann). Duplicity s existujícími recepty vynechány. Strany = PDF strany (Hauptmann = tištěná). Kapitola a tagy jsou návrh.
 
 ### Dávka X1

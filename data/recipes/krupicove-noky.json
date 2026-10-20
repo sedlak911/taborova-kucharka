@@ -1,0 +1,127 @@
+{
+  "id": "krupicove-noky",
+  "title": "Krupicové noky",
+  "titleOriginal": "Krupicové noky",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 480,
+      "unit": "ml"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "v těstě",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 40,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do mléka, ze zdroje 20 g × 0,4"
+    },
+    {
+      "ingredientId": "krupice-psenicna",
+      "amount": 160,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "mletý květ"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zdroj 5 ks"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 2000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření noků, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do kastrolu nalij mléko, přidej máslo a sůl a přiveď k varu.",
+      "minutes": 8
+    },
+    {
+      "text": "Do vařícího mléka za stálého míchání vsyp prosátou krupici a na mírném ohni míchej, až se těsto přestane lepit na stěny nádoby.",
+      "minutes": 8
+    },
+    {
+      "text": "Uvařené těsto nech prochladnout.",
+      "minutes": 20
+    },
+    {
+      "text": "Do prochladlého těsta přidej mletý květ a postupně, jedno po druhém, zamíchej vejce.",
+      "minutes": 4
+    },
+    {
+      "text": "Těsto dobře vymíchej a přendej na hluboký talíř.",
+      "minutes": 3
+    },
+    {
+      "text": "Mezitím ve velkém hrnci přiveď k varu vodu na vaření a osol ji.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Polévkovou lžící vykrajuj noky a zavař je do vařící osolené vody. Vař asi 4–5 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Uvařené noky vyjmi do studené vody, aby částečně ztuhly.",
+      "minutes": 3
+    },
+    {
+      "text": "Podávej teplé jako přílohu k různým pokrmům s omáčkou."
+    }
+  ],
+  "modernNote": "Kniha uvádí 10 porcí po 160 g (1 600 g hotových noků); pro 4 porce vychází 640 g. Sůl ze zdroje (20 g) je přepočtena lineárně (× 0,4 = 8 g) a patří do mléka; voda na vaření noků (2 l) a sůl do ní (4 g) jsou domácí hodnoty, zdroj jen říká „vařící osolená voda“. Margarín je nahrazen máslem (původní 40 g).",
+  "source": {
+    "book": "receptury-1983",
+    "page": 582,
+    "code": "19913",
+    "titleOriginal": "KRUPICOVÉ NOKY"
+  },
+  "verified": true
+}

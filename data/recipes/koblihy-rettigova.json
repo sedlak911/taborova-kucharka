@@ -1,0 +1,41 @@
+{
+  "id": "koblihy-rettigova",
+  "title": "Koblihy s marmeládou",
+  "titleOriginal": "Koblihy",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 110,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 220, "unit": "g", "note": "prohřátá a prosátá", "group": "Těsto" },
+    { "ingredientId": "zloutek", "amount": 4, "unit": "ks", "group": "Těsto" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 celé vejce na dávku s 10 žloutky", "group": "Těsto" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 35, "unit": "ml", "note": "vlažná, nezvařená", "group": "Těsto" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "note": "rozehřáté, čisté", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "drozdi-cerstve", "amount": 12, "unit": "g", "note": "místo „4 lžic hustých kvasnic“ (odhad)", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "cukr-krystal", "amount": 14, "unit": "g", "note": "zdroj 2 lžíce", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "citronova-kura", "amount": 1, "unit": "g", "note": "ostrouhaná na cukr", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "„trochu osol“ (odhad)", "group": "Těsto" },
+    { "ingredientId": "dzem", "amount": 120, "unit": "g", "note": "zavařenina, množství odhad (asi 1 lžička na koblihu)", "group": "Náplň" },
+    { "ingredientId": "maslo", "amount": 100, "unit": "g", "note": "převařené, na smažení, zůstane v pánvi (odhad)", "group": "Smažení", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "nasáklé (odhad)", "group": "Smažení", "scaling": "fat" },
+    { "ingredientId": "cukr-moucka", "amount": 10, "unit": "g", "note": "na posypání; zdroj množství neuvádí (odhad)", "group": "Smažení", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Mouku prosej do mísy. Máslo rozehřej a nech trochu zchladnout.", "minutes": 5 },
+    { "text": "Žloutky a vejce rozmíchej se smetanou, máslem, droždím, cukrem s citronovou kůrou a solí. Vše zalej do mouky a těsto jen pěkně rozmíchej, nevytloukej.", "minutes": 8 },
+    { "text": "Kousek těsta rozválej na válu na prst tlusté. Vypíchni z něj kulaté lístky.", "minutes": 10 },
+    { "text": "Doprostřed poloviny lístků dej kousek zavařeniny. Přikryj je prázdnými lístky a okraje přitlač prsty.", "minutes": 15 },
+    { "text": "Koblihy ještě jednou vypíchni, aby byly kulaté. Polož je na moukou posypanou utěrku a nech kynout, až jsou skoro dvakrát tak vysoké.", "minutes": 45 },
+    { "text": "V pánvi rozpal převařené máslo a polož do něj koblihy spodní stranou nahoru, ne příliš najednou. Přikryj pokličkou.", "minutes": 3 },
+    { "text": "Až jsou na spodní straně dost červené, obrať je a už je nepřikrývej. Smaž dozlatova.", "minutes": 20 },
+    { "text": "Koblihy posyp cukrem a podávej." }
+  ],
+  "modernNote": "Kniha neuvádí počet koblih ani porcí; dávka (libra mouky = 560 g, 10 žloutků + 1 vejce, 1/4 žejdlíku smetany, 1/4 libry másla) dává asi 20 koblih, přepočteno 0,4× na 8 koblih (2 na porci). Smetana: 1/4 žejdlíku ≈ 88 ml → 35 ml. „4 lžíce hustých kvasnic“ jsou pivní kvasnice, nahrazeno čerstvým droždím (odhad 30 g na celou dávku). Sůl, zavařenina, cukr na posypání a množství másla na smažení jsou odhad, proto verified: false. Dobu kynutí kniha neuvádí („skoro ještě jednou tak vysoké“), 45 minut je odhad. Smažení na másle podle knihy; máslo se pálí, proto raději přepuštěné máslo nebo olej. Tip: usmažené koblihy nech chvíli okapat na papírové utěrce.",
+  "source": { "book": "rettigova-1868", "page": 365, "titleOriginal": "Koblihy" },
+  "verified": false,
+  "quote": "klad do něho kobližky spodní stranou vzhůru, ne však mnoho najednou, aby měly vůli, a přikrej je pokličkou"
+}

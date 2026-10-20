@@ -1,0 +1,28 @@
+{
+  "id": "salat-z-kysaneho-zeli",
+  "title": "Salát z kysaného zelí",
+  "titleOriginal": "Salát z kysaného zelí",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "equipment": [],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "kysele-zeli", "amount": 360, "unit": "g", "note": "čerstvé kysané zelí" },
+    { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "repkovy-olej", "amount": 20, "unit": "g", "note": "olej stolní" },
+    { "ingredientId": "cibule", "amount": 36, "unit": "g", "note": "z 40 g hrubé × 0,9" }
+  ],
+  "steps": [
+    { "text": "Cibuli oloupej a nakrájej nadrobno.", "minutes": 5 },
+    { "text": "Kysané zelí několikrát překroj, aby nebylo dlouhé.", "minutes": 5 },
+    { "text": "Zelí promíchej s cukrem, olejem a cibulí.", "minutes": 3 },
+    { "text": "Salát nech v chladu proležet. Podávej jako doplněk ve skleněné misce nebo na talíři." }
+  ],
+  "modernNote": "Kniha uvádí porci 100 g hotového salátu (10 porcí = 1 000 g, ze 900 g zelí); 4 porce jsou 400 g. Kniha neuvádí dobu proležení, nech salát odležet aspoň 30 minut. Zelí z nálevu lehce vymačkej, pokud je příliš kyselé. Doplněk k masu, ne samostatné jídlo.",
+  "source": { "book": "receptury-1983", "page": 587, "code": "19932", "titleOriginal": "SALÁT Z KYSANÉHO ZELÍ" },
+  "verified": true
+}

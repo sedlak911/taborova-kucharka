@@ -1,0 +1,120 @@
+{
+  "id": "sladke-buchty-hauptmann",
+  "title": "Sladké kynuté buchty",
+  "titleOriginal": "Buns",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 245,
+  "difficulty": 3,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g",
+      "note": "do kvásku (sponge), množství odhad"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 5,
+      "unit": "g",
+      "note": "ve zdroji kvasnicový předkvas (ferment), množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 200,
+      "unit": "ml",
+      "note": "vlažná, do kvásku; množství odhad"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.35,
+      "unit": "ks",
+      "note": "zdroj 2 vejce na ½ galonu kvásku; v praxi použij půl vejce",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 40,
+      "unit": "g",
+      "note": "zdroj ½ lb bílého cukru na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 80,
+      "unit": "ml",
+      "note": "vlažné; zdroj 1 pinta mléka nebo vody na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "měkké; zdroj ¼ lb másla nebo sádla na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "zdroj: „a pinch of salt“ (špetka na celou pekařskou dávku), zde rozumná špetka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 150,
+      "unit": "g",
+      "note": "dále na měkké těsto („flour to make a soft dough“), množství odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prvních 120 g mouky vymíchej s droždím a vlažnou vodou do husté kaše (kvásek). Zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Kvásek dej do mísy. Přidej vejce, cukr, vlažné mléko, měkké máslo a špetku soli.",
+      "minutes": 5
+    },
+    {
+      "text": "Přisypávej zbylou mouku, dokud nevznikne měkké těsto. Dobře ho propracuj.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto zakryj a nech v teple dobře vykynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Těsto přelož na pracovní plochu a zpracuj dohromady. Rozděl na 4 díly a z každého vytvaruj kulatou buchtu.",
+      "minutes": 10
+    },
+    {
+      "text": "Buchty polož na plech s větším odstupem a nech v teple znovu dobře vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Předehřej troubu na 190 °C. Buchty peč asi 20 minut do zlatova.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: ½ galonu (asi 1,9 l) kvásku před zředěním, 2 vejce, ½ lb cukru, 1 pinta mléka nebo vody, ¼ lb másla nebo sádla a špetka soli, mouka podle potřeby. Dávka je zmenšena na asi 0,17násobek (kvásek ze 120 g mouky a 200 ml vody, tj. asi 0,32 l), takže vychází 4 buchty po zhruba 170 g těsta (asi 340 kcal kus). Zdroj neuvádí množství mouky, kypřidlo (používá předkvas z mouky a brambor, nahrazen čerstvým droždím), dobu kynutí ani pečení a teplotu; odhad, proto verified false. Vejce vychází na 0,35 ks, prakticky použij půl rozšlehaného vejce. Zdroj peče buchty před chlebem; teplotu neuvádí. Sůl: zdroj dává jen špetku (a to na celou pekařskou dávku), proto recept drží 1 g; kontrola hlásí málo soli, což je vlastnost historického receptu, ne chyba. Dnešnímu vkusu odpovídá asi 3 g (0,5 % z těsta), můžeš přidat. Po upečení lze buchty potřít lesklou polevou z cukru, melasy a vody (zdroj: „Wash to impart a gloss“), nebo rozpuštěným máslem.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 15,
+    "titleOriginal": "Buns"
+  },
+  "verified": false,
+  "quote": "Put them on pans, and set them a good distance apart, put in the proof oven or a warm place to raise well; bake before the bread."
+}
