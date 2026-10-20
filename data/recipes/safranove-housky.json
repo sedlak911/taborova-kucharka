@@ -1,0 +1,41 @@
+{
+  "id": "safranove-housky",
+  "title": "Šafránové housky s kmínem",
+  "titleOriginal": "Saffron Buns",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 180,
+  "difficulty": 3,
+  "tags": ["sladke"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 180, "unit": "ml", "scaling": "linear", "note": "vlažná, asi 34 °C (94 °F)" },
+    { "ingredientId": "hnedy-cukr", "amount": 35, "unit": "g", "scaling": "linear", "note": "zdroj těsta Tea-Cakes: moist sugar" },
+    { "ingredientId": "drozdi-cerstve", "amount": 11, "unit": "g", "scaling": "linear", "note": "zdroj těsta Tea-Cakes: German yeast" },
+    { "ingredientId": "hladka-mouka", "amount": 320, "unit": "g", "scaling": "linear", "note": "odhad podle Tea-Cakes; asi 55 g jde do kvásku" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "scaling": "linear", "note": "změklé; poměr másla a sádla je odhad (viz Tea-Cakes)" },
+    { "ingredientId": "sadlo", "amount": 18, "unit": "g", "scaling": "linear", "note": "změklé; viz máslo" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "scaling": "linear", "note": "zdroj těsta Tea-Cakes: 2 oz" },
+    { "ingredientId": "korintky", "amount": 20, "unit": "g", "scaling": "linear", "note": "odhad, těsto Tea-Cakes: „a few currants to taste“" },
+    { "ingredientId": "kmin-cely", "amount": 2.3, "unit": "g", "scaling": "seasoning", "note": "zdroj: 1 oz caraway seeds na celou dávku" },
+    { "ingredientId": "safran", "amount": 0.2, "unit": "g", "scaling": "seasoning", "note": "odhad, zdroj: „colour it with saffron“ bez množství; asi 1 špetka nitek rozmočených v lžíci vody z kvásku" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "odhad, na potření; zdroj: wash with egg and milk" },
+    { "ingredientId": "mleko-plnotucne", "amount": 15, "unit": "ml", "scaling": "linear", "note": "odhad, na potření" },
+    { "ingredientId": "cukr-moucka", "amount": 5, "unit": "g", "scaling": "linear", "note": "odhad, na posypání; zdroj: castor sugar (krystalový cukr, jemně mletý)" }
+  ],
+  "steps": [
+    { "text": "Vlažnou vodu smíchej s hnědým cukrem a droždím a míchej, dokud se vše nerozpustí. Přidej část mouky určenou na kvásek (asi 55 g) a promíchej.", "minutes": 5 },
+    { "text": "Kvásek nech na teplém místě pořádně nakynout.", "minutes": 60 },
+    { "text": "Šafrán rozetři a rozmíchej v lžíci teplé vody z kvásku, aby těsto obarvil.", "minutes": 3 },
+    { "text": "Přidej změklé máslo a sádlo, sůl, zbytek mouky, korintky, kmín a rozmíchaný šafrán. Vypracuj žluté těsto.", "minutes": 15 },
+    { "text": "Těsto nech na teplém místě asi půl hodiny.", "minutes": 30 },
+    { "text": "Těsto rozděl na 4 kusy (každý asi 150 g), vytvaruj kulaté housky a ulož je na plech s papírem tak, aby se nedotýkaly.", "minutes": 10 },
+    { "text": "Housky nech na plechu dokynout, až budou skoro hotové (near proof).", "minutes": 30 },
+    { "text": "Vršky potři vejcem rozšlehaným s mlékem a posyp jemným cukrem. Nech v troubě dokynout a peč ve středně horké troubě při 200 °C do zlatova.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj říká jen: těsto jako na Tea-Cakes, 1 oz kmínu, obarvit šafránem, tvarovat kulaté, ukládat tak, aby se nedotýkaly, před koncem kynutí potřít vejcem a mlékem, posypat cukrem a péct ve středně horké troubě. Těsto je proto přesně domácí dávka z receptu Čajové koláčky (faktor 0,08, celkem asi 600 g těsta, 4 housky po asi 150 g, přes 400 kcal na kus; kniha dává kusy po 240 g). 1 oz kmínu je ze zdroje na celou pekařskou dávku (× 0,08 = 2,3 g). Množství šafránu (0,2 g), vejce, mléka na potření (½ vejce a 15 ml) a cukru na posyp jsou odhad, proto je recept neověřený; šafrán zdroj nevyčísluje. Doby kynutí a pečení jsou stejné odhady jako u Tea-Cakes a zdroj je nestanoví („moderately hot oven“ = asi 200 °C). Potření a posyp mají jít na housky těsně před vložením do trouby; zdroj píše, že se housky nechají dokynout v troubě; dobu kynutí nezkracuj. Droždí „German yeast“ = čerstvé; cukr „moist sugar“ = hnědý; „castor sugar“ = jemně mletý. Sůl beze změny (viz Tea-Cakes). Varianta č. 25 Cinnamon Buns (s. 30): totéž těsto bez kmínu a šafránu, ochucené mletou skořicí „podle chuti“ (asi ½ lžičky na dávku). Tag pripravit-predem není, kynutí je jen v řádu hodin; sádlo je živočišný tuk, proto recept nemá tag bez-masa (lze ho nahradit máslem).",
+  "source": { "book": "wells-1890", "page": 29, "titleOriginal": "Saffron Buns" },
+  "verified": false,
+  "quote": "Take the same mixture as for tea cakes, add 1 oz. of caraway seeds, and colour it with saffron."
+}

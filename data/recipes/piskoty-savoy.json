@@ -1,0 +1,33 @@
+{
+  "id": "piskoty-savoy",
+  "title": "Savojské piškoty",
+  "titleOriginal": "Savoy Biscuits",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "rychle"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "scaling": "linear", "note": "zdroj 8 vajec, přepočteno ×0,25" },
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb (454 g), přepočteno ×0,25" },
+    { "ingredientId": "hladka-mouka", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb (454 g), přepočteno ×0,25" },
+    { "ingredientId": "cukr-moucka", "amount": 10, "unit": "g", "scaling": "linear", "note": "na posypání před pečením; zdroj „dust them over with sugar“ bez množství, odhad" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C. Plech vyložený pečicím papírem připrav stranou." },
+    { "text": "Vejce rozklepni do mísy s kulatým dnem, postav ji nad hrnec s horkou vodou a šlehej, dokud nejsou vlažná až teplá.", "minutes": 5 },
+    { "text": "Sundej mísu z vody a šlehej, dokud vejce nevychladnou.", "minutes": 4 },
+    { "text": "Přisyp cukr a šlehej nad horkou vodou, dokud hmota není teplá.", "minutes": 5 },
+    { "text": "Sundej z vody a šlehej znovu do vychladnutí. Hmota musí být úplně lehká a pěnivá.", "minutes": 4 },
+    { "text": "Vyndej metlu a lehce vmíchej mouku. Celý postup od začátku šlehání nemá trvat déle než dvacet minut.", "minutes": 2 },
+    { "text": "Těsto nandej do cukrářského sáčku s hladkou trubičkou a vystříkej na papír piškoty, půlku kulatých a půlku podlouhlých.", "minutes": 10 },
+    { "text": "Piškoty posyp moučkovým cukrem.", "minutes": 2 },
+    { "text": "Peč v horké troubě do zlatova.", "minutes": 12 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, č. 114, s. 54; postup z č. 113 a pokyny na s. 55) uvádí pekařskou dávku na 8 vajec, 1 lb (454 g) cukru a 1 lb (454 g) mouky bez počtu kusů. Zde přepočteno ×0,25 (2 vejce, 115 g cukru, 115 g mouky), což dá asi 330 g těsta, tedy zhruba 20 piškotů; na porci 5 kusů, kolem 250 kcal. Zdroj neuvádí teplotu ani dobu pečení, jen „hot oven“; bereme 200 °C a 12 minut (odhad). Množství moučkového cukru na posypání zdroj neuvádí. Oplatkový papír (wafer paper) nahrazuje pečicí papír; zdroj dále radí posypané plechy přiložit na vrstvu kastorového cukru, setřást a po upečení navlhčit spodek papíru, aby piškoty snadno sjely, což u pečicího papíru odpadá. Savoy sáček z pevného fustianu s cínovou trubičkou nahrazuje běžný cukrářský sáček. Zdroj poznamenává, že hmotu lze šlehat i za studena: piškoty se déle uchovají, ale nejsou tak efektní. Stejné těsto a postup má i č. 121 Scarborough Water Cakes (s přidanou skořicí a slepenými páry).",
+  "source": { "book": "wells-1890", "page": 54, "titleOriginal": "Savoy Biscuits" },
+  "verified": false,
+  "quote": "When the eggs and sugar are perfectly light take out the whisk, stir in the flour gently."
+}

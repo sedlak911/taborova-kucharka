@@ -1,0 +1,34 @@
+{
+  "id": "scarboroughske-piskoty",
+  "title": "Scarboroughské skořicové piškoty",
+  "titleOriginal": "Scarborough Water Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "scaling": "linear", "note": "zdroj 8 vajec" },
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "hladka-mouka", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "skorice-mleta", "amount": 3, "unit": "g", "note": "odhad: zdroj „a little“, tak, aby byly příjemně kořeněné (asi 1 lžička)" },
+    { "ingredientId": "cukr-moucka", "amount": 10, "unit": "g", "scaling": "linear", "note": "na posypání před pečením; zdroj (postup Savoy) „dust them over with sugar“ bez množství, odhad" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C. Plech vyložený pečicím papírem připrav stranou." },
+    { "text": "Vejce rozklepni do mísy s kulatým dnem, postav ji nad hrnec s horkou vodou a šlehej, dokud nejsou teplá.", "minutes": 5 },
+    { "text": "Sundej mísu z vody a šlehej, dokud vejce nevychladnou.", "minutes": 4 },
+    { "text": "Přisyp cukr a šlehej nad horkou vodou, dokud hmota není teplá.", "minutes": 5 },
+    { "text": "Sundej z vody a šlehej znovu do vychladnutí. Hmota musí být úplně lehká a pěnivá.", "minutes": 4 },
+    { "text": "Vyndej metlu a lehce vmíchej mouku se skořicí. Celý postup od začátku šlehání nemá trvat déle než dvacet minut.", "minutes": 2 },
+    { "text": "Těsto nandej do cukrářského sáčku s hladkou trubičkou a vystříkej na papír piškoty, půlku kulatých a půlku podlouhlých.", "minutes": 10 },
+    { "text": "Piškoty posyp moučkovým cukrem.", "minutes": 2 },
+    { "text": "Peč v horké troubě do zlatova.", "minutes": 12 },
+    { "text": "Piškoty sundej z papíru a vždy dva slep k sobě.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, s. 56, č. 121): pekařská dávka 8 vajec, 1 lb (454 g) cukru a 1 lb mouky, postup „jako pro Savoy Biscuits“ (č. 113 na s. 54: vejce a cukr se šlehají střídavě nad horkou vodou a mimo ni, celá práce nemá trvat déle než 20 minut). Zde čtvrtina dávky: 2 vejce, asi 16 malých piškotů, 4 porce po dvou slepených párech (asi 250 kcal). Skořice je odhad množství („as much ground cinnamon as will make them pleasant“), proto verified false. Zdroj neuvádí teplotu ani dobu pečení: „hot oven“ bere jako 200 °C, doba je odhad (kontroluj, ať nezhnědnou). Wafer paper nahrazuje pečicí papír. Šlehání: dnes stačí elektrický šlehač nad vodní lázní, dobu ze zdroje neměním. Posypání cukrem před pečením a vystříkání půlky kulatých a půlky podlouhlých je z pokynů pro Savoy Biscuits (č. 113 a s. 55), stejně jako v receptu Savojské piškoty; množství cukru na posyp je odhad. Zdroj dále radí posypané papíry přiložit na vrstvu krupicového cukru, setřást a po upečení navlhčit spodek papíru, aby piškoty snadno sjely; u pečicího papíru to odpadá.",
+  "source": { "book": "wells-1890", "page": 56, "titleOriginal": "Scarborough Water Cakes" },
+  "verified": false
+}

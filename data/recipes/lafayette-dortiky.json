@@ -1,0 +1,106 @@
+{
+  "id": "lafayette-dortiky",
+  "title": "Lafayettovy dortíky s marmeládou",
+  "titleOriginal": "Lafayette Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 75,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "maslo",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z ½ libry, měkké"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 55,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z ½ libry"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.5,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "ze 6 vajec; rozšlehej 2 vejce a použij 3/4"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 55,
+      "unit": "g",
+      "note": "z ½ libry"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "náhrada za uhličitan amonný (zdroj ¼ oz, na čtvrtinu dávky 1,8 g)"
+    },
+    {
+      "ingredientId": "dzem",
+      "amount": 40,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "malinový nebo jiný džem na dvě vrstvy; zdroj množství neuvádí, odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukr a měkké máslo šlehej, dokud nejsou bílé a nadýchané.",
+      "minutes": 10
+    },
+    {
+      "text": "Zašlehej vejce po částech a po každém přidání dobře promíchej.",
+      "minutes": 8
+    },
+    {
+      "text": "Mouku smíchej s kypřicím práškem a lehce ji vmíchej do těsta.",
+      "minutes": 3
+    },
+    {
+      "text": "Těsto rozděl na tři stejné díly. Každý díl rozetři na pečicí papír do tenkého kruhu o průměru asi 15 cm a papíry dej na plech.",
+      "minutes": 10
+    },
+    {
+      "text": "Peč ve středně vyhřáté troubě, dokud korpusy nejsou propečené a světle zlaté.",
+      "minutes": 15
+    },
+    {
+      "text": "Korpusy nech vychladnout a opatrně z nich strhni papír.",
+      "minutes": 20
+    },
+    {
+      "text": "Na dva korpusy rozetři džem a slož všechny tři na sebe.",
+      "minutes": 5
+    },
+    {
+      "text": "Okraje ořízni nožem do kulata a dort rozděl na 4 díly.",
+      "minutes": 3
+    }
+  ],
+  "modernNote": "Zdroj nemá teplotu ani dobu pečení a množství džemu. Celá dávka (½ lb másla, ½ lb cukru, ½ lb mouky, 6 vajec, ¼ oz uhličitanu amonného) dá podle knihy 12 tenkých placek o průměru asi 6 palců (15 cm), tedy čtyři dortíky po třech vrstvách, a každý se krájí na 4, 6 nebo 8 dílů podle prodejní ceny (16–32 kousků). Na 4 porce je to čtvrtina dávky, tedy jeden dortík ze tří placek rozkrájený na 4 díly, asi 260 kcal na kousek (71 g). Zdroj radí pečit „v plechovkách“ nebo na papíře, tady je papír na plechu. Těsto se míchá „jako librový koláč“ (cukr s máslem, pak vejce, nakonec mouka). Kypřidlo: zdroj dává ¼ oz uhličitanu amonného („volatile salts in powder“, hartshorn); nahrazeno kypřicím práškem ve stejné hmotnosti, na čtvrtinu dávky 1,8 g, zaokrouhleno na 2 g; pro křupavější výsledek lze dát až 2× víc prášku. Stejný princip jako Vrstvený dort s marmeládou (Hauptmann), jen těsto je bez mléka a vrstvy jsou tři místo čtyř. Doba pečení je odhad (dnes asi 10–12 minut při 175 °C), množství džemu je odhad ⇒ verified false. Strana: tištěná 66, č. 165.",
+  "source": {
+    "book": "wells-1890",
+    "page": 66,
+    "titleOriginal": "Lafayette Cakes"
+  },
+  "verified": false,
+  "quote": "spread some raspberry or other jam on two of them and put three together."
+}

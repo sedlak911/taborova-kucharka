@@ -1,0 +1,30 @@
+{
+  "id": "citronovy-kolac-wells",
+  "title": "Citronové bábovičky",
+  "titleOriginal": "Lemon Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 85, "unit": "g", "scaling": "linear", "note": "z ¾ libry, měkké" },
+    { "ingredientId": "cukr-krystal", "amount": 85, "unit": "g", "scaling": "linear", "note": "z ¾ libry" },
+    { "ingredientId": "vejce", "amount": 2.25, "unit": "ks", "note": "z 1 libry vajec (asi 9 vajec po 50 g)" },
+    { "ingredientId": "konak", "amount": 18, "unit": "ml", "scaling": "linear", "note": "brandy, z ½ gillu (71 ml); lze vynechat" },
+    { "ingredientId": "hladka-mouka", "amount": 55, "unit": "g", "note": "z ½ libry" },
+    { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "note": "strouhaná, z kůry 2 citronů na dávku (½ citronu, asi 6 g z citronu)" }
+  ],
+  "steps": [
+    { "text": "Máslo, cukr a vejce utři obvyklým způsobem do krémova.", "minutes": 15 },
+    { "text": "Zamíchej strouhanou citronovou kůru, brandy a mouku.", "minutes": 5 },
+    { "text": "Těsto naplň do malých formiček.", "minutes": 5 },
+    { "text": "Peč ve středně vyhřáté troubě do zlatova.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj (č. 167, tištěná s. 67) dává dávku ¾ lb másla, ¾ lb cukru, 1 lb vajec, ½ lb mouky, ½ gillu brandy a kůru ze dvou citronů; počet kousků, teplotu ani dobu pečení neuvádí. Britské míry: libra 454 g, gill 142 ml (½ gillu = 71 ml); 1 lb vajec je asi 9 vajec po 50 g (450 g). Celá dávka dává odhadem 16 malých báboviček po ~330 kcal (celkem ~5 300 kcal); tady je čtvrtina, tedy 4 porce = 4 bábovičky. Mouky je málo (vajec je skoro dvakrát tolik) a těsto je tekuté, proto formičky dobře vymaž. Brandy je ve zdroji vedlejší a lze ji vynechat nebo nahradit trochou citronové šťávy. Počet citronů je ze zdroje (2 na dávku, tedy ½ citronu na 4 porce); kůra jednoho citronu je asi 6 g, tj. 3 g. Všechna množství jsou ze zdroje, odhad teploty a doby pečení verified nesnižuje. Teplota a doba pečení jsou odhad: peč při 180 °C asi 25 minut v muffinových formičkách (špejle musí vyjít suchá); zdroj říká jen „moderate oven“.",
+  "source": { "book": "wells-1890", "page": 67, "titleOriginal": "Lemon Cake" },
+  "verified": true,
+  "quote": "Cream the butter, sugar, and eggs, in the usual way, stir in the lemon rind, brandy, and flour."
+}

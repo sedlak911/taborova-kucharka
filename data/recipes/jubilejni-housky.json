@@ -1,0 +1,32 @@
+{
+  "id": "jubilejni-housky",
+  "title": "Jubilejní máslové housky s rozinkami",
+  "titleOriginal": "Jubilee Buns",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 150, "unit": "g", "note": "z 2 lb" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "z ¾ lb, studené" },
+    { "ingredientId": "cukr-krystal", "amount": 55, "unit": "g", "scaling": "linear", "note": "z ¾ lb, část na posypání" },
+    { "ingredientId": "vejce", "amount": 0.65, "unit": "ks", "scaling": "linear", "note": "z 4 vajec; trochu rozšlehaného vejce odeber na potření" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "note": "z ½ oz „volatile“ (amonium)" },
+    { "ingredientId": "mleko-polotucne", "amount": 30, "unit": "ml", "note": "odhad, zdroj „a little milk“" },
+    { "ingredientId": "korintky", "amount": 20, "unit": "g", "note": "odhad, zdroj „some currants“; na vrch housek" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 190 °C." },
+    { "text": "Máslo vpracuj prsty do mouky.", "minutes": 5 },
+    { "text": "Uprostřed vytvoř jamku, nasyp do ní cukr. Prášek do pečiva rozmíchej v troše mléka a nalij do jamky. Rozklepni vejce a vše zpracuj v těsto.", "minutes": 8 },
+    { "text": "Těsto rozděl na 4 díly a vytvaruj z nich kulaté housky. Potři je rozšlehaným vejcem, na vrch dej korintky a posyp cukrem.", "minutes": 10 },
+    { "text": "Peč na plechu při 190 °C asi 20 minut, dokud nejsou zlatavé.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj: dávka na 2 lb (907 g) mouky, z 1 lb těsta se dělá 6 housek, tedy celá dávka dává asi 24 housek. Domácí dávka je zhruba šestina (4 housky, po jedné na porci). Zdroj píše „½ oz. of voil“ (volatile salts = amonium), ale v postupu mluví o soli; převedeno na kypřicí prášek ve stejné hmotnosti (1:1), pro křupavější výsledek můžeš dát až dvojnásobek. Mléko (30 ml), korintky (20 g) a teplota a doba pečení (190 °C, 20 minut) jsou odhady, zdroj je neuvádí. Vejce zdroje (4 ks) jdou do těsta, na potření housek stačí trocha rozšlehaného vejce odebraná předem. Ověření přepočtu: 150 g mouky z 907 g je faktor 0,165; ½ oz (14,2 g) „voil“ × 0,165 = 2,3 g, zaokrouhleno 2 g prášku. Celkem asi 325 g těsta na 4 housky po asi 80 g (zdroj 6 housek z 1 lb, tj. asi 75 g), zhruba 310 kcal na kus.",
+  "source": { "book": "wells-1890", "page": 30, "titleOriginal": "Jubilee Buns" },
+  "verified": false,
+  "quote": "Make six buns out of 1 lb. of dough, mould them round, wash the top with eggs, put some currants on the top, and dust with sugar."
+}

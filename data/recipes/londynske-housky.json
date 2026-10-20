@@ -1,0 +1,37 @@
+{
+  "id": "londynske-housky",
+  "title": "Londýnské housky s kandovanou kůrou",
+  "titleOriginal": "London Buns",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 170,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "scaling": "linear", "note": "odhad ze zdroje „sufficient flour“ (stejný poměr jako u Hot Cross Buns, ~1,76 g na ml tekutiny); z toho asi 90 g do kvásku" },
+    { "ingredientId": "mleko-polotucne", "amount": 140, "unit": "ml", "scaling": "linear", "note": "vlažné, asi 34 °C; zdroj: 1 pint" },
+    { "ingredientId": "drozdi-cerstve", "amount": 14, "unit": "g", "scaling": "linear", "note": "zdroj: 2 oz yeast" },
+    { "ingredientId": "hnedy-cukr", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj: 8 oz moist sugar" },
+    { "ingredientId": "maslo", "amount": 85, "unit": "g", "scaling": "linear", "note": "změklé; zdroj: 12 oz" },
+    { "ingredientId": "sul", "amount": 0.5, "unit": "g", "scaling": "seasoning", "note": "zdroj: pinch" },
+    { "ingredientId": "citronat", "amount": 30, "unit": "g", "scaling": "linear", "note": "nasekaná kandovaná kůra; zdroj: 4 oz chopped peel" },
+    { "ingredientId": "vejce", "amount": 0.75, "unit": "ks", "scaling": "linear", "note": "zdroj: 2 vejce do těsta (0,5 ks) a žloutek na potření (odhad, 0,25 ks); vejce rozšlehej, na potření použij asi třetinu" },
+    { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "scaling": "aromatic", "note": "z citronu; odhad, zdroj jen „lemon“" },
+    { "ingredientId": "cukr-krystal", "amount": 8, "unit": "g", "scaling": "linear", "note": "na posypání; odhad, zdroj „sugar on top“" }
+  ],
+  "steps": [
+    { "text": "Vlažné mléko smíchej s cukrem a droždím a míchej, dokud se vše nerozpustí. Přidej část mouky určenou na kvásek (asi 90 g) a promíchej.", "minutes": 5 },
+    { "text": "Kvásek nech na teplém místě pořádně nakynout.", "minutes": 60 },
+    { "text": "Přidej změklé máslo, sůl, nasekanou kandovanou kůru, vejce (kromě části na potření), citronovou kůru a zbytek mouky. Vypracuj těsto.", "minutes": 15 },
+    { "text": "Těsto nech na teplém místě kynout.", "minutes": 30 },
+    { "text": "Rozděl těsto na 8 kusů (každý asi 75 g), vytvaruj z nich housky a ulož je na plech s papírem.", "minutes": 10 },
+    { "text": "Housky nech na plechu kynout. Když jsou asi v polovině kynutí, potři je žloutkem.", "minutes": 30 },
+    { "text": "Plně vykynuté housky posyp cukrem.", "minutes": 1 },
+    { "text": "Peč v troubě předehřáté na 200 °C do zlatova.", "minutes": 18 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: 1 pint (568 ml) mléka, 2 oz droždí, 8 oz hnědého cukru, 12 oz másla, špetka soli, 4 oz nasekané kůry, 2 vejce, citron a mouka „sufficient“ (tedy kolik těsto pobere); množství mouky zdroj neuvádí, proto je odhad (~1 kg na dávku, stejný poměr jako u Hot Cross Buns) a recept je neověřený. Domácí dávka je zmenšena na faktor 0,25 (celkem asi 600 g těsta) na 8 housek po asi 75 g, tedy 2 kusy na porci, stejná velikost jako u Hot Cross Buns; dávka ze zdroje by dala asi 20 housek. Zdroj odkazuje na kvásek a kynutí jako u tea-cakes (s. 24, „sponge“ z části mouky), proto je postup převzatý z Tea-Cakes a Hot Cross Buns. Zdroj je v receptu stručný: „citron“ a „kandovaná kůra“ (peel) jsou převedeny na citronovou kůru a citronát, množství citronové kůry a cukru na posypání jsou odhad, žloutek na potření je ze zdroje (wash). Kynutí kvásku (60 min), kynutí těsta (30 min), tvarování a pečení (200 °C, 18 min) zdroj neuvádí a jsou odhad; zdroj říká jen, že se housky potírají žloutkem v polovině a cukrem na konci kynutí. Dobu kynutí nezkracuj. Čerstvé droždí odpovídá droždí (yeast) zdroje. Sůl je ze zdroje beze změny (špetka, 0,5 g), i když ji kontrola označí za nízkou; 2 housky na porci dávají zhruba 500 kcal.",
+  "source": { "book": "wells-1890", "page": 30, "titleOriginal": "London Buns" },
+  "verified": false
+}

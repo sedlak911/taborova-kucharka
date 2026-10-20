@@ -1,0 +1,86 @@
+{
+  "id": "zitny-chleb-wells",
+  "title": "Žitný chléb s pšeničným kváskem",
+  "titleOriginal": "Rye Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 180,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 260,
+      "unit": "g",
+      "note": "jemná pšeničná na kvásek (zdroj „fine flour“, množství odhad)"
+    },
+    {
+      "ingredientId": "zitna-mouka",
+      "amount": 240,
+      "unit": "g",
+      "note": "žitná celozrnná na těsto (zdroj „rye meal“, množství odhad)"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 3,
+      "unit": "g",
+      "note": "zdroj 1½ oz do kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 9,
+      "unit": "g",
+      "note": "zdroj 1½ oz do kvásku a 3 oz do těsta",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 390,
+      "unit": "ml",
+      "note": "vlažná; asi 310 ml (zdroj 1 galon) do kvásku a 80 ml (zdroj 1 quart) do těsta"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Rozpusť droždí a třetinu soli ve větší části vlažné vody, vmíchej pšeničnou mouku na hustou kaši (jako těsto na muffiny) a přikryj.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech kvásek odpočívat přes noc."
+    },
+    {
+      "text": "Ráno přidej zbylou sůl a zbytek vlažné vody a vmíchej tolik žitné mouky, aby vzniklo těsto.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto přikryj a nech kynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Vytvaruj bochník, dej ho do formy a nech dokynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Peč v troubě vyhřáté o něco mírněji než na bílý chléb (asi 190 °C), až chléb při poklepání na spodek zní dutě.",
+      "minutes": 45
+    }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: kvásek z 1 galonu (4 546 ml) vody, 1½ oz droždí a 1½ oz soli s jemnou mukou „na konzistenci jako na muffiny“, ráno přidat 1 quart (1 136 ml) vody, 3 oz soli a „dodělat žitnou moukou“; britský galon je 4 546 ml a quart 1 136 ml. Množství mouky zdroj neuvádí, proto verified false: kvásek počítám v poměru asi 1,2 : 1 (voda k mouce, hustá kaše jako na muffiny), tedy asi 3,8 kg pšeničné mouky, a těsto s celkem 78 % vody k mouce (asi 7,3 kg mouky, z toho asi 3,5 kg žitné). Dávka je zmenšená na domácí bochník z 500 g mouky celkem (260 g pšeničné a 240 g žitné, faktor 0,0685, tedy zhruba 1 : 1 jako dnešní smíšený žitný chléb), konzistentně s celozrnným chlebem Wellse. Bochník dá asi 800 g chleba, tj. 4 porce po asi 200 g. Zdroj časy neuvádí (kvásek se staví večer, těsto se dodělá ráno), proto jsou doby kynutí a pečení odhad; teplotu kvásku zdroj dává „stejnou jako u celozrnného chleba“ (asi 27–32 °C) a troubu o 30–40 stupňů pyrometru nižší než na bílý chléb, 190 °C je odhad. Wells připisuje pověst těžkého, nasáklého žitného chleba tomu, že se běžně míchá s ječnou moukou místo jemné pšeničné; správně spojený s jemnou moukou dává chléb s dobrou chutí.",
+  "source": {
+    "book": "wells-1890",
+    "page": 22,
+    "titleOriginal": "Rye Bread"
+  },
+  "verified": false
+}

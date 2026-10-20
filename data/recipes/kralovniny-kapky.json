@@ -1,0 +1,29 @@
+{
+  "id": "kralovniny-kapky",
+  "title": "Královniny máslové kapky s korintkami",
+  "titleOriginal": "Queen's Drops",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["sladke", "rychle", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 80, "unit": "g", "scaling": "linear", "note": "změklé" },
+    { "ingredientId": "cukr-krystal", "amount": 80, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 1.4, "unit": "ks", "scaling": "linear", "note": "zdroj 4 vejce; asi 70 g rozšlehaného vejce" },
+    { "ingredientId": "hladka-mouka", "amount": 100, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "korintky", "amount": 60, "unit": "g", "scaling": "linear", "note": "zdroj: currants" }
+  ],
+  "steps": [
+    { "text": "Změklé máslo vyšlehej s cukrem do pěny.", "minutes": 8 },
+    { "text": "Zašlehej vejce, pak vmíchej mouku a korintky.", "minutes": 3 },
+    { "text": "Těsto naplň do zdobicího sáčku s malou hladkou špicí (zdroj: lněný sáček s plechovou nálevkou zacpanou korkem). Na plech s pečicím papírem tlač kapky velké asi jako šilink (průměr kolem 2,5 cm).", "minutes": 10 },
+    { "text": "Kapky peč v dobře vyhřáté troubě na 180 °C dozlatova.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj je dávka 8 oz másla, 8 oz cukru, 4 vajec, 10 oz mouky a 6 oz korintek (asi 1,1 kg těsta, desítky kapek). Domácí dávka je zmenšena na faktor 0,35 (asi 390 g těsta), což dá zhruba 25 kapek po 15 g; 4 porce jsou 4 × 6 kapek, tedy asi 380 kcal na porci. Vejce zdroje (4 ks po 50 g) vychází po zmenšení na 1,4 ks; vejce rozšlehej a odměř asi 70 g. Čas pečení a teplotu zdroj neuvádí („v dobře vyhřáté troubě“); 180 °C a 15 minut jsou odhad podle velikosti kapek, hlídej zlatavé okraje. Korintky (currants) jsou drobné sušené hrozinky, v katalogu `korintky`; rozinky je lze nahradit, nakrájej je ale na menší kousky. Zdroj poznamenává, že někteří přidávají „voil“ (volatile salts, amonium), ale při dobrém našlehání máslo-cukr ho nepotřebuješ; proto ho recept neuvádí. Sáček z lněné tkaniny s plechovou nálevkou a korkem nahrazuje moderní zdobicí sáček (korek = prst na špici nebo svorka).",
+  "source": { "book": "wells-1890", "page": 48, "titleOriginal": "Queen's Drops" },
+  "verified": true,
+  "quote": "Cream the butter and sugar together, add the eggs, then flour and currants."
+}

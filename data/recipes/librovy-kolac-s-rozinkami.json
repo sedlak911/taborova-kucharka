@@ -1,0 +1,32 @@
+{
+  "id": "librovy-kolac-s-rozinkami",
+  "title": "Librový koláč s korintkami a kůrou",
+  "titleOriginal": "Pound Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 75, "unit": "g", "scaling": "linear", "note": "z 1 libry, měkké, ne rozpuštěné" },
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "scaling": "linear", "note": "z 1 libry" },
+    { "ingredientId": "vejce", "amount": 1.3, "unit": "ks", "note": "z 8 vajec" },
+    { "ingredientId": "hladka-mouka", "amount": 80, "unit": "g", "note": "z 1 libry 2 uncí" },
+    { "ingredientId": "korintky", "amount": 110, "unit": "g", "note": "z 1 libry 8 uncí „currants“, tedy sušeného korintského rybízu (drobné tmavé rozinky)" },
+    { "ingredientId": "citronat", "amount": 35, "unit": "g", "note": "z 8 uncí pomerančové a citronové kandované kůry („peel“), nakrájené na malé kostičky" }
+  ],
+  "steps": [
+    { "text": "Měkké máslo zpracuj s cukrem do krémova. Nepřehřej ho, ať se nerozpustí.", "minutes": 15 },
+    { "text": "Přidávej vejce po jednom až dvou a vždy dobře prošlehej.", "minutes": 10 },
+    { "text": "Jakmile se směs v míse zvedá, přisyp mouku a prošlehej ji.", "minutes": 5 },
+    { "text": "Vmíchej korintky a kandovanou kůru nakrájenou na malé kostičky.", "minutes": 5 },
+    { "text": "Těsto dej do formy.", "minutes": 3 },
+    { "text": "Peč v mírné troubě do zlatova.", "minutes": 55 }
+  ],
+  "modernNote": "Zdroj (č. 142) dává jen suroviny: 1 lb másla, 1 lb cukru, 8 vajec, 1 lb 2 oz mouky, 1 lb 8 oz „currants“ a 8 oz pomerančové a citronové kůry; postup, teplotu ani dobu pečení neuvádí („Proceed as directed“). Postup „creamed“ je z receptu č. 136 (s. 60): máslo se pracuje na studené desce a pak v teplé hliněné míse, cukr se zapracuje rukou, vejce se přidávají po jednom až dvou a když směs v míse nabývá, přijde mouka; potom se přidají currants a ostatní příměsi; během šlehání se směs 2–3× lehce zahřeje, hlavně v zimě. Stejně postupují Dundee, kmínový a madeirský koláč z téže knihy. Dávka váží asi 2,7 kg a dává odhadem 25 kousků (celkem asi 10 100 kcal); na 4 porce jsou to 4 z 25 kousků (faktor 4/25 = 0,16), každý asi 110 g a 400 kcal. „Currants“ jsou sušený korintský rybíz, v katalogu `korintky`, kůra („peel“) je nejbližší citronát; směs citrusových kůr by dopadla stejně. Britská libra 454 g, unce 28,35 g, vejce počítána po 50 g. Zdroj nemá kypřidlo; těsto kyne vzduchem a vejci. Dnes peč v troubě vyhřáté na 160 °C asi 55 minut v malé formě 15 cm (špejle musí vyjít suchá), doba je odhad. Zdroj zrání neuvádí. Strana: tištěná 61. Množství všech surovin jsou ze zdroje, odhad doby pečení a velikosti dávky verified nesnižuje ⇒ verified true.",
+  "source": { "book": "wells-1890", "page": 61, "titleOriginal": "Pound Cakes" },
+  "verified": true,
+  "quote": "Proceed as directed."
+}
