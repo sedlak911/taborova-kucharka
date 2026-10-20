@@ -56,5 +56,10 @@ export function scaleLine(line: IngredientLine, ingredient: Ingredient, k: numbe
     const perUnit = ingredient.units[line.unit]
     if (perUnit !== undefined && scaled * perUnit < 1) return { amount: 1, unit: 'spetka' }
   }
+  // méně než půl kusu by se zaokrouhlilo nahoru na ½ ks pro libovolný počet osob; těžší kus (vejce) proto v gramech
+  if (line.unit === 'ks' && scaled < 0.5) {
+    const perUnit = ingredient.units.ks
+    if (perUnit !== undefined && scaled * perUnit >= 1) return roundAmount(scaled * perUnit, 'g')
+  }
   return roundAmount(scaled, line.unit)
 }

@@ -52,6 +52,13 @@ describe('scaleLine', () => {
     expect(scaleLine({ ingredientId: 'sul', amount: 0.1, unit: 'lzicka' }, sul, 1)).toEqual({ amount: 1, unit: 'spetka' })
     expect(scaleLine({ ingredientId: 'bobkovy-list', amount: 1, unit: 'ks' }, bobek, 1)).toEqual({ amount: 1, unit: 'ks' })
   })
+  test('vejce pod půl kusu se ukáže v gramech: 0,25 ks → 13 g, na 1 osobu 3 g', () => {
+    expect(scaleLine({ ingredientId: 'vejce', amount: 0.25, unit: 'ks' }, vejce, 1)).toEqual({ amount: 13, unit: 'g' })
+    expect(scaleLine({ ingredientId: 'vejce', amount: 0.25, unit: 'ks' }, vejce, 0.25)).toEqual({ amount: 3, unit: 'g' })
+  })
+  test('od půl kusu zůstávají kusy: 0,5 ks', () => expect(scaleLine({ ingredientId: 'vejce', amount: 2, unit: 'ks' }, vejce, 0.25)).toEqual({ amount: 0.5, unit: 'ks' }))
+  test('lehký kus pod 1 g zůstane v kusech (půl bobkového listu)', () =>
+    expect(scaleLine({ ingredientId: 'bobkovy-list', amount: 1, unit: 'ks' }, bobek, 0.25)).toEqual({ amount: 0.5, unit: 'ks' }))
   const voda: Ingredient = { ...mleko, id: 'voda', name: 'Voda', scaling: 'linear', densityGPerMl: undefined }
   test('voda s přepsáním vessel: 1000 ml, k = 25 → 6900 ml', () => expect(scaleLine({ ingredientId: 'voda', amount: 1000, unit: 'ml', scaling: 'vessel' }, voda, 25)).toEqual({ amount: 6900, unit: 'ml' }))
   test('voda bez přepsání (linear): 1000 ml, k = 25 → 25000 ml', () => expect(scaleLine({ ingredientId: 'voda', amount: 1000, unit: 'ml' }, voda, 25)).toEqual({ amount: 25000, unit: 'ml' }))

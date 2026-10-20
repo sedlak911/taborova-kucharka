@@ -184,6 +184,6 @@ test('s naměřenou kapacitou se celý obsah vejde na první stránku', () => {
 })
 
 test('filtr: prázdná další stránka obsahu odkáže na předchozí strany', () => {
-  setup({ page: 1, filter: { ...EMPTY_FILTER, query: 'hovezi gulas' } })
+  setup({ page: 1, filter: { ...EMPTY_FILTER, query: 'svedske masove kulicky' } })
   expect(screen.getByText('Výsledky filtru jsou na předchozích stranách obsahu.')).toBeInTheDocument()
 })
