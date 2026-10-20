@@ -1,0 +1,49 @@
+{
+  "id": "kosicky-z-listoveho-testa",
+  "title": "Košíčky z listového těsta s brusinkami",
+  "titleOriginal": "Tarts",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 170,
+  "difficulty": 3,
+  "tags": ["bez-masa", "sladke"],
+  "equipment": ["plotna", "trouba", "lednice"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 125, "unit": "g", "note": "nejlepší jakost", "group": "Listové těsto" },
+    { "ingredientId": "maslo", "amount": 16, "unit": "g", "note": "do mouky; tuhé, ne tvrdé", "group": "Listové těsto", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 65, "unit": "ml", "note": "ledová", "group": "Listové těsto" },
+    { "ingredientId": "maslo", "amount": 110, "unit": "g", "note": "na vrstvení; tuhé, ne tvrdé", "group": "Listové těsto", "scaling": "linear" },
+    { "ingredientId": "brusinky", "amount": 150, "unit": "g", "note": "čerstvé, umyté, bez zkažených", "group": "Náplň" },
+    { "ingredientId": "voda", "amount": 50, "unit": "ml", "note": "jen tak, aby brusinky skoro zakryla", "group": "Náplň" },
+    { "ingredientId": "cukr-krystal", "amount": 50, "unit": "g", "note": "prosátý", "group": "Náplň", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Mouku a máslo na těsto rozetři mezi dlaněmi, dokud směs není jemná.", "minutes": 5 },
+    { "text": "Přidej ledovou vodu, těsto v míse dobře prohněť a vyválej asi na půl palce (1,5 cm) tlusté.", "minutes": 8 },
+    { "text": "Máslo na vrstvení propracuj rukama v trošce studené vody, pak z něj vyklepej vodu: vezmi kousek másla do levé dlaně a plácej ho dlaní pravé ruky.", "minutes": 8 },
+    { "text": "Máslo rovnoměrně rozlož po těstu, až asi 2,5–4 cm od okraje.", "minutes": 2 },
+    { "text": "Těsto přelož ze dvou stran a lehce vyválej, pak stejně z protilehlých stran.", "minutes": 5 },
+    { "text": "Těsto polož na papír na plech, plech přikryj druhým plechem a postav na led (doma do lednice); nech půl hodiny.", "minutes": 30 },
+    { "text": "Mezitím brusinky umyj a vyber ty, které se nehodí.", "minutes": 5, "parallel": true },
+    { "text": "Brusinky dej do kastrolu s tolika vody, aby je sotva zakryla, a vař do měkka.", "minutes": 15, "parallel": true },
+    { "text": "Těsto vyválej, přelož a znovu vyválej, nevaluj příliš.", "minutes": 5 },
+    { "text": "Těsto nech znovu na ledu dvacet minut; brusinky mezitím přelij do mísy a nech vychladnout.", "minutes": 20 },
+    { "text": "Těsto znovu vyválej.", "minutes": 5 },
+    { "text": "Těsto nech znovu na ledu patnáct minut; brusinky mezitím protlač cedníkem nebo sítem, přidej prosátý cukr a promíchej.", "minutes": 15 },
+    { "text": "Těsto znovu vyválej.", "minutes": 5 },
+    { "text": "Těsto nech na ledu ještě dvacet minut.", "minutes": 20 },
+    { "text": "Těsto vyválej asi na čtvrt palce (6 mm), co nejméně ho přitom dotýkej rukama a pracuj v chladné místnosti. Vykroj velkým kulatým vykrajovátkem kolečka tak, aby zbylo co nejméně odřezků.", "minutes": 12 },
+    { "text": "Malým vykrajovátkem jemně otiskni prohlubeň do středu každého kolečka.", "minutes": 3 },
+    { "text": "Hned po vykrojení peč ve středně horké troubě.", "minutes": 20 },
+    { "text": "Upečené košíčky uprostřed zatlač a naplň brusinkovou náplní.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj uvádí jen krátký postup Tarts, těsto je Puff Paste ze s. 46 (2 lb mouky, 2 lb másla, 1 pint ledové vody; 1/4 lb másla se rozetře s moukou, zbytek se vrství). Dávka je zmenšena na 125 g mouky a 125 g másla (asi 14 % zdrojové dávky, `npm run convert`) a vody 65 ml; 1/4 lb ze zdroje odpovídá 16 g másla do mouky, zbývajících 110 g se vrství. Z dávky vyjde asi 8 košíčků, 4 porce = 2 kousky (asi 400 kcal). Množství brusinek a cukru zdroj nezná (píše jen cranberry sauce), proto odhad (verified: false): 150 g brusinek, 50 g cukru, 50 ml vody; příprava jako u Brusinkového koláče (`brusinkovy-kolac`, Hauptmann) – vařit, protlačit, osladit prosátým cukrem. Zdroj zmiňuje i jablečnou marmeládu jako druhou náplň. Led zdroj používá k chlazení těsta, doma stačí lednice; chlazení 30 + 20 + 15 + 20 minut je dle zdroje. Teplotu ani dobu pečení zdroj neuvádí (středně horká trouba, asi 200 °C, 20 minut je odhad), doba pečení je v timeMinutes. Trocha studené vody na propracování vrstveného másla je ve zdroji bez množství a v surovinách není. Obě vody (těsto a vaření brusinek) zůstávají v pokrmu, žádná se neslévá, proto bez vessel (nález check:recipe „2× voda“ je tedy záměr). Kapitola sladke: bezmasý dezert, v knize v části Tarts.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 47,
+    "titleOriginal": "Tarts"
+  },
+  "verified": false,
+  "quote": "When baked, press each tart down in the middle, and fill with cranberry sauce or apple marmalade."
+}

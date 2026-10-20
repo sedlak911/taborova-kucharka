@@ -1,0 +1,30 @@
+{
+  "id": "mandlove-pusinky",
+  "title": "Mandlové pusinky",
+  "titleOriginal": "Almond Puffs",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["vejce", "orechy"],
+  "ingredients": [
+    { "ingredientId": "bilek", "amount": 3.5, "unit": "ks", "note": "zdroj 7 bílků" },
+    { "ingredientId": "cukr-moucka", "amount": 230, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb; část po lžících do šlehaných bílků, zbytek vmíchat" },
+    { "ingredientId": "mandle-blansovane", "amount": 30, "unit": "g", "note": "zdroj 2 oz; usušené, rozdrcené, prosáté" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 100 °C." },
+    { "text": "Mandle usuš, rozdrť a prosej přes sítko.", "minutes": 10 },
+    { "text": "Bílky dej do čisté mísy a šlehej do tuha. Během šlehání občas přidej lžíci cukru.", "minutes": 10 },
+    { "text": "Vmíchej zbylý cukr a mandle. Míchej lehce, ať pěna neklesne.", "minutes": 5 },
+    { "text": "Hmotu dej do cukrářského sáčku s hladkou špičkou a stříkej na dobře čisté a hustě vymazané plechy.", "minutes": 10 },
+    { "text": "Peč ve velmi mírné troubě, dokud se na pusinkách neudělá kůrka, aby se s nimi dalo manipulovat.", "minutes": 45 },
+    { "text": "Pusinky sundej z plechů a přendej na jiné plechy nebo mřížku." }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 43): pekařská dávka 7 bílků, 1 lb (454 g) moučkového cukru a 2 oz (57 g) mandlí, zde zmenšeno na polovinu (4 porce; kniha počet kusů neuvádí, odhad asi 25–30 pusinek, tj. 6–7 na porci). Pulverized sugar = moučkový cukr. Zdroj nemá teplotu ani dobu pečení („very cool oven“, hotovo, když mají kůrku): 100 °C a 45 minut jsou odhad. Pusinky se nemají zbarvit; modernější je péct na pečicím papíře. Zdroj nevyžaduje sušení přes noc. Zdroj hmotnost kusu bílku neuvádí, počítáno 33 g/ks podle katalogu (7 bílků ≈ 231 g). Tip: dokonalejší pěnu dá čisté nádobí bez tuku.",
+  "source": { "book": "hauptmann-1877", "page": 43, "titleOriginal": "Almond Puffs" },
+  "verified": false,
+  "quote": "Mix light, then pass through a gum sack"
+}

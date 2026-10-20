@@ -1,0 +1,32 @@
+{
+  "id": "melasove-skoricove-susenky",
+  "title": "Melasové skořicové sušenky",
+  "titleOriginal": "Brown Scotch Cake, No. 2",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 170, "unit": "g", "note": "zdroj 3 lb (1 361 g)" },
+    { "ingredientId": "hnedy-cukr", "amount": 115, "unit": "g", "note": "zdroj 2 lb" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „a little ground cinnamon“ bez množství" },
+    { "ingredientId": "melasa", "amount": 100, "unit": "g", "scaling": "linear", "note": "odhad: zdroj „enough molasses to make a rather stiff dough“" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Máslo s hnědým cukrem utři do hladka.", "minutes": 5 },
+    { "text": "Přidej skořici a melasu a zamíchej.", "minutes": 3 },
+    { "text": "Zapracuj mouku a zpracuj dost tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto vyválej a vykrajuj kulatou vykrajovačkou.", "minutes": 15 },
+    { "text": "Sušenky polož na lehce vymazané plechy.", "minutes": 4 },
+    { "text": "Peč v mírně vyhřáté troubě, po dávkách podle plechů.", "minutes": 18 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 31) je pekařská dávka na 3 lb (1 361 g) mouky, zde zmenšeno na 1/8 (4 porce, asi 14 kulatých sušenek po 3–4 na porci, kolem 390 kcal na porci; zdroj počet kusů neuvádí). Na rozdíl od receptu Brown Scotch Cake, No. 1 (Skořicové sušenky z hnědého cukru) nemá vejce, vodu ani kypřidlo: tuhé těsto drží melasa, a proto je recept nejlevnější z obou. Množství melasy zdroj neurčuje („enough … to make a rather stiff dough“), 100 g (asi 0,6 hmotnosti mouky, podobně jako Ginger S’s téže knihy: 1 quart melasy na asi 5 lb mouky) je odhad; těsto nemá vejce ani vodu, s menším množstvím by se drolilo; podle vlhkosti mouky případně přidej či uber lžičku. Skořice je ve zdroji „a little“, zde 2 g (asi 1 lžička), poloviční oproti No. 1, kde zdroj žádá silnou chuť; je to odhad. Zdroj uvádí jen „moderate oven“ bez času a teploty: 180 °C a 18 minut na plech jsou odhad, melasové sušenky snadno připálí. Tag tabor chybí záměrně: sušenky se pečou v troubě.",
+  "source": { "book": "hauptmann-1877", "page": 31, "titleOriginal": "Brown Scotch Cake, No. 2" },
+  "verified": false,
+  "quote": "enough molasses to make a rather stiff dough"
+}

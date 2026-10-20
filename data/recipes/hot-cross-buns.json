@@ -1,0 +1,36 @@
+{
+  "id": "hot-cross-buns",
+  "title": "Velikonoční mazance s křížem",
+  "titleOriginal": "Hot Cross Buns",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 170,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 290, "unit": "g", "scaling": "linear", "note": "odhad ze zdroje „sufficient flour“ (~2 kg na celou dávku); z toho asi 100 g do kvásku" },
+    { "ingredientId": "mleko-polotucne", "amount": 165, "unit": "ml", "scaling": "linear", "note": "vlažné, asi 34 °C; zdroj „milk or water“" },
+    { "ingredientId": "drozdi-cerstve", "amount": 12, "unit": "g", "scaling": "linear", "note": "zdroj: 3 oz German yeast" },
+    { "ingredientId": "cukr-krystal", "amount": 50, "unit": "g", "scaling": "linear", "note": "zdroj: moist sugar" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "korintky", "amount": 60, "unit": "g", "scaling": "linear", "note": "odhad, zdroj „currants to taste“" },
+    { "ingredientId": "kandovane-ovoce", "amount": 14, "unit": "g", "scaling": "linear", "note": "kandovaná kůra (peel); odhad, zdroj „to taste“" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "scaling": "seasoning", "note": "volitelné koření; odhad, zdroj „spice to taste“" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "na potření (wash); odhad" }
+  ],
+  "steps": [
+    { "text": "Vlažné mléko smíchej s cukrem a droždím a míchej, dokud se vše nerozpustí. Přidej část mouky určenou na kvásek a promíchej.", "minutes": 5 },
+    { "text": "Kvásek nech na teplém místě pořádně nakynout.", "minutes": 60 },
+    { "text": "Přidej změklé máslo, sůl, zbytek mouky, korintky, kandovanou kůru a případně koření. Vypracuj do hladkého, příjemně měkkého těsta.", "minutes": 15 },
+    { "text": "Těsto nech na teplém místě odpočinout.", "minutes": 30 },
+    { "text": "Rozděl těsto na 8 kusů (každý přibližně 80 g) a vytvaruj z nich housky. Ulož je na plech s papírem.", "minutes": 10 },
+    { "text": "Do každé housky udělej nožem do středu kříž, potři ji rozšlehaným vejcem a nech ji na plechu dokynout.", "minutes": 30 },
+    { "text": "Peč v troubě předehřáté na 200 °C do zlatova.", "minutes": 18 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: 1 quart (1,136 l) tekutiny, 12 oz cukru a másla, 1 oz soli, 3 oz droždí a mouka „sufficient“, tedy odhadem 2 kg; hotové housky se vážily po 4 oz (asi 113 g) za penny, dávka by dala asi 35–40 kusů. Domácí dávka je zmenšená na faktor 0,145, tedy 8 housek po asi 80 g (2 kusy na porci, zhruba 480 kcal). Množství mouky je odhad (těsto má být „nice mellow“), stejně jako korintky, kandovaná kůra a vejce na potření. Zdroj jinak odkazuje na postup tea-cakes (s. 24): kvásek z části mouky, po vykynutí tuk, sůl a ovoce, půl hodiny odpočinout, vážit, kynout, péct. Kynutí kvásku (60 min) a pečení (200 °C, 18 min) zdroj neuvádí a jsou odhad; 30 min kynutí těsta vychází z tea-cakes („about half an hour“). Dobu kynutí nezkracuj. Zdroj říká, že koření se téměř nepoužívá, protože ztmavuje housky; skořice je proto volitelná. Čerstvé droždí odpovídá německému droždí (German yeast). Sůl je ze zdroje beze změny (4 g), i kdyby ji kontrola označila jako vysokou.",
+  "source": { "book": "wells-1890", "page": 28, "titleOriginal": "Hot Cross Buns" },
+  "verified": false
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vinne-babovicky",
+  "title": "Máslové bábovičky s vínem",
+  "titleOriginal": "Wine Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 175, "unit": "g", "note": "prosátá; zdroj „as much flour as will make a soft dough“ bez množství (odhad 7 lb na celou dávku)" },
+    { "ingredientId": "cukr-moucka", "amount": 100, "unit": "g", "scaling": "linear", "note": "zdroj 4 lb pulverized sugar" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear", "note": "zdroj 2 lb" },
+    { "ingredientId": "vejce", "amount": 1.35, "unit": "ks", "scaling": "linear", "note": "zdroj 2 tucty; rozšlehej 2 vejce a odlij zhruba třetinu" },
+    { "ingredientId": "mleko-plnotucne", "amount": 105, "unit": "ml", "scaling": "linear", "note": "sladké; zdroj 2 quarty" },
+    { "ingredientId": "voda", "amount": 55, "unit": "ml", "scaling": "linear", "note": "zdroj 1 quart" },
+    { "ingredientId": "prasek-do-peciva", "amount": 9, "unit": "g", "scaling": "linear", "note": "náhrada za sodu a vinný kámen (zdroj 2 oz sody + 4 oz vinného kamene)" },
+    { "ingredientId": "citronove-aroma", "amount": 1, "unit": "spetka", "note": "zdroj: „oil of lemon“ bez množství" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 170 °C a vymaž čtyři kulaté formičky." },
+    { "text": "Máslo utři s moučkovým cukrem jako na librový koláč, ale ne tak dlouho. Přidej vejce, mléko a vodu a promíchej.", "minutes": 8 },
+    { "text": "Mouku smíchej s kypřicím práškem, přidej ji s citronovým aromatem do těsta a dobře ji vyšlehej.", "minutes": 6 },
+    { "text": "Těsto rozdělej do formiček.", "minutes": 5 },
+    { "text": "Peč v mírné, spíše chladnější troubě.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 33): pekařská dávka 4 lb moučkového cukru, 2 lb másla, 2 tucty vajec, 2 quarty mléka, 1 quart vody a mouka na měkké těsto, v kulatých formách po ½ až ¾ lb těsta (asi 20 forem po ~300 g). Zde zmenšeno na 1/18 dávky: 4 bábovičky po zhruba 140 g těsta (asi 390 kcal), porce odpovídá velikostí receptům Máslové bábovičky a Melasové bábovičky téže knihy. Mouku zdroj nechává na „měkké těsto“: odhad 7 lb na dávku, tedy 175 g. Zdroj radí míchat „jako pound cake, ale ne tolik“ a mouku dobře vyšlehat; krok s utíráním másla je domácí předpoklad. Víno je ve zdroji jen volitelné: lze vynechat část vody a nahradit ji vínem (zde asi 25 až 30 ml bílého vína místo vody), případně místo něj dát citronové aroma („oil of lemon“, špetka nebo trochu strouhané kůry). Kypřidla soda + vinný kámen (2 oz + 4 oz) jsou převedena na kypřicí prášek: 3,15 g sody + 6,3 g vinného kamene ≈ 9,45 g prášku (zaokrouhleno na 9 g), což je hodně (více než 5 % mouky), ale odpovídá zdroji. Zdroj udává jen „moderately cool oven“ bez času a teploty: 170 °C a 25 minut jsou odhad (špejle má vyjít čistá).",
+  "source": { "book": "hauptmann-1877", "page": 33, "titleOriginal": "Wine Cake" },
+  "verified": false,
+  "quote": "Beat the flour in well, and flavor with oil of lemon, or leave out a little of the water, and substitute wine."
+}

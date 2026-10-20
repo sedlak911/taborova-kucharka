@@ -1,0 +1,35 @@
+{
+  "id": "sally-lunn",
+  "title": "Sally Lunn – sladké čajové bochánky",
+  "titleOriginal": "Sally Luns, Yorkshire, or Tea Cakes",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 170,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 210, "unit": "ml", "note": "vlažné" },
+    { "ingredientId": "hnedy-cukr", "amount": 20, "unit": "g", "scaling": "linear", "note": "zdroj: moist sugar" },
+    { "ingredientId": "drozdi-cerstve", "amount": 10, "unit": "g", "scaling": "linear", "note": "zdroj: German yeast" },
+    { "ingredientId": "hladka-mouka", "amount": 350, "unit": "g", "note": "odhad; zdroj „make into dough“, část na kvásek" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "scaling": "linear", "note": "změklé" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "na potření; rozšlehej a smíchej s trochou mléka (odhad)" }
+  ],
+  "steps": [
+    { "text": "Vlažné mléko smíchej s cukrem a droždím a s trochou mouky z uvedeného množství utvoř řídký kvásek. Nech na teplém místě kynout.", "minutes": 30 },
+    { "text": "Přidej změklé máslo, zbytek mouky a vypracuj těsto jako na čajové koláčky.", "minutes": 15 },
+    { "text": "Těsto přikryj a nech na teplém místě kynout.", "minutes": 60 },
+    { "text": "Předehřej troubu na 220 °C." },
+    { "text": "Vymaž kovové kroužky máslem a postav je na vymazaný plech.", "minutes": 3 },
+    { "text": "Těsto rozděl na kousky asi po 150 g, vytvaruj z nich kuličky a vlož je do kroužků.", "minutes": 10 },
+    { "text": "Když jsou bochánky v půli kynutí, udělej do každého dírku kouskem dřívka. Nenech je překynout, jinak budou suché.", "minutes": 30 },
+    { "text": "Peč 10–15 minut.", "minutes": 15 },
+    { "text": "Vrch potři rozšlehaným vejcem s mlékem.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj: dávka na 1 imperiální quart (1,136 l) mléka dává asi 22 bochánků po 5–6 oz (150 g); domácí dávka je zmenšena na 4 kusy = 4 porce (~450 kcal na kus). Množství mouky zdroj neuvádí („make into dough“), 350 g je odhad z poměru 1 quart mléka ku ~1,9 kg mouky pro těsto na čajové koláčky; recept je proto neověřený. Zdroj dodává, že někteří přidávají do těsta ještě 4 vejce; tady jsou vynechána (volitelná). Vejce na potření je odhad: zdroj říká jen „egg and milk“. Kynutí a teplota trouby (220 °C) jsou odhad, zdroj je neuvádí; zdroj udává jen pečení 10–15 minut a požadavek nenechat překynout. Droždí „German yeast“ = čerstvé droždí; cukr „moist sugar“ = hnědý. Dírku do těsta uděláš kouskem dřívka nebo násadou vařečky. Kroužky lze nahradit vymazanými formičkami nebo plechem (bochánky se pak rozplácnou). Tag pripravit-predem není, zdroj nekyne přes noc.",
+  "source": { "book": "wells-1890", "page": 24, "titleOriginal": "Sally Luns, Yorkshire, or Tea Cakes" },
+  "verified": false,
+  "quote": "Do not overprove them, or they will eat poor and dry."
+}

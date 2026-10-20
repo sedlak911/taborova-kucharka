@@ -1,0 +1,32 @@
+{
+  "id": "dundee-cake",
+  "title": "Dundee koláč s kandovanou kůrou",
+  "titleOriginal": "Pond Cake or Dundee Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce", "orechy"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 60, "unit": "g", "scaling": "linear", "note": "z 1 libry, měkké, ne rozpuštěné" },
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "scaling": "linear", "note": "z 1¼ libry" },
+    { "ingredientId": "vejce", "amount": 1.75, "unit": "ks", "note": "z 13 vajec" },
+    { "ingredientId": "hladka-mouka", "amount": 105, "unit": "g", "note": "z 1¾ libry" },
+    { "ingredientId": "citronat", "amount": 120, "unit": "g", "note": "z 2 liber kůry („peel“), nakrájené na malé kostičky" },
+    { "ingredientId": "mandle-blansovane", "amount": 15, "unit": "g", "scaling": "linear", "note": "místo „comfits“ na povrch, odhad množství" }
+  ],
+  "steps": [
+    { "text": "Měkké máslo zpracuj s cukrem do krémova. Nepřehřej ho, ať se nerozpustí.", "minutes": 15 },
+    { "text": "Přidávej vejce po jednom až dvou a vždy dobře prošlehej.", "minutes": 10 },
+    { "text": "Jakmile se směs v míse zvedá, přisyp mouku a prošlehej ji.", "minutes": 5 },
+    { "text": "Vmíchej kandovanou kůru nakrájenou na malé kostičky. Těsto nešlehej tak nadýchané jako jiné koláče, aby ozdoba neklesla.", "minutes": 5 },
+    { "text": "Těsto dej do formy a celý povrch hustě pokryj ozdobou z mandlí.", "minutes": 5 },
+    { "text": "Peč v mírné troubě do zlatova.", "minutes": 55 }
+  ],
+  "modernNote": "Zdroj nemá výtěžek, teplotu ani dobu pečení. Kniha dává dávku z 1 lb másla, 1¼ lb cukru, 13 vajec, 1¾ lb mouky a 2 lb kandované kůry, odhad asi 30 kousků (celkem asi 12 000 kcal); na 4 porce jsou to 4 z 30 kousků (faktor 4/30 ≈ 0,133), každý asi 110 g a 400 kcal. Postup „creamed“ je z receptu č. 136 (s. 60): máslo se pracuje na studené desce a pak v teplé hliněné míse, cukr se zapracuje rukou, vejce se přidávají po jednom až dvou a když směs v míse nabývá, přijde mouka; během šlehání se směs 2–3× lehce zahřeje, hlavně v zimě. Recept č. 157 říká jen: po vyšlehání pokryj celý povrch drobnými „comfits“ (cukrová zrnka nebo cukrem obalené mandle, semínka) a peč v mírné troubě; nešlehej tak do lehka jako jiné koláče, ať ozdoby neklesnou. Mandle blanšírované jsou moderní náhrada za comfits, množství je odhad. Dnes peč v troubě vyhřáté na 160 °C asi 55 minut v malé formě 15 cm (špejle musí vyjít suchá), doba je odhad. Zdroj nemá kypřidlo; těsto kyne vzduchem a vejci. Kandovaná kůra („peel“) není ve zdroji upřesněna, v katalogu je nejbližší citronát; směs citrusových kůr by dopadla stejně. Zdroj zrání neuvádí. Strana: tištěná 65. Odhady (comfits, doba pečení, velikost dávky) ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 65, "titleOriginal": "Pond Cake or Dundee Cake" },
+  "verified": false,
+  "quote": "Do not cream it so light as for other cakes so as to keep the comfits from sinking in the cake."
+}

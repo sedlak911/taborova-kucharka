@@ -1,0 +1,120 @@
+{
+  "id": "vrstveny-dort-s-dzemem",
+  "title": "Vrstvený dort s marmeládou",
+  "titleOriginal": "Jelly Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 90,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z 1 libry"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "z ¾ libry, měkké"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.6,
+      "unit": "ks",
+      "scaling": "linear",
+      "note": "zdroj vejce neuvádí, doplněno podle Horského dortu (8 vajec na celou dávku); rozšlehej 2 vejce a použij 4/5"
+    },
+    {
+      "ingredientId": "mleko-plnotucne",
+      "amount": 25,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "zdroj mléko neuvádí, doplněno podle Horského dortu (1 gill = 118 ml na celou dávku)"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 115,
+      "unit": "g",
+      "note": "z 1¼ libry"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 1,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "náhrada za uhličitan amonný (zdroj ¼ oz, na pětinu dávky 1,4 g)"
+    },
+    {
+      "ingredientId": "citronove-aroma",
+      "amount": 0.5,
+      "unit": "ml",
+      "scaling": "linear",
+      "note": "zdroj „oil of lemon to flavor“ bez množství, odhad"
+    },
+    {
+      "ingredientId": "dzem",
+      "amount": 80,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "marmeláda mezi vrstvy; zdroj „jelly“ bez množství, odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cukr a měkké máslo šlehej, dokud nejsou bílé a nadýchané.",
+      "minutes": 10
+    },
+    {
+      "text": "Zašlehej vejce po dvou a po každém přidání dobře promíchej. Těsto nepotřebuje šlehat tak dlouho jako na librový koláč.",
+      "minutes": 8
+    },
+    {
+      "text": "Přilij mléko a citronovou esenci a promíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Mouku smíchej s kypřicím práškem a hned ji lehce vmíchej do těsta.",
+      "minutes": 3
+    },
+    {
+      "text": "Těsto rozděl na čtyři stejné díly. Každý díl rozetři do kruhu asi 1 cm silného na papír a dej na plech.",
+      "minutes": 10
+    },
+    {
+      "text": "Peč v mírně vyhřáté troubě. Pozor, aby korpusy ani trochu nezhnědly a příliš nevyschly.",
+      "minutes": 15
+    },
+    {
+      "text": "Korpusy nech vychladnout a opatrně z nich strhni papír.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezi korpusy rozetři marmeládu, slož je na sebe a ořízni dort ostrým nožem do kulata.",
+      "minutes": 8
+    }
+  ],
+  "modernNote": "Zdroj nemá výtěžek, teplotu ani dobu pečení a v seznamu surovin chybí vejce a mléko; podle pokynu „mix as mountain cake“ jsem doplnila množství z Horského dortu na téže straně (8 vajec, 1 gill mléka). Celá dávka (1 lb cukru, ¾ lb másla, 1¼ lb mouky, 8 vajec, čtyři korpusy) je velký pekařský dort, odhad asi 20 kousků. Na 4 porce je to pětina dávky, 4 kousky po zhruba 110 g, asi 400 kcal. Doba pečení je odhad; dnes peč korpusy v troubě vyhřáté na 175 °C asi 12–15 minut do světle zlaté. Kypřidlo: zdroj dává ¼ oz uhličitanu amonného (hartshorn); nahrazeno kypřicím práškem ve stejné hmotnosti, na pětinu dávky 1,4 g, zaokrouhleno na 1 g. Rozdíl proti Horskému dortu: bez sody a vinného kamene, mouky je 1¼ lb místo 1 lb 3 oz a vrstvy jsou čtyři místo tří. Marmeláda: zdroj říká jen „put jelly between the layers“, množství je odhad (asi 80 g na tři mezivrstvy). Citronová esence („oil of lemon“) je odhad, jen pár kapek. Strana: tištěná 26. Odhady (vejce, mléko, marmeláda, esence, doba pečení) ⇒ verified false.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 26,
+    "titleOriginal": "Jelly Cake"
+  },
+  "verified": false,
+  "quote": "Make four layers, and when baked put jelly between the layers, and trim nice and round with a sharp knife."
+}

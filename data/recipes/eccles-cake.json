@@ -1,0 +1,37 @@
+{
+  "id": "eccles-cake",
+  "title": "Ecclesský koláč s rozinkami z listového těsta",
+  "titleOriginal": "Nelson Cake or Eccles Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 130,
+  "difficulty": 3,
+  "tags": ["levne", "bez-masa", "sladke"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "group": "Listové těsto", "ingredientId": "hladka-mouka", "amount": 100, "unit": "g", "note": "zdroj 1 lb (polovina z 2 lb listového těsta)" },
+    { "group": "Listové těsto", "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear", "note": "vetřené do mouky; zdroj polovina z 1 lb másla" },
+    { "group": "Listové těsto", "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear", "note": "na vkládání do těsta; zdroj polovina z 1 lb másla" },
+    { "group": "Listové těsto", "ingredientId": "voda", "amount": 50, "unit": "ml", "scaling": "linear", "note": "zdroj „čistá voda“ bez množství (odhad, těsto stejně tuhé jako máslo)" },
+    { "group": "Náplň", "ingredientId": "korintky", "amount": 150, "unit": "g", "note": "čisté; zdroj 1½ lb" },
+    { "group": "Náplň", "ingredientId": "hnedy-cukr", "amount": 50, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb „raw sugar“" },
+    { "group": "Náplň", "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "zdroj „a little spice“ bez množství (odhad)" },
+    { "group": "Poleva", "ingredientId": "bilek", "amount": 1, "unit": "ks", "scaling": "linear", "note": "zdroj „whites of eggs“ bez množství (odhad)" },
+    { "group": "Poleva", "ingredientId": "cukr-moucka", "amount": 10, "unit": "g", "scaling": "linear", "note": "zdroj „sugar“ bez množství (odhad)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Do mouky vetři polovinu másla a s trochou čisté vody zaveď těsto stejně tuhé, jako je zbylé máslo.", "minutes": 10 },
+    { "text": "Těsto vyválej na půl palce (asi 1 cm), poteč ho malými kousky zbylého másla, posyp moukou a přelož. Znovu vyválej, potečkuj máslem a přelož; totéž potřetí. Pak vyválej ještě dvakrát.", "minutes": 30 },
+    { "text": "Těsto přikryj utěrkou a nech půl hodiny na chladném místě.", "minutes": 30 },
+    { "text": "Polovinu těsta vyválej a rozprostři na ni korintky, hnědý cukr a špetku koření. Na cukr a korintky stříkni trochu vody, aby se spojily.", "minutes": 15 },
+    { "text": "Zbylé těsto vyválej, přiklop jím náplň a okraje přitlač.", "minutes": 10 },
+    { "text": "Povrch bohatě potři vyšlehaným bílkem s cukrem.", "minutes": 3 },
+    { "text": "Peč na plechu v dobře vyhřáté troubě do zlatova.", "minutes": 30 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, č. 133 na s. 58–59) dává 2 lb listového těsta (1 lb mouky + 1 lb másla podle č. 126 na s. 57), 1½ lb korintek a ½ lb cukru, tedy asi 1,8 kg koláče bez počtu porcí; zde je dávka zmenšena na 0,22 (4 kousky po cca 120 g, kolem 430 kcal). Listové těsto je zahrnuto podle č. 126 s poměrem máslo : mouka 1 : 1; zdroj dává půl másla do mouky a půl na vkládání, množství vody neuvádí (odhad 50 ml na 100 g mouky). Jde o jeden velký plech: upečený koláč nakrájej na 4 kusy. Recept nemá teplotu ani dobu pečení („good oven“): 200 °C a 30 minut je odhad. „Nelson/Eccles cake“ je tu velký plochý koláč, ne malé kulaté koláčky z Eccles. „A little spice“ je odhadnuto na 1 g mleté skořice, množství bílků a cukru na polevu zdroj neuvádí (odhad 1 bílek a 10 g moučkového cukru), proto verified: false. Máslo ve zdroji bývá solené a promývá se; dnes použij nesolené. Před pečením lze těsto na vrchu několikrát propíchnout, aby neprskalo.",
+  "source": { "book": "wells-1890", "page": 58, "titleOriginal": "Nelson Cake or Eccles Cake" },
+  "verified": false,
+  "quote": "Ice it well with whites of eggs and sugar. Bake on a square tin in a good oven."
+}

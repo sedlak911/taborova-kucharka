@@ -1,0 +1,38 @@
+{
+  "id": "chelsea-buns",
+  "title": "Chelsea šneky s máslem a cukrem",
+  "titleOriginal": "Chelsea Buns",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 210,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "group": "Těsto", "ingredientId": "hladka-mouka", "amount": 220, "unit": "g", "note": "zdroj 4 lb mouky (č. 19)" },
+    { "group": "Těsto", "ingredientId": "mleko-polotucne", "amount": 125, "unit": "ml", "note": "teplé; odhad, zdroj „sufficient milk“" },
+    { "group": "Těsto", "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "note": "zdroj 6 oz" },
+    { "group": "Těsto", "ingredientId": "drozdi-cerstve", "amount": 14, "unit": "g", "scaling": "linear", "note": "zdroj 4 oz yeast (droždí místo kvasnic)" },
+    { "group": "Těsto", "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "group": "Těsto", "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "note": "zdroj 4 vejce na 4 lb mouky; půl vejce, rozšlehej a použij polovinu" },
+    { "group": "Náplň", "ingredientId": "maslo", "amount": 58, "unit": "g", "scaling": "linear", "note": "tuhé; zdroj ½ lb na 4 lb těsta" },
+    { "group": "Náplň", "ingredientId": "hnedy-cukr", "amount": 30, "unit": "g", "note": "zdroj: u bun dough polovina cukru, tj. ¼ lb na 4 lb těsta" }
+  ],
+  "steps": [
+    { "text": "Mléko zahřej, aby bylo vlažné. Rozmíchej v něm cukr z těsta a droždí, přidej asi pětinu mouky a vymíchej kvásek. Nech ho vzejít.", "minutes": 35 },
+    { "text": "Do kvásku vmíchej měkké máslo z těsta, rozšlehané vejce a zbylou mouku a vypracuj těsto.", "minutes": 10 },
+    { "text": "Těsto přikryj a nech na teplém místě kynout.", "minutes": 45 },
+    { "text": "Těsto vyválej na plát. Tuhé máslo z náplně rozlámej na malé kousky a rozlož je po plátu.", "minutes": 8 },
+    { "text": "Plát vyválej jako listové těsto a dej mu dvě až tři otáčky.", "minutes": 15 },
+    { "text": "Povrch plátu navlhči a posyp hnědým cukrem z náplně.", "minutes": 3 },
+    { "text": "Plát stoč do rolády a nakrájej na plátky, nebo ho nakrájej na pásy potřebné velikosti a stoč je dokola.", "minutes": 7 },
+    { "text": "Šneky polož na vymazaný plech s okrajem, každý půl palce (asi 1,3 cm) od druhého. Nech je dobře dokynout.", "minutes": 40 },
+    { "text": "Peč ve středně horké troubě při 180 °C do zlatova.", "minutes": 25 },
+    { "text": "Šneky můžeš před pečením nebo po upečení poprášit cukrem." }
+  ],
+  "modernNote": "Zdroj: „½ lb of butter, ½ lb of sugar, with 4 lb of dough will make a good bun“; těsto je bun dough (č. 19, „Another Way“: 4 lb mouky, 1 lb másla, 6 oz cukru, 4 oz droždí, 4 vejce, mléko) nebo u obyčejných šneků chlebové. Zdroj ale dodává: „When bun dough is used, half the quantity of sugar will be sufficient“, proto je v náplni jen polovina cukru (¼ lb na 4 lb těsta). Těsto je zmenšeno na 220 g mouky (faktor 0,124); těsta vyjde asi 465 g a náplň je počítána z jeho hmotnosti (1/8 másla a 1/16 cukru), ne z hmotnosti mouky. Kniha neuvádí počet kusů ani velikost; z domácí dávky vyjde asi 8 šneků, tj. 2 na porci. Zdroj nedává množství mléka („sufficient milk“, 125 ml je odhad), ani dobu kynutí a teplotu: „prove well“ a „moderate oven“ jsou převedeny na odhad 45 + 40 minut a 180 °C, kynutí tedy není zkráceno oproti zdroji, jen odhadnuto. Postup kvásku (část mouky s mlékem, cukrem a droždím) je podle č. 19. Droždí 14 g čerstvého místo „yeast“ (zdroj nerozlišuje, je to pivní kvasnice). Zdroj uvádí „moist sugar“ = hnědý cukr; do těsta je dán cukr z č. 19 ve stejném složení. Zdroj nezmiňuje rozinky ani koření (č. 19 připouští „currants or peel to taste“, zde vynecháno). Půl vejce: rozšlehej celé a použij polovinu, zbytek lze použít na potření. Cukr na posypání po upečení a před kynutím je volitelný a bez množství.",
+  "source": { "book": "wells-1890", "page": 28, "titleOriginal": "Chelsea Buns" },
+  "verified": false,
+  "quote": "½ lb. of butter, ½ lb. of sugar, with 4 lb. of dough, will make a good bun."
+}
