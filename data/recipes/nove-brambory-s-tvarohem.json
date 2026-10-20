@@ -1,0 +1,31 @@
+{
+  "id": "nove-brambory-s-tvarohem",
+  "title": "Nové brambory s tvarohem a máslem",
+  "titleOriginal": "Nové brambory s tvarohem a máslem",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "mleko"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 1120, "unit": "g", "note": "nové; z 3500 g hrubé × 0,4 × 0,8" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření, slije se" },
+    { "ingredientId": "celerova-nat", "amount": 4, "unit": "g", "note": "z 4 g hrubé × 0,89; do vody na vaření" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "scaling": "vessel", "note": "zdroj 30 g na 10 porcí; kniha ji dává do vody na vaření, slije se" },
+    { "ingredientId": "tvaroh", "amount": 160, "unit": "g", "note": "tvrdý, strouhaný" },
+    { "ingredientId": "maslo", "amount": 130, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Nové brambory oškrabej a opláchni ve studené vodě.", "minutes": 8 },
+    { "text": "Brambory zalij vodou, přidej celerovou nať a sůl, přiveď k varu a vař do měkka.", "minutes": 25 },
+    { "text": "Brambory scedi.", "minutes": 2 },
+    { "text": "Máslo rozehřej.", "minutes": 3, "parallel": true },
+    { "text": "Porce vařených brambor posyp strouhaným tvarohem a přelij rozehřátým máslem." }
+  ],
+  "modernNote": "Kniha počítá 330 g porce včetně tvarohu a másla (10 porcí); 130 g másla na 4 porce odpovídá ~32 g na porci jako ve zdroji. Tvrdý tvaroh nahraď suchým tvarohem nebo tvarohem v kusu, který se dá nastrouhat. Kniha dává celou sůl (30 g na 10 porcí, tj. 14 g na 4 porce) do vody na vaření brambor, která se slije; množství vody (1 l) je domácí hodnota. celerová nať je i čerstvá nebo sušená petržel/celer. Doby vaření zdroj neuvádí, jde o odhad pro nové brambory.",
+  "source": { "book": "receptury-1983", "page": 498, "code": "19419", "titleOriginal": "NOVÉ BRAMBORY S TVAROHEM A MÁSLEM" },
+  "verified": true
+}

@@ -1,0 +1,35 @@
+{
+  "id": "okurky-na-smetane",
+  "title": "Okurky dušené na smetaně s koprem",
+  "titleOriginal": "Okurky dušené na smetaně (s koprem)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["bez-masa", "rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "okurka-salatova", "amount": 970, "unit": "g", "note": "z 1 000 g hrubé (2 500 g na 10 porcí × 0,4) × 0,97; oloupané" },
+    { "ingredientId": "voda", "amount": 80, "unit": "ml", "note": "polovina na podušení, polovina po zaprášení" },
+    { "ingredientId": "maslo", "amount": 90, "unit": "g", "note": "polovina na podušení, polovina syrová do hotového pokrmu" },
+    { "ingredientId": "hladka-mouka", "amount": 16, "unit": "g", "scaling": "linear", "note": "prosátá" },
+    { "ingredientId": "smetana-na-vareni", "amount": 200, "unit": "g", "note": "smetana 12 %" },
+    { "ingredientId": "kopr-nakladany", "amount": 40, "unit": "g", "note": "bez nálevu, jemně nasekaný" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "mírně, dosol podle chuti" },
+    { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "scaling": "linear", "note": "na přisladění" },
+    { "ingredientId": "ocet", "amount": 20, "unit": "ml", "note": "na okyselení podle chuti" }
+  ],
+  "steps": [
+    { "text": "Okurky oloupej, opláchni, podélně rozkroj na čtvrtiny a nakrájej na větší úhledné kousky.", "minutes": 6 },
+    { "text": "Okurky dej do hrnce, zastříkni polovinou vody, mírně osol, přidej polovinu másla a krátce podus pod poklicí.", "minutes": 6 },
+    { "text": "Zaprášej prosátou moukou a mírně osmahni.", "minutes": 3 },
+    { "text": "Zastříkni zbývající vodou, zalij smetanou a pečlivě rozmíchej. Za občasného promíchání poduš téměř do měkka.", "minutes": 10 },
+    { "text": "Krátce před dodušením přidej nasekaný kopr, podle chuti dosol, přisladi, okyseli octem a znovu krátce podus.", "minutes": 3 },
+    { "text": "Do hotového pokrmu vmíchej zbylé máslo v syrovém stavu.", "minutes": 1 }
+  ],
+  "modernNote": "Porce 250 g jako příloha. Salátové okurky počítány z hrubé hmotnosti × 0,4 × jedlá část katalogu (kniha uvádí 2 500 g hrubé, 2 000 g čisté po oloupání; čistá hmotnost by byla 800 g). Smetana 12 % = smetana na vaření. Doby dušení kniha neuvádí, jsou odhad. Sůl 14 g podle knihy (30 g na 10 porcí) je vrchol; začni polovinou a dosol. Při použití polních okurek použij jen oloupanou dužninu bez semen. Kniha doporučuje k okurkám vařené brambory nebo sázená vejce.",
+  "source": { "book": "receptury-1983", "page": 469, "code": "19139", "titleOriginal": "OKURKY DUŠENÉ NA SMETANĚ (s koprem)" },
+  "verified": true
+}

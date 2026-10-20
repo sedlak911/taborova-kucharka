@@ -1,0 +1,39 @@
+{
+  "id": "tacos",
+  "title": "Tacos s mletým hovězím",
+  "titleOriginal": "Tacos (Ground Beef)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-mlete-90", "amount": 400, "unit": "g", "note": "90 % libové" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "do masové náplně" },
+    { "ingredientId": "palive-paprika", "amount": 0.11, "unit": "g", "note": "z 1/16 oz (horní mez „<1/16 oz“)" },
+    { "ingredientId": "kmin-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "chilli-prasek", "amount": 4, "unit": "g", "note": "světlý chilli prášek" },
+    { "ingredientId": "hladka-mouka", "amount": 12, "unit": "g", "note": "zahušťuje masovou náplň" },
+    { "ingredientId": "kukuricne-skorepky-taco", "amount": 8, "unit": "ks", "note": "kukuřičné skořepky, 1 porce = 2 taca" },
+    { "ingredientId": "cedar", "amount": 110, "unit": "g", "note": "strouhaný, na taca" },
+    { "ingredientId": "salat-ledovy", "amount": 105, "unit": "g", "note": "nakrájený" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "chili-omacka", "amount": 130, "unit": "ml", "note": "taco omáčka (zdroj: O 007 00 nebo hotová), 3 qts 2 cup ze zdroje" }
+  ],
+  "steps": [
+    { "text": "Maso na pánvi opékej, rozbíjej vařečkou, dokud nezešedne. Odlij tuk.", "minutes": 10 },
+    { "text": "Přidej sůl, červenou papriku, kmín, česnek, chilli a mouku. Opékej 5 minut.", "minutes": 5 },
+    { "text": "Mezitím skořepky na suché pánvi krátce ohřej, dokud jsou jen prohřáté.", "minutes": 3, "parallel": true },
+    { "text": "Do každé skořepky nalož přibližně 1/4 hrnku masové náplně a řaď je vedle sebe.", "minutes": 2 },
+    { "text": "Navrch dej po 2 lžících strouhaného sýra, 2–3 lžících salátu a 2 lžičkách cibule.", "minutes": 2 },
+    { "text": "Těsně před podáváním navrch přelij 1 lžící taco omáčky." }
+  ],
+  "modernNote": "Kniha: porce = 2 taca, 100 porcí = 200 skořepek, takže 4 porce = 8 taca. Jako hlavní jídlo doporučuji 3 taca na osobu (tj. 1,5násobek dávky). Taco omáčka z karty O 007 00 je nahrazena hotovou omáčkou z obchodu (katalog taco omáčku nemá; nejblíž je rajčatová chili omáčka, ne kečup). Karta O 007 00 je syrová salsa: drcená rajčata z konzervy, cibule, nakládané jalapeño, sůl a cukr, rozmíchat a hodinu vychladit. Teploty CCP a ohřev skořepek v konvekční troubě na plechu vynechány; skořepky se ohřívají na pánvi. Kniha uvádí 443 kcal na porci, přepočet 445 kcal.",
+  "source": { "book": "afrs-2003", "page": 747, "code": "L 034 00", "titleOriginal": "TACOS (GROUND BEEF)" },
+  "verified": true,
+  "quote": "Cook beef until beef loses its pink color; stir to break apart."
+}

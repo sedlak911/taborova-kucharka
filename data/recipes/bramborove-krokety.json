@@ -1,0 +1,40 @@
+{
+  "id": "bramborove-krokety",
+  "title": "Bramborové krokety",
+  "titleOriginal": "Smažené bramborové krokety",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 75,
+  "difficulty": 3,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 750, "unit": "g", "note": "z 936 g hrubé × 0,8 (zdroj 2 340 g hrubé, 1 400 g čistých na 10 porcí)", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "note": "na vaření brambor, slije se; domácí hodnota 1 l na 1 kg", "group": "Těsto", "scaling": "vessel" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "do vody na vaření, slije se", "group": "Těsto", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Těsto", "original": { "ingredientId": "margarin", "amount": 20, "unit": "g" } },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks", "group": "Těsto" },
+    { "ingredientId": "hruba-mouka", "amount": 140, "unit": "g", "note": "prosátá", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "prosátá", "group": "Obalení" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks; rozšlehané s mlékem", "group": "Obalení" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml", "group": "Obalení" },
+    { "ingredientId": "strouhanka", "amount": 100, "unit": "g", "note": "strouhaná houska", "group": "Obalení" },
+    { "ingredientId": "repkovy-olej", "amount": 145, "unit": "ml", "note": "na smažení, zůstane v pánvi", "group": "Obalení", "scaling": "vessel" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý (odhad)", "group": "Obalení", "scaling": "fat" }
+  ],
+  "steps": [
+    { "text": "Oškrábané a opláchnuté brambory dej do hrnce, zalij osolenou vodou a vař do měkka. Pak je odcedi.", "minutes": 30 },
+    { "text": "Ještě horké brambory prolisuj. Přidej máslo, vejce, prosátou hrubou mouku a sůl a promíchej.", "minutes": 5 },
+    { "text": "Z těsta tvaruj malé krokety ve tvaru válečku, asi 4–5 kusů na porci.", "minutes": 15 },
+    { "text": "Krokety obal v prosáté hladké mouce, pak ve vejci rozšlehaném s mlékem a nakonec ve strouhané housce.", "minutes": 10 },
+    { "text": "V pánvi rozehřej olej a krokety smaž dozlatova.", "minutes": 15 },
+    { "text": "Podávej ihned." }
+  ],
+  "modernNote": "Kniha počítá 10 porcí po 250 g (4–5 kusů), dávka je přepočtená na 4 porce (k = 0,4). Vejce podle knihy po 40 g (2 ks na těsto a 2 ks na obalení = 0,8 ks na 4 porce); vejce v těstě a v obalení lze spojit: rozšlehej 2 malá vejce a rozděl je na půl. Kniha uvádí sůl 30 g na 10 porcí (zdroj ji nedělí mezi vodu a těsto, proto je celá v jídle, 3,5 g na porci); je to hodně, začni polovinou a dochuť. Margarín ze zdroje nahrazen máslem (originál 20 g margarínu). Sůl do vody na vaření brambor je domácí hodnota (2 g na 1 l), kniha jen říká „v osolené vodě“. Brambory na kroket nejlépe moučné, uvařené den předem a vychladlé. Olej v pánvi je odhad podle knihy 250 g na 10 porcí; pro hloubkové smažení bude potřeba víc, dolij podle výšky pánve.",
+  "source": { "book": "receptury-1983", "page": 497, "code": "19416", "titleOriginal": "SMAŽENÉ BRAMBOROVÉ KROKETY" },
+  "verified": true,
+  "quote": "Z těsta tvarujeme malé krokety ve tvaru válečku (4—5 ks na porci)"
+}

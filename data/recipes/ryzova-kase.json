@@ -1,0 +1,29 @@
+{
+  "id": "ryzova-kase",
+  "title": "Rýžová kaše",
+  "titleOriginal": "Rejžová kaše",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 220, "unit": "g", "note": "kulatozrnná" },
+    { "ingredientId": "mleko-polotucne", "amount": 840, "unit": "ml", "note": "část při vaření podle potřeby přilít" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "krapýtek" },
+    { "ingredientId": "cukr-moucka", "amount": 40, "unit": "g", "note": "tlučený cukr na posypání (odhad)", "scaling": "linear" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "na posypání (odhad)" }
+  ],
+  "steps": [
+    { "text": "Rýži přebírej a dvakrát ji spař vařící vodou. Vodu pokaždé slij.", "minutes": 8 },
+    { "text": "Rýži zalij mlékem a přiveď k varu.", "minutes": 8 },
+    { "text": "Vař na mírném ohni do měkka. Když kaše příliš houstne, přilij trochu mléka. Občas promíchej.", "minutes": 25 },
+    { "text": "Lehce osol, přendej na mísu a posyp cukrem se skořicí." }
+  ],
+  "modernNote": "Kniha dává půl libry rýže (280 g) a tři žejdlíky mléka (asi 1,05 l); porce nejsou uvedeny, počítáno na 5 porcí, tedy 4 porce = 220 g rýže a 840 ml mléka. Cukr a skořice nemají množství, jde o odhad. Doba vaření ze zdroje chybí, odhad 25 minut. Moderní tip: spaření rýže vařící vodou můžeš vynechat a rýži jen propláchnout.",
+  "source": { "book": "rettigova-1868", "page": 194, "titleOriginal": "Rejžová kaše" },
+  "verified": false,
+  "quote": "Přeber půl libry rejže a vyper ji ve dvou vařících vodách"
+}

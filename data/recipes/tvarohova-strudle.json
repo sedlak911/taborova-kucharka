@@ -1,0 +1,145 @@
+{
+  "id": "tvarohova-strudle",
+  "title": "Tvarohová štrúdl",
+  "titleOriginal": "Dobrá štrudle s tvarohem",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 110,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce",
+    "orechy"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 70,
+      "unit": "g",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 70,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "čerstvé, vychlazené",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 25,
+      "unit": "ml",
+      "note": "studená",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 0.5,
+      "unit": "ks",
+      "note": "rozmíchaný ve vodě",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "tvaroh",
+      "amount": 140,
+      "unit": "g",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.5,
+      "unit": "ks",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 35,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "oslazení, množství ze zdroje chybí (odhad)",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "mandle",
+      "amount": 20,
+      "unit": "g",
+      "note": "nasekané, část hořkých ve zdroji nahrazena sladkými",
+      "group": "Tvarohová náplň"
+    },
+    {
+      "ingredientId": "rozinky",
+      "amount": 35,
+      "unit": "g",
+      "note": "sultánky",
+      "group": "Tvarohová náplň"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Na pracovní desku prosej mouku, vpracuj do ní vychlazené máslo, doprostřed udělej důlek.",
+      "minutes": 8
+    },
+    {
+      "text": "Do důlku nalij vodu s rozmíchaným žloutkem a zadělej těsto. Propracuj ho jen krátce, několikrát ho v rukou převal.",
+      "minutes": 5
+    },
+    {
+      "text": "Těsto nech odpočinout na chladném místě.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím rozmíchej tvaroh se žloutkem a vejcem, osladi cukrem.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Do tvarohu přidej nasekané mandle a rozinky a všechno ještě promíchej.",
+      "minutes": 3,
+      "parallel": true
+    },
+    {
+      "text": "Těsto rozděl na dva stejné díly. Jeden tence rozválej do délky a dej na plech.",
+      "minutes": 12
+    },
+    {
+      "text": "Rozválený plát potři tvarohovou náplní.",
+      "minutes": 3
+    },
+    {
+      "text": "Druhý díl těsta rozválej tence do stejné velikosti a přikryj jím náplň. Kraje pevně přimáčkni k sobě.",
+      "minutes": 10
+    },
+    {
+      "text": "Předehřej troubu na 180 °C. Plech vlož do dobře vyhřáté trouby a peč do zlatova.",
+      "minutes": 35
+    },
+    {
+      "text": "Nech trochu vychladnout a nakrájej na kousky.",
+      "minutes": 5
+    }
+  ],
+  "modernNote": "Kniha neuvádí výtěžek ani dobu pečení. Zdroj (¼ libry mouky, ¼ libry másla, ½ libry tvarohu) dává velký plech, tedy zhruba 8 kousků; pro 4 porce je dávka půlená (70 g mouky, 70 g másla, 140 g tvarohu) a dává 4 větší kousky. Množství cukru zdroj nezná („oslad ho“), 35 g je odhad. Půl koflíčku vody = odhadem 50 ml (ve zdroji), tedy 25 ml. Žloutky ze zdroje: 1 do těsta + 2 do tvarohu + 1 celé vejce, po půlení vychází 1,5 žloutku a ½ vejce. Dva loty sladkých mandlí (35 g) a asi pět hořkých (asi 6 g) jsou sloučeny do 20 g sladkých mandlí (po půlení); hořké mandle se dnes nepoužívají. Sultánky nahrazují rozinky. Teplota 180 °C a doba pečení 35 minut jsou odhad, kniha říká jen „do dobře vyhřáté trouby“ (na třínožce). Kniha dodává, že místo tvarohu lze použít jablka s usmaženou strouhanou žemličkou, cukrem a skořicí.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 188,
+    "titleOriginal": "Dobrá štrudle s tvarohem"
+  },
+  "verified": false,
+  "quote": "Místo tvarohu můžeš také dát nakrájená jablka strouhanou usmaženou žemličku, cukr a skořici – je to vždy výborné."
+}

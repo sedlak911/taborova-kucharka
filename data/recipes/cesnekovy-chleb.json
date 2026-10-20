@@ -1,0 +1,46 @@
+{
+  "id": "cesnekovy-chleb",
+  "title": "Opečený česnekový chléb",
+  "titleOriginal": "Toasted Garlic Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["rychle", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 240,
+      "unit": "g",
+      "note": "francouzská bageta, jedna polovina podélně (8 plátků); nejbližší katalogová položka"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 55,
+      "unit": "g",
+      "note": "měkké, na česnekové máslo",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 55,
+        "unit": "g"
+      }
+    },
+    { "ingredientId": "cesnek-prasek", "amount": 0.92, "unit": "g", "note": "sušený mletý" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 175 °C s horkovzduchem." },
+    { "text": "Máslo vlož do mísy šlehače a šlehej na střední rychlost dokrémova.", "minutes": 5 },
+    { "text": "Přidej sušený česnek a dobře promíchej.", "minutes": 1 },
+    { "text": "Bagetu přepůl podélně; jednu polovinu (asi 240 g) potři česnekovým máslem.", "minutes": 3 },
+    { "text": "Polovinu nakrájej napříč na 8 plátků.", "minutes": 2 },
+    { "text": "Plátky polož na plech a peč v troubě s horkovzduchem 10–12 minut, dokud lehce nezhnědnou.", "minutes": 12 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Kniha (AFRS D 007 00): 13 lb francouzského chleba a 3 lb másla pro 100 porcí po 2 plátcích, tedy asi 25 polovin bagety. Pro 4 porce stačí jedna polovina bagety (8 plátků, 240 g). Margarín nahrazen máslem (katalog). Porce ~260 kcal jako příloha k polévce nebo svačina; vyšší porce by vyžadovala celou bagetu.",
+  "source": { "book": "afrs-2003", "page": 132, "code": "D 007 00", "titleOriginal": "TOASTED GARLIC BREAD" },
+  "verified": true
+}

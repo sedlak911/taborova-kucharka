@@ -5999,6 +5999,36 @@
     }
   },
   {
+    "id": "kukuricne-skorepky-taco",
+    "name": "Kukuřičné skořepky na taco (taco shells)",
+    "aliases": [
+      "taco shells",
+      "taco skořepky",
+      "kukuřičné taco skořepky",
+      "tacové skořepky",
+      "kukuřičné tortilly na taco"
+    ],
+    "category": "lusteniny-a-obiloviny",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 476,
+      "protein": 6.41,
+      "carbs": 63.49,
+      "fat": 21.79,
+      "fiber": 6.7
+    },
+    "units": {
+      "ks": 10.6
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:172800 (Taco shells, baked)",
+      "units": "AFRS L 034 00: 200 skořepek = 4-2/3 lbs (2 121 g) → 10,6 g na kus",
+      "refuse": "bez odpadu"
+    }
+  },
+  {
     "id": "kukuricny-skrob",
     "name": "Kukuřičný škrob",
     "aliases": [
