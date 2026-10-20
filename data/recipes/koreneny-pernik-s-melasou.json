@@ -1,0 +1,35 @@
+{
+  "id": "koreneny-pernik-s-melasou",
+  "title": "Kořeněný perník s melasou",
+  "titleOriginal": "Spiced Gingerbread",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 150, "unit": "g", "note": "zdroj: 3 lb" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear", "note": "zdroj: 1 lb" },
+    { "ingredientId": "hnedy-cukr", "amount": 50, "unit": "g", "scaling": "linear", "note": "zdroj: 1 lb „moist sugar“" },
+    { "ingredientId": "citronat", "amount": 13, "unit": "g", "note": "zdroj: 4 oz kandované citronové nebo pomerančové kůry, nakrájené nadrobno" },
+    { "ingredientId": "zazvor-mlety", "amount": 3, "unit": "g", "scaling": "linear", "note": "zdroj: 1 oz" },
+    { "ingredientId": "novy-koreni", "amount": 6, "unit": "g", "scaling": "linear", "note": "mleté, zdroj: 2 oz" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "scaling": "linear", "note": "zdroj: ½ oz" },
+    { "ingredientId": "kmin-cely", "amount": 3, "unit": "g", "scaling": "linear", "note": "zdroj: 1 oz" },
+    { "ingredientId": "melasa", "amount": 150, "unit": "g", "scaling": "linear", "note": "tmavá melasa (zdroj: treacle), 3 lb" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C a vylož plech pečicím papírem." },
+    { "text": "Máslo vpracuj prsty do mouky.", "minutes": 5 },
+    { "text": "Přidej cukr, nadrobno nakrájený citronát, zázvor, nové koření, skořici a kmín.", "minutes": 3 },
+    { "text": "Zaveď těsto melasou a vymíchej do hladka.", "minutes": 5 },
+    { "text": "Z těsta vytvaruj drobné oříšky nebo koláčky a rozlož je na plech.", "minutes": 10 },
+    { "text": "Peč v mírně vyhřáté troubě při 150 °C asi 25 minut.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj počítá pekárenskou dávku (3 lb mouky, 3 lb melasy, asi 9 lb těsta), počet porcí neuvádí (originalYield chybí). Odhad: asi 36 kousků po ~115 g, tedy 4 porce = 4 kousky po ~105 g (faktor 4/36, cca 400 kcal na porci). Treacle je v katalogu tmavá melasa; moist sugar je hnědý cukr; kandovaná kůra („candied lemon or orange peel“) je citronát. Allspice je nové koření (mleté), caraway seeds celý kmín. Zdroj neuvádí kypřidlo; těsto s melasou bez něj zůstane hutné a pevné, jako tvrdší perníčky. Dnes by pomohlo přidat asi 1 g jedlé sody (na 4 porce) do mouky, aby perník trochu nakynul; do surovin ji nepřidávám. Zdroj říká jen „cool oven“ (mírná trouba), 150 °C a 25 minut jsou odhad a závisí na velikosti kousků. Zdroj těsto ani perník neodleží. Recept pokračuje na s. 33 (tištěná strana), první strana je 32. Množství jsou ze zdroje, pečení je odhad ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 32, "titleOriginal": "Spiced Gingerbread" },
+  "verified": false,
+  "quote": "Make it into nuts or cakes, and bake in a cool oven."
+}

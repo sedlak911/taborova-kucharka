@@ -1,0 +1,30 @@
+{
+  "id": "madeirsky-kolac",
+  "title": "Madeirský koláč (skotská směs)",
+  "titleOriginal": "Madeira Cake (Scotch Mixture)",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 75, "unit": "g", "scaling": "linear", "note": "z 1¼ libry, měkké, ne rozpuštěné" },
+    { "ingredientId": "cukr-krystal", "amount": 105, "unit": "g", "scaling": "linear", "note": "z 1¾ libry" },
+    { "ingredientId": "vejce", "amount": 2.65, "unit": "ks", "note": "z 20 vajec" },
+    { "ingredientId": "hladka-mouka", "amount": 135, "unit": "g", "note": "z 2¼ libry" },
+    { "ingredientId": "prasek-do-peciva", "amount": 0.13, "unit": "g", "scaling": "linear", "note": "místo „malé špetky“ kyseliny vinné a sody (odhad 1 g na dávku)" }
+  ],
+  "steps": [
+    { "text": "Měkké máslo zpracuj s cukrem do krémova. Nepřehřej ho, ať se nerozpustí.", "minutes": 15 },
+    { "text": "Přidávej vejce po jednom až dvou a vždy dobře prošlehej.", "minutes": 10 },
+    { "text": "Jakmile se směs v míse zvedá, přisyp mouku smíchanou s kypřicím práškem a prošlehej ji.", "minutes": 5 },
+    { "text": "Těsto dej do formy.", "minutes": 3 },
+    { "text": "Peč v mírné troubě do zlatova.", "minutes": 55 }
+  ],
+  "modernNote": "Zdroj (č. 156, s. 64 na pokračování s. 65) dává jen suroviny: 1¼ lb másla, 1¾ lb cukru, 2¼ lb mouky, 20 vajec a „malou špetku“ kyseliny vinné a sody; postup, teplotu ani dobu pečení neuvádí („Proceed as before directed“). Postup „creamed“ je z receptu č. 136 (s. 60): máslo se pracuje na studené desce a pak v teplé hliněné míse, cukr se zapracuje rukou, vejce se přidávají po jednom až dvou, a když směs v míse nabývá, přijde mouka; během šlehání se směs 2–3× lehce zahřeje, hlavně v zimě. Stejně postupují Dundee a kmínový koláč z téže knihy. Citronát na povrch zdroj u č. 156 nemá (předchozí Madeira Cakes č. 152 kladou na každý koláč dva tenké plátky citronu/citronátu; chceš-li, přidej asi 8 g na povrch). Soda a kyselina vinná (v č. 152 se tak míchá „patent flour“: soda a vinný kámen) jsou nahrazeny kypřicím práškem, množství je odhad (špetka každého asi 0,5 g, tj. 1 g na dávku, 0,13 g na 4 porce) a v receptu je téměř zanedbatelné (nález check:recipe „méně než 1 g“ je tedy záměrný, zdroj má jen špetku); těsto kyne hlavně vzduchem a vejci. Britská libra 454 g, vejce počítána po 50 g. Dávka dává odhadem 30 kousků (celkem asi 12 300 kcal); na 4 porce je to zhruba osmina dávky, tedy 4 kousky po asi 410 kcal. Dnes peč v troubě vyhřáté na 160 °C asi 55 minut v malé formě 15 cm (špejle musí vyjít suchá), doba je odhad. Zdroj zrání neuvádí. Strana: tištěná 64, pokračuje na s. 65. Odhady (množství kypřidla, velikost dávky, doba pečení) ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 64, "titleOriginal": "Madeira Cake (Scotch Mixture)" },
+  "verified": false,
+  "quote": "Proceed as before directed."
+}

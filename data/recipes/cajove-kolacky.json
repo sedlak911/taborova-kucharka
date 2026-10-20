@@ -1,0 +1,35 @@
+{
+  "id": "cajove-kolacky",
+  "title": "Čajové koláčky s rozinkami",
+  "titleOriginal": "Tea-Cakes",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 170,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "voda", "amount": 180, "unit": "ml", "scaling": "linear", "note": "vlažná, asi 34 °C (94 °F)" },
+    { "ingredientId": "hnedy-cukr", "amount": 35, "unit": "g", "scaling": "linear", "note": "zdroj: moist sugar" },
+    { "ingredientId": "drozdi-cerstve", "amount": 11, "unit": "g", "scaling": "linear", "note": "zdroj: German yeast" },
+    { "ingredientId": "hladka-mouka", "amount": 320, "unit": "g", "scaling": "linear", "note": "odhad; zdroj uvádí jen 1½ lb na kvásek (asi 55 g) a pak „tea-cake dough“; zbytek do těsta" },
+    { "ingredientId": "maslo", "amount": 18, "unit": "g", "scaling": "linear", "note": "změklé; zdroj: 1 lb sádla a másla dohromady, půl na půl je odhad" },
+    { "ingredientId": "sadlo", "amount": 18, "unit": "g", "scaling": "linear", "note": "změklé; viz máslo" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "scaling": "linear", "note": "zdroj: 2 oz" },
+    { "ingredientId": "korintky", "amount": 20, "unit": "g", "scaling": "linear", "note": "odhad, zdroj „a few currants to taste“" }
+  ],
+  "steps": [
+    { "text": "Vlažnou vodu smíchej s cukrem a droždím a míchej, dokud se vše nerozpustí. Přidej část mouky určenou na kvásek (asi 55 g) a promíchej.", "minutes": 5 },
+    { "text": "Kvásek nech na teplém místě pořádně nakynout.", "minutes": 60 },
+    { "text": "Přidej změklé máslo a sádlo, sůl, zbytek mouky a korintky. Vypracuj čajové těsto.", "minutes": 15 },
+    { "text": "Těsto nech na teplém místě asi půl hodiny.", "minutes": 30 },
+    { "text": "Těsto rozděl na 4 kusy (každý asi 150 g), vytvaruj z nich kulaté koláčky a ulož je na plech s papírem.", "minutes": 10 },
+    { "text": "Koláčky nech na plechu dokynout.", "minutes": 30 },
+    { "text": "Peč v troubě předehřáté na 200 °C do zlatova.", "minutes": 18 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: ½ galonu (2,27 l) vody o 94 °F (asi 34 °C), 1 lb cukru, 5 oz droždí, 1½ lb mouky na kvásek, po vykynutí 1 lb sádla a másla, 2 oz soli a „pár korintek“; kusy se vážily po 8–9 oz (asi 240 g) za 2 pence a dávka by dala asi 30 kusů. Poměr mouky je ve zdroji zjevně neúplný: 1½ lb mouky na ½ galonu vody dá jen kvásek, zbytek mouky do těsta zdroj neuvádí. Celkových 4 kg mouky je odhad (stejný poměr mouky a tekutiny jako u Hot Cross Buns, kolem 1,8 kg na litr), proto je recept neověřený. Domácí dávka je zmenšena na faktor 0,08 (celkem asi 600 g těsta) na 4 koláčky po asi 150 g, tedy stejná velikost jako u Sally Lunn, zhruba 410 kcal na kus; zdrojové kusy po 240 g by dávaly přes 600 kcal. Poměr sádla a másla (půl na půl) a počet korintek jsou odhad. Kynutí kvásku (60 min), dokynutí tvarovaných koláčků (30 min), teplota a doba pečení (200 °C, 18 min) zdroj neuvádí a jsou odhad; zdroj udává jen kvásek „well risen“ a odpočinutí těsta asi půl hodiny. Dobu kynutí nezkracuj. Droždí „German yeast“ = čerstvé droždí; cukr „moist sugar“ = hnědý. Sůl je ze zdroje beze změny (2 oz na dávku × 0,08 = 5 g), i kdyby ji kontrola označila jako vysokou. Zdroj dodává, že stejné těsto dává i skotské sušenky (Scotch cookies); Queen's Bread a Hot Cross Buns z něj vycházejí také. Tag pripravit-predem není, zdroj nekyne přes noc; sádlo je tuk, ne maso, ale vegetariáni se mu vyhnou (máslem ho lze nahradit).",
+  "source": { "book": "wells-1890", "page": 24, "titleOriginal": "Tea-Cakes" },
+  "verified": false,
+  "quote": "To be able to make a good tea-cake is considered a great point in the baking trade."
+}

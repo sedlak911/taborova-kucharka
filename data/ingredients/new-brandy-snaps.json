@@ -1,0 +1,33 @@
+[
+  {
+    "id": "zlaty-sirup",
+    "name": "Zlatý sirup (golden syrup)",
+    "aliases": [
+      "golden syrup",
+      "světlý cukrovarský sirup",
+      "invertní sirup",
+      "cukrovarský sirup"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 325,
+      "protein": 0.3,
+      "carbs": 79.5,
+      "fat": 0,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.4,
+    "units": {
+      "lzice": 21,
+      "lzicka": 7,
+      "hrnek": 350
+    },
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "náhrada: USDA golden syrup nemá; hodnoty z obvyklé etikety (Lyle's Golden Syrup, 325 kcal, sacharidy 79,5 g), blízké USDA SR Legacy fdc:168837 (Syrups, corn, light) 283 kcal",
+      "units": "hustota 1,4 g/ml; lžíce 15 ml × 1,4 = 21 g; hrnek 250 ml × 1,4 = 350 g"
+    }
+  }
+]

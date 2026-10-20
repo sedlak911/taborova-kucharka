@@ -1,0 +1,35 @@
+{
+  "id": "grantham-bily-pernik",
+  "title": "Granthamský bílý perník",
+  "titleOriginal": "Grantham or White Gingerbread",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 250, "unit": "g", "note": "zdroj 4 lb" },
+    { "ingredientId": "cukr-krystal", "amount": 155, "unit": "g", "note": "zdroj 2½ lb cukru v homoli (loaf sugar); rozetři na jemný cukr", "scaling": "linear" },
+    { "ingredientId": "maslo", "amount": 16, "unit": "g", "note": "zdroj 4 oz", "scaling": "linear" },
+    { "ingredientId": "prasek-do-peciva", "amount": 4, "unit": "g", "note": "místo „volatile salt“ (zdroj 1 oz)", "scaling": "linear" },
+    { "ingredientId": "mleko-polotucne", "amount": 80, "unit": "ml", "note": "zdroj 1 pint (568 ml)", "scaling": "linear" },
+    { "ingredientId": "zazvor-mlety", "amount": 2, "unit": "g", "note": "zdroj ½ oz" },
+    { "ingredientId": "skorice-mleta", "amount": 0.33, "unit": "g", "note": "zdroj: ¼ oz skořice, muškátu a macisu dohromady, dělím na třetiny" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.65, "unit": "g", "note": "muškátový oříšek i květ (mace), zdroj dohromady se skořicí ¼ oz" },
+    { "ingredientId": "kmin-cely", "amount": 2, "unit": "g", "note": "zdroj ½ oz" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 160 °C. Plech vymaž máslem nebo vyložej pečicím papírem." },
+    { "text": "Mouku smíchej s cukrem, kypřicím práškem, zázvorem, skořicí, muškátem a kmínem.", "minutes": 3 },
+    { "text": "Máslo rozemni prsty do směsi.", "minutes": 5 },
+    { "text": "Přilij mléko a vypracuj těsto.", "minutes": 3 },
+    { "text": "Z těsta tvaruj malé placky nebo kuličky a rozlož je na plech.", "minutes": 10 },
+    { "text": "Peč v mírně vyhřáté troubě, dokud nejsou pevné a světle zlatavé.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj uvádí jen suroviny, bez postupu ani teploty. Postup je převzat z nejbližšího receptu s postupem, č. 39 Ginger Cakes ze stejné kapitoly (máslo se vetře do mouky, z těsta se tvoří kulaté ploché placky, peče se v mírné troubě; u č. 37 Spiced Gingerbread jsou to „nuts or cakes“ v „cool oven“). Tvarování, teplota 160 °C a doba 20 minut jsou odhad. Dávka je zmenšena z 4 lb (1 814 g) mouky na 250 g (faktor 0,138, odpovídá asi 29 porcím zdrojové dávky) tak, aby 4 porce byly 4 kousky po asi 400 kcal; z celé zdrojové dávky by vzniklo mnoho desítek kusů. Pinta je imperiální (568 ml), takže mléka je 80 ml. „Volatile salt“ (uhličitan amonný, hartshorn) je nahrazen kypřicím práškem ve stejné hmotnosti (4 g). Perník je „bílý“, protože neobsahuje melasu ani treacle, jen cukr a mléko. Zdroj neříká nic o odpočinku těsta; poznámka u č. 49 („nearly all mixtures made in this way are best made the day before“) se týká směsí s melasou, proto tag pripravit-predem chybí. Množství koření: ¼ oz skořice, muškátu a macisu dohromady je rozděleno na třetiny; mace (muškátový květ) katalog nemá, proto je přidán do muškátu. Množství zdroje jsou úplná, ale chybějící postup a odhad tvaru ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 34, "titleOriginal": "Grantham or White Gingerbread" },
+  "verified": false,
+  "quote": "4 lbs. of flour, 2½ lbs. of loaf sugar, 4 ozs. of butter, 1 oz. of volatile salt, 1 pint of milk"
+}

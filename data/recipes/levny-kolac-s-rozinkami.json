@@ -1,0 +1,34 @@
+{
+  "id": "levny-kolac-s-rozinkami",
+  "title": "Levný hrozinkový koláč „Mystery“",
+  "titleOriginal": "Mystery, or Cheap Plum Cake at 3d. per lb.",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 220, "unit": "g", "scaling": "linear", "note": "z 8 liber „common flour“" },
+    { "ingredientId": "hnedy-cukr", "amount": 80, "unit": "g", "scaling": "linear", "note": "z 3 liber" },
+    { "ingredientId": "sadlo", "amount": 25, "unit": "g", "scaling": "linear", "note": "z 1 libry" },
+    { "ingredientId": "korintky", "amount": 80, "unit": "g", "scaling": "linear", "note": "z 3 liber „currants“" },
+    { "ingredientId": "kandovane-ovoce", "amount": 3, "unit": "g", "scaling": "linear", "note": "z 2 uncí kandované kůry („peel“), nadrobno" },
+    { "ingredientId": "skorice-mleta", "amount": 3, "unit": "g", "scaling": "linear", "note": "z 1½ unce „spice“ (směs koření, druh zdroj neuvádí)" },
+    { "ingredientId": "prasek-do-peciva", "amount": 5, "unit": "g", "scaling": "linear", "note": "místo sody a kyseliny vinné" },
+    { "ingredientId": "mleko-polotucne", "amount": 110, "unit": "ml", "scaling": "linear", "note": "na zadělání těsta; zdroj „dough with milk“ bez množství, odhad" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "na potření povrchu („wash with egg“); odhad" }
+  ],
+  "steps": [
+    { "text": "Promíchej mouku, cukr, koření, kandovanou kůru a korintky.", "minutes": 5 },
+    { "text": "Vpracuj do směsi sádlo a prášek do pečiva.", "minutes": 5 },
+    { "text": "Zaděl těsto mlékem.", "minutes": 5 },
+    { "text": "Těsto dej do vymazané formy a povrch potři rozšlehaným vejcem.", "minutes": 5 },
+    { "text": "Peč v pomalé troubě při 150 °C asi 60 minut, dokud špejle nevyjde suchá.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka (8 liber mouky, 3 libry cukru a korintek, 1 libra sádla), výtěžek ani porce neuvádí; koláč se prodával po 3 pencích za libru. Dávka je zmenšená na 1/66 (tj. 220 g mouky), odhadem 4 kusy po asi 140 g a ~420 kcal (stejné množství mouky, 220 g, jako u Albertova koláče č. 174); kniha by dala asi 66 takových kousků. Kypřidla ze zdroje, 2 unce sody a 1 unce kyseliny vinné (tartaric acid), nahrazuje kypřicí prášek v přibližně stejné celkové hmotnosti (3 unce → 5 g). Množství mléka (zdroj jen „dough with milk“) je odhad, těsto má být tuhé. „Peel“ je kandovaná citrusová kůra, „spice“ je ve zdroji bez bližšího určení, proto skořice. Zdroj uvádí potření vejcem, jinak koláč vejce neobsahuje; množství vejce je odhad. „Plum“ znamená v angličtině 19. století sušené hrozny (zde korintky). Pečení v „slow oven“ je přeloženo na 150 °C, doba je odhad. Tag přípravy předem zdroj neodůvodňuje. Strana: tištěná 66. Odhady (mléko, vejce, doba pečení, velikost dávky) ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 66, "titleOriginal": "Mystery, or Cheap Plum Cake at 3d. per lb." },
+  "verified": false,
+  "quote": "Dough with milk. Bake in a slow oven, wash with egg on top."
+}

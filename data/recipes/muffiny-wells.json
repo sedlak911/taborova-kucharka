@@ -1,0 +1,36 @@
+{
+  "id": "muffiny-wells",
+  "title": "Muffiny pečené na plotně",
+  "titleOriginal": "Muffins",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 135,
+  "difficulty": 3,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 450, "unit": "g", "scaling": "linear", "note": "prosátá; zdroj „good Hungarian flour“ (silná pšeničná); část na podsypání" },
+    { "ingredientId": "mleko-polotucne", "amount": 160, "unit": "ml", "scaling": "linear", "note": "vlažné, 32–38 °C; množství odhad (zdroj „water and milk“ do hustého těsta)" },
+    { "ingredientId": "voda", "amount": 160, "unit": "ml", "scaling": "linear", "note": "vlažná, 32–38 °C; množství odhad" },
+    { "ingredientId": "drozdi-cerstve", "amount": 14, "unit": "g", "scaling": "linear", "note": "zdroj: 2 oz droždí" },
+    { "ingredientId": "cukr-krystal", "amount": 7, "unit": "g", "scaling": "linear", "note": "zdroj: 1 oz" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "scaling": "linear", "note": "zdroj: ¾ oz" },
+    { "ingredientId": "ryzova-mouka", "amount": 10, "unit": "g", "scaling": "linear", "note": "na podsypání prkna; odhad" }
+  ],
+  "steps": [
+    { "text": "Ve vlažném mléce a vodě rozpusť droždí, cukr a sůl.", "minutes": 3 },
+    { "text": "Přidej prosátou mouku a těsto rukou důkladně šlehej alespoň deset minut.", "minutes": 10 },
+    { "text": "Těsto v míse nech na teplém místě nakynout do poloviny.", "minutes": 30 },
+    { "text": "Znovu je šlehej dalších deset minut.", "minutes": 10 },
+    { "text": "Těsto nech stát, dokud nezačne klesat.", "minutes": 30 },
+    { "text": "Prkno dobře posyp prosátou moukou a rukou na něj ukládej kusy těsta v řadách jako muffiny. Druhé prkno lehce posyp rýžovou moukou. Prsty stáhni okraje každého muffinu do středu, aby vznikl kulatý koláček, přendej ho do dlaně, setři z něj mouku a ulož ho na prkno s rýžovou moukou.", "minutes": 10 },
+    { "text": "Muffiny nech krátce dokynout na teplém místě.", "minutes": 20 },
+    { "text": "Rozehřej plotnu nebo pánev. Muffiny na ni jemně vyklop, aby z nich neuniklo nakynutí.", "parallel": true, "minutes": 1 },
+    { "text": "Až jsou pěkně hnědé, opatrně je otoč a dopeč je dozlatova i z druhé strany.", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj je pekařská dávka: 4 lb mouky (1 814 g), 2 oz droždí, 1 oz cukru a ¾ oz soli, tekutina „as much as will make a nice-sized batter“, dávka dává 24 muffinů (asi 75 g mouky na kus). Domácí dávka je zmenšená na čtvrtinu, tedy 6 muffinů; na porci vychází 1,5 muffinu (asi 450 kcal). Množství tekutiny (poloviční mléko, polovina voda, dohromady asi 70 % hmotnosti mouky) je odhad: těsto má být měkké, ale takové, aby šlo rukou stáhnout do kulatého koláčku. Zdroj uvádí jen teplotu tekutiny (90–100 °F, tedy 32–38 °C), doby kynutí neuvádí: „do poloviny“, „dokud nezačne klesat“ (batter starting to drop) a „krátké“ dokynutí (30, 30 a 20 min) jsou odhad, doba pečení také (zdroj: „a nice brown“, otočit a dopéct); dobu kynutí nezkracuj, těsto nesmí vychladnout. Zdroj neuvádí tuk; peče se na rozehřáté plotně, doma na suché nebo velmi lehce vymazané pánvi na střední teplotě. Podobné jsou anglické muffiny (anglicke-muffiny), tady jde o dobovou tekutou verzi tvarovanou rukou. Sůl je ze zdroje beze změny (5 g). Zdroj navazuje variantou č. 15 (tvarování jako tea-cakes), kterou autor nedoporučuje, a popisem plynové plotny na s. 26.",
+  "source": { "book": "wells-1890", "page": 25, "titleOriginal": "Muffins" },
+  "verified": false,
+  "quote": "Practice and judgment are required to make one proficient in muffin-making."
+}

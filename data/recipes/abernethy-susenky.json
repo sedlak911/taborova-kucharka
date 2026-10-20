@@ -1,0 +1,32 @@
+{
+  "id": "abernethy-susenky",
+  "title": "Abernethyho kmínové sušenky",
+  "titleOriginal": "Abernethys as made in London",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 320, "unit": "g", "scaling": "linear", "note": "zdroj 7 lb" },
+    { "ingredientId": "cukr-krystal", "amount": 25, "unit": "g", "scaling": "linear", "note": "zdroj 8 oz" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "scaling": "linear", "note": "zdroj 8 oz" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "scaling": "linear", "note": "zdroj 4 vejce; v praxi 1 vejce rozšlehej a odlej asi 40 %" },
+    { "ingredientId": "mleko-plnotucne", "amount": 85, "unit": "ml", "scaling": "linear", "note": "zdroj 1½ pinty (imperiální, 852 ml)" },
+    { "ingredientId": "pomerancova-kvetova-voda", "amount": 3, "unit": "ml", "scaling": "linear", "note": "zdroj 2 polévkové lžíce" },
+    { "ingredientId": "kmin-cely", "amount": 1, "unit": "g", "scaling": "linear", "note": "zdroj ½ oz" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Do mouky vetři máslo, přidej cukr a kmín. Vejce rozšlehej s mlékem a pomerančovou vodou a vlij do mouky.", "minutes": 8 },
+    { "text": "Vypracuj tuhé těsto, dobře ho prohněť a rozděl na asi 8 kousků po 57 g.", "minutes": 7 },
+    { "text": "Každý kousek zformuj do kuličky, vyválej na placku a propíchej ji vidličkou skrz naskrz.", "minutes": 12 },
+    { "text": "Peč v mírné troubě do zlatohnědé barvy.", "minutes": 22 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, s. 40, č. 62) je pekařská dávka: 7 lb mouky, 8 oz cukru, 8 oz másla, 4 vejce, 1½ pinty mléka, 2 polévkové lžíce pomerančové květové vody a ½ oz kmínu; dávka je zde vydělena 10. Postup č. 62 neuvádí, přebrán z č. 61 (Dr. Abernethy's Original Recipe): kusy se váží po 2 oz (asi 57 g), vytvarují, „pinned and docked“ (vyválí a propíchají) a pečou v mírné troubě. Wellsova poznámka: troubu na sušenky s cukrem netřeba tak horkou, protože se v ní rychleji barví. Kniha dává při 2 oz na kus asi 80 sušenek; zde asi 8 kusů, tj. 2 na porci (asi 370 kcal). Vejce 0,4 ks je přepočet, ne chyba; těsto vychází tuhé, mléka je k mouce málo, dolévej po lžících podle mouky. Zdroj neuvádí teplotu ani dobu pečení („moderate oven“): 180 °C a asi 22 minut je odhad, hlídej barvu. Pomerančová květová voda je v katalogu; bez ní stačí kapka strouhané citronové kůry. Postup č. 63 (jiná varianta) přidává do těsta trochu amonia „volatile salts“; v č. 62 není. Odhad teploty a doby pečení ⇒ verified false.",
+  "source": { "book": "wells-1890", "page": 40, "titleOriginal": "Abernethys as made in London" },
+  "verified": false,
+  "quote": "7 lbs. of flour, 8 ozs. of sugar, 8 ozs. of butter, 4 eggs, 1½ pint of milk, 2 tablespoonfuls of orange-flower water, ½ oz. of caraway seeds."
+}

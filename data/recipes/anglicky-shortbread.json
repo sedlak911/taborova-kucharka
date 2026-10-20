@@ -1,0 +1,31 @@
+{
+  "id": "anglicky-shortbread",
+  "title": "Anglický shortbread s vejci",
+  "titleOriginal": "English Shortbread",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "zdroj 1 lb" },
+    { "ingredientId": "maslo", "amount": 100, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb" },
+    { "ingredientId": "cukr-moucka", "amount": 100, "unit": "g", "note": "zdroj ½ lb" },
+    { "ingredientId": "vejce", "amount": 0.9, "unit": "ks", "note": "zdroj 2 vejce" },
+    { "ingredientId": "citronova-kura", "amount": 4, "unit": "g", "note": "na ozdobu; množství je odhad" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na střední teplotu, cca 170 °C." },
+    { "text": "Máslo vyšlehej s moučkovým cukrem do hladka.", "minutes": 5 },
+    { "text": "Přidej vejce a postupně vmíchej mouku. Vše promni rukou, dokud nevznikne hladké, měkké těsto, které se dobře tvaruje.", "minutes": 10 },
+    { "text": "Těsto rozdělej na kusy požadované velikosti a tvaruj čtverce nebo kolečka. Povrch propichej vidličkou a okraje zvlň zářezy.", "minutes": 10 },
+    { "text": "Povrch ozdob úhlednými proužky citronové kůry.", "minutes": 3 },
+    { "text": "Tvarované kusy polož na suchý čistý plech a peč ve střední troubě, dokud nejsou lehce zlatavé, asi 25 minut.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj (Wells 1890, č. 55) je dávka na 1 lb (454 g) mouky; přepočteno na 4 porce faktorem 4/9: 200 g mouky, 100 g másla, 100 g moučkového cukru, 0,9 vejce (zdroj 2 vejce × 0,44 = 0,88; v praxi 1 menší vejce; cca 6 kusů, tedy 4 porce po 1–2 kusech). Postup zdroj uvádí jen „jako u skotského shortbreadu“ (č. 54), proto jsou kroky převzaté z receptu Skotské máslové sušenky; vejce se přidává k máslu a cukru. Zdroj udává „sugar“, použit moučkový jako u skotského. Zdroj ozdobuje povrch citronovou kůrou a kmínovými cukrovinkami (caraway comfits); comfits jsou vynechány, množství citronové kůry (4 g) je odhad, proto verified: false. Teplota a čas pečení ve zdroji nejsou („moderate oven“), 170 °C a 25 minut jsou odhad. Moderní tip: nechat vychladnout na mřížce. Zdroj neuvádí velikost porce, kontrola bilance proběhla s porcí 114 g (1–2 kusy).",
+  "source": { "book": "wells-1890", "page": 37, "titleOriginal": "English Shortbread" },
+  "verified": false,
+  "quote": "ornament the tops with designs of neatly-cut lemon peel and caraway comfits"
+}
