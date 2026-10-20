@@ -1,0 +1,155 @@
+{
+  "id": "krehky-kolac-s-jablky",
+  "title": "Křehký koláč s jablky",
+  "titleOriginal": "Křehký koláč s jablky",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 70,
+  "difficulty": 3,
+  "tags": [
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 30,
+      "unit": "g",
+      "note": "těsto"
+    },
+    {
+      "ingredientId": "hruba-mouka",
+      "amount": 25,
+      "unit": "g",
+      "note": "těsto"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 0.6,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kypřící prášek do těsta"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "změklé, do těsta",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 25,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 12,
+      "unit": "g",
+      "note": "do těsta, prosátý"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 20,
+      "unit": "ml",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 0.69,
+      "unit": "g",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "jablko",
+      "amount": 180,
+      "unit": "g",
+      "note": "z 200 g hrubé × 0,9; oloupaná, bez jádřince, na jemné plátky"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 20,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "krupicový, do náplně"
+    },
+    {
+      "ingredientId": "vanilkovy-cukr",
+      "amount": 2,
+      "unit": "g",
+      "note": "do náplně"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 4,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "jemně nastrouhaná z pečlivě opláchnutého citronu"
+    },
+    {
+      "ingredientId": "bramborovy-skrob",
+      "amount": 4,
+      "unit": "g",
+      "note": "bramborová moučka, do náplně"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "zdroj 1/2 ks na 10 porcí; rozmíchané, na potření povrchu"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na posypání hotového koláče"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Hladkou a hrubou mouku prosej s kypřícím práškem, přidej změklé máslo, prosátý moučkový cukr, vodu a špetku soli. Zamíchej a velmi krátce propracuj v těsto.",
+      "minutes": 10
+    },
+    {
+      "text": "Dvěma třetinami těsta vylož dno malého dortového tvořítka (asi 16 cm) a vytvoř asi 2 cm vysoký okraj.",
+      "minutes": 10
+    },
+    {
+      "text": "Jablka nakrájená na jemné plátky promíchej s krupicovým a vanilkovým cukrem, jemně nastrouhanou citronovou kůrou a bramborovým škrobem.",
+      "minutes": 8
+    },
+    {
+      "text": "Jablka rozlož na těsto a přikryj zbylou třetinou těsta.",
+      "minutes": 5
+    },
+    {
+      "text": "Povrch potři rozmíchaným vejcem a propíchej vidličkou, aby při pečení mohla unikat pára.",
+      "minutes": 3
+    },
+    {
+      "text": "Koláč upeč ve středně vyhřáté troubě (asi 180 °C) dozlatova.",
+      "minutes": 30
+    },
+    {
+      "text": "Koláč nakrájej na 4 kousky a posyp moučkovým cukrem."
+    }
+  ],
+  "modernNote": "Kniha dává 10 porcí (výsečí) po 50 g, hotový výrobek 500 g; 4 porce = 4 knižní výseče, faktor 0,4 (asi 200 g hotového koláče, malé tvořítko asi 16 cm). Výseč 50 g má asi 180 kcal; jako samostatný zákusek počítej spíš dvojnásobek (dávku zdvojnásob na tvořítko 20–22 cm). Margarín ze zdroje nahrazuje máslo. Jablka: kniha uvádí hrubou 500 g a čistou 325 g, zde 200 g hrubé × 0,9 (jedlá část podle katalogu) = 180 g. Vejce 1/2 kusu pro 10 porcí = 0,2 ks pro 4 porce; rozmíchej celé vejce a potři jen trochou. Teplota ve zdroji není, „středně vyhřátá trouba“ = asi 180 °C; doba pečení 30 minut je odhad. Bramborová moučka = bramborový škrob. Bilance: surovin je asi 90 g na porci, hotového koláče 50 g – kniha počítá ztráty pečením 258 g z 758 g (odpar vody z jablek a těsta), proto nález bilance odpovídá zdroji. Sůl je ze zdroje (1,5 g na 10 porcí), v těstě stačí špetka. Kypřicí prášek 0,6 g je přesný přepočet zdroje (1,5 g na 10 porcí), asi 1/8 lžičky.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 531,
+    "code": "19533",
+    "titleOriginal": "KŘEHKÝ KOLÁČ S JABLKY"
+  },
+  "verified": true
+}

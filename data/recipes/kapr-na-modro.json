@@ -1,0 +1,170 @@
+{
+  "id": "kapr-na-modro",
+  "title": "Kapr na modro",
+  "titleOriginal": "Kapr na modro",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [
+    "pripravit-predem"
+  ],
+  "equipment": [
+    "plotna",
+    "lednice"
+  ],
+  "allergens": [
+    "ryby",
+    "siricitany",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "kapr",
+      "amount": 800,
+      "unit": "g",
+      "note": "očištěný kapr s kůží a šupinami; zdroj množství neudává, odhad"
+    },
+    {
+      "ingredientId": "vinny-ocet",
+      "amount": 250,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "80 ml na polití ryby, zbytek do lázně; lázeň se po uvaření procedí, zelenina se odstraní; odhad"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 125,
+      "unit": "ml",
+      "note": "studničná, ke zředění lázně (zdroj „polovic“ octa); lázeň, ne do porce",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "cesnek",
+      "amount": 8,
+      "unit": "g",
+      "note": "2 stroužky; zdroj množství neudává"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 80,
+      "unit": "g",
+      "note": "1 střední, na nudle"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 70,
+      "unit": "g",
+      "note": "1 mrkev, na nudle"
+    },
+    {
+      "ingredientId": "petrzel-koren",
+      "amount": 50,
+      "unit": "g",
+      "note": "1 petržel, na nudle"
+    },
+    {
+      "ingredientId": "celer-bulvovy",
+      "amount": 60,
+      "unit": "g",
+      "note": "půl menšího celeru, na nudle"
+    },
+    {
+      "ingredientId": "cely-pepr",
+      "amount": 0.5,
+      "unit": "g",
+      "note": "asi 10 zrnek"
+    },
+    {
+      "ingredientId": "zazvor",
+      "amount": 4,
+      "unit": "g",
+      "note": "odhad"
+    },
+    {
+      "ingredientId": "novy-koreni",
+      "amount": 0.6,
+      "unit": "g",
+      "note": "asi 6 zrnek"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 3,
+      "unit": "ks",
+      "note": "odhad"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.4,
+      "unit": "g",
+      "note": "dymián, „kousek“"
+    },
+    {
+      "ingredientId": "bobkovy-list",
+      "amount": 2,
+      "unit": "ks"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "do polévacího octa i do lázně; odhad"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 3,
+      "unit": "g",
+      "note": "na ozdobu; odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Kapra nech neoškrabaného, vyndej vnitřnosti, rozsekej ho na kusy a přemyj.",
+      "minutes": 10
+    },
+    {
+      "text": "Kusy narovnej na mísu šupinami navrch.",
+      "minutes": 2
+    },
+    {
+      "text": "Asi 80 ml vinného octa osol a svař. Horkým octem polej rybu, aby zmodrala.",
+      "minutes": 8
+    },
+    {
+      "text": "Mezitím nakrájej cibuli, mrkev, petržel a celer na nudle a česnek na plátky.",
+      "minutes": 10,
+      "parallel": true
+    },
+    {
+      "text": "Použitý ocet slej na pánev. Přidej česnek, cibuli, pepř, zázvor, nové koření, hřebíček, dymián, bobkové listy, mrkev, petržel a celer. Trochu osol, přilej zbylý vinný ocet a vodu (je-li ocet příliš ostrý).",
+      "minutes": 3
+    },
+    {
+      "text": "Pánev přikryj papírem a pokličkou a nech půl hodiny vařit.",
+      "minutes": 30
+    },
+    {
+      "text": "Vlož kapra, znovu přikryj a nech něco přes čtvrt hodiny vařit.",
+      "minutes": 20
+    },
+    {
+      "text": "Rybu vyndej na mísu a přeced na ni vývar s rosolem.",
+      "minutes": 3
+    },
+    {
+      "text": "Nech ve studeně ztuhnout."
+    },
+    {
+      "text": "Ozdob citronovou kůrou a podávej studené.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani počet porcí; kapr 800 g očištěné ryby ≈ 4 porce po 200 g a ostatní množství jsou odhady z „kousek“, „jednu“ a „půl“. Kapr se neškrábe a polévá se horkým octem, aby zmodral. Octová lázeň (ocet + voda) má třídu vessel: ryba se v ní vaří a na talíř se procedí jen tolik, kolik se ztuhne na rosol, proto se nepočítá do hmotnosti porce. Porce je 200 g ryby plus trocha rosolu. Doba vaření (půl hodiny lázeň, něco přes čtvrt hodiny ryba) odpovídá zdroji; dnes stačí rybu v lázni pouze podusit, dokud se maso nerozpadá. „Prožíravý papír“ (pergamen) nahraď pečicím papírem. Rosol vznikne jen z kostí a kůže; pokud nezatuhne, nech déle chladit nebo přidej lžičku želatiny. Na stejný způsob se dá připravit štika (zdroj).",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 297,
+    "titleOriginal": "Kapr na modro"
+  },
+  "verified": false,
+  "quote": "Trhni kapra, ale neoškrab ho, vyndej z něho vnitřnosti, rozsekej ho na kusy"
+}

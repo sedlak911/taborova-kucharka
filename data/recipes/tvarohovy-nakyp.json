@@ -1,0 +1,35 @@
+{
+  "id": "tvarohovy-nakyp",
+  "title": "Tvarohový nákyp",
+  "titleOriginal": "Tvarohový nákyp",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 85,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "tvaroh", "amount": 600, "unit": "g", "note": "měkký, prolisovaný přes síto" },
+    { "ingredientId": "smetana-na-vareni", "amount": 100, "unit": "g", "note": "smetana 12 %; 2/5 do hmoty, zbytek na přelití" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "note": "zdroj 3 ks na 10 porcí; žloutky do hmoty, bílky na sníh" },
+    { "ingredientId": "cukr-krystal", "amount": 60, "unit": "g", "scaling": "linear", "note": "část na sníh z bílků" },
+    { "ingredientId": "krupice-psenicna", "amount": 60, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "vanilkovy-cukr", "amount": 2, "unit": "g", "note": "zdroj: proutky vanilky (5 g na 10 porcí) nebo vanilkový cukr" },
+    { "ingredientId": "rozinky", "amount": 40, "unit": "g", "note": "přebrané, opláchnuté a spařené" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "scaling": "linear", "note": "na vymazání forem a kousky na povrch" },
+    { "ingredientId": "strouhanka", "amount": 12, "unit": "g", "note": "ze zdroje strouhané karlovarské suchary" }
+  ],
+  "steps": [
+    { "text": "Tvaroh prolisuj přes síto a dej do mísy. Přidej 2/5 smetany, žloutky, cukr (část si nech na sníh), prosátou krupici a vanilku a vše promíchej.", "minutes": 5 },
+    { "text": "Rozinky přeber, opláchni, spař horkou vodou a zlehka vmíchej do hmoty.", "minutes": 5 },
+    { "text": "Z bílků ušlehej tuhý sníh s trochou cukru a zlehka ho vmíchej do hmoty.", "minutes": 8 },
+    { "text": "Předehřej troubu na 180 °C. Hmotu rozděl do máslem vymazaných šálků (nebo vlož do pudinkové formy), posyp strouhanými suchary a poklaď kousky másla.", "minutes": 7 },
+    { "text": "Šálky nebo formu vlož do vodní lázně a zvolna peč v troubě asi 1 hodinu.", "minutes": 60 },
+    { "text": "Porce nákypu vyklop na talíř a přelij zbývající smetanou." }
+  ],
+  "modernNote": "Kniha dává 10 porcí po 220 g (hotový výrobek 2 200 g), tedy 4 porce = 880 g; dávka je přepočtena faktorem 0,4. Vejce jsou 3 ks na 10 porcí (120 g po 40 g/ks), tedy 1,2 ks na 4 porce; v kuchyni vezmi 1 vejce a k němu žloutek navíc, nebo celé vejce a polovinu druhého. Vanilka: zdroj uvádí 5 g proutků (nebo vanilkový cukr), použit je vanilkový cukr. Karlovarské suchary nahrazuje strouhanka. Smetana 12 % je smetana na vaření; v kuchyni vyjde i smetana 10–15 %. Doba pečení „asi 1 hodinu“ je ze zdroje, teplotu kniha neuvádí, 180 °C je odhad.",
+  "source": { "book": "receptury-1983", "page": 510, "code": "19461", "titleOriginal": "TVAROHOVÝ NÁKYP" },
+  "verified": true
+}

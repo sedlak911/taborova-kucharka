@@ -1,0 +1,161 @@
+{
+  "id": "bramborove-koblihy",
+  "title": "Bramborové koblihy",
+  "titleOriginal": "Koblihy ze zemčat",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 95,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupané, uvařené; zdroj množství neuvádí (odhad)",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "note": "na vaření brambor, slije se; domácí hodnota 1 l na 1 kg",
+      "group": "Těsto",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do vody na vaření, slije se",
+      "group": "Těsto",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 25,
+      "unit": "g",
+      "note": "„kousek másla“ (odhad)",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zdroj 3 celá vejce na větší dávku (odhad)",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 1,
+      "unit": "ks",
+      "note": "zdroj 3 žloutky na větší dávku (odhad)",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 150,
+      "unit": "g",
+      "note": "tolik, aby se těsto nelepilo na ruce (odhad)",
+      "group": "Těsto"
+    },
+    {
+      "ingredientId": "povidla",
+      "amount": 120,
+      "unit": "g",
+      "note": "dobrá povidla",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 10,
+      "unit": "g",
+      "note": "„osladit“ povidla (odhad)",
+      "group": "Náplň",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "citronova-kura",
+      "amount": 2,
+      "unit": "g",
+      "note": "strouhaná",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "hrebicek-mlety",
+      "amount": 0.2,
+      "unit": "g",
+      "group": "Náplň"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 150,
+      "unit": "g",
+      "note": "na smažení, zůstane v pánvi",
+      "group": "Smažení",
+      "scaling": "vessel"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "nasáklé (odhad)",
+      "group": "Smažení",
+      "scaling": "fat"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory oloupej, dej do hrnce, zalij osolenou vodou a vař do měkka. Pak je sceď.",
+      "minutes": 30
+    },
+    {
+      "text": "Brambory na míse rozmačkej a utři s máslem. Vmíchej vejce a žloutek.",
+      "minutes": 8
+    },
+    {
+      "text": "Přidávej mouku, dokud se těsto nepřestane lepit na ruce.",
+      "minutes": 5
+    },
+    {
+      "text": "Povidla oslaď cukrem a smíchej s citronovou kůrou a hřebíčkem.",
+      "minutes": 3
+    },
+    {
+      "text": "Těsto vyválej na válu na plát silný asi na dvě stébla (zhruba 5 mm).",
+      "minutes": 10
+    },
+    {
+      "text": "Na polovinu plátu dávej hromádky povidel. Přikryj druhým plátem.",
+      "minutes": 8
+    },
+    {
+      "text": "Kolem hromádek vykrájej kulaté koblihy a okraje dobře přitiskni.",
+      "minutes": 10
+    },
+    {
+      "text": "V pánvi rozpal máslo a koblihy smaž z obou stran dozlatova.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Kniha neuvádí množství brambor ani mouky ani počet porcí; dávka je odhad na 12 menších koblih (3 na porci, 4 porce po ~445 kcal, asi 225 g), proto verified: false. Zdroj má 3 celá vejce a 3 žloutky na větší dávku, zde 1 vejce a 1 žloutek. Plát „na dvě stébla tlustý“ je asi 5 mm. Sůl do vody na vaření brambor je domácí hodnota (2 g na 1 l). Smažení na másle podle knihy; máslo se pálí, proto raději přepuštěné máslo nebo olej, případně polovina na půl. Kniha uvádí také slanou náplň ze sekaných hříbků, vajíček, raků a štiky (nepřevzato). Tip: koblihy po usmažení nech okapat na papírové utěrce a posyp moučkovým cukrem.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 344,
+    "titleOriginal": "Koblihy ze zemčat"
+  },
+  "verified": false,
+  "quote": "Uvař pěkná zemčata, dej je na mísu, rozmačkej a utři je s kouskem másla"
+}

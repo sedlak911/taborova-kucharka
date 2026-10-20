@@ -1,0 +1,94 @@
+{
+  "id": "nudle-s-pernikem",
+  "title": "Nudle s perníkem",
+  "titleOriginal": "Nudle s perníkem",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "rychle",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "vajecne-nudle",
+      "amount": 160,
+      "unit": "g",
+      "note": "široké nudle"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1500,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na uvaření a propláchnutí nudlí, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se; zdroj 20 g na 10 porcí"
+    },
+    {
+      "ingredientId": "pernik",
+      "amount": 40,
+      "unit": "g",
+      "note": "jemně nastrouhaný"
+    },
+    {
+      "ingredientId": "cukr-moucka",
+      "amount": 40,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 40,
+      "unit": "g",
+      "note": "polovina do nudlí, polovina na přelití"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Vodu osol a přiveď k varu.",
+      "minutes": 10
+    },
+    {
+      "text": "Nudle vsyp do vařící vody a uvař je do měkka.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím jemně nastrouhej perník a smíchej ho s moučkovým cukrem.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Nudle vylov, pečlivě propláchni, nech okapat a promasti asi polovinou másla.",
+      "minutes": 3
+    },
+    {
+      "text": "Nudle posyp směsí perníku s cukrem a přelij zbylým rozpuštěným máslem.",
+      "minutes": 2
+    }
+  ],
+  "modernNote": "Kniha uvádí 20 g soli na 400 g nudlí (10 porcí) do vody na vaření; ta se slije, proto má sůl třídu vessel, množství je ze zdroje × 0,4 = 8 g. Voda na vaření je domácí hodnota (1,5 l na 160 g nudlí). Hmotnost porce na kartě (120 g) zahrnuje nudle nasáklé vodou (400 g suchých dává 960 g uvařených, tedy 4 porce = 384 g uvařených); suroviny zde jsou suché, proto check:recipe hlásí poměr 0,58 k porci zdroje. Porce 120 g včetně sypání a maštění je v knize moučník; jako samostatné jídlo ji počítej větší. Široké nudle zde mapují na vaječné nudle.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 529,
+    "code": "19530",
+    "titleOriginal": "NUDLE S PERNÍKEM"
+  },
+  "verified": true
+}

@@ -1,0 +1,101 @@
+{
+  "id": "celozrnny-chleb-s-melasou",
+  "title": "Celozrnný chléb s melasou",
+  "titleOriginal": "Graham Bread",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 330,
+  "difficulty": 3,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 100,
+      "unit": "g",
+      "note": "prosátá, do kvásku (sponge)"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 5,
+      "unit": "g",
+      "note": "ve zdroji kvasnicový předkvas (ferment) z brambor a mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 270,
+      "unit": "ml",
+      "note": "vlažná; 170 ml do kvásku a 100 ml na jeho zředění"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 8,
+      "unit": "g",
+      "note": "do zřeďovací vody; moderní dávka 2 % z mouky",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "melasa",
+      "amount": 30,
+      "unit": "g",
+      "note": "zdroj ¼ pinty na půl galonu zředěného kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "celozrnna-mouka",
+      "amount": 300,
+      "unit": "g",
+      "note": "Graham, ve zdroji „aby vzniklo spíše měkké těsto“, množství odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prosátou hladkou mouku vymíchej s droždím a větší částí vlažné vody do husté kaše (kvásek). Zakryj a nech v teple kynout, dokud nevystoupí téměř k okraji mísy a pak o něco neklesne.",
+      "minutes": 120
+    },
+    {
+      "text": "Sůl rozpusť ve zbylé vlažné vodě a zřeď tím kvásek. Přidej melasu a promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Přisypávej celozrnnou mouku, dokud nevznikne spíše měkké těsto. Dobře ho propracuj.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Těsto přelož na pracovní plochu, zpracuj dohromady, vytvaruj bochník a vlož do vymazané formy. Přikryj.",
+      "minutes": 5
+    },
+    {
+      "text": "Nech těsto ve formě krátce odpočinout a kynout. Pokud těsto praská a trhá se, bylo do kvásku málo vody.",
+      "minutes": 45
+    },
+    {
+      "text": "Předehřej troubu na 200 °C, pozor, aby nebyla příliš studená. Peč chléb asi 45 minut, dokud nezhnědne a při poklepání nezní dutě.",
+      "minutes": 45
+    },
+    {
+      "text": "Vyjmi chléb z formy, postav ho na hranu a přikryj hustou utěrkou, aby měkká kůrka zůstala měkká."
+    }
+  ],
+  "modernNote": "Zdroj nedává množství mouky: Graham mouka se přisypává ke každému půl galonu (1,9 l) zředěného kvásku s ¼ pinty (118 ml) melasy, „aby vzniklo spíše měkké těsto“. Pekařská dávka je přepočtena na jeden menší bochník (asi 600 g po upečení, 4 porce po 3 krajících, cca 150–180 g): ¼ pinty melasy na 1,9 l kvásku dává pro asi 370 ml zředěného kvásku 23 ml, tj. asi 30 g. Množství mouky (100 g hladké do kvásku, 300 g celozrnné), vody, droždí (zdroj používá předkvas z mouky a brambor, tzv. ferment, ke kterému se pro kvásek přidá třetina vody), kynutí kvásku (zdroj: nechat klesnout o 2–3 palce) a pečení (zdroj čas ani teplotu neuvádí) jsou odhad, proto verified false. Sůl: zdroj dává ½ lb na 3 galony vody (asi 20 g na litr), to by pro 100 ml vody bylo jen 2 g, proto moderních 8 g (2 % z mouky). Zdroj ponechává těsto kynout půl hodiny až hodinu a půl; vzato horní mez 90 minut. Dnes lze kvásek nechat přes noc v lednici a dobu kynutí zkrátit. Melasu lze nahradit hnědým cukrem 1:1.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 14,
+    "titleOriginal": "Graham Bread"
+  },
+  "verified": false,
+  "quote": "To each half gallon sponge after it has been thinned, add one-fourth pint of N. O. molasses, and add Graham flour to make a rather soft dough."
+}
