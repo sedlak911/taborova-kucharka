@@ -1,0 +1,35 @@
+{
+  "id": "parizsky-dort",
+  "title": "Pařížský škrobový dort",
+  "titleOriginal": "Paris Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "cukr-krystal", "amount": 140, "unit": "g", "scaling": "linear", "note": "zdroj 1¼ lb bílého cukru" },
+    { "ingredientId": "vejce", "amount": 3.75, "unit": "ks", "note": "zdroj 15 vajec" },
+    { "ingredientId": "zloutek", "amount": 2, "unit": "ks", "note": "zdroj žloutky z dalších 8 vajec" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "scaling": "linear", "note": "zdroj ¼ lb; rozpuštěné do hustého oleje" },
+    { "ingredientId": "citronove-aroma", "amount": 1, "unit": "g", "note": "odhad: zdroj „a little oil of lemon“" },
+    { "ingredientId": "kukuricny-skrob", "amount": 140, "unit": "g", "scaling": "linear", "note": "zdroj 1¼ lb" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Máslo rozpusť na hustý olej.", "minutes": 3 },
+    { "text": "Cukr a vejce se žloutky šlehej, dokud směs stékající ze zvednuté metly nezůstane chvíli ležet na povrchu, než zapadne.", "minutes": 15 },
+    { "text": "Metlu vyndej, vmíchej citronovou esenci a vlij máslo. Míchej stěrkou.", "minutes": 3 },
+    { "text": "Vmíchej kukuřičný škrob.", "minutes": 3 },
+    { "text": "Těsto rychle nalij do dvou malých vymazaných forem tak, aby bylo 4–5 cm vysoké.", "minutes": 3 },
+    { "text": "Ihned peč v troubě vyhřáté jako na piškot nebo o něco víc.", "minutes": 25 },
+    { "text": "Upečené dorty vyklop z forem na tác a nech vychladnout.", "minutes": 25 },
+    { "text": "Vychladlé dorty nakrájej na plátky ostrým nožem." }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 25–26): pekařská dávka na 1¼ lb cukru, 15 vajec + 8 žloutků a 1¼ lb kukuřičného škrobu; zde čtvrtina dávky, která dá 4 plátky po asi 400 kcal. Zdroj nedává teplotu ani dobu pečení („jako u piškotu, o něco víc teplá“): bereme 180 °C a asi 25 minut (odhad). Formy mají podle zdroje pojmout ½–1½ lb těsta, zde dvě po asi 270 g; z velkého dortu máslo klesá ke dnu, proto dort nedělej jako jeden velký. Poleva (zdroj: vychladlé dorty se polévají a krájejí na plátky) je vynechána, lze ji udělat z cukru moučky a citronové šťávy. Zdroj dodává, že někteří pekaři dávají místo škrobu polovinu mouky. „Oil of lemon“ je nahrazeno citronovou esencí, množství je odhad (u vaječného žloutku 17 g/ks).",
+  "source": { "book": "hauptmann-1877", "page": 25, "titleOriginal": "Paris Cake" },
+  "verified": false,
+  "quote": "Don’t attempt to make a large cake of this mixture, as the butter will sink to the bottom of the cake."
+}

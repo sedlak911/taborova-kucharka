@@ -1,0 +1,34 @@
+{
+  "id": "cukrove-susenky",
+  "title": "Jednoduché cukrové sušenky",
+  "titleOriginal": "Sugar Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "levne"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 230, "unit": "g", "note": "odhad: zdroj mouku neuvádí; zvoleno 2 lb na celou dávku (pevné těsto k vykrajování)" },
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb bílého cukru" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "zdroj ½ lb" },
+    { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "note": "zdroj 2 vejce; rozšlehej 1 vejce a použij polovinu" },
+    { "ingredientId": "voda", "amount": 60, "unit": "ml", "scaling": "linear", "note": "zdroj ½ pint" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "note": "náhrada za uhličitan amonný (zdroj ¼ oz)" },
+    { "ingredientId": "citronove-aroma", "amount": 0.5, "unit": "g", "note": "odhad: zdroj „oil of lemon to flavor“ bez množství" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 200 °C." },
+    { "text": "Cukr s máslem utři do hladka.", "minutes": 5 },
+    { "text": "Přidej vejce a dobře promíchej.", "minutes": 3 },
+    { "text": "Přidej kypřicí prášek, vodu a citronové aroma a zamíchej.", "minutes": 2 },
+    { "text": "Vmíchej mouku a těsto zpracuj.", "minutes": 3 },
+    { "text": "Těsto vyválej asi na ¼ palce (6 mm) a vykrajuj sušenky.", "minutes": 15 },
+    { "text": "Sušenky polož na plechy.", "minutes": 4 },
+    { "text": "Peč v horké troubě, po dávkách podle plechů.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 39–40): pekařská dávka na 1 lb (454 g) cukru, zde zmenšeno na 1/4 (4 porce, asi 12 sušenek po 3 na porci; zdroj počet kusů neuvádí). Zdroj mouku neuvádí („Mix, cut out in cakes“): odhad 2 lb na celou dávku, zde po zmenšení 230 g. Oproti White Scotch Cakes (1½ lb cukru : 1 lb másla : 2½ lb mouky, jen asi gill tekutiny) má toto těsto ½ pint vody, proto potřebuje relativně víc mouky (s 1½ lb by bylo příliš řídké k válení); přidej jen tolik, aby se těsto dalo vyválet a vykrajovat. Uhličitan amonný (¼ oz ≈ 7 g ve zdroji, zde 2 g) nahrazen kypřicím práškem v téže hmotnosti; kdo má jelení sůl (hartshorn), použije ji. Citronový olej je ve zdroji bez množství, 0,5 g aroma (několik kapek) je odhad. Zdroj uvádí jen „hot oven“ bez času a teploty: 200 °C a 20 minut na plech jsou odhad, sušenky jen lehce zezlátnou. Tip: při dvojnásobné dávce vyjde 1 celé vejce.",
+  "source": { "book": "hauptmann-1877", "page": 39, "titleOriginal": "Sugar Cakes" },
+  "verified": false
+}

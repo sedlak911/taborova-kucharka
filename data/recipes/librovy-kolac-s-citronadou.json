@@ -1,0 +1,38 @@
+{
+  "id": "librovy-kolac-s-citronadou",
+  "title": "Librový koláč s citronádou a rybízem",
+  "titleOriginal": "Citron Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "scaling": "linear", "note": "z 1 libry; ve zdroji „coarse pulverized“, tedy jemný krystal" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "z ¾ libry, měkké, ne rozpuštěné" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "z 1 tuctu" },
+    { "ingredientId": "citronove-aroma", "amount": 0.2, "unit": "ml", "note": "„a few drops oil of lemon“ z receptu Pound Cake, odhad" },
+    { "ingredientId": "citronat", "amount": 40, "unit": "g", "note": "z ½ libry citronády, nakrájený na drobno" },
+    { "ingredientId": "rozinky", "amount": 75, "unit": "g", "note": "z 1 libry „currants“, tedy sušeného korintského rybízu (drobné tmavé rozinky)" },
+    { "ingredientId": "hladka-mouka", "amount": 75, "unit": "g", "note": "z 1 libry" },
+    { "ingredientId": "cukr-moucka", "amount": 30, "unit": "g", "note": "na polevu, odhad („ice“)" },
+    { "ingredientId": "voda", "amount": 8, "unit": "ml", "scaling": "linear", "note": "na polevu, odhad" }
+  ],
+  "steps": [
+    { "text": "Cukr a měkké máslo šlehej, dokud nejsou bílé a nadýchané.", "minutes": 30 },
+    { "text": "Zašlehej první dvě vejce, seškrábni těsto ze stěn mísy a zašlehej další dvě. Takto pokračuj, dokud nejsou všechna vejce uvnitř.", "minutes": 10 },
+    { "text": "Přidej citronovou esenci, dobře promíchej a seškrábni těsto ze stěn.", "minutes": 2 },
+    { "text": "Těsně před moukou vmíchej nadrobno nakrájenou citronádu a sušený rybíz.", "minutes": 3 },
+    { "text": "Vmíchej mouku, jakmile je zapracovaná, přestaň míchat.", "minutes": 3 },
+    { "text": "Těsto nalij do čtvercové formy vyložené dvěma vrstvami hnědého papíru, uhlaď ho a uprostřed lehce prohloub.", "minutes": 3 },
+    { "text": "Peč v mírně vyhřáté troubě do zlatova.", "minutes": 50 },
+    { "text": "Upečený koláč vyklop na tác a nech úplně vychladnout." },
+    { "text": "Moučkový cukr rozmíchej s vodou na hustou pastu, potři jí vychladlý koláč, nech zaschnout na teplém místě a rozkrájej na kousky.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj nemá výtěžek ani teplotu a dobu pečení. Recept říká: připrav těsto jako na Pound Cake (strana 21), těsně před moukou přidej ½ lb citronády nakrájené nadrobno a 1 lb „currants“, peč ve čtvercové formě, vyklop na tác a po vychladnutí pomaž polevou („ice“) a rozkrájej. Dávka v knize je 1 lb cukru, ¾ lb másla, 1 tucet vajec, 1 lb mouky a navíc 1,5 lb ovoce, odhad asi 24 kousků. Na 4 porce je to šestina dávky (hotový Librový koláč má čtvrtinu, ale s ovocem by byl kousek příliš těžký): 4 kousky po zhruba 100 g, asi 400 kcal. „Currants“ jsou v americké knize 1877 sušené drobné korintky, ne čerstvý rybíz; v katalogu je nejblíže `rozinky` (tmavé rozinky, případně sušený rybíz z obchodu). Citronáda (citronát) je kandovaná kůra citronu; zdroj ji píše „citron“. Polevu zdroj popisuje jen slovem „ice“; na jiném místě (Water Icing, s. 45) uvádí moučkový cukr s vodou na hustou pastu a kapky citronového oleje, množství jsou odhad. Teplotu a dobu pečení zdroj neuvádí (peče se po chlebu v doznívající troubě, tedy mírně vyhřáté); dnes peč v troubě vyhřáté na 170 °C asi 50 minut (špejle musí vyjít suchá), doba je odhad pro malou dávku ve čtvercové formě 15–18 cm. Šlehání 20–30 minut je podle zdroje ruční: robot nebo ruční šlehač stačí na 8–10 minut. Zdroj nemá kypřidlo, těsto kyne vzduchem a vejci. Ovoce si před přidáním lehce obal v troše mouky z dávky, aby neklesalo ke dnu (moderní tip). Doporučení zdroje: používat dobré balené máslo, hnědým papírem vyložit formu. Strana: tištěná 39. Odhady (esence, poleva, doba pečení, velikost dávky) ⇒ verified false.",
+  "source": { "book": "hauptmann-1877", "page": 39, "titleOriginal": "Citron Cake" },
+  "verified": false,
+  "quote": "When baked turn out on a tray, and when cold, ice and mark in slices."
+}

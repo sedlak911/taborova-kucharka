@@ -1,0 +1,31 @@
+{
+  "id": "maslove-babovicky",
+  "title": "Máslové bábovičky",
+  "titleOriginal": "Cup Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa", "rychle"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 210, "unit": "g", "note": "zdroj 2¾ lb (1 247 g)" },
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "zdroj 1½ lb bílého cukru" },
+    { "ingredientId": "maslo", "amount": 75, "unit": "g", "scaling": "linear", "note": "zdroj 1 lb" },
+    { "ingredientId": "vejce", "amount": 1.6, "unit": "ks", "note": "zdroj 1 pint (asi 9,5 vejce); rozšlehej 2 vejce a odlij zhruba pětinu" },
+    { "ingredientId": "mleko-plnotucne", "amount": 80, "unit": "ml", "scaling": "linear", "note": "zdroj 1 pint sladkého mléka" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "note": "náhrada za sodu a vinný kámen (zdroj asi 3 g sody + 6 g vinného kamene na celou dávku)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 170 °C." },
+    { "text": "Máslo utři s cukrem do pěny, přidej vejce a mléko a promíchej.", "minutes": 8 },
+    { "text": "Mouku smíchej s kypřicím práškem a vmíchej do těsta.", "minutes": 3 },
+    { "text": "Těsto rozdělej do čtyř kulatých formiček (např. na muffiny).", "minutes": 4 },
+    { "text": "Peč v mírné, spíše chladnější troubě dozlatova.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 31): pekařská dávka 1½ lb cukru, 1 lb másla, 1 pint vajec, 1 pint mléka a 2¾ lb mouky v kulatých plechových formách po asi ½ lb těsta (celkem přes 3 kg těsta, tedy asi 14 forem). Zde zmenšeno na 1/6: 4 bábovičky po zhruba 140 g těsta (asi 450 kcal), porce odpovídá velikostí receptu Melasové bábovičky téže knihy. Zdroj nepopisuje postup mísení, krok s utíráním másla je domácí předpoklad. Kypřidlo „váha jednoho měděného centu sody a dvou centů vinného kamene“ je převedeno na kypřicí prášek: cent ≈ 3 g, tedy asi 3 g sody + 6 g vinného kamene ≈ 9 g prášku na celou dávku, zde 1,5 g zaokrouhleno na 2 g. Zdroj udává jen „moderately cool oven“ bez času a teploty: 170 °C a 25 minut jsou odhad (špejle zapíchnutá do bábovičky má vyjít čistá). Moderní tip: vanilka nebo citronová kůra dodají vůni, kterou zdroj nemá.",
+  "source": { "book": "hauptmann-1877", "page": 31, "titleOriginal": "Cup Cake" },
+  "verified": false,
+  "quote": "Put into round tin moulds holding about ½ lb. each, and bake in a moderately cool oven."
+}

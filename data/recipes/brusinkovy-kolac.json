@@ -1,0 +1,38 @@
+{
+  "id": "brusinkovy-kolac",
+  "title": "Brusinkový koláč s mřížkou",
+  "titleOriginal": "Cranberry Pie",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa", "sladke"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 150, "unit": "g", "note": "na těsto", "group": "Těsto" },
+    { "ingredientId": "maslo", "amount": 75, "unit": "g", "note": "tuhé, ne měkké", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 75, "unit": "ml", "note": "studená; přilévej postupně, může stačit méně", "group": "Těsto" },
+    { "ingredientId": "brusinky", "amount": 300, "unit": "g", "note": "čerstvé, umyté, bez zkažených", "group": "Náplň" },
+    { "ingredientId": "voda", "amount": 100, "unit": "ml", "note": "jen tak, aby brusinky skoro zakryla", "group": "Náplň" },
+    { "ingredientId": "cukr-krystal", "amount": 100, "unit": "g", "note": "prosátý", "group": "Náplň", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Formu na koláč vymaž tukem.", "minutes": 1 },
+    { "text": "Brusinky umyj a vyber ty, které se nehodí.", "minutes": 5 },
+    { "text": "Brusinky dej do kastrolu s tolika vody, aby je sotva zakryla, a vař do měkka.", "minutes": 15 },
+    { "text": "Mezitím mouku a máslo mezi dlaněmi rozetři, dokud směs není jemná.", "minutes": 5, "parallel": true },
+    { "text": "Vlij vodu na těsto a těsto jen lehce promíchej, co nejméně.", "minutes": 2, "parallel": true },
+    { "text": "Brusinky přelij do mísy a nech vychladnout.", "minutes": 20 },
+    { "text": "Brusinky protlač cedníkem nebo sítem.", "minutes": 5 },
+    { "text": "Přidej prosátý cukr a promíchej.", "minutes": 2 },
+    { "text": "Asi dvě třetiny těsta vyválej na pomoučněné ploše co nejméně, aby nebylo tvrdé, polož do formy a netlač ho prsty.", "minutes": 8 },
+    { "text": "Formu naplň brusinkovou náplní.", "minutes": 2 },
+    { "text": "Zbylé těsto vyválej, nakrájej na proužky, okraj koláče navlhči trochou vody a proužky polož šikmo přes náplň.", "minutes": 8 },
+    { "text": "Koláč peč ve středně horké troubě, dokud těsto nezezlátne.", "minutes": 40 }
+  ],
+  "modernNote": "Zdroj neuvádí žádná množství ani těsto; je to jen postup. Dopočteno odhadem (proto verified: false): 300 g brusinek, 100 g cukru a asi 100 ml vody vydají náplň na menší koláč do formy asi 18 cm, 4 porce = 4 kousky (asi 400 kcal). Těsto vychází z receptu Křehké těsto na koláč (`testo-na-pie`, Hauptmann), zmenšené na polovinu dávky pro jeden koláč (150 g mouky, 75 g másla, 75 ml vody), konzistentně s Citronovým koláčem; zapsané je zde, aby recept byl samostatný. Brusinky se po uvaření protlačují, takže slupky zůstanou v cedníku a vyjde hladká náplň; vodu před protlačením neslévej, zdroj ji nechává v ovoci. Zdroj dovoluje slazení horkých i vychladlých brusinek, bílý cukr je nejlepší a má se prosít. Teplotu ani dobu pečení zdroj neuvádí; 40 minut při asi 190 °C je odhad (hotovo, když těsto zezlátne), timeMinutes zahrnuje pečení. Obě vody (těsto a vaření brusinek) zůstávají v koláči, žádná se neslévá, proto bez vessel. Brusinky jsou dost trpké, případně přidej cukru podle chuti. Kapitola sladke: v knize je v části Tarts, Pies.",
+  "source": {"book": "hauptmann-1877", "page": 48, "titleOriginal": "Cranberry Pie"},
+  "verified": false,
+  "quote": "Fill the pie with the fruit, roll out the dough, cut it in strips and lay diagonally across, previously wetting the rim of the pie with a little water."
+}

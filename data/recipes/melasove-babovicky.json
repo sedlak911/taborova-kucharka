@@ -1,0 +1,37 @@
+{
+  "id": "melasove-babovicky",
+  "title": "Melasové bábovičky",
+  "titleOriginal": "Molasses Cup Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["sladke", "levne", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "melasa", "amount": 80, "unit": "ml", "scaling": "linear", "note": "zdroj 1 quart New Orleans molasses" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "scaling": "linear", "note": "zdroj 1 tucet" },
+    { "ingredientId": "mleko-plnotucne", "amount": 140, "unit": "ml", "scaling": "linear", "note": "sladké; zdroj 1¾ quartu" },
+    { "ingredientId": "jedla-soda", "amount": 2, "unit": "g", "scaling": "linear", "note": "zdroj 1 oz" },
+    { "ingredientId": "prasek-do-peciva", "amount": 2, "unit": "g", "scaling": "linear", "note": "kypřicí prášek místo uhličitanu amonného (zdroj 1 oz)" },
+    { "ingredientId": "citronove-aroma", "amount": 1, "unit": "spetka", "note": "zdroj: „oil of lemon“ bez množství" },
+    { "ingredientId": "hladka-mouka", "amount": 230, "unit": "g", "scaling": "linear", "note": "prosátá; zdroj „enough … to make a soft dough“ bez množství (odhad 6 lb)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 180 °C a vymaž malé vroubkované formičky." },
+    { "text": "Melasu, vejce, mléko, sodu, kypřicí prášek a citronové aroma dobře promíchej.", "minutes": 4 },
+    { "text": "Přidej tolik prosáté mouky, aby vzniklo měkké těsto. Pozor, aby nebylo příliš tuhé.", "minutes": 3 },
+    { "text": "Mouku důkladně vyšlehej do těsta.", "minutes": 5 },
+    { "text": "Těsto naplň do formiček.", "minutes": 8 },
+    { "text": "Peč ve středně vyhřáté troubě.", "minutes": 20 }
+  ],
+  "modernNote": "Zdroj (Hauptmann 1877, s. 33): pekařská dávka na 1 quart (946 ml) melasy, 1 tucet vajec a 1¾ quartu mléka (US míry), mouka bez množství. Zde 1/12 dávky; mouku jsem odhadl na 230 g (zdroj nechává množství na „měkké těsto“), těsto váží asi 540 g a dá asi 10 báboviček po 50 g, tedy 2 až 3 kusy na porci (asi 330 kcal). Kniha dává dávku na desítky kusů. Zdroj udává kypřidla soda a uhličitan amonný (hartshorn): sodu s kyselou melasou jsem nechal, amonium jsem nahradil kypřicím práškem ve stejné hmotnosti. Máslo nebo sádlo je podle zdroje volitelné, proto je ve výčtu surovin není (lžíce másla navíc těsto zjemní). Zdroj neuvádí teplotu ani dobu pečení: „moderate oven“ beru jako 180 °C a 20 minut je odhad; zkoušej špejlí. Těsto má být měkké, spíš husté než lité. „Oil of lemon“ je aroma: dej jen špetku nebo trochu strouhané kůry.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 33,
+    "titleOriginal": "Molasses Cup Cake"
+  },
+  "verified": false,
+  "quote": "Beat the flour in well, and bake in small scalloped moulds in a moderate oven."
+}

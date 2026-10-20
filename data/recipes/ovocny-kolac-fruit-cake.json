@@ -16,7 +16,7 @@
     { "ingredientId": "hladka-mouka", "amount": 70, "unit": "g", "note": "zdroj 1¼ lb" },
     { "ingredientId": "rozinky", "amount": 85, "unit": "g", "note": "bezsemenné; zdroj 1½ lb" },
     { "ingredientId": "korintky", "amount": 85, "unit": "g", "note": "zdroj 1½ lb currants" },
-    { "ingredientId": "kandovane-ovoce", "amount": 55, "unit": "g", "note": "zdroj 1 lb citronu (kandovaná citronová kůra), nakrájené na malé kousky" },
+    { "ingredientId": "citronat", "amount": 55, "unit": "g", "note": "zdroj 1 lb citronu, nakrájený na malé kousky" },
     { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "zdroj 1 polévková lžíce" },
     { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "zdroj mace (muškátový květ), 1 polévková lžíce" },
     { "ingredientId": "novy-koreni", "amount": 1, "unit": "g", "note": "mleté; zdroj 1 polévková lžíce" },

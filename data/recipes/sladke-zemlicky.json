@@ -1,0 +1,120 @@
+{
+  "id": "sladke-zemlicky",
+  "title": "Sladké žemličky na plechu",
+  "titleOriginal": "Rusks or Light Cakes",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "timeMinutes": 245,
+  "difficulty": 3,
+  "tags": [
+    "bez-masa",
+    "sladke"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g",
+      "note": "do kvásku (sponge), množství odhad"
+    },
+    {
+      "ingredientId": "drozdi-cerstve",
+      "amount": 5,
+      "unit": "g",
+      "note": "ve zdroji kvasnicový předkvas (ferment), množství odhad",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 120,
+      "unit": "ml",
+      "note": "vlažná, do kvásku; množství odhad (zdroj: spíše hustá kaše, „rather stiff batter“)"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.35,
+      "unit": "ks",
+      "note": "zdroj 2 vejce na ½ galonu kvásku; v praxi použij půl vejce",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 40,
+      "unit": "g",
+      "note": "zdroj ½ lb bílého cukru na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 80,
+      "unit": "ml",
+      "note": "vlažné; zdroj 1 pinta mléka nebo vody na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "měkké; zdroj ¼ lb másla nebo sádla na ½ galonu kvásku",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 1,
+      "unit": "g",
+      "note": "zdroj: „a pinch of salt“ (špetka na celou pekařskou dávku), zde rozumná špetka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 240,
+      "unit": "g",
+      "note": "dále na těsto o něco tužší než u buchet („a little stiffer“), množství odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prvních 120 g mouky vymíchej s droždím a vlažnou vodou do husté kaše (kvásek). Zakryj a nech v teple dobře vykynout.",
+      "minutes": 90
+    },
+    {
+      "text": "Kvásek dej do mísy. Přidej vejce, cukr, vlažné mléko, měkké máslo a špetku soli.",
+      "minutes": 5
+    },
+    {
+      "text": "Přisypávej zbylou mouku, dokud nevznikne měkké, ale o něco tužší těsto než u buchet. Dobře ho propracuj.",
+      "minutes": 15
+    },
+    {
+      "text": "Těsto zakryj a nech v teple dobře vykynout.",
+      "minutes": 60
+    },
+    {
+      "text": "Těsto přelož na pracovní plochu a zpracuj dohromady. Rozděl na 8 dílů a z každého vytvaruj malou kulatou žemličku, menší než buchty.",
+      "minutes": 10
+    },
+    {
+      "text": "Žemličky polož těsně k sobě do pekáčku nebo formy s vysokým okrajem a nech v teple znovu dobře vykynout.",
+      "minutes": 45
+    },
+    {
+      "text": "Předehřej troubu na 190 °C. Žemličky peč asi 20 minut do zlatova.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Zdroj říká jen: stejné těsto jako na buchty (sladke-buchty-hauptmann), jen trochu tužší; válet jako buchty, ale menší, a dát těsně k sobě na plech s vysokým okrajem; péct hned po vyndání chleba. Proto jsou suroviny převzaté z buchet (kvásek ze 120 g mouky a 120 ml vody), mouky je o 30 g víc (tužší těsto) a množství jsou odhad, proto verified false. Kvásek z předkvasu je nahrazen čerstvým droždím jako u buchet, kynutí (90, 60 a 45 minut) je převzato z buchet, teplota a doba pečení jsou doplněné (zdroj neuvádí). Dávka dává 8 žemliček po asi 80 g těsta (asi 420 kcal na 2 kusy, tj. porci); kniha počet kusů neuvádí. Vejce vychází na 0,35 ks, prakticky použij půl rozšlehaného vejce. Sůl: zdroj dává jen špetku na celou pekařskou dávku, recept drží 1 g; případný nález kontroly na málo soli je vlastnost historického receptu, dnešnímu vkusu odpovídá asi 3 g. Po upečení lze potřít lesklou polevou z cukru, melasy a vody (zdroj: „Wash to impart a gloss“) nebo rozpuštěným máslem.",
+  "source": {
+    "book": "hauptmann-1877",
+    "page": 15,
+    "titleOriginal": "Rusks or Light Cakes"
+  },
+  "verified": false,
+  "quote": "Roll in the same manner as buns, making them smaller; set close together on a pan that has a high rim."
+}
