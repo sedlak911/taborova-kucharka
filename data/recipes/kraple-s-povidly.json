@@ -1,0 +1,38 @@
+{
+  "id": "kraple-s-povidly",
+  "title": "Kraple s povidly",
+  "titleOriginal": "Kraple s povidlami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 3,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa", "sladke"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 400, "unit": "g", "note": "tuhé těsto jako na nudle (odhad, asi 100 g na vejce)", "group": "Těsto" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 30, "unit": "ml", "note": "2 lžíce", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "group": "Těsto" },
+    { "ingredientId": "povidla", "amount": 250, "unit": "g", "note": "hustá, dobře připravená (odhad)", "group": "Náplň" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "na vaření, slije se", "scaling": "vessel", "group": "Vaření" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "do vody na vaření, slije se", "scaling": "vessel", "group": "Vaření" },
+    { "ingredientId": "strouhanka", "amount": 50, "unit": "g", "note": "ze strouhané žemlové kůrky; nebo strouhaný perník (odhad)", "group": "Podávání" },
+    { "ingredientId": "maslo", "amount": 60, "unit": "g", "note": "rozpálené (odhad)", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Z mouky, vajec, vody a soli zadělej tuhé těsto jako na nudle.", "minutes": 10 },
+    { "text": "Těsto rozválej na vále asi tak tence jako na cezené nudle a povlaž ho ve vodě namočeným ubrouskem, aby nevysychalo.", "minutes": 15 },
+    { "text": "Na polovinu těsta dej z povidel malé hromádky asi na dva prsty od sebe.", "minutes": 6 },
+    { "text": "Druhou polovinou těsta hromádky přikryj a těsto kolem nich prsty dobře přimáčkni.", "minutes": 5 },
+    { "text": "Kružátkem nebo skleničkou vykrájej kraple, nejprve po celé délce těsta, pak každou krapličku ještě zvlášť vykroj.", "minutes": 10 },
+    { "text": "Mezitím přiveď v hrnci k varu osolenou vodu.", "minutes": 15, "parallel": true },
+    { "text": "Kraple zvolna vpouštěj do vařící vody a hned jimi zespodu lehce pohni, aby nepřilehly. Nech je povařit.", "minutes": 10 },
+    { "text": "Rozpal máslo.", "minutes": 3 },
+    { "text": "Kraple vyndej dírkovanou sběračkou na mísu, posyp je strouhankou a polej rozpáleným máslem." }
+  ],
+  "modernNote": "Rettigová množství neuvádí kromě čtyř vajec a dvou lžic vody; mouka (400 g, obvyklý poměr nudlového těsta 100 g na vejce), povidla (250 g), sůl, strouhanka a máslo jsou odhad pro 4 porce (asi 25–30 kraplí, na porci 6–7), proto verified: false. Zdroj neuvádí ani dobu vaření, 10 minut je odhad; hotové kraple vyplavou. Mouku přidávej postupně podle toho, kolik těsto přijme. Povidla musí být hustá, jinak vytečou; ve zdroji jsou „dobře připravená“. Strouhaná žemlová kůrka = obyčejná strouhanka (nebo strouhaný perník). Voda s 2 g soli na litr se slévá a do bilance nepatří. Peroutek = ubrousek nebo čistá utěrka. Porce je syté sladké hlavní jídlo.",
+  "source": { "book": "rettigova-1868", "page": 193, "titleOriginal": "Kraple s povidlami" },
+  "verified": false,
+  "quote": "polej je rozpáleným novým máslem"
+}

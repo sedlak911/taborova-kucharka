@@ -1,0 +1,35 @@
+{
+  "id": "smazeny-kvetak",
+  "title": "Smažený květák",
+  "titleOriginal": "Květák smažený (Minutka)",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 40,
+  "difficulty": 2,
+  "tags": ["levne", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "kvetak", "amount": 640, "unit": "g", "note": "očištěný, rozdělený na menší růžičky" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na částečné uvaření květáku, slije se (domácí hodnota)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "do rozšlehaných vajec" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g", "note": "prosátá, na obalení" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "note": "zdroj 3 ks na 10 porcí" },
+    { "ingredientId": "mleko-polotucne", "amount": 80, "unit": "ml", "note": "do vajec" },
+    { "ingredientId": "strouhanka", "amount": 160, "unit": "g", "note": "prosátá strouhaná houska" },
+    { "ingredientId": "repkovy-olej", "amount": 175, "unit": "ml", "scaling": "vessel", "note": "na smažení, zůstane v pánvi" },
+    { "ingredientId": "repkovy-olej", "amount": 13, "unit": "ml", "scaling": "fat", "note": "nasáklý (odhad)" }
+  ],
+  "steps": [
+    { "text": "Květák opláchni, rozděl na menší růžičky a vlož do vařící mírně osolené vody. Částečně uvař, vyjmi a nech okapat.", "minutes": 15 },
+    { "text": "Vejce rozšlehej s mlékem a se solí.", "minutes": 3 },
+    { "text": "Růžičky postupně obal v mouce, v rozšlehaných vejcích a ve strouhance.", "minutes": 7 },
+    { "text": "V pánvi rozehřej olej a růžičky zvolna smaž do nazlátlé barvy, aby se prosmažily.", "minutes": 15 },
+    { "text": "Podávej s brambory, salátem nebo pikantní omáčkou." }
+  ],
+  "modernNote": "Porce zdroje je 200 g hotového výrobku. Sůl ze zdroje (30 g na 10 porcí) je z velké části v osolené vodě na vaření, která se slije; do vody dáváme 2 g na litr, do vajec 3 g (doporučeno, zdroj dělení neuvádí). Voda na předvaření je domácí hodnota (zdroj uvádí jen „podle potřeby“). Olej: většina zůstane v pánvi, ~13 ml se vsákne (odhad). Strouhanka je v knize „houska strouhaná“.",
+  "source": { "book": "receptury-1983", "page": 457, "code": "19107", "titleOriginal": "KVĚTÁK SMAŽENÝ (Minutka)" },
+  "verified": true
+}

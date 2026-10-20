@@ -1,0 +1,43 @@
+{
+  "id": "zelna-polevka-s-klobasou",
+  "title": "Zelná polévka s klobásou",
+  "titleOriginal": "Polévka zelná s klobásou",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko", "soja"],
+  "ingredients": [
+    { "ingredientId": "kysele-zeli", "amount": 320, "unit": "g" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé × 0,9" },
+    { "ingredientId": "sladka-paprika", "amount": 9, "unit": "g" },
+    { "ingredientId": "houby-susene", "amount": 4, "unit": "g", "note": "směs" },
+    { "ingredientId": "bobkovy-list", "amount": 0.25, "unit": "ks" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "spek", "amount": 20, "unit": "g", "note": "uzený bůček, na drobné kostičky" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g" },
+    { "ingredientId": "smetana-na-vareni", "amount": 20, "unit": "ml", "note": "smetana 12 %" },
+    { "ingredientId": "cesnek", "amount": 6, "unit": "g", "note": "z 15 g hrubé × 0,87" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "klobasa", "amount": 80, "unit": "g", "note": "moravská" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření, na dochucení" }
+  ],
+  "steps": [
+    { "text": "Kysané zelí překrájej, podle potřeby (je-li příliš kyselé) propláchni vodou a zalij odměřenou vodou.", "minutes": 5 },
+    { "text": "Cibuli jemně nakrájej a osmaž na sádle dorůžova. Zaprášenou paprikou ji krátce zpěň, aby paprika nezhořkla.", "minutes": 10 },
+    { "text": "Cibuli s paprikou přidej k zelí. Přidej opláchnuté sušené houby nakrájené na menší kousky, bobkový list, pepř a bůček nakrájený na drobné kostičky. Přiveď k varu a vař asi půl hodiny.", "minutes": 40 },
+    { "text": "Mezitím rozmíchej mouku se smetanou a trochou vlažného odvaru ze zelí, aby nebyly hrudky.", "minutes": 3, "parallel": true },
+    { "text": "Částečně uvařené zelí zahusti touto směsí, přidej česnek utřený se solí a vař zvolna nejméně půl hodiny, občas promíchej.", "minutes": 30 },
+    { "text": "Klobásu nakrájej na tenké plátky, přidej ji před koncem varu a polévku ještě krátce povař.", "minutes": 5 },
+    { "text": "Dochuť polévkovým kořením, případně přisol." }
+  ],
+  "modernNote": "Receptura počítá 0,33 l polévky na porci včetně 20 g klobásy; norma je malá porce, jako hlavní jídlo počítej 0,5 l na osobu a klobásu klidně zdvojnásob (120–150 g masa na osobu). Cibule a česnek jsou zapsány jako jedlá hmotnost (hrubá × odpad). Zdrojový „vepřový bůček uzený“ je namapován na uzenou slaninu (spek). Polévkové koření (typ Maggi) můžeš vynechat nebo nahradit špetkou soli. Sádlo ze zdroje je škvařené, použij běžné vepřové.",
+  "source": { "book": "receptury-1983", "page": 42, "code": "10141", "titleOriginal": "POLÉVKA ZELNÁ S KLOBÁSOU" },
+  "verified": true,
+  "quote": "Paprikově narůžovělá polévka, typické vůně po použitém kysaném zelí, koření a houbách"
+}

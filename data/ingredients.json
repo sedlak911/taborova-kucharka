@@ -8007,6 +8007,36 @@
     }
   },
   {
+    "id": "ovocny-sirup-koncentrat",
+    "name": "Ovocný sirup (koncentrát)",
+    "aliases": [
+      "sirup višňový",
+      "višňový sirup",
+      "sirup malinový",
+      "malinový sirup",
+      "ovocný sirup (koncentrát)",
+      "fruit syrup",
+      "raspberry syrup"
+    ],
+    "category": "trvanlive",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 261,
+      "protein": 0,
+      "carbs": 65.1,
+      "fat": 0.02,
+      "fiber": 0
+    },
+    "densityGPerMl": 1.3,
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:167957 (Syrup, fruit flavored); koncentrovaný sirup k ředění, hodnota přibližná",
+      "units": "hustota 1,3 g/ml odhad pro hustý sirup"
+    }
+  },
+  {
     "id": "palive-omacka",
     "name": "Pálivá omáčka (typ Tabasco)",
     "aliases": [
@@ -12423,36 +12453,6 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:173954 (Cherries, sour, red, raw)",
       "refuse": "odpad 10 % (pecky a stopky)"
-    }
-  },
-  {
-    "id": "visnovy-sirup-koncentrat",
-    "name": "Ovocný sirup (koncentrát)",
-    "aliases": [
-      "sirup višňový",
-      "višňový sirup",
-      "sirup malinový",
-      "malinový sirup",
-      "ovocný sirup (koncentrát)",
-      "fruit syrup",
-      "raspberry syrup"
-    ],
-    "category": "trvanlive",
-    "scaling": "linear",
-    "nutritionPer100g": {
-      "kcal": 261,
-      "protein": 0,
-      "carbs": 65.1,
-      "fat": 0.02,
-      "fiber": 0
-    },
-    "densityGPerMl": 1.3,
-    "units": {},
-    "ediblePortion": 1,
-    "allergens": [],
-    "sources": {
-      "nutrition": "USDA SR Legacy fdc:167957 (Syrup, fruit flavored); koncentrovaný sirup k ředění, hodnota přibližná",
-      "units": "hustota 1,3 g/ml odhad pro hustý sirup"
     }
   },
   {

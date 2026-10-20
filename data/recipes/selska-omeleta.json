@@ -1,0 +1,35 @@
+{
+  "id": "selska-omeleta",
+  "title": "Selská omeleta",
+  "titleOriginal": "Selská omeleta (Minutka)",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 750, "unit": "g", "note": "z 2 340 g hrubé × 0,8; oloupané, uvařené, na širší nudle nebo plátky" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "z 100 g hrubé × 0,9; nadrobno" },
+    { "ingredientId": "spek", "amount": 40, "unit": "g", "note": "slanina bez kůže, na drobné kostky" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "vejce", "amount": 8, "unit": "ks", "note": "zdroj 20 ks; rozmíchaná" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "petrzel-nat", "amount": 4, "unit": "g", "note": "sekaná, na posypání" }
+  ],
+  "steps": [
+    { "text": "Brambory uvař ve slupce do měkka, oloupej a nakrájej na širší nudle nebo plátky.", "minutes": 30 },
+    { "text": "Mezitím nakrájej oloupanou cibuli nadrobno a slaninu na drobné kostky.", "minutes": 8, "parallel": true },
+    { "text": "Na rozehřátém sádle osmahni cibuli společně se slaninou.", "minutes": 8 },
+    { "text": "Přidej vařené brambory, osol a opepři. Prohřej a mírně opeč.", "minutes": 8 },
+    { "text": "Brambory zalij rozmíchanými vejci, promíchej a v troubě rozehřáté na 220 °C prudčeji zapeč.", "minutes": 10 },
+    { "text": "Omeletu přehni v půli, překlop ji na horký talíř a posyp sekanou petrželovou natí.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj počítá 220 g na porci a vejce po 40 g (20 ks na 10 porcí = 8 ks na 4). Brambory zdroj uvádí syrové hrubé s 40 % odpadu (jedlé ≈ 0,8 × hrubé); počítej je vařené, nejlépe z předchozího dne. Omeleta se v kuchyni dělala na objednávku po porcích; doma ji zapeč najednou v pánvi vhodné do trouby nebo v zapékací misce. Slanina je jen ochucení (10 g na porci podle zdroje). Obsahuje ji, proto ne kapitola bez masa ani tag bez-masa; pro bezmasou verzi slaninu vynech. Teplota trouby 220 °C je doplněná (zdroj: prudčeji).",
+  "source": { "book": "receptury-1983", "page": 475, "code": "19207", "titleOriginal": "SELSKÁ OMELETA (Minutka)" },
+  "verified": true,
+  "quote": "Selská omeleta je zapečená směs brambor s cibulí, slaninou a vejci, na povrchu posypaná petrželovou natí."
+}

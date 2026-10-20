@@ -21,7 +21,7 @@
     { "ingredientId": "citronova-kura", "amount": 4, "unit": "g", "scaling": "linear", "note": "jemně nastrouhaná z pečlivě opláchnutého citronu" },
     { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "scaling": "linear", "note": "krupicový, do sněhu" },
     { "ingredientId": "tresne", "amount": 110, "unit": "g", "scaling": "linear", "note": "z 300 g hrubé × 0,92; opláchnuté a okapané" },
-    { "ingredientId": "visnovy-sirup-koncentrat", "amount": 40, "unit": "g", "scaling": "linear", "note": "višňový, na podlití" },
+    { "ingredientId": "ovocny-sirup-koncentrat", "amount": 40, "unit": "g", "scaling": "linear", "note": "višňový, na podlití" },
     { "ingredientId": "voda", "amount": 40, "unit": "ml", "scaling": "linear", "note": "na zředění sirupu" }
   ],
   "steps": [

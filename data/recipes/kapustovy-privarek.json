@@ -1,0 +1,43 @@
+{
+  "id": "kapustovy-privarek",
+  "title": "Kapustový přívarek s brambory",
+  "titleOriginal": "Kapustový přívarek (Kapusta dušená s brambory)",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 75,
+  "difficulty": 1,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "kapusta", "amount": 640, "unit": "g", "note": "z 800 g hrubé × 0,8; hlávková nebo savojská" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na spaření kapusty, slije se (domácí hodnota)" },
+    { "ingredientId": "brambory", "amount": 400, "unit": "g", "note": "z 500 g hrubé × 0,8; oloupané, na kostky" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 60 g hrubé × 0,9" },
+    { "ingredientId": "sadlo", "amount": 90, "unit": "g", "note": "škvařené; půlka na cibuli, půlka na zásmažku" },
+    { "ingredientId": "hovezi-vyvar", "amount": 200, "unit": "ml", "note": "vývar B (receptura č. 10101)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "vessel", "note": "do vody na spaření, slije se" },
+    { "ingredientId": "sul", "amount": 12, "unit": "g", "note": "do pokrmu; zdroj 30 g celkem včetně spaření" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "prosátá, na zásmažku" },
+    { "ingredientId": "sladka-paprika", "amount": 5, "unit": "g", "note": "mletá" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "z 8 g hrubého × 0,87; utřený" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "spek", "amount": 20, "unit": "g", "note": "slanina bez kůže, na kostičky" }
+  ],
+  "steps": [
+    { "text": "Kapustu očisti, opláchni a nakrájej na menší kousky.", "minutes": 8 },
+    { "text": "Kapustu spař v mírně osolené vařící vodě, vyjmi a nech okapat.", "minutes": 10 },
+    { "text": "Cibuli oloupej, drobně nakrájej a osmahni do růžova na polovině sádla.", "minutes": 8 },
+    { "text": "Přidej kapustu a kmín, zalij vývarem, vlož oloupané brambory nakrájené na kostky a krátce povař.", "minutes": 15 },
+    { "text": "Ze zbylého sádla a prosáté mouky připrav světlou zásmažku, zamíchej do ní papriku a utřený česnek, mírně ji rozřeď vodou a rozmíchej.", "minutes": 8 },
+    { "text": "Zásmažku přidej ke kapustě s bramborami a promíchej.", "minutes": 3 },
+    { "text": "Okořeň mletým pepřem, dosol a dodus do měkka.", "minutes": 20 },
+    { "text": "Mezitím nakrájej slaninu na kostičky a na pánvi ji rozpusť. Přidej ji do hotového pokrmu.", "minutes": 8, "parallel": true },
+    { "text": "Podávej k masu nebo se sázeným vejcem." }
+  ],
+  "modernNote": "Zdroj počítá na 10 porcí po 280 g; kapusta, brambory, cibule a česnek jsou zapsané jako jedlá hmotnost (hrubá × odpad podle katalogu), takže brambory vycházejí o něco víc než čistá hmotnost ze zdroje. Voda na spaření kapusty ve zdroji nemá množství, 1 l je domácí hodnota; sůl je celková ze zdroje. Sůl ze zdroje (30 g na 10 porcí, tj. 14 g na 4) zahrnuje i spaření kapusty; 2 g jdou do vody na spaření, 12 g (3 g na porci, kuchyňská norma) do pokrmu; solit raději opatrně, na začátku stačí polovina. Jako hlavní jídlo bez masa počítej 400–450 g na osobu a přidej sázené vejce. Přívarek obsahuje hovězí vývar a slaninu, proto bez tagu bez-masa; pro vegetariánskou verzi dej zeleninový vývar a slaninu vynech.",
+  "source": { "book": "receptury-1983", "page": 509, "code": "19443", "titleOriginal": "KAPUSTOVÝ PŘÍVAREK (Kapusta dušená s brambory)" },
+  "verified": true
+}

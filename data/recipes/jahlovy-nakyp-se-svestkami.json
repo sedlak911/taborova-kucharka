@@ -1,0 +1,40 @@
+{
+  "id": "jahlovy-nakyp-se-svestkami",
+  "title": "Jáhlový nákyp se švestkami",
+  "titleOriginal": "Jáhlový nákyp se švestkami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 135,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "jahly", "amount": 320, "unit": "g", "note": "přebrané a propláchnuté" },
+    { "ingredientId": "susene-svestky", "amount": 200, "unit": "g", "note": "suché, bez pecek; propláchnuté a nabobtnané ve vodě" },
+    { "ingredientId": "mleko-polotucne", "amount": 800, "unit": "ml" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 120, "unit": "g", "scaling": "linear", "note": "čtvrtina do jáhel, čtvrtina na vymazání pekáče, polovina rozpuštěná na pokapání", "original": { "ingredientId": "margarin", "amount": 120, "unit": "g" } },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj 5 ks" },
+    { "ingredientId": "cukr-krystal", "amount": 120, "unit": "g", "scaling": "linear", "note": "půlka do žloutků, půlka do sněhu z bílků" },
+    { "ingredientId": "cukr-moucka", "amount": 20, "unit": "g", "scaling": "linear", "note": "na posypání" },
+    { "ingredientId": "ovocny-sirup-koncentrat", "amount": 80, "unit": "g", "note": "malinový, k podlití, rozředěný vodou" },
+    { "ingredientId": "voda", "amount": 80, "unit": "ml", "note": "na rozředění sirupu" }
+  ],
+  "steps": [
+    { "text": "Jáhly přeber, propláchni a několikrát přelij vroucí vodou. Nech okapat.", "minutes": 5 },
+    { "text": "Mléko přiveď k varu, nasyp okapané jáhly, mírně osol a přidej čtvrtinu másla. Bez míchání zvolna zavař, přikryj poklicí a udus do měkka.", "minutes": 35 },
+    { "text": "Dušené jáhly nech za občasného promíchání vychladnout.", "minutes": 30 },
+    { "text": "Mezitím suché švestky pečlivě propláchni, zalij vodou a nech nabobtnat.", "minutes": 5, "parallel": true },
+    { "text": "Vymaž pekáč druhou čtvrtinou másla.", "minutes": 3, "parallel": true },
+    { "text": "Vejce rozklepni a pečlivě odděl žloutky od bílků. Žloutky vyšlehej s polovinou cukru na hustou hmotu.", "minutes": 8 },
+    { "text": "Z bílků za postupného přidávání zbylé poloviny cukru ušlehej pevný sníh.", "minutes": 8 },
+    { "text": "Do prochladlých jáhel lehce vmíchej žloutky, sníh z bílků a nabobtnalé okapané švestky. Hmotu lehce rozetři do pekáče.", "minutes": 5 },
+    { "text": "Pokapej zbylou polovinou rozpuštěného másla a ve středně vyhřáté troubě (asi 180 °C) peč nákyp do zlatova.", "minutes": 40 },
+    { "text": "Nákyp nakrájej, podlij sirupem rozředěným vodou a posyp moučkovým cukrem." }
+  ],
+  "modernNote": "Margarín ze zdroje (celkem 300 g na 10 porcí) je nahrazen máslem. Vejce: zdroj 5 ks × 0,4 = 2 ks. Zdroj neuvádí teplotu ani dobu pečení, 180 °C a 40 minut jsou odhad pro 4 porce. Doba celkem počítá s vychladnutím jáhel; nákyp je dobrý i druhý den. Sirup se podle zdroje ředí vodou 1 : 1 (porce 40 g rozředěného sirupu). Švestky jsou sušené bez pecek, množství 500 g je hrubá i čistá hmotnost. Nákyp je velmi vydatný (asi 960 kcal na porci podle receptury: 300 g tuku a 350 g cukru na 10 porcí); jako dezert po obědě stačí polovina porce.",
+  "source": { "book": "receptury-1983", "page": 545, "code": "19601", "titleOriginal": "JÁHLOVÝ NÁKYP SE ŠVESTKAMI" },
+  "verified": true
+}

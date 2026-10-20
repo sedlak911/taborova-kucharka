@@ -1006,7 +1006,7 @@ Vybráno z analýz podle kritérií: levné, tábor/jeden hrnec, česká kuchyn�
 
 ## Výběr 2026-10-20 (50 receptů, dávky W1–W5)
 
-Zadání: „vyber z nezpracovaných 50 nejlepších a zpracuj“. Zdroj: `analysis/receptury-1983.md`, `analysis/rettigova-1868.md` (výběr + rezerva), `analysis/glasse-1747.md`, `analysis/wells-1890.md` a ikonická česká jídla z TSV nadpisů Receptur. Vynechány duplicity s existujícími recepty (smažené kuře, smažená játra, karbanátky, Yorkshire pudink, hrách se zelím, plněné zelí/holubky, vývar B). Strany = PDF strany. Kapitola a tagy jsou návrh, digitizér je upraví podle definic ve skillu. Sdílená nová surovina `kapr` je v `data/ingredients/new-sdilene-vyber-2026-10-20.json`.
+**Stav: HOTOVO 2026-10-20** – všech 50 receptů digitalizováno a ověřeno (W1–W5). Zadání: „vyber z nezpracovaných 50 nejlepších a zpracuj“. Zdroj: `analysis/receptury-1983.md`, `analysis/rettigova-1868.md` (výběr + rezerva), `analysis/glasse-1747.md`, `analysis/wells-1890.md` a ikonická česká jídla z TSV nadpisů Receptur. Vynechány duplicity s existujícími recepty (smažené kuře, smažená játra, karbanátky, Yorkshire pudink, hrách se zelím, plněné zelí/holubky, vývar B). Strany = PDF strany. Kapitola a tagy jsou návrh, digitizér je upraví podle definic ve skillu. Sdílená nová surovina `kapr` je v `data/ingredients/new-sdilene-vyber-2026-10-20.json`.
 
 ### Dávka W1
 

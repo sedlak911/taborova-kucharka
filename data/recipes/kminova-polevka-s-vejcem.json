@@ -1,0 +1,33 @@
+{
+  "id": "kminova-polevka-s-vejcem",
+  "title": "Kmínová polévka s vejcem",
+  "titleOriginal": "Polévka kmínová s vejcem",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "soja", "vejce"],
+  "ingredients": [
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "kmin-cely", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "hladka-mouka", "amount": 70, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1360, "unit": "ml", "note": "vlažný" },
+    { "ingredientId": "vejce", "amount": 0.4, "unit": "ks", "note": "zdroj 1 ks (40 g); rozkvedlané" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření typu Maggi" },
+    { "ingredientId": "petrzel-nat", "amount": 4, "unit": "g", "note": "z 10 g hrubé × 0,95" }
+  ],
+  "steps": [
+    { "text": "Na horkém sádle mírně osmahni kmín.", "minutes": 3 },
+    { "text": "Přidej prosátou mouku a za stálého míchání připrav světlou, nazlátlou zásmažku.", "minutes": 3 },
+    { "text": "Zásmažku za neustálého prošlehávání zalij vlažným vývarem, přiveď k varu a vař za občasného prošlehání aspoň tři čtvrtě hodiny.", "minutes": 53 },
+    { "text": "Provařenou polévku procedi hustším sítkem.", "minutes": 3 },
+    { "text": "Do polévky přilévej rozkvedlané vejce a nech je srazit.", "minutes": 3 },
+    { "text": "Polévku dochuť polévkovým kořením a posyp propláchnutou, jemně nakrájenou petrželovou natí." }
+  ],
+  "modernNote": "Kniha počítá s kotlem na 10 porcí po 0,33 l (3,35 l hotové polévky); recept je přepočten na 4 porce, tj. asi 1,3 l. Vejce je jen 0,4 ks (zdroj 1 ks na 10 porcí): rozkvedlej celé vejce a do polévky nalij asi dvě pětiny, nebo použij 1 vejce na dvojnásobnou dávku. Zdroj nesolí; polévku dochutí polévkové koření (tekuté koření typu Maggi), případně přisol. Jako hlavní jídlo počítej asi 0,5 l polévky na osobu.",
+  "source": { "book": "receptury-1983", "page": 31, "code": "10122", "titleOriginal": "POLÉVKA KMÍNOVÁ S VEJCEM" },
+  "verified": true
+}

@@ -1,0 +1,29 @@
+{
+  "id": "uzene-maso-varene",
+  "title": "Vařené uzené maso",
+  "titleOriginal": "Uzená pečeně vařená",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "uzene-maso", "amount": 400, "unit": "g", "note": "uzená pečeně s kostí; zdroj 1 000 g na 10 porcí" },
+    { "ingredientId": "sadlo", "amount": 65, "unit": "g", "note": "škvařené, na omaštění přílohy; zdroj 150 g" }
+  ],
+  "steps": [
+    { "text": "Uzené maso opláchni.", "minutes": 2 },
+    { "text": "Ve velkém hrnci přiveď k varu vodu, aby maso pohodlně pokryla.", "minutes": 10 },
+    { "text": "Maso vlož do vroucí vody, krátce zavař a na mírném ohni vař zvolna do měkka (asi 75 minut, doba je odhad).", "minutes": 75 },
+    { "text": "Měkké maso vyjmi z vývaru a opatrně vykostí, aby zůstalo celistvé.", "minutes": 8 },
+    { "text": "Mezitím rozehřej sádlo.", "minutes": 3, "parallel": true },
+    { "text": "Maso nakrájej přes vlákno na porce a podávej s přílohou omaštěnou rozehřátým sádlem.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj nezmiňuje dobu vaření, 75 minut je odhad pro kus kolem 400 g (kvalita uzeniny se liší, zkoušej vidličkou). Porce zdroje je 75 g včetně kosti, tj. 60 g masa bez kosti; jako hlavní jídlo počítej 120–150 g masa na osobu. Vývar nevyléváš, hodí se do hrachové polévky nebo na zelí. Vhodné přílohy: vařené brambory, houskové nebo bramborové knedlíky, zelí, hrachová nebo bramborová kaše, hrách, čočka.",
+  "source": { "book": "receptury-1983", "page": 227, "code": "13401", "titleOriginal": "UZENÁ PEČENĚ VAŘENÁ" },
+  "verified": true,
+  "quote": "Maso je přiměřeně měkké, celistvé a šťavnaté."
+}

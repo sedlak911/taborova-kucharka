@@ -16,9 +16,9 @@
     }
   },
   {
-    "id": "visnovy-sirup-koncentrat",
-    "name": "Višňový sirup (koncentrát)",
-    "aliases": ["sirup višňový", "ovocný sirup (koncentrát)", "fruit syrup"],
+    "id": "ovocny-sirup-koncentrat",
+    "name": "Ovocný sirup (koncentrát)",
+    "aliases": ["sirup višňový", "višňový sirup", "sirup malinový", "malinový sirup", "ovocný sirup (koncentrát)", "fruit syrup", "raspberry syrup"],
     "category": "trvanlive",
     "scaling": "linear",
     "nutritionPer100g": { "kcal": 261, "protein": 0, "carbs": 65.1, "fat": 0.02, "fiber": 0 },

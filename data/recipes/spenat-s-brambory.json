@@ -1,0 +1,38 @@
+{
+  "id": "spenat-s-brambory",
+  "title": "Špenát s vejcem a brambory",
+  "titleOriginal": "Špenát s brambory",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "spenat", "amount": 580, "unit": "g", "note": "z 2 000 g hrubé × 0,72 (jedlá hmotnost)" },
+    { "ingredientId": "maslo", "amount": 65, "unit": "g", "note": "třetina do špenátu, zbytek na povrch" },
+    { "ingredientId": "hladka-mouka", "amount": 12, "unit": "g" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "nepatrně" },
+    { "ingredientId": "mleko-polotucne", "amount": 200, "unit": "ml" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks", "note": "zdroj 10 ks" },
+    { "ingredientId": "brambory", "amount": 1120, "unit": "g", "note": "z 3 500 g hrubé × 0,8" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření brambor, slije se; špenát spař v druhém hrnci v dalším litru vařící vody (ten zdroj neuvádí, nezapočítáno)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" }
+  ],
+  "steps": [
+    { "text": "Špenát zbav kořínků a vadných listů a v několika vodách ho důkladně opláchni, aby v něm nezůstal písek.", "minutes": 10 },
+    { "text": "Brambory oloupej, opláchni a nakrájej na menší kusy.", "minutes": 8 },
+    { "text": "Čisté listy špenátu nasypej do vařící osolené vody, nech přejít varem, scedi a nech okapat.", "minutes": 10 },
+    { "text": "Brambory dej do osolené vody, uvař do měkka a scedi.", "minutes": 20, "parallel": true },
+    { "text": "Okapaný špenát prolisuj nebo rozmixuj a vlož ho na třetinu másla.", "minutes": 3 },
+    { "text": "Zasyp prosátou, na sucho opraženou moukou a nepatrně osol.", "minutes": 3 },
+    { "text": "Rozřeď mlékem a za stálého míchání podus.", "minutes": 10 },
+    { "text": "Do hotového špenátu postupně vmíchej dobře rozmíchaná vejce, aby se nesrazila, ale špenát vázala.", "minutes": 3 },
+    { "text": "Podávej na teplém talíři s vařenými brambory a na špenát polož zbylé máslo." }
+  ],
+  "modernNote": "Porce ze zdroje je 360 g (z toho špenátu 160 g), kniha počítá 10 porcí. Špenát a brambory jsou zapsány jako jedlá hmotnost (hrubá × 0,4 × ediblePortion suroviny; zdroj uvádí čistou hmotnost 1 400 g špenátu a 2 100 g brambor). Syrové suroviny proto dají asi 545 g na porci proti 360 g hotového jídla ve zdroji: rozdíl dělá vyšší odpad brambor v knize (40 % proti 20 % v katalogu) a ztráty spařením a dušením (kniha 985 g na 10 porcí). Voda na vaření brambor a sůl do ní jsou domácí hodnoty (zdroj je neuvádí). Do jemně nakrájeného špenátu se hodí i mražený (cca 500 g). Jako hlavní jídlo je porce spíše lehká; ke každému talíři se hodí i volské oko.",
+  "source": { "book": "receptury-1983", "page": 517, "code": "19477", "titleOriginal": "ŠPENÁT S BRAMBORY" },
+  "verified": true
+}
