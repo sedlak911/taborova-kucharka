@@ -1,0 +1,159 @@
+{
+  "id": "pecene-kure-s-nadivkou",
+  "title": "Pečené kuře s nádivkou",
+  "titleOriginal": "Kuře pečené s nádivkou",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 155,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "cele-kure",
+      "amount": 1000,
+      "unit": "g",
+      "note": "očištěné, hotové k pečení"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g",
+      "note": "na osolení kuřete zvenku i uvnitř (zdroj 30 g na 10 porcí; stačí méně)"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 45,
+      "unit": "g",
+      "note": "na pečení kuřete",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 45,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 8,
+      "unit": "g",
+      "note": "do šťávy"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 240,
+      "unit": "ml",
+      "note": "do šťávy"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "na zjemnění šťávy"
+    },
+    {
+      "ingredientId": "zemle-bila",
+      "amount": 200,
+      "unit": "g",
+      "note": "veka, do nádivky; ze 500 g hrubé hmotnosti zdroje (25 g odpadu je kůrka)"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 100,
+      "unit": "ml",
+      "note": "do nádivky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 20,
+      "unit": "g",
+      "note": "do nádivky, vyšlehané se žloutky"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1.2,
+      "unit": "ks",
+      "note": "zdroj 3 ks; žloutky do másla, bílky na sníh"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "note": "do nádivky"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 4,
+      "unit": "g",
+      "note": "z 5 g hrubé × 0,95; jemně nakrájená"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.46,
+      "unit": "g",
+      "note": "zdroj „květ mletý“ (muškátový květ)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Očištěné kuře opláchni, nech okapat a kůži na prsou opatrně uvolni pro nádivku.",
+      "minutes": 5
+    },
+    {
+      "text": "Žemli oloupej a nakrájej na drobné kostičky. Pokrop mlékem a nech vsáknout.",
+      "minutes": 10
+    },
+    {
+      "text": "Máslo vyšlehej se žloutky, mírně osol, přidej opláchnutou jemně nakrájenou petrželovou nať, muškátový květ a zvlhčenou žemli. Pečlivě promíchej.",
+      "minutes": 8
+    },
+    {
+      "text": "Z bílků vyšlehej pevný sníh a lehce ho vmíchej do nádivky.",
+      "minutes": 5
+    },
+    {
+      "text": "Kuře naplň nádivkou, stáhni nití nebo jehlicí, mírně osol zvenku i uvnitř a dej do pekáčku s máslem.",
+      "minutes": 8
+    },
+    {
+      "text": "Peč v troubě vyhřáté na 180 °C. Během pečení kuře přelévej výpekem a podlévej trochou vody, aby se výpek nepřipálil.",
+      "minutes": 75
+    },
+    {
+      "text": "Upečené kuře vyndej z výpeku.",
+      "minutes": 2
+    },
+    {
+      "text": "Výpek vysmahni na tuk, zaprášej moukou, mírně osmahni, zalij vodou a pečlivě rozšlehej.",
+      "minutes": 5
+    },
+    {
+      "text": "Za občasného míchání vař nejméně půl hodiny.",
+      "minutes": 30
+    },
+    {
+      "text": "Šťávu procedi hustým cedníkem, podle potřeby přisol a zjemni máslem.",
+      "minutes": 3
+    },
+    {
+      "text": "Kuře rozděl na porce a podávej s hotovou šťávou."
+    }
+  ],
+  "modernNote": "Kniha počítá 10 porcí z 2,5 kg očištěného kuře (270 g kuřete a 50 g šťávy na porci); na 4 porce vychází jen 1 kg kuře, tedy malé kuře nebo spíše dvě menší půlky – pro celé kuře z obchodu (1,4–1,6 kg) zvětši všechny suroviny zhruba 1,5×. Jako hlavní jídlo počítej 270–300 g kuřete s kostí na osobu. Margarín na pečení nahrazen máslem (původní margarín 45 g). Teplota trouby a doba pečení ve zdroji chybí – 180 °C a 75 minut jsou odhad pro kuře kolem 1 kg, hotové je při teplotě 75 °C u stehna nebo když ze stehna vytéká čirá šťáva. Žemle: zdroj počítá 500 g hrubé hmotnosti a 25 g odpadu (kůrka), do receptu je vzata hrubá hmotnost. Sůl: zdroj uvádí 30 g na osolení kuřete a 10 g do nádivky, na 4 porce to vychází 14 g a 5 g; jde o hodnotu zdroje (4 g soli na porci vč. šťávy), moderně dej na začátku jen polovinu a dosol podle chuti. Na porci vychází 250 g kuřete s kostí, tedy asi 170 g jedlého masa.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 345,
+    "code": "17001",
+    "titleOriginal": "KUŘE PEČENÉ S NÁDIVKOU"
+  },
+  "verified": true,
+  "quote": "Šťáva, připravená z výpeku, je řidší, má světlejší barvu, jemnou a typickou chuť z pečeného kuřete a je zjemněná máslem."
+}

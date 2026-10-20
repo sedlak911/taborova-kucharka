@@ -1,0 +1,37 @@
+{
+  "id": "svestkovy-kolac-rettigova",
+  "title": "Piškotový koláč se švestkami",
+  "titleOriginal": "Koláč se švestkami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 185,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "note": "4 loty, přepuštěné (zdroj „přepouštěné“), změklé; k tomu 5 g na vymazání formy", "scaling": "linear", "group": "Těsto" },
+    { "ingredientId": "vejce", "amount": 4, "unit": "ks", "note": "žloutky do těsta, bílky na sníh", "group": "Těsto" },
+    { "ingredientId": "cukr-krystal", "amount": 70, "unit": "g", "note": "4 loty", "scaling": "linear", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 70, "unit": "g", "note": "4 loty", "group": "Těsto" },
+    { "ingredientId": "strouhanka", "amount": 10, "unit": "g", "note": "na vysypání formy (původně strouhaná žemlička)", "group": "Pečení" },
+    { "ingredientId": "svestky", "amount": 450, "unit": "g", "note": "čerstvé, vypeckované a rozkrájené na osminy (množství je odhad)", "group": "Pečení" },
+    { "ingredientId": "cukr-moucka", "amount": 10, "unit": "g", "note": "na posypání", "group": "Pečení" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 170 °C." },
+    { "text": "Vejce rozděl. Bílky dej do chladu.", "minutes": 5 },
+    { "text": "Máslo, žloutky a cukr míchej do pěny tři půl hodiny (1,5 hodiny).", "minutes": 90 },
+    { "text": "Přimíchej mouku.", "minutes": 3 },
+    { "text": "Z bílků ušlehej tuhý sníh a opatrně ho vmíchej do těsta.", "minutes": 8 },
+    { "text": "Rozpínací formu o průměru asi 20 cm vymaž máslem, vysyp strouhankou a vlij do ní těsto.", "minutes": 5 },
+    { "text": "Švestky vypeckuj a rozkrájej na osminy. Poklaď jimi těsto slupkou dolů a masem vzhůru.", "minutes": 10 },
+    { "text": "Peč zvolna asi tři čtvrtě hodiny.", "minutes": 45 },
+    { "text": "Sejmi okolek formy a koláč nech vystydnout.", "minutes": 15 },
+    { "text": "Posyp ho moučkovým cukrem." }
+  ],
+  "modernNote": "Původní koláč je asi na 6 kousků (odhad, Rettigová porce neuvádí); dávka je zmenšena na dvě třetiny (6 lotů másla, cukru a mouky a 6 vajec → 4 loty a 4 vejce), z formy o průměru 20 cm vyjdou 4 větší kousky. Staré míry: lot = 17,5 g, 6 lotů ≈ 105 g, 4 loty ≈ 70 g. Množství švestek, strouhanky, másla na vymazání a moučkového cukru zdroj neuvádí, jsou odhadnuty, proto verified: false. Zdroj neuvádí teplotu pečení, 170 °C je moderní odhad; doba (tři čtvrtě hodiny) je ze zdroje. Zdroj chce máslo se žloutky a cukrem míchat „tři půl hodiny“, tedy 1,5 hodiny ručního míchání; doba v krocích je ze zdroje, robotem nebo ručním šlehačem dnes stačí asi 10 minut. Dnes místo žemličky stačí strouhanka. Švestky klaď do těsta jen lehce, ať se nepotopí.",
+  "source": { "book": "rettigova-1868", "page": 352, "titleOriginal": "Koláč se švestkami" },
+  "verified": false,
+  "quote": "poklaď ho čerstvými, na osm dílů rozkrájenými švestkami, a sice slupkou dolů a masem vzhůru"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "hrachova-polevka-glasse",
+  "title": "Lodní hrachová polévka se slaninou",
+  "titleOriginal": "To make Peas Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 155,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "pripravit-predem"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "hrach-puleny", "amount": 200, "unit": "g", "note": "zdroj: 1 quart hrachu (suchá míra ≈ 1,1 l ≈ 910 g)" },
+    { "ingredientId": "voda", "amount": 1680, "unit": "ml", "note": "zdroj: 2 galony" },
+    { "ingredientId": "spek", "amount": 155, "unit": "g", "note": "solené vepřové (nebo hovězí), den předem namočené; množství odhad" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "oloupaná; zdroj: 2 velké cibule" },
+    { "ingredientId": "celer-rapikaty", "amount": 35, "unit": "g", "note": "volitelně, „když ho máš“; množství odhad" },
+    { "ingredientId": "tymian-susity", "amount": 1, "unit": "g", "note": "svazek bylinek; množství odhad" },
+    { "ingredientId": "cely-pepr", "amount": 0.99, "unit": "g", "note": "zdroj: 1/8 unce" },
+    { "ingredientId": "mata", "amount": 2, "unit": "g", "note": "sušená; zdroj: „a good deal“, množství odhad" }
+  ],
+  "steps": [
+    { "text": "Den předem namoč kus solené slaniny nebo hovězího do studené vody." },
+    { "text": "Hrách propláchni, dej do hrnce, zalij vodou a přiveď k varu.", "minutes": 10 },
+    { "text": "Vař hrách do měkka.", "minutes": 50 },
+    { "text": "Přidej namočené maso, oloupané celé cibule, svazek bylinek, nakrájený celer a celý pepř.", "minutes": 3 },
+    { "text": "Vař, dokud není maso měkké, a polévka dobrá.", "minutes": 70 },
+    { "text": "Maso vyndej a drž ho v teple.", "minutes": 2 },
+    { "text": "Polévku procedi, vrať na oheň a přiveď k varu.", "minutes": 8 },
+    { "text": "Do polévky vetři hodně sušené máty.", "minutes": 2 },
+    { "text": "Vrať do polévky maso a nech ho několik minut povařit.", "minutes": 5 },
+    { "text": "Podávej polévku s masem." }
+  ],
+  "modernNote": "Zdroj neuvádí počet porcí ani množství masa, cibule a bylinek: recept počítá s asi 18 porcemi po 0,37 l z 2 galonů vody; maso (asi 700 g na celý hrnec) a bylinky jsou odhad, proto verified: false. Quart hrachu je suchá (Winchester) míra ≈ 1,1 l, tj. asi 910 g půleného hrachu; galon vody je vinný galon 3,785 l. Zdroj sůl nepřidává, solené maso ji dodá. Kniha dodává, že polévku obohatí kus „portable soup“ (sušený vývar, dnes kostka vývaru). Maso se vaří celé a po scezení se vrací do polévky; syrové suroviny dávají asi 540 g na porci (nad 450 g), protože polévka se vaří přes 2 hodiny bez pokličky a odpaří se asi 1,5–2 l z 7,6 l vody (asi 100 ml na porci); hotová porce je asi 0,37 l polévky a 40 g masa. Hrách vodu jen váže, hmotnost neubírá. Kdo vaří pod pokličkou, ubere vody asi o pětinu.",
+  "source": { "book": "glasse-1747", "page": 216, "titleOriginal": "To make Peas Soup" },
+  "verified": false,
+  "quote": "Get a quart of peas, boil them in two gallons of water till they are tender."
+}

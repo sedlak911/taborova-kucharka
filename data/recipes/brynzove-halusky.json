@@ -1,0 +1,36 @@
+{
+  "id": "brynzove-halusky",
+  "title": "Brynzové halušky",
+  "titleOriginal": "Brynzové halušky",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 1050, "unit": "g", "note": "z 3 270 g hrubé × 0,8 × 0,4 (přepočet na 4 porce)" },
+    { "ingredientId": "hruba-mouka", "amount": 220, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "hladka-mouka", "amount": 100, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "note": "do těsta; zdroj 30 g na 10 porcí zahrnuje i sůl do vody (14 g celkem pro 4 porce)" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "scaling": "vessel", "note": "na vaření halušek, slije se" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené, horké, na promaštění halušek" },
+    { "ingredientId": "brynza", "amount": 240, "unit": "g", "note": "rozmělněná, na posypání" },
+    { "ingredientId": "spek", "amount": 120, "unit": "g", "note": "slanina bez kůže, nakrájená na kostičky" }
+  ],
+  "steps": [
+    { "text": "Oškrabané brambory opláchni, jemně nastrouhej, nech ustát a část vody odlij.", "minutes": 15 },
+    { "text": "Do brambor přidej prosátou hrubou a hladkou mouku a sůl a dobře promíchej.", "minutes": 5 },
+    { "text": "Mezitím přiveď k varu osolenou vodu ve velkém hrnci.", "minutes": 12, "parallel": true },
+    { "text": "Těsto protlač hrubým struhadlem do vařící vody, vzniklé knedlíčky lehce promíchej a vař asi 8 až 10 minut; vař po dávkách.", "minutes": 20 },
+    { "text": "Mezitím nakrájenou slaninu na pánvi opékej, až se částečně rozpustí.", "minutes": 10, "parallel": true },
+    { "text": "Uvařené halušky vyjmi cedníkem, nech okapat a promaštěj horkým sádlem.", "minutes": 4 },
+    { "text": "Halušky posyp brynzou a přelij slaninou částečně rozpuštěnou i s tukem.", "minutes": 3 }
+  ],
+  "modernNote": "Kniha počítá s 10 porcemi po 350 g (celkem 3 500 g hotového výrobku); recept je přepočten na 4 porce. Brambory jsou zapsány jako jedlá hmotnost (hrubá × 0,4 × 0,8 podle katalogu; kniha počítá odpad 40 %). Sůl: 30 g ze zdroje je rozdělena na těsto (10 g) a vodu na vaření (4 g, slije se); brynza je sama silně slaná, pozor při dochucování. Voda na vaření a sůl do ní jsou domácí hodnoty. Brynza = ovčí sýr ze Slovenska; v katalogu založena s makry fety (USDA nemá brynzu). Pokud ji neseženeš, použij feta nebo jiný solený ovčí sýr. Slanina (špek) znamená, že recept není bezmasý, přestože ho kniha zařazuje mezi bezmasé; kapitola testoviny-a-ryze podle tvaru jídla.",
+  "source": { "book": "receptury-1983", "page": 503, "code": "19430", "titleOriginal": "BRYNZOVÉ HALUŠKY" },
+  "verified": true
+}

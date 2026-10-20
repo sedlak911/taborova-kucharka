@@ -1,0 +1,133 @@
+{
+  "id": "zelne-flicky",
+  "title": "Zapečené zelné flíčky",
+  "titleOriginal": "Zelné flíčky zapečené",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 110,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "vejce",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "bile-zeli",
+      "amount": 320,
+      "unit": "g",
+      "note": "hlávkové, z 400 g hrubé × 0,8"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 14,
+      "unit": "g",
+      "note": "na osolení zelí"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 65,
+      "unit": "g",
+      "note": "asi 2/3 do zelí, zbytek na vymazání pekáče",
+      "original": {
+        "ingredientId": "margarin",
+        "amount": 65,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.46,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 120,
+      "unit": "ml",
+      "note": "polovina do zelí, polovina s vejci"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 280,
+      "unit": "g",
+      "note": "velké flíčky, suché"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 3000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření flíčků, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 2,
+      "unit": "ks",
+      "note": "zdroj 5 ks na 10 porcí"
+    },
+    {
+      "ingredientId": "spek",
+      "amount": 40,
+      "unit": "g",
+      "note": "slanina s kůží, na kostičky"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Zelí rozkrájej na čtvrtky, vykroj košťál a nakrájej na nudličky.",
+      "minutes": 8
+    },
+    {
+      "text": "Zelí osol a nech asi půl hodiny stát, až pustí vodu.",
+      "minutes": 30
+    },
+    {
+      "text": "Do zelí přidej asi 2/3 másla, opepři, zalij polovinou mléka a duš pod pokličkou do měkka.",
+      "minutes": 30
+    },
+    {
+      "text": "Mezitím uvař flíčky v osolené vodě do měkka, scedi je, propláchni studenou vodou a nech okapat.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Vařené flíčky promíchej se zelím, přilij část druhé poloviny mléka rozšlehaného s vejci, přidej slaninu nakrájenou na kostičky a částečně rozškvařenou a vše promíchej.",
+      "minutes": 5
+    },
+    {
+      "text": "Směs vlož do pekáče vymazaného zbylým máslem a dej péct do rozehřáté trouby (asi 200 °C).",
+      "minutes": 20
+    },
+    {
+      "text": "Částečně propečené flíčky zalij zbytkem mléka s vejci a dopeč do zlatova.",
+      "minutes": 15
+    },
+    {
+      "text": "Pokrm nakrájej na porce a podávej."
+    }
+  ],
+  "modernNote": "Zdroj: 10 porcí po 280 g hotového pokrmu; 4 porce vychází na asi 1,1 kg. Máslo nahrazuje margarín ze zdroje. Teplota „rozehřáté trouby“ není uvedena, doplněno asi 200 °C (odhad), stejně jako doba pečení 20 + 15 minut. Kniha neuvádí vodu na flíčky; 3 l vody se solí je domácí hodnota. 700 g suchých flíčků na 10 porcí se vařením zvětší na 1 680 g. Zdroj uvádí 30 g soli na celou recepturu (zelí); sůl do vody na vaření je přidána navíc. Sůl ze zdroje (3,5 g na porci) je nad dnešním doporučením, klidně dej méně a dochuť. Slanina je s kůží (5 % odpad), množství ze sloupce hrubá. Slaniny je v receptu málo; jako hlavní jídlo počítej 350–400 g hotového pokrmu na osobu.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 502,
+    "code": "19427",
+    "titleOriginal": "ZELNÉ FLÍČKY ZAPEČENÉ"
+  },
+  "verified": true,
+  "quote": "Pokrm je okořeněný pepřem, má typickou vůni a chuť, je vláčný."
+}

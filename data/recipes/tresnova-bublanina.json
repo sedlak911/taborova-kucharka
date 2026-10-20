@@ -20,8 +20,8 @@
     { "ingredientId": "kukuricny-skrob", "amount": 4, "unit": "g", "scaling": "linear", "note": "zdroj: krémový prášek (pudinkový)" },
     { "ingredientId": "citronova-kura", "amount": 4, "unit": "g", "scaling": "linear", "note": "jemně nastrouhaná z pečlivě opláchnutého citronu" },
     { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "scaling": "linear", "note": "krupicový, do sněhu" },
-    { "ingredientId": "tresne", "amount": 115, "unit": "g", "scaling": "linear", "note": "čistá hmotnost ze zdroje (285 g na 10 porcí z 300 g hrubé), opláchnuté a okapané" },
-    { "ingredientId": "visnovy-sirup-koncentrat", "amount": 40, "unit": "g", "scaling": "linear", "note": "na podlití" },
+    { "ingredientId": "tresne", "amount": 110, "unit": "g", "scaling": "linear", "note": "z 300 g hrubé × 0,92; opláchnuté a okapané" },
+    { "ingredientId": "visnovy-sirup-koncentrat", "amount": 40, "unit": "g", "scaling": "linear", "note": "višňový, na podlití" },
     { "ingredientId": "voda", "amount": 40, "unit": "ml", "scaling": "linear", "note": "na zředění sirupu" }
   ],
   "steps": [

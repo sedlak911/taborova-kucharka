@@ -1,0 +1,17 @@
+[
+  {
+    "id": "brynza",
+    "name": "Brynza",
+    "aliases": ["ovčí brynza", "slovenská brynza", "bryndza", "sheep cheese"],
+    "category": "mlecne-a-vejce",
+    "scaling": "linear",
+    "nutritionPer100g": { "kcal": 265, "protein": 14.21, "carbs": 3.88, "fat": 21.49, "fiber": 0 },
+    "units": { "lzice": 9, "hrnek": 158 },
+    "ediblePortion": 1,
+    "allergens": ["mleko"],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173420 (Cheese, feta); náhrada: USDA nemá ovčí brynzu, feta je nejbližší solený ovčí sýr, brynza bývá o něco tučnější a slanější",
+      "units": "jako feta: USDA cup crumbled 150 g × 250/237 = 158 g, lžíce odvozeno"
+    }
+  }
+]

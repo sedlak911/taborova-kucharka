@@ -1,0 +1,43 @@
+{
+  "id": "ryzovy-nakyp-s-jablky",
+  "title": "Rýžový nákyp s jablky",
+  "titleOriginal": "Rýžový nákyp s jablky",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "ryze-bila", "amount": 280, "unit": "g", "note": "přebraná, propláchnutá a spařená vroucí vodou" },
+    { "ingredientId": "mleko-polotucne", "amount": 560, "unit": "ml" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "půlka do rýže, půlka na vymazání pekáče", "original": { "ingredientId": "margarin", "amount": 45, "unit": "g" } },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj 5 ks" },
+    { "ingredientId": "vanilkovy-cukr", "amount": 8, "unit": "g" },
+    { "ingredientId": "citronova-kura", "amount": 9, "unit": "g", "note": "jemně nastrouhaná z opláchnutého citronu" },
+    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "note": "ušlehaný s bílky" },
+    { "ingredientId": "jablko", "amount": 360, "unit": "g", "note": "z 400 g hrubé × 0,9; oloupaná, bez jádřinců, na tenké plátky" },
+    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "note": "smíchaný se skořicí na jablka" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g" },
+    { "ingredientId": "rozinky", "amount": 12, "unit": "g", "note": "očištěné, propláchnuté a spařené" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "rozpuštěné, na pokapání" },
+    { "ingredientId": "cukr-moucka", "amount": 40, "unit": "g", "note": "na posypání" }
+  ],
+  "steps": [
+    { "text": "Rýži přeber, propláchni a několikrát přelij vroucí vodou.", "minutes": 5 },
+    { "text": "Mléko přiveď k varu, nasyp rýži, mírně osol a přidej polovinu másla. Bez míchání zvolna zavař, přikryj poklicí a udus do měkka.", "minutes": 30 },
+    { "text": "Dušenou rýži nech za občasného promíchání vychladnout.", "minutes": 20 },
+    { "text": "Mezitím vymaž pekáč zbylým máslem, jablka oloupej, zbav jádřinců a nakrájej na tenčí plátky. Rozinky očisti, propláchni a spař.", "minutes": 10, "parallel": true },
+    { "text": "Vejce rozklepni a odděl žloutky od bílků. Žloutky vyšlehej s vanilkovým cukrem, přidej jemně nastrouhanou citronovou kůru a lehce vmíchej do vychladlé rýže.", "minutes": 8 },
+    { "text": "Z bílků za postupného přidávání první dávky cukru vyšlehej pevný sníh a lehce ho vmíchej do rýže se žloutky.", "minutes": 10 },
+    { "text": "Polovinu rýže lehce rozetři v pekáči, navrstvi jablka, posyp je směsí druhé dávky cukru se skořicí a rozinkami a překryj zbývající rýží.", "minutes": 5 },
+    { "text": "Pokapej rozpuštěným máslem a peč ve středně vyhřáté troubě (asi 180 °C) téměř do zlatova.", "minutes": 40 },
+    { "text": "Nákyp nakrájej na obdélníky nebo čtverce a posyp moučkovým cukrem." }
+  ],
+  "modernNote": "Margarín ze zdroje (celkem 100 g na 10 porcí) je nahrazen máslem; zdroj dělí tuk na polovinu do rýže a polovinu na vymazání pekáče. Vejce: zdroj 5 ks × 0,4 = 2 ks. Jablka jsou přepočtena z hrubé hmotnosti zdroje (1 000 g na 10 porcí) × 0,9 podle katalogu, stejně jako v ostatních recepturách; kniha počítá odpad 35 % (čistá 650 g), takže se starší jablka s větším odpadem klidně kupuj o něco víc. Zdroj neuvádí teplotu ani dobu pečení, 180 °C a 40 minut jsou odhad pro 4 porce. Doba celkem počítá s vychladnutím rýže; nákyp je dobrý i druhý den.",
+  "source": { "book": "receptury-1983", "page": 558, "code": "19621", "titleOriginal": "RÝŽOVÝ NÁKYP S JABLKY" },
+  "verified": true
+}

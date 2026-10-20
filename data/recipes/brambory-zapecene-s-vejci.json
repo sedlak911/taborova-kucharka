@@ -1,0 +1,118 @@
+{
+  "id": "brambory-zapecene-s-vejci",
+  "title": "Brambory zapečené s vejci",
+  "titleOriginal": "Zemčata s vejcemi",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "brambory",
+      "amount": 1000,
+      "unit": "g",
+      "note": "malé, uvařené ne příliš do měkka, oloupané; množství zdroj neuvádí (odhad)"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 1000,
+      "unit": "ml",
+      "scaling": "vessel",
+      "note": "na vaření brambor, slije se"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "do vody na vaření, slije se"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 6,
+      "unit": "ks",
+      "note": "natvrdo uvařená"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 60,
+      "unit": "g",
+      "note": "na vymazání formy, na pokapání vrstev a kousky navrch; množství zdroj neuvádí (odhad)"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "g",
+      "note": "tlučený"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 350,
+      "unit": "ml",
+      "note": "1 žejdlík (≈ 0,35 l)"
+    },
+    {
+      "ingredientId": "zloutek",
+      "amount": 2,
+      "unit": "ks",
+      "note": "syrové"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "do mléka; množství zdroj neuvádí (odhad)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Brambory uvař ve slupce v osolené vodě téměř do měkka, ať se nerozpadnou.",
+      "minutes": 25
+    },
+    {
+      "text": "Mezitím uvař vejce natvrdo, vychlaď je a oloupej.",
+      "minutes": 12,
+      "parallel": true
+    },
+    {
+      "text": "Brambory oloupej a nakrájej na kolečka. Vejce nakrájej také na kolečka.",
+      "minutes": 10
+    },
+    {
+      "text": "Vymaž máslem pekáč nebo zapékací misku. Na dno dej vrstvu brambor, na ni vrstvu vajec, posyp je pepřem a pokapej rozpuštěným máslem.",
+      "minutes": 5
+    },
+    {
+      "text": "Takto vrstvi dál, až je forma asi na prst neplná. Navrch dej brambory.",
+      "minutes": 5
+    },
+    {
+      "text": "Rozmíchej mléko se syrovými žloutky a osol. Nalij to na brambory, jen aby se lehce ponořily. Povrch poklaď kousky másla.",
+      "minutes": 3
+    },
+    {
+      "text": "Zapékej v troubě vyhřáté na 200 °C do zlatova.",
+      "minutes": 30
+    }
+  ],
+  "modernNote": "Zdroj neuvádí počet porcí ani množství brambor, másla, pepře a soli; 1 kg brambor (6 vajec, 1 žejdlík mléka podle zdroje) a výtěžek 4 porce jsou odhad, proto verified false. Hmotnost brambor je po oloupání, před vařením počítej asi o pětinu víc. Zdroj neuvádí dobu ani teplotu pečení; 30 minut při 200 °C je odhad. Vejce se vaří souběžně s bramborami. Voda a sůl na vaření brambor jsou domácí hodnoty.",
+  "source": {
+    "book": "rettigova-1868",
+    "page": 345,
+    "titleOriginal": "Zemčata a vejcemi"
+  },
+  "verified": false,
+  "quote": "Uvař ne příliš do měkka pěkná malá zemčátka, oloupej a nakrájej je na koláčky; taktéž rozkrájej na koláčky šest na tvrdo uvařených vajec"
+}

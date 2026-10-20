@@ -1,0 +1,42 @@
+{
+  "id": "frankfurtska-polevka",
+  "title": "Frankfurtská polévka s párkem a brambory",
+  "titleOriginal": "Polévka frankfurtská s párkem a brambory",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "soja"],
+  "ingredients": [
+    { "ingredientId": "parky", "amount": 120, "unit": "g", "note": "jemné párky" },
+    { "ingredientId": "brambory", "amount": 190, "unit": "g", "note": "z 240 g hrubé × 0,8" },
+    { "ingredientId": "sadlo", "amount": 45, "unit": "g", "note": "škvařené" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 60 g hrubé × 0,9" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g" },
+    { "ingredientId": "sladka-paprika", "amount": 11, "unit": "g", "note": "mletá" },
+    { "ingredientId": "hovezi-vyvar", "amount": 1120, "unit": "ml", "note": "vlažný; asi 1 000 ml do zásmažky, zbytek na brambory" },
+    { "ingredientId": "cesnek", "amount": 7, "unit": "g", "note": "z 9 g hrubé × 0,87" },
+    { "ingredientId": "sul", "amount": 9, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "spek", "amount": 20, "unit": "g", "note": "slanina bez kůže" },
+    { "ingredientId": "tekute-koreni", "amount": 9, "unit": "g", "note": "polévkové koření na dochucení" },
+    { "ingredientId": "petrzel-nat", "amount": 4, "unit": "g", "note": "z 5 g hrubé × 0,95; jemně nakrájená" }
+  ],
+  "steps": [
+    { "text": "Cibuli jemně nakrájej a na sádle osmahni do růžova.", "minutes": 10 },
+    { "text": "Zasyp ji moukou, připrav světlou zásmažku a zamíchej do ní papriku.", "minutes": 4 },
+    { "text": "Zásmažku za stálého šlehání metlou zalij asi 1 l vlažného vývaru, přiveď k varu a zvolna vař nejméně 1 hodinu. Občas prošlehej.", "minutes": 70 },
+    { "text": "Mezitím brambory oloupej, opláchni, nakrájej na menší kostky, zalij zbylým vývarem (podle potřeby dolij vodou) a částečně uvař.", "minutes": 25, "parallel": true },
+    { "text": "Uvařenou zásmažku procedi hustým cedníkem.", "minutes": 3 },
+    { "text": "Brambory i s odvarem vlož do procezené polévky. Přidej česnek utřený se solí, mletý pepř a párky nakrájené na plátky (3 plátky po 10 g na porci). Krátce povař.", "minutes": 8 },
+    { "text": "Do hotové polévky zamíchej slaninu nakrájenou na drobné kostičky a nech ji částečně roztavit.", "minutes": 3 },
+    { "text": "Dochuť polévkovým kořením, případně dosol." },
+    { "text": "Před podáváním vlož do polévky jemně nakrájenou petrželovou nať." }
+  ],
+  "modernNote": "Zdroj počítá s 30 g párku a 0,33 l polévky na porci. Zbylého vývaru na brambory je podle zdroje málo (asi 120 ml na 190 g brambor), proto podle potřeby dolij vodou; odvar se stejně vrací do polévky. Polévkové koření je tekuté (typ Maggi). Sádlo lze nahradit olejem.",
+  "source": { "book": "receptury-1983", "page": 39, "code": "10135/A", "titleOriginal": "POLÉVKA FRANKFURTSKÁ S PÁRKEM A BRAMBORY" },
+  "verified": true
+}

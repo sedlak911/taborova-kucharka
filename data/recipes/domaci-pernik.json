@@ -1,0 +1,36 @@
+{
+  "id": "domaci-pernik",
+  "title": "Domácí perník",
+  "titleOriginal": "Domácí perník",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "orechy", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 90, "unit": "g", "note": "prosátá; trochu na pomoučení plechu" },
+    { "ingredientId": "prasek-do-peciva", "amount": 0.8, "unit": "g", "scaling": "linear", "note": "zdroj: uhličitan amonný nebo kypřící prášek" },
+    { "ingredientId": "cukr-moucka", "amount": 65, "unit": "g", "scaling": "linear", "note": "polovina do těsta, polovina na polevu" },
+    { "ingredientId": "vejce", "amount": 0.1, "unit": "ks", "note": "zdroj 12 g na 10 porcí; rozšlehej 1 vejce a použij asi osminu" },
+    { "ingredientId": "maslo", "amount": 8, "unit": "g", "scaling": "linear", "note": "rozpuštěné", "original": { "ingredientId": "margarin", "amount": 8, "unit": "g" } },
+    { "ingredientId": "badyan-mlety", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "liskove-orechy", "amount": 5, "unit": "g", "note": "loupaná jádra, jemně nastrouhaná" },
+    { "ingredientId": "voda", "amount": 60, "unit": "ml", "scaling": "linear", "note": "4/5 do těsta, 1/5 do polevy" }
+  ],
+  "steps": [
+    { "text": "Prosej mouku (trochu odlož na pomoučení plechu) s kypřicím práškem.", "minutes": 3 },
+    { "text": "Přidej polovinu moučkového cukru, rozšlehané vejce, rozpuštěné máslo, mletý badyán, jemně nastrouhané lískové ořechy a 4/5 vody. Těsto propracuj.", "minutes": 7 },
+    { "text": "Těsto vyválej do tlustšího plátu asi 2 cm vysokého.", "minutes": 10 },
+    { "text": "Plát dej na pomoučený plech nebo do vhodného pekáče či tvořítka a peč v troubě předehřáté na 175 °C do zlatova, dokud špejle zapíchnutá doprostřed nevyjde suchá.", "minutes": 40 },
+    { "text": "Perník nech vychladnout.", "minutes": 30 },
+    { "text": "Ze zbylé poloviny cukru a zbylé 1/5 vody rozmíchej polevu a vychladlý perník s ní tence potři.", "minutes": 5 },
+    { "text": "Nech polevu ztuhnout.", "minutes": 15 },
+    { "text": "Perník nakrájej na řezy.", "minutes": 5 }
+  ],
+  "modernNote": "Množství jsou přesně ze zdroje (10 porcí po 50 g, hotový výrobek 500 g), přepočtená na 4 porce (k = 0,4). Zdroj neuvádí teplotu ani dobu pečení: 175 °C a asi 40 minut jsou odhad pro 2 cm vysoký plát (pro 4 porce vychází jen malý plech, asi 200 g těsta, hlídej ho dřív). Vejce vychází na 0,1 ks (zdroj 12 g na 10 porcí): rozšlehej celé vejce a použij asi osminu, nebo recept znásob. Máslo nahrazuje margarín ze zdroje. Zdroj dovoluje uhličitan amonný nebo kypřící prášek, použit je prášek do pečiva. Prášek do pečiva vychází na 0,8 g (zdroj 2 g na 10 porcí), je to záměrně přesná hodnota ze zdroje, ne chyba převodu. Hotový výrobek 500 g ze 578 g surovin počítá se ztrátou při pečení.",
+  "source": { "book": "receptury-1983", "page": 540, "code": "19547", "titleOriginal": "DOMÁCÍ PERNÍK" },
+  "verified": true
+}
