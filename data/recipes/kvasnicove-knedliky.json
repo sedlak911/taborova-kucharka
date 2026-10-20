@@ -1,0 +1,33 @@
+{
+  "id": "kvasnicove-knedliky",
+  "title": "Kynuté vařené knedlíčky",
+  "titleOriginal": "To make Yeast Dumplings",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 400, "unit": "g", "note": "zdroj: mouka bez množství; odhad pro asi 10 knedlíčků", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 240, "unit": "ml", "note": "zdroj: voda bez množství; odhad na lehké těsto jako na chléb", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "zdroj: sůl bez množství; odhad", "group": "Těsto" },
+    { "ingredientId": "drozdi-cerstve", "amount": 12, "unit": "g", "note": "zdroj: „yeast“ bez množství; odhad asi 3 % z mouky", "group": "Těsto", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "na vaření knedlíčků, slije se; domácí hodnota", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpuštěné v hrnku k podávání; zdroj: „melted butter in a cup“, množství odhad", "group": "Podávání", "scaling": "fat" }
+  ],
+  "steps": [
+    { "text": "Z mouky, vody, soli a droždí zadělej lehké těsto jako na chléb.", "minutes": 8 },
+    { "text": "Přikryj ho utěrkou a nech půl hodiny kynout v teple.", "minutes": 30 },
+    { "text": "Mezitím přiveď k varu hrnec vody.", "minutes": 10, "parallel": true },
+    { "text": "Z těsta tvaruj malé kulaté kuličky velké jako velké slepičí vejce a rukou je zplošti.", "minutes": 10 },
+    { "text": "Dej je do vroucí vody a vař je, dokud nejsou hotové. Voda musí neustále vřít, aby knedlíčky nepadly ke dnu hrnce a nebyly těžké.", "minutes": 10 },
+    { "text": "Vyndej je na mísu.", "minutes": 2 },
+    { "text": "Mezitím rozpusť máslo a dej je do hrnku.", "minutes": 3, "parallel": true }
+  ],
+  "modernNote": "Zdroj nemá počet porcí ani množství: 400 g mouky, 240 ml vody, 12 g čerstvého droždí a 5 g soli (vše odhad, proto verified: false) dá asi 10 zploštělých knedlíčků velikosti velkého slepičího vejce (asi 60 g těsta), tedy 2–3 na osobu; stejnou dávku mouky má tvrdý knedlík téže knihy. Kniha říká jen „a few minutes“ a „ten minutes or less“, proto vaření trvá 10 minut; moderně vařte pod pokličkou a knedlíčky jednou obraťte. Kniha radí, kdo nechce těsto dělat, ať koupí kus kynutého těsta u pekaře (čtvrtku „quarter of dough“) a doma knedlíčky jen uvaří. Zdroj je podává s rozpuštěným máslem v hrnku.",
+  "source": { "book": "glasse-1747", "page": 199, "titleOriginal": "To make Yeast Dumplings" },
+  "verified": false,
+  "quote": "Take great care they don't fall to the bottom of the pot or sauce-pan, for then they will be heavy."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "houbove-fricasse",
+  "title": "Bílé houbové fricassé se smetanou",
+  "titleOriginal": "A white fricassee of mushrooms",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "zampiony", "amount": 400, "unit": "g", "note": "„kvart čerstvých hub“; imperiální quart (1,136 l) celých hub, odhad" },
+    { "ingredientId": "voda", "amount": 45, "unit": "ml", "note": "tři lžíce" },
+    { "ingredientId": "mleko-plnotucne", "amount": 45, "unit": "ml", "note": "tři lžíce" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g", "note": "„velmi trochu soli“ (odhad)" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "„trochu muškátu“ čerstvě nastrouhaného a „trochu drceného macisu“ (muškátový květ), odhad půl na půl" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 280, "unit": "ml", "note": "půl pinty „husté smetany“ (imperiální pinta 568 ml)" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "kousek másla, odhad", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "note": "na obalení másla, odhad" }
+  ],
+  "steps": [
+    { "text": "Žampiony očisti.", "minutes": 5 },
+    { "text": "Dej je do hrnce s vodou, mlékem a solí. Na prudkém ohni je třikrát přiveď k varu.", "minutes": 8 },
+    { "text": "Sundej hrnec z ohně. Nastrouhej do něj muškátový oříšek a přidej drcený muškátový květ.", "minutes": 2 },
+    { "text": "Přidej smetanu a máslo obalené v mouce. Hrncem stále třepej a opatrně míchej lžící, dokud omáčka nezhoustne a není hladká. Dávej pozor, aby se nesrazila.", "minutes": 8 },
+    { "text": "Dej žampiony na mísu." }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, PDF 177, tištěná s. 147) nemá porce ani váhy: odhad 4 porce jako příloha nebo předkrm, proto originalYield chybí. Odhady: quart celých hub ≈ 400 g, lžíce vody a mléka 3 × 15 ml, kousek másla 20 g s 10 g mouky, sůl 1 g („velmi trochu soli“) a koření „trochu“. Kontrola hlásí málo soli: zdroj solí záměrně velmi málo, aby vynikla smetana a houby; dosol podle chuti na talíři. Půl pinty smetany je imperiální (284 ml). Čerstvé žampiony stačí rychle povařit a smetanu nepřehřívej, aby se nesrazila. Jako hlavní jídlo podávej s chlebem nebo rýží a počítej 400 g hub na 2 osoby.",
+  "source": { "book": "glasse-1747", "page": 177, "titleOriginal": "A white fricassee of mushrooms" },
+  "verified": false,
+  "quote": "When it is fine and thick, dish them up; be careful they don't curdle."
+}

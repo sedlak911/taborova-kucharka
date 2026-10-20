@@ -1,0 +1,42 @@
+{
+  "id": "hovezi-dusene-s-turinem",
+  "title": "Hovězí zadní dušené s červeným vínem a smaženým tuřínem",
+  "titleOriginal": "Another way to stew a Rump of Beef",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 270,
+  "difficulty": 2,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 800, "unit": "g", "note": "maso sundané z kosti, jeden kus; odhad množství" },
+    { "ingredientId": "voda", "amount": 500, "unit": "ml", "note": "aby maso bylo zakryté; „cover it with water“" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 3, "unit": "g", "note": "„a spoonful of whole pepper“, celé zrnko; odhad" },
+    { "ingredientId": "cibule", "amount": 150, "unit": "g", "note": "2 cibule pro celý kus, odhad" },
+    { "ingredientId": "tymian-cerstvy", "amount": 5, "unit": "g", "note": "svazek bylinek („bundle of sweet herbs“), odhad" },
+    { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "do svazku bylinek, odhad" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "„some salt“, odhad; dosolit podle chuti na konci" },
+    { "ingredientId": "cervene-vino", "amount": 280, "unit": "ml", "note": "červené víno; 1 pint ze zdroje, přepočteno pro menší kus masa" },
+    { "ingredientId": "hovezi-vyvar", "amount": 570, "unit": "ml", "note": "„gravy as for soup“; zdroj má 3 quarts, zmenšeno" },
+    { "ingredientId": "turin", "amount": 550, "unit": "g", "note": "10–12 tuřínů, odhad; hmotnost z nákupu, loupe se" },
+    { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "na obalení tuřínu" },
+    { "ingredientId": "hovezi-loj", "amount": 100, "unit": "g", "note": "hovězí přepuštěný tuk („beef dripping“) na smažení tuřínu, většina zůstane v pánvi", "scaling": "vessel" },
+    { "ingredientId": "hovezi-loj", "amount": 25, "unit": "g", "note": "nasáklý tuk (odhad)", "scaling": "fat" },
+    { "ingredientId": "zemle-bila", "amount": 60, "unit": "g", "note": "„a little bread“; odhad, nakrájené na trojúhelníčky" }
+  ],
+  "steps": [
+    { "text": "Maso odděl od kosti a vlož do hrnce. Zalij vodou, přidej celý pepř, oloupanou cibuli, svazek bylinek, sůl a víno.", "minutes": 10 },
+    { "text": "Přikryj a duš na mírném ohni 4 hodiny. Občas hrnec zatřes a maso čtyřikrát až pětkrát obrať.", "minutes": 240 },
+    { "text": "Přilij vývar a míchej, dokud není jídlo hotové.", "minutes": 10 },
+    { "text": "Tuřín oloupej, nakrájej na plátky po šířce a ty rozděl na čtvrtky. Obal v mouce.", "minutes": 10, "parallel": true },
+    { "text": "Tuk v pánvi rozehřej, aby se vařil. Vlož tuřín a opeč dohněda, potom ho dobře osuš od tuku.", "minutes": 15, "parallel": true },
+    { "text": "Chleba opeč dohněda a nakrájej na trojúhelníčky.", "minutes": 5, "parallel": true },
+    { "text": "Maso dej do hluboké mísy. Přidej chlebové trojúhelníčky a tuřín. Přecedi k nim šťávu.", "minutes": 5 },
+    { "text": "Dosol podle chuti." }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, PDF 59, tištěná s. 29) nemá porce: odhad 8 porcí z jednoho kusu zadní (~1,6 kg), proto 4 porce = 800 g masa; všechna volná množství (lžíce celého pepře, 2 cibule, svazek bylinek, sůl, chléb, mouka, 10–12 tuřínů) jsou odhady. Pint vína = 568 ml, přepočteno na 280 ml. „Three quarts“ šťávy by bylo pro 4 porce příliš: dáno 570 ml vývaru, zdroj ho vaří „as for soup“ z masa. Zdroj radí dát mísu na 5–6 minut na sporák, aby šťáva nasákla příchutí tuřínu. Porce vychází asi na 735 g syrových surovin, protože jídlo se podává v hluboké míse zalité šťávou jako polévka; za 4 hodiny dušení se část tekutiny odpaří. Kdo chce sušší jídlo, dá vývaru jen polovinu. Alkohol se při 4hodinovém dušení vyvaří, víno zůstává pro chuť.",
+  "source": { "book": "glasse-1747", "page": 59, "titleOriginal": "Another way to stew a Rump of Beef" },
+  "verified": false,
+  "quote": "Be sure to let your dripping boil before you put them in."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "vareny-lojovy-pudink",
+  "title": "Vařený lojový pudink se zázvorem",
+  "titleOriginal": "A boiled Suet Pudding",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 135,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 90, "unit": "g", "note": "zdroj: mouka bez množství, těsto „very thick“; odhad", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj: 4 vejce, pětina", "scaling": "linear" },
+    { "ingredientId": "mleko-polotucne", "amount": 190, "unit": "ml", "note": "zdroj: 1 quart" },
+    { "ingredientId": "hovezi-loj", "amount": 90, "unit": "g", "note": "zdroj: 1 lb loje, jemně nakrájeného", "scaling": "linear" },
+    { "ingredientId": "zazvor-mlety", "amount": 3, "unit": "g", "note": "zdroj: 2 lžíce „beaten ginger“ (nebo 1 lžíce pepře)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: 1 lžička" }
+  ],
+  "steps": [
+    { "text": "Rozšlehej vejce s moukou a polovinou mléka na velmi husté těsto.", "minutes": 5 },
+    { "text": "Do zbylého mléka vmíchej zázvor a sůl.", "minutes": 2 },
+    { "text": "Mléko s kořením a jemně nakrájený loj vmíchej do těsta, aby bylo pořád dost husté.", "minutes": 3 },
+    { "text": "Vař pudink 2 hodiny.", "minutes": 120 }
+  ],
+  "modernNote": "Zdroj nemá počet porcí: 1 libra loje, 1 quart mléka, 4 vejce a odhadovaná libra mouky dávají asi 2 kg těsta, tedy hrubý odhad 20 malých porcí k masu. Pro 4 porce je dávka zmenšena na pětinu (90 g loje, 190 ml mléka, 0,8 vejce, tedy 1 menší vejce), jedna porce má pak asi 320 kcal, což odpovídá příloze; kniha tedy dává 5× víc. Množství mouky je odhad (verified: false). Zdroj neříká, v čem se pudink vaří: podle dobových receptů ho zabal do vlhké a pomoučněné utěrky, nebo ho dej do vymazané nádoby s víkem a vař v hrnci s vroucí vodou po dobu ze zdroje; hladinu vody doplňuj. Mletý zázvor se v textu jmenuje „beaten ginger“; místo něj kniha dovoluje 1 lžíci pepře. Ze zdroje je to slaný pudink podávaný k masu. Lůj ber hovězí ledvinový od řezníka, nakrájený nebo nastrouhaný nadrobno.",
+  "source": { "book": "glasse-1747", "page": 130, "titleOriginal": "A boiled Suet Pudding" },
+  "verified": false,
+  "quote": "Let your batter be pretty thick, and boil it two hours."
+}

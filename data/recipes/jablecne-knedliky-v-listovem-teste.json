@@ -1,0 +1,32 @@
+{
+  "id": "jablecne-knedliky-v-listovem-teste",
+  "title": "Vařené jablečné knedlíky v listovém těstě",
+  "titleOriginal": "To make good Apple Dumplings",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 100,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "listove-testo", "amount": 200, "unit": "g", "group": "Knedlíky", "note": "hotové listové těsto, asi 50 g na jedno jablko (odhad)" },
+    { "ingredientId": "jablko", "amount": 600, "unit": "g", "group": "Knedlíky", "note": "4 větší jablka, oloupaná a bez jádřinců, z asi 670 g × 0,9 (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "group": "Knedlíky", "scaling": "linear", "note": "na ruce a na utěrku (odhad)" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "group": "K podávání", "scaling": "linear", "note": "rozpuštěné, do hrníčku (odhad)" },
+    { "ingredientId": "cukr-krystal", "amount": 30, "unit": "g", "group": "K podávání", "scaling": "linear", "note": "jemný cukr na posypání a do misky (odhad)" }
+  ],
+  "steps": [
+    { "text": "Dej na plotnu velký hrnec vody a přiveď k varu.", "minutes": 10 },
+    { "text": "Mezitím jablka oloupej, rozčtvrť a pečlivě vykroj jádřince.", "minutes": 10, "parallel": true },
+    { "text": "Vyválej listové těsto na čtyři kusy, každý tak velký, aby obalil jedno jablko.", "minutes": 10, "parallel": true },
+    { "text": "Čtvrtky každého jablka slož k sobě, obal je kusem těsta a v dlani s trochou mouky tvaruj do kulaté koule.", "minutes": 10 },
+    { "text": "Čistou utěrku namoč ve vroucí vodě a posyp moukou. Každý knedlík zvlášť do ní pevně zavaž a vlož do vařící vody.", "minutes": 5 },
+    { "text": "Vař stále ve varu půl hodiny; jsou-li jablka velká, vař hodinu.", "minutes": 60 },
+    { "text": "Hotové knedlíky vyndej, polož na mísu a pocukruj jemným cukrem. Zvlášť podávej rozpuštěné čerstvé máslo v hrníčku a jemný cukr v misce.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nedává množství ani porce; vše je odhad pro 4 porce (4 knedlíky, jeden na osobu, asi 440 kcal): 4 větší jablka (asi 670 g před oloupáním), 200 g listového těsta, 30 g másla a 30 g cukru k podávání. „Puff-paste“ ze zdroje je domácí listové těsto (postup viz recept `listove-testo`), v řádku je pro pohodlí hotové. Zdroj dává dobu půl hodiny pro malá jablka a hodinu pro velká; krok 6 a čas receptu počítají s horní mezí. Moderní tip: knedlíky lze jako odlehčenou variantu péct v troubě (viz recept `jablka-v-teste` z kuchařky US Navy), vařená verze je ale věrná zdroji. Jablka krájí zdroj na čtvrtky a jádřince vykrajuje „velmi pečlivě“; čtvrtky se pak v těstě složí zpět do jablka. Zdroj také zná druhý způsob (v těstě tenčím než korunová mince, uvaří se hodinu, pak se z vršku vyřízne víčko, jádřinec se vyjme a do jablka se dá lžička směsi citronové kůry povařené v růžové vodě, cukr a máslo); do receptu jej nezařazuji. Strana: PDF 200 (tištěná 170). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 200, "titleOriginal": "To make good Apple Dumplings" },
+  "verified": false,
+  "quote": "tie each dumpling by itself, and put them in the water boiling, which keep boiling all the time"
+}

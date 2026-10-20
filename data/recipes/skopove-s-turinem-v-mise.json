@@ -1,0 +1,36 @@
+{
+  "id": "skopove-s-turinem-v-mise",
+  "title": "Skopové kotlety vrstvené s chlebem, cibulí a tuřínem",
+  "titleOriginal": "A Neck of Mutton, called the Hasty Dish",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": ["kotlik", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "skopove-maso", "amount": 700, "unit": "g", "note": "krk s kostí bez kůže na kotlety; zdroj má 6 lb (asi 2,7 kg), zmenšeno na asi čtvrtinu" },
+    { "ingredientId": "rohlik", "amount": 1, "unit": "ks", "note": "zdroj: jedna „French roll“ (francouzská houska) na celý krk; na čtvrtinu dávky 1 rohlík na tenké plátky; odhad" },
+    { "ingredientId": "cibule", "amount": 80, "unit": "g", "note": "zdroj: jedna velmi velká cibule (asi 300 g) na celý krk, čtvrtina; na tenké plátky; odhad" },
+    { "ingredientId": "turin", "amount": 115, "unit": "g", "note": "zdroj: 3–4 tuříny (asi 525 g × EP 0,85) na celý krk, čtvrtina; oloupaný, na tenké plátky; odhad" },
+    { "ingredientId": "tymian-cerstvy", "amount": 3, "unit": "g", "note": "svazeček bylinek („a little bundle of sweet herbs“); odhad" },
+    { "ingredientId": "majoranka", "amount": 1, "unit": "g", "note": "svazeček bylinek („sweet herbs“); odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.15, "unit": "g", "note": "zdroj: dva nebo tři plátky muškátového květu (asi 0,5 g) na celý krk, čtvrtina; náhrada muškátovým oříškem" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "„a little salt“; odhad" },
+    { "ingredientId": "voda", "amount": 300, "unit": "ml", "note": "vroucí, zdroj „a tea-kettle of water boiling“ naplní nádobu; odhad" }
+  ],
+  "steps": [
+    { "text": "Z krku sundej kůži a nakrájej ho na tenké kotlety, asi 1 cm.", "minutes": 10 },
+    { "text": "Rohlík nakrájej na tenké plátky, cibuli a tuřín oloupej a nakrájej na tenké plátky.", "minutes": 10 },
+    { "text": "Do hluboké nádoby s pevnou poklicí (kastrol) ulož vrstvu kotlet, na ni vrstvu rohlíku, pak vrstvu tuřínu, pak cibule a trochu soli.", "minutes": 5 },
+    { "text": "Pak znovu maso a tak dál, až je všechno uložené. Dovnitř zasuň svazeček bylinek a muškát.", "minutes": 5 },
+    { "text": "Zalij vroucí vodou a pevně přikryj.", "minutes": 3 },
+    { "text": "Nech vařit podle zdroje 15 minut: zdroj zahřívá nádobu pod dnem hořícím hnědým papírem, v kastrolu zahřívej mírně na plotně.", "minutes": 15 },
+    { "text": "Podávej horké přímo v nádobě." }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, tištěná s. 74, PDF 106) nemá porce; krk 6 lb je na asi 8–10 porcí, pro 4 porce zmenšeno na 700 g krku s kostí (po odpadu asi 560 g masa, tj. 140 g na osobu), tedy asi na čtvrtinu; rohlík, cibule, tuřín a muškát jsou čtvrtina zdrojových kusů (velmi velká cibule asi 300 g, 3–4 tuříny asi 525 g). Kusová množství, bylinky, sůl a voda jsou odhady. Zeleniny je ve zdroji málo, jde hlavně o maso; kdo chce sytější jídlo, přidá tuřínu víc. Zdroj popisuje vlastní nádobu zvanou „necromancer“ (hluboká cínová nebo stříbrná mísa s víkem na držadle), kterou ohřívá pod dnem hořícím papírem; v kotlíku nebo na plotně stačí kastrol s víkem. Zdroj tvrdí, že 15 minut stačí, protože kotlety jsou tenké: tenké kotlety (asi 1 cm) a tenké plátky tuřínu zalité vroucí vodou se v kryté nádobě na mírném ohni za 15 minut propečou. Maso z krku zůstane pevnější; měkčí bude po 45–60 minutách mírného vaření. Skopové dnes nahraď jehněčím krkem. Zdroj dodává, že jídlo vymyslel pan Rich a je velmi oblíbené u šlechty.",
+  "source": { "book": "glasse-1747", "page": 106, "titleOriginal": "A Neck of Mutton, called the Hasty Dish" },
+  "verified": false,
+  "quote": "Take a large pewter or silver dish, made like a deep soup-dish, with an edge about an inch deep on the inside, on which the lid fixes (with a handle at top) so fast that you may lift it up full by that handle, without falling. This dish is called a necromancer."
+}

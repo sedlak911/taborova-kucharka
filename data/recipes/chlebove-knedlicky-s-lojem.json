@@ -1,0 +1,39 @@
+{
+  "id": "chlebove-knedlicky-s-lojem",
+  "title": "Knedlíčky ze strouhanky a loje",
+  "titleOriginal": "Dumplings when you have White Bread",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "chleb-bily", "amount": 150, "unit": "g", "note": "střída z bílého chleba (zdroj: střída z „twopenny loaf“); odhad", "scaling": "linear" },
+    { "ingredientId": "hovezi-loj", "amount": 150, "unit": "g", "note": "jemně nasekaný (zdroj: „co nejvíc“, tedy stejně jako střídy); odhad", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: „a little salt“; odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1.5, "unit": "g", "note": "zdroj: půl menšího oříšku, nastrouhaný; odhad" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "do těsta (zdroj: „a large spoonful“)", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "rozšlehaná", "scaling": "linear" },
+    { "ingredientId": "marsala", "amount": 30, "unit": "ml", "note": "zdroj: 2 lžíce „sack“ (španělské víno, dnes suché sherry) do vajec" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "note": "na pomoučení rukou při tvarování; odhad", "scaling": "linear" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "na omáčku (zdroj: „melt butter“, bez množství); odhad", "scaling": "fat" },
+    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "note": "do omáčky (zdroj: „a little sack“); odhad" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "na posypání mísy; odhad", "scaling": "linear" }
+  ],
+  "steps": [
+    { "text": "Nastrouhej jemně střídu z bílého chleba. Smíchej ji s jemně nasekaným lojem, solí, nastrouhaným muškátovým oříškem a cukrem.", "minutes": 10 },
+    { "text": "Vejce rozšlehej se sherry, zamíchej do směsi a těsto dobře promíchej.", "minutes": 3 },
+    { "text": "Dej vařit hrnec vody.", "minutes": 10, "parallel": true },
+    { "text": "Ruce pomoučni a z těsta tvaruj kuličky velké jako krůtí vejce.", "minutes": 10 },
+    { "text": "Kuličky vhoď do vařící vody. Vař půl hodiny.", "minutes": 30 },
+    { "text": "Mezitím rozpusť máslo s trochou sherry na omáčku.", "minutes": 3, "parallel": true },
+    { "text": "Knedlíčky slij, naskládej na mísu, polij máslem a posyp cukrem.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nemá množství ani počet porcí; střídu z „twopenny loaf“ odhaduji na 150 g, k ní stejně loje a zdrojová 2 vejce s 2 lžícemi vína dávají asi 4 porce (6–8 knedlíčků), proto verified: false. „Sack“ je španělské víno, dnes suché sherry (v katalogu marsala/sherry); jde do vajec a trochu do másla na omáčku. S cukrem v těstě, máslovou omáčkou a posypáním cukrem je to sladké jídlo. Loj dej jemně nasekaný nebo nastrouhaný z vychlazeného; knedlíčky jsou velmi sytá pochutina (asi 580 kcal na porci, z toho většina z loje), moderně hodně loje ubereš (třeba na polovinu) nebo ho nahradíš sádlem. Kniha je doporučuje k jídlu na souši i na moři a radí vařit je půl hodiny; dnes se hodí i jako sladká příloha.",
+  "source": { "book": "glasse-1747", "page": 219, "titleOriginal": "To make Dumplings when you have White Bread" },
+  "verified": false,
+  "quote": "These are very pretty, either at land or sea."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bramborove-kolacky-se-smetanou",
+  "title": "Bramborové koláčky s muškátem",
+  "titleOriginal": "Potatoe Cakes",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "vejce", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 500, "unit": "g", "group": "Koláčky", "note": "uvařené a oloupané, váha po oloupání (odhad)" },
+    { "ingredientId": "zloutek", "amount": 3, "unit": "ks", "group": "Koláčky", "note": "odhad" },
+    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "group": "Koláčky", "note": "zdroj: „a little sack“ (španělské víno, dnes sherry); odhad" },
+    { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "group": "Koláčky", "scaling": "linear", "note": "odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "group": "Koláčky", "note": "mletý, 0,5 g muškátového květu (mace) a 0,5 g muškátu, zdroj „a little“ (odhad)" },
+    { "ingredientId": "smetana-ke-slehani", "amount": 40, "unit": "ml", "group": "Koláčky", "note": "zdroj: smetana nebo rozpuštěné máslo (odhad)" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "group": "Opékání", "scaling": "fat", "note": "čerstvé, nasáklé do koláčků (odhad)" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Opékání", "scaling": "vessel", "note": "zbude v pánvi (odhad)" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "group": "Přelití", "scaling": "fat", "note": "rozpuštěné (odhad)" },
+    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "group": "Přelití", "note": "zdroj: „sack“; odhad" },
+    { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "group": "Přelití", "scaling": "linear", "note": "odhad" }
+  ],
+  "steps": [
+    { "text": "Brambory uvař doměkka, oloupej je.", "minutes": 25 },
+    { "text": "Teplé brambory dobře rozetři v hmoždíři nebo prolisuj.", "minutes": 5 },
+    { "text": "Vmíchej žloutky, sherry, cukr, muškát a smetanu a vypracuj hladké těsto.", "minutes": 5 },
+    { "text": "Z těsta tvaruj koláčky nebo je vytlač formičkami.", "minutes": 10 },
+    { "text": "Koláčky smaž na čerstvém másle dozlatova.", "minutes": 12 },
+    { "text": "Usmažené koláčky ulož na talíře.", "minutes": 1 },
+    { "text": "Máslo rozpusť se sherry a cukrem a přelij jím koláčky.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nemá množství ani výtěžek, vše je odhad: 4 porce jsou asi 8 koláčků po 75 g, tj. 500 g brambor na 3 žloutky. „Sack“ je španělské víno, dnes sherry (v katalogu marsala/sherry); zdroj ho dává do těsta a do přelévacího másla s cukrem, lze ho i vynechat. „Smetana nebo rozpuštěné máslo“: použita smetana, v těstě jde máslo místo ní. „Mace“ (muškátový květ) a muškát jsou v katalogu jedna surovina, 1 g celkem. Kniha uvádí, že stejné těsto jde utvarovat jako pudink a upéct, nebo jako „kolár“ z telecího či skopového masa s kuličkami; tyto varianty zde nejsou. Pokrm je sladký (cukr v těstě, přelití máslem se sherry a cukrem), proto kapitola sladké; hodí se jako sladký obědový chod. Dobu varu (25 minut) a smažení (12 minut) zdroj neuvádí, jsou odhad. Strana: PDF 177 (tištěná 147), pokračuje na PDF 178. Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 177, "titleOriginal": "To make Potatoe Cakes" },
+  "verified": false,
+  "quote": "Take potatoes, boil them, peel them, beat them in a mortar, mix them with the yolks of eggs, a little sack, sugar, a little beaten mace, a little nutmeg, a little cream or melted butter, work it up into a paste"
+}
