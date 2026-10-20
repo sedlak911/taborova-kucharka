@@ -25,8 +25,7 @@
     { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "z toho 15 g na upražení cukru" },
     { "ingredientId": "sul", "amount": 6, "unit": "g" },
     { "ingredientId": "pernik", "amount": 30, "unit": "g", "note": "ustrouhaný" },
-    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "note": "z toho 30 g na karamel a 10 g na dosazení" },
-    { "ingredientId": "cervene-vino", "amount": 100, "unit": "ml", "note": "nepovinné" }
+    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "note": "z toho 30 g na karamel a 10 g na dosazení" }
   ],
   "steps": [
     { "text": "Kapra očisti, nasekej na kusy.", "minutes": 10 },
@@ -36,10 +35,10 @@
     { "text": "Rybu zasyp ustrouhaným perníkem.", "minutes": 2 },
     { "text": "Na zbylém másle upraž dohněda 30 g cukru, vlij ocet a nech zhoustnout.", "minutes": 6 },
     { "text": "Karamel s octem vlij ke kaprovi a povař, až omáčka zhoustne.", "minutes": 10 },
-    { "text": "Dosaď zbylým cukrem, případně přilij víno a krátce povař.", "minutes": 2 },
+    { "text": "Dosaď zbylým cukrem a krátce povař.", "minutes": 2 },
     { "text": "Rybu vyrovnej na mísu, oblož celerovými a cibulovými koláčky a přeceď na ni omáčku.", "minutes": 3 }
   ],
-  "modernNote": "Rettigová bere krev z kapra, rozmíchanou s octem, na zahuštění a ztmavení omáčky (proto „na černo“); krev vynecháváme a omáčka zhoustne perníkem a karamelem. Ocet se tak nepoužívá k vymytí kapra, ale přidává se do karamelu. Rettigová píše půl žejdlíku octa (≈ 175 ml) a půl žejdlíku červeného vína pro celého kapra; protože počítáme 1 kg kapra na 4 porce, dáváme 100 ml octa a víno jako nepovinných 100 ml. Zdroj nemá množství ani porci (porce na talíři i s omáčkou a zeleninou vychází na ≈ 570 g, tedy 250 g ryby); všechna množství (kapr 1 kg, zelenina, koření, ořechy, pivo, máslo, perník, cukr) jsou odhad na 4 porce; zdroj počítá s kaprem asi 4 porce. Z druhého receptu „na jiný způsob“ se nic nepřebírá. Přesný počet ořechů, hřebíčku a nového koření je odhad. Jako přílohu podej knedlík nebo brambory.",
+  "modernNote": "Rettigová bere krev z kapra, rozmíchanou s octem, na zahuštění a ztmavení omáčky (proto „na černo“); krev vynecháváme a omáčka zhoustne perníkem a karamelem. Ocet se tak nepoužívá k vymytí kapra, ale přidává se do karamelu. Rettigová píše půl žejdlíku octa (≈ 175 ml) pro celého kapra; protože počítáme 1 kg kapra na 4 porce, dáváme 100 ml octa. Víno zdroj nabízí jen volitelně („chceš-li, přilej do toho půl žejdlíka červeného vína“): kdo chce, přilije při dosazování cukrem asi 100 ml červeného vína a krátce povaří. Zdroj nemá množství ani porci (porce na talíři i s omáčkou a zeleninou vychází na ≈ 570 g, tedy 250 g ryby); všechna množství (kapr 1 kg, zelenina, koření, ořechy, pivo, máslo, perník, cukr) jsou odhad na 4 porce; zdroj počítá s kaprem asi 4 porce. Z druhého receptu „na jiný způsob“ se nic nepřebírá. Přesný počet ořechů, hřebíčku a nového koření je odhad. Jako přílohu podej knedlík nebo brambory.",
   "source": { "book": "rettigova-1868", "page": 296, "titleOriginal": "Kapr na černo" },
   "verified": false,
   "quote": "ustrouhej kousek perníku a rybu ním zasyp"

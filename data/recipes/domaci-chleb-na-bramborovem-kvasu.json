@@ -72,9 +72,9 @@
     },
     {
       "ingredientId": "sul",
-      "amount": 10,
+      "amount": 3,
       "unit": "g",
-      "note": "zdroj sůl neuvádí, domácí 2 % z mouky",
+      "note": "do vody na těsto; recept sůl neuvádí, podle obecného postupu knihy (s. 13) ½ lb soli na 3 galony vody (asi 20 g na litr)",
       "scaling": "linear",
       "group": "Kvásek a těsto"
     }
@@ -120,7 +120,7 @@
       "minutes": 45
     }
   ],
-  "modernNote": "Zdroj je dávka pro větší rodinu: 6 velkých brambor, hrst mouky, 1 gill (asi 118 ml) rodinných kvasnic nebo 4 kostky sušených kvasnic a voda; zde je zmenšena asi na šestinu (1 brambora, 20 g mouky). Zdroj nedává množství mouky (do kvásku „tolik prosáté mouky, aby vznikla spíše hustá kaše“, pak těsto), proto je celkem 500 g mouky odhad (20 g v kvasu, 150 g v kvásku, 330 g v těstě); z toho vychází asi 970 g těsta, po upečení asi 850 g chleba, tj. 4 porce po asi 210 g (4 krajíce). Vody je 305 ml (61 % z mouky), rozdělených jak píše zdroj: 140 ml vroucí v kvasu, ¼ objemu kvasu do kvásku a po jeho vykynutí ¾ objemu kvasu s vodou do těsta; kontrola hlásí 2× vodu a vyšší bilanci jen proto, že nepočítá s odpařením při pečení a s kvasem, který se přeceďuje. Rodinné kvasnice (kvas z brambor, mouky a chmele) nahrazuje 5 g čerstvého droždí, stejně jako v hotovém Hauptmannově celozrnném chlebu s melasou. Zdroj neuvádí sůl (domácí 10 g, 2 % z mouky, přidat před hnětením), dobu kynutí kvásku (nechá se vykynout a trochu klesnout, odhad 60 min), ani teplotu a dobu pečení (odhad 200 °C, 45 min), proto verified false. Kynutí těsta zdroj udává asi 1 hodinu. Kvas se připravuje večer předem, zrání přes noc v timeMinutes není. Podobně se dělá chléb s bramborovým kvasem z armádní pekárny (chleb-s-bramborovym-kvasem).",
+  "modernNote": "Zdroj je dávka pro větší rodinu: 6 velkých brambor, hrst mouky, 1 gill (asi 118 ml) rodinných kvasnic nebo 4 kostky sušených kvasnic a voda; zde je zmenšena asi na šestinu (1 brambora, 20 g mouky). Zdroj nedává množství mouky (do kvásku „tolik prosáté mouky, aby vznikla spíše hustá kaše“, pak těsto), proto je celkem 500 g mouky odhad (20 g v kvasu, 150 g v kvásku, 330 g v těstě); z toho vychází asi 970 g těsta, po upečení asi 850 g chleba, tj. 4 porce po asi 210 g (4 krajíce). Vody je 305 ml (61 % z mouky), rozdělených jak píše zdroj: 140 ml vroucí v kvasu, ¼ objemu kvasu do kvásku a po jeho vykynutí ¾ objemu kvasu s vodou do těsta; kontrola hlásí 2× vodu a vyšší bilanci jen proto, že nepočítá s odpařením při pečení a s kvasem, který se přeceďuje. Rodinné kvasnice (kvas z brambor, mouky a chmele) nahrazuje 5 g čerstvého droždí, stejně jako v hotovém Hauptmannově celozrnném chlebu s melasou. Recept neuvádí sůl; podle obecného postupu knihy (s. 13: ½ lb soli na 3 galony vody) vychází na 130 ml vody do těsta 3 g, dnes se dává asi 2 % soli z mouky (≈ 10 g). Zdroj neuvádí ani dobu kynutí kvásku (nechá se vykynout a trochu klesnout, odhad 60 min), ani teplotu a dobu pečení (odhad 200 °C, 45 min); verified false je kvůli odhadnutému množství mouky a droždí. Kynutí těsta zdroj udává asi 1 hodinu. Kvas se připravuje večer předem, zrání přes noc v timeMinutes není. Podobně se dělá chléb s bramborovým kvasem z armádní pekárny (chleb-s-bramborovym-kvasem).",
   "source": {
     "book": "hauptmann-1877",
     "page": 52,

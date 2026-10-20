@@ -15,7 +15,7 @@
     { "ingredientId": "maslo", "amount": 40, "unit": "g", "scaling": "vessel", "group": "Smažení", "note": "na smažení; tuk se po smažení vylije (odhad)" },
     { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Smažení", "note": "nasáklé v obalených plátcích (odhad)" },
     { "ingredientId": "zeleninovy-vyvar", "amount": 150, "unit": "ml", "group": "Omáčka", "note": "místo „gravy“ (odhad)", "original": { "ingredientId": "hovezi-vyvar", "amount": 150, "unit": "ml" } },
-    { "ingredientId": "cervene-vino", "amount": 60, "unit": "ml", "group": "Omáčka", "note": "claret, tj. červené bordeaux (odhad)" },
+    { "ingredientId": "cervene-vino", "amount": 60, "unit": "ml", "group": "Omáčka", "note": "claret, tj. červené bordeaux (odhad); lze vynechat" },
     { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "group": "Omáčka", "note": "odhad" },
     { "ingredientId": "hrebicek-cely", "amount": 3, "unit": "ks", "group": "Omáčka", "note": "odhad" },
     { "ingredientId": "muskatovy-orisek", "amount": 0.3, "unit": "g", "group": "Omáčka", "note": "mletý muškátový květ (mace), odhad" },

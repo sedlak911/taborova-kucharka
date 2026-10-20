@@ -14,7 +14,7 @@
     { "ingredientId": "hovezi-predni", "amount": 230, "unit": "g", "note": "tučné i libové, z 1 libry" },
     { "ingredientId": "teleci-maso-libove", "amount": 230, "unit": "g", "note": "z 1 libry" },
     { "ingredientId": "skopove-maso", "amount": 230, "unit": "g", "note": "krk (scrag), z 1 libry" },
-    { "ingredientId": "voda", "amount": 1140, "unit": "ml", "note": "studená" },
+    { "ingredientId": "voda", "amount": 950, "unit": "ml", "note": "studená; zdroj 2 quarty (vinný quart 946 ml)" },
     { "ingredientId": "kroupy", "amount": 14, "unit": "g", "note": "ječmen (perlový)" },
     { "ingredientId": "cibule", "amount": 75, "unit": "g" },
     { "ingredientId": "celer-rapikaty", "amount": 100, "unit": "g", "note": "odhad, 3–4 hlávky celeru" },
@@ -36,7 +36,7 @@
     { "text": "Duš na velmi mírném ohni 6 hodin. Vař jen tak, aby sotva probublávalo, jinak se polévka vyvaří.", "minutes": 360 },
     { "text": "Vyjmi koření, bylinky a cibuli. Vše nalij do mísy, dochuť solí a podávej.", "minutes": 3 }
   ],
-  "modernNote": "Zdroj nemá výtěžek. Porce odhadnuta z hmotnosti masa: 3 libry (1,36 kg) ≈ 8 porcí (cca 170 g syrového masa na porci), proto originalYield 8 a přepočet na 4 porce. Odhad, verified false. Maso (1 libra každého druhu) je ze zdroje. Míry jsou britské: quart 1,136 l (americký 0,946 l by dal o cca 15 % méně vody). Zdroj neuvádí množství soli, bylinek (sweet herbs = tymián a petržel, odhad), celeru (3–4 hlávky ≈ 200 g na 8 porcí), vodnice, mrkve ani salátu; všechno odhad. Hrášek je volitelný (půl pinty, v sezóně). Zdroj řadí jídlo k dušeným pokrmům s vývarem; dnes je to hustá polévka-guláš. Strana: PDF 127 (tištěná 97).",
+  "modernNote": "Zdroj nemá výtěžek. Porce odhadnuta z hmotnosti masa: 3 libry (1,36 kg) ≈ 8 porcí (cca 170 g syrového masa na porci), proto originalYield 8 a přepočet na 4 porce. Odhad, verified false. Maso (1 libra každého druhu) je ze zdroje. Míry jsou londýnské vinné z doby před imperiální mírou (1824): quart 946 ml, pinta 473 ml. Zdroj neuvádí množství soli, bylinek (sweet herbs = tymián a petržel, odhad), celeru (3–4 hlávky ≈ 200 g na 8 porcí), vodnice, mrkve ani salátu; všechno odhad. Hrášek je volitelný (půl pinty, v sezóně). Zdroj řadí jídlo k dušeným pokrmům s vývarem; dnes je to hustá polévka-guláš. Strana: PDF 127 (tištěná 97).",
   "source": { "book": "glasse-1747", "page": 127, "titleOriginal": "To make Hodge-podge" },
   "verified": false,
   "quote": "Let it stew very softly over a slow fire five or six hours"

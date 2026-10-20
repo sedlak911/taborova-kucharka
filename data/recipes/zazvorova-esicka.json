@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 60,
   "difficulty": 2,
-  "tags": ["sladke", "bez-masa", "levne"],
+  "tags": ["sladke", "levne"],
   "equipment": ["trouba"],
   "allergens": ["lepek"],
   "ingredients": [
@@ -30,5 +30,5 @@
   ],
   "modernNote": "Zdroj (Hauptmann 1877, s. 38) je pekárenská dávka s 1 lb hnědého cukru, 1 lb sádla, 1 quartem melasy, 1 oz sody, ½ pintu vody, 3 oz zázvoru a asi 5 lb mouky. Přepočet stejným faktorem jako u sousedních Ginger Snaps (5 lb → 200 g mouky, faktor 0,088): 4 porce po asi 10 malých esíčcích (kolem 400 kcal na porci, porce asi 108 g); zdroj počet kusů neuvádí. Mouka je ve zdroji uvedena jen „asi“, tuhost těsta uprav moukou. Melasa v g (hustota 1,42 g/ml), US quart 946 ml, pint 473 ml. Teplota ani doba pečení ve zdroji nejsou („moderate oven“): 175 °C a asi 20 minut je odhad. Sádlo lze nahradit máslem. Čas na rozmíchání, tvarování a pečení je odhad.",
   "source": { "book": "hauptmann-1877", "page": 38, "titleOriginal": "Ginger S's" },
-  "verified": false
+  "verified": true
 }

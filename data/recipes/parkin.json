@@ -15,7 +15,7 @@
     { "ingredientId": "melasa", "amount": 200, "unit": "g", "note": "tmavá melasa (zdroj: treacle)" },
     { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear" },
     { "ingredientId": "jedla-soda", "amount": 1, "unit": "g", "scaling": "linear", "note": "zdroj: 2 lžičky" },
-    { "ingredientId": "pivo", "amount": 16, "unit": "ml", "note": "zdroj: 1 gill" }
+    { "ingredientId": "pivo", "amount": 16, "unit": "ml", "note": "zdroj: 1 gill; lze vynechat (nahraď vodou)" }
   ],
   "steps": [
     { "text": "Předehřej troubu na 150 °C. Čtvercovou formu o straně asi 16 cm vymaž máslem a vyložej pečicím papírem." },

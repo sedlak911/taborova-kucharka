@@ -1053,6 +1053,7 @@
     },
     "ediblePortion": 1,
     "allergens": [],
+    "containsMeat": true,
     "sources": {
       "nutrition": "USDA SR Legacy fdc:171401 (Lard); kcal 902 sníženo na 900 (limit schématu)",
       "refuse": "USDA fdc:171401 refusePct 0",

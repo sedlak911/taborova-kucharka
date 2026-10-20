@@ -26,6 +26,6 @@
   ],
   "modernNote": "Zdroj (Hauptmann 1877, s. 31): pekařská dávka 1½ lb cukru, 1 lb másla, 1 pint vajec, 1 pint mléka a 2¾ lb mouky v kulatých plechových formách po asi ½ lb těsta (celkem přes 3 kg těsta, tedy asi 14 forem). Zde zmenšeno na 1/6: 4 bábovičky po zhruba 140 g těsta (asi 450 kcal), porce odpovídá velikostí receptu Melasové bábovičky téže knihy. Zdroj nepopisuje postup mísení, krok s utíráním másla je domácí předpoklad. Kypřidlo „váha jednoho měděného centu sody a dvou centů vinného kamene“ je převedeno na kypřicí prášek: cent ≈ 3 g, tedy asi 3 g sody + 6 g vinného kamene ≈ 9 g prášku na celou dávku, zde 1,5 g zaokrouhleno na 2 g. Zdroj udává jen „moderately cool oven“ bez času a teploty: 170 °C a 25 minut jsou odhad (špejle zapíchnutá do bábovičky má vyjít čistá). Moderní tip: vanilka nebo citronová kůra dodají vůni, kterou zdroj nemá.",
   "source": { "book": "hauptmann-1877", "page": 31, "titleOriginal": "Cup Cake" },
-  "verified": false,
+  "verified": true,
   "quote": "Put into round tin moulds holding about ½ lb. each, and bake in a moderately cool oven."
 }

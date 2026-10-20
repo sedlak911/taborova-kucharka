@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 40,
   "difficulty": 2,
-  "tags": ["levne", "rychle", "bez-masa"],
+  "tags": ["levne", "rychle"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "mleko"],
   "ingredients": [
@@ -25,7 +25,7 @@
     { "text": "Těsto vyklop na pomoučněnou desku, rozválej na tlustou placku a vykrájej 8 sušenek.", "minutes": 10 },
     { "text": "Sušenky polož na plech a peč v horké troubě dozlatova.", "minutes": 15 }
   ],
-  "modernNote": "Zdroj (Hauptmann 1877, s. 46) je pekařská dávka na 8 lb mouky; vydělena 12 vychází asi 8 sušenek, tj. 2 na porci (kolem 380 kcal na porci). Kypřidla ze zdroje: scant ½ oz sody (13 g), ½ oz uhličitanu amonného (14 g) a ¼ lb vinného kamene (113 g), po dělení 1 g, 1 g a 9 g; nahrazeno 4,5 g kypřicího prášku podle pravidla 1 díl sody + 2 díly vinného kamene ≈ 3 díly prášku (1,1 g sody → 3,3 g) a uhličitan amonný ≈ stejná hmotnost prášku (1,2 g); do original zapsána soda. Vinného kamene je ve zdroji mnohem víc, než soda spotřebuje; přebytek reaguje s uhličitanem amonným, který kypří silněji než prášek. Pokud chceš vyšší sušenky, přidej prášku až 10 g. Zdroj neuvádí teplotu ani dobu pečení („hot oven“): 220 °C a asi 15 minut je odhad. Zdroj radí péct s dvířky trouby částečně pootevřenými; v domácí troubě to není třeba. Sůl zdroj jen zmiňuje („a little salt“), 3 g je odhad. Voda je ve zdroji „asi 1 pinta“ na celou dávku; těsto upravuj podle mouky, má být měkké, ale dát se válet. US galon 3,785 l, pinta 473 ml. Odhad množství soli a vody ⇒ verified false.",
+  "modernNote": "Zdroj (Hauptmann 1877, s. 46) je pekařská dávka na 8 lb mouky; vydělena 12 vychází asi 8 sušenek, tj. 2 na porci (kolem 380 kcal na porci). Kypřidla ze zdroje: scant ½ oz sody (13 g), ½ oz uhličitanu amonného (14 g) a ¼ lb vinného kamene (113 g), po dělení 1 g, 1 g a 9 g; nahrazeno 4,5 g kypřicího prášku podle pravidla 1 díl sody + 2 díly vinného kamene ≈ 3 díly prášku (1,1 g sody → 3,3 g) a uhličitan amonný ≈ stejná hmotnost prášku (1,2 g); do original zapsána soda. Vinného kamene je ve zdroji mnohem víc, než soda spotřebuje; přebytek reaguje s uhličitanem amonným, který kypří silněji než prášek. Pokud chceš vyšší sušenky, přidej prášku až 10 g. Zdroj neuvádí teplotu ani dobu pečení („hot oven“): 220 °C a asi 15 minut je odhad. Zdroj radí péct s dvířky trouby částečně pootevřenými; v domácí troubě to není třeba. Sůl zdroj jen zmiňuje („a little salt“), 3 g je odhad. Voda je ve zdroji „asi 1 pinta“ na celou dávku; těsto upravuj podle mouky, má být měkké, ale dát se válet. US galon 3,785 l, pinta 473 ml. Odhad množství soli ⇒ verified false.",
   "source": { "book": "hauptmann-1877", "page": 46, "titleOriginal": "Soda Biscuit, No. 1" },
   "verified": false,
   "quote": "Cut out thick and bake in a hot oven, leaving the oven door partly open."

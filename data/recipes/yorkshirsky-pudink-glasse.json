@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 75,
   "difficulty": 2,
-  "tags": ["levne", "bez-masa"],
+  "tags": ["levne"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "mleko", "vejce"],
   "ingredients": [

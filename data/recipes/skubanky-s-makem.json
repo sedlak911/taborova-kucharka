@@ -7,7 +7,7 @@
   "originalYield": 10,
   "timeMinutes": 60,
   "difficulty": 2,
-  "tags": ["levne", "tabor", "kotlik", "bez-masa", "sladke"],
+  "tags": ["levne", "tabor", "kotlik", "sladke"],
   "equipment": ["plotna"],
   "allergens": ["lepek"],
   "ingredients": [

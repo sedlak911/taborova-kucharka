@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 70,
   "difficulty": 3,
-  "tags": ["sladke", "bez-masa"],
+  "tags": ["sladke"],
   "equipment": ["plotna", "trouba"],
   "allergens": ["lepek", "vejce", "mleko"],
   "ingredients": [
@@ -33,7 +33,7 @@
     { "text": "Krém nech vychladnout a ochuť vanilkou.", "minutes": 30, "parallel": true },
     { "text": "Upečené větrníky tenkým ostrým nožem nařízni z boku zhruba do poloviny, horní část nadzvedni a do každého vlož lžíci krému.", "minutes": 10 }
   ],
-  "modernNote": "Zdroj (Hauptmann 1877, s. 29–30): pekařská dávka na 1 lb 2 oz mouky a asi 20 vajec, US míry (quart 946 ml). Zde asi pětina dávky (4 vejce) na 4 porce: vyjde asi 12 větrníků velikosti lžíce, tedy 3 na porci; krém je podle zdroje vydatnější, přebytek jde do dezertu nebo dalších větrníků. Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem ve stejné hmotnosti (zdroj asi 14 g, zde 3 g); amonium kypří silněji, prášek ověř při prvním pečení. Zdroj nedává teplotu ani dobu pečení: „hot oven, just before putting in bread“ bereme jako asi 220 °C a 30 minut (odhad). Zdroj nechává vejce přidávat po třech (20 vajec), zde po jednom a podle konzistence. Do škrobu lze přidat pár lžic studeného mléka, krém se pak snáze hladce spojí; pokud zůstane řídký, krátce ho vař za stálého míchání. Vanilka je bez množství (odhad 1 čajová lžička), zdroj nabízí i citron. Zdroj upozorňuje, že větrníky naplněné krémem se v létě udrží jen asi den. Navy má hotový recept `odpalovane-testo-vetrniky` (jiný tuk, bez amonia).",
+  "modernNote": "Zdroj (Hauptmann 1877, s. 29–30): pekařská dávka na 1 lb 2 oz mouky a asi 20 vajec, US míry (quart 946 ml). Zde asi pětina dávky (4 vejce) na 4 porce: vyjde asi 12 větrníků velikosti lžíce, tedy 3 na porci; krém je podle zdroje vydatnější, přebytek jde do dezertu nebo dalších větrníků. Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem ve stejné hmotnosti (zdroj asi 14 g, zde 3 g); amonium kypří silněji, prášek ověř při prvním pečení. Pro křupavější výsledek lze dát až dvojnásobek prášku. Zdroj nedává teplotu ani dobu pečení: „hot oven, just before putting in bread“ bereme jako asi 220 °C a 30 minut (odhad). Zdroj nechává vejce přidávat po třech (20 vajec), zde po jednom a podle konzistence. Do škrobu lze přidat pár lžic studeného mléka, krém se pak snáze hladce spojí; pokud zůstane řídký, krátce ho vař za stálého míchání. Vanilka je bez množství (odhad 1 čajová lžička), zdroj nabízí i citron. Zdroj upozorňuje, že větrníky naplněné krémem se v létě udrží jen asi den. Navy má hotový recept `odpalovane-testo-vetrniky` (jiný tuk, bez amonia).",
   "source": { "book": "hauptmann-1877", "page": 29, "titleOriginal": "Cream Puffs" },
   "verified": false,
   "quote": "They will not keep more than about a day in the summer when filled with custard."

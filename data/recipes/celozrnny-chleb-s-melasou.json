@@ -38,9 +38,9 @@
     },
     {
       "ingredientId": "sul",
-      "amount": 8,
+      "amount": 2,
       "unit": "g",
-      "note": "do zřeďovací vody; moderní dávka 2 % z mouky",
+      "note": "do zřeďovací vody; zdroj ½ lb soli na 3 galony vody (asi 20 g na litr)",
       "scaling": "linear"
     },
     {
@@ -90,7 +90,7 @@
       "text": "Vyjmi chléb z formy, postav ho na hranu a přikryj hustou utěrkou, aby měkká kůrka zůstala měkká."
     }
   ],
-  "modernNote": "Zdroj nedává množství mouky: Graham mouka se přisypává ke každému půl galonu (1,9 l) zředěného kvásku s ¼ pinty (118 ml) melasy, „aby vzniklo spíše měkké těsto“. Pekařská dávka je přepočtena na jeden menší bochník (asi 600 g po upečení, 4 porce po 3 krajících, cca 150–180 g): ¼ pinty melasy na 1,9 l kvásku dává pro asi 370 ml zředěného kvásku 23 ml, tj. asi 30 g. Kvásek je podle obecného postupu zdroje (s. 13, „Set a rather stiff batter“) spíše hustá kaše, mouka a voda asi 1 : 1, stejně jako u Sladkých buchet téže knihy; na zředění zdroj dává asi ¾ vody použité do kvásku. Množství mouky (150 g hladké do kvásku, 250 g celozrnné), vody, droždí (zdroj používá předkvas z mouky a brambor, tzv. ferment, ke kterému se pro kvásek přidá třetina vody), kynutí kvásku (zdroj: nechat klesnout o 2–3 palce) a pečení (zdroj čas ani teplotu neuvádí) jsou odhad, proto verified false. Sůl: zdroj dává ½ lb na 3 galony vody (asi 20 g na litr), to by pro 110 ml vody bylo jen 2 g, proto moderních 8 g (2 % z mouky). Zdroj ponechává těsto kynout půl hodiny až hodinu a půl; vzato horní mez 90 minut. Dnes lze kvásek nechat přes noc v lednici a dobu kynutí zkrátit. Melasu lze nahradit hnědým cukrem 1:1.",
+  "modernNote": "Zdroj nedává množství mouky: Graham mouka se přisypává ke každému půl galonu (1,9 l) zředěného kvásku s ¼ pinty (118 ml) melasy, „aby vzniklo spíše měkké těsto“. Pekařská dávka je přepočtena na jeden menší bochník (asi 600 g po upečení, 4 porce po 3 krajících, cca 150–180 g): ¼ pinty melasy na 1,9 l kvásku dává pro asi 370 ml zředěného kvásku 23 ml, tj. asi 30 g. Kvásek je podle obecného postupu zdroje (s. 13, „Set a rather stiff batter“) spíše hustá kaše, mouka a voda asi 1 : 1, stejně jako u Sladkých buchet téže knihy; na zředění zdroj dává asi ¾ vody použité do kvásku. Množství mouky (150 g hladké do kvásku, 250 g celozrnné), vody, droždí (zdroj používá předkvas z mouky a brambor, tzv. ferment, ke kterému se pro kvásek přidá třetina vody), kynutí kvásku (zdroj: nechat klesnout o 2–3 palce) a pečení (zdroj čas ani teplotu neuvádí) jsou odhad, proto verified false. Sůl drží zdroj: ½ lb na 3 galony vody (asi 20 g na litr), pro 110 ml zřeďovací vody tedy 2 g; dnes se dává asi 2 % soli z mouky (≈ 8 g). Zdroj ponechává těsto kynout půl hodiny až hodinu a půl; vzato horní mez 90 minut. Dnes lze kvásek nechat přes noc v lednici a dobu kynutí zkrátit. Melasu lze nahradit hnědým cukrem 1:1.",
   "source": {
     "book": "hauptmann-1877",
     "page": 14,

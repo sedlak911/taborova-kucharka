@@ -25,6 +25,6 @@
   ],
   "modernNote": "Zdroj (Hauptmann 1877, s. 43): pekařská dávka 7 bílků, 1 lb (454 g) moučkového cukru a 2 oz (57 g) mandlí, zde zmenšeno na polovinu (4 porce; kniha počet kusů neuvádí, odhad asi 25–30 pusinek, tj. 6–7 na porci). Pulverized sugar = moučkový cukr. Zdroj nemá teplotu ani dobu pečení („very cool oven“, hotovo, když mají kůrku): 100 °C a 45 minut jsou odhad. Pusinky se nemají zbarvit; modernější je péct na pečicím papíře. Zdroj nevyžaduje sušení přes noc. Zdroj hmotnost kusu bílku neuvádí, počítáno 33 g/ks podle katalogu (7 bílků ≈ 231 g). Tip: dokonalejší pěnu dá čisté nádobí bez tuku.",
   "source": { "book": "hauptmann-1877", "page": 43, "titleOriginal": "Almond Puffs" },
-  "verified": false,
+  "verified": true,
   "quote": "Mix light, then pass through a gum sack"
 }

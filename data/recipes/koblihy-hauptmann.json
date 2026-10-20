@@ -7,7 +7,6 @@
   "timeMinutes": 310,
   "difficulty": 3,
   "tags": [
-    "bez-masa",
     "sladke"
   ],
   "equipment": [
@@ -143,7 +142,7 @@
       "minutes": 15
     }
   ],
-  "modernNote": "Zdroj říká jen „bun dough, add a little flour“, takže základ je totéž těsto jako u Sladkých kynutých buchet (sladke-buchty-hauptmann): kvásek z droždí, 2 vejce a ostatní suroviny přepočtené na 4 kusy; navíc 30 g mouky na o něco tužší těsto (odhad). Jako ve zdroji těsto kyne dvakrát: nejdřív jako těsto na buchty, pak znovu po zapracování mouky navíc; potom ještě vykrojené kobliby. Pekařská dávka je zmenšena na asi 0,17násobek, vychází 4 kobliby po zhruba 165 g těsta; se sádlem nasáklým při smažení je to asi 490 kcal kus, takže jsou dost velké; klidně z těsta udělej 8 menších. Zdroj neuvádí množství mouky, kypřidlo (původně předkvas, nahrazen droždím), teplotu a dobu smažení ani množství sádla; odhad, proto verified false. Nasáklé sádlo je 30 g, zbytek zůstane v pánvi (450 g, tj. asi 2 cm vrstva). Vejce vychází na 0,35 ks, prakticky použij půl rozšlehaného vejce. Sůl: zdroj dává jen špetku na celou pekařskou dávku, proto recept drží 1 g. Dnešní kobliby se po usmažení obvykle obalují v cukru; zdroj to neuvádí. Smaž při asi 170–180 °C, asi 3 minuty z každé strany.",
+  "modernNote": "Zdroj říká jen „bun dough, add a little flour“, takže základ je totéž těsto jako u Sladkých kynutých buchet (sladke-buchty-hauptmann): kvásek z droždí, 2 vejce a ostatní suroviny přepočtené na 4 kusy; navíc 30 g mouky na o něco tužší těsto (odhad). Jako ve zdroji těsto kyne dvakrát: nejdřív jako těsto na buchty, pak znovu po zapracování mouky navíc; potom ještě vykrojené kobliby. Pekařská dávka je zmenšena na asi 0,17násobek, vychází 4 kobliby po zhruba 165 g těsta; se sádlem nasáklým při smažení je to asi 490 kcal kus, takže jsou dost velké; klidně z těsta udělej 8 menších. Zdroj neuvádí množství mouky, kypřidlo (původně předkvas, nahrazen droždím), teplotu a dobu smažení ani množství sádla; odhad, proto verified false. Nasáklé sádlo je 30 g, zbytek zůstane v pánvi (450 g, tj. asi 2 cm vrstva). Vejce vychází na 0,35 ks, prakticky použij půl rozšlehaného vejce. Sůl: zdroj dává jen špetku na celou pekařskou dávku, proto recept drží 1 g; dnešnímu vkusu odpovídá asi 3 g. Dnešní kobliby se po usmažení obvykle obalují v cukru; zdroj to neuvádí. Smaž při asi 170–180 °C, asi 3 minuty z každé strany.",
   "source": {
     "book": "hauptmann-1877",
     "page": 17,

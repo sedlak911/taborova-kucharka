@@ -11,10 +11,10 @@
   "allergens": ["lepek", "mleko", "vejce", "siricitany"],
   "ingredients": [
     { "ingredientId": "jablko", "amount": 4, "unit": "ks", "note": "pevná, např. míšeňská (zdroj bez množství, odhad)" },
-    { "ingredientId": "rum", "amount": 30, "unit": "g", "note": "na pokapání jablek; zdroj rum nebo arak" },
+    { "ingredientId": "rum", "amount": 30, "unit": "g", "note": "na pokapání jablek; zdroj rum nebo arak; lze vynechat" },
     { "ingredientId": "hladka-mouka", "amount": 45, "unit": "g", "note": "těsto; zdroj 2 lžíce × 1,5" },
     { "ingredientId": "cukr-krystal", "amount": 55, "unit": "g", "note": "do těsta; moderně moučkový; zdroj 2 loty × 1,5", "scaling": "linear" },
-    { "ingredientId": "bile-vino", "amount": 135, "unit": "ml", "note": "zdroj 6 lžic rakouského vína × 1,5; podle hustoty více" },
+    { "ingredientId": "bile-vino", "amount": 135, "unit": "ml", "note": "zdroj 6 lžic rakouského vína × 1,5; podle hustoty více; bez alkoholu nahraď stejným množstvím mléka nebo jablečné šťávy" },
     { "ingredientId": "vejce", "amount": 3, "unit": "ks", "note": "celá; zdroj 2 vejce × 1,5" },
     { "ingredientId": "maslo", "amount": 60, "unit": "g", "note": "přepuštěné, na smažení; zůstane v pánvi", "scaling": "vessel" },
     { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "přepuštěné, nasáklé do věnečků (odhad)", "scaling": "fat" },

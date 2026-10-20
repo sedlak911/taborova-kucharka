@@ -22,7 +22,7 @@
     { "ingredientId": "voda", "amount": 95, "unit": "ml", "note": "zdroj ¾ žejdlíku vody nebo neslané polévky" },
     { "ingredientId": "ancovicky", "amount": 6, "unit": "g", "note": "4 sardele, odhad 16 g" },
     { "ingredientId": "kapary", "amount": 3, "unit": "g", "note": "plná lžíce kaprlí ≈ 8,6 g" },
-    { "ingredientId": "cervene-vino", "amount": 65, "unit": "ml", "note": "zdroj půl žejdlíku ≈ 175 ml" },
+    { "ingredientId": "cervene-vino", "amount": 65, "unit": "ml", "note": "zdroj půl žejdlíku ≈ 175 ml; lze vynechat" },
     { "ingredientId": "hladka-mouka", "amount": 4, "unit": "g", "note": "kousek hnědé jíšky, odhad 10 g mouky opražené na másle" },
     { "ingredientId": "zemle-bila", "amount": 15, "unit": "g", "note": "smažená strouhaná žemlička na posypání, odhad 40 g" },
     { "ingredientId": "hovezi-vyvar", "amount": 18, "unit": "ml", "note": "na zředění příliš husté omáčky, jen podle potřeby" }

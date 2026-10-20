@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 200,
   "difficulty": 2,
-  "tags": ["levne", "tabor", "kotlik", "sladke", "bez-masa"],
+  "tags": ["levne", "tabor", "kotlik", "sladke"],
   "equipment": ["plotna"],
   "allergens": ["lepek"],
   "ingredients": [

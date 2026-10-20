@@ -10,8 +10,8 @@ Texty: `extracted/<kniha>.txt` (stránky oddělené `=== PAGE N ===`, N = čísl
 | `feldkochbuch-1940` | `Feldkochbuch-1940.pdf` (27 dvoustran) | `feldkochbuch-1940.txt` | „je Kopf“ = 1 | PDF strana = dvoustrana (levá + `--- [right half of spread] ---` + pravá) | fraktura, tabulky 75–85 %, sloupce prohozené → **vždy obrázek** | de |
 | `rettigova-1868` | `domaci_kucharka 1820.pdf` (485; e-kniha MKP podle vydání 1868) | `rettigova-domaci-kucharka.txt` | téměř nikdy → `originalYield` vynech | PDF = tištěná (číslo strany v patičce) | text bezchybný (digitální), množství staré jednotky / slovně → `verified: false` | cs (1868) |
 | `glasse-1747` | `The_Art_of_Cookery_text.pdf` (358; IA/Google sken, nedatované vydání Wangford) | `glasse-art-of-cookery.txt` | žádný → `originalYield` vynech | PDF ≠ tištěná (tištěná v záhlaví) | OCR špatný i po opravě dlouhého ſ (`fait` = salt, `fend` = send) → **vždy obrázek** | en (18. st.) |
-| `hauptmann-1877` | `bread-and-cake-baking/pg78839-images.html` (z `bread and cake baking.zip`, Gutenberg #78839) | `hauptmann-bread-cake-baking-1877.txt` | pekárenská dávka → vynech | HTML: N = tištěná strana | přepis korektorů (bezchybný), US míry | en |
-| `wells-1890` | `The Bread and Biscuit Baker's.html` (Project Gutenberg #53627) | `wells-bread-biscuit-baker-1890.txt` | pekárenská dávka, porce chybí → `originalYield` vynech | HTML bez PDF: N = **tištěná strana** z Gutenbergu | přepis korektorů (bezchybný), množství lb/oz/qt → `verified: true` jen u úplných receptů | en |
+| `hauptmann-1877` | `bread-and-cake-baking/pg78839-images.html` (z `bread and cake baking.zip`, Gutenberg #78839) | `hauptmann-bread-cake-baking-1877.txt` | pekárenská dávka → vynech | HTML: N = tištěná strana | přepis korektorů (bezchybný), US míry → `verified` jako u Wells | en |
+| `wells-1890` | `The Bread and Biscuit Baker's.html` (Project Gutenberg #53627) | `wells-bread-biscuit-baker-1890.txt` | pekárenská dávka, porce chybí → `originalYield` vynech | HTML bez PDF: N = **tištěná strana** z Gutenbergu | přepis korektorů (bezchybný), množství lb/oz/qt → `verified: false` jen při doplněném odhadu množství suroviny (ne teploty/doby, ne zmenšení dávky) | en |
 | `army-baker-1945` | `army baker 1945.pdf` (68; TM 10-410) | `army-baker-1945.txt` | stovky bochníků, procenta mouky | PDF ≠ tištěná (tištěná v hlavičce strany) | ABBYY OCR dobrý, tabulky receptur → **obrázek** | en |
 | `receptury-1983` | `Receptury teplých pokrmů.pdf` (648) | `receptury-teplych-pokrmu-1983.txt` | 10 porcí | viz sekce níže | OCR čitelné, sloupce tabulky se prokládají s postupem → **vždy obrázek** | cs |
 
@@ -57,7 +57,7 @@ Jedna karta = jedna až dvě stránky PDF, pevný tvar (viz `afrs-card.md`). Kó
 ## Glasse 1747 (The Art of Cookery)
 
 - Recepty bez čísel, nadpis „To stew a Rump of Beef“; `source.titleOriginal` v moderním pravopise (s místo ſ). Množství volná („a piece of butter“, „a quart of strong broth“), porce chybí → odhad pro 4 porce, `verified: false`.
-- Míry: anglické pre-imperiální (pint ≈ 0,47–0,57 l), lb 454 g. OCR: dlouhé ſ čte jako f (skript část opravuje), `ii`/`H` za `st` („Hewed“ = stewed, „Huff“ = stuff) – text kroků vždy podle obrázku.
+- Míry: anglické pre-imperiální **vinné** míry (galon 231 in³, Londýn 1747, před imperiální pintou 1824): **pint = 473 ml, quart = 946 ml, gill = 118 ml** (= US míry, `npm run convert` je bere přímo), lb 454 g. OCR: dlouhé ſ čte jako f (skript část opravuje), `ii`/`H` za `st` („Hewed“ = stewed, „Huff“ = stuff) – text kroků vždy podle obrázku.
 
 ## Hauptmann 1877 (Bread and Cake Baking)
 
@@ -66,7 +66,7 @@ Jedna karta = jedna až dvě stránky PDF, pevný tvar (viz `afrs-card.md`). Kó
 ## Wells 1890 (Bread and Biscuit Baker's Assistant)
 
 - Recepty číslované průběžně („62.—Abernethys as made in London.“); `source.titleOriginal` bez čísla, `source.code` vynech, `source.page` = tištěná strana (`=== PAGE N ===`).
-- Britské míry: lb 454 g, oz 28,35 g, **pint = 568 ml, quart = 1,136 l, gallon = 4,546 l** (imperiální, ne US). Dávka bývá na 7–8 lb mouky → přepočti na domácí množství (500 g mouky) a `originalYield` vynech.
+- Britské míry: lb 454 g, oz 28,35 g, **pint = 568 ml, quart = 1 136 ml, gill = 142 ml, gallon = 4,546 l** (imperiální, ne US). `npm run convert` bere pint/quart jako US (473/946) → objem zadávej v ml („568 ml:linear“). Dávka bývá na 7–8 lb mouky → přepočti na domácí množství (500 g mouky) a `originalYield` vynech.
 - „Volatile salts“ = amonium (cukrářské kypřidlo) → kypřicí prášek do `original`; „barm“ = pivní kvasnice → droždí.
 
 ## Army Baker 1945 (TM 10-410)

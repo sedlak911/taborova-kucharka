@@ -39,9 +39,9 @@
     },
     {
       "ingredientId": "sul",
-      "amount": 8,
+      "amount": 2,
       "unit": "g",
-      "note": "do zřeďovací vody; moderní dávka 2 % z mouky",
+      "note": "do zřeďovací vody; zdroj ½ lb soli na 3 galony vody (asi 20 g na litr)",
       "scaling": "linear"
     },
     {
@@ -102,7 +102,7 @@
       "text": "Hned po vytažení z trouby potři pletenku štětcem namočeným do rozpuštěného másla."
     }
   ],
-  "modernNote": "Zdroj je pekařská dávka: ½ galonu (asi 1,9 l) zředěného kvásku (po přidání vody a soli), asi ¼ lb měkkého másla a mouka na těsto o něco tužší než na chleba; kusy po asi 1 lb se dělí na tři díly, nechají 15 minut odpočinout, vyválí a zkroutí. Dávka je zmenšena na jednu pletenku asi 660 g těsta (4 porce po 165 g, asi 420 kcal): ze zdrojové proporce másla na zředěný kvásek vychází 20 g (kvásek ze 130 g mouky a 130 ml vody jako „rather stiff batter“, stejně jako u sladkých buchet, zředěný 100 ml vody, tj. asi ¾ vody kvásku podle zdroje; celkem asi 0,17násobek zdrojové dávky; těsto má asi 58 % vody z mouky, tužší než chleba). Zdroj neuvádí množství mouky, droždí (používá předkvas z mouky a brambor, nahrazen čerstvým droždím), dobu kynutí kvásku ani těsta (u chleba v téže knize je „půl hodiny až hodina a půl“, vzata horní mez), teplotu ani dobu pečení, proto verified false. Sůl: zdroj dává ½ lb na 3 galony vody, tedy jen asi 20 g na litr; recept stejně jako ostatní chleby z knihy drží 2 % z mouky. Zdroj peče pletenky před chlebem. Při větší dávce zdroj radí přidat trochu spařené bílé kukuřičné mouky, aby byly pletenky bělejší; zde vynecháno. Množství másla na potření je odhad. Dnes lze kvásek nechat přes noc v lednici a dobu kynutí zkrátit.",
+  "modernNote": "Zdroj je pekařská dávka: ½ galonu (asi 1,9 l) zředěného kvásku (po přidání vody a soli), asi ¼ lb měkkého másla a mouka na těsto o něco tužší než na chleba; kusy po asi 1 lb se dělí na tři díly, nechají 15 minut odpočinout, vyválí a zkroutí. Dávka je zmenšena na jednu pletenku asi 660 g těsta (4 porce po 165 g, asi 420 kcal): ze zdrojové proporce másla na zředěný kvásek vychází 20 g (kvásek ze 130 g mouky a 130 ml vody jako „rather stiff batter“, stejně jako u sladkých buchet, zředěný 100 ml vody, tj. asi ¾ vody kvásku podle zdroje; celkem asi 0,17násobek zdrojové dávky; těsto má asi 58 % vody z mouky, tužší než chleba). Zdroj neuvádí množství mouky, droždí (používá předkvas z mouky a brambor, nahrazen čerstvým droždím), dobu kynutí kvásku ani těsta (u chleba v téže knize je „půl hodiny až hodina a půl“, vzata horní mez), teplotu ani dobu pečení, proto verified false. Sůl drží zdroj: ½ lb na 3 galony vody (asi 20 g na litr), pro 100 ml zřeďovací vody tedy 2 g; dnes se dává asi 2 % soli z mouky (≈ 8 g). Zdroj peče pletenky před chlebem. Při větší dávce zdroj radí přidat trochu spařené bílé kukuřičné mouky, aby byly pletenky bělejší; zde vynecháno. Množství másla na potření je odhad. Dnes lze kvásek nechat přes noc v lednici a dobu kynutí zkrátit.",
   "source": {
     "book": "hauptmann-1877",
     "page": 15,

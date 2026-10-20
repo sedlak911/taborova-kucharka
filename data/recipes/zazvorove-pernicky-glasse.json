@@ -16,7 +16,7 @@
     { "ingredientId": "zazvor-mlety", "amount": 25, "unit": "g", "note": "ve zdroji 2 oz" },
     { "ingredientId": "muskatovy-orisek", "amount": 2, "unit": "g", "note": "ve zdroji „a large nutmeg“, odhad" },
     { "ingredientId": "melasa", "amount": 165, "unit": "g", "note": "ve zdroji „treacle“ 1 lb" },
-    { "ingredientId": "smetana-ke-slehani", "amount": 50, "unit": "ml", "note": "ve zdroji ¼ pinty (142 ml)" }
+    { "ingredientId": "smetana-ke-slehani", "amount": 45, "unit": "ml", "note": "ve zdroji ¼ pinty (118 ml, vinná pinta 473 ml)" }
   ],
   "steps": [
     { "text": "Předehřej troubu na 150 °C a plech vylož pečicím papírem." },

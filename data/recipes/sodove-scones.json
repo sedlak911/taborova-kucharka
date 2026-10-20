@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 45,
   "difficulty": 2,
-  "tags": ["levne", "rychle", "bez-masa"],
+  "tags": ["levne", "rychle"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "mleko"],
   "ingredients": [
@@ -26,7 +26,7 @@
     { "text": "Pláty polož na plech, potři je mlékem a propíchej vidličkou.", "minutes": 3 },
     { "text": "Peč na spodní polovině vyhřáté trouby, dokud nejsou zlatavé.", "minutes": 18 }
   ],
-  "modernNote": "Zdroj je pekařská dávka na 12 lb (5 443 g) mouky; kusy se váží po 6 oz (170 g) za penci. Dávka je zmenšena na 400 g mouky (faktor 0,0735), což dá právě 4 scones po asi 170 g těsta (1 porce = 1 scone, cca 460 kcal; z celé zdrojové dávky by jich bylo asi 32). Kypřidla zdroje (6 oz vinného kamene a 3 oz sody, tj. 12,5 g a 6,25 g na tuto dávku) nahrazuje kypřicí prášek: 1 díl sody a 2 díly vinného kamene dávají zhruba 3 díly prášku, tedy 19 g (4,7 % mouky, jako ve zdroji). Prášek je tu hodně, protože zdroj počítá s kyselým podmáslím; kdo chce jemnější chuť, může ubrat na 12–15 g. Zdroj píše „churned milk“ (podmáslí po stloukání másla), množství neuvádí: 230 ml je odhad (asi 58 % hmotnosti mouky, těsto má vážit 6 oz na kus). Mléko na potření (15 ml) je odhad. Teplota ani doba pečení ve zdroji nejsou („the bottom of a good sound oven“, tj. na dno dobré trouby); 220 °C a 18 minut jsou odhad pro scones. „Dock them with a docker“ = propíchat dřevěným razítkem s hroty, doma vidličkou. Pečeno v troubě, proto bez tagu tabor. Strana: tištěná 68. Odhady (podmáslí, mléko, teplota, čas) ⇒ verified false.",
+  "modernNote": "Zdroj je pekařská dávka na 12 lb (5 443 g) mouky; kusy se váží po 6 oz (170 g) za penci. Dávka je zmenšena na 400 g mouky (faktor 0,0735), což dá právě 4 scones po asi 170 g těsta (1 porce = 1 scone, cca 460 kcal; z celé zdrojové dávky by jich bylo asi 32). Kypřidla zdroje (6 oz vinného kamene a 3 oz sody, tj. 12,5 g a 6,25 g na tuto dávku) nahrazuje kypřicí prášek: 1 díl sody a 2 díly vinného kamene dávají zhruba 3 díly prášku, tedy 19 g (4,7 % mouky, jako ve zdroji). Prášek je tu hodně, protože zdroj počítá s kyselým podmáslím; kdo chce jemnější chuť, může ubrat na 12–15 g. Zdroj píše „churned milk“ (podmáslí po stloukání másla), množství neuvádí: 230 ml je odhad (asi 58 % hmotnosti mouky, těsto má vážit 6 oz na kus). Mléko na potření (15 ml) je odhad. Teplota ani doba pečení ve zdroji nejsou („the bottom of a good sound oven“, tj. na dno dobré trouby); 220 °C a 18 minut jsou odhad pro scones. „Dock them with a docker“ = propíchat dřevěným razítkem s hroty, doma vidličkou. Pečeno v troubě, proto bez tagu tabor. Strana: tištěná 68. Odhady množství (podmáslí, mléko na potření) ⇒ verified false.",
   "source": { "book": "wells-1890", "page": 68, "titleOriginal": "Soda Cakes or Scones" },
   "verified": false,
   "quote": "Weigh off at 6 ozs. for a penny. Mould round, pin out the breadth of a small saucer, wash the top with milk, bake on the bottom of a good sound oven."

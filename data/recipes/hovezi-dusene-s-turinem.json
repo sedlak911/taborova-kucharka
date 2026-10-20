@@ -17,7 +17,7 @@
     { "ingredientId": "tymian-cerstvy", "amount": 5, "unit": "g", "note": "svazek bylinek („bundle of sweet herbs“), odhad" },
     { "ingredientId": "petrzel-nat", "amount": 5, "unit": "g", "note": "do svazku bylinek, odhad" },
     { "ingredientId": "sul", "amount": 5, "unit": "g", "note": "„some salt“, odhad; dosolit podle chuti na konci" },
-    { "ingredientId": "cervene-vino", "amount": 280, "unit": "ml", "note": "červené víno; 1 pint ze zdroje, přepočteno pro menší kus masa" },
+    { "ingredientId": "cervene-vino", "amount": 240, "unit": "ml", "note": "červené víno (claret); 1 pint ze zdroje (vinná pinta 473 ml), polovina pro menší kus masa; lze vynechat a nahradit vývarem" },
     { "ingredientId": "hovezi-vyvar", "amount": 570, "unit": "ml", "note": "„gravy as for soup“; zdroj má 3 quarts, zmenšeno" },
     { "ingredientId": "turin", "amount": 550, "unit": "g", "note": "10–12 tuřínů, odhad; hmotnost z nákupu, loupe se" },
     { "ingredientId": "hladka-mouka", "amount": 20, "unit": "g", "note": "na obalení tuřínu" },
@@ -35,7 +35,7 @@
     { "text": "Maso dej do hluboké mísy. Přidej chlebové trojúhelníčky a tuřín. Přecedi k nim šťávu.", "minutes": 5 },
     { "text": "Dosol podle chuti." }
   ],
-  "modernNote": "Zdroj (Glasse 1747, PDF 59, tištěná s. 29) nemá porce: odhad 8 porcí z jednoho kusu zadní (~1,6 kg), proto 4 porce = 800 g masa; všechna volná množství (lžíce celého pepře, 2 cibule, svazek bylinek, sůl, chléb, mouka, 10–12 tuřínů) jsou odhady. Pint vína = 568 ml, přepočteno na 280 ml. „Three quarts“ šťávy by bylo pro 4 porce příliš: dáno 570 ml vývaru, zdroj ho vaří „as for soup“ z masa. Zdroj radí dát mísu na 5–6 minut na sporák, aby šťáva nasákla příchutí tuřínu. Porce vychází asi na 735 g syrových surovin, protože jídlo se podává v hluboké míse zalité šťávou jako polévka; za 4 hodiny dušení se část tekutiny odpaří. Kdo chce sušší jídlo, dá vývaru jen polovinu. Alkohol se při 4hodinovém dušení vyvaří, víno zůstává pro chuť.",
+  "modernNote": "Zdroj (Glasse 1747, PDF 59, tištěná s. 29) nemá porce: odhad 8 porcí z jednoho kusu zadní (~1,6 kg), proto 4 porce = 800 g masa; všechna volná množství (lžíce celého pepře, 2 cibule, svazek bylinek, sůl, chléb, mouka, 10–12 tuřínů) jsou odhady. Pint vína = 473 ml (vinná míra, kniha je před imperiální pintou z roku 1824), polovina = 240 ml. „Three quarts“ šťávy by bylo pro 4 porce příliš: dáno 570 ml vývaru, zdroj ho vaří „as for soup“ z masa. Zdroj radí dát mísu na 5–6 minut na sporák, aby šťáva nasákla příchutí tuřínu. Porce vychází asi na 735 g syrových surovin, protože jídlo se podává v hluboké míse zalité šťávou jako polévka; za 4 hodiny dušení se část tekutiny odpaří. Kdo chce sušší jídlo, dá vývaru jen polovinu. Alkohol se při 4hodinovém dušení vyvaří, víno zůstává pro chuť.",
   "source": { "book": "glasse-1747", "page": 59, "titleOriginal": "Another way to stew a Rump of Beef" },
   "verified": false,
   "quote": "Be sure to let your dripping boil before you put them in."

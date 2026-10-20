@@ -14,6 +14,7 @@
     { "ingredientId": "mleko-polotucne", "amount": 470, "unit": "ml", "note": "zdroj: 1 quart (asi 946 ml) na celou dávku" },
     { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj 6–8 vajec na quart, polovina bílků vynechána" },
     { "ingredientId": "zloutek", "amount": 2, "unit": "ks", "note": "žloutky bez bílků (polovina bílků vynechána)" },
+    { "ingredientId": "konak", "amount": 25, "unit": "ml", "note": "zdroj: „a glass of brandy“ na celý quart mléka; lze vynechat" },
     { "ingredientId": "zazvor-mlety", "amount": 6, "unit": "g", "note": "zdroj: 2 lžíce rozetřeného zázvoru na quart" },
     { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: trochu soli (odhad)" },
     { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "na pánev; zdroj: kousek másla velký jako vlašský ořech (odhad)" },
@@ -26,7 +27,7 @@
     { "text": "Zatřes pánví a když je jedna strana hotová, palačinku obrať (v knize ji podhodí). Hotovou palačinku polož na mísu a stejně upeč zbytek těsta.", "minutes": 20 },
     { "text": "Palačinky musí být při podávání suché; posyp je trochou cukru.", "minutes": 2 }
   ],
-  "modernNote": "Kniha neuvádí množství mouky („do správné hustoty“) ani počet porcí. Dávka z 1 quartu mléka (asi 946 ml) dá zhruba 24 tenkých palačinek; pro 4 osoby po 3 palačinkách je to polovina dávky: 470 ml mléka, 3–4 vejce s polovinou bílků (2 vejce + 2 žloutky) a 1 lžíce zázvoru, porce asi 400 kcal. Mouka 210 g, máslo na pánev i cukr jsou odhad. Zdroj do těsta přidává i sklenku brandy („a glass of brandy“, asi 25 ml na tuto dávku); alkohol mezi suroviny nepatří, kdo chce historickou chuť, přilije ji s vejci. Zázvor je výrazný, pokud chceš jemnější chuť, dej poloviční množství. Moderní tip: těsto nech 30 minut odležet.",
+  "modernNote": "Kniha neuvádí množství mouky („do správné hustoty“) ani počet porcí. Dávka z 1 quartu mléka (asi 946 ml) dá zhruba 24 tenkých palačinek; pro 4 osoby po 3 palačinkách je to polovina dávky: 470 ml mléka, 3–4 vejce s polovinou bílků (2 vejce + 2 žloutky) a 1 lžíce zázvoru, porce asi 400 kcal. Mouka 210 g, máslo na pánev i cukr jsou odhad. Zdroj do těsta přidává i sklenku brandy („a glass of brandy“); 25 ml koňaku na tuto dávku lze vynechat. Zázvor je výrazný, pokud chceš jemnější chuť, dej poloviční množství. Moderní tip: těsto nech 30 minut odležet.",
   "source": { "book": "glasse-1747", "page": 152, "titleOriginal": "To make Pancakes" },
   "verified": false,
   "quote": "put in two spoonfuls of beaten ginger, a glass of brandy, a little salt"

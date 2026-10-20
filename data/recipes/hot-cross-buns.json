@@ -17,7 +17,7 @@
     { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear" },
     { "ingredientId": "sul", "amount": 4, "unit": "g", "scaling": "linear" },
     { "ingredientId": "korintky", "amount": 60, "unit": "g", "scaling": "linear", "note": "odhad, zdroj „currants to taste“" },
-    { "ingredientId": "kandovane-ovoce", "amount": 14, "unit": "g", "scaling": "linear", "note": "kandovaná kůra (peel); odhad, zdroj „to taste“" },
+    { "ingredientId": "citronat", "amount": 14, "unit": "g", "scaling": "linear", "note": "kandovaná kůra (peel), citronát; odhad, zdroj „to taste“" },
     { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "scaling": "seasoning", "note": "volitelné koření; odhad, zdroj „spice to taste“" },
     { "ingredientId": "vejce", "amount": 0.5, "unit": "ks", "scaling": "linear", "note": "na potření (wash); odhad" }
   ],

@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 45,
   "difficulty": 1,
-  "tags": ["levne", "tabor", "rychle", "bez-masa"],
+  "tags": ["levne", "tabor", "rychle"],
   "equipment": ["plotna"],
   "allergens": ["lepek", "vejce"],
   "ingredients": [

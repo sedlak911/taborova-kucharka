@@ -24,6 +24,7 @@
     },
     "ediblePortion": 1,
     "allergens": [],
+    "containsMeat": true,
     "sources": {
       "nutrition": "USDA SR Legacy fdc:171400 (Fat, beef tallow); kcal 902 sníženo na 900 (limit schématu)",
       "refuse": "USDA fdc:171400 refusePct 0",

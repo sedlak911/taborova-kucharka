@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 50,
   "difficulty": 2,
-  "tags": ["levne", "sladke", "bez-masa"],
+  "tags": ["levne", "sladke"],
   "equipment": ["trouba"],
   "allergens": ["lepek"],
   "ingredients": [
@@ -24,7 +24,7 @@
     { "text": "Kolečka polož na vymazané plechy a peč v mírné troubě, dokud nezezlátnou.", "minutes": 15 },
     { "text": "Upečená kolečka můžeš zatočit kolem dřevěné vařečky, nebo je nech ploché.", "minutes": 5 }
   ],
-  "modernNote": "Zdroj (Wells 1890, s. 69, č. 175): pekařská dávka 4 lb mouky (1,8 kg), zde zmenšeno na 125 g mouky (faktor 1/14,5), asi 25 koleček o průměru 5 cm, tedy 6 na porci; zdroj počet kusů neuvádí. Recept je bez brandy a (na rozdíl od č. 48 „Italian Jumbles, or Brandy Snaps“, s. 35) bez zázvoru; jen sádlo, mouka, hnědý cukr, sirup a pár kapek citronové esence. Pro klasickou zázvorovou chuť přidej 1 až 2 g mletého zázvoru (podle č. 48, kde je 2 oz zázvoru nebo směsi koření na 6 lb mouky). „Syrup“ je světlý cukrovarský sirup, dnes zlatý sirup (golden syrup), případně světlý glukózový nebo javorový sirup. „Moist sugar“ je vlhký hnědý cukr. Zdroj neuvádí teplotu ani dobu pečení („moderate oven“): 170 °C a 15 minut jsou odhad, kolečka mají být zlatá a těsto se na plechu rozteče. Tloušťka „asi jako penny“ je kolem 1,5 mm. Zdroj dovoluje trubičky stočit kolem „peel“ (lopaty, dnes vařečka): kolečka stáčej ještě horká, rychle, protože rychle tuhnou; zchladlá vrať na minutu do trouby. Množství citronové esence ½ lžičky je přepočteno jen na 0,17 ml (několik kapek). Jelikož je těsto bohaté na sirup, může se při pečení hodně rozlít: nechávej mezi kolečky mezery. Množství jsou ze zdroje, teplota a doba pečení jsou odhad ⇒ verified false.",
+  "modernNote": "Zdroj (Wells 1890, s. 69, č. 175): pekařská dávka 4 lb mouky (1,8 kg), zde zmenšeno na 125 g mouky (faktor 1/14,5), asi 25 koleček o průměru 5 cm, tedy 6 na porci; zdroj počet kusů neuvádí. Recept je bez brandy a (na rozdíl od č. 48 „Italian Jumbles, or Brandy Snaps“, s. 35) bez zázvoru; jen sádlo, mouka, hnědý cukr, sirup a pár kapek citronové esence. Pro klasickou zázvorovou chuť přidej 1 až 2 g mletého zázvoru (podle č. 48, kde je 2 oz zázvoru nebo směsi koření na 6 lb mouky). „Syrup“ je světlý cukrovarský sirup, dnes zlatý sirup (golden syrup), případně světlý glukózový nebo javorový sirup. „Moist sugar“ je vlhký hnědý cukr. Zdroj neuvádí teplotu ani dobu pečení („moderate oven“): 170 °C a 15 minut jsou odhad, kolečka mají být zlatá a těsto se na plechu rozteče. Tloušťka „asi jako penny“ je kolem 1,5 mm. Zdroj dovoluje trubičky stočit kolem „peel“ (lopaty, dnes vařečka): kolečka stáčej ještě horká, rychle, protože rychle tuhnou; zchladlá vrať na minutu do trouby. Množství citronové esence ½ lžičky je přepočteno jen na 0,17 ml (několik kapek). Jelikož je těsto bohaté na sirup, může se při pečení hodně rozlít: nechávej mezi kolečky mezery. Množství jsou všechna ze zdroje (zázvor je jen tip mimo suroviny), odhad je jen teplota a doba pečení ⇒ verified true.",
   "source": { "book": "wells-1890", "page": 69, "titleOriginal": "Brandy Snaps" },
-  "verified": false
+  "verified": true
 }

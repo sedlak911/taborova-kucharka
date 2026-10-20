@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 170,
   "difficulty": 3,
-  "tags": ["sladke", "bez-masa"],
+  "tags": ["sladke"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "mleko"],
   "ingredients": [

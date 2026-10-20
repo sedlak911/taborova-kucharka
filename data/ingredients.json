@@ -3647,6 +3647,7 @@
     },
     "ediblePortion": 1,
     "allergens": [],
+    "containsMeat": true,
     "sources": {
       "nutrition": "USDA SR Legacy fdc:171400 (Fat, beef tallow); kcal 902 sníženo na 900 (limit schématu)",
       "units": "USDA fdc:171400 tbsp 12,8 g, lžička odvozeno; hustota odhad 0,9 g/ml",
@@ -10169,6 +10170,7 @@
     },
     "ediblePortion": 1,
     "allergens": [],
+    "containsMeat": true,
     "sources": {
       "nutrition": "USDA SR Legacy fdc:171401 (Lard); kcal 902 sníženo na 900 (limit schématu)",
       "units": "USDA fdc:171401 tbsp 12,8 g, cup 205 g, lžička odvozeno",

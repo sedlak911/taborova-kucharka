@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 45,
   "difficulty": 2,
-  "tags": ["sladke", "bez-masa", "levne"],
+  "tags": ["sladke", "levne"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "vejce", "mleko"],
   "ingredients": [
@@ -28,7 +28,7 @@
     { "text": "Na pracovní desku nasypej trochu krystalového cukru. Těsto na něm vytvaruj do dlouhých pruhů, nakrájej na kousky asi 10–12 cm dlouhé a stáčej je do kroužků.", "minutes": 15 },
     { "text": "Kroužky ulož cukrovou stranou nahoru s velkými odstupy na lehce vymazané plechy. Peč v mírně horké troubě do zlatohněda.", "minutes": 12 }
   ],
-  "modernNote": "Zdroj (Hauptmann 1877, s. 32): dávka na 3¼ lb (1 474 g) mouky, US míry (pint 473 ml). Zde zmenšeno na 250 g mouky (4 porce, asi 10–12 kroužků, ~500 kcal na porci); kniha dává velkou pekařskou dávku. Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem ve stejné hmotnosti (14 g → 2 g po zmenšení); amonium kypří silněji, prášek ověř při prvním pečení. Zdroj píše o tuku jednou „lard“ a v postupu „butter“; použito sádlo, lze nahradit máslem jako u hotových White Jumbles. Kniha tvaruje těsto strojkem na jumbles; doma lze těsto vyválet v pruzích do cukru rukou. „Mírně horká trouba“ bez teploty je zde 190 °C. Těsto se nemá přemíchat.",
+  "modernNote": "Zdroj (Hauptmann 1877, s. 32): dávka na 3¼ lb (1 474 g) mouky, US míry (pint 473 ml). Zde zmenšeno na 250 g mouky (4 porce, asi 10–12 kroužků, ~500 kcal na porci); kniha dává velkou pekařskou dávku. Carbonate of ammonia (amonium, hartshorn) v katalogu není, nahrazen kypřicím práškem ve stejné hmotnosti (14 g → 2 g po zmenšení); amonium kypří silněji, prášek ověř při prvním pečení. Pro křupavější výsledek lze dát až dvojnásobek prášku. Zdroj píše o tuku jednou „lard“ a v postupu „butter“; použito sádlo, lze nahradit máslem jako u hotových White Jumbles. Kniha tvaruje těsto strojkem na jumbles; doma lze těsto vyválet v pruzích do cukru rukou. „Mírně horká trouba“ bez teploty je zde 190 °C. Těsto se nemá přemíchat.",
   "source": { "book": "hauptmann-1877", "page": 32, "titleOriginal": "Brown Jumbles" },
   "verified": false,
   "quote": "Don't mix longer than is necessary to have it well mixed in."

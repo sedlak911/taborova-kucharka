@@ -10,10 +10,10 @@
   "equipment": ["plotna"],
   "allergens": ["mleko", "vejce"],
   "ingredients": [
-    { "ingredientId": "angrest", "amount": 360, "unit": "g", "group": "Angrešt", "note": "očištěný; zdroj 2 quarty (asi 2,27 l × 0,63 g/ml ≈ 1,4 kg), čtvrtina" },
+    { "ingredientId": "angrest", "amount": 350, "unit": "g", "group": "Angrešt", "note": "očištěný; zdroj 2 quarty (suchá míra, asi 2,2 l × 0,63 g/ml ≈ 1,4 kg), čtvrtina" },
     { "ingredientId": "voda", "amount": 250, "unit": "ml", "group": "Angrešt", "scaling": "vessel", "note": "na povaření angreštu, slije se (odhad)" },
     { "ingredientId": "cukr-krystal", "amount": 70, "unit": "g", "group": "Angrešt", "scaling": "linear", "note": "do rozmačkané dužiny, „pěkně sladké“; dosladit podle chuti (odhad)" },
-    { "ingredientId": "mleko-plnotucne", "amount": 570, "unit": "ml", "group": "Krém", "note": "„new milk“ = čerstvé plnotučné; zdroj 2 quarty (2,27 l), čtvrtina" },
+    { "ingredientId": "mleko-plnotucne", "amount": 470, "unit": "ml", "group": "Krém", "note": "„new milk“ = čerstvé plnotučné; zdroj 2 quarty (vinný quart 946 ml, tj. 1,89 l), čtvrtina" },
     { "ingredientId": "zloutek", "amount": 1, "unit": "ks", "group": "Krém", "scaling": "linear", "note": "zdroj 4 žloutky na 2 quarty mléka, čtvrtina" },
     { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "group": "Krém", "note": "čerstvě nastrouhaný (odhad)" }
   ],
@@ -26,7 +26,7 @@
     { "text": "Teplé mléko s vejcem po částech vmíchej do angreštové dužiny.", "minutes": 3 },
     { "text": "Nech úplně vychladnout.", "minutes": 90 }
   ],
-  "modernNote": "Zdroj dává 2 quarty angreštu (asi 1,4 kg), 2 quarty čerstvého mléka (asi 2,3 l) a 4 žloutky, množství cukru neuvádí („pěkně sladké“) a počet porcí také ne. Odhaduji asi 16 porcí zdroje a celou dávku zmenšuji na čtvrtinu: 360 g angreštu, 570 ml plnotučného mléka, 1 žloutek, 70 g cukru. Cukr a množství vody jsou odhad, zdroj říká jen „asi quart vody“. Podle zdroje fool hustne vařením dalšího angreštu; s jediným žloutkem zůstane krém řidší, jako husté pití nebo omáčka. Chceš-li hustší dezert, použij 450 g angreštu, nebo místo mléka s vejcem dej 250 ml smetany ke šlehání (zdroj říká, že se do smetany vejce nedávají). Mléko nepřiváděj k varu, jinak se vejce sráží. Doba chladnutí je odhad (zdroj říká „až vychladne“), fool se dobře připraví den předem a podává z lednice. Strana: PDF 148 (tištěná 118). Všechna množství jsou odhad, proto verified false.",
+  "modernNote": "Zdroj dává 2 quarty angreštu (suchá míra, asi 1,4 kg), 2 quarty čerstvého mléka (vinná míra, asi 1,9 l) a 4 žloutky, množství cukru neuvádí („pěkně sladké“) a počet porcí také ne. Odhaduji asi 16 porcí zdroje a celou dávku zmenšuji na čtvrtinu: 350 g angreštu, 470 ml plnotučného mléka, 1 žloutek, 70 g cukru. Cukr a množství vody jsou odhad, zdroj říká jen „asi quart vody“. Podle zdroje fool hustne vařením dalšího angreštu; s jediným žloutkem zůstane krém řidší, jako husté pití nebo omáčka. Chceš-li hustší dezert, použij 440 g angreštu, nebo místo mléka s vejcem dej 250 ml smetany ke šlehání (zdroj říká, že se do smetany vejce nedávají). Mléko nepřiváděj k varu, jinak se vejce sráží. Doba chladnutí je odhad (zdroj říká „až vychladne“), fool se dobře připraví den předem a podává z lednice. Strana: PDF 148 (tištěná 118). Všechna množství jsou odhad, proto verified false.",
   "source": { "book": "glasse-1747", "page": 148, "titleOriginal": "To make a Gooseberry Fool" },
   "verified": false,
   "quote": "Take two quarts of gooseberries, set them on the fire in about a quart of water."

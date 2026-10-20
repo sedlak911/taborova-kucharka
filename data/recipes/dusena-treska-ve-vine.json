@@ -11,8 +11,8 @@
   "allergens": ["lepek", "mekkysi", "mleko", "ryby", "siricitany"],
   "ingredients": [
     { "ingredientId": "treska", "amount": 600, "unit": "g", "note": "plátky silné asi 2,5 cm („slices an inch thick“); zdroj neuvádí váhu, odhad" },
-    { "ingredientId": "bile-vino", "amount": 280, "unit": "ml", "note": "půl pinty (imperiální pinta 568 ml)" },
-    { "ingredientId": "voda", "amount": 140, "unit": "ml", "note": "čtvrt pinty" },
+    { "ingredientId": "bile-vino", "amount": 240, "unit": "ml", "note": "půl pinty (vinná pinta 473 ml); lze vynechat a nahradit vodou nebo rybím vývarem" },
+    { "ingredientId": "voda", "amount": 120, "unit": "ml", "note": "čtvrt pinty" },
     { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "1 střední cibule, odhad" },
     { "ingredientId": "tymian-cerstvy", "amount": 5, "unit": "g", "note": "svazek bylinek („bundle of sweet herbs“), odhad" },
     { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "muškátový oříšek; zdroj navíc „a blade or two of mace“ (muškátový květ), odhad" },
@@ -31,7 +31,7 @@
     { "text": "Duš ještě tiše, pánví často potřásej, aby se omáčka pojila a nic se nepřichytilo.", "minutes": 10 },
     { "text": "Vyndej svazek bylinek a cibuli, rybu poskládej na mísu a přelij omáčkou. Ozdob plátky citronu.", "minutes": 2 }
   ],
-  "modernNote": "Zdroj (Glasse 1747, PDF 160, tištěná s. 130) nemá množství ani porce: odhad 600 g tresky pro 4 porce, svazek bylinek (tymián), střední cibule, kus másla ve velikosti vejce, mouka, ústřice a muškátový oříšek se solí a pepřem jsou odhady. Půl pinty vína (imperiální pinta 568 ml) = 280 ml a čtvrt pinty vody = 140 ml; víno je tekutina na dušení, ne hlavní složka, a při krátkém dušení se alkohol zcela nevyvaří. Zdroj dušení nazývá „simmer softly for five or six minutes“ a po přidání másla a ústřic dalších několik minut „stew softly“; druhou dobu jsme odhadli na 10 minut. Porce je asi 315 g (150 g ryby a omáčka s vínem), proto bilance vůči orientační porci 160 g vychází dvojnásobná: zdroj porci neuvádí a omáčka se podává přelitá přes rybu. Ústřice lze vynechat nebo nahradit mušlemi.",
+  "modernNote": "Zdroj (Glasse 1747, PDF 160, tištěná s. 130) nemá množství ani porce: odhad 600 g tresky pro 4 porce, svazek bylinek (tymián), střední cibule, kus másla ve velikosti vejce, mouka, ústřice a muškátový oříšek se solí a pepřem jsou odhady. Půl pinty vína (vinná pinta 473 ml, Londýn 1747 je před imperiální mírou z roku 1824) = 240 ml a čtvrt pinty vody = 120 ml; víno je tekutina na dušení, ne hlavní složka, a při krátkém dušení se alkohol zcela nevyvaří. Zdroj dušení nazývá „simmer softly for five or six minutes“ a po přidání másla a ústřic dalších několik minut „stew softly“; druhou dobu jsme odhadli na 10 minut. Porce je asi 315 g (150 g ryby a omáčka s vínem), proto bilance vůči orientační porci 160 g vychází dvojnásobná: zdroj porci neuvádí a omáčka se podává přelitá přes rybu. Ústřice lze vynechat nebo nahradit mušlemi.",
   "source": { "book": "glasse-1747", "page": 160, "titleOriginal": "To stew Cod" },
   "verified": false,
   "quote": "Cut your cod into slices an inch thick lay them in the bottom of a large stew-pan."

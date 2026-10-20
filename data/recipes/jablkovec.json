@@ -17,7 +17,7 @@
     { "ingredientId": "citronova-kura", "amount": 3, "unit": "g", "note": "drobně nakrájená (odhad)", "group": "Nákyp" },
     { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "na vymazání formy (odhad)", "group": "Nákyp" },
     { "ingredientId": "strouhanka", "amount": 15, "unit": "g", "note": "místo strouhané žemlové kůrky na vysypání formy", "group": "Nákyp" },
-    { "ingredientId": "bile-vino", "amount": 350, "unit": "ml", "note": "dobré sladké, 1 žejdlík", "group": "Víno" },
+    { "ingredientId": "bile-vino", "amount": 350, "unit": "ml", "note": "dobré sladké, 1 žejdlík; bez alkoholu nahraď jablečným moštem", "group": "Víno" },
     { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "místo kousku skořicové kůry (odhad)", "group": "Víno" },
     { "ingredientId": "hrebicek-cely", "amount": 6, "unit": "ks", "group": "Víno" },
     { "ingredientId": "cukr-krystal", "amount": 70, "unit": "g", "note": "4 loty, do vína", "scaling": "linear", "group": "Víno" },

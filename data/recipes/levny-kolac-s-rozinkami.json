@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 85,
   "difficulty": 2,
-  "tags": ["levne", "sladke", "bez-masa"],
+  "tags": ["levne", "sladke"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "mleko", "vejce"],
   "ingredients": [
@@ -27,7 +27,7 @@
     { "text": "Těsto dej do vymazané formy a povrch potři rozšlehaným vejcem.", "minutes": 5 },
     { "text": "Peč v pomalé troubě při 150 °C asi 60 minut, dokud špejle nevyjde suchá.", "minutes": 60 }
   ],
-  "modernNote": "Zdroj je pekařská dávka (8 liber mouky, 3 libry cukru a korintek, 1 libra sádla), výtěžek ani porce neuvádí; koláč se prodával po 3 pencích za libru. Dávka je zmenšená na 1/66 (tj. 220 g mouky), odhadem 4 kusy po asi 140 g a ~420 kcal (stejné množství mouky, 220 g, jako u Albertova koláče č. 174); kniha by dala asi 66 takových kousků. Kypřidla ze zdroje, 2 unce sody a 1 unce kyseliny vinné (tartaric acid), nahrazuje kypřicí prášek v přibližně stejné celkové hmotnosti (3 unce → 5 g). Množství mléka (zdroj jen „dough with milk“) je odhad, těsto má být tuhé. „Peel“ je kandovaná citrusová kůra, „spice“ je ve zdroji bez bližšího určení, proto skořice. Zdroj uvádí potření vejcem, jinak koláč vejce neobsahuje; množství vejce je odhad. „Plum“ znamená v angličtině 19. století sušené hrozny (zde korintky). Pečení v „slow oven“ je přeloženo na 150 °C, doba je odhad. Tag přípravy předem zdroj neodůvodňuje. Strana: tištěná 66. Odhady (mléko, vejce, doba pečení, velikost dávky) ⇒ verified false.",
+  "modernNote": "Zdroj je pekařská dávka (8 liber mouky, 3 libry cukru a korintek, 1 libra sádla), výtěžek ani porce neuvádí; koláč se prodával po 3 pencích za libru. Dávka je zmenšená na 1/66 (tj. 220 g mouky), odhadem 4 kusy po asi 140 g a ~420 kcal (stejné množství mouky, 220 g, jako u Albertova koláče č. 174); kniha by dala asi 66 takových kousků. Kypřidla ze zdroje, 2 unce sody a 1 unce kyseliny vinné (tartaric acid), nahrazuje kypřicí prášek v přibližně stejné celkové hmotnosti (3 unce → 5 g). Množství mléka (zdroj jen „dough with milk“) je odhad, těsto má být tuhé. „Peel“ je kandovaná citrusová kůra, „spice“ je ve zdroji bez bližšího určení, proto skořice. Zdroj uvádí potření vejcem, jinak koláč vejce neobsahuje; množství vejce je odhad. „Plum“ znamená v angličtině 19. století sušené hrozny (zde korintky). Pečení v „slow oven“ je přeloženo na 150 °C, doba je odhad. Tag přípravy předem zdroj neodůvodňuje. Strana: tištěná 66. Odhady množství (mléko, vejce) ⇒ verified false.",
   "source": { "book": "wells-1890", "page": 66, "titleOriginal": "Mystery, or Cheap Plum Cake at 3d. per lb." },
   "verified": false,
   "quote": "Dough with milk. Bake in a slow oven, wash with egg on top."

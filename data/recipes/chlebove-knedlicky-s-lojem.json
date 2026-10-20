@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 60,
   "difficulty": 2,
-  "tags": ["levne", "tabor", "kotlik", "sladke", "bez-masa"],
+  "tags": ["levne", "tabor", "kotlik", "sladke"],
   "equipment": ["plotna"],
   "allergens": ["lepek", "mleko", "vejce", "siricitany"],
   "ingredients": [
@@ -16,11 +16,11 @@
     { "ingredientId": "muskatovy-orisek", "amount": 1.5, "unit": "g", "note": "zdroj: půl menšího oříšku, nastrouhaný; odhad" },
     { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "do těsta (zdroj: „a large spoonful“)", "scaling": "linear" },
     { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "rozšlehaná", "scaling": "linear" },
-    { "ingredientId": "marsala", "amount": 30, "unit": "ml", "note": "zdroj: 2 lžíce „sack“ (španělské víno, dnes suché sherry) do vajec" },
+    { "ingredientId": "marsala", "amount": 30, "unit": "ml", "note": "zdroj: 2 lžíce „sack“ (španělské víno, dnes suché sherry) do vajec; lze vynechat" },
     { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "note": "na pomoučení rukou při tvarování; odhad", "scaling": "linear" },
     { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "na vaření, slije se", "scaling": "vessel" },
     { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "na omáčku (zdroj: „melt butter“, bez množství); odhad", "scaling": "fat" },
-    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "note": "do omáčky (zdroj: „a little sack“); odhad" },
+    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "note": "do omáčky (zdroj: „a little sack“); odhad; lze vynechat" },
     { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "note": "na posypání mísy; odhad", "scaling": "linear" }
   ],
   "steps": [

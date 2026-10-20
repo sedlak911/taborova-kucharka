@@ -36,10 +36,10 @@
     },
     {
       "ingredientId": "mleko-polotucne",
-      "amount": 190,
+      "amount": 160,
       "unit": "ml",
       "scaling": "linear",
-      "note": "z 1 quartu, vaří se spolu s máslem"
+      "note": "z 1 quartu (vinná míra 946 ml), vaří se spolu s máslem"
     },
     {
       "ingredientId": "cukr-krystal",

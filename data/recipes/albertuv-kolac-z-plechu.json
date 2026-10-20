@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 80,
   "difficulty": 2,
-  "tags": ["levne", "sladke", "bez-masa"],
+  "tags": ["levne", "sladke"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "mleko"],
   "ingredients": [
@@ -26,7 +26,7 @@
     { "text": "Peč v mírné troubě.", "minutes": 45 },
     { "text": "Nech vychladnout a pak nakrájej.", "minutes": 15 }
   ],
-  "modernNote": "Zdroj (č. 174, penny = kousek za penny) dává pekařskou dávku na 6 lb mouky, dávka je zmenšená na 220 g mouky (faktor 0,081, stejné množství mouky jako u levného koláče „Mystery“ č. 163), tedy 4 kousky po asi 410 kcal (menší čtvercový plech asi 20 × 20 cm); kniha by dala asi 50 takových kousků. Recept je bez vajec. Původní kypřidla (4 oz vinného kamene a 2 oz sody, v poměru 2 : 1) jsou nahrazena kypřicím práškem v poměru 3 díly na 1 díl sody (asi 14 g); odpovídá to zdroji, ale je to dost, proto prášek dobře rozmíchej s moukou. Podmáslí („churned milk“) je bez množství, 180 ml je odhad na těsto „o něco řidší než na ovocný koláč“. Zdroj neuvádí teplotu ani dobu pečení: dnes peč na 170 °C asi 45 minut, až špejle vyjde suchá (odhad). Zdroj radí krájet až po vychladnutí; to není důvod pro přípravu předem. Strana: tištěná 69. Odhady (podmáslí, doba pečení, velikost dávky) ⇒ verified false.",
+  "modernNote": "Zdroj (č. 174, penny = kousek za penny) dává pekařskou dávku na 6 lb mouky, dávka je zmenšená na 220 g mouky (faktor 0,081, stejné množství mouky jako u levného koláče „Mystery“ č. 163), tedy 4 kousky po asi 410 kcal (menší čtvercový plech asi 20 × 20 cm); kniha by dala asi 50 takových kousků. Recept je bez vajec. Původní kypřidla (4 oz vinného kamene a 2 oz sody, v poměru 2 : 1) jsou nahrazena kypřicím práškem v poměru 3 díly na 1 díl sody (asi 14 g); odpovídá to zdroji, ale je to dost, proto prášek dobře rozmíchej s moukou. Podmáslí („churned milk“) je bez množství, 180 ml je odhad na těsto „o něco řidší než na ovocný koláč“. Zdroj neuvádí teplotu ani dobu pečení: dnes peč na 170 °C asi 45 minut, až špejle vyjde suchá (odhad). Zdroj radí krájet až po vychladnutí; to není důvod pro přípravu předem. Strana: tištěná 69. Odhad množství podmáslí ⇒ verified false.",
   "source": { "book": "wells-1890", "page": 69, "titleOriginal": "Large Square Penny Albert Cake" },
   "verified": false,
   "quote": "Bake in a moderate oven and cut when cold."

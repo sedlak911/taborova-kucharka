@@ -6,7 +6,7 @@
   "baseServings": 4,
   "timeMinutes": 65,
   "difficulty": 2,
-  "tags": ["sladke", "levne", "bez-masa"],
+  "tags": ["sladke", "levne"],
   "equipment": ["trouba"],
   "allergens": ["lepek", "vejce", "mleko"],
   "ingredients": [
@@ -31,6 +31,6 @@
   ],
   "modernNote": "Zdroj (Hauptmann 1877, s. 36): pekařská dávka na 4 lb (1 814 g) mouky, 1 qt (946 ml) melasy, 1 qt mléka, 6 vajec, po 6 oz másla a sádla, 1 oz sody. Zde zmenšeno 9× (asi 200 g mouky, ve zdroji 4 lb), aby 4 porce byly 4 kousky po zhruba 390 kcal; vejce vyjde 0,65 ks (zdroj 6 ks ÷ 9), proto dávku vejce rozšlehej a použij asi 2/3. Melasa přepočtena z objemu na hmotnost (1 qt ≈ 1 343 g). Sodu jsem nechal beze změny (zdroj 28 g, tj. 3 g zde): reaguje s kyselou melasou, kypřicí prášek (1 díl sody + 2 díly vinného kamene) tu není nutný. Zdroj v postupu melasu a koření nezmiňuje, přidal jsem je ke vejcím. Teplota (cool oven) a doba pečení nejsou ve zdroji, jde o odhad: 160 °C asi 50 minut; hotovo ověř špejlí. Zdroj dává dávku do „medium size pans“, doma stačí jedna menší forma nebo 4 malé.",
   "source": { "book": "hauptmann-1877", "page": 36, "titleOriginal": "Molasses Pound Cake" },
-  "verified": false,
+  "verified": true,
   "quote": "Don’t mix it more than is necessary to mix it in."
 }

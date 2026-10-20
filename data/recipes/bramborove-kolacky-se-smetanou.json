@@ -12,14 +12,14 @@
   "ingredients": [
     { "ingredientId": "brambory", "amount": 500, "unit": "g", "group": "Koláčky", "note": "uvařené a oloupané, váha po oloupání (odhad)" },
     { "ingredientId": "zloutek", "amount": 3, "unit": "ks", "group": "Koláčky", "note": "odhad" },
-    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "group": "Koláčky", "note": "zdroj: „a little sack“ (španělské víno, dnes sherry); odhad" },
+    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "group": "Koláčky", "note": "zdroj: „a little sack“ (španělské víno, dnes sherry); odhad; lze vynechat" },
     { "ingredientId": "cukr-krystal", "amount": 20, "unit": "g", "group": "Koláčky", "scaling": "linear", "note": "odhad" },
     { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "group": "Koláčky", "note": "mletý, 0,5 g muškátového květu (mace) a 0,5 g muškátu, zdroj „a little“ (odhad)" },
     { "ingredientId": "smetana-ke-slehani", "amount": 40, "unit": "ml", "group": "Koláčky", "note": "zdroj: smetana nebo rozpuštěné máslo (odhad)" },
     { "ingredientId": "maslo", "amount": 25, "unit": "g", "group": "Opékání", "scaling": "fat", "note": "čerstvé, nasáklé do koláčků (odhad)" },
     { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Opékání", "scaling": "vessel", "note": "zbude v pánvi (odhad)" },
     { "ingredientId": "maslo", "amount": 30, "unit": "g", "group": "Přelití", "scaling": "fat", "note": "rozpuštěné (odhad)" },
-    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "group": "Přelití", "note": "zdroj: „sack“; odhad" },
+    { "ingredientId": "marsala", "amount": 15, "unit": "ml", "group": "Přelití", "note": "zdroj: „sack“; odhad; lze vynechat" },
     { "ingredientId": "cukr-krystal", "amount": 15, "unit": "g", "group": "Přelití", "scaling": "linear", "note": "odhad" }
   ],
   "steps": [

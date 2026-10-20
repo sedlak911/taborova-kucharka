@@ -24,7 +24,7 @@
     { "text": "Těsto nakapej lžící na velmi lehce vymazaný plech, malé kapky daleko od sebe.", "minutes": 8 },
     { "text": "Peč v mírně vyhřáté troubě do světla. Ještě horké odřízni paletovým nožem od plechu.", "minutes": 12 }
   ],
-  "modernNote": "Zdroj (Hauptmann 1877, s. 29): pekařská dávka 12 vajec a 1¼ lb mouky, US míry; zde čtvrtina dávky (asi 16–20 malých kapek, 4 porce po 4–5 kusech). Carbonate of ammonia (amonium) je nahrazeno kypřicím práškem ve stejné hmotnosti (7 g → 2 g při čtvrtině dávky); amonium kypří silněji, výsledek ověř při prvním pečení. „Oil of lemon“ je bez množství, nahrazen strouhanou citronovou kůrou (odhad). Zdroj neuvádí teplotu ani dobu: „rather cool oven“ bere jako 160 °C, doba pečení je odhad (kapky mají být velmi světlé, zdroj varuje, že rychle vysychají).",
+  "modernNote": "Zdroj (Hauptmann 1877, s. 29): pekařská dávka 12 vajec a 1¼ lb mouky, US míry; zde čtvrtina dávky (asi 16–20 malých kapek, 4 porce po 4–5 kusech). Carbonate of ammonia (amonium) je nahrazeno kypřicím práškem ve stejné hmotnosti (7 g → 2 g při čtvrtině dávky); amonium kypří silněji, výsledek ověř při prvním pečení. Pro křupavější výsledek lze dát až dvojnásobek prášku. „Oil of lemon“ je bez množství, nahrazen strouhanou citronovou kůrou (odhad). Zdroj neuvádí teplotu ani dobu: „rather cool oven“ bere jako 160 °C, doba pečení je odhad (kapky mají být velmi světlé, zdroj varuje, že rychle vysychají).",
   "source": { "book": "hauptmann-1877", "page": 29, "titleOriginal": "Sponge Biscuit" },
   "verified": false,
   "quote": "These are nice cakes, but they dry out soon, and therefore should be baked very light."
