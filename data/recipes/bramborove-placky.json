@@ -1,0 +1,43 @@
+{
+  "id": "bramborove-placky",
+  "title": "Bramborové placky",
+  "titleOriginal": "Bramborové placky",
+  "chapter": "bezmasa",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 65,
+  "difficulty": 2,
+  "tags": ["levne", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 160, "unit": "g", "note": "uvařené ve slupce, oloupané, vychladlé; z 200 g hrubé × 0,8 (katalog)" },
+    { "ingredientId": "hladka-mouka", "amount": 60, "unit": "g", "note": "prosátá, a trochu na vál" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks na 10 porcí" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 60,
+      "unit": "ml",
+      "note": "na pánev; zdroj 100 g oleje pro 10 porcí",
+      "scaling": "vessel"
+    },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "note": "nasáklý (odhad)", "scaling": "fat" }
+  ],
+  "steps": [
+    { "text": "Brambory uvař ve slupce do měkka, oloupej je a nech úplně vychladnout.", "minutes": 30 },
+    { "text": "Studené brambory jemně umelj nebo prolisuj.", "minutes": 5 },
+    { "text": "Přidej prosátou hladkou mouku, vejce a sůl a zpracuj hladké těsto.", "minutes": 3 },
+    { "text": "Těsto rozválej na lehce pomoučeném válu a kulatým tvořítkem vypichuj placky asi 6 cm v průměru.", "minutes": 10 },
+    { "text": "Na pánvi rozehřej olej.", "minutes": 3 },
+    { "text": "Placky peč na rozehřátém oleji po obou stranách do růžova. Podávej ihned po úpravě.", "minutes": 10 }
+  ],
+  "modernNote": "Přepočteno z dávky 10 porcí (500 g hotového, porce 50 g) na 4 porce, faktor 0,4 z hrubé váhy. Brambory: zdroj uvádí 500 g hrubé a 400 g čisté (odpad 20 %), katalog má u brambor jedlou část 0,8, takže 200 g hrubé dává 160 g jedlých. Vejce: zdroj 2 ks (80 g po 40 g), tedy 0,8 ks; rozšlehej 1 vejce a použij asi čtyři pětiny. Sůl: zdroj uvádí 30 g na 760 g čisté hmoty (přepočteno 14 g pro 4 porce), vychází 3,5 g soli na porci, nad obvyklou normou 0,5–2,5 g; začni polovinou a dochuť podle chuti. Olej: zdroj 100 g na 10 porcí; olej na pánev je přepočten jako tuk v nádobě (třída vessel) na 60 ml; do placek se při pečení vsákne asi 30 ml (odhad, samostatný řádek s třídou fat, počítá se do výživy), zbytek zůstane v pánvi. Hotových placek vyjde přibližně 200 g (4 porce po 50 g), tedy asi 8 malých placek, jako hlavní jídlo počítej dvojnásobek. Nález bilance (hrubá hmotnost těsta proti porci) je ztráta při smažení: zdroj má 760 g čistých surovin a 500 g hotového výrobku (ztráty 260 g). Placky jsou nejlepší čerstvé, zdroj je podává ihned.",
+  "source": {
+    "book": "receptury-1983",
+    "page": 494,
+    "code": "19409",
+    "titleOriginal": "BRAMBOROVÉ PLACKY"
+  },
+  "verified": true
+}

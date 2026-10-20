@@ -1,0 +1,33 @@
+{
+  "id": "smazenec-chlebovy",
+  "title": "Chlebový nákyp s jablky",
+  "titleOriginal": "Smaženec chlebový",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "chleb-bily", "amount": 60, "unit": "g", "note": "střída, nastrouhaná; dobře poslouží i zcela suchý chléb, usušený a utlučený na drobty" },
+    { "ingredientId": "jablko", "amount": 4.5, "unit": "ks", "note": "střední, oloupaná, na tenké plátky" },
+    { "ingredientId": "cukr-krystal", "amount": 75, "unit": "g", "scaling": "linear", "note": "na posypání vrstev a navrch" },
+    { "ingredientId": "skorice-mleta", "amount": 2, "unit": "g", "note": "smíchat s cukrem" },
+    { "ingredientId": "maslo", "amount": 65, "unit": "g", "note": "na vymazání formy, pokapání vrstev a kousky navrch" }
+  ],
+  "steps": [
+    { "text": "Chlebovou střídu nastrouhej na drobné drobty.", "minutes": 5 },
+    { "text": "Jablka oloupej a nakrájej na tenké plátky.", "minutes": 10 },
+    { "text": "Cukr smíchej se skořicí. Máslo část rozpusť a část nech na kousky. Troubu předehřej na 180 °C.", "minutes": 3 },
+    { "text": "Formu hojně vymaž máslem.", "minutes": 2 },
+    { "text": "Na dno dej vrstvu chleba, na ni vrstvu jablek, posyp cukrem se skořicí a pokapej rozpuštěným máslem. Takto vrstvi dál, až máš všechno spotřebováno. Navrch musí přijít chleba.", "minutes": 10 },
+    { "text": "Navrch poklaď kouskami másla.", "minutes": 2 },
+    { "text": "Peč v troubě do zlatova a měkkých jablek, asi 45 minut.", "minutes": 45 },
+    { "text": "Hotové ještě posyp cukrem a podávej." }
+  ],
+  "modernNote": "Rettigová neuvádí porce ani přesné míry: chlebová střída „půl druhého žejdlíka“ (asi 0,5 l, přibližně 120 g) a 8–10 jablek odpovídají velké formě asi na 8 porcí (odhad); pro 4 porce je dávka poloviční (60 g střídy, 4–5 jablek). Množství másla (asi 120 g), cukru (asi 150 g) a skořice ve zdroji chybí a jsou doplněny odhadem, proto verified: false. Teplota ani doba pečení nejsou uvedeny: 180 °C a asi 45 minut je odhad. Jako dezert počítej s porcí asi 200 g.",
+  "source": { "book": "rettigova-1868", "page": 183, "titleOriginal": "Smaženec chlebový" },
+  "verified": false,
+  "quote": "navrch musí přijít chleba; načež to poklaď kouskami čerstvého másla a nech to v troubě upéct"
+}

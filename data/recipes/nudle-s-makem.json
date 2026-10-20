@@ -1,0 +1,33 @@
+{
+  "id": "nudle-s-makem",
+  "title": "Nudle s mákem",
+  "titleOriginal": "Nudle s mákem",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "testoviny", "amount": 520, "unit": "g", "note": "široké nudle, suché" },
+    { "ingredientId": "voda", "amount": 5000, "unit": "ml", "scaling": "vessel", "note": "na vaření a propláchnutí, slije se (domácí hodnota 1 l na 100 g)" },
+    { "ingredientId": "sul", "amount": 10, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "cukr-moucka", "amount": 120, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "mak", "amount": 80, "unit": "g", "note": "mletý" },
+    { "ingredientId": "maslo", "amount": 130, "unit": "g", "scaling": "fat", "note": "rozpuštěné; asi šestinu na promaštění nudlí, zbytek na přelití" }
+  ],
+  "steps": [
+    { "text": "Ve velkém hrnci přiveď k varu osolenou vodu.", "minutes": 15 },
+    { "text": "Nudle vsyp do vařící vody a vař do měkka, podle druhu asi 10 minut.", "minutes": 10 },
+    { "text": "Mezitím rozpusť máslo.", "minutes": 3, "parallel": true },
+    { "text": "Nudle slij, pečlivě propláchni a nech okapat.", "minutes": 5 },
+    { "text": "Okapané nudle promasti šestinou rozpuštěného másla.", "minutes": 2 },
+    { "text": "Moučkový cukr smíchej s mletým mákem.", "minutes": 3 },
+    { "text": "Nudle porcuj, posyp směsí máku s cukrem a přelij zbylým rozpuštěným máslem.", "minutes": 2 }
+  ],
+  "modernNote": "Porce ze zdroje je 380 g včetně sypání a maštění (zdroj: 10 porcí z 1 300 g suchých nudlí, hotový výrobek 3 800 g). Nález bilance (213 g na porci proti 380 g) je očekávaný: ve zdroji se 1 300 g suchých nudlí uvařením zvětší na 3 120 g (vsáknutá voda), takže 520 g suchých nudlí dá asi 1 250 g uvařených a spolu se sypáním a máslem asi 380 g na porci. Sůl a vodu na vaření nahrazují domácí hodnoty (1 l vody a 2 g soli na 100 g těstovin), zdroj udává 30 g soli na 10 porcí. Máslo zůstává v jídle (třída tuk), proto vychází 130 g místo lineárních 120 g. Doba vaření a rozpouštění másla ve zdroji není, jde o odhad. Moderní tip: mák si čerstvě namel těsně před použitím, ať je aromatický.",
+  "source": { "book": "receptury-1983", "page": 556, "code": "19616", "titleOriginal": "NUDLE S MÁKEM" },
+  "verified": true
+}

@@ -1,0 +1,33 @@
+{
+  "id": "skubanky-s-makem",
+  "title": "Škubánky s mákem",
+  "titleOriginal": "Škubánky s mákem",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa", "sladke"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 960, "unit": "g", "note": "z 1 200 g hrubé × 0,8" },
+    { "ingredientId": "voda", "amount": 320, "unit": "ml", "note": "na vaření brambor, zpola se odlije" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "hruba-mouka", "amount": 200, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "sadlo", "amount": 130, "unit": "g", "note": "škvařené, rozehřáté" },
+    { "ingredientId": "mak", "amount": 80, "unit": "g", "note": "mletý" },
+    { "ingredientId": "cukr-krystal", "amount": 120, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Brambory oškrábej, propláchni vlažnou vodou, zalij čistou vodou, mírně osol a vař téměř do měkka.", "minutes": 30 },
+    { "text": "Vodu z brambor zpola odlij, vařečkou udělej v bramborách několik otvorů a zasyp je prosátou moukou.", "minutes": 3 },
+    { "text": "Hrnec přikryj poklicí a nech zvolna dovařit (pařit).", "minutes": 10 },
+    { "text": "Brambory rozmačkej nebo rozmixuj, aby bylo těsto hladké.", "minutes": 5 },
+    { "text": "Z těsta vykrajuj polévkovou lžící namáčenou v rozehřátém sádle škubánky a skládej je na teplý talíř.", "minutes": 10 },
+    { "text": "Škubánky posyp mletým mákem a cukrem a pokapej rozehřátým sádlem." }
+  ],
+  "modernNote": "Dávka pro 4 porce (zdroj: 10 porcí po 360 g). Brambory v řádku jsou jedlá hmotnost (hrubá × 0,4 × 0,8 z katalogu); zdroj počítá 40 % odpadu, 1 800 g čisté by dalo těžší těsto. Hrubá mouka = hrubá mouka (v obchodě i „hrubá krupice“ nebo polohrubá). Sůl (3 g na porci podle zdroje) se zpola odleje s vodou z brambor, solit radši střídměji. Porce je velká (360 g, asi 860 kcal), jako dezert stačí polovina.",
+  "source": { "book": "receptury-1983", "page": 491, "code": "19404", "titleOriginal": "ŠKUBÁNKY S MÁKEM" },
+  "verified": true
+}

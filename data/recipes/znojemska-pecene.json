@@ -1,0 +1,38 @@
+{
+  "id": "znojemska-pecene",
+  "title": "Znojemská hovězí pečeně",
+  "titleOriginal": "Znojemská hovězí pečeně",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 200,
+  "difficulty": 2,
+  "tags": ["tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "hovezi-zadni", "amount": 400, "unit": "g", "note": "jeden kus, opláchnutý a očištěný" },
+    { "ingredientId": "spek", "amount": 20, "unit": "g", "note": "slanina s kůží, na špikování" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 90, "unit": "g", "note": "z 100 g hrubé × 0,9" },
+    { "ingredientId": "sadlo", "amount": 55, "unit": "g" },
+    { "ingredientId": "voda", "amount": 400, "unit": "ml", "note": "část na zalití masa, zbytek na dolévání a do šťávy" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g" },
+    { "ingredientId": "okurky-kysele", "amount": 60, "unit": "g", "note": "bez nálevu, na plátky" }
+  ],
+  "steps": [
+    { "text": "Opláchnuté maso protkni proužky slaniny, osol a opepři.", "minutes": 10 },
+    { "text": "Cibuli oloupej a nakrájej na plátky.", "minutes": 5 },
+    { "text": "V hrnci rozehřej část sádla a cibuli částečně osmahni. Přidej maso, na základu ho krátce opeč a zalij trochou vody.", "minutes": 12 },
+    { "text": "Hrnec přikryj poklicí a maso duš do měkka. Během dušení maso obracej, přelévej šťávou a podle potřeby dolévej vodu.", "minutes": 90 },
+    { "text": "Měkké maso vyjmi a šťávu vyduš až na tuk.", "minutes": 10 },
+    { "text": "Přidej zbylé sádlo, zaprášej moukou a mírně zasmaž. Rozřeď vlažnou vodou a dobře rozmíchej.", "minutes": 5 },
+    { "text": "Šťávu vař nejméně 1 hodinu.", "minutes": 60 },
+    { "text": "Provařenou šťávu procedi přes hustý cedník a případně dochuť solí.", "minutes": 3 },
+    { "text": "Maso nakrájej přes vlákno na plátky, přelij šťávou a posyp plátky kyselé okurky." }
+  ],
+  "modernNote": "Porce ze zdroje: 183 g, z toho 63 g masa (maso lze nakrájet i na 2 plátky). Hovězí zadní je ve zdroji kuchyňsky upravené (odpad 0), proto se bere celé. Doba dušení masa není ve zdroji uvedena (odhad 90 minut pro kus asi 400 g, měkkost ověř vidličkou). Sádlo je ve zdroji jedna položka; rozděl ho na osmahnutí cibule a na zásmažku. Sůl (30 g na 10 porcí, tj. 3,5 g na porci) je ve zdroji velkorysá a zčásti jde do šťávy; začni poloviční dávkou a dosol podle chuti.",
+  "source": { "book": "receptury-1983", "page": 83, "code": "11004", "titleOriginal": "ZNOJEMSKÁ HOVĚZÍ PEČENĚ" },
+  "verified": true
+}

@@ -1,0 +1,32 @@
+{
+  "id": "parkin",
+  "title": "Parkin (ovesný perník)",
+  "titleOriginal": "Parking Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 1,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "ovesne-vlocky", "amount": 150, "unit": "g", "note": "jemné ovesné vločky (zdroj: oatmeal)" },
+    { "ingredientId": "hladka-mouka", "amount": 50, "unit": "g" },
+    { "ingredientId": "melasa", "amount": 200, "unit": "g", "note": "tmavá melasa (zdroj: treacle)" },
+    { "ingredientId": "maslo", "amount": 50, "unit": "g", "scaling": "linear" },
+    { "ingredientId": "jedla-soda", "amount": 1, "unit": "g", "scaling": "linear", "note": "zdroj: 2 lžičky" },
+    { "ingredientId": "pivo", "amount": 16, "unit": "ml", "note": "zdroj: 1 gill" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C. Čtvercovou formu o straně asi 16 cm vymaž máslem a vyložej pečicím papírem." },
+    { "text": "Máslo s melasou rozehřej v hrnci na mírném ohni a nech trochu zchladnout.", "minutes": 5 },
+    { "text": "Ovesné vločky smíchej s moukou a sodou. Přilij máslo s melasou a pivo a promíchej na středně tuhé těsto.", "minutes": 5 },
+    { "text": "Těsto nalej do formy a uhlaď.", "minutes": 3 },
+    { "text": "Peč v mírně vyhřáté troubě při 150 °C asi 60 minut, dokud těsto není pevné.", "minutes": 60 },
+    { "text": "Nech ve formě vychladnout a nakrájej na 4 kusy (zdroj: 4 oz kus).", "minutes": 15 }
+  ],
+  "modernNote": "Zdroj: dávka 9 lb těsta (3 lb ovesné mouky, 1 lb mouky, 4 lb melasy, 1 lb másla), pečená v okrajovém plechu vysokém 3 palce „in a cool oven“. Počet porcí zdroje není uveden: odhad 36 kusů po 4 oz (113 g), jak se podle receptu č. 51 váží Parkings, tedy 4 porce = 4 kusy (faktor 4/36; kniha výtěžek neuvádí, proto originalYield chybí). Oatmeal je převedena na jemné ovesné vločky. Treacle (černý sirup z cukrovaru) je nahrazen tmavou melasou v katalogu. Beer (1 gill = 142 ml imperiální) je v domácí dávce jen 16 ml, takže jde o lžíci piva a slouží k rozpuštění sody. Teplota 150 °C a doba 60 minut jsou odhad pro malou formu, zdroj udává jen „cool oven“. Dnes se parkin obvykle nechá před podáváním den uležet, aby změkl. Přidání zázvoru nebo jiného koření zdroj neuvádí, moderní recepty ho přidávají.",
+  "source": { "book": "wells-1890", "page": 36, "titleOriginal": "Parking Cake" },
+  "verified": true,
+  "quote": "Baked in an edged pan 3 inches high, in a cool oven."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "pilaf-s-kuretem",
+  "title": "Pilaf s kuřetem a slaninou",
+  "titleOriginal": "To make a Pellow the Indian way",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "timeMinutes": 70,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "cele-kure", "amount": 480, "unit": "g", "group": "Kuře a slanina", "note": "zdroj 2 kuřata (fowls); odhad 2,4 kg na dávku zdroje × 0,2" },
+    { "ingredientId": "spek", "amount": 180, "unit": "g", "group": "Kuře a slanina", "note": "jeden pěkný kus slaniny (zdroj 2 lb)" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "scaling": "vessel", "group": "Kuře a slanina", "note": "na vaření kuřete a slaniny; zdroj množství neuvádí, domácí hodnota" },
+    { "ingredientId": "ryze-bila", "amount": 270, "unit": "g", "group": "Rýže", "note": "přebraná a propraná" },
+    { "ingredientId": "maslo", "amount": 80, "unit": "g", "group": "Rýže" },
+    { "ingredientId": "voda", "amount": 450, "unit": "ml", "group": "Rýže", "note": "podlévej podle potřeby; zdroj jen „trochu vody“, odhad" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "group": "Rýže", "note": "trochu soli; odhad" },
+    { "ingredientId": "cely-pepr", "amount": 2, "unit": "g", "group": "Rýže", "note": "trochu; odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.59, "unit": "g", "group": "Rýže", "note": "květ (mace, půl tuctu lístků), mletý; odhad" },
+    { "ingredientId": "hrebicek-cely", "amount": 0.12, "unit": "g", "group": "Rýže", "note": "několik hřebíčků (2 ks); odhad" },
+    { "ingredientId": "vejce", "amount": 1.2, "unit": "ks", "group": "Ozdoba", "note": "natvrdo (zdroj půl tuctu); 1 vejce stačí" },
+    { "ingredientId": "cibule", "amount": 2.5, "unit": "ks", "group": "Ozdoba", "note": "menší, celé, osmažené do hněda (zdroj tucet)" }
+  ],
+  "steps": [
+    { "text": "Kuře a slaninu zalij vodou, přiveď k varu a vař do měkka.", "minutes": 60 },
+    { "text": "Mezitím rýži přeber, pořádně proper a nech úplně okapat.", "minutes": 10, "parallel": true },
+    { "text": "Mezitím rozpusť máslo v hrnci na velmi mírném ohni.", "minutes": 5, "parallel": true },
+    { "text": "Přidej rýži, sůl, pepř, macis a hřebíček. Hrnec těsně přikryj, aby se pára nevypařila.", "minutes": 3, "parallel": true },
+    { "text": "Podlévej troškou vody, aby se rýže nepřipálila, často promíchej a duš do měkka.", "minutes": 35, "parallel": true },
+    { "text": "Mezitím uvař vejce natvrdo a oloupej je.", "minutes": 12, "parallel": true },
+    { "text": "Mezitím celé cibule osmahni na pánvi dohněda.", "minutes": 20, "parallel": true },
+    { "text": "Rýži dej na mísu, nahoru ulož kuře a slaninu rozkrojenou na dva kusy. Ozdob vejci a cibulemi.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj uvádí velkou dávku: 3 lb rýže, 2 kuřata, 2 lb slaniny, půl tuctu vajec a tucet cibulí. Odhadnuto na 20 porcí (asi 68 g suché rýže, 120 g kuřete s kostí a 45 g slaniny na porci, asi 800 kcal) a přepočteno na 4 (faktor 0,2, máslo jako tuk). Kniha výtěžek nemá, proto `originalYield` chybí. Množství soli, pepře, macisu, hřebíčku a vody jsou odhad („trochu“, „několik“); voda na vaření kuřete není ve zdroji vůbec. Cibule se smaží v troše másla z uvedeného množství (zdroj tuk nezmiňuje). Kuřata jsou ve zdroji nejspíš starší slepice; z dnešního kuřete bude maso měkké dřív. Při odhadu 12 porcí by porce měla asi 1300 kcal, proto je dávka zdroje počítána jako hostina pro 20 lidí. Mace je v katalogu jako muškátový oříšek (poznámka).",
+  "source": { "book": "glasse-1747", "page": 107, "titleOriginal": "To make a Pellow the Indian way" },
+  "verified": false,
+  "quote": "Note, This is the true Indian way of dressing them."
+}

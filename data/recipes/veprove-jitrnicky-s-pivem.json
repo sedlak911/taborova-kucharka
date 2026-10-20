@@ -1,0 +1,34 @@
+{
+  "id": "veprove-jitrnicky-s-pivem",
+  "title": "Vepřové placky s pivem („jitrničky“)",
+  "titleOriginal": "Vepřové jitrničky s pivem",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "veprova-kyta", "amount": 560, "unit": "g", "note": "libové maso; zdroj 1 libra" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "dle libosti (odhad)" },
+    { "ingredientId": "strouhanka", "amount": 50, "unit": "g", "note": "strouhaná žemlička; na obalení (odhad)" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "na vymazání pánve (odhad)" },
+    { "ingredientId": "pivo", "amount": 250, "unit": "ml", "note": "světlé; na podlévání (odhad)" }
+  ],
+  "steps": [
+    { "text": "Libové vepřové maso nakrájej na kousky a jemně ho usekej nožem nebo prožeň strojkem.", "minutes": 10 },
+    { "text": "Osol, opepři a vytvaruj z masa osm malých plackovitých „jitrniček“.", "minutes": 8 },
+    { "text": "Obal je ve strouhance.", "minutes": 2 },
+    { "text": "Pánvi nebo rendlík vymaž máslem a rozehřej.", "minutes": 2 },
+    { "text": "Placky opékej z jedné strany dozlatova.", "minutes": 7 },
+    { "text": "Obrať je na druhou stranu a opékej, podlévej je po troškách pivem.", "minutes": 10 },
+    { "text": "Placky urovnej na misku." },
+    { "text": "Není-li na pánvi dost šťávy, přilej trochu piva, krátce svař a placky tím polej.", "minutes": 3 }
+  ],
+  "modernNote": "Rettigová nedává žádná množství ani počet porcí: základ je 1 libra (560 g) libového vepřového, kterou jsme počítali na 4 porce (140 g masa na osobu, tedy menší jídlo; Rettigová počítá libru masa spíš na 2–3 porce). Množství soli, pepře, strouhanky, másla a piva jsou odhad, proto verified: false. Strouhaná žemlička je nahrazena strouhankou. Maso nemá vazbu z vejce, placky formuj vlhkýma rukama a opékej opatrně; chceš-li je pevnější, přidej 1 vejce.",
+  "source": { "book": "rettigova-1868", "page": 40, "titleOriginal": "Vepřové jitrničky s pivem" },
+  "verified": false,
+  "quote": "Usekej libru vepřového libového masa, osol ho a podej k němu dle libosti tlučeného pepře, pak dělej z toho malé jitrničky"
+}
