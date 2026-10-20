@@ -144,6 +144,7 @@ Recepty jsou JSON soubory validované schématem v `src/domain/schema.ts`. Podro
 | `npm run check:recipe -- <id> --portion "1 cup" --kcal 148` | kontrola receptu: gramy a kcal na porci, maso, sůl, tekutina |
 | `npm run step-times -- [<id>…] [--write]` | návrh časů kroků z textu |
 | `npm run usda -- "peppers, sweet, green"` | hledání v indexu USDA (makra, odpad, porce) |
+| `npm run promote -- vlastni-recepty.json [--origin "odkud"]` | vlastní recepty z exportu aplikace (Tiráž → Exportovat vlastní recepty) zapíše natrvalo do knihy „Ověřené recepty“ (`source.book: overene`, 4 porce) |
 | `npm run build:ingredients` | sloučí `data/ingredients/*.json` do `data/ingredients.json` |
 | `npm run build:usda` | znovu postaví USDA index z `vendor/` |
 

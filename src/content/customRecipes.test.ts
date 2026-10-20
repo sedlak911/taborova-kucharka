@@ -1,6 +1,6 @@
 import { RecipeSchema } from '@/domain/schema'
 import { customRecipe } from '@/test/customRecipe'
-import { customRecipeProblem, deriveAllergens, isCustomRecipe, mergeRecipes, newCustomRecipeId, slugify } from './customRecipes'
+import { customRecipeProblem, promoteToVerified, deriveAllergens, isCustomRecipe, mergeRecipes, newCustomRecipeId, slugify } from './customRecipes'
 import { loadContent } from './loadContent'
 
 const { recipes, ingredients } = loadContent()
@@ -74,4 +74,20 @@ describe('mergeRecipes', () => {
     warn.mockRestore()
   })
   test('bez vlastních receptů beze změny', () => expect(mergeRecipes(recipes, [], ingredients)).toEqual(recipes))
+})
+
+describe('promoteToVerified', () => {
+  test('vlastní recept → kniha overene: id ze slugu názvu, zdroj overene', () => {
+    const r = promoteToVerified(customRecipe({ baseServings: 4 }), new Set(), 'babička')
+    expect(r.id).toBe('babicciny-livance')
+    expect(r.source).toEqual({ book: 'overene', origin: 'babička' })
+    expect(RecipeSchema.safeParse(r).success).toBe(true)
+  })
+  test('kolize id → přípona -overene', () =>
+    expect(promoteToVerified(customRecipe({ baseServings: 4 }), new Set(['babicciny-livance'])).id).toBe('babicciny-livance-overene'))
+  test('ponechá titleOriginal a jiný počet porcí odmítne', () => {
+    expect(promoteToVerified(customRecipe({ baseServings: 4, source: { book: 'vlastni', titleOriginal: 'Pancakes' } }), new Set()).source.titleOriginal).toBe('Pancakes')
+    expect(() => promoteToVerified(customRecipe(), new Set())).toThrow(/4 porce/)
+  })
+  test('jen vlastní recept', () => expect(() => promoteToVerified(recipes[0], new Set())).toThrow(/vlastní/))
 })

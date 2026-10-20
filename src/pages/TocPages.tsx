@@ -14,7 +14,7 @@ import { HeartIcon, PenIcon } from './icons'
 import { EQUIPMENT_LABEL } from './labels'
 import { RecipeMarks } from './RecipeMarks'
 
-const FILTER_BOOKS: Book[] = ['glasse-1747', 'rettigova-1868', 'hauptmann-1877', 'wells-1890', 'italian-1919', 'feldkochbuch-1940', 'navy-1944', 'army-baker-1945', 'receptury-1983', 'afrs-2003']
+const FILTER_BOOKS: Book[] = ['glasse-1747', 'rettigova-1868', 'hauptmann-1877', 'wells-1890', 'italian-1919', 'feldkochbuch-1940', 'navy-1944', 'army-baker-1945', 'receptury-1983', 'afrs-2003', 'overene']
 
 function toggle<T>(list: T[], value: T): T[] {
   return list.includes(value) ? list.filter((v) => v !== value) : [...list, value]

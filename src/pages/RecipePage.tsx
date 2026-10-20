@@ -112,7 +112,7 @@ function RecipeMethod({ recipe, runningHead }: { recipe: Recipe; runningHead: bo
       {timed && <StepsTotal total={timeline.total} className="recipe-steps-total" />}
       {recipe.modernNote && (
         <aside className="modern-note">
-          <strong>{recipe.source.book === 'vlastni' ? 'Poznámka' : 'Poznámka k modernizaci'}</strong>
+          <strong>{recipe.source.book === 'vlastni' || recipe.source.book === 'overene' ? 'Poznámka' : 'Poznámka k modernizaci'}</strong>
           <p>{recipe.modernNote}</p>
         </aside>
       )}

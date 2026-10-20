@@ -8,7 +8,7 @@ export const EQUIPMENT = ['trouba', 'plotna', 'gril', 'lednice'] as const
 export const CHAPTERS = ['polevky', 'z-jednoho-hrnce', 'maso-a-ryby', 'bezmasa', 'prilohy-a-zelenina', 'testoviny-a-ryze', 'snidane-a-pecivo', 'sladke', 'napoje'] as const
 export const CATEGORIES = ['pecivo', 'mlecne-a-vejce', 'maso', 'ryby', 'uzeniny', 'zelenina', 'ovoce', 'lusteniny-a-obiloviny', 'testoviny-a-ryze', 'koreni', 'tuky-a-oleje', 'konzervy', 'trvanlive', 'napoje', 'mrazene', 'ostatni'] as const
 export const ALLERGENS = ['lepek', 'korysi', 'vejce', 'ryby', 'arasidy', 'soja', 'mleko', 'orechy', 'celer', 'horcice', 'sezam', 'siricitany', 'vlci-bob', 'mekkysi'] as const
-export const BOOKS = ['afrs-2003', 'navy-1944', 'italian-1919', 'feldkochbuch-1940', 'glasse-1747', 'rettigova-1868', 'hauptmann-1877', 'wells-1890', 'army-baker-1945', 'receptury-1983', 'vlastni'] as const
+export const BOOKS = ['afrs-2003', 'navy-1944', 'italian-1919', 'feldkochbuch-1940', 'glasse-1747', 'rettigova-1868', 'hauptmann-1877', 'wells-1890', 'army-baker-1945', 'receptury-1983', 'overene', 'vlastni'] as const
 
 /** kebab-case bez diakritiky: a-z, 0-9, pomlčky */
 const kebab = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, 'id musí být kebab-case bez diakritiky')
@@ -105,7 +105,7 @@ export const RecipeSchema = z.object({
   ingredients: z.array(IngredientLineSchema).min(1),
   steps: StepsSchema,
   modernNote: z.string().optional(),
-  source: z.object({ book: z.enum(BOOKS), page: z.number().int().positive().optional(), code: z.string().optional(), titleOriginal: z.string().optional() }).strict(),
+  source: z.object({ book: z.enum(BOOKS), page: z.number().int().positive().optional(), code: z.string().optional(), titleOriginal: z.string().optional(), origin: z.string().optional() }).strict(),
   verified: z.boolean(),
   quote: z.string().optional(),
   image: z.string().optional(),

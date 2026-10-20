@@ -237,7 +237,7 @@ function Library() {
           const own = isCustomRecipe(recipe)
           return {
             id: entry.id,
-            tone: own ? 'note' : 'aged',
+            tone: own || recipe.source.book === 'overene' ? 'note' : 'aged',
             // epocha na samotné stránce: `--paper` a písmo platí tam, kde se papír kreslí (obě poloviny);
             // vlastní recept se natáčí jen uvnitř (.recipe-page), ne celá .page (ruling R9)
             className: `era--${BOOK_META[recipe.source.book].era}`,

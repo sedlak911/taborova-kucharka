@@ -19,6 +19,9 @@ export function sourceLine(recipe: Recipe): string {
     const n = recipe.baseServings
     return `Vlastní recept · zapsaný pro ${n} ${plural(n, 'porci', 'porce', 'porcí')}`
   }
+  if (recipe.source.book === 'overene') {
+    return ['Ověřený recept', recipe.source.origin && `Zdroj: ${recipe.source.origin}`, originalTitle(recipe)].filter(Boolean).join(' · ')
+  }
   const meta = BOOK_META[recipe.source.book]
   return (
     [`Zdroj: ${meta.title}, ${meta.year}${recipe.source.page ? `, s. ${recipe.source.page} (PDF)` : ''}`, originalTitle(recipe)]

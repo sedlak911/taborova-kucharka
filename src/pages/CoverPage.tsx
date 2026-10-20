@@ -7,7 +7,7 @@ interface CoverPageProps {
 }
 
 // chronologicky – s deseti knihami se seznam jinak špatně čte
-const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni').sort((a, b) => BOOK_META[a].year - BOOK_META[b].year)
+const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni' && b !== 'overene').sort((a, b) => BOOK_META[a].year - BOOK_META[b].year)
 
 // cover-page__sources - visually hidden, zatim schvalne kvuli designu
 export function CoverPage({ title = COOKBOOK_TITLE }: CoverPageProps) {

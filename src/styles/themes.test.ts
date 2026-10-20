@@ -2,19 +2,22 @@
 import { readFileSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
 import { BOOKS } from '../domain/schema'
+import { BOOK_META } from '../content/books'
 
 // `?raw` import by vrátil prázdný řetězec (vitest má css: false), proto čteme soubor přímo
 const css = readFileSync('src/styles/themes.css', 'utf8')
+// epocha (vzhled) knihy; „Ověřené recepty“ sdílí papírek s vlastními recepty
+const ERAS = [...new Set(BOOKS.map((b) => BOOK_META[b].era))]
 
 describe('themes.css', () => {
-  it.each(BOOKS)('obsahuje selektor .era--%s', (book) => {
-    expect(css).toContain(`.era--${book}`)
+  it.each(ERAS)('obsahuje selektor .era--%s', (era) => {
+    expect(css).toContain(`.era--${era}`)
   })
 })
 
 describe('themes.css – papír epoch', () => {
-  it.each(BOOKS)('.era--%s nastavuje --paper', (book) => {
-    expect(css).toMatch(new RegExp(`\\.era--${book}\\s*\\{[^}]*--paper:`))
+  it.each(ERAS)('.era--%s nastavuje --paper', (era) => {
+    expect(css).toMatch(new RegExp(`\\.era--${era}\\s*\\{[^}]*--paper:`))
   })
 })
 

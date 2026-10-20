@@ -60,3 +60,19 @@ export function mergeRecipes(staticRecipes: readonly Recipe[], custom: readonly 
     ...sorted.filter((r) => r.chapter === chapter),
   ])
 }
+
+/**
+ * Vlastní recept → kniha „Ověřené recepty“ (`overene`): id ze slugu názvu (při kolizi s příponou `-overene`),
+ * zdroj `overene` s volitelným původem. Knižní recept musí mít 4 porce (schéma), jiný počet se odmítne.
+ */
+export function promoteToVerified(recipe: Recipe, takenIds: ReadonlySet<string>, origin?: string): Recipe {
+  if (!isCustomRecipe(recipe)) throw new Error(`„${recipe.title}“ není vlastní recept`)
+  if (recipe.baseServings !== 4) throw new Error(`„${recipe.title}“ je pro ${recipe.baseServings} porcí, kniha potřebuje 4 porce`)
+  const slug = slugify(recipe.title)
+  let id = slug
+  for (let n = 1; takenIds.has(id); n++) id = n === 1 ? `${slug}-overene` : `${slug}-overene-${n}`
+  const source: Recipe['source'] = { book: 'overene' }
+  if (recipe.source.titleOriginal) source.titleOriginal = recipe.source.titleOriginal
+  if (origin ?? recipe.source.origin) source.origin = origin ?? recipe.source.origin
+  return { ...recipe, id, source }
+}

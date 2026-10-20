@@ -5,7 +5,7 @@ import type { Route } from '@/app/route'
 import { Divider, Vignette } from './ornaments'
 
 // od nejnovější knihy po nejstarší
-const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni').sort((a, b) => BOOK_META[b].year - BOOK_META[a].year)
+const SOURCE_BOOKS = BOOKS.filter((b) => b !== 'vlastni' && b !== 'overene').sort((a, b) => BOOK_META[b].year - BOOK_META[a].year)
 
 export function AboutLeft({ onNavigate }: { onNavigate: (route: Route) => void }) {
   return (

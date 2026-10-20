@@ -17,7 +17,8 @@
     "serve": "tsx scripts/serve.ts",
     "convert": "tsx scripts/recipe-convert.ts",
     "check:recipe": "tsx scripts/recipe-check.ts",
-    "step-times": "tsx scripts/step-times.ts"
+    "step-times": "tsx scripts/step-times.ts",
+    "promote": "tsx --tsconfig tsconfig.scripts.json scripts/promote-recipe.ts"
   },
   "dependencies": {
     "@fontsource/alfa-slab-one": "^5.3.0",

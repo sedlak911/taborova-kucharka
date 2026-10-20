@@ -1,0 +1,189 @@
+{
+  "id": "kottbullar-svedske-masove-kulicky",
+  "title": "Köttbullar – švédské masové kuličky",
+  "titleOriginal": "Swedish meatballs",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce",
+    "soja"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hovezi-mlete",
+      "amount": 250,
+      "unit": "g",
+      "note": "půl na půl s vepřovým",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "veprove-mlete",
+      "amount": 250,
+      "unit": "g",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 150,
+      "unit": "ml",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "strouhanka",
+      "amount": 75,
+      "unit": "g",
+      "note": "bílá, z bílého pečiva",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 1,
+      "unit": "ks",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 100,
+      "unit": "g",
+      "note": "1 cibule",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 5,
+      "unit": "g",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "pepr-bily",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "novy-koreni",
+      "amount": 1,
+      "unit": "spetka",
+      "note": "mleté",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 30,
+      "unit": "g",
+      "note": "na osmahnutí cibule a opečení kuliček",
+      "group": "Kuličky"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 28,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Hnědá omáčka"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 16,
+      "unit": "g",
+      "note": "2 lžíce",
+      "group": "Hnědá omáčka"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 400,
+      "unit": "ml",
+      "note": "masový vývar",
+      "group": "Hnědá omáčka"
+    },
+    {
+      "ingredientId": "smetana-ke-slehani",
+      "amount": 50,
+      "unit": "ml",
+      "group": "Hnědá omáčka"
+    },
+    {
+      "ingredientId": "sojova-omacka",
+      "amount": 10,
+      "unit": "ml",
+      "note": "2 lžičky",
+      "group": "Hnědá omáčka"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 1,
+      "unit": "spetka",
+      "group": "Hnědá omáčka"
+    },
+    {
+      "ingredientId": "jablecne-pyre",
+      "amount": 15,
+      "unit": "g",
+      "note": "1 lžíce, nebo rybízové želé",
+      "group": "Hnědá omáčka",
+      "optional": true
+    },
+    {
+      "ingredientId": "brusinky",
+      "amount": 150,
+      "unit": "g",
+      "note": "brusinky (lingonberries) syrové utřené s cukrem",
+      "group": "K podávání",
+      "optional": true
+    }
+  ],
+  "steps": [
+    {
+      "text": "Cibuli nakrájej nadrobno a zvolna ji osmahni na trošce másla, ať nezhnědne.",
+      "minutes": 8
+    },
+    {
+      "text": "Strouhanku namoč do mléka.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Mleté maso propracuj (nejlépe v robotu) s cibulí, vejcem, strouhankou s mlékem a kořením do správné konzistence a chuti. Je-li směs moc tuhá, přidej trochu vody.",
+      "minutes": 5
+    },
+    {
+      "text": "Ochutnej: usmaž na zkoušku jednu kuličku a případně dosol.",
+      "minutes": 3
+    },
+    {
+      "text": "Dvěma lžícemi tvaruj malé kuličky a pokládej je na talíře opláchnuté vodou.",
+      "minutes": 10
+    },
+    {
+      "text": "Na pánvi rozpusť a zhnědni štědrý kus másla; jakmile ztichne, vlož kuličky a opékej je ze všech stran dohněda. Pánví často protřepávej.",
+      "minutes": 12
+    },
+    {
+      "text": "Na omáčku rozpusť v rendlíku máslo a vmíchej mouku. Za stálého míchání postupně přilévej vývar, přiveď k varu a vař 3–5 minut.",
+      "minutes": 8,
+      "parallel": true
+    },
+    {
+      "text": "Vmíchej smetanu a dochuť sójovou omáčkou, pepřem a případně jablečným pyré.",
+      "minutes": 2
+    },
+    {
+      "text": "Podávej s bramborovou kaší nebo vařenými brambory a syrovými utřenými brusinkami."
+    }
+  ],
+  "modernNote": "Klasický recept ze sweden.se (Swedish Institute) pro 4–6 porcí. Strouhanka namočená v mléce dává kuličkám typickou měkkost.",
+  "source": {
+    "book": "overene",
+    "titleOriginal": "Swedish meatballs",
+    "origin": "sweden.se (Swedish Institute)"
+  },
+  "verified": true,
+  "quote": "Swedish meatballs, or köttbullar, must be prepared, above all, with love."
+}
