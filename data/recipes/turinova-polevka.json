@@ -1,0 +1,161 @@
+{
+  "id": "turinova-polevka",
+  "title": "Tuřínová polévka",
+  "titleOriginal": "To make a Turnip Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "kotlik",
+    "bez-masa"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "celer"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "voda",
+      "amount": 1080,
+      "unit": "ml",
+      "note": "zdroj má 1 galon na celou dávku (≈ 14 porcí), přepočteno na 4 porce"
+    },
+    {
+      "ingredientId": "turin",
+      "amount": 290,
+      "unit": "g",
+      "note": "„a bunch of turnips“, svazek ≈ 1 kg na celou dávku; odhad, hmotnost z nákupu; asi třetina se nechá stranou na kostky"
+    },
+    {
+      "ingredientId": "cely-pepr",
+      "amount": 5,
+      "unit": "g",
+      "note": "půl unce celého pepře"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 115,
+      "unit": "g",
+      "note": "jedna cibule ozdobená hřebíčky do vývaru + 2–3 cibule nakrájené na plátky a smažené; odhad"
+    },
+    {
+      "ingredientId": "hrebicek-cely",
+      "amount": 1,
+      "unit": "ks",
+      "note": "na ozdobení cibule; odhad"
+    },
+    {
+      "ingredientId": "muskatovy-orisek",
+      "amount": 0.86,
+      "unit": "g",
+      "note": "půl muškátového oříšku + lístek květu („blade of mace“); odhad"
+    },
+    {
+      "ingredientId": "tymian-cerstvy",
+      "amount": 2,
+      "unit": "g",
+      "note": "do svazku bylinek („a little bundle of sweet herbs“); odhad"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 2,
+      "unit": "g",
+      "note": "do svazku bylinek; odhad"
+    },
+    {
+      "ingredientId": "chleb",
+      "amount": 11,
+      "unit": "g",
+      "note": "„a large crust of bread“, velká kůrka; odhad"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 70,
+      "unit": "g",
+      "note": "„a bunch of celery“; odhad"
+    },
+    {
+      "ingredientId": "mrkev",
+      "amount": 55,
+      "unit": "g",
+      "note": "2–3 malé mrkve na celou dávku; odhad"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 6,
+      "unit": "g",
+      "note": "na obalení tuřínu a mrkve; odhad"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 19,
+      "unit": "g",
+      "note": "„fresh butter“ na smažení; odhad"
+    },
+    {
+      "ingredientId": "testoviny",
+      "amount": 8,
+      "unit": "g",
+      "note": "vlasové nudle („an ounce of vermicelli“)"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g",
+      "note": "„to your palate“; odhad"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Tuřín oloupej. Tři nebo čtyři malé kusy dej stranou, zbytek nakrájej a vlož do vody.",
+      "minutes": 10
+    },
+    {
+      "text": "Do vody přidej celý pepř, cibuli ozdobenou hřebíčky, květ a půl oříšku muškátu, svazek bylinek a velkou kůrku chleba. Vař asi hodinu na prudším ohni.",
+      "minutes": 70
+    },
+    {
+      "text": "Vývar přecedi přes síto a tuřín skrz něj propasíruj.",
+      "minutes": 5
+    },
+    {
+      "text": "Celer omyj a najemno nakrájej. Dej ho do pasírovaného vývaru na ohni, přikryj a nech dusit.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím nakrájej odložený tuřín na kostky a oškrabanou mrkev na malé kousky.",
+      "minutes": 5,
+      "parallel": true
+    },
+    {
+      "text": "Polovinu tuřínu a mrkve vlož do hrnce k celeru.",
+      "minutes": 2
+    },
+    {
+      "text": "Druhou polovinu obal v mouce a osmahni dohněda na čerstvém másle. Dohněda osmahni i dvě nebo tři cibule nakrájené na tenké plátky.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Všechno z pánve vlož do polévky, přidej vlasové nudle a vař na mírném ohni, dokud není celer úplně měkký a polévka dobrá.",
+      "minutes": 20
+    },
+    {
+      "text": "Osol podle chuti."
+    }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, tištěná s. 116, PDF 146) nemá množství ani porce; množství jsou odhad (svazek tuřínu ≈ 1 kg, svazek celeru ≈ 250 g, 2–3 mrkve ≈ 200 g, 2–3 cibule + 1 s hřebíčky ≈ 400 g, kůrka chleba 40 g, 1 oz nudlí = 28 g, vše pro celou dávku) a zdroj má celý galon vody (3,8 l), po hodině varu a s další zeleninou vychází asi 14 porcí po ~415 g. Pro 4 porce je to 2/7 dávky. Voda se hodinovým varem a pasírováním ztratí zhruba čtvrtinu. Galon počítán jako US (3 785 ml). Polévka je z kapitoly postních jídel. Moderní tip: svazek bylinek je tymián s petrželí, ale klidně přidej i libeček; polévku ke konci můžeš dochutit špetkou muškátu.",
+  "source": {
+    "book": "glasse-1747",
+    "page": 146,
+    "titleOriginal": "To make a Turnip Soup"
+  },
+  "verified": false,
+  "quote": "Let your soup boil softly till the celery is quite tender, and your soup good."
+}

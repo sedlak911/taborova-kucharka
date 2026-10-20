@@ -1,0 +1,37 @@
+{
+  "id": "jehneci-zapecene-s-ryzi",
+  "title": "Jehněčí zapečené s rýží",
+  "titleOriginal": "To bake Lamb and Rice",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 90,
+  "difficulty": 2,
+  "tags": [],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "jehneci-maso", "amount": 600, "unit": "g", "note": "krk a hřbet (loin) s kostí; množství zdroj neuvádí, odhad" },
+    { "ingredientId": "ryze-bila", "amount": 115, "unit": "g", "note": "zdroj: ½ lb" },
+    { "ingredientId": "hovezi-vyvar", "amount": 470, "unit": "ml", "note": "zdroj: 1 quart „good gravy“ (silný vývar)" },
+    { "ingredientId": "muskatovy-orisek", "amount": 1, "unit": "g", "note": "zdroj: 2–3 plátky muškátového květu a trochu muškátového oříšku; květ nahrazen oříškem" },
+    { "ingredientId": "maslo", "amount": 60, "unit": "g", "note": "do rýže; zdroj 1 lb (227 g na 4 porce), moderně sníženo", "original": { "ingredientId": "maslo", "amount": 230, "unit": "g" }, "scaling": "fat" },
+    { "ingredientId": "zloutek", "amount": 4.5, "unit": "ks", "note": "zdroj: 6 žloutků do rýže a 3 žloutky navrch; na 4 porce 3 + 1,5" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "note": "na vymazání mísy a na namáčení plátků; zdroj množství neuvádí, odhad", "scaling": "fat" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1, "unit": "g", "note": "zdroj: „a little pepper“; odhad" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: „a little salt“; odhad" }
+  ],
+  "steps": [
+    { "text": "Krk a hřbet jehněčího napůl upeč v troubě rozehřáté na 200 °C.", "minutes": 30 },
+    { "text": "Mezitím dej rýži do vývaru s muškátem a vař na slabém ohni, až začne houstnout. Míchej, aby se nepřichytila.", "minutes": 25, "parallel": true },
+    { "text": "Maso vyndej a nakrájej na plátky.", "minutes": 5 },
+    { "text": "Rýži sundej z ohně a vmíchej máslo. Až se úplně rozpustí, vmíchej žloutky.", "minutes": 5 },
+    { "text": "Zapékací mísu celou vymaž máslem. Plátky masa osol, opepři, namoč v rozpuštěném másle a ulož do mísy.", "minutes": 10 },
+    { "text": "Zalij šťávou, která z masa vytekla, a navrch dej rýži.", "minutes": 3 },
+    { "text": "Rozšlehej zbylé žloutky a polej jimi celé jídlo.", "minutes": 2 },
+    { "text": "Peč v troubě déle než půl hodiny.", "minutes": 35 }
+  ],
+  "modernNote": "Zdroj nemá počet porcí ani hmotnost masa: 1 quart vývaru a ½ lb rýže vycházejí zhruba na 8 porcí, proto 4 porce = polovina (rýže 115 g, vývar 470 ml, 4,5 žloutku); 600 g jehněčího s kostí je odhad, proto verified: false. Máslo: kniha vmíchává do rýže celou libru (na 4 porce 230 g), což je dnes přemíra; snížili jsme ho na 60 g a původní množství je v přepínači historických surovin. Máslo na vymazání mísy a namočení plátků je odhad, zdroj ho bez množství jen zmiňuje. „Napůl upéct“ maso zdroj nepopisuje, doma stačí pečení asi 30 minut; teplota 200 °C a doba jsou odhad. „Good gravy“ je silný vývar, tady hovězí. Muškátový květ je v katalogu nahrazen muškátovým oříškem, zdroj používá obojí. Doba zapékání „better than half an hour“ znamená víc než půl hodiny, proto 35 minut.",
+  "source": { "book": "glasse-1747", "page": 67, "titleOriginal": "To bake Lamb and Rice" },
+  "verified": false,
+  "quote": "Take a neck and loin of lamb, half roast it, take it up, cut it into steaks, then take half a pound of rice, put it into a quart of good gravy."
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hovezi-ze-zbytku-na-cibuli",
+  "title": "Plátky studeného hovězího v cibulové omáčce",
+  "titleOriginal": "To make Collops of cold Beef",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "tabor"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hovezi-vareno", "amount": 400, "unit": "g", "note": "zbytky pečeného hovězího (svíčková/roastbeef), bez tuku; odhad" },
+    { "ingredientId": "cibule", "amount": 80, "unit": "g", "note": "1 menší, nadrobno" },
+    { "ingredientId": "voda", "amount": 300, "unit": "ml", "note": "na omáčku; odhad" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "note": "odhad" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "odhad" },
+    { "ingredientId": "tymian-cerstvy", "amount": 1, "unit": "g", "note": "svazek bylinek (sweet herbs), odhad" },
+    { "ingredientId": "petrzel-nat", "amount": 3, "unit": "g", "note": "svazek bylinek (sweet herbs), odhad" },
+    { "ingredientId": "maslo", "amount": 25, "unit": "g", "note": "zdroj: \"a good piece\", odhad" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "note": "na obalení másla; odhad" }
+  ],
+  "steps": [
+    { "text": "Z hovězího odkroj všechen tuk a maso nakrájej na tenké malé kousky.", "minutes": 8 },
+    { "text": "Cibuli nakrájej nadrobno.", "minutes": 3 },
+    { "text": "Vodu s cibulí, pepřem, solí a svazkem bylinek přiveď k varu.", "minutes": 8 },
+    { "text": "Do vroucí vody vlož maso a máslo obalené v mouce. Protřepávej a míchej, dokud omáčka nezhoustne a maso nebude hotové.", "minutes": 8 },
+    { "text": "Vyndej svazek bylinek a vlej maso s omáčkou do mísy." }
+  ],
+  "modernNote": "Zdroj nemá množství ani počet porcí; vše je odhad pro 4 porce (cca 100 g masa na porci), originalYield vynechán, verified false. Máslo „rolled in flour“ = hnětené s moukou do hladké hrudky, která omáčku zahustí. „Sweet herbs“ = svazek bylinek, zde tymián a petržel (odhad, stejně jako u hodge-podge). Zdroj doplňuje, že takto upravené zbytky chutnají lépe než čerstvé maso. Doba vaření ze zdroje chybí (maso je již hotové, jen se prohřeje a omáčka zhoustne); časy kroků jsou odhad. Jako hlavní jídlo počítej 120–150 g masa na osobu. Strana: PDF 118 (tištěná 88).",
+  "source": { "book": "glasse-1747", "page": 118, "titleOriginal": "To make Collops of cold Beef" },
+  "verified": false,
+  "quote": "They do better than fresh meat."
+}

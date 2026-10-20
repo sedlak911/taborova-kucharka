@@ -1,0 +1,35 @@
+{
+  "id": "peceni-sledi-v-octu",
+  "title": "Sledi pečení v octu s bobkovým listem",
+  "titleOriginal": "To pickle or bake Herrings",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 140,
+  "difficulty": 2,
+  "tags": ["pripravit-predem"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["ryby"],
+  "ingredients": [
+    { "ingredientId": "sled", "amount": 600, "unit": "g", "note": "očištěné sledi bez hlavy, asi 5 ks (odhad)" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.5, "unit": "g", "note": "mletý květ (mace) (odhad)" },
+    { "ingredientId": "hrebicek-mlety", "amount": 0.5, "unit": "g", "note": "(odhad)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.25, "unit": "g", "note": "docela málo (odhad)" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "(odhad)" },
+    { "ingredientId": "bobkovy-list", "amount": 4, "unit": "ks", "note": "dva až tři mezi každou vrstvu (odhad)" },
+    { "ingredientId": "ocet", "amount": 400, "unit": "ml", "scaling": "vessel", "note": "na dvě pečení, nálev se nejí (odhad)" },
+    { "ingredientId": "voda", "amount": 400, "unit": "ml", "scaling": "vessel", "note": "na dvě pečení, nálev se nejí (odhad)" }
+  ],
+  "steps": [
+    { "text": "Sledě oškrab od šupin a pořádně je omyj. Odřízni hlavy a vyndej jikry, nebo je omyj a vlož zpět, jak ti vyhovuje.", "minutes": 15 },
+    { "text": "Sledě ochuť mletým květem, hřebíčkem, trochou pepře a solí.", "minutes": 3 },
+    { "text": "Sledě ukládej ve vrstvách do hluboké pánve nebo pekáče a mezi každou vrstvu vlož bobkové listy.", "minutes": 5 },
+    { "text": "Zalij je polovinou octa a polovinou vody, aby byly ponořené.", "minutes": 2 },
+    { "text": "Pekáč pevně přikryj hnědým papírem a peč v troubě na 150 °C.", "minutes": 60 },
+    { "text": "Nech stát, až vychladne." },
+    { "text": "Slej nálev, nalij čerstvý ocet s vodou a znovu peč v troubě.", "minutes": 50 }
+  ],
+  "modernNote": "Zdroj nedává množství, počet porcí ani dobu a teplotu pečení; vše je odhad pro 4 porce (asi 150 g očištěné ryby na porci). Doby (60 a 50 minut) a teplota 150 °C jsou odhad; hnědý papír nahraď alobalem nebo pokličkou. Nálev (ocet s vodou, polovina na každé pečení) se nejí, proto je to `vessel` s přibližným množstvím. Kupní ocet je silnější než dobový, proto 1 : 1 s vodou; chceš-li jemnější nálev, přidej víc vody. Zdroj peče sledě dvakrát, podruhé v čerstvém nálevu a nálev z prvního pečení slévá; sprotty se podle zdroje pečou jen jednou. Zdroj uvádí jen mletý květ, hřebíček, pepř a sůl, někdo prý dává jen nové koření, ale to zdroj nechválí. Dobové sledě se jedí studené (doporučení, zdroj to nepíše); chladnutí mezi pečeními trvá hodiny. Jako hlavní jídlo počítej 200 g ryby na osobu. Strana: PDF 205 (tištěná 175). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 205, "titleOriginal": "To pickle or bake Herrings" },
+  "verified": false,
+  "quote": "Cover it close with a brown paper, and send it to the oven to bake; let it stand till cold, then pour off that pickle, and put fresh vinegar and water and send them to the oven again to bake."
+}

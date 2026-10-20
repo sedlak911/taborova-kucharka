@@ -1,0 +1,29 @@
+{
+  "id": "opekane-pulky-brambor",
+  "title": "Opečené půlky vařených brambor s máslem",
+  "titleOriginal": "To broil Potatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 65,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "bez-masa"],
+  "equipment": ["plotna", "gril"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "brambory", "amount": 800, "unit": "g", "note": "středně velké, oloupané až po uvaření (odhad)" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření brambor, slije se" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se (domácí hodnota)" },
+    { "ingredientId": "maslo", "amount": 60, "unit": "g", "note": "rozpuštěné na polití (odhad)" }
+  ],
+  "steps": [
+    { "text": "Brambory ve slupce vlož do osolené vody a vař do měkka.", "minutes": 30 },
+    { "text": "Uvařené brambory slij a nech trochu vychladnout, aby šly oloupat.", "minutes": 8 },
+    { "text": "Brambory oloupej a rozkroj každou napůl.", "minutes": 7 },
+    { "text": "Půlky opékej na rozpáleném roštu, dokud nebudou z obou stran hnědé.", "minutes": 15 },
+    { "text": "Opečené půlky ulož na talíř nebo mísu a přelij rozpuštěným máslem.", "minutes": 2 }
+  ],
+  "modernNote": "Zdroj nedává množství ani počet porcí: 800 g brambor (200 g na porci, tj. 4 porce) a 60 g másla jsou odhad. Zdroj brambory nejdřív uvaří, oloupe a rozpůlí, pak je opéká na roštu při ohni (broil); doba vaření (30 minut) a opékání (15 minut) je odhad, zdroj říká jen „dokud nebudou z obou stran hnědé“. Doma stejně dobře poslouží gril v troubě nebo rozpálená pánev, na táboře rošt nad ohněm. Sůl zdroj u tohoto receptu neuvádí; 2 g do vody na vaření je domácí hodnota (slije se, do porce nejde) a množství se neupravuje. Slupku si zdroj nechává na vaření a loupe až uvařené brambory; do receptu se počítá 800 g syrových brambor. Strana: PDF 178 (tištěná 148). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 178, "titleOriginal": "To broil Potatoes" },
+  "verified": false,
+  "quote": "First boil them, peel them, cut them in two, broil them till they are brown on both sides; then lay them in the plate or dish, and pour melted butter over them."
+}

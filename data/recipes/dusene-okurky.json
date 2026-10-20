@@ -1,0 +1,39 @@
+{
+  "id": "dusene-okurky",
+  "title": "Okurky smažené a dušené v omáčce",
+  "titleOriginal": "To Stew Cucumbers",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": ["bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek", "mleko", "siricitany"],
+  "ingredients": [
+    { "ingredientId": "okurka-salatova", "amount": 600, "unit": "g", "note": "asi 2 salátové okurky, oloupané; zdroj: 12 okurek (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "scaling": "linear", "group": "Smažení", "note": "na obalení plátků (odhad)" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "scaling": "vessel", "group": "Smažení", "note": "na smažení; tuk se po smažení vylije (odhad)" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "group": "Smažení", "note": "nasáklé v obalených plátcích (odhad)" },
+    { "ingredientId": "zeleninovy-vyvar", "amount": 150, "unit": "ml", "group": "Omáčka", "note": "místo „gravy“ (odhad)", "original": { "ingredientId": "hovezi-vyvar", "amount": 150, "unit": "ml" } },
+    { "ingredientId": "cervene-vino", "amount": 60, "unit": "ml", "group": "Omáčka", "note": "claret, tj. červené bordeaux (odhad)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.5, "unit": "g", "group": "Omáčka", "note": "odhad" },
+    { "ingredientId": "hrebicek-cely", "amount": 3, "unit": "ks", "group": "Omáčka", "note": "odhad" },
+    { "ingredientId": "muskatovy-orisek", "amount": 0.3, "unit": "g", "group": "Omáčka", "note": "mletý muškátový květ (mace), odhad" },
+    { "ingredientId": "maslo", "amount": 15, "unit": "g", "group": "Zahuštění", "note": "„kousek másla“ (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 5, "unit": "g", "scaling": "linear", "group": "Zahuštění", "note": "do másla (odhad)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "na dochucení" }
+  ],
+  "steps": [
+    { "text": "Okurky oloupej a nakrájej na kolečka silná jako mince.", "minutes": 8 },
+    { "text": "Kolečka nech odkapat na sítu a pak je osuš do sucha v utěrce.", "minutes": 20 },
+    { "text": "Osušená kolečka obal v mouce a na másle osmaž dohněda.", "minutes": 10 },
+    { "text": "Vylej tuk z pánve.", "minutes": 2 },
+    { "text": "K okurkám přilej vývar a víno, přidej pepř, hřebíček a muškátový květ a nech je chvíli dusit.", "minutes": 10 },
+    { "text": "Kousek másla smíchej s moukou, vmíchej do omáčky a okurky promíchej, aby se pokryly omáčkou.", "minutes": 3 },
+    { "text": "Dosol." }
+  ],
+  "modernNote": "Zdroj nedává množství ani počet porcí; vše je odhad pro 4 porce jako příloha. Dvanáct okurek ze zdroje zmenšeno na dvě salátové (asi 600 g), ostatní suroviny odhadnuty úměrně (zdroj říká jen „some gravy, a little claret, some pepper, cloves and mace, a bit of butter“). „Gravy“ je v 18. století masová šťáva nebo silný vývar, proto je v receptu zeleninový vývar a masový je v původní surovině; s masovým vývarem recept bez-masa není. Claret je červené bordeaux, použito obecné červené víno. Tuk po smažení se vylévá (40 g v pánvi je vessel), v obalených plátcích zůstane odhadem 20 g. Doby drenáže a dušení zdroj neuvádí (odhad), moderní okurky dají dost vody, proto je dobré je opravdu osušit. „A very little mushroom-pickle“ (trochu nakládaných hub) lze podle zdroje přidat, do receptu není zařazeno. Strana: PDF 113 (tištěná 83). Druhá verze na PDF 180 a ragú s cibulí na téže straně (To Ragoo Cucumbers) nejsou zpracovány. Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 113, "titleOriginal": "To stew Cucumbers" },
+  "verified": false,
+  "quote": "Pare twelve cucumbers, and slice them as thick as a crown-piece, and put them to drain, and then lay them in a coarse cloth, till they are dry, flour them and fry them brown in butter"
+}

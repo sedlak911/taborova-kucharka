@@ -1,0 +1,28 @@
+{
+  "id": "turinove-pyre",
+  "title": "Tuřínové pyré s máslem",
+  "titleOriginal": "To dress Turnips",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 45,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "turin", "amount": 800, "unit": "g", "note": "oloupaný a nakrájený na kusy (odhad)" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření tuřínu, slije se" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "kus másla (odhad)" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g", "note": "trochu soli (odhad)" }
+  ],
+  "steps": [
+    { "text": "Tuřín oloupej a nakrájej na kusy.", "minutes": 10 },
+    { "text": "Dej ho do hrnce, zalij vodou, aby byl ponořený, přiveď k varu a vař doměkka.", "minutes": 25 },
+    { "text": "Tuřín scedi.", "minutes": 2 },
+    { "text": "Vrať ho do hrnce, přidej máslo a sůl a rozmačkej.", "minutes": 5 }
+  ],
+  "modernNote": "Zdroj nedává množství, počet porcí ani dobu varu; vše je odhad pro 4 porce (800 g tuřínu, 40 g másla, 3 g soli, asi 25 minut varu). Kniha vaří tuřín celý „v hrnci“ a pak ho rozmačká; doma je rychlejší vařit ho nakrájený. Voda se slévá, proto je to domácí hodnota 1 l. Zdroj uvádí druhou verzi na téže straně: tuřín nakrájený na kostky velké jako špička prstu, uvařený, scezený a promíchaný se „slušným kusem“ másla na ohni 5–6 minut; hotové kostky se podávají bez rozmačkání. Tip: pyré jemně dochutí špetka pepře nebo muškátu. Strana: PDF 41 (tištěná 11). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 41, "titleOriginal": "To dress Turnips" },
+  "verified": false,
+  "quote": "They eat best boiled in the pot, and when enough take them out and put them in a pan and mash them with butter and a little salt, and send them to table."
+}

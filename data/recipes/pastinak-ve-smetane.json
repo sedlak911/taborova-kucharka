@@ -1,0 +1,32 @@
+{
+  "id": "pastinak-ve-smetane",
+  "title": "Pastinák dušený ve smetaně",
+  "titleOriginal": "To stew Parsnips",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 1,
+  "tags": ["bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "pastinak", "amount": 700, "unit": "g", "note": "celé kořeny, omyté (odhad); po oloupání asi 600 g" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření pastináku, slije se; domácí hodnota" },
+    { "ingredientId": "smetana-na-vareni", "amount": 250, "unit": "ml", "note": "„cream enough“, aby plátky byly zalité (odhad)" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "scaling": "linear", "note": "„a piece of butter“, smíchané s moukou (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 10, "unit": "g", "note": "„rolled in flour“ (odhad)" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "„a little salt“ (odhad)" }
+  ],
+  "steps": [
+    { "text": "Pastinák dej do hrnce se studenou vodou, přiveď k varu a vař doměkka.", "minutes": 35 },
+    { "text": "Mezitím rozmíchej máslo s moukou na hladkou pastu.", "minutes": 2, "parallel": true },
+    { "text": "Pastinák scedi, seškrábni z něj slupku a nakrájej na plátky.", "minutes": 8 },
+    { "text": "Plátky dej do hrnce se smetanou, přidej sůl a máslo smíchané s moukou.", "minutes": 3 },
+    { "text": "Přiveď k varu a často pohazuj hrncem, aby se nic nepřichytilo. Smetana při varu zhoustne.", "minutes": 8 },
+    { "text": "Přelij na mísu." }
+  ],
+  "modernNote": "Zdroj nedává množství ani počet porcí; vše je odhad pro 4 porce (asi 150 g pastináku na porci jako příloha). „Cream“ je v roce 1747 řidší smetana, proto smetana na vaření. Zdroj má sůl jen ve smetaně, ne ve vodě, takže je celá v jídle (2 g); „a little salt“ je odhadnuto na 2 g. Pastinák se vaří celý a slupka se po uvaření seškrábe, jak zdroj radí; moderně jde oloupat předem a vařit nakrájený, což zkrátí vaření na asi 15 minut, ale zdrojovou dobu nezkracuji. Doba vaření je odhad, zdroj říká jen „až změkne“. Zdroj uvádí pokrm jako ozdobnou postranní misku na večeři. Na téže straně je varianta „To mash Parsnips“: uvařený pastinák se pročistí, vloží do hrnce s tolika mlékem nebo smetanou, aby se v nich dusil, za stálého míchání se nechá zhoustnout a nakonec se vmíchá kus másla (pyré). Strana: PDF 179 (tištěná 149). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 179, "titleOriginal": "To stew Parsnips" },
+  "verified": false,
+  "quote": "When the cream boils, pour them into a plate for a corner dish, or a side-dish at supper."
+}
