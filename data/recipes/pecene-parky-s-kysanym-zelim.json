@@ -1,0 +1,27 @@
+{
+  "id": "pecene-parky-s-kysanym-zelim",
+  "title": "Pečené párky s kysaným zelím",
+  "titleOriginal": "Baked Frankfurters with Sauerkraut",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 35,
+  "difficulty": 1,
+  "tags": ["levne", "rychle"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "kysele-zeli", "amount": 450, "unit": "g", "note": "z 25 lb vč. nálevu (AFRS); po zahřátí slij přebytečný nálev" },
+    { "ingredientId": "parky", "amount": 360, "unit": "g", "note": "8 ks à ~45 g (2 ks na porci)" }
+  ],
+  "steps": [
+    { "text": "Předehřej troubu na 150 °C, horkovzduch na nízké otáčky." },
+    { "text": "Kysané zelí zahřej do mírného varu a slij přebytečný nálev.", "minutes": 5 },
+    { "text": "Zelí rozlož do zapékací mísy a na něj poskládej párky.", "minutes": 3 },
+    { "text": "Zapékej 20 až 25 minut, dokud párky nejsou prohřáté dohorka.", "minutes": 25 }
+  ],
+  "modernNote": "Zdroj počítá 2 párky na porci (312 kcal). Kniha pečla ve velkokuchyňské konvektomatové pánvi; doma stačí zapékací mísa. Zdroj uvádí teplotu 300 °F (150 °C) na nízké otáčky ventilátoru; vnitřní teplotu 145 °F (63 °C) nahrazuje dnešní doporučení prohřát párky dohorka (alespoň 72 °C). Kysané zelí se váží i s nálevem, proto přebytečný nálev slij před zapékáním.",
+  "source": { "book": "afrs-2003", "page": 892, "code": "L 113 00", "titleOriginal": "BAKED FRANKFURTERS WITH SAUERKRAUT" },
+  "verified": true,
+  "quote": "Arrange 50 frankfurters on top of sauerkraut in each pan."
+}

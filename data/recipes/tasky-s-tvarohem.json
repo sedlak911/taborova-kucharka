@@ -1,0 +1,41 @@
+{
+  "id": "tasky-s-tvarohem",
+  "title": "Tašky s tvarohem",
+  "titleOriginal": "Tašky s tvarohem",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 60,
+  "difficulty": 3,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "orechy", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "odhad: těsto z 1 vejce a koflíčku vody má být tuhé; plus trochu na vál", "group": "Těsto" },
+    { "ingredientId": "vejce", "amount": 1, "unit": "ks", "note": "do těsta", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 60, "unit": "ml", "note": "zdroj: koflík, upraveno k mouce (odhad)", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "trochu", "group": "Těsto" },
+    { "ingredientId": "tvaroh", "amount": 350, "unit": "g", "note": "zdroj: půl až tři čtvrtě libry (280–420 g)", "group": "Náplň" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "do tvarohu", "group": "Náplň" },
+    { "ingredientId": "cukr-krystal", "amount": 40, "unit": "g", "note": "„hezky oslad“ (odhad)", "scaling": "linear", "group": "Náplň" },
+    { "ingredientId": "rozinky", "amount": 30, "unit": "g", "note": "malé hrozinky (odhad)", "group": "Náplň" },
+    { "ingredientId": "mandle", "amount": 5, "unit": "g", "note": "zdroj: několik hořkých mandlí, nasekané (odhad)", "group": "Náplň" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "note": "na vaření, slije se", "scaling": "vessel", "group": "Vaření" },
+    { "ingredientId": "strouhanka", "amount": 30, "unit": "g", "note": "strouhaná žemlička; nebo strouhaný perník (odhad)", "group": "Podávání" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpálené, na polití (odhad)", "group": "Podávání" }
+  ],
+  "steps": [
+    { "text": "Z mouky, jednoho vejce a vody zadělej tuhé těsto a trochu ho osol.", "minutes": 8 },
+    { "text": "Těsto nech chvilku odpočinout.", "minutes": 15 },
+    { "text": "Mezitím smíchej tvaroh se dvěma vejci, cukrem, rozinkami a nasekanými mandlemi a dobře promíchej.", "minutes": 8, "parallel": true },
+    { "text": "Mezitím přiveď ve velkém hrnci k varu hodně vody.", "minutes": 12, "parallel": true },
+    { "text": "Těsto rozválej na pomoučeném vále tence jako na nudle.", "minutes": 10 },
+    { "text": "Potři ho celé tvarohovou náplní a zaviň jako štrúdl.", "minutes": 7 },
+    { "text": "Zavinuté těsto nakrájej na kousky široké asi čtyři prsty a po obou stranách je dobře přimáčkni prsty.", "minutes": 5 },
+    { "text": "Tašky vlož do hodně vařící vody a vař, dokud se nepovaří.", "minutes": 8 },
+    { "text": "Vyndej je na mísu, posyp strouhankou, polej rozpáleným máslem a podávej.", "minutes": 3 }
+  ],
+  "modernNote": "Rettigová neuvádí množství mouky, vody (koflík), cukru, hrozinek, mandlí, strouhanky ani másla a neudává dobu vaření, proto verified: false. Tvaroh je převeden z půl až tří čtvrtě libry (libra 560 g), vzato 350 g. Kniha dává jednu dávku pro asi 4 osoby (odhad); zdrojová dávka z jednoho vejce je malá, proto recept počítá s asi 200 g mouky (1 vejce + 60 ml vody na tuhé těsto). Hořké mandle jsou dnes nedostupné (obsahují kyanogenní glykosidy) – použij sladké mandle a pár kapek hořkomandlového aroma. Perník nebo strouhaná žemlička = strouhanka. Doba vaření (asi 8 minut) je odhad, tašky jsou hotové, když vyplavou. Těsto se v knize válí tence jako na nudle; pomoučni vál.",
+  "source": { "book": "rettigova-1868", "page": 177, "titleOriginal": "Tašky s tvarohem" },
+  "verified": false,
+  "quote": "hod je do hodně vařící vody"
+}

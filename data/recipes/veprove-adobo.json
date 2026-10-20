@@ -1,0 +1,38 @@
+{
+  "id": "veprove-adobo",
+  "title": "Vepřové adobo",
+  "titleOriginal": "Pork Adobo",
+  "chapter": "z-jednoho-hrnce",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 80,
+  "difficulty": 1,
+  "tags": ["kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["soja", "lepek"],
+  "ingredients": [
+    { "ingredientId": "veprova-kyta", "amount": 580, "unit": "g", "note": "syrové kostky, libové maso" },
+    { "ingredientId": "sojova-omacka", "amount": 18, "unit": "g", "scaling": "linear", "note": "hlavní nakládací tekutina, škáluje lineárně" },
+    { "ingredientId": "ocet", "amount": 40, "unit": "g", "scaling": "linear", "note": "hlavní nakládací tekutina, škáluje lineárně" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "zazvor-mlety", "amount": 1, "unit": "g" },
+    { "ingredientId": "bobkovy-list", "amount": 1.15, "unit": "ks" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.92, "unit": "g" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "paprika-zelena", "amount": 75, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "kukuricny-skrob", "amount": 13, "unit": "g", "note": "rozmíchat ve vodě" },
+    { "ingredientId": "voda", "amount": 40, "unit": "ml", "note": "na rozmíchání škrobu" }
+  ],
+  "steps": [
+    { "text": "Maso nakrájej na kostky a vlož do hrnce.", "minutes": 5 },
+    { "text": "Smíchej sójovou omáčku, ocet, česnek, zázvor, pepř a bobkový list, zalij maso a dobře promíchej.", "minutes": 3 },
+    { "text": "Přikryj, přiveď k varu, sniž teplotu a duš 30 minut.", "minutes": 38 },
+    { "text": "Zatímco se maso duší, nakrájej cibuli a papriku na plátky.", "minutes": 8, "parallel": true },
+    { "text": "Odeber přebytečný tuk z hladiny a vyjmi bobkové listy.", "minutes": 2 },
+    { "text": "Škrob rozmíchej ve vodě, vmíchej do masa, přiveď k varu, sniž teplotu a vař 5 minut, dokud nezhoustne.", "minutes": 10 },
+    { "text": "Přidej cibuli a papriku a vař dozměkka, asi 20 minut.", "minutes": 20 }
+  ],
+  "modernNote": "Porce ze zdroje je 5 oz (142 g) hotového masa; suroviny jsou vážené syrové (Weight), takže hmotnost porce i kcal vycházejí vyšší o odpařenou vodu a odtučněný tuk. Maso: kýta (libové) dává kcal blízko karty (262); plec (236 kcal/100 g syrové) by dala asi +40 %. Doporučení: podávej s bílou rýží.",
+  "source": { "book": "afrs-2003", "page": 865, "code": "L 099 00", "titleOriginal": "PORK ADOBO" },
+  "verified": true
+}

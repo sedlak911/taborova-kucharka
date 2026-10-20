@@ -1,0 +1,43 @@
+{
+  "id": "kureci-rizoto",
+  "title": "Kuřecí rizoto",
+  "titleOriginal": "Jemné kuřecí rizoto (Minutka)",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 50,
+  "difficulty": 2,
+  "tags": ["levne"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko"],
+  "ingredients": [
+    { "ingredientId": "kureci-prsa", "amount": 400, "unit": "g", "note": "čistá svalovina, na drobné kousky", "group": "Rizoto" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 150 g hrubé × 0,9; jemně nakrájená", "group": "Rizoto" },
+    { "ingredientId": "repkovy-olej", "amount": 65, "unit": "g", "note": "stolní olej na osmahnutí", "group": "Rizoto" },
+    { "ingredientId": "zampiony", "amount": 80, "unit": "g", "note": "z 200 g hrubé × 0,97; na plátky", "group": "Rizoto" },
+    { "ingredientId": "maslo", "amount": 45, "unit": "g", "note": "na podušení žampiónů", "group": "Rizoto" },
+    { "ingredientId": "hrasek-v-konzerve", "amount": 120, "unit": "g", "note": "sterilovaný hrášek nebo fazolky, bez nálevu", "group": "Rizoto" },
+    { "ingredientId": "kureci-vyvar", "amount": 40, "unit": "ml", "note": "drůbeží vývar C", "group": "Rizoto" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "group": "Rizoto" },
+    { "ingredientId": "ryze-bila", "amount": 280, "unit": "g", "note": "receptura 19912: 700 g suché rýže dá 1 500 g dušené", "group": "Dušená rýže" },
+    { "ingredientId": "maslo", "amount": 35, "unit": "g", "group": "Dušená rýže", "original": { "ingredientId": "margarin", "amount": 35, "unit": "g" } },
+    { "ingredientId": "voda", "amount": 420, "unit": "ml", "note": "horká; poměr 1,5 : 1, zůstane v rýži", "group": "Dušená rýže" },
+    { "ingredientId": "sul", "amount": 11, "unit": "g", "group": "Dušená rýže" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "z 150 g hrubé × 0,9; celá, po udušení se vyjme", "group": "Dušená rýže" },
+    { "ingredientId": "hrebicek-cely", "amount": 0.46, "unit": "g", "note": "asi 6 ks, zapíchnuté do cibule", "group": "Dušená rýže" },
+    { "ingredientId": "eidam", "amount": 40, "unit": "g", "note": "tvrdý sýr (moravský bochník), nastrouhaný", "group": "Rizoto" }
+  ],
+  "steps": [
+    { "text": "Rýži přeber, několikrát propláchni vařící vodou a nech okapat.", "minutes": 3 },
+    { "text": "V kastrolu rozpusť máslo, přisyp rýži a lehce ji osmahni. Zalij horkou vodou, osol a přidej oloupanou cibuli s hřebíčkem.", "minutes": 5 },
+    { "text": "Rýži zvolna zavař, přikryj poklicí a duš do měkka. Pak vyjmi cibuli a rýži vidličkou promíchej, aby byla sypká.", "minutes": 25 },
+    { "text": "Mezitím nakrájej kuřecí maso na drobné kousky a očištěné žampióny na jemnější plátky. Cibuli oloupej a jemně nakrájej.", "minutes": 8, "parallel": true },
+    { "text": "Zatímco se rýže dusí, cibuli mírně osmahni na oleji, přidej kuřecí maso a za stálého míchání ho pečlivě osmahni.", "minutes": 12, "parallel": true },
+    { "text": "Žampióny krátce podus na másle, přidej hrášek, zastříkni vývarem a krátce podus.", "minutes": 8 },
+    { "text": "Osmahnuté maso s cibulí smíchej se směsí žampiónů a hrášku, osol, přidej horkou dušenou rýži a lehce promíchej.", "minutes": 3 },
+    { "text": "Rizoto nandej na talíře (nejlépe pomocí misky či tvořítka) a posyp nastrouhaným sýrem.", "minutes": 2 }
+  ],
+  "modernNote": "Kniha počítá porci 300 g (z toho 60 g kuřecího masa) na 10 porcí; recept je přepočtený lineárně na 4 porce. Dušená rýže je v knize samostatná receptura č. 19912 (s. 579: 700 g rýže, 75 g margarínu, 1 050 g vody, 25 g soli, 150 g cibule, 1 g hřebíčku na 1 500 g dušené); skupina „Dušená rýže“ je tato receptura přepočtená na 600 g dušené (0,4 dávky), margarín nahrazuje máslo. Kniha rýži po zavaření dusí v troubě; doma stačí pod pokličkou na mírném ohni. Žampióny a cibule jsou přepočtené z hrubé hmotnosti × jedlá část. Moravský bochník nahrazuje eidam. Jídelní norma masa 60 g na porci je skromná; jako hlavní jídlo počítej 120–150 g masa na osobu. Sůl: 14 g do rizota a 11 g do rýže (obojí ze zdroje) dává přes 6 g na porci; dnes stačí třetina až polovina, dochuť podle chuti.",
+  "source": { "book": "receptury-1983", "page": 364, "code": "17061", "titleOriginal": "JEMNÉ KUŘECÍ RIZOTO (Minutka)" },
+  "verified": true
+}

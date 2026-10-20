@@ -1,0 +1,35 @@
+{
+  "id": "smazeny-kureci-rizek",
+  "title": "Smažený kuřecí řízek",
+  "titleOriginal": "Řízek z kuřete – smažený (Minutka)",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 10,
+  "timeMinutes": 30,
+  "difficulty": 2,
+  "tags": ["rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "vejce", "mleko"],
+  "ingredients": [
+    { "ingredientId": "kureci-prsa", "amount": 400, "unit": "g", "note": "čistá kuřecí svalovina" },
+    { "ingredientId": "sul", "amount": 14, "unit": "g", "note": "zdroj 30 g na 10 porcí; hodně, dosol opatrně" },
+    { "ingredientId": "hladka-mouka", "amount": 40, "unit": "g", "note": "prosátá" },
+    { "ingredientId": "vejce", "amount": 0.8, "unit": "ks", "note": "zdroj 2 ks na 10 porcí" },
+    { "ingredientId": "mleko-polotucne", "amount": 40, "unit": "ml", "note": "do rozšlehaných vajec" },
+    { "ingredientId": "strouhanka", "amount": 80, "unit": "g", "note": "strouhaná houska" },
+    { "ingredientId": "repkovy-olej", "amount": 145, "unit": "ml", "scaling": "vessel", "note": "na smažení, zůstává v pánvi" },
+    { "ingredientId": "repkovy-olej", "amount": 30, "unit": "ml", "scaling": "fat", "note": "nasáklý (odhad)" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "rozpuštěné, na potření" }
+  ],
+  "steps": [
+    { "text": "Kuřecí maso nakrájej na 1–2 větší tenké plátky, naklepej je, blanky mírně nařízni a osol.", "minutes": 10 },
+    { "text": "Vejce rozšlehej s mlékem. Plátky obal v prosáté hladké mouce, ve vejcích rozšlehaných s mlékem a ve strouhance.", "minutes": 8 },
+    { "text": "Olej v pánvi rozehřej a plátky v něm smaž z obou stran do světlé, nazlátlé barvy.", "minutes": 8 },
+    { "text": "Máslo rozpusť a hotové řízky jím lehce potři.", "minutes": 2 },
+    { "text": "Podávej ihned, s plátkem citronu, bramborami a zeleninovým salátem nebo kompotem." }
+  ],
+  "modernNote": "Kniha počítá 120 g porce, z toho 65 g kuřecího masa (norma 1983); jako hlavní jídlo počítej 120–150 g masa na osobu, tj. dvojnásobek masa i obalu. Strouhaná houska = strouhanka. Ze 250 g oleje na 10 porcí se při smažení dostane do řízků asi 30 ml, zbytek zůstane v pánvi; olej na smažení nemusí být výše než do poloviny řízku. Sůl 30 g na 1 kg masa je v knize vysoká (14 g na 400 g); dosol podle chuti. Citron kniha uvádí jako doplněk bez množství. Kuřecí maso se podle zdroje smaží vždy na objednávku a ihned se podává.",
+  "source": { "book": "receptury-1983", "page": 365, "code": "17066", "titleOriginal": "ŘÍZEK Z KUŘETE – SMAŽENÝ (Minutka)" },
+  "verified": true,
+  "quote": "Smažený řízek z kuřete je křehký."
+}

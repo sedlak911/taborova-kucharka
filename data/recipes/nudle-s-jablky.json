@@ -1,0 +1,42 @@
+{
+  "id": "nudle-s-jablky",
+  "title": "Nudle s jablky",
+  "titleOriginal": "Nudle s jablkami",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 120,
+  "difficulty": 2,
+  "tags": ["levne", "sladke", "bez-masa"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "na nudle ze 3 vajec (odhad, zdroj mouku neuvádí)", "group": "Nudle" },
+    { "ingredientId": "vejce", "amount": 3, "unit": "ks", "note": "na nudle", "group": "Nudle" },
+    { "ingredientId": "voda", "amount": 2000, "unit": "ml", "scaling": "vessel", "note": "na vaření nudlí, slije se (domácí hodnota)", "group": "Nudle" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "scaling": "vessel", "note": "do vody na vaření, slije se", "group": "Nudle" },
+    { "ingredientId": "maslo", "amount": 55, "unit": "g", "scaling": "linear", "note": "3 loty, utřené", "group": "Směs" },
+    { "ingredientId": "zloutek", "amount": 6, "unit": "ks", "group": "Směs" },
+    { "ingredientId": "cukr-krystal", "amount": 55, "unit": "g", "scaling": "linear", "note": "3 loty, tlučený", "group": "Směs" },
+    { "ingredientId": "skorice-mleta", "amount": 1, "unit": "g", "note": "trochu (odhad)", "group": "Směs" },
+    { "ingredientId": "jablko", "amount": 4, "unit": "ks", "note": "míšeňská, větší, asi 600 g (odhad)", "group": "Jablka" },
+    { "ingredientId": "dzem", "amount": 80, "unit": "g", "note": "zavařenina do jader (odhad)", "group": "Jablka" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "scaling": "linear", "note": "kousky na vymazání formy a na povrch (odhad)", "group": "Pečení" },
+    { "ingredientId": "cukr-krystal", "amount": 30, "unit": "g", "scaling": "linear", "note": "hrubý, na posypání před pečením a dvakrát během pečení (odhad)", "group": "Pečení" }
+  ],
+  "steps": [
+    { "text": "Z mouky a 3 vajec zadělej tuhé těsto, vypracuj ho a nech chvíli odpočinout.", "minutes": 15 },
+    { "text": "Těsto tence rozválej a nakrájej na nudle.", "minutes": 10 },
+    { "text": "Ve velkém hrnci přiveď k varu osolenou vodu, nudle uvař, slij a nech prohladnout.", "minutes": 15 },
+    { "text": "Máslo (3 loty) utři do hladka. Přidej žloutky, cukr a skořici, promíchej a smíchej s vychladlými nudlemi.", "minutes": 8 },
+    { "text": "Zatímco nudle chladnou, oloupej jablka, seřízni víčka a jádřince vystrouhej nožem. Jablka naplň zavařeninou a zakryj víčky.", "minutes": 15, "parallel": true },
+    { "text": "Předehřej troubu na 180 °C." },
+    { "text": "Formu vymaž máslem a naplň nudlemi. Jablka do nich zastrkej tak, aby byla jen něco přes polovinu v nudlích a zbytek koukal ven.", "minutes": 8 },
+    { "text": "Povrch pokládej kousky másla a posyp hrubým cukrem.", "minutes": 3 },
+    { "text": "Peč asi 45 minut. Během pečení ještě asi dvakrát posyp cukrem, aby povrch dostal pěknou červenou kůrčičku.", "minutes": 45 },
+    { "text": "Podávej teplé." }
+  ],
+  "modernNote": "Rettigová uvádí jen počet vajec (nudle ze 3 vajec), máslo a cukr v lotech (3 lot = 52,5 g, zaokrouhleno na 55 g) a 6 žloutků. Mouka (asi 65 g na vejce), jablka, zavařenina, skořice, máslo na formu a povrch, hrubý cukr, doba a teplota pečení jsou moderní odhad, proto verified: false. Kniha neuvádí počet porcí; ze 3 vajec na nudle, 6 žloutků a 4 jablek jsem odhadl 4 porce jako sladké hlavní jídlo (kolem 650 kcal na porci). Žloutek je počítán jako samostatná surovina (6 ks). Sůl a vodu na vaření nahrazují domácí hodnoty (2 l vody, 2 g soli na 1 l). Míšeňská jablka nahraď pevnými kyselejšími (Idared, Jonagold), aby se při pečení nerozvařila. Zavařenina je ve zdroji „nějaká“: hodí se meruňková, švestková nebo rybízová. Moderní tip: na pečení použij zapékací mísu a nudle po upečení nech chvíli odstát.",
+  "source": { "book": "rettigova-1868", "page": 180, "titleOriginal": "Nudle s jablkami" },
+  "verified": false,
+  "quote": "nastrkej do nich ty jablka, tak, aby byly jen něco přes polovic v nudlích, ostatek aby koukal ven"
+}
