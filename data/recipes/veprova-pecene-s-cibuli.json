@@ -1,0 +1,92 @@
+{
+  "id": "veprova-pecene-s-cibuli",
+  "title": "Vepřová pečeně na cibuli s hořčicí",
+  "titleOriginal": "To dress a Loin of Pork with Onions",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 105,
+  "difficulty": 2,
+  "tags": [
+    "levne"
+  ],
+  "equipment": [
+    "plotna",
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "veprova-krkovice",
+      "amount": 1000,
+      "unit": "g",
+      "note": "přední hřbet s kostí („fore-loin“); zdroj množství neuvádí, odhad",
+      "group": "Pečeně"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 500,
+      "unit": "g",
+      "note": "oloupaná, tence nakrájená; zdroj „čtvrt pecku“ (asi 2,3 l), pro 8 porcí odhad 1 kg",
+      "group": "Cibule"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 3,
+      "unit": "g",
+      "note": "„velmi málo“ mouky, odhad",
+      "scaling": "seasoning",
+      "group": "Cibule"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 8,
+      "unit": "ml",
+      "note": "zdroj 1 lžíce na celou pečeni (odhad 8 porcí), přepočteno",
+      "group": "Cibule"
+    },
+    {
+      "ingredientId": "horcice",
+      "amount": 8,
+      "unit": "g",
+      "note": "zdroj 3 čajové lžičky na celou pečeni (odhad 8 porcí), přepočteno",
+      "group": "Cibule"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Troubu předehřej na 180 °C. Cibuli oloupej a nakrájej na tenké plátky.",
+      "minutes": 10
+    },
+    {
+      "text": "Cibuli dej do velmi čistého pekáče a polož na ni pečeni, aby na cibuli kapal tuk. Peč jako obvykle.",
+      "minutes": 75
+    },
+    {
+      "text": "Mezitím, když je maso skoro pečené, přesyp cibuli do hrnce. Duš ji na ohni čtvrt hodiny a dobře ji promíchávej.",
+      "minutes": 15,
+      "parallel": true
+    },
+    {
+      "text": "Slij z cibule co nejvíc tuku. Zasyp ji velmi málo mouky, přidej ocet a hořčici, vše dobře protřepej a vmíchej hořčici.",
+      "minutes": 3
+    },
+    {
+      "text": "Postav na oheň a vař 4–5 minut.",
+      "minutes": 5
+    },
+    {
+      "text": "Pečeni ulož na mísu a cibuli do misky."
+    }
+  ],
+  "modernNote": "Zdroj (Glasse 1747, PDF 106, tištěná s. 74) neuvádí porce ani množství masa: odhad 8 porcí z velkého předního hřbetu (cca 2 kg), pro 4 porce 1 kg krkovice s kostí (asi 750 g masa), proto originalYield vynechán. Čtvrt pecku cibule (peck = 9,1 l, čtvrt ≈ 2,3 l nakrájené cibule) odhadnuto na 1 kg, pro 4 porce 500 g; jedna lžíce octa a tři čajové lžičky hořčice jsou ze zdroje (přepočteno na 4 porce), „velmi málo mouky“ je odhad. Zdroj nepíše dobu pečení ani teplotu („jako jindy“): doba kroku 2 je odhad pro 1 kg masa s kostí při 180 °C. Sůl zdroj neuvádí, dosol maso a cibuli podle chuti. Moderní tip: cibuli nech na pánvi zesklovatět jen 10 minut, aby zůstala trochu křupavá.",
+  "source": {
+    "book": "glasse-1747",
+    "page": 106,
+    "titleOriginal": "To dress a Loin of Pork with Onions"
+  },
+  "verified": false,
+  "quote": "This is an admirable dish to those who love onions."
+}

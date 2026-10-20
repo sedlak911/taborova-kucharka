@@ -1,0 +1,38 @@
+{
+  "id": "devonsky-kolac-se-skopovym-a-jablky",
+  "title": "Devonský koláč se skopovým, jablky a cibulí",
+  "titleOriginal": "A Devonshire Squab Pye",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 145,
+  "difficulty": 3,
+  "tags": [],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "skopove-maso", "amount": 450, "unit": "g", "group": "Náplň", "note": "plátky z hřbetu s kostí (loin), asi 1,5 cm silné (odhad)" },
+    { "ingredientId": "jablko", "amount": 400, "unit": "g", "group": "Náplň", "note": "kyselejší jablka (pippins), oloupaná, bez jádřinců, nakrájená na plátky (odhad)" },
+    { "ingredientId": "cibule", "amount": 120, "unit": "g", "group": "Náplň", "note": "oloupaná, nakrájená na tenké plátky (odhad)" },
+    { "ingredientId": "cukr-krystal", "amount": 25, "unit": "g", "group": "Náplň", "scaling": "linear", "note": "na první vrstvu jablek (odhad)" },
+    { "ingredientId": "sul", "amount": 5, "unit": "g", "group": "Náplň", "note": "na maso (odhad)" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 1.5, "unit": "g", "group": "Náplň", "note": "na maso (odhad)" },
+    { "ingredientId": "hladka-mouka", "amount": 160, "unit": "g", "group": "Těsto", "scaling": "linear", "note": "odhad" },
+    { "ingredientId": "maslo", "amount": 70, "unit": "g", "group": "Těsto", "scaling": "linear", "note": "studené (odhad)" },
+    { "ingredientId": "voda", "amount": 210, "unit": "ml", "note": "asi 150 ml studené dovnitř před zakrytím a 60 ml ledové do těsta, přilévej postupně (odhad)" }
+  ],
+  "steps": [
+    { "text": "Jablka oloupej, vykrájej jádřince a nakrájej je na plátky.", "minutes": 8 },
+    { "text": "Cibuli oloupej a nakrájej na tenké plátky.", "minutes": 5 },
+    { "text": "Skopové plátky dobře ochuť solí a pepřem.", "minutes": 3 },
+    { "text": "Do mouky vetři studené máslo, zadělej ledovou vodou na těsto a nech troubu předehřát na 180 °C.", "minutes": 10 },
+    { "text": "Těsto rozválej a vylož jím zapékací misku celou dokola, nech přesah na okraji. Zbytek těsta si nech na víko.", "minutes": 12 },
+    { "text": "Na dno misky dej vrstvu jablek a posyp ji cukrem.", "minutes": 3 },
+    { "text": "Na jablka ulož polovinu masa, na něj další vrstvu jablek a vrstvu cibule.", "minutes": 4 },
+    { "text": "Přidej zbytek masa, na něj zbylá jablka a cibuli. Nalij vodu.", "minutes": 4 },
+    { "text": "Přikryj víkem z těsta, okraje pevně přitiskni a koláč peč v troubě na 180 °C asi 90 minut, dokud není zlatý a maso měkké.", "minutes": 96 }
+  ],
+  "modernNote": "Zdroj nemá množství, výtěžek ani dobu pečení. Odhad: miska na 4 porce, 450 g skopových plátků z hřbetu s kostí (po odečtení kosti asi 360 g masa, tj. asi 90 g na porci), 400 g jablek, 120 g cibule, 25 g cukru, 210 ml vody celkem (150 ml dovnitř, 60 ml do těsta) (zdroj má pint, tj. asi půl litru na velký koláč; přepočteno na malou misku). Těsto („a good crust“) zdroj nepopisuje; vzato domácí křehké těsto bez vejce podle poměrů Glasseové (mouka : máslo asi 2 : 1) zmenšené na 160 g mouky, miska je vyložená i přikrytá. Pečení 90 minut při 180 °C je odhad (zdroj nic neuvádí). Zdroj říká „pippens“ (aromatická kyselá jablka) – vezmi kyselejší odrůdu, aby protivážila tučné skopové. Skopové je dnes těžko k mání; jehněčí z krku nebo plece funguje stejně. Maso nesmí být vařené předem. Všechna množství jsou odhad, proto verified false. Strana: PDF 136 (tištěná 106).",
+  "source": { "book": "glasse-1747", "page": 136, "titleOriginal": "A Devonshire Squab Pye" },
+  "verified": false,
+  "quote": "Make a good crust, cover the dish all over, put at the bottom a layer of sliced pippens, strew over them some sugar, then a layer of mutton-steaks cut from the loin"
+}

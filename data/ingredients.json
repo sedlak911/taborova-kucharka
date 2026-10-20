@@ -547,6 +547,35 @@
     }
   },
   {
+    "id": "bob-mrazeny",
+    "name": "Bob zahradní (mražený)",
+    "aliases": [
+      "boby",
+      "bob",
+      "bob zahradní",
+      "mražené boby",
+      "broad beans",
+      "fava beans, frozen",
+      "broadbeans"
+    ],
+    "category": "mrazene",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 72,
+      "protein": 5.6,
+      "carbs": 11.7,
+      "fat": 0.6,
+      "fiber": 4.2
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170377 (Broadbeans, immature seeds, raw); mražené vyloupané boby mají srovnatelné složení",
+      "refuse": "bez odpadu (mražené, již vyloupané)"
+    }
+  },
+  {
     "id": "bobkovy-list",
     "name": "Bobkový list",
     "aliases": [
@@ -10619,6 +10648,32 @@
     }
   },
   {
+    "id": "sled",
+    "name": "Sleď čerstvý",
+    "aliases": [
+      "sleď atlantský",
+      "čerství sledi",
+      "herring"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 158,
+      "protein": 17.96,
+      "carbs": 0,
+      "fat": 9.04,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:175116 (Fish, herring, Atlantic, raw); hmotnost v receptech = očištěné ryby bez hlavy a vnitřností (čistá hmotnost)"
+    }
+  },
+  {
     "id": "slunecnicova-seminka",
     "name": "Slunečnicová semínka",
     "aliases": [
@@ -12098,6 +12153,32 @@
     "sources": {
       "nutrition": "USDA SR Legacy fdc:167875 (Pork, cured, ham, whole, separable lean and fat, unheated); bez kosti",
       "refuse": "nakupuje se bez kosti, USDA fdc:167875 udává odpad 18 % u neloupané suroviny"
+    }
+  },
+  {
+    "id": "uzeny-sled",
+    "name": "Uzený sleď",
+    "aliases": [
+      "uzení sledi",
+      "kippered herring",
+      "red herring"
+    ],
+    "category": "ryby",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 217,
+      "protein": 24.58,
+      "carbs": 0,
+      "fat": 12.37,
+      "fiber": 0
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [
+      "ryby"
+    ],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:173668 (Fish, herring, Atlantic, kippered); hmotnost v receptech = vykostěné maso"
     }
   },
   {

@@ -1,0 +1,30 @@
+{
+  "id": "ovesny-pudink-s-rozinkami",
+  "title": "Ovesný pudink s lojem a rozinkami",
+  "titleOriginal": "An Oatmeal Pudding",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 200,
+  "difficulty": 2,
+  "tags": ["levne", "tabor", "kotlik", "sladke", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek"],
+  "ingredients": [
+    { "ingredientId": "ovesne-vlocky", "amount": 75, "unit": "g", "note": "zdroj „oatmeal once cut“ (hrubě pořezaná ovesná krupice); 1 pint ≈ 225 g (odhad)" },
+    { "ingredientId": "hovezi-loj", "amount": 150, "unit": "g", "note": "ledvinový lůj (suet), jemně nasekaný" },
+    { "ingredientId": "korintky", "amount": 150, "unit": "g" },
+    { "ingredientId": "rozinky", "amount": 75, "unit": "g", "note": "bez pecek" },
+    { "ingredientId": "sul", "amount": 1, "unit": "g", "note": "„a little salt“ (odhad)" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "scaling": "vessel", "note": "do hrnce na vaření pudinku, slije se (odhad)" }
+  ],
+  "steps": [
+    { "text": "Lůj jemně nasekej. Rozinky zbav pecek.", "minutes": 10 },
+    { "text": "Ovesné vločky, lůj, korintky, rozinky a sůl dobře promíchej.", "minutes": 5 },
+    { "text": "Směs zabal do plátna (utěrky) a převaž tak, aby uvnitř zbylo místo na nabobtnání.", "minutes": 5 },
+    { "text": "Pudink vlož do velkého hrnce s vroucí vodou a vař.", "minutes": 180 }
+  ],
+  "modernNote": "Zdroj: To make an Oatmeal Pudding (Glasse, s. 187, PDF 217; kap. XI). Zdroj uvádí 1 pint ovesné krupice, 1 lb loje, 1 lb korintek a půl libry rozinek a nemá porce ani dobu vaření, proto je recept odhad a není ověřený. Dávka zdroje je velká: asi 1,1 kg suchých surovin, v nich 450 g loje (asi 6 700 kcal celkem). Odhaduji ji na 12 porcí a zmenšuji na třetinu (k = 1/3), aby 4 porce vyšly na realistických asi 550 kcal. Lb = 454 g; pint ovesné krupice odhaduji na 225 g (hustota hrubé krupice; ovesné vločky jsou nejbližší surovina katalogu). Sůl „a little“ odhaduji na 3 g celkem (po přepočtu 1 g, tedy 0,25 g na porci, což je pod běžným rozsahem; zdroj říká jen „a little“, proto ji nenavyšuji, dosol podle chuti). Zdroj neříká, jak dlouho vařit: 180 minut je odhad podle ostatních vařených pudingů knihy (2 až 5 hodin) a pro zmenšenou dávku; doba vaření není ze zdroje. Vodu v hrnci průběžně doplňuj horkou, aby byl pudink celý ponořený. Zdroj také výslovně neříká, že se vaří ve vodě, ale pudink se váže do plátna a ponechává se místo na bobtnání, tedy se vaří jako ostatní vařené puddingy knihy. Zdroj nezmiňuje omáčku ani podávání; pudink je velmi sytý a tučný, moderně k němu pasuje vanilkový krém nebo smetana. Vaří se v hrnci nad ohněm, proto tagy tabor a kotlik. Sousední recept „To bake an Oatmeal Pudding“ (pečená kaše s brandy) je jiný recept a není zpracován.",
+  "source": { "book": "glasse-1747", "page": 217, "titleOriginal": "To make an Oatmeal Pudding" },
+  "verified": false,
+  "quote": "Get a pint of oatmeal once cut, a pound of suet shred fine, a pound of currants, and half a pound of raisins stoned"
+}

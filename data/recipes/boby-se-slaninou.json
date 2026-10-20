@@ -1,0 +1,34 @@
+{
+  "id": "boby-se-slaninou",
+  "title": "Boby se slaninou",
+  "titleOriginal": "To dress Beans and Bacon",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 55,
+  "difficulty": 2,
+  "tags": ["levne", "kotlik"],
+  "equipment": ["plotna", "trouba"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "spek", "amount": 320, "unit": "g", "group": "Slanina", "note": "kus uzené slaniny s kůží (odhad)" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "group": "Slanina", "scaling": "vessel", "note": "na vaření slaniny zvlášť, slije se (odhad)" },
+    { "ingredientId": "bob-mrazeny", "amount": 500, "unit": "g", "group": "Boby", "note": "mražené vyloupané (odhad)" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "group": "Boby", "scaling": "vessel", "note": "na vaření bobů zvlášť, slije se" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "group": "Boby", "scaling": "vessel", "note": "do vody na vaření, slije se" },
+    { "ingredientId": "petrzel-nat", "amount": 10, "unit": "g", "group": "Boby", "note": "pěkně přebraná, do vody s boby (odhad)" },
+    { "ingredientId": "strouhanka", "amount": 20, "unit": "g", "group": "Na slaninu", "note": "na posypání slaniny (odhad)" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "group": "K podání", "note": "rozpuštěné, v misce zvlášť (odhad)" }
+  ],
+  "steps": [
+    { "text": "Slaninu dej samotnou do hrnce se studenou vodou, přiveď k varu a vař doměkka.", "minutes": 40 },
+    { "text": "Mezitím vezmi druhý hrnec. Dej do něj vodu, sůl a pěkně přebranou petrželovou nať. Přiveď k varu, vsyp boby a vař, dokud nejsou měkké.", "minutes": 18, "parallel": true },
+    { "text": "Boby scedi.", "minutes": 2, "parallel": true },
+    { "text": "Vyndej slaninu a stáhni z ní kůži.", "minutes": 3 },
+    { "text": "Slaninu posyp strouhankou a shora opeč dozlatova pod rozpáleným grilem v troubě.", "minutes": 6 },
+    { "text": "Boby naskládej na mísu, slaninu polož doprostřed navrch. Máslo rozpusť a podávej zvlášť v misce.", "minutes": 3 }
+  ],
+  "modernNote": "Zdroj nedává množství, počet porcí ani doby varu; vše je odhad pro 4 porce (320 g slaniny, 500 g bobů; slanina vařená v kuse je hlavní jídlo, boby k ní). Slaninu a boby vař podle zdroje každé zvlášť, protože slanina by bobům zkazila barvu; sůl a petržel patří podle zdroje do vody na boby. Doba vaření slaniny (40 minut) a bobů (asi 8 minut po varu) je odhad, zdroj říká jen „až budou boby měkké“ a radí nepřevařit zelené zahradní plodiny. Boby jsou v ČR běžně k dostání mražené (vyloupané). „Raspings of bread“ je strouhanka z pečiva. Zdroj opéká slaninu rozžhaveným železem nebo u ohně; v kroku je domácí gril v troubě. Strana: PDF 43 (tištěná 15). Všechna množství jsou odhad, proto verified false.",
+  "source": { "book": "glasse-1747", "page": 43, "titleOriginal": "To dress Beans and Bacon" },
+  "verified": false,
+  "quote": "When you dress beans and bacon, boil the bacon by itself, and the beans by themselves, for the bacon will spoil the colour of the beans."
+}

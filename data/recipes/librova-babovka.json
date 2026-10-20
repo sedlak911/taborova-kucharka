@@ -1,0 +1,32 @@
+{
+  "id": "librova-babovka",
+  "title": "Librová bábovka s kmínem",
+  "titleOriginal": "To make a Pound Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "timeMinutes": 145,
+  "difficulty": 2,
+  "tags": ["sladke", "bez-masa"],
+  "equipment": ["trouba"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "maslo", "amount": 115, "unit": "g", "scaling": "linear", "note": "z 1 libry (odhad dávky na 4 porce)" },
+    { "ingredientId": "vejce", "amount": 1.5, "unit": "ks", "note": "ze zdroje 12 vajec, polovina bílků vynechána = 6 celých vajec + 6 žloutků; čtvrtina dávky" },
+    { "ingredientId": "zloutek", "amount": 1.5, "unit": "ks", "note": "žloutky z vajec, jejichž bílky se vynechají (zdroj: 6 na celou dávku)" },
+    { "ingredientId": "hladka-mouka", "amount": 115, "unit": "g", "note": "z 1 libry, prosátá" },
+    { "ingredientId": "cukr-krystal", "amount": 115, "unit": "g", "scaling": "linear", "note": "z 1 libry" },
+    { "ingredientId": "kmin-cely", "amount": 1, "unit": "g", "note": "„a few carraways“, odhad asi 2 lžičky na celou dávku" },
+    { "ingredientId": "maslo", "amount": 5, "unit": "g", "scaling": "vessel", "note": "na vymazání formy (odhad)" }
+  ],
+  "steps": [
+    { "text": "Máslo šlehej v míse rukou jedním směrem, dokud není jako jemná hustá smetana.", "minutes": 10 },
+    { "text": "Vejce, u kterých polovinu bílků vynecháš, dobře rozšlehej a vyšlehej s máslem.", "minutes": 5 },
+    { "text": "Vešlehej mouku, cukr a kmín. Vše spolu šlehej celou hodinu rukou nebo velkou dřevěnou vařečkou.", "minutes": 60 },
+    { "text": "Formu vymaž máslem a těsto do ní naplň.", "minutes": 3 },
+    { "text": "Peč hodinu v rozehřáté troubě.", "minutes": 60 }
+  ],
+  "modernNote": "Zdroj nemá množství porcí; kniha dává po 1 libře másla, mouky a cukru a 12 vejcí (polovina bílků se vynechá), což je velká bábovka asi na 16 kousků. Na 4 porce je to čtvrtina (115 g od každého, 4 kousky po zhruba 110 g, asi 460 kcal). Teplotu zdroj neuvádí, „quick oven“ je rozehřátá trouba, dnes zhruba 180 °C; ve čtvrtinové dávce hlídej propečení už po asi 40 minutách a pečení pak případně zkrať, doba ze zdroje je pro celou dávku v jedné formě. Doba šlehání (hodina) je podle zdroje ruční: dnes stačí robot nebo ruční šlehač, těsto vyšlehej 8–10 minut do světlé nadýchané hmoty. Zdroj nemá kypřidlo, těsto kyne jen vzduchem a vejci. Množství kmínu je odhad. Zdroj uvádí i variantu: přidej libru očištěných rybízů (korintek), ve čtvrtinové dávce asi 115 g. Strana: PDF 238 (tištěná 170). Všechna množství kromě poměru 1 : 1 : 1 jsou odhad, verified false.",
+  "source": { "book": "glasse-1747", "page": 238, "titleOriginal": "To make a pound Cake" },
+  "verified": false,
+  "quote": "Beat it all well together for an hour with your hand, or a great wooden spoon"
+}

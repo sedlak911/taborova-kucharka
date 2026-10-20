@@ -1,0 +1,31 @@
+{
+  "id": "tvrde-knedliky",
+  "title": "Tvrdé moučné knedlíky k hovězímu",
+  "titleOriginal": "To make hard Dumplings",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko"],
+  "ingredients": [
+    { "ingredientId": "hladka-mouka", "amount": 400, "unit": "g", "note": "zdroj: mouka bez množství; odhad pro 8 knedlíků", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 220, "unit": "ml", "note": "zdroj: voda bez množství; odhad na tuhé těsto", "group": "Těsto" },
+    { "ingredientId": "sul", "amount": 4, "unit": "g", "note": "zdroj: „a little salt“; odhad", "group": "Těsto" },
+    { "ingredientId": "hladka-mouka", "amount": 15, "unit": "g", "note": "na obalení knedlíků; množství odhad", "group": "Těsto" },
+    { "ingredientId": "voda", "amount": 3000, "unit": "ml", "note": "na vaření knedlíků, slije se; domácí hodnota", "group": "Vaření", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "rozpuštěné v hrnku k podávání; zdroj: „melted butter in a cup“, množství odhad", "group": "Podávání", "scaling": "fat" }
+  ],
+  "steps": [
+    { "text": "Z mouky, vody a soli zadělej tuhé těsto.", "minutes": 5 },
+    { "text": "Z těsta tvaruj kuličky velké jako krůtí vejce a obal je v troše mouky.", "minutes": 10 },
+    { "text": "Mezitím přiveď k varu hrnec vody.", "minutes": 15, "parallel": true },
+    { "text": "Kuličky vhoď do vroucí vody a vař je půl hodiny.", "minutes": 30 },
+    { "text": "Mezitím rozpusť máslo a dej je do hrnku.", "minutes": 3, "parallel": true }
+  ],
+  "modernNote": "Zdroj nemá počet porcí ani množství: 400 g mouky a 220 ml vody dá asi 8 knedlíků velikosti krůtího vejce (asi 75 g těsta), tedy 2 na osobu; množství mouky, vody, soli a másla je odhad, proto verified: false. Kniha knedlíky nejraději vaří s kusem hovězího (vaří se přímo ve vývaru, ne v čisté vodě); kdo je takto vaří, vodu a sůl do vody vynechá a použije vývar z masa. Pro změnu lze do těsta přidat pár rozinek (zdroj: „a few currants“), ty zde nejsou. Druhá varianta na téže straně („Another Way“): do mouky nejdřív vetři „dobrý kus másla“ a těsto udělej jako kůrku na koláč, pak tvaruj a vař stejně; tu zde nepřepisuji.",
+  "source": { "book": "glasse-1747", "page": 200, "titleOriginal": "To make hard Dumplings" },
+  "verified": false,
+  "quote": "They are best boiled with a good piece of beef."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "norfolkske-knedlicky",
+  "title": "Norfolkské knedlíčky",
+  "titleOriginal": "Norfolk Dumplings",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "timeMinutes": 20,
+  "difficulty": 1,
+  "tags": ["levne", "rychle", "tabor", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["lepek", "mleko", "vejce"],
+  "ingredients": [
+    { "ingredientId": "mleko-polotucne", "amount": 280, "unit": "ml", "note": "zdroj: půl pintu", "scaling": "linear" },
+    { "ingredientId": "vejce", "amount": 2, "unit": "ks", "note": "zdroj: 2 vejce", "scaling": "linear" },
+    { "ingredientId": "hladka-mouka", "amount": 200, "unit": "g", "note": "zdroj: mouka „na hustou kaši“ bez množství; odhad", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 2, "unit": "g", "note": "zdroj: „a little salt“; odhad" },
+    { "ingredientId": "voda", "amount": 1500, "unit": "ml", "note": "na vaření, slije se", "scaling": "vessel" },
+    { "ingredientId": "maslo", "amount": 20, "unit": "g", "note": "zdroj: „a lump of fresh butter“; množství odhad", "scaling": "fat" }
+  ],
+  "steps": [
+    { "text": "Z mléka, vajec, soli a mouky umíchej hustou kaši jako na palačinky.", "minutes": 5 },
+    { "text": "Přiveď k varu hrnec čisté vody.", "minutes": 10, "parallel": true },
+    { "text": "Do prudce vroucí vody nechej padat těsto po lžících. Vař 2–3 minuty.", "minutes": 3 },
+    { "text": "Slij knedlíčky na sítu.", "minutes": 2 },
+    { "text": "Dej je na mísu a zamíchej do nich kousek čerstvého másla." }
+  ],
+  "modernNote": "Zdroj nemá počet porcí ani množství mouky: půl pintu (asi 280 ml) mléka a 2 vejce jsou základ asi pro 4 porce přílohy, takže se nepřepočítávají. 200 g mouky je odhad pro hustotu těsta na palačinky, proto verified: false. Kniha neříká, jak těsto do vody dávat; moderně ho nech z lžíce klouzat do vroucí vody, aby se knedlíčky nepřilepily ke dnu. Kniha je podává horké s máslem; hodí se k masu s omáčkou nebo do polévky.",
+  "source": { "book": "glasse-1747", "page": 199, "titleOriginal": "To make Norfolk Dumplings" },
+  "verified": false,
+  "quote": "Be sure the water boils fast, and two or three minutes will boil them."
+}

@@ -1,0 +1,30 @@
+{
+  "id": "uzeny-sled-se-zelim",
+  "title": "Uzený sleď na dušeném zelí",
+  "titleOriginal": "To dress Herring and Cabbage",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 40,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "bile-zeli", "amount": 600, "unit": "g", "note": "očištěné; množství odhad" },
+    { "ingredientId": "voda", "amount": 1000, "unit": "ml", "scaling": "vessel", "note": "na vaření zelí, slije se" },
+    { "ingredientId": "maslo", "amount": 60, "unit": "g", "note": "zdroj: „a good piece of butter“; množství odhad" },
+    { "ingredientId": "uzeny-sled", "amount": 300, "unit": "g", "note": "asi 4 uzení sledi (red herrings), vykostěné maso; množství odhad" }
+  ],
+  "steps": [
+    { "text": "Zelí uvař doměkka ve vodě.", "minutes": 20 },
+    { "text": "Scezené zelí dej do hrnce a lžící ho nasekej.", "minutes": 5 },
+    { "text": "Přidej máslo a nech zelí podusit. Míchej, aby se nepřipálilo.", "minutes": 10 },
+    { "text": "Uzené sledě rozpůl a opékej je u ohně (na suché pánvi), dokud nejsou propečené.", "minutes": 8, "parallel": true },
+    { "text": "Zelí dej na mísu a sledě na něj polož.", "minutes": 2 },
+    { "text": "Podávej horké." }
+  ],
+  "modernNote": "Zdroj neuvádí množství ani počet porcí: odhad je 600 g zelí, 60 g másla („a good piece“) a 4 uzení sledi (asi 300 g masa bez kostí) na 4 porce; proto verified: false. Zelí se vaří ve vodě bez soli, uzený sleď je slaný sám. Kniha nabízí i variantu: maso sledě oddělit od kostí a rozházet po zelí; pak ho ohřát horkým železem nad pokrmem, dnes stačí chvíli v troubě nebo na pánvi. Red herring je silně uzený a nasolený sleď, dnes nejblíže uzený sleď nebo uzená makrela (kippered). Porce má jen 75 g ryby (pod doporučenými 80 g); jako hlavní jídlo přidej sleďů, k pokrmu se hodí brambory nebo chléb.",
+  "source": { "book": "glasse-1747", "page": 164, "titleOriginal": "To dress Herring and Cabbage" },
+  "verified": false,
+  "quote": "Lay the cabbage in the dish and lay the herrings on it, and send it to table hot."
+}

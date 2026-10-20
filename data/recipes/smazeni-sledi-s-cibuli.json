@@ -1,0 +1,30 @@
+{
+  "id": "smazeni-sledi-s-cibuli",
+  "title": "Smažení sledi s cibulí",
+  "titleOriginal": "To fry Herrings",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": ["levne", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["horcice", "mleko", "ryby"],
+  "ingredients": [
+    { "ingredientId": "sled", "amount": 500, "unit": "g", "note": "asi 4 čerství sledi, očištění bez hlavy a vnitřností; množství odhad" },
+    { "ingredientId": "cibule", "amount": 400, "unit": "g", "note": "zdroj: „a good many onions“; množství odhad" },
+    { "ingredientId": "maslo", "amount": 40, "unit": "g", "note": "na smažení; množství odhad", "scaling": "fat" },
+    { "ingredientId": "maslo", "amount": 30, "unit": "g", "note": "do misky k hořčici; množství odhad", "scaling": "linear" },
+    { "ingredientId": "horcice", "amount": 30, "unit": "g", "note": "do misky s máslem; množství odhad" }
+  ],
+  "steps": [
+    { "text": "Sledě oškrab od šupin, vykucej, odřízni hlavy a dobře omyj.", "minutes": 10 },
+    { "text": "Cibuli oloupej a nakrájej na tenké plátky.", "minutes": 5 },
+    { "text": "Na pánvi rozehřej máslo na prudkém ohni a smaž v něm sledě s cibulí do světle hnědé barvy.", "minutes": 10 },
+    { "text": "Sledě polož na mísu a cibuli rozlož kolem nich.", "minutes": 2 },
+    { "text": "Máslo a hořčici podávej v misce zvlášť." }
+  ],
+  "modernNote": "Zdroj nemá množství ani počet porcí: 4 střední čerství sledi (asi 500 g očištěných) a 400 g cibule jsou odhad na 4 porce, máslo a hořčice také, proto verified: false. Kniha říká, že sledě je třeba smažit „na rychlém ohni“, doma tedy na dobře rozpálené pánvi; cibule se smaží ve stejném másle spolu se sledi. Máslo s hořčicí v misce je podle Glasseové omáčka k rybě (rozpuštěné máslo promíchané s hořčicí). Omáčka z hlav v pivu je na téže straně u receptu „To broil Herrings“ (sledě na rošt).",
+  "source": { "book": "glasse-1747", "page": 164, "titleOriginal": "To fry Herrings" },
+  "verified": false,
+  "quote": "Fry them of a light brown with the herrings; lay the herrings in your dish, and the onions round, butter and mustard in a cup."
+}

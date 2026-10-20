@@ -1,0 +1,31 @@
+[
+  {
+    "id": "bob-mrazeny",
+    "name": "Bob zahradní (mražený)",
+    "aliases": [
+      "boby",
+      "bob",
+      "bob zahradní",
+      "mražené boby",
+      "broad beans",
+      "fava beans, frozen",
+      "broadbeans"
+    ],
+    "category": "mrazene",
+    "scaling": "linear",
+    "nutritionPer100g": {
+      "kcal": 72,
+      "protein": 5.6,
+      "carbs": 11.7,
+      "fat": 0.6,
+      "fiber": 4.2
+    },
+    "units": {},
+    "ediblePortion": 1,
+    "allergens": [],
+    "sources": {
+      "nutrition": "USDA SR Legacy fdc:170377 (Broadbeans, immature seeds, raw); mražené vyloupané boby mají srovnatelné složení",
+      "refuse": "bez odpadu (mražené, již vyloupané)"
+    }
+  }
+]
