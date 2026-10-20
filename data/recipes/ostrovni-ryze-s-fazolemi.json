@@ -1,0 +1,35 @@
+{
+  "id": "ostrovni-ryze-s-fazolemi",
+  "title": "Karibská rýže s červenými fazolemi",
+  "titleOriginal": "Islander's Rice",
+  "chapter": "testoviny-a-ryze",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 280, "unit": "ml", "note": "instantní, připravený podle návodu na obalu" },
+    { "ingredientId": "fazole-cervene-v-konzerve", "amount": 165, "unit": "g", "note": "scezené" },
+    { "ingredientId": "ryze-bila", "amount": 105, "unit": "g", "note": "dlouhozrnná" },
+    { "ingredientId": "cibule", "amount": 35, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cesnek-prasek", "amount": 2, "unit": "g" },
+    { "ingredientId": "tymian-susity", "amount": 1, "unit": "g", "note": "mletý" },
+    { "ingredientId": "novy-koreni", "amount": 0.61, "unit": "g", "note": "mleté" },
+    { "ingredientId": "palive-paprika", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "oregano", "amount": 0.92, "unit": "g", "note": "drcené" },
+    { "ingredientId": "paprika-zelena", "amount": 65, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "pimentka-konzervovana", "amount": 25, "unit": "g", "note": "nakrájená, scezená" }
+  ],
+  "steps": [
+    { "text": "Připrav kuřecí vývar podle návodu na obalu.", "minutes": 5 },
+    { "text": "Do vývaru přidej fazole, rýži, cibuli, česnekový prášek, tymián, nové koření, pálivou papriku a oregano. Přiveď k varu a občas zamíchej.", "minutes": 15 },
+    { "text": "Přikryj hrnec pevně víkem, sniž teplotu a duš 20 až 25 minut, dokud většina vody nevsákne a rýže nezměkne. Nemíchej.", "minutes": 25 },
+    { "text": "Přidej zelenou papriku a pimentky a dobře promíchej.", "minutes": 3 }
+  ],
+  "modernNote": "Kuřecí vývar je instantní, připravený podle návodu na obalu. Vegetariánská varianta z poznámky 1 zdroje: místo kuřecího vývaru použij zeleninový, všechny suroviny zdvojnásob a jako hlavní jídlo počítej porci 1½ šálku. Varianta v troubě z poznámky 2 je vynechána, recept je na plotně v jednom hrnci.",
+  "source": { "book": "afrs-2003", "page": 320, "code": "E 016 00", "titleOriginal": "ISLANDER'S RICE" },
+  "verified": true
+}

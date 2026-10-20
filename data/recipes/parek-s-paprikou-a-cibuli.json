@@ -1,0 +1,32 @@
+{
+  "id": "parek-s-paprikou-a-cibuli",
+  "title": "Opečený párek s restovanou paprikou a cibulí",
+  "titleOriginal": "Grilled Frankfurter with Fried Peppers and Onions",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 25,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "rychle"],
+  "equipment": ["plotna"],
+  "allergens": ["celer", "lepek"],
+  "ingredients": [
+    { "ingredientId": "paprika-zelena", "amount": 55, "unit": "g", "note": "zelená, nakrájená na tenké proužky" },
+    { "ingredientId": "cibule", "amount": 80, "unit": "g", "note": "nakrájená na plátky" },
+    { "ingredientId": "repkovy-olej", "amount": 5, "unit": "ml", "note": "na lehké vymazání pánve (1 lžička)", "scaling": "vessel" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "cesnek-prasek", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "parky", "amount": 175, "unit": "g", "note": "4 párky; karta 100 párků = 9-2/3 lb, asi 44 g na kus" },
+    { "ingredientId": "hamburgerova-houska", "amount": 4, "unit": "ks", "note": "rozříznutá; karta 100 housek = 9-3/8 lb" }
+  ],
+  "steps": [
+    { "text": "Papriku a cibuli opékej na lehce vymazané pánvi na středním ohni do měkka.", "minutes": 12 },
+    { "text": "Posyp černým pepřem a česnekovým práškem." },
+    { "text": "Párky opékej na pánvi, často je otáčej, dokud nejsou důkladně prohřáté a lehce zarudlé.", "minutes": 10 },
+    { "text": "Párek vlož do housky, navrch dej 1 polévkovou lžíci papriky a 1 polévkovou lžíci cibule. Podávej horké." }
+  ],
+  "modernNote": "Karta N 030 05 (Grilled Frankfurter with Fried Peppers and Onions), 100 porcí = 100 párků a 100 housek, přepočteno faktorem 4/100 z hmotností (Weight). Vše se dělá na jedné pánvi nebo plotně, bez trouby a bez grilu: karta grilování na pánvi 350 °F popisuje jako grilování na plotně, proto na středním až vyšším ohni. Lehké vymazání pánve olejem je z karty (lightly greased griddle), množství 1 lžička je domácí odhad, proto vessel. Hořčice ani kečup v kartě nejsou. Karta CCP (teploty držení a 145 °F) vynechána. Pepř a česnekový prášek jsou pod 1 g, proto přesně 0,23 g. Párky jsou z karty (asi 44 g na kus), 4 porce = 4 párky. Nález „mimo rozsah“ u masa (44 g na porci) sedí s kartou (Weight × 0,04); jako hlavní jídlo počítej 2 párky na osobu (asi 90 g masa), tedy 8 párků na 4 porce. Moderní doporučení: párky prohřej důkladně, tedy do vnitřní teploty alespoň 72 °C. Papriku a cibuli lze nakrájet tenčeji, aby změkly rychleji.",
+  "source": { "book": "afrs-2003", "page": 1293, "code": "N 030 05", "titleOriginal": "GRILLED FRANKFURTER WITH FRIED PEPPERS AND ONIONS" },
+  "verified": true,
+  "quote": "Grill frankfurters slowly on greased 350 F. griddle turning frequently, until thoroughly heated and browned."
+}

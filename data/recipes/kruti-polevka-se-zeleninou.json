@@ -1,0 +1,34 @@
+{
+  "id": "kruti-polevka-se-zeleninou",
+  "title": "Krůtí polévka s bramborami a hráškem",
+  "titleOriginal": "Turkey Vegetable Soup",
+  "chapter": "polevky",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 50,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "kureci-vyvar", "amount": 760, "unit": "ml", "note": "instantní, připravený podle návodu na obalu (ve zdroji 5 gal)" },
+    { "ingredientId": "brambory", "amount": 85, "unit": "g", "note": "červené (Red Bliss), nakrájené" },
+    { "ingredientId": "mrkev-mrazena", "amount": 55, "unit": "g", "note": "plátky" },
+    { "ingredientId": "cibule", "amount": 55, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "celer-rapikaty", "amount": 35, "unit": "g", "note": "nakrájený na plátky" },
+    { "ingredientId": "petrzel-susena", "amount": 2, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.69, "unit": "g" },
+    { "ingredientId": "tymian-susity", "amount": 0.46, "unit": "g" },
+    { "ingredientId": "salvej", "amount": 0.23, "unit": "g" },
+    { "ingredientId": "kureci-maso-vareno", "amount": 90, "unit": "g", "note": "vařené na kostky; ve zdroji krůtí (vařené krůtí v katalogu chybí)" },
+    { "ingredientId": "hrasek", "amount": 35, "unit": "g", "note": "mražený, vyloupaný" }
+  ],
+  "steps": [
+    { "text": "Připrav kuřecí vývar podle návodu na obalu.", "minutes": 5 },
+    { "text": "Přidej brambory, mrkev, cibuli, celer, sušenou petržel, pepř, tymián a šalvěj. Zamíchej, přiveď k varu, sniž teplotu a vař 20 minut, dokud zelenina nezměkne.", "minutes": 28 },
+    { "text": "Přidej maso a hrášek. Přiveď k varu, sniž teplotu a vař 5 minut.", "minutes": 13 }
+  ],
+  "modernNote": "Vařené krůtí maso na kostky je v katalogu jen jako kuřecí, proto je použito kuřecí vařené maso. Kuřecí vývar z instantu je připravený podle návodu na obalu. Mražený hrášek je veden pod id hrasek s upřesněním v note. Porce cca 280 g (1 šálek ze zdroje), 90 kcal proti 91 kcal v hlavičce karty.",
+  "source": { "book": "afrs-2003", "page": 1453, "code": "P 029 00", "titleOriginal": "TURKEY VEGETABLE SOUP" },
+  "verified": true
+}

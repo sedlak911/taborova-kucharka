@@ -1,0 +1,133 @@
+{
+  "id": "hovezi-kostky-v-barbecue-omacce",
+  "title": "Hovězí kostky v barbecue omáčce",
+  "titleOriginal": "Barbecued Beef Cubes",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 95,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "celer",
+    "horcice"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "ocet",
+      "amount": 50,
+      "unit": "g",
+      "note": "lihový, destilovaný",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "rajcatovy-protlak",
+      "amount": 125,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "kecup",
+      "amount": 135,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 320,
+      "unit": "ml",
+      "note": "voda z 2 dávek omáčky O 002 00 (3-2/3 lb × 2) + voda 10-1/2 lb z karty L 018 00",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "hnedy-cukr",
+      "amount": 35,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 7,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "horcice",
+      "amount": 20,
+      "unit": "g",
+      "note": "připravená (ne sušená)",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.92,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 35,
+      "unit": "g",
+      "note": "nasekaná",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "celer-rapikaty",
+      "amount": 35,
+      "unit": "g",
+      "note": "nasekaný",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 6,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "chilli-prasek",
+      "amount": 0.92,
+      "unit": "g",
+      "group": "Barbecue omáčka"
+    },
+    {
+      "ingredientId": "hovezi-predni",
+      "amount": 540,
+      "unit": "g",
+      "note": "na kostky, syrové"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Smíchej omáčku: ocet, rajčatový protlak, kečup, vodu, hnědý cukr, sůl, hořčici, pálivou papriku, cibuli, celer, česnek a chilli prášek a dobře promíchej. Omáčku nevař.",
+      "minutes": 5
+    },
+    {
+      "text": "Hovězí kostky dej do hrnce a za stálého míchání vař 15 minut bez pokličky.",
+      "minutes": 15
+    },
+    {
+      "text": "Hrnec přikryj a vař dalších 15 minut.",
+      "minutes": 15
+    },
+    {
+      "text": "Přidej připravenou omáčku, přikryj a duš 1 hodinu, nebo dokud maso nezměkne.",
+      "minutes": 60
+    }
+  ],
+  "modernNote": "Omáčka je ze zdroje dvě dávky karty AFRS O 002 00 (Barbecue Sauce, 100 porcí po 1/4 cupu), přepočtené na 4 porce tak, že každá surovina karty je dvojnásobná a přepočtená třídou scaling. Karta L 018 00 omáčku nevaří zvlášť („DO NOT COOK“), proto se přidá k masu a duší se. Hovězí je dle zdroje 30 lb na 100 porcí (≈ 135 g syrového masa na porci); jako hlavní jídlo je to v pořádku. Pokud chcete rychlejší variantu, použijte hotovou barbecue omáčku z obchodu (zdroj to výslovně dovoluje). Zdrojová steam-jacketed kettle je hrnec na plotně. Tekuté koření (liquid smoke, 1-7/8 oz na dávku omáčky) je na kartě O 002 00 označeno jako volitelné (optional) a je vynecháno; pro kouřovou chuť lze přidat pár kapek. Kroky s CCP vynechány. Bilance: check:recipe hlásí 331 g surovin na porci proti 184 g porce zdroje (1,8×). Zdroj sám na 100 porcí dává ≈ 33 kg surovin (2 dávky omáčky ≈ 14,6 kg, voda 4,8 kg, maso 13,6 kg) a porci 6-1/2 oz; odpar při hodinovém dušení to nevysvětlí celé. Přepočet drží kartu, hodnoty jsem neupravoval; porci bere jako orientační.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 710,
+    "code": "L 018 00",
+    "titleOriginal": "BARBECUED BEEF CUBES"
+  },
+  "verified": true
+}

@@ -1,0 +1,120 @@
+{
+  "id": "kakaovy-kolac-bez-vajec",
+  "title": "Rychlý kakaový koláč bez vajec a mléka",
+  "titleOriginal": "Easy Chocolate Cake",
+  "chapter": "sladke",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "sladke",
+    "bez-masa"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 90,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cukr-krystal",
+      "amount": 85,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "kakao",
+      "amount": 11,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "jedla-soda",
+      "amount": 3,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kyprí těsto spolu s octem"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "ocet",
+      "amount": 6,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "kyselina pro reakci se sodou; neutrální ocet"
+    },
+    {
+      "ingredientId": "vanilkovy-extrakt",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 30,
+      "unit": "g",
+      "scaling": "linear",
+      "note": "do těsta"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 95,
+      "unit": "ml",
+      "note": "studená; přidávej postupně"
+    },
+    {
+      "ingredientId": "repkovy-olej",
+      "amount": 5,
+      "unit": "g",
+      "scaling": "vessel",
+      "note": "na vymazání plechu (1 lžička) místo cooking spray"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Do mísy prosej mouku, cukr, kakao, jedlou sodu a sůl.",
+      "minutes": 3
+    },
+    {
+      "text": "Smíchej olej, ocet a vanilkový extrakt a přidej k suchým surovinám. Mísi na nízké rychlosti 2 minuty.",
+      "minutes": 3
+    },
+    {
+      "text": "Postupně přilévej vodu a mísi na nízké rychlosti 1 minutu. Seškrábni stěny mísy.",
+      "minutes": 2
+    },
+    {
+      "text": "Mísi na střední rychlosti 2 minuty, dokud nejsou všechny suroviny dobře promíchané.",
+      "minutes": 2
+    },
+    {
+      "text": "Plech lehce vymaž olejem a nalij těsto.",
+      "minutes": 2
+    },
+    {
+      "text": "Peč v konvekční troubě při 165 °C 25 minut, nebo dokud není hotovo.",
+      "minutes": 25
+    },
+    {
+      "text": "Nech vychladnout, podle chuti polej polevou a nakrájej na 4 kusy.",
+      "minutes": 20
+    }
+  ],
+  "modernNote": "Porce 1 kus podle karty; 4 kusy se pečou v malé formě (asi 20 × 25 cm) místo plechu, zdrojová dávka je pro 100 kusů (6 × 9 na plech). Cooking spray nahrazen 1 lžičkou oleje. Ocet s jedlou sodou kyprí těsto, proto oba řádky škálují lineárně. Recept neobsahuje vejce ani mléko. Zdroj uvádí 325 °F konvekční troubu = 165 °C; u trouby bez ventilátoru přidej 10–20 °C. Kalorie z karty (345 kcal na kus) neodpovídají hmotnostem karty: z vah při výtěžku 100 kusů vychází asi 239 kcal (−31 %). Výtěžek 100 kusů přitom sedí: těsto je asi 7,5 qt a karta nalévá 3½ qt na plech řezaný 6 × 9 (54 kusů), tedy asi 2 plechy ≈ 108 kusů. Stejný rozdíl (+45 až 50 %) mají i ostatní koláče AFRS (G 002, G 012), jde o vlastnost nutričních údajů karty; množství jsou podle vah.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 400,
+    "code": "G 011 00",
+    "titleOriginal": "EASY CHOCOLATE CAKE"
+  },
+  "verified": true
+}

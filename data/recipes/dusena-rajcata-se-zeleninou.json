@@ -1,0 +1,28 @@
+{
+  "id": "dusena-rajcata-se-zeleninou",
+  "title": "Dušená rajčata s paprikou a celerem",
+  "titleOriginal": "Stewed Tomatoes",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 10,
+  "difficulty": 1,
+  "tags": ["levne", "tabor", "kotlik", "rychle", "bez-masa"],
+  "equipment": ["plotna"],
+  "allergens": ["celer"],
+  "ingredients": [
+    { "ingredientId": "rajcata-konzervovana", "amount": 460, "unit": "g", "note": "loupaná, z konzervy včetně nálevu" },
+    { "ingredientId": "cibule", "amount": 5, "unit": "g", "note": "nasekaná nadrobno" },
+    { "ingredientId": "paprika-zelena", "amount": 3, "unit": "g", "note": "nasekaná nadrobno" },
+    { "ingredientId": "celer-rapikaty", "amount": 5, "unit": "g", "note": "nasekaný nadrobno" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Rajčata s nálevem, cibuli, papriku, celer a pepř smíchej a dobře promíchej.", "minutes": 3 },
+    { "text": "Přiveď k varu, aby se chutě spojily.", "minutes": 5 }
+  ],
+  "modernNote": "Porce odpovídá půl hrnku dušených rajčat. Rajčata z konzervy jsou v nálevu; na 4 porce stačí zhruba 460 g rajčat s nálevem. Pro méně kyselou chuť lze přidat špetku cukru. Kalorie: 19 kcal na porci oproti 23 v kartě; rozdíl je z databáze surovin (rajčata z konzervy ~16 kcal/100 g). Hodnota pod 50 kcal je u lehké zeleninové přílohy očekávaná (nález rozsahu kcal je tedy odůvodněn).",
+  "source": { "book": "afrs-2003", "page": 1596, "code": "Q 058 00", "titleOriginal": "STEWED TOMATOES" },
+  "verified": true,
+  "quote": "Bring to a boil to blend flavors."
+}

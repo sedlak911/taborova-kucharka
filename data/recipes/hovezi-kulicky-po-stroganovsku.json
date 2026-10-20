@@ -1,0 +1,198 @@
+{
+  "id": "hovezi-kulicky-po-stroganovsku",
+  "title": "Hovězí kuličky po stroganovsku",
+  "titleOriginal": "Beef Balls Stroganoff",
+  "chapter": "maso-a-ryby",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 60,
+  "difficulty": 2,
+  "tags": [
+    "levne",
+    "tabor",
+    "kotlik"
+  ],
+  "equipment": [
+    "plotna"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko",
+    "vejce"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 40,
+      "unit": "ml",
+      "note": "rozmíchané sušené mléko v teplé vodě (zdroj 2 lb vody + 3 oz sušeného mléka)",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 3,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "vejce",
+      "amount": 0.2,
+      "unit": "ks",
+      "note": "zdroj 8-5/8 oz mražených vajec",
+      "original": {
+        "ingredientId": "vejce-mrazena",
+        "amount": 10,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "chleb-bily",
+      "amount": 50,
+      "unit": "g",
+      "note": "bílý, krájený, zavadlý"
+    },
+    {
+      "ingredientId": "hovezi-mlete-90",
+      "amount": 360,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "cibule",
+      "amount": 13,
+      "unit": "g",
+      "note": "jemně nakrájená"
+    },
+    {
+      "ingredientId": "petrzel-nat",
+      "amount": 3,
+      "unit": "g",
+      "note": "nasekaná"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 2,
+      "unit": "g",
+      "note": "do kuliček"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.92,
+      "unit": "g",
+      "note": "do kuliček"
+    },
+    {
+      "ingredientId": "tymian-susity",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletý"
+    },
+    {
+      "ingredientId": "palive-paprika",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "mletá, cayenne"
+    },
+    {
+      "ingredientId": "cesnek-prasek",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "granulovaný"
+    },
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 20,
+      "unit": "g",
+      "note": "na zahuštění omáčky"
+    },
+    {
+      "ingredientId": "voda",
+      "amount": 55,
+      "unit": "ml",
+      "note": "studená, na rozmíchání mouky"
+    },
+    {
+      "ingredientId": "hovezi-vyvar",
+      "amount": 210,
+      "unit": "ml",
+      "note": "připravený podle návodu na obalu z instantního vývaru"
+    },
+    {
+      "ingredientId": "sladka-paprika",
+      "amount": 2,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "cerny-pepr-mlety",
+      "amount": 0.23,
+      "unit": "g",
+      "note": "do omáčky"
+    },
+    {
+      "ingredientId": "houby-konzervovane",
+      "amount": 65,
+      "unit": "g",
+      "note": "plátky a kousky vč. nálevu"
+    },
+    {
+      "ingredientId": "zakysana-smetana",
+      "amount": 55,
+      "unit": "g",
+      "note": "light (nízkotučná)"
+    }
+  ],
+  "steps": [
+    {
+      "text": "Sušené mléko rozmíchej v teplé vodě.",
+      "minutes": 2
+    },
+    {
+      "text": "Vmíchej vejce, mléko, petržel, sůl, černý pepř, tymián, cayenne a česnek.",
+      "minutes": 2
+    },
+    {
+      "text": "Chléb rozmixuj na hrubé drobky, asi 5 minut. Zalij mléčnou směsí, lehce promíchej a nech 10 minut odstát.",
+      "minutes": 16
+    },
+    {
+      "text": "Přidej mleté maso a cibuli a jen krátce promíchej. Nepřemíchej.",
+      "minutes": 2
+    },
+    {
+      "text": "Vytvaruj kuličky stejné velikosti, pro 4 porce asi 12 kusů.",
+      "minutes": 5
+    },
+    {
+      "text": "Kuličky opékej na nepřilnavé pánvi ze všech stran dozlatova, asi 8 až 10 minut.",
+      "minutes": 10
+    },
+    {
+      "text": "Mezitím smíchej mouku s vodou dohladka.",
+      "minutes": 2,
+      "parallel": true
+    },
+    {
+      "text": "Mezitím připrav vývar podle návodu na obalu a přiveď k varu, pak sniž teplotu. Za stálého míchání postupně vlévej směs mouky s vodou. Přidej sladkou papriku a černý pepř. Znovu přiveď k varu, sniž a duš 5 až 10 minut, dokud nezhoustne.",
+      "minutes": 12,
+      "parallel": true
+    },
+    {
+      "text": "Přidej houby, dobře promíchej a sundej z ohně.",
+      "minutes": 1
+    },
+    {
+      "text": "Odeber asi čtvrtinu omáčky, rozmíchej v ní zakysanou smetanu dohladka a vrať zpět do zbytku omáčky. Dobře promíchej.",
+      "minutes": 3
+    },
+    {
+      "text": "Kuličky vlož do omáčky v hrnci, přikryj a na velmi mírném ohni, ne do varu, duš 15 minut.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Konvekční trouba nahrazena opékáním na nepřilnavé pánvi bez tuku; kuličky z 90% libového masa nepřilnou. Dokončení dušením v omáčce v hrnci. Zakysanou smetanu do omáčky nevař, jinak se srazí. Sušené mléko + voda sloučeno do mléka 40 ml (původní sušené mléko 3 g v original). Mražená vejce 8-5/8 oz přepočtena na 0,2 ks (původní 10 g v original). Instantní vývar podle obalu nahrazen hovězím vývarem 210 ml. Porce karty 3½ oz (asi 99 g) odpovídá jen 3 kuličkám bez omáčky: 300 kuliček po 1⅓ oz je 400 oz syrové směsi, tedy 3 kuličky ≈ 4 oz syrové, ≈ 3½ oz upečené. Omáčka (vývar, mouka, houby, smetana, asi 100 g na porci) je navíc, proto je celková porce kolem 220 g a bilance 222 g vs. 99 g sedí; kcal karty (268) odpovídají celku (přepočet 261). Podávej 3 kuličky s omáčkou. Doba smažení a dušení ze zdroje.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 730,
+    "code": "L 027 00",
+    "titleOriginal": "BEEF BALLS STROGANOFF"
+  },
+  "verified": true
+}

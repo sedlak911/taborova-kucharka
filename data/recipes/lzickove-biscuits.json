@@ -1,0 +1,92 @@
+{
+  "id": "lzickove-biscuits",
+  "title": "Lžičkové biscuits (bez vykrajování)",
+  "titleOriginal": "Drop Biscuits",
+  "chapter": "snidane-a-pecivo",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 30,
+  "difficulty": 1,
+  "tags": [
+    "levne",
+    "bez-masa",
+    "rychle"
+  ],
+  "equipment": [
+    "trouba"
+  ],
+  "allergens": [
+    "lepek",
+    "mleko"
+  ],
+  "ingredients": [
+    {
+      "ingredientId": "hladka-mouka",
+      "amount": 120,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "prasek-do-peciva",
+      "amount": 7,
+      "unit": "g",
+      "scaling": "linear"
+    },
+    {
+      "ingredientId": "sul",
+      "amount": 3,
+      "unit": "g"
+    },
+    {
+      "ingredientId": "maslo",
+      "amount": 14,
+      "unit": "g",
+      "note": "studené, nakrájené na kostičky",
+      "scaling": "linear",
+      "original": {
+        "ingredientId": "ztuzeny-tuk",
+        "amount": 14,
+        "unit": "g"
+      }
+    },
+    {
+      "ingredientId": "mleko-polotucne",
+      "amount": 90,
+      "unit": "ml",
+      "note": "sušené mléko 3⅝ oz + voda 4⅞ lb z karty sloučeno do mléka (součet objemů)",
+      "original": {
+        "ingredientId": "mleko-susene",
+        "amount": 4,
+        "unit": "g"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "text": "Prosej do mísy mouku, prášek do pečiva a sůl."
+    },
+    {
+      "text": "Na nízké rychlosti vmíchej máslo do suchých surovin, dokud směs nepřipomíná hrubou kukuřičnou mouku.",
+      "minutes": 3
+    },
+    {
+      "text": "Přidej mléko a mísi na nízké rychlosti jen tak dlouho, až vznikne měkké, řidší těsto.",
+      "minutes": 2
+    },
+    {
+      "text": "Lžící (velkou polévkovou) klaď těsto po hromádkách na plech asi 2,5 cm od sebe.",
+      "minutes": 5
+    },
+    {
+      "text": "Troubu předehřej na 175 °C s horkým vzduchem a peč na nízké otáčky ventilátoru 15 minut, dokud nejsou lehce zlatavé.",
+      "minutes": 15
+    }
+  ],
+  "modernNote": "Přepočet z AFRS: 100 porcí = 100 biskvitů, porce 1 biskvit. Těsto je stejné jako u Máslových housek (D 001 00), ale AFRS používá o 1 lb vody víc (4⅞ lb místo 3⅞ lb), takže je řidší a klade se lžící místo vykrajování. Sušené mléko (3⅝ oz) a voda (4⅞ lb) z karty jsou sloučeny do jednoho řádku polotučného mléka 90 ml (součet objemů; karta je ředí asi 1 : 21, takže je to o něco bohatší než originál); sušené mléko 4 g je v original. Ztužený rostlinný tuk je nahrazen máslem. Sprej na plech (cooking spray) je vynechán; plech lehce vymaž olejem nebo ho vylož papírem na pečení. Lze péct i v holandské troubě (vymazaná nádoba s víkem, žár shora i zdola). Pro zlatější vrch podle Notes přidej na 4 porce asi 4 g cukru k suchým surovinám.",
+  "source": {
+    "book": "afrs-2003",
+    "page": 126,
+    "code": "D 001 03",
+    "titleOriginal": "DROP BISCUITS"
+  },
+  "verified": true
+}

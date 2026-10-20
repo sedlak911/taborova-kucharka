@@ -1,0 +1,34 @@
+{
+  "id": "salat-ze-tri-druhu-fazoli",
+  "title": "Salát ze tří druhů fazolí",
+  "titleOriginal": "Three Bean Salad",
+  "chapter": "prilohy-a-zelenina",
+  "baseServings": 4,
+  "originalYield": 100,
+  "timeMinutes": 15,
+  "difficulty": 1,
+  "tags": ["levne", "bez-masa", "pripravit-predem"],
+  "equipment": ["lednice"],
+  "allergens": [],
+  "ingredients": [
+    { "ingredientId": "fazole-cervene-v-konzerve", "amount": 85, "unit": "g", "note": "ledvinkové, scezené" },
+    { "ingredientId": "zelene-fazolky-v-konzerve", "amount": 130, "unit": "g", "note": "scezené; ve zdroji žluté (wax) 65 g + zelené 65 g, žluté v katalogu nejsou" },
+    { "ingredientId": "cibule", "amount": 18, "unit": "g", "note": "nakrájená" },
+    { "ingredientId": "cukr-krystal", "amount": 35, "unit": "g" },
+    { "ingredientId": "ocet", "amount": 55, "unit": "g", "note": "kvasný lihový" },
+    { "ingredientId": "repkovy-olej", "amount": 25, "unit": "g", "note": "salátový olej; nevaří se, neztrácí se, proto lineárně", "scaling": "linear" },
+    { "ingredientId": "sul", "amount": 3, "unit": "g" },
+    { "ingredientId": "cerny-pepr-mlety", "amount": 0.23, "unit": "g" }
+  ],
+  "steps": [
+    { "text": "Všechny fazole dobře scedí. Ledvinkové fazole opláchni studenou vodou a znovu scedí.", "minutes": 5 },
+    { "text": "Fazole a cibuli smíchej v míse.", "minutes": 2 },
+    { "text": "V jiné míse našlehej cukr, ocet, olej, sůl a pepř.", "minutes": 3 },
+    { "text": "Zálivku přidej k fazolím a dobře promíchej.", "minutes": 2 },
+    { "text": "Zakryj a nech v lednici alespoň 6 hodin, až chutě dobře splynou. Do podávání chlaď." }
+  ],
+  "modernNote": "Karta chce salát chladit alespoň 6 hodin, proto tag pripravit-predem, vybavení lednice a bez tagu tabor. Ve zdroji jsou žluté (wax) i zelené fazolky z konzervy; žluté v katalogu nejsou, proto je 130 g zelených z konzervy (65 g + 65 g ze zdroje). Pokyn CCP (držet pod 5 °C) vynechán. Olej je lineární (ne třída fat): salát se nevaří, takže se olej nevsakuje a poměr k fazolím má sedět podle karty (680 g oleje na 100 porcí); fat třída dala 40 g a kcal +32 % oproti kartě.",
+  "source": { "book": "afrs-2003", "page": 1172, "code": "M 045 00", "titleOriginal": "THREE BEAN SALAD" },
+  "verified": true,
+  "quote": "Cover; refrigerate at least 6 hours until flavors are well blended."
+}
